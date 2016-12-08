@@ -148,12 +148,12 @@ export default function (map, url) {
           lat: point.lat,
           lng: point.lng,
           votes: {
-            usr: point.usr,
-            psd: point.psd,
-            pnl: point.pnl,
-            pmp: point.pmp,
-            udmr: point.udmr,
-            alde: point.alde
+            usr: parseInt(point.usr),
+            psd: parseInt(point.psd),
+            pnl: parseInt(point.pnl),
+            pmp: parseInt(point.pmp),
+            udmr: parseInt(point.udmr),
+            alde: parseInt(point.alde)
           }
         };
 

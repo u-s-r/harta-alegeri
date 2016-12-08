@@ -1,5 +1,6 @@
 import d3 from 'd3';
 import { partyColors, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
+import { maxBy } from 'lodash';
 
 export const clearDetails = () => {
   d3.select('.info-content').remove();
@@ -54,7 +55,7 @@ export const drawDetails = points => {
 
 	let h = 200;
 	let barPadding = 5;
-  let size = 4;
+  let size;
 
   let dataPointCount;
   let barChart = detailsBoxSelection.append('svg')
@@ -81,13 +82,16 @@ export const drawDetails = points => {
           100 * d.votes[party] / sum
         ]);
       });
+      // Formula to determine max size.
+      size = 100 / parseInt(maxBy(chartVoteData, o => o[1])[2]);
+
       dataPointCount = chartVoteData.length;
       return chartVoteData;
     })
     .enter()
     .append('g');
 
-  let calcBarHeigh = (percentage) => Math.round(h * percentage / 100 * size);
+  let calcBarHeigh = (percentage) => Math.round(size * h * percentage / 100);
 
 	barChart.selectAll('g')
 	   .append('rect')
