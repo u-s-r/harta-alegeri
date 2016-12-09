@@ -1,5 +1,5 @@
 import d3 from 'd3';
-import { partyColors, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
+import { toTitleCase, counties, partyColors, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
 import { maxBy } from 'lodash';
 
 export const clearDetails = () => {
@@ -63,6 +63,7 @@ export const drawDetails = points => {
     .attr('height', h);
 
   let w = detailsBoxSelection.node().getBoundingClientRect().width;
+  let winner;
 
   barChart.selectAll('g')
     .data(d => {
@@ -83,7 +84,8 @@ export const drawDetails = points => {
         ]);
       });
       // Formula to determine max size.
-      size = 100 / parseInt(maxBy(chartVoteData, o => o[1])[2]);
+      winner = maxBy(chartVoteData, o => o[1]);
+      size = 100 / winner[2];
 
       dataPointCount = chartVoteData.length;
       return chartVoteData;
@@ -99,11 +101,13 @@ export const drawDetails = points => {
   	   .attr('y', d => h - (h * d[2] / 100 * size))
   	   .attr('width', w / dataPointCount - barPadding)
   	   .attr('height', d => calcBarHeigh(d[2]))
-       .style('fill', d => partyColors[d[0]]);
+       .style('fill', d => partyColors[d[0]])
+       .attr('class', d => (d[0] == winner[0] ? 'leader' : ''));
 
 	barChart.selectAll('g')
 	   .append('text')
 	   .text(function(d) {
+       let qualifier = d[0] == winner[0] ? ' &#10112;' : '';
 	   		return `${d[0]}`;
 	   })
 	   .attr('text-anchor', 'middle')
@@ -161,6 +165,8 @@ export const drawDetails = points => {
 }
 
 export const drawCities = (cities, county = 'Cluj') => {
+  d3.select('.city-navigator-box').classed('dn', false);
+  d3.select('.cities').selectAll('optgroup').remove();
   let citiesDropdownSelection = d3.select('.cities')
     .append('optgroup')
     .attr('label', county)
@@ -172,4 +178,15 @@ export const drawCities = (cities, county = 'Cluj') => {
     .append('option')
       .attr('value', d => d.city)
       .text(d => d.city);
+}
+
+export const drawCounties = () => {
+  let countyNames = Object.keys(counties).map(toTitleCase).sort();
+  let citiesDropdownSelection = d3.select('.counties')
+    .selectAll('option')
+      .data(countyNames)
+      .enter()
+        .append('option')
+        .attr('value', d => d)
+        .text(d => d);
 }

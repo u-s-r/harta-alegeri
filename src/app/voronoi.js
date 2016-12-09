@@ -125,7 +125,7 @@ export default function (map, url) {
   let pointsAtCoord = d3.map(),
     points = [],
     cities = [],
-    $citiesSelect = $('.cities');
+    $countiesSelect = $('.counties');
 
   const drawWithLoader = (points, pointsAtCoord, visibleCities) => {
     Loader.show();
@@ -136,86 +136,101 @@ export default function (map, url) {
   }
 
   map.on('ready', () => {
-    d3.csv(url, (points) => {
-      // Get the IDs for each location
-      points = points.map((point) => {
-        // Change the structure of the point
-        point = {
-          id: point.id,
-          name: point.name,
-          address: point.address,
-          city: point.city,
-          lat: point.lat,
-          lng: point.lng,
-          votes: {
-            usr: parseInt(point.usr),
-            psd: parseInt(point.psd),
-            pnl: parseInt(point.pnl),
-            pmp: parseInt(point.pmp),
-            udmr: parseInt(point.udmr),
-            alde: parseInt(point.alde)
+    const getCityCsv = (url, county) => {
+      let $citiesSelect = $('.cities');
+      d3.csv(url, (points) => {
+        // Get the IDs for each location
+        points = points.map((point) => {
+          // Change the structure of the point
+          point = {
+            id: point.id,
+            name: point.name,
+            address: point.address,
+            city: point.city,
+            lat: point.lat,
+            lng: point.lng,
+            votes: {
+              usr: parseInt(point.usr),
+              psd: parseInt(point.psd),
+              pnl: parseInt(point.pnl),
+              pmp: parseInt(point.pmp),
+              udmr: parseInt(point.udmr),
+              alde: parseInt(point.alde)
+            }
+          };
+
+          // Collect the city list
+          if (!cities.includes(point.city)) {
+            cities.push(point.city);
           }
-        };
 
-        // Collect the city list
-        if (!cities.includes(point.city)) {
-          cities.push(point.city);
-        }
+          // Save point at coord
+          const coord = getCoord(point);
+          const previousValue = pointsAtCoord.has(coord) ? pointsAtCoord.get(coord) : [];
+          pointsAtCoord.set(coord, previousValue.concat(point));
 
-        // Save point at coord
-        const coord = getCoord(point);
-        const previousValue = pointsAtCoord.has(coord) ? pointsAtCoord.get(coord) : [];
-        pointsAtCoord.set(coord, previousValue.concat(point));
-
-        return point;
-      });
-
-      cities = cities.map((city, id) => ({id, city}));
-      $citiesSelect.select2();
-      $citiesSelect.on('select2:select', (e) => {
-        let coord = find(points, {city: e.params.data.id});
-        map.setView([coord.lat, coord.lng], 14);
-      });
-
-      $citiesSelect.on('select2:unselect', (e) => {
-        let selectedCities = $citiesSelect.val();
-        if (!selectedCities.length)
-          return;
-        let coord = find(points, {city: selectedCities[selectedCities.length-1]});
-        map.setView([coord.lat, coord.lng], 14);
-      })
-      $citiesSelect.on('change', (e) => {
-        drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
-
-        let selectedCities = $citiesSelect.val();
-        let $navContainer = $(e.target).closest('.box').find('.city-navigator');
-        $navContainer.find('.city-link').remove();
-        $navContainer.find('.title').html();
-        if (!selectedCities.length) {
-          return;
-        }
-
-        selectedCities.forEach((city, i) => {
-          let coord = find(points, {city: city});
-          let $link = $(`<a href="#" class="city-link black dim ${!i ? 'ml1' : 'ml2'}">${city.split(' ').join("&nbsp;")}</a>`)
-          .click(e => {
-            e.preventDefault();
-            map.setView([coord.lat, coord.lng], 14);
-          });
-          $navContainer
-            .append($link)
-            .find('.title').html('Zoom la');
+          return point;
         });
 
+        cities = cities.map((city, id) => ({id, city}));
 
-      });
+        Boxes.drawCities(cities, county);
+        $citiesSelect.select2({ placeholder: "Alege Orașul" });
+        $citiesSelect.on('select2:select', (e) => {
+          let coord = find(points, {city: e.params.data.id});
+          map.setView([coord.lat, coord.lng], 14);
+        });
 
-      map.on('viewreset moveend', () => {
+        $citiesSelect.on('select2:unselect', (e) => {
+          let selectedCities = $citiesSelect.val();
+          if (!selectedCities.length)
+            return;
+          let coord = find(points, {city: selectedCities[selectedCities.length-1]});
+          map.setView([coord.lat, coord.lng], 14);
+        })
+        $citiesSelect.on('change', (e) => {
+          drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
+
+          let selectedCities = $citiesSelect.val();
+          let $navContainer = $(e.target).closest('.box').find('.city-navigator');
+          $navContainer.find('.city-link').remove();
+          $navContainer.find('.title').html();
+          if (!selectedCities.length) {
+            return;
+          }
+
+          selectedCities.forEach((city, i) => {
+            let coord = find(points, {city: city});
+            let $link = $(`<a href="#" class="city-link black dim ${!i ? 'ml1' : 'ml2'}">${city.split(' ').join("&nbsp;")}</a>`)
+            .click(e => {
+              e.preventDefault();
+              map.setView([coord.lat, coord.lng], 14);
+            });
+            $navContainer
+              .append($link)
+              .find('.title').html('Zoom la');
+          });
+
+
+        });
+
+        map.on('viewreset moveend', () => {
+          drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
+          Boxes.clearDetails();
+        });
         drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
-        Boxes.clearDetails();
       });
-      drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
-      Boxes.drawCities(cities);
+    };
+
+    Boxes.drawCounties();
+    $countiesSelect.select2({
+      placeholder: "Alege Județul",
+      allowClear: true
+    });
+    $countiesSelect.on('select2:select', (e) => {
+      console.log(`${e.params.data.id}.csv`);
+      getCityCsv(`${e.params.data.id}.csv`.toLowerCase(), e.params.data.id)
+      //map.setView([coord.lat, coord.lng], 14);
     });
   });
 }

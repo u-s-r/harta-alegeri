@@ -33,9 +33,11 @@
     "geocoder": "^0.2.2",
     "json2csv": "^3.7.2",
     "node-promise": "^0.5.12",
+    "node-xlsx": "^0.7.4",
     "webpack": "~1.13.*",
     "webpack-dev-server": "~1.16.*",
-    "webpack-stream": "^3.2.0"
+    "webpack-stream": "^3.2.0",
+    "xlsx": "^0.8.0"
   },
   "dependencies": {
     "choices.js": "^2.5.1",
