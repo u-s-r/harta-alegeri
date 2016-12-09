@@ -19,7 +19,6 @@ var config = {
   output: {
     path: dest,
     filename: 'bundle.js'
-
   },
 
   module: {

@@ -1,7 +1,7 @@
 import d3 from 'd3';
 import { maxBy, find } from 'lodash';
 
-import { getWinnerColor, getCoord } from './helpers';
+import { getWinnerColor, getCoord, counties } from './helpers';
 import * as Boxes from './boxes';
 import * as Loader from './loader';
 
@@ -124,21 +124,24 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
 export default function (map, url) {
   let pointsAtCoord = d3.map(),
     points = [],
-    cities = [],
-    $countiesSelect = $('.counties');
+    $countiesSelect = $('.counties'),
+  $reloadButton = $('#reload'),
+  $citiesSelect = $('.cities');
 
   const drawWithLoader = (points, pointsAtCoord, visibleCities) => {
     Loader.show();
     setTimeout(() => {
       drawVoronoiOverlay(map, points, pointsAtCoord, visibleCities);
       Loader.hide();
+
     }, 0);
   }
 
   map.on('ready', () => {
-    const getCityCsv = (url, county) => {
-      let $citiesSelect = $('.cities');
+    const getCityCsv = (url, county, callback) => {
       d3.csv(url, (points) => {
+    let cities = [];
+
         // Get the IDs for each location
         points = points.map((point) => {
           // Change the structure of the point
@@ -166,8 +169,7 @@ export default function (map, url) {
 
           // Save point at coord
           const coord = getCoord(point);
-          const previousValue = pointsAtCoord.has(coord) ? pointsAtCoord.get(coord) : [];
-          pointsAtCoord.set(coord, previousValue.concat(point));
+          pointsAtCoord.set(coord, [point]);
 
           return point;
         });
@@ -210,8 +212,6 @@ export default function (map, url) {
               .append($link)
               .find('.title').html('Zoom la');
           });
-
-
         });
 
         map.on('viewreset moveend', () => {
@@ -219,6 +219,7 @@ export default function (map, url) {
           Boxes.clearDetails();
         });
         drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
+        if (callback) callback();
       });
     };
 
@@ -227,10 +228,20 @@ export default function (map, url) {
       placeholder: "Alege Județul",
       allowClear: true
     });
-    $countiesSelect.on('select2:select', (e) => {
-      console.log(`${e.params.data.id}.csv`);
-      getCityCsv(`${e.params.data.id}.csv`.toLowerCase(), e.params.data.id)
+    $countiesSelect.on('change', (e) => {
+      console.log(`${e.target.value}.csv`);
+      getCityCsv(`sectii.csv`.toLowerCase(), e.target.value)
       //map.setView([coord.lat, coord.lng], 14);
+    });
+    $countiesSelect.val('Cluj').trigger('change'); // set the default to Cluj for now
+  
+    $reloadButton.on('click', () => {
+      let selectedCity = $citiesSelect.val()[0];
+      getCityCsv(`sectii.csv`.toLowerCase(), 'Cluj', () => {
+        if (selectedCity) {
+          $citiesSelect.val(selectedCity).trigger('change');
+        }
+      });
     });
   });
 }
