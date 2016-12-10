@@ -40,6 +40,7 @@
     "xlsx": "^0.8.0"
   },
   "dependencies": {
+    "chart.js": "^2.4.0",
     "choices.js": "^2.5.1",
     "d3": "^3.5.17",
     "es6-promise": "^3.2.1",
