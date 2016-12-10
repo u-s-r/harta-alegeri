@@ -58,8 +58,6 @@ export const drawDetails = points => {
     .append('div').attr('class', 'chart-container').text('Camera Deputatilor')
     .append('canvas')
       .attr('id', 'deputati_chart');
-	  
-	  console.log(pointsByAddress)
 
   let ctxd = document.getElementById("deputati_chart");
   let deputatiData = {

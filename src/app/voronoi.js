@@ -125,15 +125,14 @@ export default function (map, url) {
   let pointsAtCoord = d3.map(),
     points = [],
     $countiesSelect = $('.counties'),
-  $reloadButton = $('#reload'),
-  $citiesSelect = $('.cities');
+    $reloadButton = $('#reload'),
+    $citiesSelect = $('.cities');
 
   const drawWithLoader = (points, pointsAtCoord, visibleCities) => {
     Loader.show();
     setTimeout(() => {
       drawVoronoiOverlay(map, points, pointsAtCoord, visibleCities);
       Loader.hide();
-
     }, 0);
   }
 
@@ -180,8 +179,8 @@ export default function (map, url) {
 
           // Save point at coord
           const coord = getCoord(point);
-          pointsAtCoord.set(coord, [point]);
-
+          let existingPoints = pointsAtCoord.get(coord) || [];
+          pointsAtCoord.set(coord, existingPoints.concat(point));
           return point;
         });
 

@@ -35,29 +35,55 @@ export const partyColors = {
   pnl: '#e6c835',
   udmr: '#63ab26',
   alde: '#095685',
-  pmp: '#e7981c'
+  pmp: '#e7981c',
+  pru: '#f0f0f0',
+  altele: '#363636'
 };
+
+export const parties = ['psd', 'usr', 'pnl', 'udmr', 'alde', 'pmp', 'pru', 'altele'];
 
 // Calculates the total number of votes / party from a number of points
 // TODO: Memoize
 export const calculatePointsVotes = function (points) {
-  let partyVotes = {...partyColors};
-  Object.keys(partyVotes).map(key => {
-    partyVotes[key] = 0;
+  let cdepPartyVotes = {}, senatPartyVotes = {};
+  parties.map(key => {
+    cdepPartyVotes[key] = 0;
+	senatPartyVotes[key] = 0;
+  });
+  
+  points.forEach(function(point){
+	  parties.forEach(function(partyName){
+		cdepPartyVotes[partyName] += point.votes.cdep[partyName] ? parseInt(point.votes.cdep[partyName]) : 0;  
+		senatPartyVotes[partyName] += point.votes.senat[partyName] ? parseInt(point.votes.senat[partyName]) : 0; 
+	  });
   });
 
-  return points.reduce((votesArray, point, i) => {
-    Object.keys(votesArray).map(party => {
-      votesArray[party] += point.votes[party] ? parseInt(point.votes[party]) : 0;
-    });
-    return votesArray;
-  }, partyVotes);
+	return {
+		cdep: cdepPartyVotes,
+		senat: senatPartyVotes
+	};
+
+  // return points.reduce((votesArray, point, i) => {
+  //   Object.keys(votesArray).map(party => {
+  //     votesArray[party] += point.votes[party] ? parseInt(point.votes[party]) : 0;
+  //   });
+  //   return votesArray;
+  // }, partyVotes);
 }
 
 // Returns the winner party key
 export const getWinner = (points) => {
   let votes = calculatePointsVotes(points);
-  let winner = maxBy(Object.keys(votes), o => votes[o]);
+  let totalVotesByParty = {};
+  parties.map(key => { totalVotesByParty[key] = 0; });
+  Object.keys(votes.cdep).forEach(function(partyName){
+	  totalVotesByParty[partyName] += votes.cdep[partyName];
+  });
+  Object.keys(votes.senat).forEach(function(partyName){
+	  totalVotesByParty[partyName] += votes.senat[partyName];
+  });
+
+  let winner = maxBy(Object.keys(votes.cdep), o => totalVotesByParty[o]);
   return winner;
 }
 
