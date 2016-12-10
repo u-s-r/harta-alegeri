@@ -138,9 +138,10 @@ export default function (map, url) {
   }
 
   map.on('ready', () => {
-    const getCityCsv = (url, county, callback) => {
-      d3.csv(url, (points) => {
-    let cities = [];
+    const getCityJson = (url, county, callback) => {
+      d3.json(url, (response) => {
+        let cities = [];
+		let points = response.data;
 
         // Get the IDs for each location
         points = points.map((point) => {
@@ -153,12 +154,22 @@ export default function (map, url) {
             lat: point.lat,
             lng: point.lng,
             votes: {
-              usr: parseInt(point.usr),
-              psd: parseInt(point.psd),
-              pnl: parseInt(point.pnl),
-              pmp: parseInt(point.pmp),
-              udmr: parseInt(point.udmr),
-              alde: parseInt(point.alde)
+                cdep: {
+                    usr: parseInt(point.usr_cdep),
+                    psd: parseInt(point.psd_cdep),
+                    pnl: parseInt(point.pnl_cdep),
+                    pmp: parseInt(point.pmp_cdep),
+                    udmr: parseInt(point.udmr_cdep),
+                    alde: parseInt(point.alde_cdep)
+                },
+                senat: {
+                    usr: parseInt(point.usr_senat),
+                    psd: parseInt(point.psd_senat),
+                    pnl: parseInt(point.pnl_senat),
+                    pmp: parseInt(point.pmp_senat),
+                    udmr: parseInt(point.udmr_senat),
+                    alde: parseInt(point.alde_senat)
+                }
             }
           };
 
@@ -229,15 +240,14 @@ export default function (map, url) {
       allowClear: true
     });
     $countiesSelect.on('change', (e) => {
-      console.log(`${e.target.value}.csv`);
-      getCityCsv(`sectii.csv`.toLowerCase(), e.target.value)
+      getCityJson(`data.json`, e.target.value)
       //map.setView([coord.lat, coord.lng], 14);
     });
     $countiesSelect.val('Cluj').trigger('change'); // set the default to Cluj for now
   
     $reloadButton.on('click', () => {
       let selectedCity = $citiesSelect.val()[0];
-      getCityCsv(`sectii.csv`.toLowerCase(), 'Cluj', () => {
+      getCityJson(`data.json`, 'Cluj', () => {
         if (selectedCity) {
           $citiesSelect.val(selectedCity).trigger('change');
         }

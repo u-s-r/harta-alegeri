@@ -55,9 +55,11 @@ export const drawDetails = points => {
       .text('Rezultate');
 
   detailsBoxSelection
-  	.append('div').attr('class', 'chart-container').text('Camera Deputatilor')
+    .append('div').attr('class', 'chart-container').text('Camera Deputatilor')
     .append('canvas')
       .attr('id', 'deputati_chart');
+	  
+	  console.log(pointsByAddress)
 
   let ctxd = document.getElementById("deputati_chart");
   let deputatiData = {
@@ -75,47 +77,47 @@ export const drawDetails = points => {
                   "#FFCE56"
               ],
           }
-	  ]
+    ]
   };
   let deputatiChart = new Chart(ctxd, {
-	  type: 'pie',
-	  data: deputatiData,
-	  options: {}
+    type: 'pie',
+    data: deputatiData,
+    options: {}
   });
 
   detailsBoxSelection
     .append('div').attr('class', 'chart-container').text('Camera Senatorilor')
     .append('canvas')
-  	.attr('id', 'senatori_chart');
+    .attr('id', 'senatori_chart');
 
   let ctxs = document.getElementById("senatori_chart");
   let senatoriData = {
-  	labels: [
-  		"Red",
-  		"Blue",
-  		"Yellow"
-  	],
-  	datasets: [
-  		{
-  			data: [300, 500, 100],
-  			backgroundColor: [
-  				"#FF6384",
-  				"#36A2EB",
-  				"#FFCE56"
-  			],
-  		}
-  	]
+    labels: [
+      "Red",
+      "Blue",
+      "Yellow"
+    ],
+    datasets: [
+      {
+        data: [300, 500, 100],
+        backgroundColor: [
+          "#FF6384",
+          "#36A2EB",
+          "#FFCE56"
+        ],
+      }
+    ]
   };
   let senatoriChart = new Chart(ctxs, {
-  	type: 'pie',
-  	data: senatoriData,
-  	options: {}
+    type: 'pie',
+    data: senatoriData,
+    options: {}
   });
   
 
   // et h = 200;
   // et barPadding = 5;
-  // 	let size;
+  //   let size;
   // 
   // let dataPointCount;
   // let barChart = detailsBoxSelection.append('svg')
@@ -157,10 +159,10 @@ export const drawDetails = points => {
   // 
   // arChart.selectAll('g')
   //   .append('rect')
-  // 	   .attr('x', (d, i) => i * (w / dataPointCount))
-  // 	   .attr('y', d => h - (h * d[2] / 100 * size))
-  // 	   .attr('width', w / dataPointCount - barPadding)
-  // 	   .attr('height', d => calcBarHeigh(d[2]))
+  //      .attr('x', (d, i) => i * (w / dataPointCount))
+  //      .attr('y', d => h - (h * d[2] / 100 * size))
+  //      .attr('width', w / dataPointCount - barPadding)
+  //      .attr('height', d => calcBarHeigh(d[2]))
   //      .style('fill', d => partyColors[d[0]])
   //      .attr('class', d => (d[0] == winner[0] ? 'leader' : ''));
   // 
@@ -168,11 +170,11 @@ export const drawDetails = points => {
   //   .append('text')
   //   .text(function(d) {
   //      let qualifier = d[0] == winner[0] ? ' &#10112;' : '';
-  //   		return `${d[0]}`;
+  //       return `${d[0]}`;
   //   })
   //   .attr('text-anchor', 'middle')
   //   .attr('x', function(d, i) {
-  //   		return i * (w / dataPointCount) + (w / dataPointCount - barPadding) / 2;
+  //       return i * (w / dataPointCount) + (w / dataPointCount - barPadding) / 2;
   //   })
   //   .attr('y', d => h - 22)
   //    .attr('class', 'b f6 ttu')
@@ -181,11 +183,11 @@ export const drawDetails = points => {
   // arChart.selectAll('g')
   //   .append('text')
   //   .text(function(d) {
-  //   		return `${Math.round(d[2] * 100) / 100}%`;
+  //       return `${Math.round(d[2] * 100) / 100}%`;
   //   })
   //   .attr('text-anchor', 'middle')
   //   .attr('x', function(d, i) {
-  //   		return i * (w / dataPointCount) + (w / dataPointCount - barPadding) / 2;
+  //       return i * (w / dataPointCount) + (w / dataPointCount - barPadding) / 2;
   //   })
   //   .attr('y', d => h - 7)
   //    .attr('class', 'f6')
