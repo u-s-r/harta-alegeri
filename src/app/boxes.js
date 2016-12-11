@@ -34,13 +34,13 @@ export const drawResults = (containerSelection) => {
 
 
   let legenda = containerSelection.append('div')
-    .attr('class', 'f5 mb2')
-    .text('Legendă:')
+    .attr('class', 'f5 cf')
+    .html('<div class="fl">Legendă:</div>')
     .selectAll('span')
     .data(Object.keys(partyColors))
     .enter()
     .append('span')
-    .attr('class', d => d == 'none' ? 'dn' : `f5 ph1 ${d == 'altele' ? 'black' : 'white'} ml1`)
+    .attr('class', d => d == 'none' ? 'dn' : `f5 mb2 fl ph1 ${d == 'altele' ? 'black' : 'white'} ml1`)
     .attr('style', d => `background-color: ${partyColors[d]}`)
     .text(d => d.toUpperCase())
 
