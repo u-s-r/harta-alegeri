@@ -1,7 +1,7 @@
 import d3 from 'd3';
 import { maxBy, find } from 'lodash';
 
-import { getWinnerColor, getCoord, counties, sum, getPointsByCity } from './helpers';
+import { partyColors, getWinnerColor, getCoord, counties, sum, getPointsByCity } from './helpers';
 import * as Boxes from './boxes';
 import * as Loader from './loader';
 import {filter, reduce} from 'lodash';
@@ -104,9 +104,10 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
     // .attr("clip-path", (d, i) => `url(#clip-${i})`)
     .attr('cx', d => d.point.x)
     .attr('cy', d => d.point.y)
-    .style('fill', d => {
-      return getWinnerColor(pointsAtCoord.get(getCoord(d.point)));
+    .attr('class', d => {
+      return getWinnerColor(pointsAtCoord.get(getCoord(d.point))) == partyColors['none'] ? 'none' : ''
     })
+    .style('fill', d => getWinnerColor(pointsAtCoord.get(getCoord(d.point))))
     .style('stroke', d => getWinnerColor(pointsAtCoord.get(getCoord(d.point))))
     .attr("r", d => {
       //console.log()
@@ -195,48 +196,49 @@ export default function (map, url) {
       return point;
     });
 
+    Boxes.drawCountyResults(points, 'județul Cluj');
 
-        cities = cities.map((city, id) => ({id, city}));
+    cities = cities.map((city, id) => ({id, city}));
 
-        Boxes.drawCities(cities, county);
-        $citiesSelect.select2({
-          placeholder: "Alege Localitatea",
-        });
-        $citiesSelect.on('select2:select', (e) => {
-          let coord = find(points, {city: e.params.data.id});
+    Boxes.drawCities(cities, county);
+    $citiesSelect.select2({
+      placeholder: "Alege Localitatea",
+    });
+    $citiesSelect.on('select2:select', (e) => {
+      let coord = find(points, {city: e.params.data.id});
+      map.setView([coord.lat, coord.lng], 14);
+    });
+
+    $citiesSelect.on('select2:unselect', (e) => {
+      let selectedCity = $citiesSelect.val();
+      let coord = find(points, {city: selectedCity});
+      map.setView([coord.lat, coord.lng], 14);
+    })
+    $citiesSelect.on('change', (e) => {
+      drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
+
+      let selectedCity = $citiesSelect.val();
+      let $navContainer = $(e.target).closest('.box').find('.city-navigator');
+      $navContainer.find('.city-link').remove();
+      $navContainer.find('.title').html();
+      if (!selectedCity.length) {
+        return;
+      }
+
+        let coord = find(points, {city: selectedCity});
+        let $link = $(`<a href="#" class="city-link black dim ml1" data="${selectedCity}">${selectedCity.split(' ').join("&nbsp;")}</a>`)
+        .click(function(e) {
+          e.preventDefault();
           map.setView([coord.lat, coord.lng], 14);
+          let city = $(e.target).attr('data');
+          Boxes.drawCityResults(points, city);
         });
+        $navContainer
+          .append($link)
+          .find('.title').html('Vezi rezultate pentru:');
 
-        $citiesSelect.on('select2:unselect', (e) => {
-          let selectedCity = $citiesSelect.val();
-          let coord = find(points, {city: selectedCity});
-          map.setView([coord.lat, coord.lng], 14);
-        })
-        $citiesSelect.on('change', (e) => {
-          drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
-
-          let selectedCity = $citiesSelect.val();
-          let $navContainer = $(e.target).closest('.box').find('.city-navigator');
-          $navContainer.find('.city-link').remove();
-          $navContainer.find('.title').html();
-          if (!selectedCity.length) {
-            return;
-          }
-
-            let coord = find(points, {city: selectedCity});
-            let $link = $(`<a href="#" class="city-link black dim ml1" data="${selectedCity}">${selectedCity.split(' ').join("&nbsp;")}</a>`)
-            .click(function(e) {
-              e.preventDefault();
-              map.setView([coord.lat, coord.lng], 14);
-              let city = $(e.target).attr('data');
-              Boxes.drawCityResults(points, city);
-            });
-            $navContainer
-              .append($link)
-              .find('.title').html('Vezi rezultate pentru:');
-
-      // console.log(getPointsByCity(points));
-        });
+  // console.log(getPointsByCity(points));
+    });
 
     $citiesSelect.val('Cluj-Napoca').trigger('change');
     let Clujcoords = find(points, {city: 'Cluj-Napoca'});
@@ -244,6 +246,7 @@ export default function (map, url) {
         map.on('viewreset moveend', () => {
           drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
           Boxes.clearDetails();
+          Boxes.drawCountyResults(points, 'județul Cluj');
         });
         drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
         if (callback) callback();

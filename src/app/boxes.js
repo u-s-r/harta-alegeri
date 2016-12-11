@@ -1,7 +1,7 @@
 import d3 from 'd3';
 import Chart from 'chart.js';
 import { getPointsByCity, calculatePointsVotes, toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
-import { maxBy } from 'lodash';
+import { reduce, maxBy } from 'lodash';
 
 export const clearDetails = () => {
   d3.select('.info-content').remove();
@@ -31,7 +31,6 @@ export const getResultsBoxSelection = (data, title) => {
 export const drawResults = (containerSelection) => {
   d3.select('.results-box').classed('dn', false);
   d3.select('.results-box').classed('db', true);
-
 
   let legenda = containerSelection.append('div')
     .attr('class', 'f5 cf')
@@ -100,15 +99,6 @@ export const drawResults = (containerSelection) => {
       options: {
         legend: {
           display: false,
-        },
-        animation: {
-          onAnimationComplete: function() {
-            this.showTooltip(this.segments, true);
-          },
-          titleFontSize: 14
-        },
-        tooltips: {
-          template: "<%= value %>",
         }
       }
     });
@@ -235,7 +225,42 @@ export const drawDetails = points => {
 
 export const drawCityResults = (points, city) => {
   points = getPointsByCity(points.filter(p => p.city == city));
-  drawResults(getResultsBoxSelection(points, `Rezultatele pentru ${city}`))
+  drawResults(getResultsBoxSelection(points, `Rezultatele pentru ${city}`));
+}
+
+export const drawCountyResults = (points, county) => {
+  const sum = function(a, b) {
+    a = isNaN(a) ? 0 : a;
+    b = isNaN(b) ? 0 : b;
+    return a + b
+  };
+  let isStationReported = point => (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0);
+
+  let pointsByCounty = points.reduce((total, point) => {
+    if (!total) {
+      return {
+        ...point,
+        reportedStations: isStationReported(point) ? 1 : 0,
+        ids: [point.id]
+      };
+    }
+
+    let votes = calculatePointsVotes([
+      total,
+      point
+    ]);
+
+    let reported = reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0 ? total.reportedStations + 1 : total.reportedStations;
+
+    return {
+      ...total,
+      votes,
+      reportedStations: reported,
+      ids: [...total.ids, point.id]
+    };
+  }, 0);
+
+  drawResults(getResultsBoxSelection([pointsByCounty], `Rezultatele pentru ${county}`));
 }
 
 export const drawCities = (cities, county = 'Cluj') => {
