@@ -90,7 +90,6 @@ export const getWinner = (points) => {
   let votes = calculatePointsVotes(points);
   let totalVotesByParty = {};
   let totalVotes = 0;
-  console.log(points);
   parties.map(key => { totalVotesByParty[key] = 0; });
 
   Object.keys(votes.cdep).forEach(function(partyName){
@@ -160,7 +159,7 @@ export const getPointsByCity = points => {
   let votes, reportedStations;
   points.forEach(point => {
     let existingIndex = findIndex(
-      pointsByAddress,
+      pointsByCity,
       addrPoint => addrPoint.city === point.city
     );
     if (existingIndex === -1) {

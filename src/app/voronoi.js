@@ -1,7 +1,7 @@
 import d3 from 'd3';
 import { maxBy, find } from 'lodash';
 
-import { getWinnerColor, getCoord, counties, sum } from './helpers';
+import { getWinnerColor, getCoord, counties, sum, getPointsByCity } from './helpers';
 import * as Boxes from './boxes';
 import * as Loader from './loader';
 import {filter, reduce} from 'lodash';
@@ -94,14 +94,14 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
     //.classed("selected", function(d) { return lastSelectedPoint == d} );
 
   // Append a clipPath for circles that are the edges of the polygon
-  svgPoints.append("clipPath")
-   .attr("id", (d, i) => `clip-${i}`)
-   .append("use")
-     .attr("xlink:href", (d, i) => `#cell-${i}`)
+  // svgPoints.append("clipPath")
+  //  .attr("id", (d, i) => `clip-${i}`)
+  //  .append("use")
+  //    .attr("xlink:href", (d, i) => `#cell-${i}`)
 
   // Append the circles
   svgPoints.append('circle')
-    .attr("clip-path", (d, i) => `url(#clip-${i})`)
+    // .attr("clip-path", (d, i) => `url(#clip-${i})`)
     .attr('cx', d => d.point.x)
     .attr('cy', d => d.point.y)
     .style('fill', d => {
@@ -197,7 +197,7 @@ export default function (map, url) {
         Boxes.drawCities(cities, county);
         $citiesSelect.select2({
 			placeholder: "Alege Localitatea",
-			maximumSelectionLength: 2
+			maximumSelectionLength: 1
 		 });
         $citiesSelect.on('select2:select', (e) => {
           let coord = find(points, {city: e.params.data.id});
@@ -205,26 +205,24 @@ export default function (map, url) {
         });
 
         $citiesSelect.on('select2:unselect', (e) => {
-          let selectedCities = $citiesSelect.val();
-          if (!selectedCities.length)
-            return;
-          let coord = find(points, {city: selectedCities[selectedCities.length-1]});
+          let selectedCity = $citiesSelect.val();
+          let coord = find(points, {city: selectedCity});
           map.setView([coord.lat, coord.lng], 14);
         })
         $citiesSelect.on('change', (e) => {
           drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
 
-          let selectedCities = $citiesSelect.val();
+          let selectedCity = $citiesSelect.val();
           let $navContainer = $(e.target).closest('.box').find('.city-navigator');
           $navContainer.find('.city-link').remove();
           $navContainer.find('.title').html();
-          if (!selectedCities.length) {
+          if (!selectedCity.length) {
             return;
           }
 
-          selectedCities.forEach((city, i) => {
-            let coord = find(points, {city: city});
-            let $link = $(`<a href="#" class="city-link black dim ${!i ? 'ml1' : 'ml2'}">${city.split(' ').join("&nbsp;")}</a>`)
+
+            let coord = find(points, {city: selectedCity});
+            let $link = $(`<a href="#" class="city-link black dim ml1">${selectedCity.split(' ').join("&nbsp;")}</a>`)
             .click(e => {
               e.preventDefault();
               map.setView([coord.lat, coord.lng], 14);
@@ -232,7 +230,8 @@ export default function (map, url) {
             $navContainer
               .append($link)
               .find('.title').html('Zoom la');
-          });
+
+		  console.log(getPointsByCity(points));
         });
 
         // pre-select all cities
