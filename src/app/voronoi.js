@@ -197,7 +197,6 @@ export default function (map, url) {
         Boxes.drawCities(cities, county);
         $citiesSelect.select2({
 			placeholder: "Alege Localitatea",
-			maximumSelectionLength: 1
 		 });
         $citiesSelect.on('select2:select', (e) => {
           let coord = find(points, {city: e.params.data.id});
