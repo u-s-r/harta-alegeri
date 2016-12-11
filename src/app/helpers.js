@@ -149,20 +149,22 @@ export const getPointsByAddress = points => {
   return pointsByAddress;
 }
 
-export const getPointsByCity = (points, city) => {
-  points = points.filter(p => p.city == city);
+export const getPointsByCity = (points) => {
   // Group points by city
   let pointsByCity = [];
   let votes, reportedStations;
+  let isStationReported = point => (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0);
   points.forEach(point => {
+
     let existingIndex = findIndex(
       pointsByCity,
       addrPoint => addrPoint.city === point.city
     );
-    
+
     if (existingIndex === -1) {
       pointsByCity.push({
         ...point,
+        reportedStations: isStationReported(point) ? 1 : 0,
         ids: [point.id]
       });
     } else {
@@ -171,15 +173,13 @@ export const getPointsByCity = (points, city) => {
         point
       ]);
 
-      reportedStations = calculateReportedPollingStations([
-        pointsByCity[existingIndex],
-        point
-      ]);
+      if (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0) {
+        pointsByCity[existingIndex].reportedStations++;
+      }
 
       pointsByCity[existingIndex] = {
         ...pointsByCity[existingIndex],
         votes,
-        reportedStations,
         ids: [...pointsByCity[existingIndex].ids, point.id]
       };
     };
