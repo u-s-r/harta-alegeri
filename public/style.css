@@ -101,11 +101,6 @@ body {
   }
 }
 
-.chart-container {
-	display: inline-block;
-	width: 49%;
-}
-
 .top-50 {
   top: 50%;
 }
@@ -153,8 +148,4 @@ body {
     -webkit-transform: scale(1.0);
     transform: scale(1.0);
   }
-}
-
-.county-navigator-box {
-	display: none;
 }

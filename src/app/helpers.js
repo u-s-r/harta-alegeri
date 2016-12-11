@@ -78,11 +78,9 @@ export const calculatePointsVotes = function (points) {
 }
 
 export const calculateReportedPollingStations = points => {
-	if (isArray(points)) {
-		return points.filter(point => {
-			return reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0;
-		}).length;
-	}
+  return points.filter(point => {
+    return reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0;
+  }).length;
 }
 
 // Returns the winner party key
@@ -134,17 +132,15 @@ export const getPointsByAddress = points => {
         point
       ]);
 
-	  reportedStations = calculateReportedPollingStations([
+      reportedStations = calculateReportedPollingStations([
         pointsByAddress[existingIndex],
         point
-	]);
-
-	console.log(reportedStations);
+      ]);
 
       pointsByAddress[existingIndex] = {
         ...pointsByAddress[existingIndex],
         votes,
-		reportedStations,
+        reportedStations,
         ids: [...pointsByAddress[existingIndex].ids, point.id]
       };
     };
@@ -153,7 +149,8 @@ export const getPointsByAddress = points => {
   return pointsByAddress;
 }
 
-export const getPointsByCity = points => {
+export const getPointsByCity = (points, city) => {
+  points = points.filter(p => p.city == city);
   // Group points by city
   let pointsByCity = [];
   let votes, reportedStations;
@@ -162,6 +159,7 @@ export const getPointsByCity = points => {
       pointsByCity,
       addrPoint => addrPoint.city === point.city
     );
+    
     if (existingIndex === -1) {
       pointsByCity.push({
         ...point,
@@ -173,15 +171,15 @@ export const getPointsByCity = points => {
         point
       ]);
 
-	 reportedStations = calculateReportedPollingStations([
-		 pointsByCity[existingIndex],
-		 point
-	 ]);
+      reportedStations = calculateReportedPollingStations([
+        pointsByCity[existingIndex],
+        point
+      ]);
 
       pointsByCity[existingIndex] = {
         ...pointsByCity[existingIndex],
         votes,
-		reportedStations,
+        reportedStations,
         ids: [...pointsByCity[existingIndex].ids, point.id]
       };
     };

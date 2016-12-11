@@ -142,55 +142,55 @@ export default function (map, url) {
       d3.json(url, (response) => {
         let cities = [];
 		// console.log(response);
-		let points = filter(response, o => { return o.id != 'total';});
+		let points = filter(response, o => (o.id != 'total'));
 
-        // Get the IDs for each location
-        points = points.map((point) => {
-          // Change the structure of the point
-          point = {
-            id: point.id,
-            name: point.name,
-            address: point.address,
-            city: point.city,
-            lat: point.lat,
-            lng: point.lng,
-            votes: {
-                cdep: {
-                    usr: parseInt(point.usr_cdep),
-                    psd: parseInt(point.psd_cdep),
-                    pnl: parseInt(point.pnl_cdep),
-                    pmp: parseInt(point.pmp_cdep),
-                    udmr: parseInt(point.udmr_cdep),
-                    alde: parseInt(point.alde_cdep),
-					pru: parseInt(point.pru_cdep),
-					altele: parseInt(point.altele_cdep)
-                },
-                senat: {
-                    usr: parseInt(point.usr_senat),
-                    psd: parseInt(point.psd_senat),
-                    pnl: parseInt(point.pnl_senat),
-                    pmp: parseInt(point.pmp_senat),
-                    udmr: parseInt(point.udmr_senat),
-                    alde: parseInt(point.alde_senat),
-					pru: parseInt(point.pru_senat),
-					altele: parseInt(point.altele_senat)
-                }
-            },
-          };
-
-		  point.reportedStations = (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0)) > 0 ? 1 : 0
-
-          // Collect the city list
-          if (!cities.includes(point.city)) {
-            cities.push(point.city);
+    // Get the IDs for each location
+    points = points.map((point) => {
+      // Change the structure of the point
+      point = {
+        id: point.id,
+        name: point.name,
+        address: point.address,
+        city: point.city,
+        lat: point.lat,
+        lng: point.lng,
+        votes: {
+          cdep: {
+            usr: parseInt(point.usr_cdep),
+            psd: parseInt(point.psd_cdep),
+            pnl: parseInt(point.pnl_cdep),
+            pmp: parseInt(point.pmp_cdep),
+            udmr: parseInt(point.udmr_cdep),
+            alde: parseInt(point.alde_cdep),
+            pru: parseInt(point.pru_cdep),
+            altele: parseInt(point.altele_cdep)
+          },
+          senat: {
+            usr: parseInt(point.usr_senat),
+            psd: parseInt(point.psd_senat),
+            pnl: parseInt(point.pnl_senat),
+            pmp: parseInt(point.pmp_senat),
+            udmr: parseInt(point.udmr_senat),
+            alde: parseInt(point.alde_senat),
+            pru: parseInt(point.pru_senat),
+            altele: parseInt(point.altele_senat)
           }
+        },
+      };
 
-          // Save point at coord
-          const coord = getCoord(point);
-          let existingPoints = pointsAtCoord.get(coord) || [];
-          pointsAtCoord.set(coord, existingPoints.concat(point));
-          return point;
-        });
+      point.reportedStations = (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0)) > 0 ? 1 : 0
+
+      // Collect the city list
+      if (!cities.includes(point.city)) {
+        cities.push(point.city);
+      }
+
+      // Save point at coord
+      const coord = getCoord(point);
+      let existingPoints = pointsAtCoord.get(coord) || [];
+      pointsAtCoord.set(coord, existingPoints.concat(point));
+      return point;
+    });
 
         cities = cities.map((city, id) => ({id, city}));
 
@@ -221,16 +221,18 @@ export default function (map, url) {
 
 
             let coord = find(points, {city: selectedCity});
-            let $link = $(`<a href="#" class="city-link black dim ml1">${selectedCity.split(' ').join("&nbsp;")}</a>`)
+            let $link = $(`<a href="#" class="city-link black dim ml1" data="${selectedCity}">${selectedCity.split(' ').join("&nbsp;")}</a>`)
             .click(e => {
               e.preventDefault();
               map.setView([coord.lat, coord.lng], 14);
+              let city = $(e.target).attr('data');
+              Boxes.drawCityResults(points.filter(p => p.city == city), city);
             });
             $navContainer
               .append($link)
-              .find('.title').html('Zoom la');
+              .find('.title').html('Vezi rezultate pentru:');
 
-		  console.log(getPointsByCity(points));
+		  // console.log(getPointsByCity(points));
         });
 
         // pre-select all cities
