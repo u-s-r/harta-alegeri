@@ -1,6 +1,6 @@
 import d3 from 'd3';
 import Chart from 'chart.js';
-import { calculateReportedPollingStations, calculatePointsVotes, toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
+import { getPointsByCity, calculatePointsVotes, toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
 import { maxBy } from 'lodash';
 
 export const clearDetails = () => {
@@ -26,7 +26,7 @@ export const getResultsBoxSelection = (data, title) => {
   return resultsBoxSelection;
 }
 
-export const drawResults = (containerSelection, votes) => {
+export const drawResults = (containerSelection) => {
   d3.select('.results-box').classed('dn', false);
   d3.select('.results-box').classed('db', true);
   containerSelection
@@ -181,11 +181,8 @@ export const drawDetails = points => {
 }
 
 export const drawCityResults = (points, city) => {
-  points = getPointsByCity(points);
-  let votes = calculatePointsVotes(points);
-  let reportedStations = calculateReportedPollingStations(points);
-  console.log(reportedStations);
-  drawResults(getResultsBoxSelection([{votes}], `Rezultate pentru ${city}`), votes);
+  points = getPointsByCity(points.filter(p => p.city == city));
+  drawResults(getResultsBoxSelection(points, `Rezultatele pentru ${city}`))
 }
 
 export const drawCities = (cities, county = 'Cluj') => {

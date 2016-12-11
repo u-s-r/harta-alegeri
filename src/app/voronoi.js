@@ -192,6 +192,7 @@ export default function (map, url) {
       return point;
     });
 
+
         cities = cities.map((city, id) => ({id, city}));
 
         Boxes.drawCities(cities, county);
@@ -222,11 +223,11 @@ export default function (map, url) {
 
             let coord = find(points, {city: selectedCity});
             let $link = $(`<a href="#" class="city-link black dim ml1" data="${selectedCity}">${selectedCity.split(' ').join("&nbsp;")}</a>`)
-            .click(e => {
+            .click(function(e) {
               e.preventDefault();
               map.setView([coord.lat, coord.lng], 14);
               let city = $(e.target).attr('data');
-              Boxes.drawCityResults(points.filter(p => p.city == city), city);
+              Boxes.drawCityResults(points, city);
             });
             $navContainer
               .append($link)
