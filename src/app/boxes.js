@@ -1,6 +1,6 @@
 import d3 from 'd3';
 import Chart from 'chart.js';
-import { toTitleCase, counties, partyColors, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
+import { toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
 import { maxBy } from 'lodash';
 
 export const clearDetails = () => {
@@ -59,27 +59,28 @@ export const drawDetails = points => {
     .append('canvas')
       .attr('id', 'deputati_chart');
 
+  let cdepVotes = pointsByAddress[0].votes.cdep;
+  let senatVotes = pointsByAddress[0].votes.senat;
+  
+  let labels = parties, cdepValues = [], senatValues = [], colors = [];
+  parties.forEach((partyName) => {
+    cdepValues.push(cdepVotes[partyName]);
+    senatValues.push(senatVotes[partyName]);
+    colors.push(partyColors[partyName]);
+  })
+
   let ctxd = document.getElementById("deputati_chart");
-  let deputatiData = {
-      labels: [
-          "Red",
-          "Blue",
-          "Yellow"
-      ],
-      datasets: [
-          {
-              data: [300, 50, 100],
-              backgroundColor: [
-                  "#FF6384",
-                  "#36A2EB",
-                  "#FFCE56"
-              ],
-          }
-    ]
-  };
   let deputatiChart = new Chart(ctxd, {
     type: 'pie',
-    data: deputatiData,
+    data: {
+        labels: labels,
+        datasets: [
+            {
+                data: cdepValues,
+                backgroundColor: colors,
+            }
+      ]
+    },
     options: {}
   });
 
@@ -89,26 +90,17 @@ export const drawDetails = points => {
     .attr('id', 'senatori_chart');
 
   let ctxs = document.getElementById("senatori_chart");
-  let senatoriData = {
-    labels: [
-      "Red",
-      "Blue",
-      "Yellow"
-    ],
-    datasets: [
-      {
-        data: [300, 500, 100],
-        backgroundColor: [
-          "#FF6384",
-          "#36A2EB",
-          "#FFCE56"
-        ],
-      }
-    ]
-  };
   let senatoriChart = new Chart(ctxs, {
     type: 'pie',
-    data: senatoriData,
+    data: {
+        labels: labels,
+        datasets: [
+            {
+                data: senatValues,
+                backgroundColor: colors,
+            }
+      ]
+    },
     options: {}
   });
   
