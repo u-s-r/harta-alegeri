@@ -95,7 +95,7 @@ export const getWinner = (points) => {
 	  totalVotesByParty[partyName] += votes.cdep[partyName];
   });
   Object.keys(votes.senat).forEach(function(partyName){
-	  totalVotes += votes.cdep[partyName];
+	  totalVotes += votes.senat[partyName];
 	  totalVotesByParty[partyName] += votes.senat[partyName];
   });
 
