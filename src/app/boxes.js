@@ -1,5 +1,5 @@
 import d3 from 'd3';
-import { toTitleCase, counties, partyColors, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
+import { calculatePointsVotes, toTitleCase, counties, partyColors, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
 import { maxBy } from 'lodash';
 
 export const clearDetails = () => {
@@ -7,62 +7,19 @@ export const clearDetails = () => {
   d3.select('.info-container').classed('dn', true);
 }
 
-// pointInfo object contains info about that polling station (name, adress, etc.)
-// ids contains the ids of the pollings stations at that specific location
-export const drawDetails = points => {
-  clearDetails();
-
-  let pointsByAddress = getPointsByAddress(points);
-
-  let detailsBoxSelection = d3.select('.info-container')
-    .classed('dn', false)
-    .append('div')
-      .attr('class', 'info-content')
-    .selectAll('div')
-    .data(pointsByAddress)
-    .enter()
-    .append('div')
-      .attr('class', d => `polling-station mb2 pb2 bb b--black-10 polling-${d.id}`)
-
-  detailsBoxSelection
-    .append('div')
-      .attr('class', 'polling-name f3 mb2 lh-solid')
-      .text(d => d.name);
-
-  detailsBoxSelection
-    .append('div')
-      .attr('class', 'polling-address')
-      .text(d => `Adresă: ${d.address}`);
-
-  detailsBoxSelection
-    .append('div')
-      .attr('class', 'polling-ids')
-      .text(d => {
-        const label = d.ids.length == 1 ? 'Secția de vot:' : 'Secțiile de vot:';
-        return `${label}`;
-      })
-      .selectAll('span')
-        .data(d => d.ids)
-        .enter()
-          .append('span')
-          .attr('class', 'br1 ph1 white bg-dark-gray ml1')
-          .text(d => d);
-
-  detailsBoxSelection
-    .append('div')
-      .attr('class', 'polling-name f4 mv2 mt3 lh-solid')
-      .text('Rezultate');
+export const drawResults = (containerSelection) => {
+  d3.select('.results-box').classed('dn', false);
 
 	let h = 200;
 	let barPadding = 5;
   let size;
 
   let dataPointCount;
-  let barChart = detailsBoxSelection.append('svg')
+  let barChart = containerSelection.append('svg')
     .attr('width', '100%')
     .attr('height', h);
 
-  let w = detailsBoxSelection.node().getBoundingClientRect().width;
+  let w = containerSelection.node().getBoundingClientRect().width;
   let winner;
 
   barChart.selectAll('g')
@@ -131,9 +88,9 @@ export const drawDetails = points => {
      .attr('class', 'f6')
      .style('fill', d => (calcBarHeigh(d[2]) < 15 ? 'black' : 'white'))
 
-  detailsBoxSelection
+  containerSelection
     .append('div')
-      .attr('class', 'vote-count f4 mb2')
+      .attr('class', 'vote-count f4 mt2 mb2')
       .text('Număr de voturi / partid')
       .append('div')
         .selectAll('span')
@@ -164,11 +121,81 @@ export const drawDetails = points => {
             .text(d => d[1]);
 }
 
+// pointInfo object contains info about that polling station (name, adress, etc.)
+// ids contains the ids of the pollings stations at that specific location
+export const drawDetails = points => {
+
+  clearDetails();
+
+  let pointsByAddress = getPointsByAddress(points);
+
+  let detailsBoxSelection = d3.select('.info-container')
+    .classed('dn', false)
+    .append('div')
+      .attr('class', 'info-content')
+    .selectAll('div')
+    .data(pointsByAddress)
+    .enter()
+    .append('div')
+      .attr('class', d => `polling-station mb2 pb2 bb b--black-10 polling-${d.id}`)
+
+  detailsBoxSelection
+    .append('div')
+      .attr('class', 'polling-name f3 mb2 lh-solid')
+      .text(d => d.name);
+
+  detailsBoxSelection
+    .append('div')
+      .attr('class', 'polling-address')
+      .text(d => `Adresă: ${d.address}`);
+
+  detailsBoxSelection
+    .append('div')
+      .attr('class', 'polling-ids')
+      .text(d => {
+        const label = d.ids.length == 1 ? 'Secția de vot:' : 'Secțiile de vot:';
+        return `${label}`;
+      })
+      .selectAll('span')
+        .data(d => d.ids)
+        .enter()
+          .append('span')
+          .attr('class', 'br1 ph1 white bg-dark-gray ml1')
+          .text(d => d);
+
+  drawResults(getResultsBoxSelection(pointsByAddress, d => `Rezultate pentru ${d.name}`));
+}
+
+const getResultsBoxSelection = (data, title) => {
+  d3.select('.results-container').remove();
+  let resultsBoxSelection = d3.select('.results-box')
+    .selectAll('div')
+    .data(data)
+    .enter()
+    .append('div')
+      .attr('class', 'results-container');
+
+  resultsBoxSelection
+    .append('div')
+      .attr('class', 'f4 mv2 mt3 lh-solid')
+      .text(title)
+
+  return resultsBoxSelection;
+}
+
+export const clearCountyResults = () => {
+  d3.select('.county-results').remove();
+}
+
+export const drawCountyResults = (points, county) => {
+  let votes = calculatePointsVotes(points);
+  drawResults(getResultsBoxSelection([{votes}], `Rezultate pentru județul ${county}`));
+}
+
 export const drawCities = (cities, county = 'Cluj') => {
   d3.select('.city-navigator-box').classed('dn', false);
-  d3.select('.cities').selectAll('optgroup').remove();
   let citiesDropdownSelection = d3.select('.cities')
-    .append('optgroup')
+    .insert('optgroup',':first-child')
     .attr('label', county)
     .selectAll('option')
     .data(cities)
@@ -176,7 +203,7 @@ export const drawCities = (cities, county = 'Cluj') => {
 
   citiesDropdownSelection
     .append('option')
-      .attr('value', d => d.city)
+      .attr('value', d => { return d.city })
       .text(d => d.city);
 }
 

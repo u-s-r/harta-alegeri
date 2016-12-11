@@ -1,7 +1,7 @@
 import d3 from 'd3';
 import { maxBy, find } from 'lodash';
 
-import { getWinnerColor, getCoord } from './helpers';
+import { counties, toTitleCase, getWinnerColor, getCoord } from './helpers';
 import * as Boxes from './boxes';
 import * as Loader from './loader';
 
@@ -123,8 +123,6 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
 // Update UI
 export default function (map, url) {
   let pointsAtCoord = d3.map(),
-    points = [],
-    cities = [],
     $countiesSelect = $('.counties');
 
   const drawWithLoader = (points, pointsAtCoord, visibleCities) => {
@@ -135,9 +133,17 @@ export default function (map, url) {
     }, 0);
   }
 
+  let loadedCounties = [];
   map.on('ready', () => {
+    let $citiesSelect = $('.cities');
+    let citiesSelectInit = false;
+
     const getCityCsv = (url, county) => {
-      let $citiesSelect = $('.cities');
+      // Check if CSV was already loaded
+      if (loadedCounties.includes(county))
+        return;
+      loadedCounties.push(county);
+      let cities = [];
       d3.csv(url, (points) => {
         // Get the IDs for each location
         points = points.map((point) => {
@@ -172,10 +178,13 @@ export default function (map, url) {
           return point;
         });
 
+        Boxes.drawCountyResults(points, county);
+
         cities = cities.map((city, id) => ({id, city}));
 
         Boxes.drawCities(cities, county);
         $citiesSelect.select2({ placeholder: "Alege Orașul" });
+        citiesSelectInit = true;
         $citiesSelect.on('select2:select', (e) => {
           let coord = find(points, {city: e.params.data.id});
           map.setView([coord.lat, coord.lng], 14);
@@ -210,27 +219,40 @@ export default function (map, url) {
               .append($link)
               .find('.title').html('Zoom la');
           });
-
-
         });
 
         map.on('viewreset moveend', () => {
           drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
           Boxes.clearDetails();
         });
+
         drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
       });
     };
 
-    Boxes.drawCounties();
     $countiesSelect.select2({
-      placeholder: "Alege Județul",
-      allowClear: true
+      placeholder: "Încarcă date din județul",
+      allowClear: false,
+      data: Object.keys(counties).sort().map(county => ({
+          id: toTitleCase(county),
+          text: toTitleCase(county)
+        }))
     });
     $countiesSelect.on('select2:select', (e) => {
-      console.log(`${e.params.data.id}.csv`);
-      getCityCsv(`${e.params.data.id}.csv`.toLowerCase(), e.params.data.id)
+      d3.select('.city-navigator-box').classed('dn', false);
+      getCityCsv(`${e.params.data.id}.csv`.toLowerCase(), e.params.data.id);
       //map.setView([coord.lat, coord.lng], 14);
+
+      let $link = $(`<a href="#" class="county-results-link black dim">${}</a>`)
+      $(e.target).closest('county-navigator-box')
+        .appned($link);
+    });
+
+    map.on('click moveend', () => {
+      if (citiesSelectInit) {
+        $citiesSelect.select2('close');
+      }
+      $countiesSelect.select2('close');
     });
   });
 }
