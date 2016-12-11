@@ -140,7 +140,7 @@ export default function (map, url) {
     const getCityJson = (url, county, callback) => {
       d3.json(url, (response) => {
         let cities = [];
-		let points = response.data;
+        let points = response.data;
 
         // Get the IDs for each location
         points = points.map((point) => {
@@ -223,6 +223,11 @@ export default function (map, url) {
               .find('.title').html('Zoom la');
           });
         });
+        
+        // pre-select all cities
+        // TODO this is *very* ugly
+        let allCitiesValues = cities.map((city) => (city.city));
+        $citiesSelect.val(allCitiesValues).trigger('change')
 
         map.on('viewreset moveend', () => {
           drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
