@@ -36,7 +36,7 @@ export const partyColors = {
   udmr: '#63ab26',
   alde: '#095685',
   pmp: '#e7981c',
-  pru: '#f0f0f0',
+  pru: '#ff00ff',
   altele: '#363636'
 };
 
@@ -50,11 +50,11 @@ export const calculatePointsVotes = function (points) {
     cdepPartyVotes[key] = 0;
 	senatPartyVotes[key] = 0;
   });
-  
+
   points.forEach(function(point){
 	  parties.forEach(function(partyName){
-		cdepPartyVotes[partyName] += point.votes.cdep[partyName] ? parseInt(point.votes.cdep[partyName]) : 0;  
-		senatPartyVotes[partyName] += point.votes.senat[partyName] ? parseInt(point.votes.senat[partyName]) : 0; 
+		cdepPartyVotes[partyName] += point.votes.cdep[partyName] ? parseInt(point.votes.cdep[partyName]) : 0;
+		senatPartyVotes[partyName] += point.votes.senat[partyName] ? parseInt(point.votes.senat[partyName]) : 0;
 	  });
   });
 

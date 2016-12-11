@@ -152,7 +152,8 @@ export function parseData(apiKey, dataPromise, csvDest, county) {
 
         util.writeToCsv(
           points.filter(p => p),
-          ['id', 'name', 'lat', 'lng', 'address', 'city', 'psd', 'usr', 'pnl', 'pmp', 'urmr', 'alde'],
+          ['id', 'name', 'lat', 'lng', 'address', 'city', 'psd_cdep', 'usr_cdep', 'pnl_cdep', 'pmp_cdep', 'udmr_cdep', 'alde_cdep', 'pru_cdep', 'altele_cdep',
+		  'psd_senat', 'usr_senat', 'pnl_senat', 'pmp_senat', 'udmr_senat', 'alde_senat', 'pru_senat', 'altele_senat'],
           csvDest
         );
 
