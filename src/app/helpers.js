@@ -75,15 +75,24 @@ export const calculatePointsVotes = function (points) {
 export const getWinner = (points) => {
   let votes = calculatePointsVotes(points);
   let totalVotesByParty = {};
+  let totalVotes = 0;
   parties.map(key => { totalVotesByParty[key] = 0; });
+  
   Object.keys(votes.cdep).forEach(function(partyName){
+	  totalVotes += votes.cdep[partyName];
 	  totalVotesByParty[partyName] += votes.cdep[partyName];
   });
   Object.keys(votes.senat).forEach(function(partyName){
+	  totalVotes += votes.cdep[partyName];
 	  totalVotesByParty[partyName] += votes.senat[partyName];
   });
-
-  let winner = maxBy(Object.keys(votes.cdep), o => totalVotesByParty[o]);
+  
+  // no votes, no winner
+  if (totalVotes === 0 ){
+	  return 'none';
+  }
+ 
+  let winner = maxBy(Object.keys(totalVotesByParty), o => totalVotesByParty[o]);
   return winner;
 }
 

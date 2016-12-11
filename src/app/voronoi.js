@@ -227,6 +227,11 @@ export default function (map, url) {
           });
         });
 
+        // pre-select all cities
+        // TODO this is *very* ugly
+        let allCitiesValues = cities.map((city) => (city.city));
+        $citiesSelect.val(allCitiesValues).trigger('change')
+
         map.on('viewreset moveend', () => {
           drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
           Boxes.clearDetails();
