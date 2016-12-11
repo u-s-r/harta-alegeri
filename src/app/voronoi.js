@@ -4,6 +4,7 @@ import { maxBy, find } from 'lodash';
 import { getWinnerColor, getCoord, counties } from './helpers';
 import * as Boxes from './boxes';
 import * as Loader from './loader';
+import {filter} from 'lodash';
 
 // Clears the overlay that contains the Voronoi map
 const clearVoronoiOverlay = () => {
@@ -140,7 +141,8 @@ export default function (map, url) {
     const getCityJson = (url, county, callback) => {
       d3.json(url, (response) => {
         let cities = [];
-		let points = response.data;
+		console.log(response);
+		let points = filter(response, o => { return o.id == 'TOTAL';});
 
         // Get the IDs for each location
         points = points.map((point) => {
@@ -190,6 +192,7 @@ export default function (map, url) {
         $citiesSelect.select2({ placeholder: "Alege Orașul" });
         $citiesSelect.on('select2:select', (e) => {
           let coord = find(points, {city: e.params.data.id});
+		  console.log(coord.lat, coord.lng);
           map.setView([coord.lat, coord.lng], 14);
         });
 
@@ -243,7 +246,7 @@ export default function (map, url) {
       //map.setView([coord.lat, coord.lng], 14);
     });
     $countiesSelect.val('Cluj').trigger('change'); // set the default to Cluj for now
-  
+
     $reloadButton.on('click', () => {
       let selectedCity = $citiesSelect.val()[0];
       getCityJson(`data.json`, 'Cluj', () => {
