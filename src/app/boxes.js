@@ -61,7 +61,7 @@ export const drawDetails = points => {
 
   let cdepVotes = pointsByAddress[0].votes.cdep;
   let senatVotes = pointsByAddress[0].votes.senat;
-  
+
   let labels = parties, cdepValues = [], senatValues = [], colors = [];
   parties.forEach((partyName) => {
     cdepValues.push(cdepVotes[partyName]);
@@ -85,7 +85,7 @@ export const drawDetails = points => {
   });
 
   detailsBoxSelection
-    .append('div').attr('class', 'chart-container').text('Camera Senatorilor')
+    .append('div').attr('class', 'chart-container').text('Senat')
     .append('canvas')
     .attr('id', 'senatori_chart');
 
@@ -103,7 +103,16 @@ export const drawDetails = points => {
     },
     options: {}
   });
-  
+
+  detailsBoxSelection
+    .append('div')
+      .attr('class', 'reported-polling-ids')
+      .text(d => {
+        const label = 'Secții de vot raportate:';
+        return `${label}`;
+	}).append('span')
+          .text(d => `${d.reportedStations} / ${d.ids.length}`);
+
   // detailsBoxSelection
   //   .append('div')
   //     .attr('class', 'vote-count f4 mb2')

@@ -1,10 +1,10 @@
 import d3 from 'd3';
 import { maxBy, find } from 'lodash';
 
-import { getWinnerColor, getCoord, counties } from './helpers';
+import { getWinnerColor, getCoord, counties, sum } from './helpers';
 import * as Boxes from './boxes';
 import * as Loader from './loader';
-import {filter} from 'lodash';
+import {filter, reduce} from 'lodash';
 
 // Clears the overlay that contains the Voronoi map
 const clearVoronoiOverlay = () => {
@@ -94,14 +94,14 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
     //.classed("selected", function(d) { return lastSelectedPoint == d} );
 
   // Append a clipPath for circles that are the edges of the polygon
-  //svgPoints.append("clipPath")
-  //  .attr("id", (d, i) => `clip-${i}`)
-  //  .append("use")
-  //    .attr("xlink:href", (d, i) => `#cell-${i}`)
+  svgPoints.append("clipPath")
+   .attr("id", (d, i) => `clip-${i}`)
+   .append("use")
+     .attr("xlink:href", (d, i) => `#cell-${i}`)
 
   // Append the circles
   svgPoints.append('circle')
-    // .attr("clip-path", (d, i) => `url(#clip-${i})`)
+    .attr("clip-path", (d, i) => `url(#clip-${i})`)
     .attr('cx', d => d.point.x)
     .attr('cy', d => d.point.y)
     .style('fill', d => {
@@ -141,8 +141,8 @@ export default function (map, url) {
     const getCityJson = (url, county, callback) => {
       d3.json(url, (response) => {
         let cities = [];
-		console.log(response);
-		let points = filter(response, o => { return o.id == 'TOTAL';});
+		// console.log(response);
+		let points = filter(response, o => { return o.id != 'total';});
 
         // Get the IDs for each location
         points = points.map((point) => {
@@ -161,7 +161,9 @@ export default function (map, url) {
                     pnl: parseInt(point.pnl_cdep),
                     pmp: parseInt(point.pmp_cdep),
                     udmr: parseInt(point.udmr_cdep),
-                    alde: parseInt(point.alde_cdep)
+                    alde: parseInt(point.alde_cdep),
+					pru: parseInt(point.pru_cdep),
+					altele: parseInt(point.altele_cdep)
                 },
                 senat: {
                     usr: parseInt(point.usr_senat),
@@ -169,10 +171,14 @@ export default function (map, url) {
                     pnl: parseInt(point.pnl_senat),
                     pmp: parseInt(point.pmp_senat),
                     udmr: parseInt(point.udmr_senat),
-                    alde: parseInt(point.alde_senat)
+                    alde: parseInt(point.alde_senat),
+					pru: parseInt(point.pru_senat),
+					altele: parseInt(point.altele_senat)
                 }
-            }
+            },
           };
+
+		  point.reportedStations = (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0)) > 0 ? 1 : 0
 
           // Collect the city list
           if (!cities.includes(point.city)) {
@@ -189,10 +195,12 @@ export default function (map, url) {
         cities = cities.map((city, id) => ({id, city}));
 
         Boxes.drawCities(cities, county);
-        $citiesSelect.select2({ placeholder: "Alege Orașul" });
+        $citiesSelect.select2({
+			placeholder: "Alege Localitatea",
+			maximumSelectionLength: 2
+		 });
         $citiesSelect.on('select2:select', (e) => {
           let coord = find(points, {city: e.params.data.id});
-		  console.log(coord.lat, coord.lng);
           map.setView([coord.lat, coord.lng], 14);
         });
 
@@ -229,9 +237,11 @@ export default function (map, url) {
 
         // pre-select all cities
         // TODO this is *very* ugly
-        let allCitiesValues = cities.map((city) => (city.city));
-        $citiesSelect.val(allCitiesValues).trigger('change')
-
+        // let allCitiesValues = cities.map((city) => (city.city));
+        // $citiesSelect.val(allCitiesValues).trigger('change')
+		$citiesSelect.val('Cluj-Napoca').trigger('change');
+		let Clujcoords = find(points, {city: 'Cluj-Napoca'});
+		map.setView([Clujcoords.lat, Clujcoords.lng], 14)
         map.on('viewreset moveend', () => {
           drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
           Boxes.clearDetails();

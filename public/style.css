@@ -154,3 +154,7 @@ body {
     transform: scale(1.0);
   }
 }
+
+.county-navigator-box {
+	display: none;
+}

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import json2csv from 'json2csv';
-import { findIndex, maxBy, map } from 'lodash';
+import { findIndex, maxBy, map, reduce, isArray } from 'lodash';
 
 export const toTitleCase = (str) => {
   const split = str.split('-');
@@ -37,10 +37,16 @@ export const partyColors = {
   alde: '#095685',
   pmp: '#e7981c',
   pru: '#ff00ff',
-  altele: '#363636'
+  altele: '#e1e1e1'
 };
 
 export const parties = ['psd', 'usr', 'pnl', 'udmr', 'alde', 'pmp', 'pru', 'altele'];
+
+export const sum = function(a, b) {
+	a = isNaN(a) ? 0 : a;
+	b = isNaN(b) ? 0 : b;
+	return a + b
+};
 
 // Calculates the total number of votes / party from a number of points
 // TODO: Memoize
@@ -71,13 +77,22 @@ export const calculatePointsVotes = function (points) {
   // }, partyVotes);
 }
 
+export const calculateReportedPollingStations = points => {
+	if (isArray(points)) {
+		return points.filter(point => {
+			return reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0;
+		}).length;
+	}
+}
+
 // Returns the winner party key
 export const getWinner = (points) => {
   let votes = calculatePointsVotes(points);
   let totalVotesByParty = {};
   let totalVotes = 0;
+  console.log(points);
   parties.map(key => { totalVotesByParty[key] = 0; });
-  
+
   Object.keys(votes.cdep).forEach(function(partyName){
 	  totalVotes += votes.cdep[partyName];
 	  totalVotesByParty[partyName] += votes.cdep[partyName];
@@ -86,12 +101,12 @@ export const getWinner = (points) => {
 	  totalVotes += votes.cdep[partyName];
 	  totalVotesByParty[partyName] += votes.senat[partyName];
   });
-  
+
   // no votes, no winner
-  if (totalVotes === 0 ){
+  if (totalVotes === 0 ) {
 	  return 'none';
   }
- 
+
   let winner = maxBy(Object.keys(totalVotesByParty), o => totalVotesByParty[o]);
   return winner;
 }
@@ -103,7 +118,7 @@ export const getWinnerColor = points => partyColors[getWinner(points)];
 export const getPointsByAddress = points => {
   // Group points by address
   let pointsByAddress = [];
-  let votes;
+  let votes, reportedStations;
   points.forEach(point => {
     let existingIndex = findIndex(
       pointsByAddress,
@@ -120,15 +135,61 @@ export const getPointsByAddress = points => {
         point
       ]);
 
+	  reportedStations = calculateReportedPollingStations([
+        pointsByAddress[existingIndex],
+        point
+	]);
+
+	console.log(reportedStations);
+
       pointsByAddress[existingIndex] = {
         ...pointsByAddress[existingIndex],
         votes,
+		reportedStations,
         ids: [...pointsByAddress[existingIndex].ids, point.id]
       };
     };
   });
 
   return pointsByAddress;
+}
+
+export const getPointsByCity = points => {
+  // Group points by city
+  let pointsByCity = [];
+  let votes, reportedStations;
+  points.forEach(point => {
+    let existingIndex = findIndex(
+      pointsByAddress,
+      addrPoint => addrPoint.city === point.city
+    );
+    if (existingIndex === -1) {
+      pointsByCity.push({
+        ...point,
+        ids: [point.id]
+      });
+    } else {
+      votes = calculatePointsVotes([
+        pointsByCity[existingIndex],
+        point
+      ]);
+
+	 reportedStations = calculateReportedPollingStations([
+		 pointsByCity[existingIndex],
+		 point
+	 ]);
+
+      pointsByCity[existingIndex] = {
+        ...pointsByCity[existingIndex],
+        votes,
+		reportedStations,
+        ids: [...pointsByCity[existingIndex].ids, point.id]
+      };
+    };
+  });
+
+  return pointsByCity;
+
 }
 
 export const counties = {
