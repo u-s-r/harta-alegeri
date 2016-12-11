@@ -9,6 +9,7 @@ export const clearDetails = () => {
   d3.select('.results-container').remove();
 }
 
+let sum = (d) => Object.keys(d).reduce((total, party) => (total + parseInt(d[party])), 0);
 export const getResultsBoxSelection = (data, title) => {
   d3.select('.results-container').remove();
 
@@ -30,19 +31,33 @@ export const getResultsBoxSelection = (data, title) => {
 export const drawResults = (containerSelection) => {
   d3.select('.results-box').classed('dn', false);
   d3.select('.results-box').classed('db', true);
-  containerSelection
-    .append('div')
-      .attr('class', d => `${!d.reportedStations ? 'dn ' : 'dib '}w-40 chart-container`)
-      .text('Camera Deputatilor')
-    .append('canvas')
-      .attr('class', d => `${!d.reportedStations ? 'dn ' : ''}chart-deputati`);
+
+
+  let legenda = containerSelection.append('div')
+    .attr('class', 'f5 mb2')
+    .text('Legendă:')
+    .selectAll('span')
+    .data(Object.keys(partyColors))
+    .enter()
+    .append('span')
+    .attr('class', d => d == 'none' ? 'dn' : `f5 ph1 ${d == 'altele' ? 'black' : 'white'} ml1`)
+    .attr('style', d => `background-color: ${partyColors[d]}`)
+    .text(d => d.toUpperCase())
 
   containerSelection
     .append('div')
-      .attr('class', d => `${!d.reportedStations ? 'dn ' : 'dib '}w-40 chart-container`)
+      .attr('class', d => `${!sum(d.votes.cdep) ? 'dn ' : 'dib '}w-40 chart-container`)
+      .text('Camera Deputatilor')
+
+    .append('canvas')
+      .attr('class', d => `${!sum(d.votes.cdep) ? 'dn ' : 'dib '}chart-deputati`);
+
+  containerSelection
+    .append('div')
+      .attr('class', d => `${!sum(d.votes.senat) ? 'dn ' : 'dib '}w-40 chart-container`)
       .text('Senat')
     .append('canvas')
-      .attr('class', d => `${!d.reportedStations ? 'dn ' : ''}chart-senatori`);
+      .attr('class', d => `${!sum(d.votes.senat) ? 'dn ' : ''}chart-senatori`);
 
   containerSelection
     .append('div')
@@ -62,8 +77,8 @@ export const drawResults = (containerSelection) => {
     let senatVotes = d.votes.senat;
 
     let cdepValues = [], senatValues = [], colors = [];
-    let labels = [...parties];
-    labels.forEach((partyName) => {
+    let labels = [...parties].map(l => l.toUpperCase());
+    parties.forEach((partyName) => {
       cdepValues.push(cdepVotes[partyName]);
       senatValues.push(senatVotes[partyName]);
       colors.push(partyColors[partyName]);
@@ -82,7 +97,20 @@ export const drawResults = (containerSelection) => {
           }
         ]
       },
-      options: {}
+      options: {
+        legend: {
+          display: false,
+        },
+        animation: {
+          onAnimationComplete: function() {
+            this.showTooltip(this.segments, true);
+          },
+          titleFontSize: 14
+        },
+        tooltips: {
+          template: "<%= value %>",
+        }
+      }
     });
 
     let senatoriChart = new Chart(ctxs[i], {
@@ -96,42 +124,65 @@ export const drawResults = (containerSelection) => {
           }
         ]
       },
-      options: {}
+      options: {
+        legend: {
+          display: false
+        }
+      }
     });
   });
 
+  var winner = [];
+  var dataPointCount, size;
+  var roomType = ['Camera Deputaților', 'Senat'];
+  var voteStatsEnter = containerSelection
+    .append('div')
+      .attr('class', 'vote-count f4 mb2')
+      .append('div')
+        .selectAll('div')
+        .data(d => {
+          return [d.votes.cdep, d.votes.senat]
+        })
+        .enter()
+        .append('div')
+        .attr('class', d => `${!sum(d) ? 'dn ' : ''}summary-rooms f5 mt2`)
+        .text((d, i) => `${roomType[i]}`)
+        .append('div')
+        .attr('class', 'cf')
+        .selectAll('span')
+        .data((d, i) => {
+          let voteData = [];
 
-  // detailsBoxSelection
-  //   .append('div')
-  //     .attr('class', 'vote-count f4 mb2')
-  //     .text('Număr de voturi / partid')
-  //     .append('div')
-  //       .selectAll('span')
-  //         .data(d => {
-  //           // TODO I know this is repetead, but I need to ship.
-  //           // [
-  //           //   /* party, votes, percentage */
-  //           //   ['usr', 1241, 50],
-  //           //   ['psd', 1241, 50],
-  //           //   ...
-  //           // ]
-  //           let chartVoteData = [];
-  //           let sum = Object.keys(d.votes).reduce((total, party) => (total + d.votes[party]), 0);
-  //           Object.keys(d.votes).map(party => {
-  //             if (!d.votes[party]) { return; }
-  //             chartVoteData.push([
-  //               party,
-  //               d.votes[party]
-  //             ]);
-  //           });
-  //           dataPointCount = chartVoteData.length;
-  //           return chartVoteData;
-  //         })
-  //         .enter()
-  //           .append('span')
-  //           .attr('class', 'br1 ph1 f5 white ml1')
-  //           .style('background-color', (d) => partyColors[d[0]])
-  //           .text(d => d[1]);
+          // [
+          //   /* party, votes, percentage */
+          //   ['usr', 1241, 50],
+          //   ['psd', 1241, 50],
+          //   ...
+          // ]
+          let chartVoteData = [];
+          let total = sum(d);
+          Object.keys(d).map(party => {
+            if (!d[party]) { return; }
+            voteData.push([
+              party,
+              d[party],
+              Math.round(100 * (100 * d[party] / total)) / 100
+            ]);
+          });
+          // Formula to determine max size.
+          winner[i] = maxBy(voteData, o => o[1]);
+          size = 100 / winner[2];
+
+          dataPointCount = voteData.length;
+
+          return voteData;
+        })
+        .enter()
+        .append('span')
+          .attr('class', (d, i) => `br1 ph1 mt2 fl f5 ${d[0] == 'altele' ? 'black' : 'white'}${i ? ' ml1' : ''}`)
+          .style('background-color', d => partyColors[d[0]])
+          .text(d => `${d[2]}%`);
+
 }
 
 // pointInfo object contains info about that polling station (name, adress, etc.)
