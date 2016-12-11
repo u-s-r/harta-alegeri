@@ -39,6 +39,7 @@ body {
   -webkit-animation: sk-scaleout-selected 1s infinite ease-in-out;
   animation: sk-scaleout-selected 1s infinite ease-in-out;
   transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
 }
 
 .point circle {
@@ -49,6 +50,7 @@ body {
   -webkit-animation: sk-scaleout 1s infinite ease-in-out;
   animation: sk-scaleout 1s infinite ease-in-out;
   transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
 }
 
 @-webkit-keyframes sk-scaleout {
