@@ -1,11 +1,12 @@
 import d3 from 'd3';
 import Chart from 'chart.js';
-import { calculateReportedPollingStations, calculatePointsVotes, toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
+import { calculateReportedPollingStations, calculatePointsVotes, toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord, lastActivePoint } from './helpers';
 import { maxBy } from 'lodash';
 
 export const clearDetails = () => {
   d3.select('.info-content').remove();
   d3.select('.info-container').classed('dn', true);
+  d3.select('.results-container').remove();
 }
 
 export const getResultsBoxSelection = (data, title) => {
@@ -137,6 +138,7 @@ export const drawResults = (containerSelection, votes) => {
 // ids contains the ids of the pollings stations at that specific location
 export const drawDetails = points => {
   clearDetails();
+  window.lastActivePoint = points[0];
 
   let pointsByAddress = getPointsByAddress(points);
 

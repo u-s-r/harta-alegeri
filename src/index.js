@@ -4,6 +4,8 @@ import voronoi from './app/voronoi';
 
 L.mapbox.accessToken = process.env['MAPBOX_ACCESS_TOKEN'];
 
+window.lastActivePoint = null;
+
 var map = L.mapbox.map('map', 'zetter.i73ka9hn')
     .setView([46.88647742351024, 23.461303710937504], 10);
 

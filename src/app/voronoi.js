@@ -139,10 +139,13 @@ export default function (map, url) {
 
   map.on('ready', () => {
     const getCityJson = (url, county, callback) => {
-      d3.json(url, (response) => {
+      d3.json(url + '?nocache=' + (new Date()).getTime(), (response) => {
         let cities = [];
-		// console.log(response);
-		let points = filter(response, o => (o.id != 'total'));
+        let points = filter(response, o => (o.id != 'total'));
+
+        // Reset pointsAtCoord on each new json load
+        // so that old points don't add up with the response
+        pointsAtCoord = d3.map();
 
     // Get the IDs for each location
     points = points.map((point) => {
@@ -196,8 +199,8 @@ export default function (map, url) {
 
         Boxes.drawCities(cities, county);
         $citiesSelect.select2({
-			placeholder: "Alege Localitatea",
-		 });
+          placeholder: "Alege Localitatea",
+        });
         $citiesSelect.on('select2:select', (e) => {
           let coord = find(points, {city: e.params.data.id});
           map.setView([coord.lat, coord.lng], 14);
@@ -219,7 +222,6 @@ export default function (map, url) {
             return;
           }
 
-
             let coord = find(points, {city: selectedCity});
             let $link = $(`<a href="#" class="city-link black dim ml1" data="${selectedCity}">${selectedCity.split(' ').join("&nbsp;")}</a>`)
             .click(e => {
@@ -232,16 +234,12 @@ export default function (map, url) {
               .append($link)
               .find('.title').html('Vezi rezultate pentru:');
 
-		  // console.log(getPointsByCity(points));
+      // console.log(getPointsByCity(points));
         });
 
-        // pre-select all cities
-        // TODO this is *very* ugly
-        // let allCitiesValues = cities.map((city) => (city.city));
-        // $citiesSelect.val(allCitiesValues).trigger('change')
-		$citiesSelect.val('Cluj-Napoca').trigger('change');
-		let Clujcoords = find(points, {city: 'Cluj-Napoca'});
-		map.setView([Clujcoords.lat, Clujcoords.lng], 14)
+    $citiesSelect.val('Cluj-Napoca').trigger('change');
+    let Clujcoords = find(points, {city: 'Cluj-Napoca'});
+    map.setView([Clujcoords.lat, Clujcoords.lng], 14)
         map.on('viewreset moveend', () => {
           drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
           Boxes.clearDetails();
@@ -263,11 +261,12 @@ export default function (map, url) {
     $countiesSelect.val('Cluj').trigger('change'); // set the default to Cluj for now
 
     $reloadButton.on('click', () => {
-      let selectedCity = $citiesSelect.val()[0];
-      getCityJson(`data.json`, 'Cluj', () => {
-        if (selectedCity) {
-          $citiesSelect.val(selectedCity).trigger('change');
-        }
+      let selectedCity = $citiesSelect.val();
+      getCityJson('data.json', 'Cluj', () => {
+    Boxes.clearDetails();
+    if (window.lastActivePoint) {
+      Boxes.drawDetails(pointsAtCoord.get(getCoord(window.lastActivePoint)));
+    }
       });
     });
   });
