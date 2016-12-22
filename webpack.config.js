@@ -37,7 +37,6 @@ var config = {
   plugins: [
     new CopyWebpackPlugin([
       { from: join(root, 'index.html') },
-      { from: join(root, 'src/styles/style.css') },
       { from: join(root, 'rezultate'), to: 'rezultate' }
     ]),
     new Dotenv({

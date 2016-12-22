@@ -332,6 +332,10 @@ export default function (map, url) {
                 .find('.counties-nav .nav')
                 .append($link);
 
+              $('.results-navigator-box')
+                .find('.cities-select-container')
+                .addClass('bounceIn animated');
+
             // 4. Zoom to the county on the map, and draw the county results
             focusOnCounty(selectedCounty, newPoints, map);
 
