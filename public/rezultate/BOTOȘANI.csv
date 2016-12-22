@@ -1,0 +1,423 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+143,7,BOTOȘANI,ADĂŞENI,234,4,20,21,0,5,10,20,231,5,22,23,1,8,10,17,Școala Gimnazială nr. 1 Adaseni,,Adășeni,48.0736,26.9343
+216,7,BOTOȘANI,CURTEŞTI,100,1,9,2,1,1,0,5,100,1,10,3,1,1,2,6,Spatiu Școala Agafton,,Agafton,47.7083,26.5986
+274,7,BOTOȘANI,HUDEŞTI,352,2,80,14,0,6,59,79,352,5,80,12,0,4,62,82,Grădinița,,Alba,48.1588,26.4778
+145,7,BOTOȘANI,ALBEŞTI,191,9,129,6,1,20,8,17,188,8,129,7,3,29,7,11,Camin Cultural Albesti,,Albești,47.6922,27.0736
+146,7,BOTOȘANI,ALBEŞTI,108,1,58,6,0,6,2,9,115,1,62,4,0,5,0,3,Școala Primară nr. 1 Albesti,Nr. 2,Albești,47.7012,27.0726
+249,7,BOTOȘANI,GEORGE ENESCU,47,0,72,3,0,10,1,13,48,2,70,6,0,9,2,10,Școala Generală Arborea,,Arborea,48.0582,26.518
+156,7,BOTOȘANI,AVRĂMENI,119,1,22,5,0,4,8,17,125,3,21,6,1,2,7,14,Școala cu Clasele 1-8 Aurel Vlaicu,,Aurel Vlaicu,48.0002,26.9098
+153,7,BOTOȘANI,AVRĂMENI,324,6,22,12,1,4,11,22,328,7,23,12,3,6,8,14,Școala cu Clasele 1 -8 Avrameni,,Avrămeni,48.015,26.9452
+117,7,BOTOȘANI,ORAŞ DARABANI,268,8,125,8,2,11,14,27,265,10,118,7,0,9,14,28,Școala Bajura,,Bajura,48.2011,26.5371
+261,7,BOTOȘANI,HAVÎRNA,79,1,22,5,0,2,5,11,74,1,22,3,0,5,5,10,Școala Primară „Dumitru Pompas” Balinti,,Balinți,48.0489,26.692
+196,7,BOTOȘANI,CORNI,88,0,7,1,0,5,1,5,92,0,8,1,0,4,1,4,Școala cu Cl I-IV Balta Arsa,,Balta Arsă,47.6783,26.6177
+214,7,BOTOȘANI,CRISTINEŞTI,136,0,23,4,0,9,8,15,135,0,24,4,1,12,4,6,Școala Baranca,,Baranca,48.1192,26.3396
+277,7,BOTOȘANI,HUDEŞTI,277,2,153,4,1,3,29,37,276,3,157,5,2,3,28,32,Școala Baranca,,Baranca,48.1974,26.4705
+276,7,BOTOȘANI,HUDEŞTI,101,2,24,1,0,11,17,22,103,1,25,2,0,11,16,22,Școală Bașeu,,Bașeu,48.1408,26.4928
+353,7,BOTOȘANI,SANTA MARE,20,1,57,2,0,3,0,4,22,0,56,2,0,4,0,2,Școala Generală Berza,,Berza,47.6432,27.3046
+230,7,BOTOȘANI,DOBÂRCENI,32,1,22,1,0,3,4,8,33,3,21,1,0,4,2,7,Școala Bivolari,Nr. 23,Bivolari,47.813,27.0584
+163,7,BOTOȘANI,BLÂNDEŞTI,108,2,128,4,1,17,7,12,115,3,127,5,2,17,8,10,Școala Gimnazială nr. 1,Nr. 98,Blândești,47.7061,26.8702
+138,7,BOTOȘANI,ORAŞ ŞTEFĂNEŞTI,225,0,132,11,3,11,8,20,228,3,125,11,2,11,6,13,Școala Gimnazială Bobulesti,Nr. 101,Bobulești,47.7495,27.2222
+136,7,BOTOȘANI,ORAŞ SĂVENI,134,0,5,1,0,1,3,8,137,1,6,1,0,1,3,5,Școala Generală Bodeasa,,Bodeasa,47.9717,26.9208
+354,7,BOTOȘANI,SANTA MARE,67,0,56,3,1,2,0,7,63,0,60,5,0,1,2,7,Școala Generală Bogdanesti,,Bogdănești,47.6448,27.2547
+265,7,BOTOȘANI,HĂNEŞTI,48,1,62,1,1,2,0,3,46,0,63,1,0,2,0,3,Școala cu Cl I-IV Borolea,,Borolea,47.9475,27.026
+389,7,BOTOȘANI,UNGURENI,293,1,54,10,0,8,2,19,287,2,54,12,0,8,3,20,Școala Gimnazială nr. 3 Borzești,Str. Școlii nr. 13,Borzești,47.911,26.7536
+245,7,BOTOȘANI,FRUMUŞICA,107,1,22,8,1,4,1,24,108,3,21,10,1,6,1,17,Școala Gimnazială nr. 6 Boscoteni,,Boscoteni,47.4992,26.8627
+1,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,335,24,79,22,0,25,13,39,333,22,79,22,0,31,14,34,Liceul de Artă „Ștefan Luchian”,Bulevardul Mihai Eminescu nr. 69,Botoșani,47.7416,26.6587
+2,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,330,68,109,32,0,27,26,56,326,69,108,32,0,38,17,46,Liceul de Artă „Ștefan Luchian”,Bulevardul Mihai Eminescu nr. 69,Botoșani,47.7416,26.6587
+3,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,385,50,99,24,1,37,11,61,378,57,99,25,1,37,16,54,Școala Generală nr. 4,Str. Ștefan Luchian (Str. Marx Karl) nr. 38,Botoșani,47.7464,26.6589
+4,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,357,43,122,21,2,24,21,58,359,49,119,23,1,27,20,51,Școala Generală nr. 4,Str. Ștefan Luchian (Str. Marx Karl) nr. 38,Botoșani,47.7464,26.6589
+5,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,281,26,59,10,0,25,17,48,284,28,58,15,0,23,15,43,Școala Generală nr. 7,Str. Vârnav (Str. Viilor) nr. 7,Botoșani,47.7453,26.6489
+6,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,246,18,93,22,0,14,7,33,240,19,94,20,1,21,10,32,Școala Generală nr. 7,Str. Vârnav (Str. Viilor) nr. 7,Botoșani,47.7453,26.6489
+7,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,209,22,74,23,0,26,15,31,211,21,73,23,0,27,15,27,Grădinița de Copii nr. 19,Aleea Prieteniei nr. 5,Botoșani,47.7451,26.6474
+8,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,211,21,63,14,0,26,14,35,214,19,57,11,0,23,19,41,Grădinița de Copii nr. 19,Aleea Prieteniei nr. 5,Botoșani,47.7451,26.6474
+9,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,378,47,88,18,0,24,7,40,378,48,95,13,1,25,9,39,Școala Generală nr. 17,Aleea Teodor Boyan nr. 2,Botoșani,47.7403,26.6515
+10,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,441,43,103,24,0,29,22,54,432,44,105,26,1,33,24,57,Liceul de Științe Ale Naturii „Grigoreantipa”,Bulevardul Mihai Eminescu nr. 30,Botoșani,47.7447,26.6542
+11,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,388,56,92,33,0,27,21,69,386,57,96,33,1,34,22,57,Liceul de Științe Ale Naturii „Grigoreantipa”,Bulevardul Mihai Eminescu nr. 30,Botoșani,47.7447,26.6542
+12,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,312,48,105,16,1,30,24,53,316,51,99,19,1,30,23,50,Școala Generală nr. 16,Aleea Pacea nr. 7,Botoșani,47.7381,26.6487
+13,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,268,27,85,23,0,23,21,57,265,28,82,22,0,24,21,59,Școala Generală nr. 16,Aleea Pacea nr. 7,Botoșani,47.7381,26.6487
+14,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,257,22,82,18,0,16,8,30,259,20,84,18,0,11,7,33,Școala Generală nr. 16,Aleea Pacea nr. 7,Botoșani,47.7381,26.6487
+15,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,286,34,84,21,0,31,28,52,287,34,90,22,0,34,27,40,Școala Generală nr. 13,Aleea Curcubeului nr. 2,Botoșani,47.7404,26.6474
+16,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,279,31,88,21,0,19,18,38,278,34,81,19,1,20,25,41,Școala Generală nr. 13,Aleea Curcubeului nr. 2,Botoșani,47.7404,26.6474
+17,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,310,46,80,19,1,18,17,43,318,47,75,23,0,19,17,43,Colegiul Național „Mihai Eminescu”,Str. Octav Onicescu (Str. Frimu I. C.) nr. 7,Botoșani,47.7433,26.6489
+18,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,300,38,88,17,0,29,21,56,291,35,83,19,0,43,23,56,Colegiul Național „Mihai Eminescu”,Str. Octav Onicescu (Str. Frimu I. C.) nr. 7,Botoșani,47.7433,26.6489
+19,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,364,54,108,17,0,29,14,47,364,55,99,20,1,28,18,55,Colegiul Național „Mihai Eminescu”,Str. Octav Onicescu (Str. Frimu I. C.) nr. 7,Botoșani,47.7433,26.6489
+20,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,256,26,45,21,0,12,16,42,259,24,42,23,0,12,16,41,Colegiul Național „Mihai Eminescu”,Str. Octav Onicescu (Str. Frimu I. C.) nr. 7,Botoșani,47.7433,26.6489
+21,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,215,22,46,9,1,17,10,23,213,23,46,11,0,16,13,27,Școala Generală nr. 12,Str. Prieteniei nr. 8,Botoșani,47.7462,26.6453
+22,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,172,7,51,9,0,14,8,32,167,6,53,11,0,11,10,35,Școala Generală nr. 12,Str. Prieteniei nr. 8,Botoșani,47.7462,26.6453
+23,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,317,24,82,21,0,30,22,46,314,26,82,26,0,29,20,42,Școala Generală nr. 12,Str. Prieteniei nr. 8,Botoșani,47.7462,26.6453
+24,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,306,36,72,6,0,14,18,33,298,31,71,6,0,27,16,35,Grădinița de Copii nr. 23,Aleea Nucului nr. 6,Botoșani,47.743,26.6457
+25,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,179,23,45,7,0,21,12,23,176,24,46,8,0,21,13,23,Grupul Școlar Industrial „Ghe.Asachi” (Liceul Electrocontact),Str. Prieteniei nr. 2,Botoșani,47.7466,26.6472
+26,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,221,25,53,22,0,17,10,48,225,24,57,22,0,15,11,42,Grupul Școlar Industrial „Ghe.Asachi” (Liceul Electrocontact),Str. Prieteniei nr. 2,Botoșani,47.7466,26.6472
+27,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,198,17,84,8,0,12,12,33,197,20,79,11,0,16,9,28,Grupul Școlar Industrial „Ghe.Asachi” (Școala Profesională Electrocontact),Str. Cornișa nr. 15,Botoșani,47.7568,26.6241
+28,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,209,7,76,11,1,16,11,45,206,7,80,13,1,17,12,42,Grupul Școlar Industrial „Ghe.Asachi” (Școala Profesională Electrocontact),Str. Cornișa nr. 15,Botoșani,47.7568,26.6241
+29,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,165,25,45,9,0,12,9,23,161,24,47,10,0,16,8,21,Grupul Școlar Industrial „Ghe.Asachi” (Școala Profesională Electrocontact),Str. Cornișa nr. 15,Botoșani,47.7568,26.6241
+30,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,295,25,93,9,1,24,10,33,288,28,89,11,1,25,9,31,Grupul Școlar de Industrie Ușoară (Liceul Textil),Calea Națională nr. 28,Botoșani,47.7522,26.6376
+31,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,251,21,74,16,1,10,6,30,241,20,73,15,2,18,8,32,Grupul Școlar de Industrie Ușoară (Liceul Textil),Calea Națională nr. 28,Botoșani,47.7522,26.6376
+32,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,166,14,57,9,0,18,15,39,169,17,58,8,0,19,15,32,Grupul Școlar de Industrie Ușoară (Liceul Textil),Calea Națională nr. 28,Botoșani,47.7522,26.6376
+33,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,199,30,61,10,0,11,13,29,198,23,70,10,0,10,17,32,Școala Generală nr. 14,Aleea General Gheorghe Avrămescu (Aleea General Gheorghe Avramescu) nr. 5,Botoșani,47.7498,26.6546
+34,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,328,22,107,10,0,20,17,47,330,21,106,8,0,24,17,46,Școala Generală nr. 14,Aleea General Gheorghe Avrămescu (Aleea General Gheorghe Avramescu) (D) nr. 5,Botoșani,47.7498,26.6546
+35,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,149,16,21,9,0,13,5,19,149,15,24,9,0,14,5,18,Școala Generală nr. 14,Aleea General Gheorghe Avrămescu (Aleea General Gheorghe Avramescu) nr. 5,Botoșani,47.7498,26.6546
+36,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,233,35,57,11,1,16,11,24,234,34,55,12,1,17,12,26,Școala Generală nr. 14,Aleea General Gheorghe Avrămescu (Aleea General Gheorghe Avramescu) nr. 5,Botoșani,47.7498,26.6546
+37,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,190,26,41,14,0,19,16,39,193,24,40,17,0,22,11,32,Școala Generală nr. 14,Aleea General Gheorghe Avrămescu (Aleea General Gheorghe Avramescu) nr. 5,Botoșani,47.7498,26.6546
+38,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,193,21,53,5,0,16,6,21,189,18,55,9,0,16,7,20,Școala Generală nr. 14,Aleea General Gheorghe Avrămescu (Aleea General Gheorghe Avramescu) nr. 5,Botoșani,47.7498,26.6546
+39,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,234,20,57,8,2,20,13,28,227,21,59,10,2,21,10,27,Grădinița de Copii nr. 22,Str. Parcul Tineretului nr. 7,Botoșani,47.7534,26.6715
+40,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,178,25,73,12,0,14,10,21,176,23,70,13,0,21,8,19,Grădinița de Copii nr. 22,Str. Parcul Tineretului nr. 7,Botoșani,47.7534,26.6715
+41,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,168,26,68,10,0,19,10,34,168,25,70,14,0,20,9,26,Grădinița de Copii nr. 22,Str. Parcul Tineretului nr. 7,Botoșani,47.7534,26.6715
+42,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,201,21,46,16,0,15,10,32,193,21,52,20,0,13,12,33,Grădinița de Copii nr. 22,Str. Parcul Tineretului nr. 7,Botoșani,47.7534,26.6715
+43,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,246,30,96,14,0,19,15,41,241,30,97,15,0,24,16,42,Școala Generală nr. 8,Str. Tudor Vladimirescu nr. 8,Botoșani,47.749,26.6708
+44,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,261,43,86,21,0,33,7,44,264,41,88,20,0,30,11,43,Școala Generală nr. 8,Str. Tudor Vladimirescu nr. 8,Botoșani,47.749,26.6708
+45,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,204,21,57,10,1,16,17,42,208,24,59,10,1,18,14,34,Școala Generală nr. 8,Str. Tudor Vladimirescu nr. 8,Botoșani,47.749,26.6708
+46,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,249,23,70,16,0,14,14,52,249,23,68,16,0,12,22,59,Școala Generală nr. 8,Str. Tudor Vladimirescu nr. 8,Botoșani,47.749,26.6708
+47,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,268,44,80,17,0,18,12,43,255,48,85,24,0,21,13,39,Școala Generală nr. 11,Calea Națională nr. 75,Botoșani,47.7483,26.6577
+48,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,183,30,75,14,0,19,10,36,192,29,67,12,0,22,11,33,Școala Generală nr. 11,Calea Națională nr. 75,Botoșani,47.7483,26.6577
+49,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,255,48,107,24,1,25,16,65,246,54,109,23,1,32,18,57,Școala Generală nr. 11,Calea Națională nr. 75,Botoșani,47.7483,26.6577
+50,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,205,10,68,9,0,17,12,36,202,14,72,10,0,14,11,33,Școala Generală nr. 11,Calea Națională nr. 75,Botoșani,47.7483,26.6577
+51,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,191,16,78,4,0,15,10,60,221,18,77,5,1,18,10,28,Școala Generală nr. 2,Str. Parcul Tineretului (D) nr. 9,Botoșani,47.7535,26.6722
+52,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,141,16,40,7,1,13,6,23,141,13,43,10,2,12,7,24,Școala Generală nr. 2,Str. Parcul Tineretului nr. 9,Botoșani,47.7535,26.6722
+53,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,217,10,60,9,0,14,9,30,212,10,62,11,0,17,11,30,Școala Generală nr. 2,Str. Parcul Tineretului nr. 9,Botoșani,47.7535,26.6722
+54,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,192,16,81,24,2,20,11,33,190,15,82,28,0,25,9,30,Școala Generală nr. 2,Str. Parcul Tineretului nr. 9,Botoșani,47.7535,26.6722
+55,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,204,22,54,4,0,15,12,33,204,25,52,4,0,21,10,30,Grupul Școlar Economic și Administrativ „Octav Onicescu”,Str. Bucovina nr. 33,Botoșani,47.7351,26.6592
+56,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,236,52,59,23,1,22,8,36,247,46,56,21,1,28,9,30,Grupul Școlar Economic și Administrativ „Octav Onicescu”,Str. Bucovina nr. 33,Botoșani,47.7351,26.6592
+57,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,195,28,158,28,0,23,13,63,209,32,165,21,2,22,18,53,Grădinița nr. 20,Aleea Constantin Iordăchescu nr. 40,Botoșani,47.7564,26.6574
+58,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,252,59,109,17,0,25,26,65,247,51,116,25,0,28,22,58,Școala Generală nr. 10,Bulevardul Mihai Eminescu nr. 89,Botoșani,47.7373,26.6656
+59,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,319,44,101,13,1,22,17,44,308,45,105,16,2,28,19,42,Școala Generală nr. 10,Bulevardul Mihai Eminescu nr. 89,Botoșani,47.7373,26.6656
+60,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,294,59,130,24,4,30,10,43,297,60,135,29,2,21,16,43,Școala Generală nr. 10,Bulevardul Mihai Eminescu nr. 89,Botoșani,47.7373,26.6656
+61,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,299,68,106,20,2,32,14,42,293,65,123,20,0,40,16,34,Colegiul Național „A.T. Laurian”,Str. Nicolae Iorga nr. 19,Botoșani,47.7388,26.665
+62,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,260,24,78,16,0,18,15,38,254,24,79,17,0,20,13,38,Colegiul Național „A.T. Laurian”,Str. Nicolae Iorga nr. 19,Botoșani,47.7388,26.665
+63,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,196,31,96,10,1,52,9,50,206,35,101,17,0,54,9,30,Local Clubul Pensionarilor,Str. 1 Decembrie nr. 69,Botoșani,47.745,26.67
+64,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,261,34,87,19,0,31,10,45,265,34,91,18,1,32,8,39,Școala Generală nr. 1,Str. A. S. Pușkin nr. 20,Botoșani,47.738,26.6748
+65,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,202,27,82,12,0,21,11,36,202,24,84,16,1,19,12,32,Școala Generală nr. 1,Str. A. S. Pușkin nr. 20,Botoșani,47.738,26.6748
+66,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,284,32,109,17,0,29,15,41,284,33,113,16,0,29,14,36,Școala Generală nr. 1,Str. A. S. Pușkin nr. 20,Botoșani,47.738,26.6748
+67,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,321,60,133,19,0,26,19,53,311,62,136,16,0,29,24,63,Grup Școlar Economic și Administrativ „Octav Onicescu”,Str. Bucovina nr. 33,Botoșani,47.7351,26.6592
+68,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,284,29,81,14,1,35,17,47,277,29,86,15,0,37,16,45,Grupul Școlar Industrial „Construcții de Mașini” (Liceul Industrial nr. 1),Str. Dimitrie Rallet (Str. 23 August) nr. 9,Botoșani,47.7354,26.6623
+69,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,304,34,68,22,1,18,22,43,315,31,63,18,1,20,19,45,Grupul Școlar Industrial „Construcții de Mașini” (Liceul Industrial nr. 1),Str. Dimitrie Rallet (Str. 23 August) nr. 9,Botoșani,47.7354,26.6623
+70,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,233,36,67,16,0,19,13,51,224,33,65,17,0,22,19,58,Grupul Școlar Industrial „Construcții de Mașini” (Liceul Industrial nr. 1),Str. Dimitrie Rallet (Str. 23 August) nr. 9,Botoșani,47.7354,26.6623
+71,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,228,14,63,12,0,13,10,31,215,11,67,14,0,20,8,30,Școala Generală nr. 6,Aleea Școlii nr. 3,Botoșani,47.738,26.6566
+72,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,155,27,61,18,1,22,12,26,158,32,60,15,2,18,10,22,Școala Generală nr. 6,Aleea Școlii nr. 3,Botoșani,47.738,26.6566
+73,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,314,22,55,11,0,25,8,28,311,21,61,11,0,24,9,27,Școala Generală nr. 6,Aleea Școlii nr. 3,Botoșani,47.738,26.6566
+74,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,247,24,62,21,1,30,7,32,251,26,73,13,1,30,5,25,Școala Generală nr. 6,Aleea Școlii nr. 3,Botoșani,47.738,26.6566
+75,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,190,17,60,5,1,21,4,19,181,20,56,8,3,25,3,19,Școala Generală nr. 6,Aleea Școlii nr. 3,Botoșani,47.738,26.6566
+76,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,135,42,40,21,0,13,4,28,128,41,42,23,1,18,6,25,Școala Generală nr. 11,Calea Națională nr. 75,Botoșani,47.7483,26.6577
+77,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,306,29,73,15,1,24,11,43,305,32,73,16,0,23,15,44,Școala Generală nr. 3,Str. Tudor Vladimirescu nr. 19,Botoșani,47.7476,26.6751
+78,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,278,13,119,36,3,23,14,60,283,15,121,39,4,23,16,50,Grădinița de Copii nr. 8,Str. Săvenilor nr. 103,Botoșani,47.7573,26.6819
+79,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,209,20,78,15,2,15,5,24,205,21,81,13,2,13,7,27,Școala Generală nr. 9,Str. Tulbureni,Botoșani,47.7195,26.6987
+80,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,199,38,82,20,0,22,8,31,194,39,80,27,0,21,10,26,Grupul Școlar Agricol (Liceul Agroindustrial),Str. Călugăreni nr. 9,Botoșani,47.7469,26.6732
+81,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,269,40,79,20,2,29,19,62,255,39,79,25,3,36,25,68,Grupul Școlar Agricol (Liceul Agroindustrial),Str. Călugăreni nr. 9,Botoșani,47.7469,26.6732
+82,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,262,26,129,22,2,25,3,55,266,26,139,29,3,26,5,34,Liceul Pedagogic „Nicolae Iorga”,Str. Tudor Vladimirescu nr. 65,Botoșani,47.7433,26.6806
+83,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,322,21,104,24,1,28,14,42,325,19,100,28,4,26,19,41,Liceul Pedagogic „Nicolae Iorga”,Str. Tudor Vladimirescu nr. 65,Botoșani,47.7433,26.6806
+84,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,262,34,94,17,0,20,10,30,257,34,95,18,0,23,10,28,Liceul Pedagogic „Nicolae Iorga”,Str. Tudor Vladimirescu nr. 65,Botoșani,47.7433,26.6806
+85,7,BOTOȘANI,MUNICIPIUL BOTOŞANI,393,52,111,32,0,39,24,54,397,54,99,33,0,36,24,56,Liceul de Artă Ștefan Luchian,Bulevardul Mihai Eminescu nr. 69,Botoșani,47.7416,26.6587
+137,7,BOTOȘANI,ORAŞ SĂVENI,97,1,3,1,0,5,3,6,99,1,4,2,0,4,3,3,Școala Generală Bozieni,,Bozieni,47.944,26.9013
+406,7,BOTOȘANI,VLĂDENI,260,6,29,14,2,20,5,25,260,7,33,14,3,20,3,19,Școala cu Clasele I-VIII Brehuiesti (Corpul B),,Brehuiești,47.7031,26.5342
+169,7,BOTOȘANI,BROSCĂUŢI,363,10,105,5,3,50,5,22,360,9,105,6,0,60,3,18,Școala Dimitrie Pompeiu Broscauti,,Broscăuți,47.9522,26.4529
+170,7,BOTOȘANI,BROSCĂUŢI,322,11,117,7,0,34,10,20,312,12,127,9,1,34,10,14,Căminul Cultural Broscăuți,,Broscăuți,47.9533,26.4503
+166,7,BOTOȘANI,BRĂEŞTI,248,8,89,23,1,14,20,43,257,8,92,19,0,17,21,37,Cămin Cultural Brăești,,Brăești,47.8615,26.4565
+231,7,BOTOȘANI,DOBÂRCENI,73,4,35,6,0,29,12,29,75,4,33,6,0,34,11,24,Școala Brateni,Nr. 19,Brăteni,47.8589,27.0292
+108,7,BOTOȘANI,ORAŞ BUCECEA,143,3,42,17,1,16,12,18,135,4,47,16,1,21,11,17,Școala nr. 1 Bucecea,,Bucecea,47.7667,26.4457
+109,7,BOTOȘANI,ORAŞ BUCECEA,370,26,117,14,0,49,7,29,356,30,117,14,0,55,8,28,Centrul Cultural Bucecea,,Bucecea,47.7693,26.4411
+110,7,BOTOȘANI,ORAŞ BUCECEA,376,5,70,7,1,29,15,31,362,6,70,10,1,32,19,30,Școala nr. 2 Bucecea,,Bucecea,47.7779,26.4324
+198,7,BOTOȘANI,COŞULA,50,0,8,2,0,2,0,19,63,0,7,2,0,3,0,9,Școala cu Clasele I-IV Buda,Nr. 1,Buda,47.6262,26.809
+380,7,BOTOȘANI,TRUŞEŞTI,234,2,22,3,1,5,6,12,222,5,24,5,2,4,5,10,Școala Generală nr. 4 Buhăceni,,Buhăceni,47.8088,27.0036
+147,7,BOTOȘANI,ALBEŞTI,106,0,74,3,2,7,7,15,114,1,72,5,3,8,5,10,Școala Primară nr. 2 Buimaceni,Nr. 104,Buimăceni,47.6747,27.086
+394,7,BOTOȘANI,UNŢENI,171,2,29,24,0,5,2,13,170,2,29,21,1,5,2,13,Școala Primară nr. 3 Burlești,,Burlești,47.7579,26.8267
+160,7,BOTOȘANI,BĂLUŞENI,173,1,13,14,0,2,5,12,173,2,15,12,0,2,6,13,Școala Buzeni,,Buzeni,47.6798,26.7433
+240,7,BOTOȘANI,DURNEŞTI,68,0,86,5,0,4,22,31,71,0,87,4,0,6,21,27,Grădinița cu Program Normal nr. 3 Băbiceni,,Băbiceni,47.7551,27.0706
+139,7,BOTOȘANI,ORAŞ ŞTEFĂNEŞTI,179,1,71,2,2,5,1,13,192,1,76,3,2,5,2,6,Școala Primară Badiuti,Nr. 21,Bădiuți,47.7806,27.2073
+217,7,BOTOȘANI,CURTEŞTI,190,2,17,8,0,8,5,11,196,2,16,7,0,11,3,5,Școala Generală.Baiceni,,Băiceni,47.6947,26.656
+158,7,BOTOȘANI,BĂLUŞENI,321,5,44,14,1,22,9,21,333,4,48,12,0,22,7,16,Școala Baluseni,,Bălușeni,47.6729,26.799
+159,7,BOTOȘANI,BĂLUŞENI,64,0,14,3,0,3,1,11,68,0,14,3,1,3,1,4,Școala Balusenii Noi,,Bălușenii Noi,47.6846,26.8248
+253,7,BOTOȘANI,GORBĂNEŞTI,56,0,10,4,0,8,2,6,58,0,9,4,0,9,1,6,Școala Generală Batranesti,,Bătrânești,47.7864,26.8821
+188,7,BOTOȘANI,CORLĂTENI,132,2,45,1,0,4,2,10,132,2,50,1,0,6,0,6,Grădinița Carasa,Nr. 30,Carasa,47.9428,26.5164
+183,7,BOTOȘANI,COPĂLĂU,117,0,101,8,0,27,1,11,127,0,102,7,0,28,1,3,Școala Primară nr. 3 Cerbu,,Cerbu,47.6172,26.884
+164,7,BOTOȘANI,BLÂNDEŞTI,171,3,97,13,0,5,4,13,178,5,96,14,0,8,3,7,Școala Primară nr. 2 Cerchejeni,Nr. 68,Cerchejeni,47.6926,26.8853
+376,7,BOTOȘANI,TODIRENI,164,0,20,25,1,5,2,18,157,0,22,23,1,9,5,17,Școala cu Clasele I-VIII Cernești,,Cernești,47.609,27.0895
+301,7,BOTOȘANI,MIHAI EMINESCU,170,4,139,1,1,5,7,24,169,5,136,3,1,10,10,22,Școala Cervicești,,Cervicești,47.8037,26.5155
+129,7,BOTOȘANI,ORAŞ FLĂMÂNZI,74,0,110,3,0,4,3,9,76,0,111,3,1,3,2,9,Școala Primară „Gheorghe Pricop”,Nr. 43,Chițoveni,47.5677,26.9281
+232,7,BOTOȘANI,DOBÂRCENI,95,1,30,1,0,5,2,7,95,1,29,1,0,7,1,2,Școala Cismanesti,Nr. 14,Cișmănești,47.8517,27.0683
+314,7,BOTOȘANI,MILEANCA,97,0,8,2,0,1,4,11,99,0,8,1,1,2,4,9,Școala Gimnazială nr. 2 Codreni,,Codreni,48.0927,26.7835
+178,7,BOTOȘANI,CONCEŞTI,333,7,62,4,1,22,14,45,338,7,67,7,1,23,15,33,Căminul Cultural Concești,,Concești,48.1566,26.5585
+180,7,BOTOȘANI,COPĂLĂU,238,3,125,5,0,13,7,26,248,1,121,5,1,14,7,21,Școala Gimnazială nr. 1 Copălău,,Copălău,47.6169,26.8505
+181,7,BOTOȘANI,COPĂLĂU,184,5,131,6,1,12,0,19,190,8,129,6,3,16,1,13,Școala Gimnazială nr. 1 Copălău,,Copălău,47.6169,26.8505
+184,7,BOTOȘANI,CORDĂRENI,364,2,5,13,0,13,15,32,364,1,9,10,1,16,12,26,Caminul Cultural Cordareni,,Cordăreni,47.9954,26.5924
+187,7,BOTOȘANI,CORLĂTENI,126,0,100,4,0,9,2,8,123,1,98,4,0,7,3,12,Primăria Corlateni,Nr. 59,Corlăteni,47.9283,26.5491
+191,7,BOTOȘANI,CORNI,248,9,26,9,0,25,8,17,236,7,27,11,1,33,8,19,Școala O. Bancila,,Corni,47.6407,26.5773
+192,7,BOTOȘANI,CORNI,168,2,33,10,0,11,1,10,167,2,35,12,0,14,2,7,Școala O. Bancila,,Corni,47.6407,26.5773
+193,7,BOTOȘANI,CORNI,223,4,37,10,0,19,8,21,225,2,36,7,0,21,10,17,Școala O. Bancila,,Corni,47.6407,26.5773
+335,7,BOTOȘANI,RĂCHIŢI,213,3,262,24,1,27,9,21,214,4,267,20,1,29,8,15,Școala Gimnazială „Petre Șușter”,,Costești,47.8011,26.6681
+283,7,BOTOȘANI,LEORDA,76,0,52,2,0,1,0,5,78,0,52,2,0,1,0,4,Școala Generală cu Clasele I-IV Costinesti,,Costinești,47.8058,26.4581
+182,7,BOTOȘANI,COPĂLĂU,125,5,43,6,2,7,4,9,123,5,43,8,2,9,4,8,Școala Primară nr. 2 Cotu,,Cotu,47.5977,26.8597
+203,7,BOTOȘANI,COŢUŞCA,97,1,26,1,0,7,9,15,101,2,25,2,0,5,8,11,Școala Primară nr. 4,,Cotu Miculinți,48.1865,26.945
+349,7,BOTOȘANI,ROMA,111,1,13,11,1,1,2,10,110,1,14,12,1,1,2,7,Școala nr. 4 Cotirgaci,,Cotârgaci,47.8537,26.5415
+148,7,BOTOȘANI,ALBEŞTI,96,5,26,1,0,1,2,7,96,3,26,2,0,1,3,7,Școala Primară nr. 3 Costiugeni,Nr. 27,Coștiugeni,47.6852,27.0372
+197,7,BOTOȘANI,COŞULA,253,7,35,6,0,10,2,28,263,7,32,10,2,9,4,17,Grădinița „Prichindel” Coșula,Nr. 5B,Coșula,47.6224,26.778
+201,7,BOTOȘANI,COŢUŞCA,246,3,95,19,0,12,16,36,249,1,93,19,1,11,19,35,"Liceul Tehnologic, Corp B",,Coțușca,48.1278,26.855
+204,7,BOTOȘANI,COŢUŞCA,136,2,50,2,0,1,6,17,133,1,56,2,1,1,6,14,Școala Gimnazială nr. 1,,Crasnaleuca,48.1571,26.9546
+207,7,BOTOȘANI,CRISTEŞTI,298,8,48,27,2,9,11,29,303,9,57,24,1,9,11,22,"Școala Gimnazială nr. 1 Sat Crisetsti, Fost Sediu al Primariei Cristesti",,Cristești,47.6414,26.7229
+208,7,BOTOȘANI,CRISTEŞTI,217,2,18,2,0,13,3,11,216,4,17,2,0,14,3,7,"Școala Primară nr. 1 Sat Cristesti, Denumire Uzuala Școala din Ghilanesti",,Cristești,47.6288,26.7318
+211,7,BOTOȘANI,CRISTINEŞTI,226,3,108,18,4,17,14,32,228,3,110,21,3,17,11,25,Caminul Cultural Cristinesti,,Cristinești,48.0967,26.3924
+300,7,BOTOȘANI,MIHAI EMINESCU,145,2,111,9,1,12,13,34,149,4,108,10,2,15,12,24,Școala Cucorăni,,Cucorăni,47.7828,26.5152
+238,7,BOTOȘANI,DURNEŞTI,70,5,167,13,1,8,1,7,70,4,167,14,2,6,1,6,Școala Primară nr. 1 Cucuteni,,Cucuteni,47.7786,27.1356
+215,7,BOTOȘANI,CURTEŞTI,204,23,46,29,0,10,8,17,209,25,44,27,1,9,9,17,Grădinița Curtesti,,Curtești,47.712,26.6491
+403,7,BOTOȘANI,VIIŞOARA,136,0,20,5,0,8,3,22,130,1,21,6,2,7,4,24,Școala cu Clasele I-IV Cuza Vodă,,Cuza Vodă,48.1858,26.6952
+325,7,BOTOȘANI,PĂLTINIŞ,83,0,81,0,0,0,5,14,86,0,83,0,0,1,4,12,Școala Cuzlău,,Cuzlău,48.2348,26.6838
+331,7,BOTOȘANI,PRĂJENI,109,1,66,7,1,4,2,11,102,0,69,7,1,7,4,8,Școala cu Clasele I-IV,,Câmpeni,47.5053,26.9958
+175,7,BOTOȘANI,CÂNDEŞTI,212,3,86,16,2,5,12,24,205,4,97,18,0,4,12,18,Școala Gimnazială Cândești,,Cândești,47.9243,26.1944
+111,7,BOTOȘANI,ORAŞ BUCECEA,147,1,30,4,0,12,5,10,149,2,28,7,0,12,8,11,Școala Calinesti,,Călinești,47.7574,26.4676
+391,7,BOTOȘANI,UNGURENI,145,2,39,2,0,4,1,7,145,2,36,3,0,5,3,9,Școala Gimnazială nr. 8 Călugărenii Vechi,Str. Școlii nr. 23,Călugăreni,47.9157,26.6878
+171,7,BOTOȘANI,CĂLĂRAŞI,160,5,175,5,2,13,3,12,161,4,180,7,0,14,4,10,Camin Cultural Calarasi,,Călărași,47.6049,27.2549
+172,7,BOTOȘANI,CĂLĂRAŞI,139,2,197,12,4,16,2,15,138,0,201,15,4,17,1,8,Școala Calarasi,,Călărași,47.6046,27.2564
+305,7,BOTOȘANI,MIHAI EMINESCU,115,1,89,4,0,9,11,25,127,2,79,2,2,9,8,19,Școala Cătămărești,,Cătămărești,47.751,26.5706
+302,7,BOTOȘANI,MIHAI EMINESCU,187,28,138,18,2,20,30,54,198,28,132,17,1,17,31,54,Școala Cătămărești Deal,,Cătămărești-Deal,47.7698,26.598
+303,7,BOTOȘANI,MIHAI EMINESCU,247,33,134,23,0,24,25,52,240,34,124,26,2,30,28,51,Școala Cătămărești Deal,,Cătămărești-Deal,47.7698,26.598
+321,7,BOTOȘANI,NICŞENI,25,2,8,1,0,4,3,8,24,1,9,1,0,6,4,8,Școala Dacia,,Dacia,47.8438,26.6945
+112,7,BOTOȘANI,ORAŞ DARABANI,277,11,99,13,0,18,11,20,272,12,106,13,1,17,12,22,Liceul „Dimitrie Cantemir”,Nr. 20,Darabani,48.1839,26.5907
+113,7,BOTOȘANI,ORAŞ DARABANI,297,8,96,6,0,19,20,35,290,6,96,9,1,18,17,34,Școala Gimnazială „Leon Dănăilă”,Nr. 76,Darabani,48.1884,26.5883
+114,7,BOTOȘANI,ORAŞ DARABANI,273,17,108,7,1,14,19,40,276,18,110,8,1,15,17,32,Școala Gimnazială „Leon Dănăilă”,Nr. 76,Darabani,48.1884,26.5883
+115,7,BOTOȘANI,ORAŞ DARABANI,285,14,106,11,1,17,17,38,276,15,112,14,2,14,19,38,Grădinița nr. 2,Str. 1 Decembrie (Str. Constantin Dobrogeanu Gherea) nr. 181,Darabani,48.1867,26.5951
+116,7,BOTOȘANI,ORAŞ DARABANI,173,6,101,5,2,18,6,20,168,6,111,7,0,22,3,11,Școala Cornești,Str. Școlii nr. 23A,Darabani,48.195,26.5958
+118,7,BOTOȘANI,ORAŞ DARABANI,212,3,63,9,1,16,20,31,212,2,66,12,0,17,18,28,Școala Teioasa,Str. Crinilor nr. 36,Darabani,48.2153,26.5792
+414,7,BOTOȘANI,VORNICENI,77,0,11,3,1,2,0,7,77,0,11,3,1,2,0,5,Școala Dealu Crucii,,Dealu Crucii,47.9373,26.6463
+221,7,BOTOȘANI,DERSCA,252,7,98,14,0,15,25,41,247,8,97,18,0,12,28,44,Camin Cultural,,Dersca,47.9891,26.2102
+222,7,BOTOȘANI,DERSCA,205,2,102,14,1,24,27,46,209,4,103,10,1,25,28,46,Școala Generală Dersca,,Dersca,47.9899,26.2131
+224,7,BOTOȘANI,DIMĂCHENI,263,5,26,5,0,31,0,13,264,7,26,4,2,34,0,8,Primăria,Str. Preot Gheorghe Ciomîrtan nr. 1,Dimăcheni,47.9133,26.5482
+229,7,BOTOȘANI,DOBÂRCENI,143,4,89,8,2,10,0,10,152,3,90,7,1,9,0,10,Școala Dobirceni,Nr. 14,Dobârceni,47.8251,27.064
+342,7,BOTOȘANI,RĂUSENI,103,1,11,4,1,3,2,11,104,1,13,4,0,3,1,9,Școala Generală Doina,,Doina,47.5429,27.1944
+284,7,BOTOȘANI,LEORDA,163,2,169,5,0,3,15,33,160,2,170,6,0,5,15,28,Școala Generală cu Clasele I-IV Dolina,,Dolina,47.828,26.4626
+320,7,BOTOȘANI,NICŞENI,230,0,79,12,1,18,12,40,225,0,70,11,1,22,10,45,Camin Cultural Dorobanți,,Dorobanți,47.8758,26.6449
+86,7,BOTOȘANI,MUNICIPIUL DOROHOI,369,27,69,20,2,35,11,38,367,23,70,21,2,45,12,31,Colegiul Național „Grigore Ghica” Dorohoi,Str. Grigore Ghica nr. 41,Dorohoi,47.9534,26.3942
+87,7,BOTOȘANI,MUNICIPIUL DOROHOI,347,19,60,18,0,32,7,27,335,17,59,18,0,46,9,27,Clădirea Stării Civile Dorohoi,Str. Grigore Ghica nr. 32,Dorohoi,47.953,26.3968
+88,7,BOTOȘANI,MUNICIPIUL DOROHOI,443,23,90,36,1,49,15,37,432,23,93,34,0,50,15,41,Biblioteca Municipală Dorohoi,Str. Alexandru Ioan Cuza nr. 41,Dorohoi,47.9532,26.3915
+89,7,BOTOȘANI,MUNICIPIUL DOROHOI,367,19,62,18,0,47,27,53,367,17,64,17,0,51,23,51,Școala Gimnazială „Spiru Haret” Dorohoi,Str. Lt. Olinescu nr. 2,Dorohoi,47.9515,26.3921
+90,7,BOTOȘANI,MUNICIPIUL DOROHOI,260,14,39,20,1,40,16,34,260,14,44,22,1,41,12,28,Grădinița cu Program Normal nr. 4 Dorohoi,Str. Slt. Sorin Dumitraș (Str. Constructorilor) nr. 25B,Dorohoi,47.9502,26.3877
+91,7,BOTOȘANI,MUNICIPIUL DOROHOI,325,17,53,20,1,23,19,31,324,16,55,18,1,28,21,30,Școala Gimnazială nr. 1 Dorohoi,Str. Locotenent Stroe Buican (Str. Izvoarelor) nr. 2,Dorohoi,47.9595,26.3916
+92,7,BOTOȘANI,MUNICIPIUL DOROHOI,236,8,78,33,2,25,20,47,239,10,71,30,1,33,23,49,Casa Municipală de Cultură Dorohoi,Str. Gării (Str. George Enescu) (D) nr. 57,Dorohoi,47.9548,26.3951
+93,7,BOTOȘANI,MUNICIPIUL DOROHOI,271,9,64,20,2,27,6,29,268,9,65,21,2,26,10,31,Școala Gimnazială „Ștefan Cel Mare” Dorohoi,Str. Ștefan cel Mare nr. 28,Dorohoi,47.9521,26.4059
+94,7,BOTOȘANI,MUNICIPIUL DOROHOI,225,17,60,27,0,31,8,26,224,19,53,29,0,36,11,23,Școala Gimnazială „Ștefan Cel Mare” Dorohoi,Str. Ștefan cel Mare nr. 28,Dorohoi,47.9521,26.4059
+95,7,BOTOȘANI,MUNICIPIUL DOROHOI,242,5,44,6,1,26,3,15,239,6,42,6,1,36,3,11,Școala Gimnazială „Alexandru Ioan Cuza” Dorohoi,Bulevardul Victoriei nr. 108,Dorohoi,47.9427,26.4051
+96,7,BOTOȘANI,MUNICIPIUL DOROHOI,290,4,51,12,0,18,8,31,293,5,54,10,0,21,8,23,Școala Gimnazială „Alexandru Ioan Cuza” Dorohoi,Bulevardul Victoriei nr. 108,Dorohoi,47.9427,26.4051
+97,7,BOTOȘANI,MUNICIPIUL DOROHOI,347,8,45,13,0,20,10,23,353,9,41,14,0,24,10,18,Liceul „Regina Maria” Dorohoi,Bulevardul Victoriei nr. 112,Dorohoi,47.9405,26.4077
+98,7,BOTOȘANI,MUNICIPIUL DOROHOI,316,10,64,11,0,36,19,36,310,9,64,11,2,47,15,33,Liceul „Regina Maria” Dorohoi,Bulevardul Victoriei nr. 112,Dorohoi,47.9405,26.4077
+99,7,BOTOȘANI,MUNICIPIUL DOROHOI,321,10,53,12,0,35,7,34,331,12,48,12,0,33,7,31,Școala Gimnazială „Mihail Kogălniceanu” Dorohoi,Aleea Dumbrava nr. 2,Dorohoi,47.9443,26.4062
+100,7,BOTOȘANI,MUNICIPIUL DOROHOI,297,8,46,8,1,26,12,30,300,9,42,11,1,24,11,30,Școala Gimnazială „Mihail Kogălniceanu” Dorohoi,Aleea Dumbrava nr. 2,Dorohoi,47.9443,26.4062
+101,7,BOTOȘANI,MUNICIPIUL DOROHOI,272,6,28,14,0,26,9,20,262,6,27,15,0,34,9,21,Grădinița cu Program Prelungit „Alba Ca Zăpada” Dorohoi,Aleea Mărului nr. 5,Dorohoi,47.9461,26.4057
+102,7,BOTOȘANI,MUNICIPIUL DOROHOI,403,7,78,5,1,51,9,32,402,8,74,8,0,56,12,30,Grădinița cu Program Prelungit „Alba Ca Zăpada” Dorohoi,Aleea Mărului nr. 5,Dorohoi,47.9461,26.4057
+103,7,BOTOȘANI,MUNICIPIUL DOROHOI,228,9,51,11,1,26,11,26,229,11,47,13,0,29,13,25,Sala Polivalentă Dorohoi,Bulevardul Victoriei nr. 120B,Dorohoi,47.9413,26.4066
+104,7,BOTOȘANI,MUNICIPIUL DOROHOI,288,1,55,8,1,35,13,26,281,2,53,9,1,43,13,24,Școala Gimnazială „Dimitrie Romanescu” Dorohoi,Str. Horia nr. 21,Dorohoi,47.9611,26.4073
+105,7,BOTOȘANI,MUNICIPIUL DOROHOI,250,8,43,11,2,18,7,56,266,7,43,15,2,22,5,26,Școala Gimnazială „Dimitrie Romanescu” Dorohoi,Str. Horia nr. 21,Dorohoi,47.9611,26.4073
+106,7,BOTOȘANI,MUNICIPIUL DOROHOI,177,6,33,11,0,29,15,24,179,7,30,9,1,27,16,23,Clădire Școală (Grădiniță) Satu Nou,Str. Prunului nr. 7 bis,Dorohoi,47.9734,26.4285
+367,7,BOTOȘANI,SULIŢA,274,9,39,16,0,17,13,32,278,9,37,30,0,16,13,33,Școala cu Cl. I-VIII Dracsani,,Dracșani,47.6327,26.9321
+212,7,BOTOȘANI,CRISTINEŞTI,136,1,48,7,1,7,4,22,136,2,49,7,1,9,5,21,Școala Dragalina,,Dragalina,48.0561,26.4528
+270,7,BOTOȘANI,HLIPICENI,83,6,17,5,1,10,2,8,80,7,20,6,0,12,2,6,Școala cu Cl . I-IV Dragalina,Nr. 54,Dragalina,47.6073,27.1941
+161,7,BOTOȘANI,BĂLUŞENI,392,8,60,14,1,24,4,41,395,11,68,18,1,24,7,31,Școala Draxini,,Draxini,47.6578,26.8204
+381,7,BOTOȘANI,TRUŞEŞTI,219,4,78,4,2,8,1,12,221,4,84,7,1,9,6,10,Școala Generală nr. 3 Drislea,,Drislea,47.7724,26.9713
+234,7,BOTOȘANI,DRĂGUŞENI,334,5,32,14,0,27,11,26,337,5,31,17,2,28,12,23,Școala Gimnazială Aristotel Crismaru Draguseni,,Drăgușeni,48.0185,26.806
+278,7,BOTOȘANI,IBĂNEŞTI,175,2,105,6,0,10,8,20,172,4,106,6,1,9,9,17,"Școala „Mihail Sadoveanu”, Corp B",,Dumbrăvița,48.019,26.4266
+279,7,BOTOȘANI,IBĂNEŞTI,180,4,95,8,0,8,5,15,176,5,94,8,0,7,5,13,"Școala „Mihail Sadoveanu”, Corp B",,Dumbrăvița,48.019,26.4266
+247,7,BOTOȘANI,GEORGE ENESCU,103,2,50,15,2,24,8,16,95,3,53,16,2,27,7,14,Sediul Primariei Comunei George Enescu,,Dumeni,48.0206,26.5176
+248,7,BOTOȘANI,GEORGE ENESCU,209,4,117,13,0,13,2,25,213,4,118,19,0,16,3,10,Școala Generală nr. 2 Dumeni,,Dumeni,48.0018,26.5437
+237,7,BOTOȘANI,DURNEŞTI,154,6,164,17,0,10,7,14,150,5,165,15,0,13,7,11,Școala Gimnazială nr. 1 Durnești,,Durnești,47.892,26.7707
+225,7,BOTOȘANI,DÎNGENI,127,2,114,13,0,13,4,15,129,2,115,14,1,14,4,8,Căminul Cultural Dîngeni,,Dângeni,47.8507,26.9654
+351,7,BOTOȘANI,ROMÂNEŞTI,121,4,17,2,0,6,0,5,125,4,16,1,0,6,0,5,Școala Primară nr. 1,Nr. 8,Dămideni,47.6962,27.254
+120,7,BOTOȘANI,ORAŞ DARABANI,65,0,28,1,0,1,0,4,63,1,27,1,0,1,1,5,Școala Eșanca,,Eșanca,48.1718,26.6532
+293,7,BOTOȘANI,MANOLEASA,159,0,25,3,0,8,1,2,159,0,26,3,0,9,1,2,Școala Flondora,,Flondora,48.0027,27.0274
+121,7,BOTOȘANI,ORAŞ FLĂMÂNZI,101,6,56,2,2,7,0,10,98,6,58,3,1,10,0,9,Școala Gimnazială „Mihail Sturza”,Str. 1907 nr. 112,Flămânzi,47.5532,26.8804
+122,7,BOTOȘANI,ORAŞ FLĂMÂNZI,120,6,84,3,0,7,2,6,120,6,86,4,0,9,2,7,Școala .Gimnazială „Mihail Sturza”,Str. 1907 nr. 112,Flămânzi,47.5532,26.8804
+123,7,BOTOȘANI,ORAŞ FLĂMÂNZI,200,3,110,5,2,9,2,10,198,3,115,4,4,9,4,12,Școala.Gimnazială „Ion Bojoi”,Str. 1907 nr. 46,Flămânzi,47.5564,26.8913
+124,7,BOTOȘANI,ORAŞ FLĂMÂNZI,145,13,92,8,0,8,5,23,153,14,98,6,0,8,2,13,Casa de Cultura „Nicolae Severeanu”,Str. 1907 nr. 1,Flămânzi,47.5578,26.898
+241,7,BOTOȘANI,FRUMUŞICA,159,4,31,15,0,7,18,30,158,5,33,10,0,10,15,30,Școala Gimnazială nr. 2 Frumusica,,Frumușica,47.5345,26.8995
+213,7,BOTOȘANI,CRISTINEŞTI,174,4,30,10,0,10,15,24,182,1,31,8,1,9,17,24,Școala Fundu Hertii,,Fundu Herții,48.1157,26.3033
+254,7,BOTOȘANI,GORBĂNEŞTI,48,0,17,1,1,5,0,2,48,1,15,1,1,5,0,2,Școala Generală George Cosbuc,,George Coșbuc,47.7998,26.8678
+202,7,BOTOȘANI,COŢUŞCA,97,0,59,11,1,11,9,17,96,0,60,12,2,9,8,14,Școala Gimnazială nr. 2,,Ghireni,48.1516,26.8852
+252,7,BOTOȘANI,GORBĂNEŞTI,205,2,60,25,0,14,6,21,205,3,65,26,0,14,7,20,Școala Gorbanesti,,Gorbănești,47.7796,26.8601
+397,7,BOTOȘANI,VĂCULEŞTI,27,0,3,2,0,1,0,3,29,0,3,2,0,1,0,2,Școala Gorovei,,Gorovei,47.8776,26.3425
+185,7,BOTOȘANI,CORDĂRENI,153,1,8,34,0,4,5,13,158,1,9,33,0,5,3,13,Școala Grivita,,Grivița,48.0121,26.5769
+239,7,BOTOȘANI,DURNEŞTI,102,2,100,23,0,5,7,15,104,3,97,25,1,5,6,15,Școala Gimnazială nr. 2 Guranda,,Guranda,47.777,27.0673
+258,7,BOTOȘANI,HAVÎRNA,230,2,49,20,1,5,18,23,230,2,53,16,0,5,17,21,Școala Gimnazială „Ioan Cernat” Havirna -Corpul 3 de Langa Grădinița,,Havârna,48.0737,26.6494
+259,7,BOTOȘANI,HAVÎRNA,122,0,79,18,1,4,15,20,121,4,76,19,0,3,17,23,Grădinița cu Program Normal nr. 2 Havirna (Catun Baseu),,Havârna,48.0821,26.6328
+260,7,BOTOȘANI,HAVÎRNA,152,3,95,47,0,1,21,28,160,4,95,46,1,3,13,18,Școala Gimnazială „Ioan Cernat” Havirna -Corpul nr. 2,,Havârna,48.0744,26.6476
+268,7,BOTOȘANI,HILIŞEU-HORIA,188,1,15,7,1,7,13,29,192,0,13,10,1,9,13,25,Școala Primară nr. 4 Hiliseu Closca,,Hilișeu-Cloșca,48.0155,26.3316
+267,7,BOTOȘANI,HILIŞEU-HORIA,406,1,28,9,1,6,0,9,401,3,30,11,1,7,0,8,Școala Gimnazială nr. 2 Hiliseu Crisan,,Hilișeu-Crișan,48.0299,26.2494
+266,7,BOTOȘANI,HILIŞEU-HORIA,347,5,26,10,0,9,3,21,349,6,24,10,1,8,4,21,Școala Gimnazială nr. 1 Hiliseu Horia,,Hilișeu-Horia,47.9918,26.3028
+269,7,BOTOȘANI,HLIPICENI,236,16,73,18,2,26,12,32,239,12,71,30,2,23,15,28,Școala cu Cl.I-VIII Hlipiceni,Nr. 258,Hlipiceni,47.5992,27.1428
+318,7,BOTOȘANI,MITOC,76,1,78,12,0,8,1,6,75,1,77,13,0,8,1,7,Școala Primară nr. 1 Horia,Str. Independenței nr. 63,Horia,48.1248,26.9753
+370,7,BOTOȘANI,ŞENDRICENI,159,2,22,8,0,6,2,10,162,2,23,10,0,5,4,6,Școala Generală,,Horlăceni,47.9144,26.3356
+326,7,BOTOȘANI,PĂLTINIŞ,138,5,123,3,2,2,1,10,136,5,121,5,1,1,1,10,Școala cu Cl I-VIII Horodiștea,,Horodiștea,48.2365,26.7135
+272,7,BOTOȘANI,HUDEŞTI,259,11,96,7,0,3,6,16,257,14,93,5,0,9,6,13,Cămin Cultural,,Hudești,48.1419,26.5079
+226,7,BOTOȘANI,DÎNGENI,91,1,123,6,0,4,13,31,93,0,122,7,0,4,13,25,Căminul Cultural Hulub,,Hulub,47.8286,26.9682
+263,7,BOTOȘANI,HĂNEŞTI,171,6,136,7,2,24,5,25,178,7,132,7,1,22,6,21,Camin Cultural Hanesti,,Hănești,47.9114,26.9785
+227,7,BOTOȘANI,DÎNGENI,184,1,208,9,1,3,4,10,180,3,210,7,1,4,3,9,Școala Gimnazială nr. 2 Iacobeni,,Iacobeni,47.8629,26.9095
+280,7,BOTOȘANI,IBĂNEŞTI,166,5,111,3,1,6,10,31,172,8,109,5,2,11,5,21,Grădinița cu 4 Grupe Ibanesti,,Ibănești,48.0674,26.3748
+281,7,BOTOȘANI,IBĂNEŞTI,220,4,108,7,1,12,3,21,220,5,110,7,0,12,0,20,Grădinița cu 4 Grupe Ibanesti,,Ibănești,48.0674,26.3748
+157,7,BOTOȘANI,AVRĂMENI,32,1,5,2,0,1,2,6,32,1,6,2,0,1,2,5,Școala cu Clasele 1-4 Ichimeni,,Ichimeni,48.0407,26.8751
+420,7,BOTOȘANI,VORONA,49,0,18,2,0,7,3,5,50,0,19,1,0,10,1,2,Grădinița Numarul 2 Icuseni,,Icușeni,47.5821,26.5704
+421,7,BOTOȘANI,VORONA,168,1,30,6,0,1,6,21,164,0,32,7,0,4,7,19,Școala cu Clasele I-VIII Alexandru Cel Bun Icuseni,,Icușeni,47.5926,26.5945
+356,7,BOTOȘANI,SANTA MARE,73,0,55,3,1,2,1,5,77,0,51,3,0,4,1,3,Școala Generală Iliseni,,Ilișeni,47.6714,27.2602
+382,7,BOTOȘANI,TRUŞEŞTI,204,4,67,8,2,6,12,34,211,4,67,7,3,6,17,30,Școala Generală nr. 2 Ionășeni,,Ionășeni,47.73,26.991
+400,7,BOTOȘANI,VÂRFU CÂMPULUI,196,4,24,8,0,6,3,25,195,4,28,8,0,7,4,24,Școala cu Clasele I-VIII Ionășeni,,Ionășeni,47.8119,26.3734
+299,7,BOTOȘANI,MIHAI EMINESCU,89,13,146,8,0,10,12,20,93,11,146,5,1,9,14,25,Școala Ipotești,,Ipotești,47.7671,26.5588
+377,7,BOTOȘANI,TODIRENI,112,1,27,7,0,4,1,5,112,0,26,8,0,5,1,4,Școala cu Clasele I-IV Iurești,,Iurești,47.6182,27.0733
+149,7,BOTOȘANI,ALBEŞTI,103,2,55,2,0,1,2,9,103,1,54,4,0,3,2,7,Școala Primară nr. 4 Jijia,Nr. 46,Jijia,47.6486,27.0968
+419,7,BOTOȘANI,VORONA,199,0,25,21,0,4,3,17,202,3,24,23,0,3,4,13,Școala cu Clasele I-VIII Raluca Iurascu Joldesti,,Joldești,47.5578,26.5734
+282,7,BOTOȘANI,LEORDA,337,5,244,7,0,12,3,28,347,5,241,10,0,12,4,30,Școala Generală nr. 1 Leorda,,Leorda,47.8198,26.4536
+174,7,BOTOȘANI,CĂLĂRAŞI,71,0,97,2,0,5,2,11,76,0,98,4,0,4,2,5,Școala Libertatea,,Libertatea,47.616,27.2854
+119,7,BOTOȘANI,ORAŞ DARABANI,129,1,39,0,1,12,1,4,133,1,39,0,2,7,1,3,Școala Lișmănița,,Lismănița,48.1367,26.6702
+233,7,BOTOȘANI,DOBÂRCENI,92,0,48,3,0,6,3,9,92,1,48,3,0,6,3,8,Școala Murguta,Nr. 24,Livada,47.821,27.1247
+296,7,BOTOȘANI,MANOLEASA,175,2,9,8,0,5,2,3,172,2,10,8,0,4,4,8,Școala Liveni,,Liveni,48.0547,27.0639
+363,7,BOTOȘANI,SUHARĂU,195,3,40,13,0,8,39,59,198,2,49,14,0,6,30,47,Grădinița Lisna,,Lișna,48.1068,26.4752
+297,7,BOTOȘANI,MANOLEASA,71,1,5,1,0,2,0,2,75,1,4,1,0,2,0,0,Școala Loturi,,Loturi,48.0411,27.0574
+107,7,BOTOȘANI,MUNICIPIUL DOROHOI,90,2,45,3,2,7,3,13,93,3,45,4,2,5,3,9,Clădire Școală Loturi Enescu,Nr. 13,Loturi Enescu,47.9882,26.3844
+285,7,BOTOȘANI,LOZNA,290,4,39,41,0,16,5,25,299,4,42,38,0,16,3,20,Camin Cultural,Str. Principală nr. 96,Lozna,47.9512,26.2747
+287,7,BOTOȘANI,LUNCA,181,0,32,6,0,10,1,17,176,2,33,9,0,12,2,9,Caminul Cultural Lunca,,Lunca,47.6247,26.9953
+288,7,BOTOȘANI,LUNCA,166,1,37,24,0,3,4,11,161,0,39,25,0,5,4,8,Caminul Cultural Biznoasa,,Lunca,47.6135,27.004
+401,7,BOTOȘANI,VÂRFU CÂMPULUI,167,4,22,10,0,10,4,16,168,5,23,7,2,9,6,13,Școala cu Clasele I-IV Lunca,,Lunca,47.8826,26.2719
+332,7,BOTOȘANI,PRĂJENI,125,1,75,3,0,22,5,17,124,2,77,2,0,24,7,17,Școala Generală Luparia,,Lupăria,47.4861,27.0148
+398,7,BOTOȘANI,VÂRFU CÂMPULUI,180,8,41,7,0,13,6,13,185,6,42,14,0,7,5,10,Școala cu Clasele I-VIII nr. 1,,Maghera,47.8609,26.302
+292,7,BOTOȘANI,MANOLEASA,188,1,22,5,1,14,1,6,200,0,19,5,1,9,1,6,Școala Manoleasa,,Manoleasa,47.991,27.0586
+298,7,BOTOȘANI,MANOLEASA,38,2,7,1,0,3,2,6,41,1,8,1,0,3,2,6,Fosta Școala Manoleasa Prut,,Manoleasa-Prut,48.0098,27.0865
+223,7,BOTOȘANI,DIMĂCHENI,75,1,8,4,0,3,2,9,78,1,8,5,0,4,2,6,Camin Cultural,Str. Centrală nr. 3,Mateieni,47.919,26.5926
+195,7,BOTOȘANI,CORNI,48,0,18,1,1,12,1,4,45,0,19,4,2,10,1,5,Școala cu Cl I-IV Mesteacan,,Mesteacăn,47.6232,26.6206
+388,7,BOTOȘANI,UNGURENI,87,7,60,11,1,10,2,5,89,7,56,9,1,8,3,7,Școala Primară nr. 5 Mihai Viteazu,Str. Școlii nr. 5,Mihai Viteazu,47.9287,26.7813
+306,7,BOTOȘANI,MIHĂILENI,343,7,44,8,1,5,20,27,342,6,48,8,1,7,16,25,Școala Cl I-IV Mihaileni,,Mihăileni,47.9661,26.1435
+309,7,BOTOȘANI,MIHĂLĂŞENI,109,4,113,1,0,6,5,9,114,6,108,3,0,7,5,7,Școala Mihalaseni,,Mihălășeni,47.8817,27.0665
+313,7,BOTOȘANI,MILEANCA,350,7,76,7,2,8,10,31,360,5,69,9,2,6,10,37,"Școala Gimnazială nr. 1 Mileanca, Corp B, Parter",,Mileanca,48.0889,26.6938
+333,7,BOTOȘANI,PRĂJENI,103,0,104,5,1,1,2,7,102,1,103,4,1,3,2,6,Școala Gimnazială nr. 2 Miletin,,Miletin,47.4818,27.0628
+339,7,BOTOȘANI,RĂDĂUŢI-PRUT,106,3,105,12,0,5,11,29,117,1,114,9,1,7,12,15,Camin Cultural Miorcani,,Miorcani,48.201,26.8493
+340,7,BOTOȘANI,RĂDĂUŢI-PRUT,76,4,128,5,0,1,8,15,79,1,132,6,0,1,11,14,Camin Cultural Miorcani,,Miorcani,48.201,26.8493
+410,7,BOTOȘANI,VLĂSINEŞTI,173,0,16,1,0,5,2,5,172,0,14,1,0,5,1,4,Școala cu Clasele I-IV,,Miron Costin,47.9374,26.9488
+317,7,BOTOȘANI,MITOC,237,3,48,19,0,11,4,10,234,4,54,19,0,11,6,10,Școala Gimnazială „Florică Murariu” Mitoc,Str. Școlii nr. 2,Mitoc,48.1028,27.033
+275,7,BOTOȘANI,HUDEŞTI,149,1,116,3,0,7,16,25,155,3,116,0,0,8,15,22,Școala Mlenăuți,,Mlenăuți,48.1272,26.4859
+179,7,BOTOȘANI,CONCEŞTI,111,1,6,3,0,4,5,12,110,3,8,4,0,2,6,10,Caminul Cultural Movileni,,Movileni,48.1364,26.5985
+407,7,BOTOȘANI,VLĂDENI,243,5,50,15,2,15,7,27,249,4,54,15,0,10,7,27,Școala cu Clasele I-VIII Mandresti,,Mândrești,47.735,26.4837
+393,7,BOTOȘANI,UNŢENI,129,3,80,5,0,3,6,12,127,2,76,6,0,7,5,9,Școala Gimnazială nr. 2 Mînăstireni,,Mânăstireni,47.8381,26.7568
+218,7,BOTOȘANI,CURTEŞTI,220,9,39,24,1,10,4,21,220,11,38,24,0,9,7,21,Școala Generală Manastirea Doamnei,,Mănăstirea Doamnei,47.7164,26.6087
+150,7,BOTOȘANI,ALBEŞTI,60,0,39,4,1,5,0,10,63,1,39,3,0,6,2,9,Școala Primară nr. 5 Mascateni,Nr. 12,Mășcăteni,47.7185,27.04
+373,7,BOTOȘANI,ŞTIUBIENI,172,4,99,8,0,6,8,19,179,5,96,9,2,5,8,17,Caminul Cultural Negreni,,Negreni,47.9991,26.7588
+311,7,BOTOȘANI,MIHĂLĂŞENI,93,0,71,5,0,3,3,5,95,0,71,3,0,3,4,8,Școala Negresti,,Negrești,47.8648,27.1053
+206,7,BOTOȘANI,COŢUŞCA,133,2,111,8,0,3,11,24,136,4,113,4,0,4,12,23,Școala Gimnazială nr. 3,,Nichiteni,48.0928,26.8607
+126,7,BOTOȘANI,ORAŞ FLĂMÂNZI,176,7,129,5,0,4,5,15,179,8,131,4,1,5,6,15,Gradinița nr. 1 Nicolae Balcescu,Nr. 206,Nicolae Bălcescu,47.5665,26.8946
+127,7,BOTOȘANI,ORAŞ FLĂMÂNZI,205,7,229,9,2,9,4,22,217,9,230,10,1,11,5,13,Liceul Tehnologic „Nicolae Bălcescu”,Nr. 167,Nicolae Bălcescu,47.5709,26.89
+128,7,BOTOȘANI,ORAŞ FLĂMÂNZI,120,2,291,3,0,10,4,13,120,4,286,4,0,12,5,13,Școala Tamba,Nr. 64,Nicolae Bălcescu,47.577,26.8783
+319,7,BOTOȘANI,NICŞENI,155,1,68,14,2,13,7,32,156,1,67,13,2,14,5,32,Camin Cultural Nicșeni,,Nicșeni,47.8574,26.6339
+312,7,BOTOȘANI,MIHĂLĂŞENI,83,0,55,1,2,4,3,8,85,0,53,3,2,4,4,6,Școala Nastase,,Năstase,47.8558,27.1328
+209,7,BOTOȘANI,CRISTEŞTI,243,7,27,6,1,24,2,17,247,6,28,9,1,19,7,20,Școala Gimnazială nr. 2 Sat Oneaga,,Oneaga,47.5756,26.7312
+364,7,BOTOȘANI,SUHARĂU,131,3,47,20,0,9,14,38,136,1,51,22,0,9,12,31,Școala Generală nr. 4 Oroftiana,,Oroftiana,48.1777,26.3472
+219,7,BOTOȘANI,CURTEŞTI,218,8,47,13,0,10,13,24,219,11,47,13,11,0,13,20,Școala General Oraseni Deal,,Orășeni-Deal,47.673,26.6739
+220,7,BOTOȘANI,CURTEŞTI,133,2,37,9,0,0,1,9,130,1,39,8,0,1,1,9,Școala Generală Oraseni Vale,,Orășeni-Vale,47.6609,26.6661
+154,7,BOTOȘANI,AVRĂMENI,197,1,24,6,0,2,1,16,204,2,26,3,0,2,0,7,Școala cu Clasele 1-8 Panaitoaia,,Panaitoaia,48.0393,26.9771
+135,7,BOTOȘANI,ORAŞ SĂVENI,286,10,40,10,1,11,9,22,283,14,34,9,1,11,11,21,Școala Generală Petricani,,Petricani,47.9562,26.8428
+173,7,BOTOȘANI,CĂLĂRAŞI,87,0,116,5,1,2,3,11,90,0,120,7,0,3,2,5,Școala Plesani,,Pleșani,47.5881,27.2867
+390,7,BOTOȘANI,UNGURENI,172,3,44,2,2,3,4,10,161,3,49,2,1,4,4,13,Liceul Tehnologic Plopenii Mari,Str. Eugen Neculau nr. 22,Plopenii Mari,47.8906,26.7906
+190,7,BOTOȘANI,CORLĂTENI,76,0,48,6,1,2,2,6,80,0,47,8,1,2,1,4,Școala Podeni,Nr. 15,Podeni,47.926,26.6561
+235,7,BOTOȘANI,DRĂGUŞENI,268,3,32,7,0,5,7,13,272,3,31,6,1,7,6,12,Școala cu Clasele I-IV Podriga,,Podriga,48.0042,26.8284
+125,7,BOTOȘANI,ORAŞ FLĂMÂNZI,222,5,337,11,0,6,7,19,218,9,339,13,1,4,6,14,Școala Gimnazială „Constantin Comicescu”,Nr. 65,Poiana,47.57,26.8682
+167,7,BOTOȘANI,BRĂEŞTI,88,2,44,2,0,4,6,13,88,2,45,3,0,5,5,12,Școala Poiana 2,,Poiana,47.8443,26.4205
+422,7,BOTOȘANI,VORONA,210,2,32,3,0,12,3,9,208,2,32,4,0,9,5,11,Școala cu Clasele I-VIII Nicolae Iorga Poiana,,Poiana,47.5974,26.6098
+327,7,BOTOȘANI,POMÎRLA,442,3,30,4,2,7,8,19,453,2,29,2,0,7,7,13,Liceul Teoretic Anastasie Bașotă,,Pomârla,48.0441,26.3332
+328,7,BOTOȘANI,POMÎRLA,337,3,30,8,0,4,4,15,346,2,25,9,1,5,5,13,Școala Primară nr. 1 Pomîrla,,Pomârla,48.0412,26.3166
+168,7,BOTOȘANI,BRĂEŞTI,78,1,34,2,0,1,3,10,83,1,32,2,0,2,3,9,Școala Popeni,,Popeni,47.8438,26.4894
+250,7,BOTOȘANI,GEORGE ENESCU,102,1,23,3,0,3,11,13,100,1,23,2,0,2,10,12,Școala Generală Popeni,,Popeni,48.0263,26.4664
+130,7,BOTOȘANI,ORAŞ FLĂMÂNZI,74,1,114,8,0,4,7,17,77,1,120,6,1,3,6,14,Școala Gimnazială „Petru Zamfirescu”,Nr. 7,Prisăcani,47.5587,26.9469
+330,7,BOTOȘANI,PRĂJENI,180,9,85,5,1,8,9,33,183,12,88,8,0,9,7,30,Școala cu Clasele I-IV Sala I,,Prăjeni,47.5031,27.0078
+205,7,BOTOȘANI,COŢUŞCA,84,3,22,2,0,1,34,42,82,5,27,3,0,3,34,35,Școala Primară nr. 5,,Puțureni,48.1126,26.8326
+308,7,BOTOȘANI,MIHĂILENI,80,3,21,4,0,1,0,2,78,4,21,4,0,2,1,2,Școala Generală Parau Negru,,Pârâu Negru,47.9627,26.1739
+199,7,BOTOȘANI,COŞULA,116,10,18,3,1,4,3,13,117,12,19,5,2,6,1,8,Școala cu Clasele I-IV Pădureni,Nr. 8,Pădureni,47.6131,26.7658
+371,7,BOTOȘANI,ŞENDRICENI,251,1,15,7,1,4,4,7,250,2,17,10,1,2,3,7,Școala Generală,,Pădureni,47.9736,26.3135
+322,7,BOTOȘANI,PĂLTINIŞ,176,0,193,16,0,2,3,23,173,1,191,18,1,5,6,21,Camin Cultural Paltinis,,Păltiniș,48.2168,26.6444
+323,7,BOTOȘANI,PĂLTINIŞ,42,0,99,1,0,1,0,5,46,0,95,1,1,0,0,3,Școala Grivița,,Păltiniș,48.2057,26.675
+324,7,BOTOȘANI,PĂLTINIŞ,104,2,159,11,1,0,3,9,103,1,159,9,1,1,3,9,Cămin Cultural Ivancăuți,,Păltiniș,48.2257,26.6575
+329,7,BOTOȘANI,POMÎRLA,145,0,8,0,0,3,0,1,144,0,9,1,0,3,0,1,Soala Primară nr. 2 Racovăț,,Racovăț,48.0959,26.2957
+338,7,BOTOȘANI,RĂDĂUŢI-PRUT,183,3,55,5,0,5,3,18,183,3,55,4,1,4,6,17,Caminul Cultural Sat Rediu,,Rediu,48.2313,26.7742
+343,7,BOTOȘANI,RĂUSENI,112,0,9,2,0,4,4,6,112,0,9,3,0,3,4,6,Școala Generală Rediu,,Rediu,47.5385,27.2377
+345,7,BOTOȘANI,RIPICENI,175,1,164,4,0,6,5,20,179,1,167,4,1,6,5,13,Căminul Cultural,Str. Căminului nr. FN,Ripiceni,47.9497,27.1381
+346,7,BOTOȘANI,RIPICENI,119,1,216,13,0,9,2,15,117,1,219,14,1,9,2,14,Grădinița de Copii,Nr. 38,Ripiceni,47.9473,27.1411
+307,7,BOTOȘANI,MIHĂILENI,115,2,45,10,0,4,4,10,118,1,44,9,0,3,5,12,Școala Generală Rogojesti,,Rogojești,47.9367,26.163
+347,7,BOTOȘANI,ROMA,376,6,61,13,0,19,13,27,377,6,64,17,0,22,13,22,Școala nr. 1 Roma,,Roma,47.8372,26.6063
+348,7,BOTOȘANI,ROMA,230,3,48,17,2,29,6,26,233,5,45,15,0,31,7,24,Școala nr. 2 Roma,,Roma,47.8283,26.6069
+350,7,BOTOȘANI,ROMÂNEŞTI,264,10,51,10,0,19,7,20,260,8,55,11,0,22,8,21,Căminul Cultural,Nr. 11,Românești,47.7278,27.2418
+336,7,BOTOȘANI,RĂCHIŢI,221,6,143,69,1,5,8,31,231,6,138,61,1,8,9,28,Cămin Cultural Roșiori,,Roșiori,47.7607,26.7207
+355,7,BOTOȘANI,SANTA MARE,50,1,55,4,0,2,0,3,46,1,57,6,0,3,0,1,Școala Generală Ringhilesti,,Rânghilești,47.6449,27.2355
+334,7,BOTOȘANI,RĂCHIŢI,267,8,186,29,4,28,10,36,269,10,190,29,4,28,9,31,Cămin Cultural Răchiți,,Răchiți,47.7654,26.685
+246,7,BOTOȘANI,FRUMUŞICA,155,5,24,13,2,3,0,10,153,6,22,12,1,7,1,9,Școala Gimnazială nr. 3 Radeni,,Rădeni,47.5124,26.8837
+337,7,BOTOȘANI,RĂDĂUŢI-PRUT,159,5,65,9,0,5,13,28,158,5,66,10,0,6,15,25,Camin Cultural Radauti-Prut,,Rădăuți-Prut,48.2433,26.8048
+341,7,BOTOȘANI,RĂUSENI,258,0,24,21,1,8,5,23,266,2,28,19,1,6,4,17,Camin Cultural Rauseni,,Răușeni,47.5652,27.2148
+294,7,BOTOȘANI,MANOLEASA,259,0,7,0,0,2,1,5,258,1,8,1,0,2,1,2,Școala Sadoveni,,Sadoveni,47.9875,27.1316
+352,7,BOTOȘANI,SANTA MARE,162,12,152,13,0,8,2,17,163,12,148,15,0,9,3,16,Caminul Cultural Santa Mare,,Santa Mare,47.6055,27.3511
+194,7,BOTOȘANI,CORNI,215,2,42,7,0,18,11,27,222,1,44,10,0,17,8,17,Școala cu Cl I-VIII Sarafinesti,,Sarafinești,47.6183,26.6047
+310,7,BOTOȘANI,MIHĂLĂŞENI,69,0,65,1,0,38,5,6,65,0,66,1,0,38,5,6,Școala Sarata,,Sarata,47.9105,27.0812
+264,7,BOTOȘANI,HĂNEŞTI,78,0,70,1,0,2,0,4,82,0,69,1,0,2,0,2,Școala cu Clasele I-IV Sărata Basarab,,Sarata-Basarab,47.9413,27.0369
+236,7,BOTOȘANI,DRĂGUŞENI,60,0,4,1,0,0,0,2,59,1,4,1,0,0,1,4,Școala cu Clasele I-IV Sarata,,Sarata-Drăgușeni,48.0742,26.8175
+396,7,BOTOȘANI,VĂCULEŞTI,301,0,51,7,0,23,0,6,302,0,44,9,0,28,1,3,Școala Saucenita,,Saucenița,47.8972,26.4013
+210,7,BOTOȘANI,CRISTEŞTI,74,4,21,13,0,2,1,11,73,5,22,13,1,3,1,10,Școala Primară nr. 3 Sat Schit - Oraseni,,Schit-Orășeni,47.6429,26.6892
+315,7,BOTOȘANI,MILEANCA,69,0,8,1,0,3,1,3,68,0,9,1,0,3,0,2,Școala cu Clasele I-IV Scutari,,Scutari,48.0624,26.7544
+316,7,BOTOȘANI,MILEANCA,138,0,12,4,0,3,0,3,137,1,12,4,0,2,0,4,Școala cu Clasele I-IV Seliștea,,Seliștea,48.1205,26.6803
+257,7,BOTOȘANI,GORBĂNEŞTI,57,2,13,16,0,2,1,5,54,3,12,16,0,2,2,6,Școala Generală Siliscani,,Silișcani,47.7308,26.8575
+358,7,BOTOȘANI,STĂUCENI,102,1,46,8,0,7,2,6,101,1,48,8,0,7,1,4,Școala Generală cu Clasele I-IV,,Siliștea,47.7167,26.7571
+186,7,BOTOȘANI,CORDĂRENI,159,1,8,12,0,2,0,6,163,2,7,10,0,4,0,6,Școala Slobozia,,Slobozia,47.993,26.6057
+365,7,BOTOȘANI,SUHARĂU,193,8,63,5,1,5,33,42,179,6,82,4,0,8,25,36,Grădinița Smardan,,Smârdan,48.0794,26.4627
+255,7,BOTOȘANI,GORBĂNEŞTI,129,6,19,13,3,17,3,7,129,7,20,14,0,19,4,7,Școala Generală Socrujeni,,Socrujeni,47.7829,26.9246
+344,7,BOTOȘANI,RĂUSENI,64,0,10,3,0,2,1,5,66,1,11,2,2,3,0,0,Școala Generală Stolniceni,,Stolniceni,47.569,27.2508
+242,7,BOTOȘANI,FRUMUŞICA,155,2,27,13,4,8,9,22,155,2,28,15,2,8,11,17,Școala Gimnazială nr. 4 Storesti,,Storești,47.5387,26.8686
+228,7,BOTOȘANI,DÎNGENI,100,0,85,3,1,4,3,9,104,1,83,3,0,3,3,8,Școala Primară nr. 2 Strahotin,,Strahotin,47.8488,26.9523
+289,7,BOTOȘANI,LUNCA,160,1,44,6,0,5,3,15,171,3,35,6,1,5,4,10,Caminul Cultural Stroiesti,,Stroiești,47.6104,26.9649
+286,7,BOTOȘANI,LOZNA,226,7,22,22,0,46,5,13,225,4,23,22,0,47,7,17,Camin Cultural,Str. Pe Vale nr. 11,Străteni,47.9367,26.2971
+142,7,BOTOȘANI,ORAŞ ŞTEFĂNEŞTI,116,1,122,5,0,8,5,17,118,4,128,6,0,9,2,11,Școala Primară Stanca,Nr. 47,Stânca,47.8207,27.2001
+251,7,BOTOȘANI,GEORGE ENESCU,40,3,63,5,0,7,8,18,41,3,63,6,0,7,9,16,Școala Generală Stinca,,Stânca,48.0639,26.5495
+304,7,BOTOȘANI,MIHAI EMINESCU,180,12,178,14,1,7,31,53,192,15,162,16,0,7,30,50,Școala Stîncești,,Stâncești,47.744,26.5999
+357,7,BOTOȘANI,STĂUCENI,286,4,62,15,0,15,6,13,280,4,60,15,2,16,7,15,Camin Cultural,,Stăuceni,47.7296,26.7484
+361,7,BOTOȘANI,SUHARĂU,282,6,31,3,0,17,9,29,279,7,28,6,0,23,12,26,Școala Primară nr. 3 Suharau,,Suharău,48.1253,26.4262
+362,7,BOTOȘANI,SUHARĂU,131,0,14,8,0,2,34,58,128,0,18,11,0,3,38,54,Școala Gimnazială nr. 2 Suharau,,Suharău,48.1426,26.4212
+366,7,BOTOȘANI,SULIŢA,267,10,58,63,0,21,16,46,261,9,45,104,0,16,16,30,Școala cu Cl I-VIII Sulita,,Sulița,47.6461,26.9242
+409,7,BOTOȘANI,VLĂSINEŞTI,422,1,35,1,3,7,12,22,438,5,23,2,2,9,12,15,Școala cu Clasele I-IV,,Sârbi,47.9419,26.9173
+131,7,BOTOȘANI,ORAŞ SĂVENI,429,8,57,3,1,12,12,20,445,9,41,2,0,14,12,17,Liceul Teoretic Dr. M. Ciuca Saveni,Str. Nicolae Iorga (Str. Ada Marinescu) nr. 1,Săveni,47.9549,26.8584
+132,7,BOTOȘANI,ORAŞ SĂVENI,276,2,38,8,1,15,10,17,291,1,35,8,1,14,8,13,Liceul Teoretic Dr. M.Ciuca Saveni,Str. Nicolae Iorga (Str. Ada Marinescu) nr. 1,Săveni,47.9549,26.8584
+133,7,BOTOȘANI,ORAŞ SĂVENI,458,14,59,14,0,27,19,40,475,14,54,17,1,21,20,34,Școala Generală nr. 1 Saveni,Str. Nicolae Iorga (Str. Ada Marinescu) nr. 3,Săveni,47.9535,26.8576
+134,7,BOTOȘANI,ORAŞ SĂVENI,442,8,35,10,2,22,10,29,442,8,33,11,1,23,15,31,Școala Generală nr. 2 Saveni,Str. Ștefan cel Mare nr. 78,Săveni,47.9633,26.8513
+176,7,BOTOȘANI,CÂNDEŞTI,170,1,37,7,0,7,9,13,171,2,39,7,0,8,10,13,Școala Primară Talpa,,Talpa,47.9023,26.2403
+360,7,BOTOȘANI,STĂUCENI,253,3,59,8,1,6,4,11,250,2,61,8,0,10,3,14,Școala Generală cu Clasele I-VIII Patriarh Teoctist Arapasu,,Tocileni,47.7119,26.7841
+374,7,BOTOȘANI,TODIRENI,300,1,48,17,0,6,6,22,303,2,47,16,0,7,8,23,Cămin Cultural Todireni,,Todireni,47.6099,27.1115
+375,7,BOTOȘANI,TODIRENI,79,5,21,2,0,12,1,4,80,4,21,4,0,11,2,4,Școala cu Clasele I-IV nr. 2 Todireni,,Todireni,47.6341,27.1086
+378,7,BOTOȘANI,TRUŞEŞTI,235,12,72,6,1,23,20,60,236,10,72,6,1,32,18,56,Liceul „Demostene Botez” Trusesti,Nr. 35,Trușești,47.764,27.0142
+379,7,BOTOȘANI,TRUŞEŞTI,224,10,45,17,1,23,11,33,227,10,55,15,1,23,9,24,Liceul „Demostene Botez” Trusesti,Nr. 35,Trușești,47.764,27.0142
+151,7,BOTOȘANI,ALBEŞTI,119,1,61,5,0,2,3,7,124,1,61,4,0,2,3,3,Școala Gimnazială nr. 2 Tudor Vladimirescu,Nr. 34,Tudor Vladimirescu,47.6874,27.1739
+152,7,BOTOȘANI,ALBEŞTI,103,0,81,8,0,3,1,6,106,0,82,9,0,3,1,2,Școala Gimnazială nr. 2 Tudor Vladimirescu,Nr. 34,Tudor Vladimirescu,47.6874,27.1739
+155,7,BOTOȘANI,AVRĂMENI,211,0,22,4,0,4,4,12,213,4,24,3,0,5,4,10,Școala cu Clasele 1-8 Tudor Vladimirescu,,Tudor Vladimirescu,47.9852,26.9952
+383,7,BOTOȘANI,TUDORA,353,7,77,12,1,6,9,21,348,10,77,17,0,8,11,19,Școala Tiberiu Crudu Corp B Sala 1,,Tudora,47.5074,26.6301
+384,7,BOTOȘANI,TUDORA,259,3,43,24,1,6,13,20,261,4,44,27,1,7,13,19,Școala Tiberiu Crudu Corp B Sala 2,,Tudora,47.5074,26.6301
+385,7,BOTOȘANI,TUDORA,255,3,52,29,0,10,16,34,265,2,47,27,0,14,17,32,Școala cu Clasele I-VIII Arini,,Tudora,47.4823,26.6195
+262,7,BOTOȘANI,HAVÎRNA,170,0,69,19,1,10,15,29,174,2,74,16,0,10,17,23,Școala Gimnazială „Iancu Munteanu” Tataraseni,,Tătărășeni,48.0622,26.6823
+386,7,BOTOȘANI,UNGURENI,212,7,85,7,0,13,12,26,210,5,87,9,0,15,12,23,Școala Gimnazială nr. 1 Ungureni,Nr. 66,Ungureni,47.8783,26.8032
+387,7,BOTOȘANI,UNGURENI,151,2,87,6,0,10,0,13,149,2,90,7,0,9,1,14,Școala Gimnazială nr. 2 Ungureni,Str. Epureni nr. 19,Ungureni,47.8686,26.8286
+392,7,BOTOȘANI,UNŢENI,270,4,40,12,0,13,4,16,271,3,42,9,1,13,4,15,Școala Gimnazială nr. 1 Unțeni,,Unțeni,47.7909,26.7784
+273,7,BOTOȘANI,HUDEŞTI,365,6,40,4,0,6,31,38,360,5,40,5,2,10,27,28,Cămin Cultural,,Vatra,48.1484,26.5264
+271,7,BOTOȘANI,HLIPICENI,263,8,50,8,0,7,8,23,268,9,51,14,0,11,8,17,Școala cu Cl.I-VIII Victoria,Nr. 1,Victoria,47.6107,27.1649
+359,7,BOTOȘANI,STĂUCENI,77,1,60,3,1,3,4,9,75,2,58,3,0,4,6,9,Școala Generală cu Clasele I-IV,,Victoria,47.7261,26.7991
+402,7,BOTOȘANI,VIIŞOARA,160,1,50,26,0,4,18,47,167,2,50,25,0,5,20,39,Căminul Cultural Viișoara,,Viișoara,48.1623,26.7442
+404,7,BOTOȘANI,VIIŞOARA,138,1,11,1,0,1,3,34,144,2,11,2,1,2,5,27,Școala cu Clasele I-IV Viișoara Mică,,Viișoara Mică,48.1537,26.7854
+177,7,BOTOȘANI,CÂNDEŞTI,84,1,29,1,1,2,2,6,85,0,31,1,1,1,2,4,Școala Primară Vițcani,,Vițcani,47.9465,26.2088
+189,7,BOTOȘANI,CORLĂTENI,75,0,60,1,1,4,4,10,73,0,65,0,1,5,4,7,Școala Vladeni,Nr. 18,Vlădeni,47.9234,26.6126
+405,7,BOTOȘANI,VLĂDENI,334,11,68,10,0,19,15,33,339,13,68,9,0,22,15,27,Școala cu Clasele I-VIII Vladeni (Corp Nou),,Vlădeni,47.7132,26.513
+244,7,BOTOȘANI,FRUMUŞICA,216,6,62,16,2,13,7,23,222,4,62,19,1,15,4,14,Școala Gimnazială nr. 1 Vladeni Deal,,Vlădeni-Deal,47.5169,26.871
+408,7,BOTOȘANI,VLĂSINEŞTI,616,6,48,8,1,14,5,22,636,4,38,7,0,10,7,17,Școala cu Clasele I-VIII Gheorghe Burac,Bloc -,Vlăsinești,47.9386,26.8859
+411,7,BOTOȘANI,VORNICENI,187,6,40,27,0,4,8,29,188,7,43,26,0,4,9,28,Școala nr. 1 Vorniceni,,Vorniceni,47.9756,26.6657
+412,7,BOTOȘANI,VORNICENI,87,2,74,16,0,7,3,26,94,2,73,15,2,7,4,24,Școala nr. 2 Vorniceni,,Vorniceni,47.985,26.6506
+413,7,BOTOȘANI,VORNICENI,124,2,68,3,1,3,5,29,126,3,66,4,1,3,5,22,Școala nr. 3 Vorniceni,,Vorniceni,47.9833,26.665
+415,7,BOTOȘANI,VORONA,157,6,32,12,1,9,9,21,160,5,34,10,0,9,11,19,Școala cu Clasele. I-VIII Alexandru Ioan Cuza Vorona,,Vorona,47.5963,26.6429
+416,7,BOTOȘANI,VORONA,179,7,26,9,0,7,15,24,180,7,26,10,0,8,15,23,Liceul Tehnologic Ștefan Cel Mare Vorona,,Vorona,47.5783,26.6348
+417,7,BOTOȘANI,VORONA,132,0,28,8,0,6,0,4,130,0,29,5,0,6,0,5,Școala cu Clasele I-VIII Ionita Pancul Vorona,,Vorona,47.564,26.6434
+418,7,BOTOȘANI,VORONA,205,4,33,18,0,4,19,34,204,4,28,18,0,9,24,36,Școala cu Clasele I-VIII Luca Arbore Vorona Mare,,Vorona Mare,47.554,26.617
+256,7,BOTOȘANI,GORBĂNEŞTI,116,4,25,17,2,5,2,14,118,3,27,15,2,7,4,15,Camin Cultural Vanatori,,Vânători,47.7494,26.8653
+399,7,BOTOȘANI,VÂRFU CÂMPULUI,371,10,40,19,1,6,8,22,375,9,38,21,1,6,9,22,Școala cu Clasele I-VIII George Hazgan,,Vârfu Câmpului,47.8466,26.3278
+395,7,BOTOȘANI,VĂCULEŞTI,345,2,47,6,2,33,21,31,354,2,49,5,1,29,18,27,Școala Vaculesti,,Văculești,47.878,26.4064
+295,7,BOTOȘANI,MANOLEASA,181,0,10,6,2,16,0,5,185,0,9,7,2,14,0,2,Școala Zahoreni,,Zahoreni,47.9612,27.0441
+290,7,BOTOȘANI,LUNCA,217,1,121,18,1,7,11,30,224,3,119,20,0,7,5,16,Școala Generală Zlatunoaia,,Zlătunoaia,47.6492,27.0046
+291,7,BOTOȘANI,LUNCA,48,3,33,2,0,2,1,2,49,3,31,2,0,2,5,6,Școala Generală Stanesti,,Zlătunoaia,47.663,27.0147
+144,7,BOTOȘANI,ADĂŞENI,77,1,38,8,0,7,5,20,72,1,39,8,0,8,7,20,Școala Zoitani,,Zoițani,48.0562,26.9649
+162,7,BOTOȘANI,BĂLUŞENI,127,3,39,10,0,6,6,13,118,8,42,7,0,7,7,14,Școala Zaicesti,,Zăicești,47.6897,26.7138
+243,7,BOTOȘANI,FRUMUŞICA,105,1,30,7,0,14,6,16,104,0,36,8,0,11,7,11,Școala Gimnazială nr. 5 Sendreni,,Șendreni,47.531,26.8638
+368,7,BOTOȘANI,ŞENDRICENI,327,4,43,7,0,9,7,13,318,7,43,7,0,9,8,17,Școala nr. 1,,Șendriceni,47.9523,26.3246
+369,7,BOTOȘANI,ŞENDRICENI,221,6,21,6,0,10,5,18,218,7,25,6,0,11,8,16,Școala Generală Cobîla,,Șendriceni,47.9373,26.3653
+165,7,BOTOȘANI,BLÂNDEŞTI,81,0,77,9,1,4,3,14,88,1,79,10,2,5,2,7,Școala Primară nr. 3,Nr. 11,Șoldănești,47.7357,26.9234
+140,7,BOTOȘANI,ORAŞ ŞTEFĂNEŞTI,182,3,116,11,2,10,6,12,186,3,119,11,2,11,7,10,Liceul Teoretic „Stefan D. Luchian”,Nr. 14,Ștefănești,47.7931,27.2001
+141,7,BOTOȘANI,ORAŞ ŞTEFĂNEŞTI,188,1,114,5,0,14,5,11,189,1,113,6,0,17,7,12,Liceul Teoretic „Stefan D. Luchian”,Nr. 14,Ștefănești,47.7931,27.2001
+372,7,BOTOȘANI,ŞTIUBIENI,310,3,134,29,2,30,37,55,306,6,132,34,2,28,41,56,Caminul Cultural Știubieni,,Știubieni,47.9713,26.7966
+200,7,BOTOȘANI,COŞULA,183,1,28,6,1,7,6,31,203,2,25,6,1,6,7,18,Școala cu Clasele I-IV Șupitca,Nr. 37,Șupitca,47.6126,26.7833

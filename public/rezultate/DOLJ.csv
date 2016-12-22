@@ -1,0 +1,531 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+225,17,DOLJ,AFUMAŢI,184,6,202,37,3,22,7,11,165,8,216,36,3,22,7,13,Consiliul Local Afumati,,Afumați,44.0063,23.4637
+492,17,DOLJ,ŞIMNICU DE SUS,179,10,32,67,0,20,10,25,174,10,33,69,1,21,10,23,Grădinița Albesti,Nr. 94,Albești,44.3747,23.7634
+228,17,DOLJ,ALMĂJ,359,7,183,13,1,19,1,35,375,8,183,11,2,26,0,12,Școala Gimnazială „Ion Ghe. Pleșa”,,Almăj,44.4469,23.7047
+230,17,DOLJ,AMĂRĂŞTII DE JOS,354,8,249,31,0,13,15,22,357,9,257,23,0,9,13,23,Caminul Cultural Amarastii de Jos,,Amărăștii de Jos,43.9547,24.1649
+231,17,DOLJ,AMĂRĂŞTII DE JOS,288,2,166,13,1,10,3,14,280,1,175,12,2,10,4,13,Grădinița Tosca,,Amărăștii de Jos,43.9508,24.1586
+234,17,DOLJ,AMĂRĂŞTII DE SUS,726,8,100,19,2,25,3,22,718,6,102,20,4,36,4,16,Căminul Cultural,,Amărăștii de Sus,43.9815,24.1563
+235,17,DOLJ,APELE VII,453,6,515,42,3,19,8,25,437,7,528,40,2,36,9,29,Căminul Cultural,,Apele Vii,44.0664,24.0629
+236,17,DOLJ,ARGETOAIA,291,0,109,22,0,12,4,14,278,7,114,24,0,14,8,13,Școala Profesională C-Tin Argetoaianu,,Argetoaia,44.5151,23.3759
+237,17,DOLJ,ARGETOAIA,202,0,48,14,0,9,5,13,206,0,47,16,0,7,7,11,Școala Profesională C-Tin Argetoaianu,,Argetoaia,44.5151,23.3759
+189,17,DOLJ,MUNICIPIUL BĂILEŞTI,66,1,6,2,0,12,23,26,66,1,6,2,0,14,24,26,Școala Gimnazială Balasan,,Balasan,44.0248,23.2621
+419,17,DOLJ,MURGAŞI,388,2,31,3,0,5,5,11,376,1,31,7,0,10,4,8,Grădinița Balota de Jos,Str. Florea Marinescu nr. 47,Balota de Jos,44.5461,23.8123
+445,17,DOLJ,PODARI,152,5,23,9,0,13,2,6,152,7,21,6,0,14,4,8,Școala Generală Balta Verde,Str. Școlii nr. 2A,Balta Verde,44.2623,23.7999
+191,17,DOLJ,MUNICIPIUL CALAFAT,336,10,31,29,0,11,3,9,326,9,41,9,0,28,4,10,Caminul Cultural Basarabi (Din Cadrul Casei de Cultura Calafat),Nr. 114,Basarabi,44.0066,23.0085
+490,17,DOLJ,SOPOT,136,0,24,4,0,10,1,4,131,0,24,1,0,12,2,4,Școala cu Clasele I-IV Bașcov,,Bașcov,44.3886,23.5212
+200,17,DOLJ,ORAŞ BECHET,412,10,38,27,1,30,7,16,415,8,34,28,2,33,7,16,Liceul Teoretic Bechet,,Bechet,43.7869,23.9505
+201,17,DOLJ,ORAŞ BECHET,273,4,25,15,0,14,9,14,272,6,18,16,1,16,8,14,Școala Primară Bechet Vale,,Bechet,43.7731,23.9481
+202,17,DOLJ,ORAŞ BECHET,359,5,32,28,0,14,4,15,370,7,32,25,1,13,4,10,Biblioteca Oraseneasca Bechet,,Bechet,43.7858,23.9568
+321,17,DOLJ,COŢOFENII DIN FAŢĂ,152,2,43,7,1,5,1,5,148,5,45,6,1,6,1,3,Școala cu Clasele I-IV,,Beharca,44.4459,23.6826
+279,17,DOLJ,CALOPĂR,129,1,19,6,0,33,8,25,126,0,16,2,0,35,10,28,Școala cu Clasele I-VIII Belcinu,,Belcinu,44.1283,23.7924
+488,17,DOLJ,SOPOT,133,2,9,8,0,7,0,4,132,2,9,6,0,10,0,4,Școala cu Clasele I-VIII Beloț,,Beloț,44.3864,23.5457
+340,17,DOLJ,DRĂGOTEŞTI,130,1,29,49,0,11,1,7,135,1,28,50,0,10,1,5,Școala cu Clasele I-IV Benești,Str. Iancu Jianu nr. 140,Benești,44.259,24.0934
+242,17,DOLJ,BISTREŢ,501,2,32,56,0,15,2,14,494,1,32,54,1,30,2,12,Școala Gimnazială Bistreț,,Bistreț,43.89,23.5025
+243,17,DOLJ,BISTREŢ,380,2,58,12,2,6,8,12,375,2,63,10,0,9,6,10,Școala Gimnazială Bistreț,,Bistreț,43.892,23.4885
+244,17,DOLJ,BISTREŢ,284,7,22,1,0,3,3,11,282,6,26,2,0,3,2,11,Școala Primară Bistretu Nou,,Bistrețu Nou,43.9003,23.47
+403,17,DOLJ,MELINEŞTI,163,2,16,7,2,23,64,76,172,0,21,5,2,24,48,62,Sediul Fostei Școli Generale Bodaiesti,,Bodăiești,44.5882,23.6857
+404,17,DOLJ,MELINEŞTI,76,5,11,8,0,7,19,24,88,3,11,8,1,9,10,14,Școala Generală Bodăieștii de Sus,,Bodăieștii de Sus,44.5687,23.6493
+345,17,DOLJ,DRĂNIC,56,0,133,1,1,4,3,6,55,0,132,2,1,2,4,5,Școala cu Clasele I-IV Booveni,,Booveni,44.0811,23.833
+248,17,DOLJ,BOTOŞEŞTI-PAIA,447,7,18,44,0,44,2,4,423,5,18,59,1,47,3,4,Căminul Cultural,,Botoșești-Paia,44.4031,23.2682
+226,17,DOLJ,AFUMAŢI,229,8,73,20,7,44,13,20,225,7,74,19,8,47,16,25,Caminul Cultural Boureni,,Boureni,44.0174,23.4303
+326,17,DOLJ,DANEŢI,210,3,209,46,2,5,0,13,213,4,211,45,2,5,1,13,Școala Generală cu Clasele I-VIII Brabeți,Str. Nicolae Titulescu nr. 104,Brabeți,43.9624,24.0126
+249,17,DOLJ,BRABOVA,339,4,26,7,1,38,5,10,337,4,27,7,4,35,5,7,Căminul Cultural Brabova,Str. Centrală nr. 128,Brabova,44.3697,23.4202
+253,17,DOLJ,BRALOŞTIŢA,158,1,69,32,1,37,12,16,153,2,75,32,0,40,9,19,Sala de Sedințe a Consiliului Local Braloștița,Str. Stadionului (Str. Stadion) nr. 1,Braloștița,44.4988,23.5268
+324,17,DOLJ,DANEŢI,126,3,79,14,1,3,7,19,121,2,82,17,1,4,6,18,Școala Generală cu Clasele I-VIII Braniște,Str. Principală nr. 152,Braniște,43.9818,24.0092
+444,17,DOLJ,PODARI,186,15,32,12,1,12,7,22,186,19,29,10,1,11,10,25,Școala Generală Braniște,Str. Calafatului nr. 87,Braniște,44.2693,23.7885
+260,17,DOLJ,BRATOVOEŞTI,405,3,63,42,1,31,4,11,405,3,67,42,2,26,5,16,Școala Gimnazială Bratovoești,Nr. 356,Bratovoești,44.1313,23.9003
+267,17,DOLJ,BREASTA,279,5,105,19,1,13,21,37,279,7,102,13,1,20,23,36,Școala Breasta,Str. Constantin Argetoianu nr. 13,Breasta,44.342,23.6902
+268,17,DOLJ,BREASTA,264,5,59,38,1,19,21,28,272,7,56,38,2,23,14,21,Școala Breasta,Str. Constantin Argetoianu nr. 13,Breasta,44.342,23.6902
+262,17,DOLJ,BRĂDEŞTI,413,21,61,21,0,39,8,16,401,20,62,26,0,42,6,14,Școala Generală Bradesti,Nr. 56,Brădești,44.4935,23.6208
+263,17,DOLJ,BRĂDEŞTI,106,1,28,2,0,3,1,7,107,2,28,2,0,4,2,5,Școala Generală Bradesti Batrini,Str. Ciobotilor nr. 3,Brădeștii Bătrâni,44.4987,23.651
+521,17,DOLJ,VELA,167,2,33,1,1,4,1,7,164,2,37,3,1,7,1,10,Școala cu Clasele I-IV Bucovicior,,Bucovicior,44.2801,23.413
+271,17,DOLJ,BUCOVĂŢ,286,18,88,20,0,250,9,25,288,23,83,17,2,257,9,21,Școala Generală cu Clasele L-Vlll Bucovat,,Bucovăț,44.2978,23.7416
+276,17,DOLJ,BULZEŞTI,259,4,23,12,0,24,5,14,212,4,25,15,0,64,5,11,Căminul Cultural,Str. Principală nr. 75,Bulzești,44.5395,23.885
+379,17,DOLJ,GRECEŞTI,249,0,26,12,0,9,29,34,275,0,25,9,0,10,8,14,Școala Busu,Nr. 49,Busu,44.4455,23.28
+342,17,DOLJ,DRĂGOTEŞTI,81,0,33,3,0,4,3,6,78,0,33,4,0,4,4,6,Școala cu Clasele I-IV Buzduc,Nr. 80,Buzduc,44.2556,24.0288
+217,17,DOLJ,ORAŞ FILIAŞI,294,3,50,7,0,9,5,27,303,2,49,7,0,10,7,26,Școala Bîlta,Str. Pandurilor nr. 218,Bâlta,44.5348,23.4691
+246,17,DOLJ,BÎRCA,432,3,226,13,0,4,9,21,448,3,223,13,1,5,8,19,Caminul Cultural,Str. Mihai Viteazu (Str. Mihai Viteazul) nr. 244,Bârca,43.9673,23.6159
+247,17,DOLJ,BÎRCA,430,4,124,22,0,7,5,14,436,6,127,24,0,10,4,12,Grădinița de Copii,Str. Mihai Viteazu (Str. Mihai Viteazul) nr. 251,Bârca,43.9658,23.6146
+258,17,DOLJ,BRATOVOEŞTI,299,0,86,6,1,5,6,13,293,1,89,5,1,4,7,16,Școala Primară Bădoși,Nr. 72,Bădoși,44.1472,23.8877
+174,17,DOLJ,MUNICIPIUL BĂILEŞTI,213,12,57,5,1,18,18,31,214,15,58,7,1,17,21,28,Școala Gimnazială nr. 1,,Băilești,44.0291,23.341
+175,17,DOLJ,MUNICIPIUL BĂILEŞTI,151,7,44,13,1,22,26,41,158,11,45,14,2,24,20,29,Grădinița de Copii nr. 3,,Băilești,44.0281,23.3405
+176,17,DOLJ,MUNICIPIUL BĂILEŞTI,57,0,26,2,1,1,5,8,58,1,25,2,1,2,4,6,Școala Gimnazială nr. 3,,Băilești,44.0225,23.3376
+177,17,DOLJ,MUNICIPIUL BĂILEŞTI,135,2,62,10,1,9,15,27,139,2,66,11,2,11,15,20,Școala Gimnazială nr. 3,,Băilești,44.0164,23.3309
+178,17,DOLJ,MUNICIPIUL BĂILEŞTI,151,8,38,9,0,14,18,29,151,7,38,9,0,18,18,24,Școala Gimnazială nr. 5,,Băilești,44.0216,23.3411
+179,17,DOLJ,MUNICIPIUL BĂILEŞTI,153,4,32,7,0,11,10,21,154,4,29,7,0,11,15,23,Grădinița de Copii nr. 7,,Băilești,44.0178,23.3299
+180,17,DOLJ,MUNICIPIUL BĂILEŞTI,166,2,60,10,2,17,15,19,167,2,60,10,2,17,16,19,Liceul Mihai Viteazul,,Băilești,44.0195,23.3401
+181,17,DOLJ,MUNICIPIUL BĂILEŞTI,120,3,23,2,0,7,3,7,112,3,22,3,0,11,5,7,Grădinița de Copii nr. 5,,Băilești,44.0219,23.3351
+182,17,DOLJ,MUNICIPIUL BĂILEŞTI,280,9,87,6,3,12,6,24,280,7,88,7,1,13,9,28,Școala Gimnazială nr. 4,,Băilești,44.013,23.3483
+183,17,DOLJ,MUNICIPIUL BĂILEŞTI,188,14,49,5,0,7,5,11,190,13,46,4,1,9,3,9,Școala Gimnazială nr. 4,Str. Amza Pellea (Str. Poporului) nr. 40,Băilești,44.0214,23.3507
+184,17,DOLJ,MUNICIPIUL BĂILEŞTI,258,11,55,8,0,20,11,25,251,10,56,13,0,24,13,25,Grădinița de Copii nr. 8,,Băilești,44.0144,23.3493
+185,17,DOLJ,MUNICIPIUL BĂILEŞTI,89,11,30,4,0,4,3,7,86,10,32,5,0,6,3,5,Liceul Tehnologic Ștefan Anghel,,Băilești,44.0193,23.3442
+186,17,DOLJ,MUNICIPIUL BĂILEŞTI,167,6,63,6,2,9,8,13,167,8,61,8,2,9,8,12,Grădinița de Copii nr. 2,,Băilești,44.0222,23.3487
+187,17,DOLJ,MUNICIPIUL BĂILEŞTI,165,10,39,5,1,12,7,15,154,12,37,6,1,17,12,16,Agrozind S.A.,,Băilești,44.0226,23.3526
+188,17,DOLJ,MUNICIPIUL BĂILEŞTI,233,22,76,23,1,38,19,38,245,23,79,22,0,40,18,26,Școala Gimnazială nr. 6,,Băilești,44.0302,23.3511
+377,17,DOLJ,GRECEŞTI,109,0,6,4,0,31,11,14,112,0,8,5,0,39,6,8,Școala Bărboi,Nr. 150,Bărboi,44.4452,23.3212
+193,17,DOLJ,MUNICIPIUL CALAFAT,415,26,92,38,0,40,14,34,398,24,106,31,0,56,14,30,Școala Generală nr. 1 Calafat,Str. Traian (Str. V. I. Lenin) nr. 26,Calafat,43.9956,22.936
+194,17,DOLJ,MUNICIPIUL CALAFAT,567,30,77,37,1,49,20,41,541,31,95,31,1,63,24,45,Liceul Teoretic Independenta,Nr. 4,Calafat,43.991,22.9401
+195,17,DOLJ,MUNICIPIUL CALAFAT,445,17,70,33,1,49,7,36,452,21,72,26,3,55,14,26,Clubul Copiilor,Str. Traian (Str. V. I. Lenin) nr. 45,Calafat,43.9954,22.935
+196,17,DOLJ,MUNICIPIUL CALAFAT,465,27,61,32,0,46,5,23,458,24,77,16,1,63,9,21,Școala Generală nr. 2 Calafat,Str. Tudor Vladimirescu nr. 52,Calafat,43.991,22.9336
+197,17,DOLJ,MUNICIPIUL CALAFAT,375,29,59,45,1,44,16,26,360,26,69,29,1,64,19,29,Școala Generală nr. 2 Calafat,Str. Tudor Vladimirescu nr. 52,Calafat,43.9904,22.933
+198,17,DOLJ,MUNICIPIUL CALAFAT,341,32,82,43,0,34,13,27,326,29,100,25,1,50,19,30,Grădinița nr. 4 (din Cadrul Sc.Generale nr. 1 Calafat),Str. 22 Decembrie (Str. 30 Decembrie) nr. 130,Calafat,43.9845,22.931
+199,17,DOLJ,MUNICIPIUL CALAFAT,436,33,61,48,0,40,15,30,430,34,72,31,1,56,8,24,Clubul Pensionarilor,"Str. 1907 nr. f.n, Bloc A13",Calafat,43.985,22.9313
+278,17,DOLJ,CALOPĂR,348,1,23,13,0,21,0,4,333,1,24,14,0,20,3,8,Școala cu Clasele I-VIII Calopăr,,Calopăr,44.1623,23.7644
+282,17,DOLJ,CARAULA,621,5,26,18,0,67,5,28,602,8,27,13,0,82,5,16,Căminul Cultural,Str. Craiovei nr. 142,Caraula,44.1955,23.2506
+283,17,DOLJ,CARAULA,496,4,20,12,0,22,2,15,513,4,20,3,0,33,3,11,Centrul Social Caraula,Str. Castanilor nr. 39,Caraula,44.196,23.2476
+284,17,DOLJ,CARPEN,369,2,26,5,0,1,6,18,376,2,28,5,0,1,7,14,Căminul Cultural Carpen,Str. Târnavei nr. 3,Carpen,44.3359,23.2593
+286,17,DOLJ,CASTRANOVA,275,7,462,29,1,18,3,18,278,7,470,23,2,28,1,12,Caminul Cultural,Str. Stadionului nr. 1,Castranova,44.1166,24.0135
+442,17,DOLJ,PLENIŢA,243,3,41,2,0,19,3,11,239,3,42,0,0,21,3,10,Școala cu Clasele I-IV din Satul Castrele Traiane,Str. Decebal nr. 51,Castrele Traiane,44.2295,23.1343
+288,17,DOLJ,CATANE,220,2,336,29,4,17,3,35,208,10,353,27,1,23,4,16,Școala Gimnazială Catane,,Catane,43.9333,23.4113
+295,17,DOLJ,CELARU,329,10,263,13,1,11,5,12,330,9,263,16,1,12,4,15,Școala Noua Celaru,,Celaru,44.0417,24.129
+301,17,DOLJ,CERNĂTEŞTI,203,5,43,11,0,4,1,6,203,4,42,5,0,10,3,4,Căminul Cultural,Nr. 96,Cernătești,44.449,23.4321
+299,17,DOLJ,CERĂT,721,5,76,10,1,8,3,14,710,8,80,11,1,8,2,10,Caminul Cultural Cerat,,Cerăt,44.0635,23.6737
+300,17,DOLJ,CERĂT,304,0,17,3,0,8,6,16,304,1,20,3,1,9,6,16,Școala Gimnazială Cerăt - Localul nr. 3,,Cerăt,44.0553,23.6574
+305,17,DOLJ,CETATE,796,12,30,9,1,11,5,32,799,13,35,10,0,12,9,23,Școala cu Clasele I-IV Cetate,Str. Calea Severinului nr. 29,Cetate,44.1109,23.0374
+306,17,DOLJ,CETATE,629,4,42,20,1,24,9,25,642,3,43,14,2,25,9,19,Căminul Cultural Cetate,Nr. 148,Cetate,44.1057,23.0492
+307,17,DOLJ,CETATE,369,0,20,7,1,11,0,10,365,1,18,4,1,14,0,11,Școala cu Clasele I-VIII F-B,Nr. 238,Cetate,44.1012,23.0596
+256,17,DOLJ,BRALOŞTIŢA,122,1,121,6,0,6,3,5,120,1,127,3,0,7,1,6,Școala din Satul Ciocane,Str. Școlii nr. 3,Ciocanele,44.5122,23.4434
+332,17,DOLJ,DIOŞTI,141,2,27,5,2,123,0,3,135,2,26,5,2,128,0,3,Școala Generală cu Clasele I-VIII Ciocanesti,,Ciocănești,44.1615,24.1611
+309,17,DOLJ,CIOROIAŞI,308,5,73,7,1,45,7,18,305,8,73,7,1,45,9,16,Școala cu Clasele I-VIII Cioroiași,,Cioroiași,44.0859,23.4499
+310,17,DOLJ,CIOROIAŞI,252,1,43,8,0,7,1,8,242,1,44,9,0,9,1,6,Școala cu Clasele I-IV Cioroiu Nou,,Cioroiu Nou,44.0638,23.434
+311,17,DOLJ,CIUPERCENII NOI,637,6,56,19,0,21,3,24,627,7,54,9,2,46,4,21,Camin Cultural Ciupercenii Noi,,Ciupercenii Noi,43.91,22.9471
+312,17,DOLJ,CIUPERCENII NOI,612,5,75,24,0,44,4,19,590,7,76,14,2,62,5,20,Școala Generală Ciupercenii Noi,,Ciupercenii Noi,43.9107,22.9472
+192,17,DOLJ,MUNICIPIUL CALAFAT,557,17,114,11,0,36,2,17,549,16,111,15,1,43,4,16,Caminul Cultural Ciupercenii Vechii (din Cadrul Casei de Cultura Calafat),Nr. 9,Ciupercenii Vechi,43.9441,22.8961
+530,17,DOLJ,VÎRVORU DE JOS,300,6,37,10,0,9,14,24,303,6,35,12,0,11,13,22,Școala cu Clasele I-IV Ciutura,,Ciutura,44.2262,23.5664
+285,17,DOLJ,CARPEN,384,0,27,13,0,10,7,14,378,0,23,17,1,12,9,15,Căminul Cultural Cleanov,Str. Desnățuiului nr. 3,Cleanov,44.3533,23.2108
+367,17,DOLJ,GÎNGIOVA,239,1,35,8,0,3,5,12,242,1,29,11,0,3,5,11,Căminul Cultural Comoșteni,,Comoșteni,43.8721,23.8617
+384,17,DOLJ,IZVOARE,115,1,77,5,0,6,2,6,107,2,81,5,1,7,2,3,Școala Clasele I-IV,,Corlate,44.1769,23.3157
+303,17,DOLJ,CERNĂTEŞTI,140,0,9,11,0,6,2,3,133,0,10,6,0,16,1,2,Școala Generală,Nr. 173,Cornița,44.4512,23.487
+424,17,DOLJ,ORODEL,228,2,20,7,0,11,4,9,223,2,21,6,0,18,5,10,Școala Generală Cornu,,Cornu,44.2335,23.2721
+227,17,DOLJ,AFUMAŢI,139,2,44,5,2,6,2,4,135,2,43,6,1,6,2,6,Caminul Cultural Covei,,Covei,43.9747,23.4204
+314,17,DOLJ,COŞOVENI,412,2,122,16,0,53,4,12,401,4,118,14,0,58,6,15,Camin Cultural,,Coșoveni,44.2439,23.9291
+315,17,DOLJ,COŞOVENI,398,16,98,16,0,80,7,21,394,16,94,18,0,90,8,18,Grădinița nr. 1,,Coșoveni,44.2466,23.9335
+316,17,DOLJ,COŞOVENI,250,15,31,27,1,132,4,9,232,17,31,28,2,141,2,7,Grădinița nr. 2,,Coșoveni,44.2409,23.9272
+317,17,DOLJ,COŢOFENII DIN DOS,207,4,161,11,1,44,66,78,202,5,171,13,0,47,54,67,Școala Gimnazială Cotofenii din Dos,Str. Nicu Iovipale nr. 176,Coțofenii din Dos,44.4366,23.6123
+320,17,DOLJ,COŢOFENII DIN FAŢĂ,337,7,65,72,2,62,4,25,337,6,71,67,4,59,5,26,Școala cu Clasele I-VIII Coțofenii din Față,,Coțofenii din Față,44.4548,23.6583
+1,17,DOLJ,MUNICIPIUL CRAIOVA,295,110,114,25,0,34,30,90,289,119,126,33,0,42,25,57,Colegiul Național „Elena Cuza”,Str. Mihai Viteazul nr. 12,Craiova,44.3198,23.7929
+2,17,DOLJ,MUNICIPIUL CRAIOVA,289,62,93,37,2,49,47,97,286,70,96,45,4,56,43,69,Casa de Cultura a Studenților,Str. Eugeniu Carada (Str. Ialomicioara) nr. 10,Craiova,44.3152,23.8015
+3,17,DOLJ,MUNICIPIUL CRAIOVA,209,54,101,40,0,52,25,67,201,51,113,38,0,54,29,66,Primăria Craiova- Direcția de Asistență și Protecție Socială,Str. Mitropolitul Firmilian (Str. Lotru) nr. 14,Craiova,44.3144,23.7977
+4,17,DOLJ,MUNICIPIUL CRAIOVA,326,123,166,47,6,63,35,70,301,123,182,56,4,67,31,62,Liceul cu Program Sportiv „Petrache Trișcu”,Str. Tudor Vladimirescu nr. 9,Craiova,44.3126,23.8046
+5,17,DOLJ,MUNICIPIUL CRAIOVA,245,90,83,32,0,37,14,42,236,92,84,28,0,49,15,37,Liceul Teoretic „Traian Vuia”,Str. Rovinari nr. 1A,Craiova,44.3094,23.8122
+6,17,DOLJ,MUNICIPIUL CRAIOVA,260,63,76,16,1,41,7,29,251,61,73,20,2,44,14,36,Liceul Teoretic „Traian Vuia”,Str. Rovinari nr. 1A,Craiova,44.3094,23.8122
+7,17,DOLJ,MUNICIPIUL CRAIOVA,364,105,159,56,1,47,29,77,339,102,172,60,1,64,35,66,Liceul cu Program Sportiv „Petrache Trișcu”,Str. Tudor Vladimirescu nr. 9,Craiova,44.3126,23.8046
+8,17,DOLJ,MUNICIPIUL CRAIOVA,353,147,161,48,5,56,19,61,350,149,159,46,2,66,19,52,Universitatea din Craiova,Str. Alexandru Ioan Cuza nr. 13,Craiova,44.3188,23.8007
+9,17,DOLJ,MUNICIPIUL CRAIOVA,196,90,68,29,0,51,15,38,187,91,69,28,1,59,19,34,Universitatea din Craiova,Str. Alexandru Ioan Cuza nr. 13,Craiova,44.3188,23.8007
+10,17,DOLJ,MUNICIPIUL CRAIOVA,178,108,112,30,0,56,16,45,172,105,113,36,0,61,16,42,Universitatea din Craiova,Str. Alexandru Ioan Cuza nr. 13,Craiova,44.3188,23.8007
+11,17,DOLJ,MUNICIPIUL CRAIOVA,246,79,112,24,0,48,20,49,233,80,112,28,0,54,23,51,Școala Gimnazială nr. 22 „Mircea Eliade”,Str. Cloșca nr. 1,Craiova,44.3135,23.8178
+12,17,DOLJ,MUNICIPIUL CRAIOVA,343,122,134,51,3,56,34,63,326,122,140,59,3,62,37,62,Școala Gimnazială „Mircea Eliade”,Str. Cloșca nr. 1,Craiova,44.3135,23.8178
+13,17,DOLJ,MUNICIPIUL CRAIOVA,450,139,143,42,3,64,35,71,437,139,144,45,2,80,39,65,Gradinița cu Program Prelungit „Dumbrava Minunata” (fostă nr. 37),Str. Putnei nr. 50,Craiova,44.3145,23.821
+14,17,DOLJ,MUNICIPIUL CRAIOVA,273,54,105,30,1,27,14,39,264,55,107,36,2,35,12,32,Gradinița cu Program Prelungit „Dumbrava Minunata” (fostă nr. 37),Str. Putnei nr. 50,Craiova,44.3145,23.821
+15,17,DOLJ,MUNICIPIUL CRAIOVA,291,61,87,37,0,29,21,55,281,69,90,37,0,37,20,43,Școala Gimnazială „Mihai Eminescu” (fosta nr. 37,Str. Ion Țuculescu nr. 3,Craiova,44.3125,23.8387
+16,17,DOLJ,MUNICIPIUL CRAIOVA,317,63,86,20,0,18,7,30,307,70,87,18,1,24,11,23,Școala Gimnazială „Mihai Eminescu” (fosta nr. 37),Str. Ion Țuculescu nr. 3,Craiova,44.3125,23.8387
+17,17,DOLJ,MUNICIPIUL CRAIOVA,253,34,64,9,0,22,20,32,234,34,67,12,0,31,23,32,Școala Gimnazială „Mihai Eminescu” (fosta nr. 37),Str. Ion Țuculescu nr. 3,Craiova,44.3125,23.8387
+18,17,DOLJ,MUNICIPIUL CRAIOVA,275,30,43,9,0,21,17,40,262,28,43,9,0,32,23,44,Gradinița cu Program Normal „Prichindel” (fosta nr. 55) - Structură a Școlii Gimnaziale „Mihai Eminescu” (fosta nr. 37) ),Str. Ion Țuculescu nr. 2,Craiova,44.312,23.8403
+19,17,DOLJ,MUNICIPIUL CRAIOVA,247,19,75,11,0,21,13,32,249,21,75,9,0,23,12,28,Gradinița cu Program Normal „Prichindel” (fosta nr. 55) - Structură a Școlii Gimnaziale „Mihai Eminescu” (fosta nr. 37),Str. Ion Țuculescu nr. 2,Craiova,44.312,23.8403
+20,17,DOLJ,MUNICIPIUL CRAIOVA,275,79,123,33,1,28,10,29,264,76,133,28,2,36,10,27,Liceul Teoretic „Henr. Coandă”,Str. Henri Coandă (Str. Humulești) nr. 48,Craiova,44.3111,23.8216
+21,17,DOLJ,MUNICIPIUL CRAIOVA,331,78,100,28,0,34,17,47,309,80,109,28,1,41,22,48,Liceul Teoretic „Henr. Coandă”,Str. Henri Coandă (Str. Humulești) nr. 48,Craiova,44.3111,23.8216
+22,17,DOLJ,MUNICIPIUL CRAIOVA,302,94,106,41,1,35,21,43,292,94,119,35,1,40,23,41,Liceul Teoretic „Henr. Coandă”,Str. Henri Coandă (Str. Humulești) nr. 48,Craiova,44.3111,23.8216
+23,17,DOLJ,MUNICIPIUL CRAIOVA,385,92,103,34,1,40,16,46,375,92,108,38,1,40,17,46,Liceul Tehnologic Ucecom „Spiru Haret”,Str. Electroputere nr. 2,Craiova,44.3084,23.8228
+24,17,DOLJ,MUNICIPIUL CRAIOVA,331,63,118,34,1,55,15,44,329,62,124,36,1,57,13,38,Colegiul „Ștefan Odobleja”,Str. Electroputere nr. 21,Craiova,44.3065,23.8228
+25,17,DOLJ,MUNICIPIUL CRAIOVA,279,42,77,20,0,28,12,28,278,45,79,20,0,21,10,29,Colegiul „Ștefan Odobleja”,Str. Electroputere nr. 21,Craiova,44.3065,23.8228
+26,17,DOLJ,MUNICIPIUL CRAIOVA,201,34,55,16,0,16,13,35,190,35,61,13,0,28,14,32,Gradinița de Copii cu Program Prelungit „Elena Farago” (fosta nr. 41),Str. Revoluției nr. 15,Craiova,44.3045,23.8181
+27,17,DOLJ,MUNICIPIUL CRAIOVA,284,36,63,18,0,14,15,36,276,38,68,18,0,18,15,30,Gradinița de Copii cu Program Prelungit „Elena Farago” (fosta nr. 41),Str. Revoluției nr. 15,Craiova,44.3045,23.8181
+28,17,DOLJ,MUNICIPIUL CRAIOVA,331,73,119,37,3,53,16,49,326,69,129,39,1,58,19,46,Școala Gimnazială „Nicolae Romanescu”,Str. Vîntului nr. 3,Craiova,44.3065,23.816
+29,17,DOLJ,MUNICIPIUL CRAIOVA,292,76,87,27,0,30,11,30,285,73,92,32,0,32,16,29,Gradinița cu Program Prelungit „Ion Creanga” (fosta nr. 42),Str. Aurel Vlaicu nr. 10,Craiova,44.3065,23.8137
+30,17,DOLJ,MUNICIPIUL CRAIOVA,304,32,83,18,1,32,14,29,296,36,93,15,0,28,14,29,Școala Gimnazială „Nicolae Romanescu” (fosta nr. 29),Str. Caracal nr. 81,Craiova,44.3044,23.8141
+31,17,DOLJ,MUNICIPIUL CRAIOVA,335,53,86,32,1,32,14,42,320,54,89,38,1,37,16,44,Școala Gimnazială „Nicolae Romanescu” (fosta nr. 29),Str. Caracal nr. 81,Craiova,44.3044,23.8141
+32,17,DOLJ,MUNICIPIUL CRAIOVA,243,41,58,15,1,17,11,25,233,40,59,16,1,27,11,22,Școala Gimnazială „Nicolae Romanescu” (fosta nr. 29),Str. Caracal nr. 81,Craiova,44.3044,23.8141
+33,17,DOLJ,MUNICIPIUL CRAIOVA,218,47,69,24,1,30,8,26,207,48,72,25,1,30,8,25,"Universitatea de Medicină și Farmacie, (Sediul Vechi)",Str. Petru Rareș nr. 2,Craiova,44.3088,23.7977
+34,17,DOLJ,MUNICIPIUL CRAIOVA,214,79,99,31,0,29,17,46,211,72,93,32,0,39,23,53,"Universitatea de Medicină și Farmacie, (Sediul Vechi)",Str. Petru Rareș nr. 2,Craiova,44.3088,23.7977
+35,17,DOLJ,MUNICIPIUL CRAIOVA,294,34,80,19,2,34,9,37,289,41,84,19,3,38,11,31,Liceul Tehnologic de Transporturi Auto,Bulevardul Nicolae Romanescu (Str. Nicolae Romanescu) nr. 99,Craiova,44.2919,23.7998
+36,17,DOLJ,MUNICIPIUL CRAIOVA,233,48,60,22,1,31,9,32,226,49,63,26,0,37,14,26,Liceul Tehnologic de Transporturi Auto,Bulevardul Nicolae Romanescu (Str. Nicolae Romanescu) nr. 99,Craiova,44.2919,23.7998
+37,17,DOLJ,MUNICIPIUL CRAIOVA,276,28,82,23,0,36,10,45,273,29,81,28,2,42,14,37,Liceul Tehnologic de Transporturi Auto,Bulevardul Nicolae Romanescu (Str. Nicolae Romanescu) nr. 99,Craiova,44.2919,23.7998
+38,17,DOLJ,MUNICIPIUL CRAIOVA,310,28,71,17,3,23,12,37,308,32,68,17,2,31,11,32,Liceul Tehnologic de Transporturi Auto,Bulevardul Nicolae Romanescu (Str. Nicolae Romanescu) nr. 99,Craiova,44.2919,23.7998
+39,17,DOLJ,MUNICIPIUL CRAIOVA,214,12,62,15,1,24,10,32,208,13,64,14,1,29,12,30,"Liceul Tehnologic de Transporturi Auto, (fosta Școală cu Clasele I-VIII nr. 25 Făcăi)",Prelungirea Bechetului nr. 3A,Craiova,44.2748,23.8155
+40,17,DOLJ,MUNICIPIUL CRAIOVA,195,21,37,9,0,24,14,25,196,18,40,10,0,20,14,28,"Școala Primară nr. 27 Popoveni - Structură a Scolii Gimnaziale „Gheorghe Bibescu”, (fosta nr. 36)",Șoseaua Popoveni nr. 49,Craiova,44.2898,23.7821
+41,17,DOLJ,MUNICIPIUL CRAIOVA,301,60,104,13,0,41,13,34,295,63,103,13,0,38,18,37,Școala Gimnazială „Gheorghe Bibescu” (fosta nr. 36),Str. Dr. Nicolae Ionescu Sisești nr. 3,Craiova,44.2973,23.7973
+42,17,DOLJ,MUNICIPIUL CRAIOVA,359,62,100,25,0,33,17,30,351,60,96,29,1,46,14,26,Școala Gimnazială „Gheorghe Bibescu” (fosta nr. 36),Str. Dr. Nicolae Ionescu Sisești nr. 3,Craiova,44.2973,23.7973
+43,17,DOLJ,MUNICIPIUL CRAIOVA,294,98,128,22,1,49,20,60,286,98,136,25,2,52,19,45,Școala Gimnazială „Gheorghe Bibescu” (fosta nr. 36),Str. Dr. Nicolae Ionescu Sisești nr. 3,Craiova,44.2973,23.7973
+44,17,DOLJ,MUNICIPIUL CRAIOVA,322,65,104,24,2,32,13,32,316,62,108,20,1,47,14,28,Școala Gimnazială „Gheorghe Bibescu” (fosta nr. 36),Str. Dr. Nicolae Ionescu Sisești nr. 3,Craiova,44.2973,23.7973
+45,17,DOLJ,MUNICIPIUL CRAIOVA,270,66,83,22,0,42,15,41,265,68,82,25,0,44,14,41,Colegiul Național Economic „Gheorghe Chițu”,Str. Dr. Dimitrie Gerota nr. 22,Craiova,44.302,23.7935
+46,17,DOLJ,MUNICIPIUL CRAIOVA,307,64,79,14,0,29,6,25,307,60,83,12,1,31,8,27,Colegiul Național Economic „Gheorghe Chițu”,Str. Dr. Dimitrie Gerota nr. 22,Craiova,44.302,23.7935
+47,17,DOLJ,MUNICIPIUL CRAIOVA,304,67,97,39,0,45,14,39,297,71,92,38,1,56,13,35,Colegiul Național Economic „Gheorghe Chițu”,Str. Dr. Dimitrie Gerota nr. 22,Craiova,44.302,23.7935
+48,17,DOLJ,MUNICIPIUL CRAIOVA,331,109,149,40,2,44,26,51,308,120,148,38,1,56,24,50,"Universitatea de Medicina și Farmacie, (Sediul Nou)",Bulevardul 1 Mai (Bulevardul Mareșal Ion Antonescu) nr. 66,Craiova,44.3055,23.7943
+49,17,DOLJ,MUNICIPIUL CRAIOVA,271,97,128,46,2,46,16,42,266,95,123,47,3,43,18,43,Școala Gimnazială „Sfântul Dumitru” (fosta nr. 18),Calea Unirii nr. 162,Craiova,44.3042,23.7976
+50,17,DOLJ,MUNICIPIUL CRAIOVA,300,87,131,39,4,42,25,59,297,85,141,40,2,47,27,55,Liceul de Arte „Marin Sorescu”,,Craiova,44.3079,23.7943
+51,17,DOLJ,MUNICIPIUL CRAIOVA,317,66,142,31,3,83,24,64,324,66,138,34,1,87,19,51,Liceul de Arte „Marin Sorescu”,Nr. 4,Craiova,44.3079,23.7943
+52,17,DOLJ,MUNICIPIUL CRAIOVA,410,118,149,58,0,67,30,70,385,117,155,60,0,92,31,62,Colegiul National „Frații Buzești”,Bulevardul Știrbei Vodă (Bulevardul 23 August) nr. 5,Craiova,44.3135,23.7938
+53,17,DOLJ,MUNICIPIUL CRAIOVA,390,121,137,44,1,72,26,81,379,109,143,50,1,84,32,74,Colegiul National „Frații Buzești”,Bulevardul Știrbei Vodă (Bulevardul 23 August) nr. 5,Craiova,44.3135,23.7938
+54,17,DOLJ,MUNICIPIUL CRAIOVA,326,45,81,23,0,29,11,36,311,46,85,23,0,40,14,33,Școala Gimnazială „Lascăr Catargiu” (fosta nr. 19),Str. Bărăganului nr. 45,Craiova,44.3066,23.7831
+55,17,DOLJ,MUNICIPIUL CRAIOVA,354,45,78,15,0,29,9,36,348,48,82,16,0,39,10,28,Școala Gimnazială „Lascăr Catargiu” (fosta nr. 19),Str. Bărăganului nr. 45,Craiova,44.3066,23.7831
+56,17,DOLJ,MUNICIPIUL CRAIOVA,317,29,83,38,0,30,15,36,304,25,88,38,1,38,17,36,Școala Gimnazială „Lascăr Catargiu” (fosta nr. 19),Str. Bărăganului nr. 45,Craiova,44.3066,23.7831
+57,17,DOLJ,MUNICIPIUL CRAIOVA,343,50,93,35,0,30,15,38,333,50,95,32,0,35,17,37,Școala Gimnazială „Lascăr Catargiu” (fosta nr. 19),Str. Bărăganului nr. 45,Craiova,44.3066,23.7831
+58,17,DOLJ,MUNICIPIUL CRAIOVA,271,28,41,9,0,23,7,22,273,27,45,10,1,24,4,16,Școala Gimnazială nr. 26 Mofleni - Structură a Școlii Gimnaziale „Anton Pan” (fosta nr. 13 Bucovăț),Str. Banul Stepan nr. 20,Craiova,44.3049,23.7598
+59,17,DOLJ,MUNICIPIUL CRAIOVA,298,21,48,15,0,39,12,29,304,25,45,14,0,44,11,22,S.C. Pentru Lucrari de Drumuri și Poduri Dolj S.A,Str. Drumul Jiului nr. 10,Craiova,44.3155,23.7748
+60,17,DOLJ,MUNICIPIUL CRAIOVA,271,44,36,15,1,34,8,27,264,43,38,16,1,37,12,28,Școala Gimnazială „Anton Pan” (fosta nr. 13 Bucovăț),Str. Bucovăț nr. 76,Craiova,44.3163,23.7803
+61,17,DOLJ,MUNICIPIUL CRAIOVA,177,83,86,25,0,47,13,53,184,87,87,28,0,44,10,32,Colegiul Național „Carol I”,Str. Ion Maiorescu nr. 2,Craiova,44.3186,23.7921
+62,17,DOLJ,MUNICIPIUL CRAIOVA,182,73,101,35,1,46,16,78,190,74,115,41,1,51,17,39,Colegiul Național „Carol I”,Str. Ion Maiorescu nr. 2,Craiova,44.3186,23.7921
+63,17,DOLJ,MUNICIPIUL CRAIOVA,327,80,117,42,5,77,26,113,329,76,140,50,2,95,25,56,Facultatea de Agronomie,Str. Libertății nr. 19,Craiova,44.3196,23.7868
+64,17,DOLJ,MUNICIPIUL CRAIOVA,321,120,155,52,4,74,42,97,301,122,174,55,2,92,36,74,Facultatea de Agronomie,Str. Libertății nr. 19,Craiova,44.3196,23.7868
+65,17,DOLJ,MUNICIPIUL CRAIOVA,195,52,72,27,0,33,11,27,193,55,70,28,0,39,16,36,Gradinița cu Program Prelungit „Paradisul Copiilor” (fosta nr. 24),Str. Renașterii nr. 1,Craiova,44.3255,23.7818
+66,17,DOLJ,MUNICIPIUL CRAIOVA,212,59,80,20,1,32,11,34,206,62,82,21,0,37,14,34,"Gradinița cu Program Prelungit „Paradisul Copiilor”, (fosta nr. 24)",Str. Renașterii nr. 1,Craiova,44.3255,23.7818
+67,17,DOLJ,MUNICIPIUL CRAIOVA,352,80,163,33,0,36,18,48,319,88,156,33,0,54,18,47,Colegiul Tehnic de Industrie Alimentară,Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 144,Craiova,44.3252,23.7743
+68,17,DOLJ,MUNICIPIUL CRAIOVA,360,29,75,11,0,40,17,28,360,27,70,14,0,47,14,28,Colegiul Tehnic de Industrie Alimentară,Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 144,Craiova,44.3252,23.7743
+69,17,DOLJ,MUNICIPIUL CRAIOVA,353,53,110,38,0,42,18,53,340,57,113,36,2,48,23,56,Colegiul Tehnic de Industrie Alimentară,Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 144,Craiova,44.3252,23.7743
+70,17,DOLJ,MUNICIPIUL CRAIOVA,301,40,85,20,0,20,21,42,288,41,87,22,1,29,22,38,Școala Gimnazială „Ion Creangă” (fosta nr. 16),Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 234,Craiova,44.3268,23.7684
+71,17,DOLJ,MUNICIPIUL CRAIOVA,315,30,66,36,1,21,16,45,309,37,66,37,1,25,15,38,Școala Gimnazială „Ion Creangă” (fosta nr. 16),Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 234,Craiova,44.3268,23.7684
+72,17,DOLJ,MUNICIPIUL CRAIOVA,327,19,80,14,0,15,9,28,320,16,79,16,0,21,14,39,Școala Gimnazială „Ion Creangă” (fosta nr. 16),Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 234,Craiova,44.3268,23.7684
+73,17,DOLJ,MUNICIPIUL CRAIOVA,309,15,85,17,0,15,11,34,311,15,85,18,0,20,13,32,Grădinita cu Program Normal „Casa cu Pitici” (fosta nr. 15) - Structură a Școlii Gimnaziale „Ion Creanga” (fostă nr. 16),Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 342,Craiova,44.3289,23.7616
+74,17,DOLJ,MUNICIPIUL CRAIOVA,335,44,87,24,0,22,18,36,324,48,81,27,0,28,23,40,Rat S.R.L.,Bulevardul Dacia nr. 3,Craiova,44.3403,23.7696
+75,17,DOLJ,MUNICIPIUL CRAIOVA,377,47,84,30,0,21,13,29,359,46,92,27,0,28,15,36,Școala Gimnazială „Elena Farago” (fosta Școala Gimnazială nr. 34),Str. Elena Farago (Str. Pionierilor) nr. 53,Craiova,44.3374,23.7688
+76,17,DOLJ,MUNICIPIUL CRAIOVA,298,61,85,26,2,15,8,33,293,63,82,21,1,23,9,35,Școala Gimnazială „Elena Farago” (fosta Școala Gimnazială nr. 34),Str. Elena Farago (Str. Pionierilor) nr. 53,Craiova,44.3374,23.7688
+77,17,DOLJ,MUNICIPIUL CRAIOVA,274,51,74,24,0,23,17,37,274,46,81,26,1,27,14,29,Școala Gimnazială „Elena Farago” (fosta Școala Gimnazială nr. 34),Str. Elena Farago (Str. Pionierilor) nr. 53,Craiova,44.3374,23.7688
+78,17,DOLJ,MUNICIPIUL CRAIOVA,305,58,103,41,0,49,16,38,304,58,106,43,0,52,15,30,Școala Gimnazială „Elena Farago” (fosta Școala Gimnazială nr. 34),Str. Elena Farago (Str. Pionierilor) nr. 53,Craiova,44.3374,23.7688
+79,17,DOLJ,MUNICIPIUL CRAIOVA,352,56,72,27,0,35,14,47,349,56,77,26,0,43,13,39,Școala Gimnazială „Elena Farago” (fosta Școala Gimnazială nr. 33),Str. Elena Farago (Str. Pionierilor) nr. 19,Craiova,44.3401,23.7744
+80,17,DOLJ,MUNICIPIUL CRAIOVA,372,48,67,23,0,38,27,58,370,50,67,25,0,39,21,52,Școala Gimnazială „Elena Farago” (fosta Școala Gimnazială nr. 33),Str. Elena Farago (Str. Pionierilor) nr. 19,Craiova,44.3401,23.7744
+81,17,DOLJ,MUNICIPIUL CRAIOVA,355,46,69,20,0,30,47,74,351,50,70,20,0,28,51,75,Școala Gimnazială „Elena Farago” (fosta Școala Gimnazială nr. 33),Str. Elena Farago (Str. Pionierilor) nr. 19,Craiova,44.3401,23.7744
+82,17,DOLJ,MUNICIPIUL CRAIOVA,384,49,89,30,2,31,20,30,371,54,88,32,1,33,22,34,Gradinița cu Program Prelungit „Piticot” (fosta nr. 45),Str. Elena Farago (Str. Pionierilor) nr. 17,Craiova,44.3405,23.7745
+83,17,DOLJ,MUNICIPIUL CRAIOVA,263,29,50,16,1,18,5,21,242,32,56,16,0,28,9,21,Gradinița cu Program Prelungit „Piticot” (fosta nr. 45),Str. Elena Farago (Str. Pionierilor) nr. 17,Craiova,44.3405,23.7745
+84,17,DOLJ,MUNICIPIUL CRAIOVA,241,23,39,10,0,28,12,24,232,24,43,11,0,34,13,23,Gradinița cu Program Prelungit „Piticot” (fosta nr. 45),Str. Elena Farago (Str. Pionierilor) nr. 17,Craiova,44.3405,23.7745
+85,17,DOLJ,MUNICIPIUL CRAIOVA,293,48,83,28,1,27,16,35,286,45,89,29,1,29,22,33,Gradinița cu Program Prelungit „Floarea Soarelui” (fosta nr. 51),Str. Nicolae Coculescu (Str. Amaradiei) nr. 20,Craiova,44.3387,23.7834
+86,17,DOLJ,MUNICIPIUL CRAIOVA,284,37,69,21,0,21,12,27,278,38,67,17,0,30,12,30,Gradinița cu Program Prelungit „Floarea Soarelui” (fosta nr. 51),Str. Nicolae Coculescu (Str. Amaradiei) nr. 20,Craiova,44.3387,23.7834
+87,17,DOLJ,MUNICIPIUL CRAIOVA,317,34,56,20,0,31,15,34,313,35,50,22,0,37,16,32,Gradinița cu Program Prelungit „Floarea Soarelui” (fosta nr. 51),Str. Nicolae Coculescu (Str. Amaradiei) nr. 20,Craiova,44.3387,23.7834
+88,17,DOLJ,MUNICIPIUL CRAIOVA,371,51,90,24,0,28,9,27,375,50,90,24,0,33,8,20,Școala Gimnazială „Alexandru Macedonski” (fosta nr. 32),Str. Castanilor nr. 4,Craiova,44.3377,23.7833
+89,17,DOLJ,MUNICIPIUL CRAIOVA,379,54,89,24,0,26,16,33,364,52,101,22,0,31,18,35,Școala Gimnazială „Alexandru Macedonski” (fosta nr. 32),Str. Castanilor nr. 4,Craiova,44.3377,23.7833
+90,17,DOLJ,MUNICIPIUL CRAIOVA,346,61,83,24,0,40,18,37,346,61,83,24,0,40,18,32,Școala Gimnazială „Alexandru Macedonski” (fosta nr. 32),Str. Castanilor nr. 4,Craiova,44.3377,23.7833
+91,17,DOLJ,MUNICIPIUL CRAIOVA,382,75,74,30,0,31,11,23,368,77,80,30,0,34,12,26,Școala Gimnazială „Alexandru Macedonski” (fosta nr. 32),Str. Castanilor nr. 4,Craiova,44.3377,23.7833
+92,17,DOLJ,MUNICIPIUL CRAIOVA,262,43,60,11,0,24,13,29,254,39,63,17,0,25,17,33,Grădinița cu Program Prelungit „Floare Albastra” (fosta nr. 40),Aleea Arh. Duiliu Marcu (Aleea Brebeneilor) nr. 14,Craiova,44.3377,23.7789
+93,17,DOLJ,MUNICIPIUL CRAIOVA,397,38,63,34,1,29,12,26,387,38,70,32,1,34,17,29,Grădinița cu Program Prelungit „Floare Albastra” (fosta nr. 40),Aleea Arh. Duiliu Marcu (Aleea Brebeneilor) nr. 14,Craiova,44.3377,23.7789
+94,17,DOLJ,MUNICIPIUL CRAIOVA,306,30,73,27,0,19,12,37,302,27,72,31,1,31,8,29,Școala Gimnazială „Mihai Viteazu” (fosta nr. 30),Aleea Arh. Duiliu Marcu (Aleea Brebeneilor) nr. 16,Craiova,44.3359,23.7802
+95,17,DOLJ,MUNICIPIUL CRAIOVA,309,36,73,21,0,29,9,24,309,35,77,16,0,33,9,26,Școala Gimnazială „Mihai Viteazu” (fosta nr. 30),Aleea Arh. Duiliu Marcu (Aleea Brebeneilor) nr. 16,Craiova,44.3359,23.7802
+96,17,DOLJ,MUNICIPIUL CRAIOVA,334,39,55,26,0,19,8,35,323,42,58,23,0,23,13,40,Școala Gimnazială „Mihai Viteazu” (fosta nr. 30),Aleea Arh. Duiliu Marcu (Aleea Brebeneilor) nr. 16,Craiova,44.3359,23.7802
+97,17,DOLJ,MUNICIPIUL CRAIOVA,278,41,72,24,0,36,5,27,273,42,72,22,0,40,10,28,Școala Gimnazială „Mihai Viteazu” (fosta nr. 30),Aleea Arh. Duiliu Marcu (Aleea Brebeneilor) nr. 16,Craiova,44.3359,23.7802
+98,17,DOLJ,MUNICIPIUL CRAIOVA,302,17,65,13,0,36,13,31,295,20,65,18,2,36,12,29,Școala Gimnazială „Mihai Viteazu” (fosta nr. 30),Aleea Arh. Duiliu Marcu (Aleea Brebeneilor) nr. 16,Craiova,44.3359,23.7802
+99,17,DOLJ,MUNICIPIUL CRAIOVA,278,46,55,11,0,25,14,30,269,51,58,13,0,26,16,35,Liceul Tehnologic „George Bibescu”,Str. Constantin Brâncoveanu (Str. Potbanita) nr. 101,Craiova,44.3358,23.7913
+100,17,DOLJ,MUNICIPIUL CRAIOVA,264,29,72,12,0,29,11,25,264,27,75,15,0,32,8,19,Liceul Tehnologic „George Bibescu”,Str. Constantin Brâncoveanu (Str. Potbanita) nr. 101,Craiova,44.3358,23.7913
+101,17,DOLJ,MUNICIPIUL CRAIOVA,229,37,64,22,0,32,14,33,231,33,65,24,0,38,11,28,Gradinița cu Program Prelungit „Phoenix” (fosta nr. 52),Bulevardul Oltenia nr. 81,Craiova,44.3336,23.7817
+102,17,DOLJ,MUNICIPIUL CRAIOVA,274,41,80,22,0,20,4,15,274,41,79,21,0,23,5,16,Grădinița cu Program Prelungit „Phoenix” (fosta nr. 52),Bulevardul Oltenia nr. 81,Craiova,44.3336,23.7817
+103,17,DOLJ,MUNICIPIUL CRAIOVA,411,96,122,36,0,48,26,56,386,97,134,35,0,51,25,60,Colegiul Tehnic „Costin D. Nenitescu”,Str. Pașcani nr. 9,Craiova,44.3297,23.7818
+104,17,DOLJ,MUNICIPIUL CRAIOVA,388,76,110,31,0,42,15,45,378,77,105,29,0,53,17,50,Colegiul Tehnic „Costin D. Nenițescu”,Str. Pașcani nr. 9,Craiova,44.3297,23.7818
+105,17,DOLJ,MUNICIPIUL CRAIOVA,346,42,91,28,0,29,14,45,335,45,94,26,0,40,12,42,Colegiul Tehnic „Costin D. Nenițescu”,Str. Pașcani nr. 9,Craiova,44.3297,23.7818
+106,17,DOLJ,MUNICIPIUL CRAIOVA,286,73,96,37,0,27,15,39,272,74,101,34,0,36,15,39,Colegiul Tehnic „Costin D. Nenițescu”,Str. Pașcani nr. 9,Craiova,44.3297,23.7818
+107,17,DOLJ,MUNICIPIUL CRAIOVA,323,75,88,27,1,21,13,31,309,77,90,24,0,31,17,36,Colegiul Tehnic „Costin D. Nenițescu”,Str. Pașcani nr. 9,Craiova,44.3297,23.7818
+108,17,DOLJ,MUNICIPIUL CRAIOVA,309,73,111,37,1,52,24,48,298,68,109,35,1,59,25,60,Școala Gimnazială „Decebal” (fosta nr. 12),Bulevardul Nicolae Titulescu nr. 64,Craiova,44.3271,23.7851
+109,17,DOLJ,MUNICIPIUL CRAIOVA,300,80,104,29,0,48,22,45,289,81,112,23,2,48,30,51,Școala Gimnazială „Decebal” (fosta nr. 12),Bulevardul Nicolae Titulescu nr. 64,Craiova,44.3271,23.7851
+110,17,DOLJ,MUNICIPIUL CRAIOVA,313,82,118,30,1,32,13,44,315,84,114,31,2,43,7,28,Școala Gimnazială „Decebal” (fosta nr. 12),Bulevardul Nicolae Titulescu nr. 64,Craiova,44.3271,23.7851
+111,17,DOLJ,MUNICIPIUL CRAIOVA,256,69,101,27,1,47,17,46,246,69,106,27,1,51,20,48,Colegiul Tehnic Energetic,Str. Amaradia (Str. I. P. Pavlov) nr. 59,Craiova,44.3319,23.7932
+112,17,DOLJ,MUNICIPIUL CRAIOVA,307,57,100,28,2,25,15,28,294,57,102,21,2,41,16,30,Colegiul Tehnic Energetic,Str. Amaradia (Str. I. P. Pavlov) nr. 59,Craiova,44.3319,23.7932
+113,17,DOLJ,MUNICIPIUL CRAIOVA,276,73,65,22,1,36,14,29,270,71,62,25,2,45,15,26,Colegiul Tehnic Energetic,Str. Amaradia (Str. I. P. Pavlov) nr. 59,Craiova,44.3319,23.7932
+114,17,DOLJ,MUNICIPIUL CRAIOVA,391,77,110,49,0,34,14,38,389,77,108,46,0,41,18,38,Colegiul Național Pedagogic „Ștefan Velovan”,Str. Amaradia (Str. I. P. Pavlov) nr. 72,Craiova,44.3325,23.7948
+115,17,DOLJ,MUNICIPIUL CRAIOVA,373,96,114,39,3,36,21,53,367,100,111,39,2,49,23,48,Colegiul Național Pedagogic „Ștefan Velovan”,Str. Amaradia (Str. I. P. Pavlov) nr. 72,Craiova,44.3325,23.7948
+116,17,DOLJ,MUNICIPIUL CRAIOVA,326,60,101,21,1,48,26,51,323,60,107,22,2,51,19,41,Grădinița cu Program Prelungit „Casuta cu Povesti” (fosta nr. 43),Str. General Ștefan Fălcoianu nr. 6,Craiova,44.3306,23.8019
+117,17,DOLJ,MUNICIPIUL CRAIOVA,323,82,100,39,1,43,24,59,314,82,106,37,1,47,29,59,Grădinița cu Program Prelungit „Casuta cu Povesti” (fosta nr. 43),Str. General Ștefan Fălcoianu nr. 6,Craiova,44.3306,23.8019
+118,17,DOLJ,MUNICIPIUL CRAIOVA,343,81,91,34,0,29,23,59,312,77,106,41,0,39,31,62,Grădinița cu Program Prelungit „Voiniceii” (fosta nr. 32),Str. Col. Scarlat Demetriade nr. 10,Craiova,44.3313,23.7965
+119,17,DOLJ,MUNICIPIUL CRAIOVA,256,46,93,37,0,28,19,48,243,49,102,35,2,35,18,45,Grădinița cu Program Prelungit „Voiniceii” (fosta nr. 32),Str. Col. Scarlat Demetriade nr. 10,Craiova,44.3313,23.7965
+120,17,DOLJ,MUNICIPIUL CRAIOVA,362,93,132,43,1,47,27,54,345,97,122,50,1,62,31,51,Școala Gimnazială „Sfântu Gheorghe” (fosta nr. 24),Str. Brazda lui Novac nr. 87,Craiova,44.3302,23.804
+121,17,DOLJ,MUNICIPIUL CRAIOVA,350,73,129,33,1,39,32,60,329,68,136,38,1,52,32,63,Școala Gimnazială „Sfântu Gheorghe” (fosta nr. 24),Str. Brazda lui Novac nr. 87,Craiova,44.3302,23.804
+122,17,DOLJ,MUNICIPIUL CRAIOVA,337,63,114,22,0,62,11,42,334,64,116,20,0,67,11,38,Școala Gimnazială „Sfântu Gheorghe” (fosta nr. 24),Str. Brazda lui Novac nr. 87,Craiova,44.3302,23.804
+123,17,DOLJ,MUNICIPIUL CRAIOVA,221,68,102,22,2,35,20,52,212,68,112,28,2,38,21,44,Liceul Tehnologic Transporturi Căi Ferate,Str. Constantin Brâncuși (Str. Castanilor) nr. 15,Craiova,44.3249,23.7954
+124,17,DOLJ,MUNICIPIUL CRAIOVA,266,77,90,34,0,38,13,36,257,78,95,32,0,36,20,40,Liceul Tehnologic Transporturi Căi Ferate,Str. Constantin Brâncuși (Str. Castanilor) nr. 15,Craiova,44.3249,23.7954
+125,17,DOLJ,MUNICIPIUL CRAIOVA,406,104,153,52,2,60,25,69,378,107,163,64,3,75,26,58,Colegiul Național „Nicolae Titulescu”,Str. Doljului nr. 12,Craiova,44.3289,23.8004
+126,17,DOLJ,MUNICIPIUL CRAIOVA,200,75,103,32,0,46,17,48,184,77,109,34,1,60,18,40,Școala Gimnazială „Traian” (fosta nr. 2),Str. Principatele Unite nr. 7,Craiova,44.3232,23.7948
+127,17,DOLJ,MUNICIPIUL CRAIOVA,214,105,136,49,1,39,20,57,198,117,135,48,2,51,21,49,Școala Gimnazială „Traian” (fosta nr. 2),Str. Principatele Unite nr. 7,Craiova,44.3232,23.7948
+128,17,DOLJ,MUNICIPIUL CRAIOVA,372,108,144,69,2,78,24,64,336,113,156,77,2,98,27,53,Grădinița cu Program Prelungit „Tudor Vladimirescu” (fosta nr. 21),Bulevardul Carol I (Bulevardul Republicii) nr. 41A,Craiova,44.3233,23.8037
+129,17,DOLJ,MUNICIPIUL CRAIOVA,380,109,113,42,1,42,12,53,360,107,115,46,0,53,14,59,Școala Gimnazială „Sf. Gheorghe” (fosta Școala cu Clasele I-VIII nr. 23),Str. Lămîiței nr. 4,Craiova,44.327,23.8066
+130,17,DOLJ,MUNICIPIUL CRAIOVA,359,95,127,57,1,51,28,73,355,94,139,60,0,56,26,60,Școala Gimnazială „Sf. Gheorghe” (fosta Școala cu Clasele I-VIII nr. 23),Str. Lămîiței nr. 4,Craiova,44.327,23.8066
+131,17,DOLJ,MUNICIPIUL CRAIOVA,370,88,149,43,0,47,22,67,361,94,145,46,0,59,23,61,Școala Gimnazială „Sf. Gheorghe” (fosta Școala cu Clasele I-VIII nr. 23),Str. Lămîiței nr. 4,Craiova,44.327,23.8066
+132,17,DOLJ,MUNICIPIUL CRAIOVA,300,49,88,22,0,42,13,42,300,50,91,20,0,40,15,42,Direcția de Sănătate Publică Dolj,Str. Lămîiței nr. 10,Craiova,44.3286,23.8067
+133,17,DOLJ,MUNICIPIUL CRAIOVA,406,93,131,42,1,52,24,62,385,94,139,41,0,70,24,58,Direcția de Sănătate Publică Dolj,Str. Lămîiței nr. 10,Craiova,44.3286,23.8067
+134,17,DOLJ,MUNICIPIUL CRAIOVA,401,53,93,32,0,33,16,36,389,54,95,35,0,38,20,37,Școala Gimnazială „Ion Țuculescu” (fosta nr. 14),Str. Bariera Vîlcii nr. 52,Craiova,44.3343,23.8167
+135,17,DOLJ,MUNICIPIUL CRAIOVA,416,70,150,41,0,49,17,51,409,79,146,39,0,56,19,43,Școala Gimnazială „Ion Țuculescu” (fosta nr. 14),Str. Bariera Vîlcii nr. 52,Craiova,44.3343,23.8167
+136,17,DOLJ,MUNICIPIUL CRAIOVA,333,54,62,17,0,30,10,27,318,54,66,18,1,27,14,32,Grădinița cu Program Normal „Îngerașii” (fostă nr. 5),Str. Teilor nr. 63,Craiova,44.3343,23.8167
+137,17,DOLJ,MUNICIPIUL CRAIOVA,229,21,39,16,0,13,2,13,222,19,45,19,0,13,2,13,Grădinița cu Program Normal nr. 35 - Structură a Scolii Gimnaziale „Ion Țuculescu” (fostă nr. 14),Șoseaua Bălcești nr. 53,Craiova,44.3604,23.8212
+138,17,DOLJ,MUNICIPIUL CRAIOVA,304,47,88,23,1,58,14,39,290,47,90,21,1,65,15,41,Grădinița cu Program Normal nr. 16-Structură a Școlii Gimnaziale „Ion Țuculescu” (fosta nr. 14),Str. Teilor nr. 63,Craiova,44.3321,23.8228
+139,17,DOLJ,MUNICIPIUL CRAIOVA,368,51,61,20,1,26,14,36,359,48,64,21,2,34,17,36,Grădinița cu Program Normal „Îngerașii” (fosta nr. 5),Str. Teilor nr. 63,Craiova,44.3321,23.8228
+140,17,DOLJ,MUNICIPIUL CRAIOVA,330,57,98,36,0,42,30,52,315,61,105,38,0,53,28,41,Sucursala Regională C.F. Craiova,Bulevardul Decebal nr. 1,Craiova,44.3287,23.8165
+141,17,DOLJ,MUNICIPIUL CRAIOVA,382,109,131,28,0,39,27,55,372,107,132,24,0,51,23,52,Sucursala Regională C.F. Craiova,Bulevardul Decebal nr. 1,Craiova,44.3287,23.8165
+142,17,DOLJ,MUNICIPIUL CRAIOVA,178,65,96,23,1,30,11,26,172,68,88,24,0,40,12,24,Grădinița cu Program Prelungit „Sf. Lucia” (fosta nr. 50),Str. I. Gh. Duca nr. 5,Craiova,44.3252,23.8135
+143,17,DOLJ,MUNICIPIUL CRAIOVA,222,66,103,10,2,41,11,22,210,59,116,15,1,41,12,22,Grădinița cu Program Prelungit „Sf. Lucia” (fosta nr. 50),Str. I. Gh. Duca nr. 5,Craiova,44.3252,23.8135
+144,17,DOLJ,MUNICIPIUL CRAIOVA,453,109,198,31,0,69,25,76,398,114,189,41,0,82,23,61,Grădinița cu Program Prelungit „Petrache Poenaru” (fosta Școala cu Clasele I VIII nr. 9 Petrache Poenaru),Str. Vasile Alecsandri nr. 87,Craiova,44.3212,23.811
+145,17,DOLJ,MUNICIPIUL CRAIOVA,407,59,140,22,0,47,11,37,382,71,138,24,4,59,10,33,Grădinița cu Program Prelungit „Petrache Poenaru” (fosta Școala cu Clasele I VIII nr. 9 Petrache Poenaru),Str. Vasile Alecsandri nr. 87,Craiova,44.3212,23.811
+146,17,DOLJ,MUNICIPIUL CRAIOVA,323,104,160,40,0,53,26,55,303,114,157,37,0,67,27,56,Școala Gimnazială „Gheorghe Țițeica” (fosta nr. 21),Calea București nr. 93,Craiova,44.3184,23.814
+147,17,DOLJ,MUNICIPIUL CRAIOVA,341,97,123,27,2,61,29,64,314,91,130,32,2,80,24,53,Școala Gimnazială „Gheorghe Țițeica” (fosta nr. 21),Calea București nr. 93,Craiova,44.3184,23.814
+148,17,DOLJ,MUNICIPIUL CRAIOVA,253,71,109,32,0,40,12,37,241,69,109,33,0,50,16,36,Grădinița cu Program Prelungit „Pinochio”,Str. Ștefan Velovan nr. 4,Craiova,44.317,23.8194
+149,17,DOLJ,MUNICIPIUL CRAIOVA,289,66,77,25,1,44,14,40,283,64,78,23,1,47,15,42,Primăria Municipiului Craiova (fosta Școală cu Clasele I-VIII nr. 35 „I.D. Sîrbu”),Str. Nicolae Julea (Aleea Dezrobirii) nr. 1,Craiova,44.3213,23.8192
+150,17,DOLJ,MUNICIPIUL CRAIOVA,232,59,90,20,0,17,20,37,225,58,95,18,0,30,22,32,"Primăria Municipiului Craiova, (fosta Școala cu Clasele I-VIII nr. 35 „I.D. Sîrbu”)",Str. Nicolae Julea (Aleea Dezrobirii) nr. 1,Craiova,44.3213,23.8192
+151,17,DOLJ,MUNICIPIUL CRAIOVA,300,75,88,20,1,42,5,23,271,75,95,23,1,46,9,35,"Primăria Municipiului Craiova, (fosta Școala cu Clasele I-VIII nr. 35 „I.D. Sîrbu”)",Str. Nicolae Julea (Aleea Dezrobirii) nr. 1,Craiova,44.3213,23.8192
+152,17,DOLJ,MUNICIPIUL CRAIOVA,233,43,73,27,0,31,11,30,218,49,73,24,1,43,12,28,Liceul „Matei Basarab”,Str. Vasile Alecsandri nr. 113,Craiova,44.3213,23.8175
+153,17,DOLJ,MUNICIPIUL CRAIOVA,191,35,61,13,0,33,13,30,191,37,63,15,0,34,13,25,Liceul „Matei Basarab”,Str. Vasile Alecsandri nr. 113,Craiova,44.3213,23.8175
+154,17,DOLJ,MUNICIPIUL CRAIOVA,313,56,79,27,2,34,11,32,295,62,79,29,3,44,11,31,Liceul Teoretic „Tudor Arghezi”,Str. Bucovina (Str. Dinamului) nr. 5,Craiova,44.3247,23.8161
+155,17,DOLJ,MUNICIPIUL CRAIOVA,339,70,103,28,0,41,10,24,321,67,101,35,0,51,12,26,Liceul Teoretic „Tudor Arghezi”,Str. Bucovina (Str. Dinamului) nr. 5,Craiova,44.3247,23.8161
+156,17,DOLJ,MUNICIPIUL CRAIOVA,318,66,95,16,0,36,17,43,304,71,95,23,1,39,22,37,Liceul Teoretic „Tudor Arghezi”,Str. Bucovina (Str. Dinamului) nr. 5,Craiova,44.3247,23.8161
+157,17,DOLJ,MUNICIPIUL CRAIOVA,355,47,116,37,3,50,19,53,345,51,116,34,0,53,29,59,Școala Gimnazială „Nicolae Bălcescu” (fosta nr. 39),Str. Traian Lalescu (Str. Dudului) nr. 6,Craiova,44.3228,23.8257
+158,17,DOLJ,MUNICIPIUL CRAIOVA,373,80,119,21,1,38,17,46,364,85,116,17,1,48,21,51,Școala Gimnazială „Nicolae Bălcescu” (fosta nr. 39),Str. Traian Lalescu (Str. Dudului) nr. 6,Craiova,44.3228,23.8257
+159,17,DOLJ,MUNICIPIUL CRAIOVA,309,73,129,34,0,42,20,48,299,74,131,34,2,47,23,48,Școala Gimnazială „Nicolae Bălcescu” (fosta nr. 39),Str. Traian Lalescu (Str. Dudului) nr. 6,Craiova,44.3228,23.8257
+160,17,DOLJ,MUNICIPIUL CRAIOVA,315,74,108,24,0,34,8,34,314,74,115,21,0,33,10,33,Școala Gimnazială „Nicolae Bălcescu” (fosta nr. 39),Str. Traian Lalescu (Str. Dudului) nr. 6,Craiova,44.3228,23.8257
+161,17,DOLJ,MUNICIPIUL CRAIOVA,318,96,120,36,2,42,14,49,306,92,126,35,2,50,13,55,Grădinița cu Program Normal nr. 14 „Luceafărul” - Structură a Școlii Gimnaziale „Nicolae Bălcescu” (fosta nr. 39),Str. Mihail Strajan nr. 12,Craiova,44.3196,23.8239
+162,17,DOLJ,MUNICIPIUL CRAIOVA,247,63,93,28,0,42,18,54,241,64,98,23,0,54,18,50,Facultatea de Mecanică,Calea București nr. 107,Craiova,44.3161,23.8222
+163,17,DOLJ,MUNICIPIUL CRAIOVA,287,99,137,18,0,31,11,33,287,97,130,28,0,31,12,36,Liceul Tehnologic Auto,Bulevardul Decebal (D) nr. 105,Craiova,44.3101,23.8359
+164,17,DOLJ,MUNICIPIUL CRAIOVA,242,85,89,22,0,43,16,36,234,93,92,21,0,44,15,35,Liceul Tehnologic Auto,Bulevardul Decebal (D) nr. 105,Craiova,44.3101,23.8359
+165,17,DOLJ,MUNICIPIUL CRAIOVA,244,46,93,17,0,25,13,29,235,44,97,21,0,30,12,27,Punctul Termic nr. 1 Lăpuș (Lângă Bl.23 - Bld. Decebal nr. 66b),Bulevardul Dacia nr. 66B,Craiova,44.3192,23.8317
+166,17,DOLJ,MUNICIPIUL CRAIOVA,321,55,83,40,1,46,14,33,314,56,85,35,0,55,16,32,Punctul Termic nr. 2 Lăpuș (Lângă Bl. 59 - Bld. Decebal nr. 55b),Bulevardul Dacia nr. 55B,Craiova,44.3213,23.8325
+167,17,DOLJ,MUNICIPIUL CRAIOVA,316,70,81,33,0,33,14,50,302,75,84,37,0,35,18,46,Primăria Municipiului Craiova Direcția de Asistență și Protecție Socială,"Str. Eustațiu Stoenescu nr. 1A, Bloc T8",Craiova,44.3147,23.8362
+168,17,DOLJ,MUNICIPIUL CRAIOVA,290,76,90,29,1,30,20,42,281,75,92,30,1,42,18,38,Primăria Municipiului Craiova-Direcția de Asistență și Protecție Socială,"Str. Eustațiu Stoenescu nr. 1A, Bloc T8",Craiova,44.3147,23.8362
+169,17,DOLJ,MUNICIPIUL CRAIOVA,320,25,78,27,1,24,38,53,322,26,79,30,2,22,43,53,Școala Gimnazială nr. 38 - Structură a Școlii Gimnaziale „Ion Creanga” (fostă nr. 16),Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 597,Craiova,44.3367,23.7389
+170,17,DOLJ,MUNICIPIUL CRAIOVA,277,21,44,21,0,16,12,22,280,21,39,17,0,14,14,29,Școala Gimnazială nr. 38 - Structură a Școlii Gimnaziale „Ion Creanga” (fostă nr. 16),Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 597,Craiova,44.3367,23.7389
+171,17,DOLJ,MUNICIPIUL CRAIOVA,305,26,78,10,0,26,19,35,297,26,89,10,0,34,14,31,Școala Gimnazială nr. 38 - Structură a Școlii Gimnaziale „Ion Creanga” (fostă nr. 16),Str. Brestei (Str. Gheorghe Gheorghiu-Dej) nr. 597,Craiova,44.3367,23.7389
+172,17,DOLJ,MUNICIPIUL CRAIOVA,123,5,12,15,1,3,4,9,120,3,13,16,0,7,4,9,Grădinița cu Program Normal Rovine 2 - Structură a Școlii Gimnaziale „Ion Creanga” (fostă nr. 16),Str. Șerban Cantacuzino nr. 11,Craiova,44.3603,23.719
+173,17,DOLJ,MUNICIPIUL CRAIOVA,144,7,64,15,0,12,4,19,138,8,65,14,0,13,4,22,Școala Primară Izvorul Rece - Structură a Școlii Gimnaziale „Decebal” (fostă nr. 12),Str. Izvorul Rece nr. 9,Craiova,44.3563,23.751
+365,17,DOLJ,GIURGIŢA,143,1,14,48,0,11,3,5,139,1,16,47,0,9,3,7,Grădinița Curmatura,,Curmătura,44.0061,23.6357
+435,17,DOLJ,PIELEŞTI,120,5,9,22,0,55,14,21,119,3,9,26,1,59,15,21,Școala Gimnazială Pielești,Str. Școlii nr. 2,Câmpeni,44.3675,24.0088
+292,17,DOLJ,CÂRCEA,696,42,83,23,1,36,6,20,709,44,81,18,1,30,9,18,Centrul Cultural,Str. Aeroportului nr. 25,Cârcea,44.2691,23.8997
+293,17,DOLJ,CÂRCEA,234,39,43,17,0,17,7,13,225,40,47,17,0,22,7,15,Liceul Tehnologic „Constantin Ianculescu”,Str. Aeroportului nr. 118,Cârcea,44.2746,23.8976
+294,17,DOLJ,CÂRNA,346,11,52,111,1,19,4,21,351,15,55,95,0,18,5,21,Școala cu Clasele I-VIII Cârna,,Cârna,43.8862,23.5984
+502,17,DOLJ,TERPEZIŢA,136,1,52,9,0,11,3,6,140,1,51,9,0,10,3,6,Școala cu Clasele I-IV Căciulatu,,Căciulatu,44.3128,23.4203
+336,17,DOLJ,DOBREŞTI,98,2,14,57,0,5,6,9,96,2,16,54,0,5,8,13,Școala Căciulătești,Str. Principală nr. 49,Căciulătești,43.9362,23.9526
+409,17,DOLJ,MISCHII,49,0,67,2,1,3,0,1,50,1,63,2,0,5,1,2,Școala Generală Călinești,,Călinești,44.449,23.882
+426,17,DOLJ,ORODEL,295,0,16,0,0,6,4,10,284,0,18,1,0,5,4,8,Școala Generală Călugărei,,Călugărei,44.2904,23.253
+289,17,DOLJ,CĂLĂRAŞI,613,12,89,6,1,14,6,12,617,17,87,3,2,13,5,13,Căminul Cultural,,Călărași,43.7934,24.0488
+290,17,DOLJ,CĂLĂRAŞI,724,10,79,7,0,13,2,21,720,10,74,8,0,15,4,17,Școala Gimnazială nr. 1 Călărași,,Călărași,43.7938,24.0485
+322,17,DOLJ,DANEŢI,310,10,231,16,0,9,0,17,290,7,227,23,0,13,1,19,Școala Profesională Daneți,Str. Tîrgului nr. 2,Daneți,43.9755,24.0439
+323,17,DOLJ,DANEŢI,270,4,193,18,1,7,1,15,262,4,200,22,1,10,2,15,Școala Profesională Daneți,Str. Tîrgului nr. 2,Daneți,43.9755,24.0439
+327,17,DOLJ,DESA,153,7,185,54,1,44,19,23,154,7,201,18,1,55,20,23,Școala Gimnazială Desa,,Desa,43.8718,23.0302
+328,17,DOLJ,DESA,199,0,191,41,0,50,33,35,205,3,202,22,0,52,26,29,Școala Gimnazială Desa,,Desa,43.8718,23.0302
+329,17,DOLJ,DESA,171,0,216,23,1,44,12,19,166,0,231,9,1,46,10,16,Școala Gimnazială Desa,,Desa,43.8718,23.0302
+330,17,DOLJ,DIOŞTI,397,6,60,24,0,21,6,26,387,5,67,14,0,36,7,25,Club Camin Cultural Diosti,,Dioști,44.1107,24.1845
+333,17,DOLJ,DOBREŞTI,105,3,12,41,1,37,5,8,106,3,15,41,1,35,4,5,Școala Dobrești,Str. Principală nr. 9,Dobrești,43.9764,23.9425
+417,17,DOLJ,MOŢĂŢEI,181,2,30,38,0,9,0,5,178,2,32,39,1,7,0,6,Grădinița nr. 2 Dobridor,Str. Calea Unirii nr. 103,Dobridor,44.1172,23.1692
+337,17,DOLJ,DOBROTEŞTI,443,2,118,55,1,23,6,15,431,1,124,54,0,25,7,15,Căminul Cultural,Str. Mihai Viteazul nr. 56,Dobrotești,43.9613,24.1211
+339,17,DOLJ,DRĂGOTEŞTI,199,1,27,32,0,2,0,5,204,1,25,33,0,4,1,5,Școala Veche Drăgotești,Str. Tudor Vladimirescu nr. 1,Drăgotești,44.2415,24.1016
+343,17,DOLJ,DRĂNIC,178,4,177,5,0,15,4,9,174,2,183,6,0,13,5,12,Caminul Cultural Dranic,,Drănic,44.0559,23.8435
+493,17,DOLJ,ŞIMNICU DE SUS,129,20,29,53,0,18,12,17,136,19,30,46,0,19,14,18,Școala Dudovicesti,Str. Craiovei nr. 79,Dudovicești,44.3854,23.7796
+203,17,DOLJ,ORAŞ DĂBULENI,493,12,220,32,2,32,10,22,492,12,223,37,2,36,8,20,Structura Scolii Gimnaziale nr. 1 Dabuleni,Str. Unirii nr. 120,Dăbuleni,43.798,24.1084
+204,17,DOLJ,ORAŞ DĂBULENI,472,15,295,19,1,30,4,14,476,26,288,18,1,29,3,15,Clubul Copiilor Dabuleni,Str. Unirii nr. 15,Dăbuleni,43.8009,24.0954
+205,17,DOLJ,ORAŞ DĂBULENI,560,18,280,16,3,36,5,12,546,23,261,18,2,45,7,15,"Școala Gimnazială cu Clasele I-VIII nr. 1 Dabuleni, Nord",Str. Unirii nr. 16,Dăbuleni,43.8004,24.095
+206,17,DOLJ,ORAŞ DĂBULENI,517,20,341,13,3,22,10,23,528,30,325,8,4,26,9,23,"Școala Gimnazială cu Clasele I-VIII nr. 1 Dabuleni, Sud",Str. Dunării nr. 2,Dăbuleni,43.7996,24.0947
+207,17,DOLJ,ORAŞ DĂBULENI,391,13,213,7,0,18,9,24,397,18,213,7,0,21,10,20,Liceul Teoretic Constantin Brancoveanu,Str. Marin Preda nr. 4,Dăbuleni,43.8021,24.0835
+208,17,DOLJ,ORAŞ DĂBULENI,369,8,319,18,0,24,19,32,378,9,313,17,1,29,23,32,"Liceul Teoretic Constantin Brancoveanu (fosta Școala nr. 3, Intrare Elevi)",Str. Victoriei nr. 84,Dăbuleni,43.7996,24.0782
+209,17,DOLJ,ORAŞ DĂBULENI,451,10,219,3,0,27,6,19,449,15,220,7,0,31,6,12,"Liceul Teoretic Constantin Brancoveanu (fosta Școala nr. 3, Intrare Profesori)",Str. Victoriei nr. 84,Dăbuleni,43.7996,24.0782
+210,17,DOLJ,ORAŞ FILIAŞI,365,36,76,30,0,53,25,47,366,37,75,25,1,56,21,49,Casa de Cultură,Bulevardul Racoțeanu (Str. V. I. Lenin) nr. 169,Filiași,44.5543,23.52
+211,17,DOLJ,ORAŞ FILIAŞI,469,30,59,20,1,51,18,43,475,31,65,19,2,49,14,34,Grădinița nr. 1 Filiași,Str. Tudor Vladimirescu nr. 4H,Filiași,44.5513,23.5237
+212,17,DOLJ,ORAŞ FILIAŞI,347,12,37,28,0,25,18,48,359,16,38,22,3,30,16,32,Grădinița nr. 2 Filiași,Str. Gării nr. 2,Filiași,44.5555,23.5122
+213,17,DOLJ,ORAŞ FILIAŞI,320,19,39,16,1,39,10,24,327,16,40,15,2,42,9,22,Grădinița nr. 3 Filiași,Str. Nicolae Bălcescu nr. 2,Filiași,44.5522,23.5227
+214,17,DOLJ,ORAŞ FILIAŞI,339,8,50,22,0,31,10,20,339,9,54,20,0,30,14,23,Liceul Tehnologic Dimitrie Filișanu,Bulevardul Racoțeanu (Str. V. I. Lenin) nr. 178,Filiași,44.5559,23.5159
+215,17,DOLJ,ORAŞ FILIAŞI,411,37,66,20,1,49,16,31,400,38,67,20,2,58,12,26,Primăria Orașului Filiași,Bulevardul Racoțeanu (Str. V. I. Lenin) nr. 160,Filiași,44.5545,23.5207
+216,17,DOLJ,ORAŞ FILIAŞI,355,18,54,24,0,24,12,27,355,18,57,21,0,23,14,25,Școala Gimnazială Filiași,Bulevardul Racoțeanu (Str. V. I. Lenin) nr. 148,Filiași,44.5535,23.5228
+494,17,DOLJ,ŞIMNICU DE SUS,124,11,38,24,1,7,2,8,118,14,37,26,0,8,3,10,Camin Cultural Floresti,Nr. 8,Florești,44.3953,23.7943
+346,17,DOLJ,DRĂNIC,87,1,32,4,1,7,0,0,90,0,32,4,1,3,0,0,Școala cu Clasele I-IV Foisor,,Foișor,44.1055,23.8658
+218,17,DOLJ,ORAŞ FILIAŞI,309,4,39,12,0,64,7,24,301,8,37,18,0,68,10,23,Școala Gimnazială Fratoștița - Corp 1,Str. Valea Bisericii nr. 8,Fratoștița,44.5872,23.5702
+219,17,DOLJ,ORAŞ FILIAŞI,175,1,9,4,0,22,2,8,175,2,11,5,0,22,4,6,Școala Gimnazială Fratoștita - Corp 2,Str. Valea Bisericii nr. 8,Fratoștița,44.5872,23.5702
+459,17,DOLJ,RADOVAN,25,1,25,6,0,3,1,1,24,2,27,6,0,3,1,1,Camin Cultural Fântânele,Str. Barajului nr. 2,Fântânele,44.1614,23.6052
+347,17,DOLJ,FĂRCAŞ,333,14,32,37,1,43,12,27,348,9,31,34,2,42,11,27,Caminul Cultural Farcas,,Fărcaș,44.6079,23.7449
+349,17,DOLJ,GALICEA MARE,221,4,151,25,0,5,11,20,213,4,151,25,0,7,11,26,Școala Gimnazială Corp 3,Nr. 2,Galicea Mare,44.0964,23.3083
+350,17,DOLJ,GALICEA MARE,150,6,130,7,0,10,7,10,154,6,126,6,0,8,9,13,Școala Gimnazială -Corp 4,Nr. 2,Galicea Mare,44.0964,23.3083
+351,17,DOLJ,GALICEA MARE,245,6,133,23,0,7,6,14,239,8,137,23,0,7,5,11,Școala Gimnazială - Corp 4,Nr. 2,Galicea Mare,44.0964,23.3083
+352,17,DOLJ,GALICIUICA,626,4,84,19,0,15,7,13,620,5,82,17,0,16,9,14,Caminul Cultural,Str. Crizantemelor nr. 23,Galiciuica,44.1039,23.3952
+261,17,DOLJ,BRATOVOEŞTI,200,1,57,3,0,6,0,5,192,0,59,4,0,4,0,6,Școala Primară Georocu Mare,Nr. 252,Georocu Mare,44.1198,23.9567
+353,17,DOLJ,GHERCEŞTI,390,11,135,18,1,33,13,29,397,12,126,20,1,29,13,29,Căminul Cultural,,Ghercești,44.3541,23.8962
+356,17,DOLJ,GHIDICI,909,4,64,5,3,103,8,21,880,5,65,4,6,124,7,19,Căminul Cultural,Str. Mihai Viteazu nr. 142,Ghidici,43.8899,23.1931
+357,17,DOLJ,GHINDENI,549,7,169,34,1,81,2,14,551,6,169,20,1,93,6,17,Camin Cultural,,Ghindeni,44.2111,23.9233
+297,17,DOLJ,CELARU,284,3,173,13,0,19,5,11,291,1,166,10,1,21,10,21,Camin Cultural Ghizdavesti,,Ghizdăvești,44.0522,24.1171
+358,17,DOLJ,GIGHERA,246,3,221,16,1,29,3,15,246,3,221,17,2,29,6,17,Căminul Cultural Gighera,,Gighera,43.8487,23.7992
+361,17,DOLJ,GIUBEGA,186,4,30,34,0,46,17,27,183,5,32,25,0,53,14,22,Camin Cultural,,Giubega,44.1237,23.4099
+362,17,DOLJ,GIUBEGA,224,5,37,30,1,15,4,9,217,8,34,31,1,20,4,9,Primăria Veche,Str. Ștefan cel Mare nr. 2,Giubega,44.124,23.41
+363,17,DOLJ,GIURGIŢA,326,4,28,30,0,10,3,7,315,3,27,30,0,15,4,6,Școala Gimnazială Giurgita,,Giurgița,44.0182,23.6276
+364,17,DOLJ,GIURGIŢA,326,0,25,25,0,10,2,14,323,5,26,24,0,12,3,10,Grădinița Portaresti,,Giurgița,44.0182,23.6283
+369,17,DOLJ,GOGOŞU,36,2,87,12,0,5,5,5,35,2,93,9,0,4,5,5,Școala cu Clasele I-IV,,Gogoșița,44.398,23.3597
+368,17,DOLJ,GOGOŞU,76,2,75,20,0,3,3,3,78,2,84,8,0,3,2,2,Căminul Cultural Gogoșu,,Gogoșu,44.4262,23.3676
+371,17,DOLJ,GOICEA,552,8,40,12,1,60,14,32,546,8,45,12,1,59,17,30,Grădinița nr. 1,,Goicea,43.9191,23.6154
+372,17,DOLJ,GOICEA,276,8,71,15,3,70,3,12,278,5,75,16,3,69,6,11,Grădinița nr. 2,,Goicea,43.9348,23.6131
+373,17,DOLJ,GOIEŞTI,466,12,50,42,2,16,11,40,470,10,50,41,1,23,11,36,Camin Cultural Goiesti Sala,,Goiești,44.5008,23.7528
+190,17,DOLJ,MUNICIPIUL CALAFAT,220,1,10,8,0,10,6,12,217,1,16,6,0,14,4,8,Caminul Cultural Golenti (Din Cadrul Casei de Cultura Calafat),Str. Trandafirilor nr. 101,Golenți,44.0129,23.0522
+464,17,DOLJ,ROBĂNEŞTI,206,6,15,5,0,2,2,7,205,9,15,5,0,2,0,4,Școala Golfin,Str. Romanați nr. 74,Golfin,44.291,24.032
+348,17,DOLJ,FĂRCAŞ,328,1,36,7,0,14,1,7,337,2,33,7,0,11,1,7,Școala Generală Golumbu,,Golumbu,44.6295,23.7497
+378,17,DOLJ,GRECEŞTI,107,4,15,12,0,6,15,24,117,4,13,13,0,8,5,10,Școala Grecești,Nr. 14,Grecești,44.4455,23.28
+380,17,DOLJ,GRECEŞTI,103,0,9,6,0,3,8,9,106,1,7,4,0,3,5,9,Școala Gropanele,Nr. 22,Gropanele,44.4681,23.2469
+523,17,DOLJ,VELA,270,0,33,12,0,2,2,4,271,0,30,6,1,8,2,5,Școala cu Clasele I-VIII Gubaucea,,Gubaucea,44.2805,23.3436
+449,17,DOLJ,PODARI,139,0,9,3,0,6,2,4,134,0,12,5,0,4,3,5,Școala Generală Gura Văii,Str. Progresului nr. 96,Gura Văii,44.2133,23.7925
+366,17,DOLJ,GÎNGIOVA,383,6,30,17,3,19,4,15,389,8,33,23,1,15,3,14,Căminul Cultural Gîngiova,,Gângiova,43.8939,23.8591
+354,17,DOLJ,GHERCEŞTI,197,12,40,26,0,19,4,8,193,11,38,27,0,23,6,12,Școala Generală Gârlești,,Gârlești,44.3493,23.9132
+516,17,DOLJ,VALEA STANCIULUI,633,2,25,4,3,6,0,13,615,4,29,8,1,4,1,18,Școala cu Clasele I-VIII,Str. Unirii nr. 52,Horezu Poenari,43.9658,23.8729
+519,17,DOLJ,VALEA STANCIULUI,232,1,24,15,1,13,3,14,230,1,23,14,0,15,4,15,Școala cu Clasele I-IV,Str. Unirii nr. 161,Horezu Poenari,43.9491,23.867
+394,17,DOLJ,MAGLAVIT,387,1,37,36,0,13,3,11,382,3,39,31,1,16,3,11,Școala Generală Hunia,Calea Cetății nr. 72,Hunia,44.0561,23.0962
+383,17,DOLJ,IZVOARE,263,2,170,52,0,17,6,20,261,4,175,49,1,22,7,16,Grădinița Izvoare,,Izvoare,44.1453,23.2929
+495,17,DOLJ,ŞIMNICU DE SUS,166,8,26,63,0,8,4,12,157,7,26,66,0,12,1,13,Școala Izvor,Str. Izvoarelor nr. 45,Izvor,44.4225,23.7967
+381,17,DOLJ,IŞALNIŢA,948,26,89,16,0,18,4,21,934,26,99,21,1,22,3,16,Fosta Școala cu Clasele I-VIII Isalnita,Nr. 22,Ișalnița,44.3916,23.7361
+382,17,DOLJ,IŞALNIŢA,988,0,101,16,2,31,2,15,949,17,118,15,3,30,6,24,Fosta Școala cu Clasele I-VIII Isalnita,Nr. 22,Ișalnița,44.3916,23.7361
+510,17,DOLJ,ŢUGLUI,103,4,7,2,0,6,3,5,103,3,7,1,0,5,3,5,Dispensar Uman,Nr. 62B,Jiul,44.2127,23.8366
+503,17,DOLJ,TERPEZIŢA,129,1,75,24,0,5,4,13,117,2,88,23,0,4,3,8,Școala cu Clasele I-IV Lazu,,Lazu,44.2945,23.5412
+272,17,DOLJ,BUCOVĂŢ,83,6,15,8,0,32,2,5,79,5,18,6,0,34,1,5,Școala Generală cu Clasele L-Lv Leamna de Jos,,Leamna de Jos,44.3108,23.7191
+273,17,DOLJ,BUCOVĂŢ,96,3,29,4,0,39,3,11,97,3,28,2,0,43,3,8,Școala Generală cu Clasele L-Lv Leamna de Sus,,Leamna de Sus,44.3017,23.6829
+240,17,DOLJ,ARGETOAIA,83,2,46,5,0,12,3,5,77,3,52,3,0,13,3,6,Școala. Primară Leordoasa,Nr. 16,Leordoasa,44.5055,23.4111
+386,17,DOLJ,LEU,565,8,72,22,0,7,27,44,545,10,73,24,2,8,21,47,Gradina de Vara Leu,Nr. 1042,Leu,44.1886,24.0017
+387,17,DOLJ,LEU,594,16,117,18,1,13,25,43,600,23,113,17,0,10,25,49,Gradina de Vara Leu,,Leu,44.189,23.9984
+496,17,DOLJ,ŞIMNICU DE SUS,158,4,24,83,0,10,10,18,155,5,19,90,0,9,6,15,Grădinița Lesile,Str. Craiovei nr. 60,Leșile,44.4311,23.7826
+389,17,DOLJ,LIPOVU,309,2,31,4,3,23,4,10,317,2,33,3,2,26,5,9,Școala Gimnazială Clasele I-VIII Petre Manarcescu,,Lipovu,44.104,23.63
+390,17,DOLJ,LIPOVU,215,1,21,11,0,29,3,7,217,1,22,11,1,28,4,5,Local Primărie,,Lipovu,44.106,23.6218
+391,17,DOLJ,LIPOVU,60,0,9,3,0,2,1,4,56,0,11,3,0,1,2,5,Școala Primară Claselele I-VIII,,Lipovu de Sus,44.1242,23.6211
+448,17,DOLJ,PODARI,158,5,12,18,1,14,6,9,155,5,14,16,1,15,7,10,Școala Generală Livezi,Str. Segarcea nr. 75,Livezi,44.2331,23.7878
+430,17,DOLJ,OSTROVENI,458,4,25,3,0,14,17,19,455,0,30,7,0,18,16,16,Grădinița de Copii Listeava,,Lișteava,43.8345,23.9163
+325,17,DOLJ,DANEŢI,136,12,122,8,2,8,0,7,132,10,120,12,1,8,1,4,Școala Generală cu Clasele I-IV Locusteni,Str. Mihail Sadoveanu nr. 8,Locusteni,43.9755,23.997
+465,17,DOLJ,ROBĂNEŞTI,207,2,19,18,1,5,0,5,210,1,20,18,1,5,1,7,Școala Lăcrița Mare,Nr. 66,Lăcrița Mare,44.2937,23.9992
+392,17,DOLJ,MAGLAVIT,685,13,62,62,1,18,5,28,665,20,64,62,2,35,8,29,Școala cu Clasele I-VIII Maglavit,,Maglavit,44.0314,23.0931
+393,17,DOLJ,MAGLAVIT,384,15,38,37,0,25,10,19,379,13,34,40,0,29,12,19,Școala Clasele I-IV Maglavit,,Maglavit,44.0342,23.0944
+395,17,DOLJ,MALU MARE,199,16,81,52,0,17,16,25,197,17,85,49,0,19,16,23,Liceul Tehnologic „Ing. Ionete Aurelian”,,Malu Mare,44.2331,23.8589
+397,17,DOLJ,MALU MARE,257,10,94,48,1,20,12,19,264,8,97,41,1,24,10,13,Școala Gimnazială Malu Mare,Str. Bechetului nr. 160,Malu Mare,44.2446,23.8512
+296,17,DOLJ,CELARU,101,3,92,1,0,7,1,10,102,1,88,2,0,8,2,14,Camin Cultural Marotinu de Jos,,Marotinu de Jos,44.0333,24.1455
+298,17,DOLJ,CELARU,97,3,107,1,0,4,7,14,97,2,106,1,0,5,6,16,Camin Cultural Marotinu de Sus,,Marotinu de Sus,44.0266,24.0869
+401,17,DOLJ,MELINEŞTI,258,35,64,15,1,17,133,148,295,32,65,21,0,21,80,103,Căminul Cultural Melinești,,Melinești,44.5713,23.7089
+319,17,DOLJ,COŢOFENII DIN DOS,193,1,110,4,0,6,7,16,192,1,110,3,0,9,7,16,Școala Gimnazială Mihaita,Str. Dan Defleury nr. 102,Mihăița,44.3905,23.6652
+497,17,DOLJ,ŞIMNICU DE SUS,147,3,56,50,0,14,2,10,143,3,55,54,0,15,3,9,Școala Milesti,Nr. 36,Milești,44.452,23.7834
+406,17,DOLJ,MISCHII,173,6,172,12,0,19,11,23,175,9,171,10,0,20,12,19,Școala Generală Mischii,,Mischii,44.3939,23.8513
+407,17,DOLJ,MISCHII,165,4,136,9,1,8,7,18,163,4,130,5,0,14,7,21,Școala Generală Mlecănești,,Mlecănești,44.3803,23.8618
+374,17,DOLJ,GOIEŞTI,181,3,20,15,2,9,3,14,182,3,23,14,1,7,2,12,Școala Clasele I-IV Mogosesti Sala,,Mogoșești,44.4709,23.7679
+308,17,DOLJ,CETATE,246,9,15,0,1,1,6,13,241,9,14,2,2,2,5,13,Școala cu Clasele I-IV Moreni,Str. Trandafirilor nr. 15,Moreni,44.0885,23.0754
+252,17,DOLJ,BRABOVA,80,0,25,4,0,6,0,1,79,0,26,4,1,9,0,0,Școala cu Clasele I-IV Mosna,Nr. 1,Mosna,44.3378,23.3768
+414,17,DOLJ,MOŢĂŢEI,523,6,116,23,1,7,12,19,514,7,114,26,0,10,14,20,Grădinița nr. 2 Moțăței,Str. Calea Unirii nr. 103,Moțăței,44.0909,23.2029
+415,17,DOLJ,MOŢĂŢEI,303,3,69,16,1,20,8,17,308,2,71,10,1,30,6,14,Școala nr. 1 Moțăței,Str. Calea Unirii nr. 142,Moțăței,44.0961,23.2008
+416,17,DOLJ,MOŢĂŢEI,405,5,134,36,0,13,7,13,401,5,139,32,1,13,7,18,Grădinița nr. 3 Moțăței,Str. Calea Unirii nr. 187,Moțăței,44.1004,23.1971
+413,17,DOLJ,MOŢĂŢEI,215,2,39,3,0,5,1,5,213,2,35,3,0,5,1,5,Școala Moțăței Gară,Str. M. Eminescu nr. 23,Moțăței Gară,44.04,23.1914
+418,17,DOLJ,MURGAŞI,468,6,35,13,3,13,5,15,469,9,38,9,0,11,6,12,Școala cu Clasele I-VIII Murgași,Str. Popa Murgășanu nr. 152,Murgași,44.5006,23.8652
+334,17,DOLJ,DOBREŞTI,239,3,15,35,0,13,8,17,239,5,16,35,1,13,7,15,Școala Murta,Str. Murtenilor nr. 54,Murta,43.9807,23.9519
+410,17,DOLJ,MÎRŞANI,691,12,66,43,0,19,6,25,693,14,60,52,0,19,9,35,Școala Generală nr. 2 Mîrșani,Str. Târgului nr. 115,Mârșani,44.0158,24.0068
+411,17,DOLJ,MÎRŞANI,526,13,78,35,1,18,7,22,533,13,75,30,1,17,9,24,Școala Generală nr. 1 Mîrșani,Str. Principală nr. 243,Mârșani,44.0115,24.018
+412,17,DOLJ,MÎRŞANI,561,18,85,25,0,16,1,23,535,17,90,27,0,24,1,20,Școala Generală nr. 3 Mîrșani,Str. Principală nr. 327,Mârșani,44.0099,24.0299
+398,17,DOLJ,MĂCEŞU DE JOS,354,3,43,27,0,38,2,10,346,4,45,28,0,35,4,14,Primăria Măceșu de Jos,,Măceșu de Jos,43.8755,23.7132
+400,17,DOLJ,MĂCEŞU DE SUS,269,0,255,30,3,49,24,44,276,0,264,26,1,56,19,33,Caminul Cultural,Nr. 52,Măceșu de Sus,43.9183,23.7029
+375,17,DOLJ,GOIEŞTI,258,3,52,5,1,11,3,9,252,4,54,7,1,12,4,10,Școala cu Clasele I-IV Malaesti Sala,,Mălăești,44.4622,23.745
+432,17,DOLJ,PERIŞOR,86,2,30,10,1,2,0,0,81,2,31,10,1,2,0,0,Școala Primară Cl. I-IV,,Mărăcinele,44.1728,23.5073
+359,17,DOLJ,GIGHERA,199,2,135,4,0,16,9,16,199,1,138,2,0,15,10,16,Căminul Cultural Nedeia,,Nedeia,43.8537,23.7736
+421,17,DOLJ,NEGOI,474,6,12,25,1,12,4,11,466,6,13,27,1,14,4,13,Școala Gimnazială Negoi,,Negoi,43.9138,23.3596
+422,17,DOLJ,NEGOI,372,0,6,9,0,1,3,11,366,2,10,8,0,1,3,15,Școala Gimnazială Negoi,,Negoi,43.9149,23.3848
+402,17,DOLJ,MELINEŞTI,230,8,106,7,0,21,89,107,249,7,106,10,0,21,65,87,Școala Generală Negoiești,,Negoiești,44.5386,23.7243
+241,17,DOLJ,ARGETOAIA,85,0,22,9,0,2,1,5,85,0,22,9,0,3,1,4,Grădinița cu Program Normal Novacu,Nr. 31,Novac,44.4971,23.3732
+270,17,DOLJ,BREASTA,128,6,62,19,0,20,14,24,130,5,60,14,0,26,14,25,Școala Obedin,Str. Argetoaiei nr. 69,Obedin,44.3664,23.6889
+233,17,DOLJ,AMĂRĂŞTII DE JOS,210,0,138,22,4,3,0,106,270,0,166,35,2,7,3,17,Grădinița Ocolna,,Ocolna,43.8778,24.1406
+423,17,DOLJ,ORODEL,449,3,27,15,0,8,0,5,446,1,31,4,0,13,0,7,Școala Generală Orodel,,Orodel,44.2428,23.2455
+427,17,DOLJ,OSTROVENI,502,10,21,6,2,9,2,8,492,11,22,8,2,10,3,8,Căminul Cultural Ostroveni,,Ostroveni,43.8811,23.8882
+428,17,DOLJ,OSTROVENI,555,14,21,5,0,11,18,26,554,14,19,5,1,11,17,24,Grădinița de Copii Orășani,,Ostroveni,43.8136,23.8941
+429,17,DOLJ,OSTROVENI,260,6,11,5,3,4,10,11,262,5,10,2,2,7,11,13,Grădinița de Copii Grindeni,,Ostroveni,43.8223,23.8997
+344,17,DOLJ,DRĂNIC,116,5,148,9,3,43,18,25,126,7,152,10,2,32,16,21,Școala Primară Padea,Str. Principală nr. 72,Padea,44.0229,23.8662
+275,17,DOLJ,BUCOVĂŢ,89,12,45,22,0,55,4,8,83,11,42,20,0,62,4,9,Școala Generală cu Clasele L-Vlll Palilula,,Palilula,44.2669,23.7114
+280,17,DOLJ,CALOPĂR,217,3,24,6,0,7,2,6,211,2,26,5,0,15,2,4,Școala cu Clasele I-IV Panaghia,,Panaghia,44.1731,23.7089
+431,17,DOLJ,PERIŞOR,302,4,257,22,1,14,11,20,296,4,265,24,1,12,12,19,Școala Primară (Local Vechi),,Perișor,44.1431,23.4743
+433,17,DOLJ,PIELEŞTI,216,15,58,155,0,13,13,29,211,15,60,153,0,18,14,31,Școala Gimnazială Pielești,Str. Gheorghiță Geolgău nr. 187,Pielești,44.3394,23.9483
+434,17,DOLJ,PIELEŞTI,169,29,63,77,0,40,9,16,163,27,67,79,0,43,8,16,Sediul Fostei Școli Generale nr. 2 Pielești,Str. Gheorghiță Geolgău nr. 441,Pielești,44.3277,23.9726
+491,17,DOLJ,SOPOT,102,2,35,8,0,4,2,4,100,5,34,7,0,6,2,5,Școala cu Clasele I-IV Pietroaia,,Pietroaia,44.3752,23.5041
+239,17,DOLJ,ARGETOAIA,153,0,8,1,0,7,0,0,154,0,10,1,0,7,1,2,Școala. Primară Piria,Nr. 19,Piria,44.5072,23.3153
+266,17,DOLJ,BRĂDEŞTI,21,0,2,0,0,2,0,8,22,0,1,0,0,2,0,9,Școala Generală Piscani,Nr. 2,Piscani,44.5393,23.6085
+480,17,DOLJ,SEACA DE CÎMP,176,2,176,173,0,5,5,6,179,2,178,164,0,7,5,8,Școala Gimnazială cu Clasele I-VIII Seaca de Cîmp,"Str. Ioan Drăgulescu nr. 30, Bloc -",Piscu Nou,43.9259,23.1768
+474,17,DOLJ,SADOVA,333,1,177,25,2,12,3,10,328,1,175,28,1,14,5,14,"Școala Gimnazială Sadova, Structura Piscu - Sadovei Local Vechi",Str. Dunării nr. 103,Piscu Sadovei,43.8762,23.9377
+436,17,DOLJ,PISCU VECHI,172,4,41,210,0,11,1,9,238,4,49,138,0,12,2,9,Caminul Cultural Piscu Vechi,Str. Mihai Viteazu nr. 89,Piscu Vechi,43.9005,23.1632
+438,17,DOLJ,PISCU VECHI,178,6,49,180,0,19,4,12,262,6,55,101,0,23,2,8,Școala Gimnazială Piscu Vechi,Str. Mihai Viteazu nr. 110,Piscu Vechi,43.9013,23.1623
+437,17,DOLJ,PISCU VECHI,71,0,3,73,0,2,2,3,123,1,9,13,0,2,3,7,Școala Pisculet,Str. Grănicerilor nr. 11,Pisculeț,43.8512,23.1469
+439,17,DOLJ,PLENIŢA,340,13,79,16,0,35,4,21,339,12,83,15,1,35,6,19,Liceul Tehnologic C.N. Plopsor,Str. Traian nr. 1,Plenița,44.2198,23.1913
+440,17,DOLJ,PLENIŢA,291,2,75,11,2,22,7,25,292,2,77,11,2,25,7,24,Școala cu Calsele I-VIII Local B Poiana,Str. Biserica Poiană nr. 5,Plenița,44.2232,23.1801
+441,17,DOLJ,PLENIŢA,301,1,136,12,1,22,4,20,306,2,131,7,2,28,3,17,Grădinița „Alba Ca Zapada”,Str. Lalelelor nr. 27,Plenița,44.2199,23.1878
+443,17,DOLJ,PLEŞOI,712,1,17,3,0,10,3,11,698,0,19,6,0,12,3,12,Școala Gimnazială Pleșoi,Nr. 8,Pleșoi,44.3508,23.5297
+245,17,DOLJ,BISTREŢ,365,5,26,16,1,15,4,16,363,4,26,15,1,12,5,14,Școala Primară Plosca,,Plosca,43.8943,23.5535
+446,17,DOLJ,PODARI,400,18,27,12,0,38,13,18,398,15,28,12,0,31,12,25,Primăria Podari,Str. Dunării (Str. Unirii) nr. 67,Podari,44.2508,23.78
+447,17,DOLJ,PODARI,480,25,38,12,0,20,8,27,474,24,42,10,1,18,9,23,Școala Generală Podari,Str. Școlii nr. 1,Podari,44.2503,23.7788
+450,17,DOLJ,POIANA MARE,362,20,68,23,0,12,13,28,361,18,71,19,1,17,13,25,Școala Primară I-IV Sîrbi,,Poiana Mare,43.926,23.0435
+451,17,DOLJ,POIANA MARE,335,15,50,28,2,16,25,29,327,12,56,29,1,18,21,27,Școala Generală Dragu,,Poiana Mare,43.9218,23.0575
+452,17,DOLJ,POIANA MARE,301,16,54,45,0,17,3,7,294,14,55,41,0,19,7,18,Școala Generală 3 Centru,,Poiana Mare,43.9192,23.0663
+453,17,DOLJ,POIANA MARE,234,17,50,28,0,19,19,32,239,14,58,18,1,20,21,33,Liceul George St. Marincu,,Poiana Mare,43.9207,23.0701
+454,17,DOLJ,POIANA MARE,374,13,103,35,0,21,9,18,358,13,105,29,0,31,11,23,Școala Generală Traistaru,,Poiana Mare,43.914,23.0932
+341,17,DOLJ,DRĂGOTEŞTI,225,3,43,10,0,26,4,11,221,3,44,13,0,23,3,10,Targ Saptamanal-Cladirea Produse Lactate,Str. Perițanu nr. 37,Popânzălești,44.2866,24.0626
+318,17,DOLJ,COŢOFENII DIN DOS,126,0,121,4,0,6,6,18,133,0,125,4,0,7,6,11,Grădinița cu Pogram Normal Potmeltu,Nr. 76,Potmelțu,44.4107,23.6502
+232,17,DOLJ,AMĂRĂŞTII DE JOS,408,0,151,12,0,13,2,17,405,0,158,7,2,13,1,18,Grădinița Prapor,,Prapor,43.9458,24.1738
+396,17,DOLJ,MALU MARE,360,37,144,62,1,232,28,63,322,41,155,68,2,247,28,50,Școala Primară Preajba,,Preajba,44.267,23.8452
+505,17,DOLJ,TESLUI,131,0,202,3,1,5,1,12,132,1,198,7,0,6,3,9,Școala Generală Clasele V-VIII Preajba de Pădure,,Preajba de Pădure,44.1992,24.205
+457,17,DOLJ,PREDEŞTI,384,14,433,64,1,15,24,35,410,11,437,28,1,20,26,39,Școala Gimnazială Predești,,Predești,44.3606,23.6029
+259,17,DOLJ,BRATOVOEŞTI,222,1,35,5,0,3,2,11,227,0,37,5,0,3,0,5,Școala Primară Prunet,Nr. 229,Prunet,44.1485,23.9119
+287,17,DOLJ,CASTRANOVA,207,6,278,55,0,14,4,18,194,9,272,56,1,23,4,16,Școala Puțuri,Str. Leului nr. 2,Puțuri,44.1395,24.0095
+331,17,DOLJ,DIOŞTI,282,3,28,47,0,12,2,37,261,4,33,42,0,22,1,41,Școala Generală cu Clasele I-IV Radomir,,Radomir,44.1218,24.1646
+458,17,DOLJ,RADOVAN,195,6,209,48,1,8,4,10,190,5,219,44,0,7,6,12,Școala Gimnazială Radovan,Nr. 44,Radovan,44.1616,23.6054
+304,17,DOLJ,CERNĂTEŞTI,149,1,82,3,0,12,2,5,145,3,74,1,0,17,3,4,Școala Generală,Nr. 66,Rasnicu Oghian,44.4413,23.5341
+461,17,DOLJ,RAST,354,8,74,77,1,35,20,37,354,12,76,74,1,30,23,36,Caminul Cultural,Str. Dunării nr. 138,Rast,43.8848,23.2863
+462,17,DOLJ,RAST,261,3,41,28,0,12,15,31,263,3,45,30,0,13,18,29,Sediul Nou Primarie,Str. Via Mirițoiu nr. 84,Rast,43.9352,23.2979
+463,17,DOLJ,ROBĂNEŞTI,201,6,16,6,0,9,1,5,200,6,18,5,0,8,3,6,Cămin Cultural,Nr. 50,Robăneștii de Jos,44.311,24.0141
+466,17,DOLJ,ROBĂNEŞTI,182,2,21,2,0,13,0,4,183,2,21,4,0,11,2,6,Școala Robăneștii de Sus,Str. Gării nr. 82,Robăneștii de Sus,44.3265,24.0079
+467,17,DOLJ,ROJIŞTE,249,4,539,88,0,32,0,15,270,4,552,75,1,32,0,7,Școala Gimnazială Rojiste,,Rojiște,44.0687,23.9371
+265,17,DOLJ,BRĂDEŞTI,328,16,38,27,0,29,4,32,342,14,42,24,0,36,4,15,Școala Generală Racarii de Jos,Str. Unirii nr. 6,Răcarii de Jos,44.5216,23.5738
+220,17,DOLJ,ORAŞ FILIAŞI,299,3,35,7,0,12,4,16,301,5,32,6,0,14,5,16,Școala Răcarii de Sus,Str. Școlii nr. 15,Răcarii de Sus,44.5338,23.552
+251,17,DOLJ,BRABOVA,154,6,64,14,0,6,0,1,150,3,72,14,0,4,0,1,Căminul Cultural Răchita de Jos,Nr. 2,Răchita de Jos,44.3445,23.4041
+483,17,DOLJ,SEACA DE PĂDURE,89,0,4,1,0,1,13,14,86,0,4,1,0,5,13,14,Școala Răchita de Sus,,Răchita de Sus,44.3643,23.3602
+469,17,DOLJ,SADOVA,166,1,15,71,0,8,1,3,168,1,13,69,0,8,1,3,Școala Gimnazială Structura Raieti,Str. Craiovei nr. 14,Sadova,43.9137,23.9433
+470,17,DOLJ,SADOVA,98,1,34,10,0,15,1,3,101,1,35,7,0,16,1,2,Școala Gimnazială Structura Raieti,Str. Craiovei nr. 14,Sadova,43.9137,23.9433
+471,17,DOLJ,SADOVA,258,3,86,11,1,25,2,10,255,2,88,12,1,25,2,6,Școala Gimnazială Sadova Local Vale,Str. Craiovei nr. 131,Sadova,43.9034,23.9391
+472,17,DOLJ,SADOVA,259,1,89,21,1,73,2,13,258,3,92,23,1,72,2,10,"Școala Gimnazială Sadova, Local Deal",Str. Dr. Ștefan Iorgulescu nr. 36,Sadova,43.8977,23.9438
+473,17,DOLJ,SADOVA,243,2,214,15,0,13,9,20,250,3,187,23,0,10,12,20,Școala Gimnazială Structura Damian,Str. Damian nr. 70,Sadova,43.8946,23.9649
+238,17,DOLJ,ARGETOAIA,349,5,125,18,0,29,4,13,337,4,115,25,0,30,4,17,Școala. Gimnazială Salcia,Str. Omorna de Sus nr. 41 A,Salcia,44.4827,23.4438
+257,17,DOLJ,BRALOŞTIŢA,124,2,60,4,0,17,7,9,127,0,63,3,0,17,5,7,Școala din Satul Schitu,Str. Înaltă nr. 47,Schitu,44.5083,23.5038
+477,17,DOLJ,SCĂEŞTI,382,15,46,92,4,25,45,51,382,14,51,95,4,31,35,41,Școala Generală Scaești,,Scăești,44.4586,23.5722
+479,17,DOLJ,SEACA DE CÎMP,276,4,209,40,1,13,3,7,280,4,217,25,0,21,3,6,Școala Gimnazială cu Clasele I-VIII din Seaca de Cîmp,"Str. Ion Florescu nr. 78, Bloc -",Seaca de Câmp,43.9318,23.2186
+481,17,DOLJ,SEACA DE PĂDURE,251,0,6,1,1,5,4,7,257,0,6,1,0,5,3,5,Școala Seaca de Pădure,Nr. 159,Seaca de Pădure,44.3667,23.3111
+484,17,DOLJ,SECU,96,1,9,170,2,97,8,15,94,1,7,171,2,98,8,18,Școala Gen.Clasele I-IV Secu,,Secu,44.4738,23.2898
+500,17,DOLJ,TEASC,353,6,324,13,0,45,7,13,346,3,318,12,0,43,8,14,Școala Gimnazială Secui,Str. Eroilor nr. 65,Secui,44.1899,23.857
+221,17,DOLJ,ORAŞ SEGARCEA,544,13,38,24,0,38,14,40,555,13,41,23,1,40,14,26,Liceul Tehnologic Horia Vintilă,,Segarcea,44.1014,23.744
+222,17,DOLJ,ORAŞ SEGARCEA,286,10,23,35,2,37,5,12,289,10,29,33,3,34,5,13,Școala cu Clasele I-VIII,,Segarcea,44.097,23.745
+223,17,DOLJ,ORAŞ SEGARCEA,535,16,36,51,0,28,26,42,512,17,44,52,0,32,29,45,Biblioteca Orășenească Mircea Rădina,,Segarcea,44.0934,23.7443
+224,17,DOLJ,ORAŞ SEGARCEA,499,14,35,43,0,26,8,27,513,15,39,34,0,23,9,22,Clubul Copiilor,,Segarcea,44.0933,23.7435
+254,17,DOLJ,BRALOŞTIŢA,164,0,104,24,0,65,20,33,164,3,100,22,0,77,14,26,Școala din Satul Sfircea,Str. Grigore Olaru nr. 62,Sfârcea,44.4804,23.5519
+486,17,DOLJ,SILIŞTEA CRUCII,400,0,337,9,2,24,58,81,395,2,337,9,2,25,59,81,Căminul Cultural,,Siliștea Crucii,44.0419,23.4781
+485,17,DOLJ,SECU,24,0,5,32,2,57,22,23,25,2,3,33,1,56,22,24,Școala Generală cu Clasele I-IV Smadovicioara,,Smadovicioara de Secu,44.4916,23.2719
+313,17,DOLJ,CIUPERCENII NOI,326,6,54,24,0,10,2,6,335,7,58,13,0,11,2,7,Școala Generală Smîrdan,,Smârdan,43.9351,22.9647
+487,17,DOLJ,SOPOT,190,0,17,21,0,8,1,2,177,0,18,7,0,29,1,5,Școala cu Clasele I-IV Sopot,,Sopot,44.4125,23.492
+405,17,DOLJ,MELINEŞTI,89,2,9,4,0,4,48,51,96,1,10,4,0,4,40,45,Școala Generală Spineni,,Spineni,44.5593,23.7284
+524,17,DOLJ,VELA,125,1,70,2,0,5,0,5,128,1,69,2,0,5,0,3,Școala cu Clasele I-IV Suharu,,Suharu,44.2681,23.3936
+489,17,DOLJ,SOPOT,47,2,8,6,0,4,2,4,46,2,8,5,0,4,2,4,Școala Sîrsca,,Sârsca,44.372,23.5494
+281,17,DOLJ,CALOPĂR,259,1,14,15,0,5,5,10,246,1,14,2,0,19,21,27,Cămin Cultural Sălcuța,,Sălcuța,44.161,23.7032
+475,17,DOLJ,SĂLCUŢA,209,3,101,58,1,25,2,8,213,4,100,66,0,25,2,4,Școala Veche Sălcuța,,Sălcuța,44.2443,23.4432
+277,17,DOLJ,BULZEŞTI,275,2,34,6,0,16,7,13,240,2,27,6,1,53,7,13,"Punct Informare, Primăria Bulzești",Str. Principală nr. 120,Săliște,44.6079,23.8566
+399,17,DOLJ,MĂCEŞU DE JOS,99,4,4,1,0,12,0,3,99,3,3,1,0,12,0,4,Școala Săpata,,Săpata,43.8821,23.6639
+291,17,DOLJ,CĂLĂRAŞI,850,7,43,4,0,20,11,19,843,8,41,5,1,24,10,18,Școala Gimnazială Sărata,Str. Școlii nr. 34,Sărata,43.7738,24.0319
+274,17,DOLJ,BUCOVĂŢ,161,8,12,6,1,74,1,12,155,12,13,6,1,73,1,14,Școala Generală cu Clasele L-Vlll Sarbatoarea,,Sărbătoarea,44.2987,23.648
+264,17,DOLJ,BRĂDEŞTI,274,3,17,9,0,53,2,17,266,2,16,14,0,56,1,19,Școala Generală Tatomiresti,Nr. 108,Tatomirești,44.5163,23.5967
+499,17,DOLJ,TEASC,310,8,288,54,1,111,4,14,295,9,287,62,0,110,4,14,Școala Gimnazială Teasc,Str. Bechetului nr. 238,Teasc,44.1598,23.8672
+425,17,DOLJ,ORODEL,83,0,7,1,0,5,1,2,82,1,7,1,0,6,1,2,Școala Generală Teiu,,Teiu,44.2523,23.2913
+476,17,DOLJ,SĂLCUŢA,194,1,127,26,0,5,1,11,191,3,127,27,0,12,4,11,Școala Veche Tencănău,,Tencănău,44.2292,23.4832
+501,17,DOLJ,TERPEZIŢA,341,18,72,90,2,19,5,20,334,14,76,99,0,17,6,20,Școala Generală Terpezița,,Terpezița,44.2907,23.5069
+504,17,DOLJ,TESLUI,142,0,40,8,2,6,3,8,138,1,43,8,2,5,3,9,Școala Gimnazială Teslui,,Teslui,44.21,24.1578
+335,17,DOLJ,DOBREŞTI,196,2,14,22,0,7,4,16,203,1,14,9,0,7,4,22,Școala Toceni,Str. Principală nr. 18,Toceni,43.9653,23.9454
+456,17,DOLJ,POIANA MARE,123,6,22,8,1,4,1,11,122,5,25,4,0,6,3,16,Școala Generală Tunarii Noi,,Tunarii Noi,43.9296,23.1337
+455,17,DOLJ,POIANA MARE,236,10,62,11,0,34,7,15,230,10,65,12,0,34,7,15,Școala Generală Tunarii Vechi,,Tunarii Vechi,43.9106,23.1189
+468,17,DOLJ,ROJIŞTE,145,4,226,1,0,7,1,3,145,4,225,1,2,7,1,2,Școala cu Clasele I-IV,,Tâmburești,44.0289,23.9348
+460,17,DOLJ,RADOVAN,42,0,88,8,0,2,3,6,44,1,89,8,1,2,2,3,Camin Cultural Târnava,Nr. 60,Târnava,44.1766,23.5466
+498,17,DOLJ,TĂLPAŞ,381,15,61,15,0,20,11,20,382,14,62,8,1,20,12,25,Școala Gimnazială Tălpaș,,Tălpaș,44.6875,23.7461
+355,17,DOLJ,GHERCEŞTI,193,7,58,8,0,3,2,3,193,7,60,6,0,3,1,3,Școala Generală Ungureni,,Ungureni,44.4016,23.9383
+511,17,DOLJ,UNIREA,678,4,157,49,0,14,6,19,690,3,157,31,0,27,4,18,Școala din Vale nr. 1,,Unirea,44.1564,23.1772
+512,17,DOLJ,UNIREA,544,10,120,26,0,12,4,13,535,9,121,17,0,24,6,22,Școala nr. 2,,Unirea,44.1584,23.1778
+250,17,DOLJ,BRABOVA,137,0,33,12,0,4,1,4,134,1,34,12,0,4,2,4,Căminul Cultural Urdinița,Nr. 11,Urdinița,44.3875,23.4235
+408,17,DOLJ,MISCHII,173,9,122,13,1,11,2,10,175,8,120,8,0,15,2,9,Școala Generală Urechești,,Urechești,44.4183,23.8391
+507,17,DOLJ,TESLUI,123,1,91,10,1,11,0,9,125,1,93,12,1,12,0,3,Școala Viisoara Mosneni,Nr. 9,Urieni,44.2235,24.1429
+514,17,DOLJ,URZICUŢA,134,4,20,3,1,23,5,15,131,3,19,3,1,25,5,17,Corp Administrativ - Primarie,Str. Calea Craiovei nr. 27,Urzica Mare,44.016,23.5956
+513,17,DOLJ,URZICUŢA,624,2,36,18,1,12,12,48,629,2,40,19,0,17,14,31,Școala cu Clasele I-VIII Barbu Ionescu Urzicuta,Nr. 25,Urzicuța,44.0092,23.5415
+255,17,DOLJ,BRALOŞTIŢA,49,0,140,16,0,10,4,12,48,1,140,19,0,10,3,9,Școala din Satul Valea Fîntînilor,Str. Mihai Viteazul nr. 142,Valea Fântânilor,44.5014,23.4778
+269,17,DOLJ,BREASTA,98,2,12,105,0,8,5,8,105,2,12,95,0,6,5,8,Școala Valea Lungului,Str. Școlii nr. 16,Valea Lungului,44.3536,23.6672
+515,17,DOLJ,VALEA STANCIULUI,430,11,72,16,2,36,7,19,429,8,71,24,2,34,6,14,Școala cu Clasele I-VIII,Nr. 33,Valea Stanciului,43.9784,23.8729
+517,17,DOLJ,VALEA STANCIULUI,172,4,34,18,1,27,4,12,172,4,34,19,0,29,4,8,Grădinița Tuguresti,Nr. 25,Valea Stanciului,43.9931,23.876
+518,17,DOLJ,VALEA STANCIULUI,205,4,18,8,2,41,4,12,212,6,19,9,1,30,6,13,Caminul Cultural Birza,Nr. 85,Valea Stanciului,43.9871,23.8763
+478,17,DOLJ,SCĂEŞTI,190,3,20,67,0,34,7,23,190,4,20,68,1,39,5,15,Școala Generală Valea Lui Pătru,,Valea lui Pătru,44.4713,23.5205
+520,17,DOLJ,VELA,257,1,24,6,0,22,1,8,251,2,25,2,0,32,1,10,Școala cu Clasele I-VIII Vela,,Vela,44.28,23.4128
+482,17,DOLJ,SEACA DE PĂDURE,182,0,12,14,0,1,9,16,188,1,9,14,0,2,7,12,Școala Veleni,,Veleni,44.3796,23.3167
+420,17,DOLJ,MURGAŞI,233,2,9,3,0,2,2,7,241,2,8,3,0,3,2,5,Școala cu Clasele I-IV Velești,Str. Tudor Vladimirescu nr. 216,Velesti,44.6037,23.7912
+526,17,DOLJ,VERBIŢA,159,1,10,21,1,8,0,16,164,2,9,11,0,11,0,14,Grădinița cu Program Normal,Str. Morii nr. 6,Verbicioara,44.2844,23.1876
+525,17,DOLJ,VERBIŢA,214,1,10,8,1,36,2,13,213,3,11,11,1,33,2,13,Școala Gimnazială,Str. Școlii nr. 41,Verbița,44.302,23.1708
+338,17,DOLJ,DRĂGOTEŞTI,154,1,49,39,0,8,1,5,159,1,46,40,0,12,3,5,Școala cu Clasele I-IV Viișoara,Nr. 1,Viișoara,44.2339,24.1138
+527,17,DOLJ,VÎRTOP,732,3,26,19,0,19,3,11,712,5,31,12,1,32,3,12,Școala Gimnazială Vîrtop,,Vârtop,44.2093,23.3455
+528,17,DOLJ,VÎRVORU DE JOS,272,5,34,7,0,7,4,13,272,6,33,8,0,11,2,13,Școala cu Clasele I-IV Vîrvor,,Vârvor,44.2294,23.6161
+529,17,DOLJ,VÎRVORU DE JOS,514,10,37,7,0,19,2,5,516,9,36,9,0,16,3,9,Școala cu Clasele I-VIII Vîrvoru de Jos,,Vârvoru de Jos,44.2459,23.6118
+388,17,DOLJ,LEU,322,8,69,51,1,15,14,22,300,6,77,45,1,20,17,31,Grădinița Zănoaga,,Zănoaga,44.1582,24.0955
+360,17,DOLJ,GIGHERA,199,4,120,4,0,7,4,18,192,6,122,3,0,8,4,18,Căminul Cultural Zăval,,Zăval,43.8476,23.8417
+385,17,DOLJ,ÎNTORSURA,363,3,331,16,0,20,6,19,375,2,326,12,1,22,7,17,Școala Gimnazială N. Gh. Popescu,Nr. 68,Întorsura,44.1155,23.5768
+229,17,DOLJ,ALMĂJ,218,0,58,6,0,10,3,33,225,4,61,7,2,16,2,7,Școala Primară Șitoaia,,Șitoaia,44.4212,23.7193
+370,17,DOLJ,GOGOŞU,69,0,88,1,0,2,15,19,69,0,91,0,1,1,13,16,Școala cu Clasele I-IV,,Ștefănel,44.4254,23.4027
+522,17,DOLJ,VELA,53,0,7,2,0,7,1,3,55,0,5,0,0,9,1,2,Școala cu Clasele I-IV Stiubei,,Știubei,44.3243,23.3528
+376,17,DOLJ,GOIEŞTI,189,0,18,7,0,2,0,5,184,1,21,7,0,2,1,5,Școala cu Clasele I-VIII Tandara Sala,,Țandăra,44.4893,23.7395
+302,17,DOLJ,CERNĂTEŞTI,188,7,28,9,1,4,2,8,187,6,29,1,1,17,1,8,Grădiniță,Nr. 124,Țiu,44.4452,23.3793
+508,17,DOLJ,ŢUGLUI,469,7,33,42,1,31,17,26,451,6,40,42,1,31,20,31,Școala Gimnazială Țuglui,,Țuglui,44.1938,23.807
+509,17,DOLJ,ŢUGLUI,355,12,82,20,0,11,4,22,348,11,82,21,0,14,5,24,Grădinița nr. 2 Țuglui,,Țuglui,44.2071,23.7967
+506,17,DOLJ,TESLUI,86,5,60,15,0,4,3,4,82,4,63,16,0,4,4,4,Școala Clasele I-IV Țărțăl,,Țărțăl,44.2001,24.1134

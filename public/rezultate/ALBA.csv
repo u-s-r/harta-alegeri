@@ -1,0 +1,441 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+112,1,ALBA,ORAŞ ABRUD,242,11,89,19,3,24,10,24,246,9,83,23,2,22,16,28,Școala Gimnazială „Avram Iancu” Abrud,Str. Cloșca nr. 3-5,Abrud,46.2741,23.0622
+113,1,ALBA,ORAŞ ABRUD,237,15,92,17,12,27,13,22,247,7,87,12,13,29,16,27,Școala Gimnazială „Avram Iancu” Gradinița cu Program Normal nr. 1 Abrud,Str. Detunata (Str. Detunată) nr. 2,Abrud,46.2727,23.065
+114,1,ALBA,ORAŞ ABRUD,275,21,68,19,3,47,24,41,267,18,75,17,3,50,30,47,Școala Gimnazială „Avram Iancu” Grădinița cu Program Prelungit nr. 1 Abrud,Str. Republicii nr. 12,Abrud,46.2669,23.0773
+115,1,ALBA,ORAŞ ABRUD,254,19,75,16,1,43,14,27,257,23,79,17,2,42,14,21,"Liceul „Horea, Cloșca și Crișan” Abrud",Str. Republicii nr. 16,Abrud,46.2652,23.0825
+209,1,ALBA,BLANDIANA,38,2,106,7,1,3,1,4,39,2,105,7,2,3,3,5,Școala Primară Acmariu,Nr. 173,Acmariu,45.9591,23.3599
+51,1,ALBA,MUNICIPIUL AIUD,236,48,121,12,98,57,19,33,251,44,129,9,99,40,19,31,Centrul Cultural „Liviu Rebreanu” Aiud,Str. Transilvaniei (Str. 23 August) nr. 35,Aiud,46.3118,23.7211
+52,1,ALBA,MUNICIPIUL AIUD,114,35,64,14,81,28,7,27,118,41,66,13,87,15,7,22,Grădinița cu Program Prelungit „Primii Pași” Aiud,Str. Tribun Tudoran nr. 5,Aiud,46.3165,23.7261
+53,1,ALBA,MUNICIPIUL AIUD,235,13,105,15,51,38,18,37,232,17,111,17,57,31,19,28,Grădinița cu Program Prelungit „Primii Pași” Aiud,Str. Tribun Tudoran nr. 5,Aiud,46.3165,23.7261
+54,1,ALBA,MUNICIPIUL AIUD,229,25,84,12,35,20,12,21,226,27,84,13,38,14,17,23,Creșa Aiud,Str. Unirii nr. 10A,Aiud,46.3091,23.7309
+55,1,ALBA,MUNICIPIUL AIUD,324,42,132,20,39,29,15,28,327,42,131,19,44,22,16,30,Grădinița cu Program Prelungit nr. 2 Aiud,Str. Unirii nr. 10,Aiud,46.309,23.7304
+56,1,ALBA,MUNICIPIUL AIUD,177,23,95,15,70,39,6,21,180,24,101,13,71,33,7,18,Școala Gimnazială „Axente Sever” Aiud,Str. Unirii nr. 9,Aiud,46.3087,23.7295
+57,1,ALBA,MUNICIPIUL AIUD,211,11,98,18,58,15,12,29,214,14,99,13,59,15,10,24,Școala Gimnazială „Axente Sever” Aiud,Str. Unirii nr. 9,Aiud,46.3087,23.7295
+58,1,ALBA,MUNICIPIUL AIUD,199,12,85,19,45,34,10,23,203,13,89,18,43,29,11,21,Școala Gimnazială „Axente Sever” Aiud,Str. Unirii nr. 9,Aiud,46.3087,23.7295
+59,1,ALBA,MUNICIPIUL AIUD,232,33,161,15,75,39,11,22,233,31,165,11,85,33,10,21,Colegiul Național „Titu Maiorescu” Aiud,Str. Ecaterina Varga nr. 10,Aiud,46.3065,23.7225
+60,1,ALBA,MUNICIPIUL AIUD,136,21,62,9,39,30,5,17,139,26,65,7,40,16,5,19,Colegiul Tehnic Aiud,Str. Ion Creangă nr. 14,Aiud,46.3075,23.7194
+61,1,ALBA,MUNICIPIUL AIUD,112,30,71,9,36,16,4,9,122,25,81,8,36,8,4,6,Colegiul Tehnic Aiud,Str. Ion Creangă nr. 14,Aiud,46.3075,23.7194
+62,1,ALBA,MUNICIPIUL AIUD,180,42,148,17,68,38,5,25,189,43,161,17,71,21,8,22,Fosta Grădiniță nr. 1 Aiud,Str. Simion Bărnuțiu nr. 24,Aiud,46.3089,23.7134
+63,1,ALBA,MUNICIPIUL AIUD,130,29,82,14,55,23,1,12,131,30,80,16,58,19,2,8,Școala Gimnazială „Ovidiu Hulea” Aiud,Str. Cuza Vodă nr. 35,Aiud,46.3098,23.7163
+64,1,ALBA,MUNICIPIUL AIUD,162,44,118,11,63,30,6,25,162,42,124,13,67,16,11,28,Școala Gimnazială „Ovidiu Hulea” Aiud,Str. Cuza Vodă nr. 35,Aiud,46.3098,23.7163
+65,1,ALBA,MUNICIPIUL AIUD,135,8,59,6,31,11,0,10,139,9,62,6,31,8,0,6,Școala Gimnazială „Liviu Rebreanu” Aiudul de Sus,Str. Gheorghe Lazăr nr. 17,Aiudul de Sus,46.3155,23.6889
+66,1,ALBA,MUNICIPIUL AIUD,102,2,72,8,46,26,6,21,112,5,80,6,43,21,5,13,Școala Gimnazială „Liviu Rebreanu” Aiudul de Sus,Str. Gheorghe Lazăr nr. 17,Aiudul de Sus,46.3155,23.6889
+1,1,ALBA,MUNICIPIUL ALBA IULIA,254,91,207,54,6,35,8,45,254,95,215,45,10,39,16,37,Centrul de Zi Pentru Persoane Vârstnice,Str. Libertății nr. 21,Alba Iulia,46.0732,23.5879
+2,1,ALBA,MUNICIPIUL ALBA IULIA,142,56,147,39,14,28,14,36,144,49,153,41,15,29,15,30,Școala Gimnazială „Vasile Goldiș”,Str. Călărașilor (Str. Teilor) nr. 2,Alba Iulia,46.0737,23.5832
+3,1,ALBA,MUNICIPIUL ALBA IULIA,217,76,170,30,15,42,19,58,234,80,171,24,12,43,21,47,Școala Gimnazială „Vasile Goldiș”,Str. Călărașilor (Str. Teilor) nr. 2,Alba Iulia,46.0737,23.5832
+4,1,ALBA,MUNICIPIUL ALBA IULIA,241,93,204,37,14,42,19,51,263,82,185,33,17,49,24,51,Școală Gimnazială „Avram Iancu”,Str. Moldovei nr. 2,Alba Iulia,46.0622,23.5787
+5,1,ALBA,MUNICIPIUL ALBA IULIA,126,60,126,35,2,15,8,32,130,61,139,28,2,12,10,28,Școală Gimnazială „Avram Iancu”,Str. Moldovei nr. 2,Alba Iulia,46.0622,23.5787
+6,1,ALBA,MUNICIPIUL ALBA IULIA,101,42,102,23,3,26,7,19,109,40,94,22,3,28,9,19,Casa de Cultură a Studenților,Nr. 1,Alba Iulia,46.07,23.5808
+7,1,ALBA,MUNICIPIUL ALBA IULIA,184,96,224,40,11,41,19,54,203,95,228,39,9,37,20,36,Colegiul Economic „Dionisie Pop Marțian”,"Str. Octavian Goga (Bulevardul Octavian Goga, Bulevardul Încoronării) nr. 11",Alba Iulia,46.0658,23.5776
+8,1,ALBA,MUNICIPIUL ALBA IULIA,213,50,132,19,61,41,15,37,223,54,122,15,64,39,19,35,Colegiul Național „Horea Cloșca și Crișan”,Bulevardul 1 Decembrie 1918 nr. 11,Alba Iulia,46.0668,23.5637
+9,1,ALBA,MUNICIPIUL ALBA IULIA,251,121,233,46,13,57,21,67,272,127,236,44,15,51,20,47,Colegiul Național „Horea Cloșca și Crișan”,Bulevardul 1 Decembrie 1918 nr. 11,Alba Iulia,46.0668,23.5637
+10,1,ALBA,MUNICIPIUL ALBA IULIA,219,58,182,22,7,31,16,36,222,57,176,19,6,34,18,41,Colegiul Național „Horea Cloșca și Crișan”,Bulevardul 1 Decembrie 1918 nr. 11,Alba Iulia,46.0668,23.5637
+11,1,ALBA,MUNICIPIUL ALBA IULIA,112,31,105,18,3,13,8,30,121,34,104,22,1,12,5,17,Colegiul Național „Horea Cloșca și Crișan”,Bulevardul 1 Decembrie 1918 nr. 11,Alba Iulia,46.0668,23.5637
+12,1,ALBA,MUNICIPIUL ALBA IULIA,134,43,94,24,3,14,8,38,147,34,99,24,3,16,12,28,Colegiul Tehnic „Apulum”,Str. Gheorghe Pop de Băsești (Str. Macului) nr. 2,Alba Iulia,46.0657,23.5612
+13,1,ALBA,MUNICIPIUL ALBA IULIA,132,37,117,15,1,15,12,29,133,34,119,15,1,24,12,19,Colegiul Tehnic „Apulum”,Nr. 2,Alba Iulia,46.0657,23.5612
+14,1,ALBA,MUNICIPIUL ALBA IULIA,119,65,100,33,3,22,6,37,125,68,98,32,4,25,7,26,Colegiul Tehnic „Apulum”,Nr. 2,Alba Iulia,46.0657,23.5612
+15,1,ALBA,MUNICIPIUL ALBA IULIA,183,51,148,24,6,20,12,34,185,52,149,24,7,22,12,27,Grădinița cu Program Prelungit nr. 9,Str. Vasile Goldiș (Str. Narciselor) nr. 7,Alba Iulia,46.0674,23.5617
+16,1,ALBA,MUNICIPIUL ALBA IULIA,228,66,184,33,6,28,9,40,245,62,183,34,5,26,11,30,Seminarul Teologic Ortodox „Sfântul Simion Ștefan”,Bulevardul Transilvaniei (Bulevardul Transilvania) nr. 36A,Alba Iulia,46.0717,23.5525
+17,1,ALBA,MUNICIPIUL ALBA IULIA,169,54,111,14,5,25,6,31,166,56,108,12,4,29,9,32,Școala Gimnazială „Ion Agârbiceanu”,Str. Vasile Goldiș (Str. Narciselor) nr. 14,Alba Iulia,46.0685,23.5607
+18,1,ALBA,MUNICIPIUL ALBA IULIA,161,50,130,10,6,31,9,33,181,50,123,8,9,29,11,22,Școala Gimnazială „Ion Agârbiceanu”,Str. Vasile Goldiș (Str. Narciselor) nr. 14,Alba Iulia,46.0685,23.5607
+19,1,ALBA,MUNICIPIUL ALBA IULIA,173,44,146,26,5,24,4,28,182,45,137,27,5,21,6,25,Grădinița cu Program Prelungit nr. 11,Str. Vasile Goldiș (Str. Narciselor) nr. 14B,Alba Iulia,46.0688,23.5592
+20,1,ALBA,MUNICIPIUL ALBA IULIA,159,64,129,27,4,28,9,40,166,62,135,21,8,27,15,30,Grădinița cu Program Prelungit Step By Step nr. 12,Str. Ștefan cel Mare (Str. Mesteacănului) nr. 11,Alba Iulia,46.074,23.561
+21,1,ALBA,MUNICIPIUL ALBA IULIA,142,53,156,19,7,28,11,60,162,53,162,18,6,22,12,37,Grădinița cu Program Prelungit Step By Step nr. 12,Str. Ștefan cel Mare (Str. Mesteacănului) nr. 11,Alba Iulia,46.074,23.561
+22,1,ALBA,MUNICIPIUL ALBA IULIA,194,67,172,30,5,33,12,45,216,66,179,25,6,20,16,33,Școala Gimnazială „Mihai Eminescu”,Str. Toporașilor (Str. Petru Rareș) nr. 18,Alba Iulia,46.0752,23.56
+23,1,ALBA,MUNICIPIUL ALBA IULIA,215,95,229,43,2,33,9,55,233,93,227,46,5,29,8,27,Școala Gimnazială „Mihai Eminescu”,Str. Toporașilor (Str. Petru Rareș) nr. 18,Alba Iulia,46.0752,23.56
+24,1,ALBA,MUNICIPIUL ALBA IULIA,158,46,166,31,6,23,5,34,166,44,162,33,5,22,8,32,Grădinița cu Program Prelungit nr. 13,Str. Energiei (Str. Mareșal Ion Antonescu) nr. 21,Alba Iulia,46.0756,23.5608
+25,1,ALBA,MUNICIPIUL ALBA IULIA,182,60,157,30,6,26,6,29,178,65,158,30,8,23,9,27,Grădinița cu Program Prelungit nr. 13,Str. Energiei (Str. Mareșal Ion Antonescu) nr. 21,Alba Iulia,46.0756,23.5608
+26,1,ALBA,MUNICIPIUL ALBA IULIA,200,62,177,39,3,35,16,61,210,56,184,36,4,39,19,47,Liceul cu Program Sportiv,Str. Ștefan cel Mare (Str. Mesteacănului) nr. 25,Alba Iulia,46.0767,23.5646
+27,1,ALBA,MUNICIPIUL ALBA IULIA,211,75,158,31,10,31,20,66,213,81,169,33,8,35,24,42,Liceul cu Program Sportiv,Str. Ștefan cel Mare (Str. Mesteacănului) nr. 25,Alba Iulia,46.0767,23.5646
+28,1,ALBA,MUNICIPIUL ALBA IULIA,217,97,176,42,7,39,18,56,215,88,186,43,10,54,18,34,Liceul cu Program Sportiv,Str. Ștefan cel Mare (Str. Mesteacănului) nr. 25,Alba Iulia,46.0767,23.5646
+29,1,ALBA,MUNICIPIUL ALBA IULIA,152,55,126,27,1,37,13,35,160,58,125,25,1,32,13,32,Liceul cu Program Sportiv,Str. Ștefan cel Mare (Str. Mesteacănului) nr. 25,Alba Iulia,46.0767,23.5646
+30,1,ALBA,MUNICIPIUL ALBA IULIA,137,85,151,28,5,32,10,29,144,69,168,29,2,30,10,24,Bazin Olimpic,Bulevardul Republicii (Bulevardul Victoriei) nr. 3,Alba Iulia,46.0809,23.5664
+31,1,ALBA,MUNICIPIUL ALBA IULIA,129,44,140,25,5,31,4,28,140,36,141,26,7,33,9,20,Bazin Olimpic,Bulevardul Republicii (Bulevardul Victoriei) nr. 3,Alba Iulia,46.0809,23.5664
+32,1,ALBA,MUNICIPIUL ALBA IULIA,172,135,183,33,1,30,15,51,196,118,196,32,5,24,14,35,Stadion Municipal „Cetate”,Str. Septimius Severus (Str. Mărțișor) nr. 38,Alba Iulia,46.0789,23.5679
+33,1,ALBA,MUNICIPIUL ALBA IULIA,183,66,149,31,4,12,13,41,198,65,145,26,6,10,16,38,Grădinița cu Program Normal nr. 10,Str. Gheorghe Șincai (Str. Muncii) nr. 21,Alba Iulia,46.0812,23.5718
+34,1,ALBA,MUNICIPIUL ALBA IULIA,184,55,125,22,6,19,13,44,204,55,135,20,2,13,16,25,Grădinița cu Program Normal nr. 10,Str. Gheorghe Șincai (Str. Muncii) nr. 21,Alba Iulia,46.0812,23.5718
+35,1,ALBA,MUNICIPIUL ALBA IULIA,202,99,180,33,15,39,22,54,203,105,178,33,15,47,24,43,Colegiul Tehnic „Dorin Pavel” Școala Generală nr. 9,"Str. Tudor Vladimirescu (Bulevardul Tudor Vladimirescu, Bulevardul Regele Carol I) nr. 39",Alba Iulia,46.0769,23.5801
+36,1,ALBA,MUNICIPIUL ALBA IULIA,111,42,104,16,3,22,8,38,116,49,106,24,2,21,7,21,Colegiul Tehnic „Dorin Pavel”,"Str. Tudor Vladimirescu (Bulevardul Tudor Vladimirescu, Bulevardul Regele Carol I) nr. 39",Alba Iulia,46.0769,23.5801
+37,1,ALBA,MUNICIPIUL ALBA IULIA,148,69,170,23,11,21,4,34,146,68,174,27,13,21,9,32,Grădinița cu Program Prelungit nr. 16,"Str. Tudor Vladimirescu (Bulevardul Tudor Vladimirescu, Bulevardul Regele Carol I) nr. 143",Alba Iulia,46.0866,23.5865
+38,1,ALBA,MUNICIPIUL ALBA IULIA,112,42,104,14,5,16,13,37,121,42,100,17,6,15,15,27,Colegiul Tehnic „Alexandru Domsa”,"Str. Tudor Vladimirescu (Bulevardul Tudor Vladimirescu, Bulevardul Regele Carol I) nr. 143",Alba Iulia,46.0873,23.5871
+39,1,ALBA,MUNICIPIUL ALBA IULIA,180,47,177,19,8,20,12,31,186,45,176,20,11,19,9,25,Colegiul Tehnic „Alexandru Domsa”,"Str. Tudor Vladimirescu (Bulevardul Tudor Vladimirescu, Bulevardul Regele Carol I) nr. 143",Alba Iulia,46.0873,23.5871
+40,1,ALBA,MUNICIPIUL ALBA IULIA,130,39,165,32,4,9,11,29,143,35,164,29,5,10,9,21,Colegiul Tehnic „Alexandru Domsa”,"Str. Tudor Vladimirescu (Bulevardul Tudor Vladimirescu, Bulevardul Regele Carol I) nr. 143",Alba Iulia,46.0873,23.5871
+41,1,ALBA,MUNICIPIUL ALBA IULIA,205,106,217,50,4,50,13,43,230,98,219,46,6,37,17,36,Școala Florida Impex S.R.L.,Calea Moților nr. 176,Alba Iulia,46.0881,23.559
+42,1,ALBA,MUNICIPIUL ALBA IULIA,105,40,111,40,0,18,6,19,112,38,118,34,2,17,5,10,Grădinița cu Program Normal nr. 5partoș,Str. Liliacului nr. 8,Alba Iulia,46.0425,23.5603
+43,1,ALBA,MUNICIPIUL ALBA IULIA,144,68,150,16,5,30,11,40,167,67,149,15,5,25,12,27,Căminul Pentru Persoane Vârstnice,Str. Lalelelor (Str. Dr. Ștefan Cicio Pop) nr. 60,Alba Iulia,46.0647,23.5457
+183,1,ALBA,ALBAC,106,7,174,13,1,6,7,16,110,10,151,13,0,10,11,20,Căminul Cultural Albac,Str. Cloșca nr. 9,Albac,46.4474,22.9644
+406,1,ALBA,ŞONA,10,0,14,3,2,3,1,5,11,0,15,3,2,5,2,3,Căminul Cultural Alecuș,Nr. 116,Alecuș,46.2904,23.9938
+188,1,ALBA,ALMAŞU MARE,41,1,20,13,1,28,4,9,43,0,22,13,1,26,6,8,Primăria Comunei Almsu Mare,Nr. 204,Almașu Mare,46.0886,23.1308
+189,1,ALBA,ALMAŞU MARE,44,5,22,9,1,3,1,4,45,6,20,10,1,2,1,3,Școala Primară Almasu Mare - Suseni,Nr. 199,Almașu Mare,46.1101,23.1185
+190,1,ALBA,ALMAŞU MARE,17,0,18,6,1,4,1,5,18,0,17,6,1,4,1,5,Școala Primară Almașu de Mijloc,Nr. 10,Almașu de Mijloc,46.0671,23.1061
+311,1,ALBA,METEŞ,87,8,145,11,0,10,0,11,94,6,133,26,0,4,0,11,Școala Gimnazială Ampoița,Nr. 129,Ampoița,46.1174,23.4479
+193,1,ALBA,ARIEŞENI,138,0,149,11,1,5,6,7,162,1,123,11,2,6,5,11,Grup Școlar de Turism Arieșeni,Nr. 8,Arieșeni,46.4767,22.7586
+194,1,ALBA,ARIEŞENI,148,4,116,3,0,10,8,16,170,3,96,5,1,10,12,16,Grup Școlar de Turism Arieșeni,Nr. 8,Arieșeni,46.4767,22.7586
+296,1,ALBA,LOPADEA NOUĂ,17,0,32,2,2,0,1,5,18,0,30,2,2,1,1,5,Cămin Cultural,Nr. 59,Asinip,46.2966,23.8854
+197,1,ALBA,AVRAM IANCU,46,8,99,20,1,3,41,49,49,6,111,23,1,1,26,34,Școala Gimnazială Avram Iancu,Nr. 27F,Avram Iancu,46.3578,22.8235
+116,1,ALBA,ORAŞ BAIA DE ARIEŞ,182,5,79,5,1,118,7,19,192,3,89,5,2,96,8,16,Școala Generală cu Clasele I-VIII,Str. Piața Băii nr. 3,Baia de Arieș,46.3796,23.28
+117,1,ALBA,ORAŞ BAIA DE ARIEŞ,121,4,72,10,5,82,7,16,128,5,76,9,2,61,6,21,Școala Generală cu Clasele I-VIII,Str. Piața Băii nr. 3,Baia de Arieș,46.3796,23.28
+118,1,ALBA,ORAŞ BAIA DE ARIEŞ,125,9,76,3,2,47,8,16,128,8,81,4,2,35,9,17,Liceul „Dr. Lazăr Chirilă”,Str. 22 Decembrie nr. 41,Baia de Arieș,46.38,23.2771
+401,1,ALBA,ŞIBOT,85,5,85,9,1,20,1,11,89,1,86,8,0,19,2,11,Căminul Cultural Balomir,Nr. 85,Balomiru de Câmp,45.9422,23.3574
+169,1,ALBA,ORAŞ TEIUŞ,72,2,11,2,1,2,0,2,67,2,12,3,1,2,0,1,Școala Primară Beldiu,Nr. 15,Beldiu,46.2353,23.7148
+253,1,ALBA,GALDA DE JOS,49,8,106,43,1,6,5,9,50,10,104,39,1,5,7,12,Școala Gimnazială Benic,Nr. 32,Benic,46.2098,23.5911
+200,1,ALBA,BERGHIN,47,8,83,15,1,8,3,18,45,6,83,16,2,14,4,16,Școala Gimnazială Berghin,Nr. 34,Berghin,46.0736,23.7387
+298,1,ALBA,LOPADEA NOUĂ,5,1,74,2,47,1,1,3,6,1,75,2,46,1,1,1,Școala Primară Beța,Nr. 100,Beța,46.2527,23.8144
+263,1,ALBA,GÎRDA DE SUS,4,0,23,2,0,5,1,5,6,1,20,2,0,7,1,3,Școala Primară Biharia,Nr. 531,Biharia,46.4244,22.7684
+407,1,ALBA,ŞONA,64,2,293,8,22,38,6,18,73,3,286,8,25,34,4,13,Sala Multifuncțională Biia,Nr. 470,Biia,46.2307,24.001
+203,1,ALBA,BISTRA,111,14,83,14,1,19,9,26,105,17,79,11,2,17,7,35,Școala Gimnazială „Nicodim Ganea” Bistra,Str. Petru Pavel Aron nr. 6,Bistra,46.3774,23.0998
+204,1,ALBA,BISTRA,196,10,117,27,1,9,8,22,199,9,114,19,1,9,13,30,Școala Gimnazială „Nicodim Ganea” Bistra,Str. Petru Pavel Aron nr. 2-A,Bistra,46.3769,23.1013
+205,1,ALBA,BISTRA,109,1,77,10,1,2,3,15,118,0,67,10,1,2,4,12,Școala Gimnazială „Nicodim Ganea” Bistra,Str. Ganea nr. 2,Bistra,46.3767,23.1017
+75,1,ALBA,MUNICIPIUL BLAJ,104,34,170,11,12,25,4,14,108,32,164,12,12,28,4,11,Piața Agroalimentară,Str. Gării nr. FN,Blaj,46.1749,23.9085
+76,1,ALBA,MUNICIPIUL BLAJ,80,9,137,2,4,11,7,12,77,11,136,0,3,13,8,12,Piața Agroalimentară,Str. Câmpul Libertății (Str. Cîmpul Libertății) nr. 19 A,Blaj,46.175,23.9251
+77,1,ALBA,MUNICIPIUL BLAJ,35,2,223,1,2,4,5,11,37,2,229,1,1,4,4,6,Societatea Comercială Dava Expres,Str. Iuliu Maniu (Str. 23 August) nr. 101,Blaj,46.1745,23.9166
+78,1,ALBA,MUNICIPIUL BLAJ,159,24,215,13,17,32,10,18,165,23,208,11,18,30,17,20,Gradinița cu Program Prelungit „Lumea Copiilor”,Str. Eroilor nr. 22,Blaj,46.1764,23.9132
+79,1,ALBA,MUNICIPIUL BLAJ,158,36,186,13,16,38,9,31,155,37,195,13,16,39,12,24,Școala Gimnazială „Toma Cocișiu” Blaj,Bulevardul Republicii nr. 48,Blaj,46.1771,23.918
+80,1,ALBA,MUNICIPIUL BLAJ,140,37,177,9,17,29,6,20,153,40,166,10,17,31,9,17,Centrul Cultural „Iacob Mureșianu”,Bulevardul Republicii (D) nr. 36,Blaj,46.1773,23.9199
+81,1,ALBA,MUNICIPIUL BLAJ,74,10,133,7,5,11,7,16,82,9,127,9,5,12,6,13,Liceul Tehnologic „Ștefan Manciulea” Blaj,Piața 1848 nr. 3,Blaj,46.173,23.9229
+82,1,ALBA,MUNICIPIUL BLAJ,54,10,135,6,2,15,4,9,56,10,133,5,3,13,6,12,Universitatea „Spiru Haret”,Str. Tudor Vladimirescu nr. 80,Blaj,46.1737,23.933
+83,1,ALBA,MUNICIPIUL BLAJ,30,0,66,3,5,10,3,10,29,2,63,4,6,10,4,11,Asociația Județeană a Vânătorilor și Pescarilor Sportivi Alba - Clubul Blaj,Str. Gheorghe Barițiu nr. 5,Blaj,46.1669,23.9448
+84,1,ALBA,MUNICIPIUL BLAJ,175,43,343,20,12,52,16,33,188,37,334,27,11,46,20,33,Liceul Tehnologic „Timotei Cipariu”,Str. Dr. Vasile Suciu (Str. Dr. Petru Groza) nr. 29,Blaj,46.1784,23.9188
+85,1,ALBA,MUNICIPIUL BLAJ,161,48,274,23,14,32,7,24,175,43,263,25,15,37,9,21,Colegiul Național „Inochentie Micu Clain”,Str. Simion Bărnuțiu nr. 2,Blaj,46.1775,23.9274
+86,1,ALBA,MUNICIPIUL BLAJ,170,34,268,22,3,47,17,44,175,37,274,23,3,46,23,38,Școala Gimnazială „Petru Pavel Aron” Blaj,Str. Păcii nr. 1,Blaj,46.1693,23.9214
+87,1,ALBA,MUNICIPIUL BLAJ,103,4,297,3,2,8,5,22,105,7,300,1,2,11,7,18,Școala Gimnazială „Ion Micu Moldovan” Blaj,Str. Păcii nr. 144,Blaj,46.1698,23.9069
+88,1,ALBA,MUNICIPIUL BLAJ,129,37,235,14,7,25,10,22,123,34,240,14,6,28,10,21,Grădinița cu Program Normal „Izvoarele” Blaj,Str. Păcii nr. 81,Blaj,46.1705,23.9102
+208,1,ALBA,BLANDIANA,41,6,91,7,0,10,2,6,37,6,97,6,1,8,3,9,Primăria Comunei Blandiana,Nr. 15,Blandiana,45.9662,23.398
+246,1,ALBA,DOŞTAT,35,0,92,4,0,2,3,8,32,0,94,5,0,4,1,7,Școala Primară Boz,,Boz,45.9473,23.8017
+355,1,ALBA,RÎMEŢ,61,1,3,3,1,2,0,3,62,1,3,3,1,2,0,1,Fosta Școală cu Clasele I-IV Brădești,Nr. 4,Brădești,46.3337,23.4674
+119,1,ALBA,ORAŞ BAIA DE ARIEŞ,47,3,22,1,0,13,4,5,46,2,22,2,0,14,1,4,Școala Primară Brăzești,Nr. 62,Brăzești,46.3981,23.3184
+211,1,ALBA,BUCERDEA GRÂNOASĂ,99,8,206,15,109,20,3,18,108,9,204,15,112,23,2,11,Căminul Cultural Bucerdea Grânoasă,Nr. 55,Bucerdea Grânoasă,46.1896,23.8419
+212,1,ALBA,BUCERDEA GRÂNOASĂ,48,2,191,47,19,21,5,19,50,2,187,55,20,21,6,12,Școala Gimnazială Ioan Maiorescu Bucerdea Granoasă,Nr. 2,Bucerdea Grânoasă,46.1908,23.8426
+277,1,ALBA,IGHIU,113,10,194,17,1,18,8,24,113,11,194,19,1,14,10,23,Școala Primară Bucerdea Vinoasă,Nr. 303,Bucerdea Vânoasă,46.1625,23.5276
+214,1,ALBA,BUCIUM,129,1,23,4,1,9,1,9,130,3,23,6,0,9,1,7,Școala Primară Bucium-Sat,Nr. 157,Bucium-Sat,46.2603,23.1204
+149,1,ALBA,ORAŞ CUGIR,5,0,19,4,1,1,1,6,4,0,21,4,1,2,1,5,Școala Primară - Bucuru,Nr. 24,Bucuru,45.7844,23.404
+233,1,ALBA,CIURULEASA,102,1,24,7,1,6,2,9,106,2,21,7,0,8,2,7,Școala Primară Buninginea,,Buninginea,46.2271,23.0381
+324,1,ALBA,MOGOŞ,8,0,18,1,0,1,1,4,8,0,18,1,0,1,2,4,"Școala cu Clasele I-IV, Sat Butești",Nr. 568,Butești,46.2976,23.3447
+402,1,ALBA,ŞIBOT,21,0,50,9,2,11,2,6,21,0,54,9,2,9,2,4,Școala Primară Băcăinți,Nr. 80,Băcăinți,45.9413,23.2829
+297,1,ALBA,LOPADEA NOUĂ,39,1,77,2,28,7,4,9,37,1,79,1,28,7,2,10,Clădire Anexă Primăria Lopadea Nouă,Nr. 27,Băgău,46.3103,23.7918
+287,1,ALBA,JIDVEI,76,8,193,20,2,8,6,15,70,7,193,24,2,10,7,11,Școala Gimnazială Bălcaciu,Str. 1 Decembrie nr. 65,Bălcaciu,46.1895,24.0604
+44,1,ALBA,MUNICIPIUL ALBA IULIA,129,38,91,20,4,15,6,31,143,34,93,21,5,16,8,18,Grădinița cu Program Normal Bărăbanț,Str. Mureșului nr. 136,Bărăbanț,46.1,23.5831
+45,1,ALBA,MUNICIPIUL ALBA IULIA,132,49,175,31,5,15,8,33,135,48,182,31,3,21,8,21,Grădinița cu Program Normal Bărăbanț,Str. Mureșului nr. 136,Bărăbanț,46.1,23.5831
+195,1,ALBA,ARIEŞENI,8,0,19,3,1,1,0,0,18,0,8,2,0,2,1,2,Școala Primară Casa de Piatră,Nr. 90A,Casa de Piatră,46.5342,22.7824
+217,1,ALBA,CENADE,60,8,254,5,2,5,2,5,63,6,254,3,2,5,2,7,Primăria Cenade,Nr. 372,Cenade,46.0565,24.0066
+215,1,ALBA,BUCIUM,72,2,22,4,0,3,6,7,69,4,21,5,0,6,5,7,Școala Primară Cerbu,Nr. 206 A,Cerbu,46.2477,23.105
+218,1,ALBA,CERGĂU,55,4,259,12,0,66,2,8,59,6,245,11,2,75,4,6,Școala Gimnazială „Aron Cotruș” Cergău Mare,Nr. 166,Cergău Mare,46.0979,23.9201
+219,1,ALBA,CERGĂU,8,0,99,3,1,5,1,4,7,0,102,2,1,6,2,5,Grădinița cu Program Normal Cergău Mic,Nr. 68,Cergău Mic,46.0824,23.938
+129,1,ALBA,ORAŞ CÎMPENI,33,1,26,7,0,1,2,7,43,0,17,7,0,2,4,7,Școala Primară Certege,,Certege,46.4101,23.0319
+221,1,ALBA,CERU-BĂCĂINŢI,21,2,23,52,0,7,0,4,18,1,22,54,0,8,0,4,Căminul Cultural,,Ceru-Băcăinți,45.9725,23.2703
+222,1,ALBA,CETATEA DE BALTĂ,47,10,117,4,6,5,1,12,52,10,121,4,7,5,2,6,Cămin Cultural,Nr. 28,Cetatea de Baltă,46.2478,24.1681
+223,1,ALBA,CETATEA DE BALTĂ,80,15,140,4,53,9,8,19,81,15,139,8,58,4,7,20,Cămin Cultural,Nr. 28,Cetatea de Baltă,46.2478,24.1681
+254,1,ALBA,GALDA DE JOS,54,6,57,27,1,9,1,8,57,4,59,22,1,9,2,9,Școala Primară Cetea,Nr. 3,Cetea,46.2349,23.5833
+191,1,ALBA,ALMAŞU MARE,17,1,69,22,2,6,2,5,18,1,69,21,2,7,2,4,Școala Primară Cib,Nr. 55,Cib,46.0574,23.1882
+319,1,ALBA,MIRĂSLĂU,7,0,17,5,3,3,1,5,7,0,17,4,3,3,1,5,Școala Primară - Cicău,Nr. 109,Cicău,46.3995,23.6775
+120,1,ALBA,ORAŞ BAIA DE ARIEŞ,39,0,17,2,0,20,0,2,38,1,24,2,1,13,0,2,Căminul Cultural Cioara de Sus,Nr. 53,Cioara de Sus,46.3762,23.3126
+184,1,ALBA,ALBAC,37,6,149,2,2,4,0,11,37,6,149,5,2,4,6,8,Școala Primară Cionești,,Cionești,46.4657,22.9679
+316,1,ALBA,MIHALŢ,87,0,122,7,2,15,0,2,91,1,117,4,1,14,0,1,Școala Primară Cistei,Nr. 143,Cistei,46.1841,23.7585
+162,1,ALBA,ORAŞ OCNA MUREŞ,23,0,42,8,10,7,2,8,22,1,46,5,9,9,2,7,Școala Generală Cisteiu de Mureș,Nr. 81,Cisteiu de Mureș,46.3762,23.8117
+213,1,ALBA,BUCIUM,113,0,30,6,1,6,3,9,111,0,31,6,0,8,1,10,Școala Primară Ciuculești,Nr. 271,Ciuculești,46.2639,23.1774
+227,1,ALBA,CIUGUD,179,7,24,44,0,8,7,11,169,9,38,32,0,13,10,14,Școală Gimnazială Ciugud,Nr. 127,Ciugud,46.0458,23.6101
+419,1,ALBA,UNIREA,20,3,24,4,3,0,2,7,21,1,25,4,1,1,3,6,Școala Primară Ciugudu de Jos,Nr. 52,Ciugudu de Jos,46.4186,23.7449
+420,1,ALBA,UNIREA,16,1,38,4,1,1,1,4,17,2,36,4,1,2,1,2,Școala Primară Ciugudu de Sus,Nr. 25,Ciugudu de Sus,46.4254,23.7099
+299,1,ALBA,LOPADEA NOUĂ,52,0,183,4,6,1,2,5,50,0,184,2,4,2,3,7,Clădire Anexă Primăria Lopadea Nouă,Nr. 108/A,Ciuguzel,46.2821,23.8584
+206,1,ALBA,BISTRA,96,5,52,11,2,12,3,10,94,4,55,6,2,13,3,15,Școala Primară Ciuldești - Comuna Bistra,Nr. 44 - A,Ciuldești,46.3963,23.1066
+67,1,ALBA,MUNICIPIUL AIUD,167,9,80,9,109,26,7,12,166,7,78,9,108,19,11,21,Liceul Tehnologic Agricol „Alexandru Borza” Ciumbrud,Str. Vasile Lucaci nr. 42,Ciumbrud,46.3054,23.7617
+234,1,ALBA,CIURULEASA,167,6,32,10,0,13,6,22,166,6,32,12,3,18,9,13,Primăria Comunei Ciuruleasa,,Ciuruleasa,46.2544,23.0333
+196,1,ALBA,ARIEŞENI,62,0,26,0,0,3,1,2,63,0,24,0,0,3,1,5,Școala Primară Cobleș,Nr. 575A,Cobleș,46.5128,22.7207
+334,1,ALBA,OHABA,11,1,9,3,0,1,0,1,11,1,6,5,0,1,0,1,Clădire Administrativă Colibi (fosta Școală Generală),Nr. 9,Colibi,46.1103,23.787
+353,1,ALBA,RÎMETEA,9,3,9,2,125,1,0,3,9,3,10,1,128,1,0,0,Școala Primară Colțești,Nr. 215,Colțești,46.4236,23.5593
+365,1,ALBA,ROŞIA MONTANĂ,32,5,14,7,1,4,4,7,32,5,15,4,1,4,4,9,Școala cu Clasele I-IV - Corna,Nr. 703,Corna,46.2885,23.1238
+185,1,ALBA,ALBAC,8,0,27,2,0,0,0,0,12,0,19,2,0,0,2,4,Școala Primară Costești,,Costești,46.4873,22.9105
+388,1,ALBA,SÎNTIMBRU,73,3,44,7,1,7,2,10,77,2,49,5,1,5,1,7,Grădinița cu Program Normal Coșlariu,Nr. 85,Coșlariu,46.158,23.6881
+224,1,ALBA,CETATEA DE BALTĂ,7,2,55,1,1,2,1,5,6,1,55,1,1,2,1,4,Școala Generală Crăciunelu de Sus,Nr. 21,Craciunelu de Sus,46.1727,24.1811
+240,1,ALBA,CRICĂU,39,2,75,8,1,5,1,9,39,1,74,9,2,7,2,5,Școala Primară Craiva,Nr. 71A,Craiva,46.1685,23.5526
+239,1,ALBA,CRICĂU,149,10,272,25,0,36,6,26,162,11,262,17,0,38,8,25,Biblioteca Comunală,Nr. 318,Cricău,46.1763,23.566
+237,1,ALBA,CRĂCIUNELU DE JOS,126,15,205,20,10,21,3,11,125,13,210,19,12,19,6,14,Primăria Comunei Crăciunelu de Jos,Str. 6 Martie nr. 135,Crăciunelu de Jos,46.1712,23.8375
+238,1,ALBA,CRĂCIUNELU DE JOS,100,13,243,9,5,16,6,22,97,14,249,10,5,12,11,18,Școala Gimnazială - Crăciunelu de Jos,Str. 6 Martie nr. 66,Crăciunelu de Jos,46.1717,23.837
+132,1,ALBA,ORAŞ CUGIR,193,35,113,26,5,23,9,34,201,35,120,25,5,21,12,24,Școala Gimnazială nr. 3 - Cugir,Str. Doinei nr. 3,Cugir,45.8437,23.3608
+133,1,ALBA,ORAŞ CUGIR,286,9,140,30,2,20,7,29,292,12,140,27,3,20,10,22,Școala Gimnazială nr. 3 - Cugir,Str. Doinei nr. 3,Cugir,45.8442,23.3585
+134,1,ALBA,ORAŞ CUGIR,218,43,126,17,4,22,15,38,221,48,122,20,5,22,16,29,Școala Gimnazială nr. 3 - Cugir,Aleea Constructorului nr. 1,Cugir,45.8437,23.3608
+135,1,ALBA,ORAŞ CUGIR,191,38,114,17,2,22,15,31,198,38,112,19,2,20,16,30,Școala Gimnazială nr. 3 - Cugir,Aleea Constructorului nr. 1,Cugir,45.8437,23.3608
+136,1,ALBA,ORAŞ CUGIR,224,0,109,16,4,25,16,67,224,44,104,16,4,29,13,20,Grădinița cu Program Normal nr. 5 - Cugir,Str. Doinei nr. 10,Cugir,45.8441,23.3594
+137,1,ALBA,ORAŞ CUGIR,181,38,93,19,2,21,7,22,188,35,92,22,2,19,7,19,Colegiul Național „David Prodan” Cugir,Str. Victoriei nr. 15,Cugir,45.8426,23.363
+138,1,ALBA,ORAŞ CUGIR,234,26,114,28,2,22,7,24,235,30,110,27,1,27,6,17,Colegiul Național „David Prodan” Cugir,Str. Victoriei nr. 15,Cugir,45.8426,23.363
+139,1,ALBA,ORAŞ CUGIR,252,33,100,17,3,19,7,22,251,33,96,20,4,22,9,18,Școala Gimnazială „Singidava” Cugir,Str. Alexandru Sahia nr. 16,Cugir,45.8404,23.3625
+140,1,ALBA,ORAŞ CUGIR,251,40,173,21,5,38,13,34,263,36,176,21,4,38,10,26,Școala Gimnazială „Singidava” Cugir,Str. Nicolae Bălcescu nr. 6,Cugir,45.8368,23.3628
+141,1,ALBA,ORAŞ CUGIR,157,7,74,16,4,13,1,26,165,5,75,20,3,15,2,11,Școala Gimnazială „Singidava” Cugir,Str. Gheorghe Asachi nr. 15A,Cugir,45.8361,23.3655
+142,1,ALBA,ORAŞ CUGIR,237,45,152,32,4,31,10,34,241,46,155,34,4,28,10,29,Grădinița cu Program Normal „Voinicel” Cugir,Str. Alexandru Sahia nr. 14,Cugir,45.8399,23.3627
+143,1,ALBA,ORAŞ CUGIR,203,28,110,11,5,30,8,30,202,29,114,11,5,26,14,32,Colegiul Tehnic „I.D.Lăzărescu” Cugir,Str. Victoriei nr. 9,Cugir,45.8402,23.3645
+144,1,ALBA,ORAŞ CUGIR,217,29,189,21,3,29,12,44,213,26,182,27,5,37,17,38,Casa de Cultură a Orașului Cugir,Str. Ion Luca Caragiale nr. 3,Cugir,45.8377,23.368
+145,1,ALBA,ORAŞ CUGIR,179,31,150,8,4,25,13,35,188,24,146,14,7,23,20,29,Grădinița cu Program Normal nr. 2 - Cugir,Str. 21 Decembrie 1989 (Str. V. I. Lenin) nr. 17,Cugir,45.8349,23.3716
+146,1,ALBA,ORAŞ CUGIR,223,32,137,18,3,19,11,29,227,27,136,18,3,19,13,28,Școala Gimnazială „Iosif Pervain” Cugir,Nr. 27,Cugir,45.834,23.3709
+147,1,ALBA,ORAŞ CUGIR,206,24,160,26,10,23,11,33,204,24,159,29,9,24,13,30,Școala Gimnazială „Iosif Pervain” Cugir,Nr. 157,Cugir,45.8262,23.3746
+148,1,ALBA,ORAŞ CUGIR,195,12,119,12,4,11,9,26,195,11,123,15,2,12,11,23,Grădinița cu Program Normal nr. 1 - Cugir,Nr. 105,Cugir,45.8148,23.3706
+410,1,ALBA,ŞPRING,24,5,59,5,0,93,5,8,20,4,53,2,0,111,4,5,Școala Gimnazială Cunța,Nr. 32,Cunța,45.9237,23.7214
+242,1,ALBA,CUT,173,6,219,28,1,17,4,36,182,6,223,27,0,15,5,28,Școala Gimnazială „Septimiu Albini”,Nr. 226,Cut,45.9414,23.666
+235,1,ALBA,CÎLNIC,240,5,118,51,0,4,2,20,243,5,135,48,1,10,3,9,Primăria Comunei Cîlnic,Nr. 20,Câlnic,45.8904,23.6596
+123,1,ALBA,ORAŞ CÎMPENI,306,14,137,21,1,27,13,46,354,13,92,15,1,40,16,39,Primăria Orașului Cîmpeni,Str. Avram Iancu nr. 5,Câmpeni,46.3635,23.0509
+124,1,ALBA,ORAŞ CÎMPENI,162,17,149,13,1,14,11,29,201,16,114,12,0,23,9,19,Școala Gimnazială Cîmpeni,Str. Moților nr. 29,Câmpeni,46.3618,23.0467
+125,1,ALBA,ORAŞ CÎMPENI,247,13,110,18,1,22,13,32,258,13,92,15,1,37,13,31,Colegiul Național „Avram Iancu” Cîmpeni,Str. Oituz nr. 6,Câmpeni,46.3624,23.0457
+126,1,ALBA,ORAŞ CÎMPENI,193,17,110,16,0,24,19,44,220,18,89,14,1,24,17,34,Colegiul Național „Avram Iancu” Cîmpeni,Str. Oituz nr. 6,Câmpeni,46.3624,23.0457
+127,1,ALBA,ORAŞ CÎMPENI,232,31,90,11,0,22,14,21,235,29,77,11,1,28,15,27,Școala Gimnazială Cîmpeni,Str. Transilvaniei nr. 4,Câmpeni,46.3618,23.0467
+128,1,ALBA,ORAŞ CÎMPENI,94,9,80,10,0,6,5,11,112,9,58,7,1,16,5,10,Școala Primară Vîrși,Str. Gării nr. 42,Câmpeni,46.3572,23.0715
+150,1,ALBA,ORAŞ CUGIR,12,3,10,1,1,1,0,0,12,2,10,1,1,1,0,1,Școala Primară - Călene,Nr. 13A,Călene,45.8401,23.4192
+171,1,ALBA,ORAŞ TEIUŞ,58,1,29,12,13,6,2,6,55,3,29,10,14,7,0,7,Cămin Cultural Căpud,Nr. 51A,Căpud,46.2055,23.7285
+372,1,ALBA,SĂSCIORI,47,14,81,14,0,13,6,15,45,14,82,14,0,11,4,18,Școala Primară Căpîlna,Nr. 12,Căpâlna,45.8461,23.6023
+288,1,ALBA,JIDVEI,68,1,147,9,2,10,12,18,69,1,144,10,2,8,12,17,Căminul Cultural Căpîlna de Jos,Nr. 29,Căpâlna de Jos,46.2403,24.1091
+260,1,ALBA,GÎRBOVA,53,2,33,3,0,1,0,2,50,3,37,3,1,0,1,2,Primăria Comunei Gîrbova (Clădirea Fostului Cap),Nr. 266,Cărpiniș,45.8318,23.6593
+361,1,ALBA,ROŞIA MONTANĂ,64,5,32,18,1,13,12,37,71,3,31,17,1,16,18,27,Școala cu Clasele I-IV - Gura Roșiei,Nr. 854,Cărpiniș,46.3075,23.0553
+364,1,ALBA,ROŞIA MONTANĂ,130,10,92,4,3,17,8,18,140,11,78,6,2,13,9,17,Locuințe Sociale - Cărpiniș,Nr. 759B,Cărpiniș,46.3163,23.0579
+243,1,ALBA,DAIA ROMÂNĂ,134,13,211,20,1,9,2,7,114,12,227,22,1,14,1,5,Primăria Daia Română,,Daia Română,46.0057,23.6666
+244,1,ALBA,DAIA ROMÂNĂ,166,12,306,13,2,20,4,15,142,10,329,16,1,25,6,9,Primăria Daia Română,Nr. 326,Daia Română,46.0057,23.6666
+236,1,ALBA,CÎLNIC,56,3,109,13,1,3,1,5,57,2,111,10,1,2,1,2,Școala Primară Deal,Nr. 132,Deal,45.8571,23.6197
+283,1,ALBA,ÎNTREGALDE,5,1,13,2,0,1,1,2,4,0,15,2,0,1,1,2,Școala cu Clasele I-IV Dealu Geoagiului,,Dealu Geoagiului,46.2749,23.4291
+320,1,ALBA,MIRĂSLĂU,63,3,68,15,57,11,1,10,62,3,73,11,59,12,3,7,Școala Primară - Decea,Nr. 18,Decea,46.3826,23.7616
+413,1,ALBA,ŞUGAG,32,17,96,17,1,3,5,11,35,16,94,18,2,6,5,7,Clădire Administrativă (fostă Școala Generală Dobra),Nr. 20,Dobra,45.769,23.64
+245,1,ALBA,DOŞTAT,43,2,102,17,0,8,2,5,46,1,97,17,0,12,3,5,Școala Gimnazială Doștat,,Doștat,45.9724,23.8423
+411,1,ALBA,ŞPRING,49,1,48,6,0,91,2,8,41,0,40,6,0,112,3,3,Școala Primară Drașov,Nr. 98,Drașov,45.9403,23.7416
+228,1,ALBA,CIUGUD,134,3,39,4,1,14,2,7,127,1,44,5,1,15,7,11,Grădiniță cu Program Normal Drîmbar,Nr. 87,Drâmbar,46.0746,23.6245
+421,1,ALBA,UNIREA,18,1,21,3,3,1,0,3,17,2,22,2,3,1,0,3,Școala Primară Dumbrava,Nr. 181,Dumbrava,46.4353,23.7713
+391,1,ALBA,SÎNTIMBRU,12,0,13,2,1,2,0,4,9,0,16,3,1,2,0,2,Centru de Zi Persoane Vărstnice,Nr. 97,Dumitra,46.0968,23.6812
+271,1,ALBA,HOREA,38,0,212,3,1,3,2,7,50,1,194,8,1,3,4,6,Școala Primară Trifești,Nr. 125/A,Dârlești,46.5156,22.9246
+379,1,ALBA,SCĂRIŞOARA,9,1,24,1,1,1,2,3,14,0,21,1,1,1,1,2,Școala Primară Fața-Lăzești,Nr. 109,Fața-Lăzești,46.4266,22.8689
+289,1,ALBA,JIDVEI,75,10,180,4,1,3,7,16,78,10,175,4,1,6,7,10,Căminul Cultural Feisa,Nr. 189A,Feisa,46.2266,24.1441
+175,1,ALBA,ORAŞ ZLATNA,122,13,184,15,2,9,3,17,124,12,187,22,3,6,3,8,Școala Gimnazială „Sava Albescu” Sat Feneș,Nr. 78,Feneș,46.1047,23.2921
+426,1,ALBA,VALEA LUNGĂ,5,0,9,1,0,2,0,1,6,0,6,1,0,2,0,1,Casă Particulară Făget,Nr. 54,Făget,46.1528,24.1653
+247,1,ALBA,FĂRĂU,48,2,213,6,1,10,2,13,53,3,219,3,1,8,4,10,Grădinița cu Program Normal Fărău,Nr. 279,Fărău,46.3374,24.0042
+176,1,ALBA,ORAŞ ZLATNA,29,0,39,17,1,7,1,4,29,1,39,21,0,7,1,3,"Școala Primară, Sat Galați",Nr. 2A,Galați,46.0908,23.292
+252,1,ALBA,GALDA DE JOS,173,14,307,145,2,26,11,33,172,15,326,110,2,31,13,33,Căminul Cultural Galda de Jos,Nr. 90,Galda de Jos,46.179,23.6263
+255,1,ALBA,GALDA DE JOS,46,6,31,23,1,7,0,8,48,4,32,23,2,8,2,7,Școala Primară Galda de Sus,Nr. 89,Galda de Sus,46.22,23.5683
+392,1,ALBA,SÎNTIMBRU,64,9,59,5,1,3,4,10,67,9,59,5,1,3,3,8,Căminul Cultural „Eugen Curta” Galtiu,Nr. 135,Galtiu,46.1421,23.6645
+398,1,ALBA,STREMŢ,169,9,70,10,2,11,2,11,166,5,74,7,1,15,3,10,Școala Gimnazială „Vasile Bologa” Geoagiu de Sus,Nr. 276,Geoagiu de Sus,46.2548,23.5903
+343,1,ALBA,PONOR,23,4,84,17,0,0,0,5,24,3,90,13,0,1,3,5,Caminul Cultural Geogel,Nr. 67,Geogel,46.3096,23.3814
+399,1,ALBA,STREMŢ,113,0,38,1,1,0,1,3,116,0,36,2,2,0,0,1,Școala Primară Geomal,Nr. 183,Geomal,46.2608,23.6203
+264,1,ALBA,GÎRDA DE SUS,35,1,95,4,0,14,2,3,37,3,88,7,0,16,1,2,Școala Gimnazială Ghețari,Nr. 228A,Ghețari,46.492,22.8191
+284,1,ALBA,ÎNTREGALDE,4,4,7,1,0,17,0,2,5,2,9,1,0,16,0,2,Școala cu Clasele I-IV Ghioncani,,Ghioncani,46.2435,23.4109
+201,1,ALBA,BERGHIN,44,1,137,9,0,6,2,6,39,1,135,13,0,11,3,5,Școala Primară Ghirbom,Nr. 327,Ghirbom,46.0359,23.7217
+272,1,ALBA,HOREA,11,0,61,0,0,1,0,1,13,3,51,1,0,1,1,1,Școala Primară Giurgiuț,Nr. 267,Giurgiuț,46.519,22.9467
+192,1,ALBA,ALMAŞU MARE,22,0,21,12,1,7,1,4,22,0,21,10,1,7,1,6,Școala Primară Glod,Nr. 72,Glod,46.0597,23.1614
+427,1,ALBA,VALEA LUNGĂ,17,2,21,3,1,28,2,6,15,2,23,1,1,28,4,6,Școala Primară Glogoveț,Nr. 9,Glogoveț,46.1465,24.0065
+432,1,ALBA,VIDRA,40,0,45,20,0,4,2,5,43,1,42,23,0,5,2,3,Școala Primară Goiești,Nr. 251,Goiești,46.377,22.922
+303,1,ALBA,LUNCA MUREŞULUI,81,3,26,10,4,2,8,14,82,3,26,13,3,2,8,12,Școala Primară Gura Arieșului nr. 84,Nr. 84,Gura Arieșului,46.4299,23.956
+68,1,ALBA,MUNICIPIUL AIUD,20,2,35,3,46,29,2,4,21,2,30,4,49,28,1,3,Fosta Școală Generală Gîmbaș,Str. Baba Novac nr. 9,Gâmbaș,46.3477,23.7201
+259,1,ALBA,GÎRBOVA,143,6,195,27,1,35,2,16,139,7,214,24,3,32,3,8,Primăria Comunei Gîrbova,Nr. 452,Gârbova,45.8599,23.7219
+69,1,ALBA,MUNICIPIUL AIUD,45,9,39,11,1,14,1,7,50,9,37,11,1,11,1,5,Școala Primară Gîrbova de Jos,Str. Gheorghe Asachi nr. 24,Gârbova de Jos,46.2546,23.6754
+70,1,ALBA,MUNICIPIUL AIUD,67,1,19,8,3,7,3,10,62,1,24,10,3,6,4,8,Fosta Școală Generală Gîrbova de Sus,Str. Gruișoarei nr. 2,Gârbova de Sus,46.2926,23.6227
+71,1,ALBA,MUNICIPIUL AIUD,14,1,11,7,1,3,2,5,17,0,9,5,1,3,2,7,Fosta Școală Generală Gîrbovița,Nr. 66,Gârbovița,46.2814,23.6401
+262,1,ALBA,GÎRDA DE SUS,142,8,147,17,0,30,11,22,154,4,128,23,2,38,13,21,Școala Gimnazială „Emil Racoviță” Gîrda de Sus,Nr. 50A,Gârda de Sus,46.4561,22.8292
+207,1,ALBA,BISTRA,81,0,67,77,1,6,7,16,86,0,68,51,2,5,6,35,Școala Gimnazială Gîrde I - Comuna Bistra,Nr. 40 - B,Gârde,46.3821,23.1391
+327,1,ALBA,NOŞLAC,14,1,29,16,2,9,2,5,15,1,27,14,2,14,1,4,Școala Generală Găbud,Nr. 4,Găbud,46.4125,24.0136
+199,1,ALBA,BERGHIN,40,3,49,7,0,1,3,5,42,3,50,5,0,1,4,6,Cămin Cultural Henig,Nr. 167A,Henig,46.1057,23.7271
+248,1,ALBA,FĂRĂU,20,1,52,1,4,1,0,2,20,0,50,2,3,3,1,2,Grădinița cu Program Normal Heria,Nr. 17,Heria,46.3644,23.9788
+265,1,ALBA,HOPÎRTA,13,1,45,9,1,4,1,8,15,0,50,8,1,3,1,5,Cămin Cultural Hopîrta,Nr. 159,Hopârta,46.3207,23.8721
+270,1,ALBA,HOREA,68,3,272,6,1,1,1,12,103,2,238,13,2,4,4,9,Școala Gimnazială Horea,Nr. 23,Horea,46.4996,22.9506
+305,1,ALBA,LUPŞA,70,3,36,9,0,10,2,9,68,2,30,12,0,11,2,13,Școala Primară Hădărău,,Hădărău,46.3625,23.1973
+229,1,ALBA,CIUGUD,175,16,67,14,0,3,0,10,169,12,76,12,2,4,4,9,Clădire Administrativă (fosta Școală cu Clasele I-VIII Hăpria),Nr. 201,Hăpria,46.082,23.67
+386,1,ALBA,SÎNCEL,13,0,35,17,1,9,2,6,14,0,37,18,1,9,2,3,Școala Primară Iclod,Nr. 86,Iclod,46.2106,23.9371
+278,1,ALBA,IGHIU,86,9,113,10,0,8,3,12,85,10,111,13,0,7,5,10,Școala Gimnazială Ighiel,Nr. 50,Ighiel,46.1466,23.4788
+276,1,ALBA,IGHIU,143,16,244,32,2,10,3,14,143,15,247,29,3,9,6,14,Primăria Comunei Ighiu,Nr. 56,Ighiu,46.1451,23.5158
+422,1,ALBA,UNIREA,29,3,15,1,1,2,3,9,27,4,16,2,1,2,3,9,Școala Primară Inoc,Nr. 80,Inoc,46.3843,23.7865
+438,1,ALBA,VINŢU DE JOS,9,1,29,2,1,1,1,3,10,1,28,2,1,2,0,1,Casa Parohială Inuri,Nr. 16,Inuri,46.0437,23.4529
+293,1,ALBA,LIVEZILE,13,0,37,3,1,2,2,5,13,0,39,2,1,3,2,4,Școala Primară,Nr. 26B,Izvoarele,46.4007,23.5344
+177,1,ALBA,ORAŞ ZLATNA,77,4,27,10,1,11,2,10,87,3,25,10,1,7,3,8,"Cămin Cultural, Sat Izvorul Ampoiului",Nr. 214A,Izvoru Ampoiului,46.1551,23.1711
+286,1,ALBA,JIDVEI,95,23,253,9,10,9,6,19,95,22,253,11,12,13,7,13,Căminul Cultural Jidvei,Str. Perilor nr. 17,Jidvei,46.2211,24.1097
+107,1,ALBA,MUNICIPIUL SEBEŞ,160,33,255,25,1,18,31,48,162,28,272,22,2,24,22,32,Școala Gimnazială Lancrăm,Str. Veche nr. 121,Lancrăm,45.9874,23.5572
+374,1,ALBA,SĂSCIORI,27,8,65,7,2,24,3,14,29,7,68,7,1,25,4,10,Școala Primară Laz,Nr. 49,Laz,45.8681,23.5791
+396,1,ALBA,SOHODOL,38,0,37,4,0,3,1,2,38,0,33,4,0,3,4,5,Școala Hidroconstrucția Sa Sebeș Punct de Lucru Sat Lazuri,,Lazuri,46.3678,23.0259
+350,1,ALBA,RĂDEŞTI,25,0,51,1,58,2,1,1,26,0,50,2,57,2,1,1,Școala Primară Leorinț,Nr. 25,Leorinț,46.254,23.7268
+230,1,ALBA,CIUGUD,116,10,23,19,0,6,0,22,124,12,29,20,0,6,2,6,Centru de Zi Pentru Bătrâni (fosta Școala cu Clasele I-IV Limba),Nr. 46,Limba,46.0396,23.5951
+291,1,ALBA,LIVEZILE,87,2,226,5,4,29,6,10,89,2,228,6,4,25,5,11,Cămin Cultural,Nr. 59,Livezile,46.3485,23.6355
+428,1,ALBA,VALEA LUNGĂ,21,0,50,1,2,13,0,3,20,2,50,1,1,14,0,4,Școala Primară Lodroman,Nr. 56,Lodroman,46.1151,24.072
+376,1,ALBA,SĂSCIORI,57,2,154,2,0,5,7,14,55,1,162,3,0,6,5,9,Școala Gimnazială Loman,Nr. 44,Loman,45.8568,23.5516
+295,1,ALBA,LOPADEA NOUĂ,7,0,41,1,313,2,1,4,6,0,40,1,314,2,1,1,Primăria Lopadea Nouă,Nr. 282,Lopadea Nouă,46.291,23.8226
+321,1,ALBA,MIRĂSLĂU,34,7,66,3,2,5,3,7,34,6,65,3,2,7,1,6,Școala Primară - Lopadea Veche,Nr. 207,Lopadea Veche,46.3774,23.6623
+345,1,ALBA,POŞAGA,10,2,27,1,2,4,1,2,9,2,26,1,2,4,1,3,Școala cu Clasele I-IV - Lunca,Nr. 52B,Lunca,46.4389,23.4571
+429,1,ALBA,VALEA LUNGĂ,33,2,69,6,1,22,1,3,35,2,66,6,1,26,1,3,Școala Primară Lunca,Nr. 190,Lunca,46.103,24.0514
+308,1,ALBA,METEŞ,54,1,47,15,1,2,2,4,58,0,33,31,1,1,1,1,Școala cu Clasele I-IV,Nr. 45,Lunca Ampoiței,46.1388,23.3724
+330,1,ALBA,OCOLIŞ,6,1,22,2,1,1,1,6,6,2,20,3,0,1,1,5,Tabăra de Creație și Odihnă „Avram Iancu”,Nr. 45C,Lunca Largă,46.523,23.4262
+301,1,ALBA,LUNCA MUREŞULUI,54,7,54,32,33,16,2,8,54,7,52,37,34,15,3,6,Școala Gimnazială „Simion Lazăr” Lunca Mureșului nr. 241a,Nr. 241A,Lunca Mureșului,46.4272,23.9062
+302,1,ALBA,LUNCA MUREŞULUI,54,10,50,18,141,25,2,6,56,13,52,16,139,24,2,8,Școala Gimnazială „Simion Lazăr” Lunca Mureșului nr. 241a,Nr. 241 A,Lunca Mureșului,46.4272,23.9062
+404,1,ALBA,ŞONA,31,2,118,3,2,6,5,11,31,3,113,5,2,8,4,8,Clădire Administrativă (fosta Școală cu Clasele I-IV Lunca Tîrnavei),Nr. 40,Lunca Târnavei,46.2183,23.9849
+220,1,ALBA,CERGĂU,22,1,77,1,0,6,0,2,22,1,80,1,0,5,0,1,Clădire Administrativă (fosta Grădiniță Lupu),Nr. 124,Lupu,46.0993,23.9702
+304,1,ALBA,LUPŞA,146,4,84,28,1,47,8,34,135,6,74,38,1,45,7,44,Căminul Cultural Lupșa,Nr. 8,Lupșa,46.3679,23.2065
+384,1,ALBA,SCĂRIŞOARA,16,0,27,1,2,2,5,7,21,0,25,1,3,1,2,4,Școala Gimnazială Lăzești,Nr. 662,Lăzești,46.421,22.9094
+250,1,ALBA,FĂRĂU,2,4,18,2,40,0,0,2,6,4,21,3,32,0,0,1,Școala Primară Medveș,Nr. 15,Medveș,46.307,24.0628
+439,1,ALBA,VINŢU DE JOS,28,1,28,4,1,5,1,5,30,1,29,4,1,4,1,2,Cămin Cultural Mereteu,Nr. 23,Mereteu,45.998,23.4349
+256,1,ALBA,GALDA DE JOS,19,1,37,11,1,4,3,6,22,2,37,10,1,3,4,5,Sala de Festivități Mesentea,Nr. 62 A,Mesentea,46.1937,23.6018
+310,1,ALBA,METEŞ,61,5,55,32,3,11,5,9,56,5,52,53,2,7,4,6,Școala Gimnazială Meteș,Nr. 51,Meteș,46.0972,23.4226
+351,1,ALBA,RĂDEŞTI,33,1,95,2,2,3,1,6,32,0,100,3,2,0,1,6,Școala Primară Meșcreac,Nr. 125,Meșcreac,46.241,23.7379
+46,1,ALBA,MUNICIPIUL ALBA IULIA,120,33,140,15,2,18,8,34,135,36,130,17,2,23,10,20,Școala Gimnazială Micești - Sala de Sport,Str. Scărișoara nr. 17,Micești,46.1037,23.55
+47,1,ALBA,MUNICIPIUL ALBA IULIA,180,68,187,18,5,24,9,30,193,67,180,22,5,16,13,31,Școala Gimnazială Micești,Str. Scărișoara nr. 17,Micești,46.1037,23.55
+163,1,ALBA,ORAŞ OCNA MUREŞ,40,0,23,3,2,6,3,6,39,0,28,3,2,6,2,4,Grădinița cu Program Normal Micoșlaca,Nr. 122,Micoșlaca,46.3706,23.7949
+314,1,ALBA,MIHALŢ,194,3,146,18,1,9,2,15,220,4,131,17,1,6,3,8,Școala Gimnazială „Ion Breazu” Mihalț,Nr. 341,Mihalț,46.1598,23.7235
+315,1,ALBA,MIHALŢ,146,8,107,47,2,13,2,10,167,6,98,44,2,7,3,9,Școala Gimnazială „Ion Breazu” Mihalț,Nr. 341,Mihalț,46.1598,23.7235
+130,1,ALBA,ORAŞ CÎMPENI,56,2,38,9,0,5,3,9,77,1,23,5,0,4,3,11,Școala Primară Mihoești,,Mihoești,46.3715,23.0225
+318,1,ALBA,MIRĂSLĂU,83,6,81,5,80,20,1,7,91,3,83,4,79,15,3,6,Grădinița cu Program Normal - Mirăslău,Nr. 29,Mirăslău,46.361,23.7059
+323,1,ALBA,MOGOŞ,48,4,119,51,0,7,4,12,41,3,125,51,0,8,9,13,Consiliul Local al Comunei Mogoș,Nr. 3A,Mogoș,46.2748,23.2793
+151,1,ALBA,ORAŞ CUGIR,4,0,21,1,1,3,0,0,5,0,21,1,1,2,0,0,Școala Primară - Mugești,Nr. 23,Mugești,45.8183,23.45
+121,1,ALBA,ORAŞ BAIA DE ARIEŞ,59,1,36,3,1,20,1,5,68,3,32,3,1,10,2,9,Căminul Cultural Muncelu,Nr. 37,Muncelu,46.3786,23.2457
+307,1,ALBA,LUPŞA,210,13,103,13,1,40,6,14,209,15,94,14,3,46,4,12,Sediul Fostei Primării Mușca,Nr. 27,Mușca,46.357,23.1728
+72,1,ALBA,MUNICIPIUL AIUD,81,1,67,6,2,17,5,16,84,1,65,9,3,16,6,12,Grădinița cu Program Normal Măgina,Str. Pandurilor nr. 50,Măgina,46.3407,23.6504
+423,1,ALBA,UNIREA,9,1,17,6,2,3,0,3,8,2,20,5,1,4,0,0,Școala Primară Măhăceni,Nr. 104,Măhăceni,46.4487,23.7477
+89,1,ALBA,MUNICIPIUL BLAJ,64,13,176,12,2,9,10,16,62,12,180,11,2,11,9,12,Școala Gimnazială „Axente Sever” Mănărade,Nr. 177,Mănărade,46.1402,23.9713
+369,1,ALBA,SĂLIŞTEA,6,0,18,1,1,2,2,2,6,0,20,1,1,2,0,1,Școala Primară Mărgineni,Nr. 14,Mărgineni,45.8281,23.4617
+414,1,ALBA,ŞUGAG,46,36,110,15,0,5,0,1,47,28,110,14,2,7,3,5,Școala Primară Mărtinie,Str. Obrejii nr. 32,Mărtinie,45.7934,23.6096
+273,1,ALBA,HOREA,25,1,202,1,1,12,2,6,44,2,171,5,0,15,5,12,Cămin Cultural Mătișești,Nr. 342,Mătișești,46.5054,22.9125
+285,1,ALBA,ÎNTREGALDE,14,1,27,3,0,6,0,2,13,1,25,6,0,6,0,1,Căminul Cultural Necrilești,,Necrilești,46.2097,23.3647
+380,1,ALBA,SCĂRIŞOARA,33,0,27,2,1,1,3,4,35,0,22,3,1,1,1,3,Școala Primară Negești,Nr. 561,Negești,46.4864,22.8569
+326,1,ALBA,NOŞLAC,55,4,63,14,37,26,5,10,55,1,67,11,36,26,4,11,Primăria Noslac,Nr. 78,Noșlac,46.4052,23.9333
+48,1,ALBA,MUNICIPIUL ALBA IULIA,134,34,211,45,2,13,7,41,148,42,207,44,4,15,8,22,Căminul Cultural Oarda de Jos,Str. Biruinței nr. 14,Oarda,46.0356,23.5628
+49,1,ALBA,MUNICIPIUL ALBA IULIA,59,11,106,20,1,15,3,10,67,10,113,16,0,12,1,4,Grădinița cu Program Normal Oarda de Sus,Str. Victoriei nr. 87,Oarda,46.0222,23.5889
+317,1,ALBA,MIHALŢ,149,6,91,13,1,5,4,8,173,6,77,9,2,3,1,6,Școala Primară Obreja,Nr. 169,Obreja,46.1741,23.7583
+154,1,ALBA,ORAŞ OCNA MUREŞ,162,8,129,10,36,14,6,18,162,9,131,10,34,16,6,16,Grădinița cu Program Normal nr. 5,,Ocna Mureș,46.3904,23.8655
+155,1,ALBA,ORAŞ OCNA MUREŞ,181,19,136,12,20,16,6,20,177,18,141,11,21,19,5,17,Școala Gimnazială „Lucian Blaga”,Str. Brazilor nr. 2,Ocna Mureș,46.3817,23.8609
+156,1,ALBA,ORAŞ OCNA MUREŞ,129,20,152,11,19,25,11,36,131,16,156,13,20,25,15,31,Casa de Cultură „Ion Sângereanu”,Nr. 34,Ocna Mureș,46.3818,23.8584
+157,1,ALBA,ORAŞ OCNA MUREŞ,138,16,89,9,25,19,5,20,136,14,90,13,25,21,5,21,Direcția Sanitar-Veterinară și Pentru Siguranța Alimentelor Ocna Mureș,Nr. 56,Ocna Mureș,46.3838,23.851
+158,1,ALBA,ORAŞ OCNA MUREŞ,169,13,120,6,37,15,6,17,167,15,117,4,35,19,11,19,Liceul Teoretic „Petru Maior”,Str. Vadului nr. 1,Ocna Mureș,46.3891,23.8468
+159,1,ALBA,ORAŞ OCNA MUREŞ,155,33,149,19,30,13,11,31,158,38,152,15,34,11,12,25,Grădinița cu Program Normal nr. 3,Str. Mălinului,Ocna Mureș,46.3904,23.8655
+329,1,ALBA,OCOLIŞ,38,9,51,2,1,7,1,7,37,10,50,4,0,9,3,6,Internat Școlar - Ocoliș,Nr. 119A,Ocoliș,46.4796,23.4639
+300,1,ALBA,LOPADEA NOUĂ,7,1,19,1,1,2,1,2,5,0,20,1,1,2,1,4,Clădire Anexă Primăria Lopadea Nouă,Nr. 45,Odverem,46.2589,23.8364
+333,1,ALBA,OHABA,76,1,87,12,0,9,8,12,81,1,81,10,0,9,10,15,Consiliul Local Ohaba,Nr. 188,Ohaba,46.0702,23.7827
+257,1,ALBA,GALDA DE JOS,45,5,58,28,57,6,1,12,39,5,62,28,57,7,1,9,Căminul Cultural Oiejdea,Nr. 291,Oiejdea,46.155,23.6284
+322,1,ALBA,MIRĂSLĂU,12,1,12,4,5,2,2,3,13,1,10,4,6,1,3,4,Școala Primară - Ormeniș,Nr. 54,Ormeniș,46.3966,23.7166
+346,1,ALBA,POŞAGA,14,0,34,6,0,1,1,3,14,0,33,6,1,2,2,2,Școala cu Clasele I-IV - Orăști,Nr. 424,Orăști,46.4498,23.337
+393,1,ALBA,SOHODOL,40,5,41,6,1,3,2,10,45,4,38,7,1,2,3,9,Școala Primară Peleș,Nr. 2,Peleș,46.335,22.9819
+108,1,ALBA,MUNICIPIUL SEBEŞ,133,30,211,24,0,26,34,52,146,27,214,20,0,32,29,40,Școala Gimnazială Petrești,Str. Mihai Viteazu nr. 3,Petrești,45.9209,23.5639
+109,1,ALBA,MUNICIPIUL SEBEŞ,134,22,136,14,2,5,18,29,140,21,132,14,0,9,15,27,Școala Gimnazială Petrești,Str. Mihai Viteazu nr. 3,Petrești,45.9209,23.5639
+110,1,ALBA,MUNICIPIUL SEBEŞ,117,41,161,25,1,17,21,42,127,40,169,27,2,19,18,25,Școala Gimnazială Petrești,Str. Mihai Viteazu nr. 3,Petrești,45.9209,23.5639
+90,1,ALBA,MUNICIPIUL BLAJ,14,1,88,3,90,3,3,6,13,2,92,1,89,2,4,6,Școala Primară Petrisat,Nr. 24,Petrisat,46.1924,23.917
+170,1,ALBA,ORAŞ TEIUŞ,49,2,10,1,1,1,0,2,50,0,12,1,1,1,0,2,Școala Primară Pețelca,Nr. 64,Pețelca,46.2254,23.7337
+337,1,ALBA,PIANU,98,8,166,31,2,37,10,20,96,11,171,25,1,39,8,16,Școala Gimnazială „Augustin Bena” Pianu de Jos,Nr. 165A,Pianu de Jos,45.935,23.4865
+336,1,ALBA,PIANU,149,17,204,88,1,63,9,15,134,17,211,72,1,81,7,21,Școala Gimnazială Pianu de Sus,Nr. 172,Pianu de Sus,45.8952,23.4825
+179,1,ALBA,ORAŞ ZLATNA,43,0,53,10,1,18,1,7,46,0,52,8,0,15,3,8,"Școala Primară, Sat Pirita",Nr. 42,Pirita,46.1332,23.1856
+338,1,ALBA,PIANU,8,1,7,1,1,3,1,4,8,1,9,1,0,4,1,2,Clădire Administrativă (fosta Școală Generală cu Clasele I-IV) Plaiuri,Nr. 11,Plaiuri,45.8369,23.5104
+394,1,ALBA,SOHODOL,21,2,23,1,0,1,1,1,17,2,23,1,0,2,1,3,Școala Primară Poiana,Nr. 3,Poiana,46.3003,22.991
+292,1,ALBA,LIVEZILE,45,4,67,3,1,2,2,6,47,4,64,4,1,4,4,6,Cămin Cultural,Nr. 150,Poiana Aiudului,46.3657,23.6036
+313,1,ALBA,METEŞ,39,0,25,31,0,12,0,2,23,0,22,52,0,7,0,4,Căminul Cultural Poiana Ampoiului,Nr. 52,Poiana Ampoiului,46.0881,23.3924
+258,1,ALBA,GALDA DE JOS,17,3,13,12,1,0,3,5,17,4,13,12,1,0,3,4,Clădire Administrativă (fostă Școala Generală Poiana Galdei),Nr. 27,Poiana Galdei,46.2415,23.5304
+341,1,ALBA,POIANA VADULUI,148,5,69,14,0,13,4,14,167,4,56,12,0,18,3,8,Căminul Cultural Sat Poiana Vadului,Nr. 27 B,Poiana Vadului,46.3962,22.8812
+216,1,ALBA,BUCIUM,79,1,19,2,0,22,2,7,78,0,18,2,0,21,3,11,Școala Primară Poieni,Nr. 601B,Poieni,46.2504,23.1994
+342,1,ALBA,PONOR,125,2,126,3,0,5,0,5,109,2,127,4,0,19,1,7,Primăria Comunei Ponor,Nr. 84,Ponor,46.337,23.3957
+433,1,ALBA,VIDRA,115,3,64,50,0,45,3,9,115,2,55,55,1,47,3,12,Fostul Sediu al Primăriei Ponorel,Nr. 699A,Ponorel,46.3683,22.968
+186,1,ALBA,ALBAC,6,2,18,1,0,0,1,3,8,2,17,0,0,1,1,2,Școala Primară Potionci,,Potionci,46.4419,22.928
+344,1,ALBA,POŞAGA,35,11,74,45,1,4,6,15,37,11,72,48,1,3,8,15,Căminul Cultural,Nr. 254,Poșaga de Jos,46.4306,23.4378
+347,1,ALBA,POŞAGA,17,1,20,10,1,1,2,5,17,1,19,11,1,2,3,4,Școala Primară - Poșaga de Sus,Nr. 350,Poșaga de Sus,46.4607,23.365
+275,1,ALBA,HOREA,10,1,40,0,0,1,0,1,10,3,35,0,0,2,2,4,Școala Primară Preluca,Nr. 513/A,Preluca,46.508,22.9672
+309,1,ALBA,METEŞ,69,1,55,38,0,15,0,4,57,1,49,62,0,9,1,3,Școala Primară Presaca Ampoiului,Nr. 32,Presaca Ampoiului,46.1003,23.3317
+339,1,ALBA,PIANU,23,2,27,3,0,3,1,4,22,3,29,3,0,2,3,5,Școala Primară „Gheorghe Pavelescu” Purcăreți,Nr. 36,Purcăreți,45.8298,23.4885
+50,1,ALBA,MUNICIPIUL ALBA IULIA,106,9,99,14,2,18,7,20,119,7,97,11,1,17,8,14,Școala Primară Pâclișa,Str. Carpenului nr. 133,Pâclișa,46.0463,23.5234
+73,1,ALBA,MUNICIPIUL AIUD,19,0,10,1,1,6,2,4,19,0,10,1,1,7,2,3,Căminul Cultural Păgida,Str. Dealului nr. 12,Păgida,46.3403,23.7415
+387,1,ALBA,SÎNCEL,70,3,75,17,2,56,5,12,68,3,75,20,1,62,5,11,Școala Primară Pănade,Nr. 291,Pănade,46.2239,23.9586
+274,1,ALBA,HOREA,13,0,73,1,1,2,1,5,17,0,68,1,1,3,1,5,Școala Primară Pătrușești,Nr. 569,Pătrușești,46.5202,22.969
+178,1,ALBA,ORAŞ ZLATNA,82,1,47,9,1,35,3,12,72,4,38,22,1,40,4,9,"Școala Primară, Sat Pătrângeni",Nr. 144,Pătrângeni,46.0901,23.262
+261,1,ALBA,GÎRBOVA,26,2,57,6,0,5,2,3,23,2,59,5,0,5,2,3,Primăria Comunei Gîrbova (Clădirea Fostului Cap),Nr. 27,Reciu,45.8666,23.6742
+187,1,ALBA,ALBAC,35,0,41,4,1,4,6,12,41,0,34,4,2,5,8,10,Școala Primară Rogoz,,Rogoz,46.4301,22.9603
+363,1,ALBA,ROŞIA MONTANĂ,107,33,45,36,3,10,11,22,103,42,41,35,3,9,12,20,Primăria Comunei Roșia Montană,Nr. 184,Roșia Montană,46.3032,23.1148
+359,1,ALBA,ROŞIA DE SECAŞ,111,1,47,45,0,8,5,16,103,1,53,45,1,21,6,10,Primăria Roșia de Secaș,Nr. 458,Roșia de Secaș,46.0566,23.8869
+331,1,ALBA,OCOLIŞ,8,1,49,2,0,2,0,5,10,2,46,2,0,2,1,5,Școala Primară - Runc,Nr. 22,Runc,46.5006,23.4516
+381,1,ALBA,SCĂRIŞOARA,18,0,41,4,1,1,1,2,21,0,38,3,1,1,0,2,Școala Primară Runc,Nr. 337,Runc,46.4824,22.8824
+352,1,ALBA,RÎMETEA,30,8,11,2,126,8,1,4,25,7,13,2,129,5,0,4,Căminul Cultural Rimetea,Nr. 286,Râmetea,46.4525,23.5674
+354,1,ALBA,RÎMEŢ,53,0,9,1,1,5,0,0,55,0,9,1,1,6,0,0,Primăria Comunei Rîmeț,Nr. 1,Râmeț,46.3163,23.5244
+377,1,ALBA,SĂSCIORI,53,12,192,7,0,9,3,40,51,13,197,5,0,12,2,28,Școala Gimnazială Răchita,Nr. 28,Răchita,45.8753,23.5155
+210,1,ALBA,BLANDIANA,2,0,14,0,0,1,1,2,2,0,13,1,0,1,1,2,Școala cu Clasele I-IV Răcătău,Nr. 11,Răcătău,46.0308,23.3244
+349,1,ALBA,RĂDEŞTI,84,8,135,4,15,21,5,12,92,6,142,3,17,12,5,8,Cămin Cultural Rădești,Nr. 62,Rădești,46.273,23.7225
+111,1,ALBA,MUNICIPIUL SEBEŞ,79,11,144,16,0,8,1,10,82,12,138,16,0,11,1,7,Școala Gimnazială Răhău,Nr. 65,Răhău,45.9049,23.6231
+164,1,ALBA,ORAŞ OCNA MUREŞ,145,21,76,41,11,6,6,21,136,22,81,40,13,11,10,19,Căminul Cultural Războieni-Cetate,Nr. 142,Războieni-Cetate,46.4122,23.8695
+348,1,ALBA,POŞAGA,18,0,33,5,2,10,2,7,19,1,32,5,1,11,3,4,Școala Primară - Sagagea,Nr. 542,Sagagea,46.4866,23.3131
+122,1,ALBA,ORAŞ BAIA DE ARIEŞ,54,5,32,4,1,16,3,9,54,5,34,4,2,14,2,7,Căminul Cultural Sartăș,Nr. 64,Sartăș,46.393,23.2999
+378,1,ALBA,SCĂRIŞOARA,71,3,106,9,1,9,9,16,91,5,89,6,1,13,4,7,Căminul Cultural Scărișoara,Nr. 202,Scărișoara,46.4572,22.8771
+92,1,ALBA,MUNICIPIUL SEBEŞ,209,75,232,27,2,37,46,73,215,69,251,21,5,47,33,50,Serviciul Public de Administrare a Patrimoniului Sebeș,Str. Viilor nr. 28,Sebeș,45.953,23.5849
+93,1,ALBA,MUNICIPIUL SEBEŞ,99,6,94,9,1,8,4,14,104,5,100,9,2,6,3,8,Liceul Tehnologic Sebeș,Str. Viilor nr. 2,Sebeș,45.9544,23.5804
+94,1,ALBA,MUNICIPIUL SEBEŞ,174,126,210,33,0,29,63,82,185,128,230,30,0,38,36,46,Liceul Tehnologic Sebeș,Str. Dorin Pavel (Str. Poștei) nr. 2,Sebeș,45.9574,23.5651
+95,1,ALBA,MUNICIPIUL SEBEŞ,191,26,128,18,1,17,43,63,197,28,137,17,1,21,33,43,Liceul Tehnologic Sebeș,Str. Ștefan cel Mare nr. 1,Sebeș,45.9544,23.5804
+96,1,ALBA,MUNICIPIUL SEBEŞ,93,44,124,22,1,11,24,33,94,43,132,21,1,11,17,23,Liceul Tehnologic Sebeș,Str. Ștefan cel Mare nr. 1,Sebeș,45.9593,23.5612
+97,1,ALBA,MUNICIPIUL SEBEŞ,178,62,161,21,2,26,65,84,184,62,192,27,3,23,42,50,Liceul cu Program Sportiv Sebeș,Bulevardul Lucian Blaga (Bulevardul Mihai Viteazu) nr. 76,Sebeș,45.9565,23.5728
+98,1,ALBA,MUNICIPIUL SEBEŞ,183,100,182,26,4,28,62,95,203,88,202,21,6,27,51,70,Liceul cu Program Sportiv Sebeș,Bulevardul Lucian Blaga (Bulevardul Mihai Viteazu) nr. 76,Sebeș,45.9565,23.5728
+99,1,ALBA,MUNICIPIUL SEBEŞ,165,76,149,24,1,24,45,72,167,66,168,27,2,23,38,55,Liceul cu Program Sportiv Sebeș,Bulevardul Lucian Blaga (Bulevardul Mihai Viteazu) nr. 76,Sebeș,45.9565,23.5728
+100,1,ALBA,MUNICIPIUL SEBEŞ,166,74,233,33,7,42,50,82,179,72,245,29,7,44,41,60,Școala Gimnazială nr. 2 Sebeș,Piața Libertății nr. 1,Sebeș,45.9579,23.5671
+101,1,ALBA,MUNICIPIUL SEBEŞ,141,68,196,25,0,25,48,56,148,59,211,28,1,24,29,40,Colegiul Național „Lucian Blaga” Sebeș,Str. Călugăreni nr. 49,Sebeș,45.9524,23.5698
+102,1,ALBA,MUNICIPIUL SEBEŞ,121,60,208,29,0,21,35,53,122,58,213,33,0,28,21,36,Colegiul Național „Lucian Blaga” Sebeș,Str. Călugăreni nr. 49,Sebeș,45.9524,23.5698
+103,1,ALBA,MUNICIPIUL SEBEŞ,149,35,124,17,1,13,40,52,148,29,140,16,1,17,32,40,Școala Gimnazială „Mihail Kogălniceanu” Sebeș,Str. Mihail Kogălniceanu nr. 114,Sebeș,45.9668,23.56
+104,1,ALBA,MUNICIPIUL SEBEŞ,146,30,99,11,0,12,25,45,157,25,109,9,1,15,16,29,Școala Gimnazială „Mihail Kogălniceanu” Sebeș,Str. Mihail Kogălniceanu nr. 114,Sebeș,45.9668,23.56
+105,1,ALBA,MUNICIPIUL SEBEŞ,136,22,105,9,2,10,30,49,138,17,111,9,2,16,23,37,Școala Gimnazială „Mihail Kogălniceanu” Sebeș,Str. Mihail Kogălniceanu nr. 114,Sebeș,45.9668,23.56
+106,1,ALBA,MUNICIPIUL SEBEŞ,146,26,91,11,2,21,26,38,145,25,95,10,3,23,22,31,Școala Gimnazială „Mihail Kogălniceanu” Sebeș,Str. Mihail Kogălniceanu nr. 114,Sebeș,45.9668,23.56
+375,1,ALBA,SĂSCIORI,67,34,130,15,0,5,10,20,69,34,135,14,0,7,10,12,Școala Primară Sebeșel,Nr. 263,Sebeșel,45.8878,23.5642
+335,1,ALBA,OHABA,27,0,34,3,0,4,3,8,27,0,34,3,1,4,6,7,Fostul Sediu C.A.P.,Nr. 123,Secășel,46.0954,23.8099
+382,1,ALBA,SCĂRIŞOARA,13,0,10,1,0,1,7,9,20,0,10,1,0,1,2,2,Școala Primară Sfoartea,Nr. 637,Sfoartea,46.5239,22.8468
+266,1,ALBA,HOPÎRTA,17,0,97,2,1,2,1,3,17,0,94,2,1,2,1,6,Cămin Cultural Silivaș,Nr. 102,Silivaș,46.34,23.876
+395,1,ALBA,SOHODOL,133,9,110,11,0,13,4,21,135,8,99,13,0,19,8,24,Căminul Cultural Sohodol,,Sohodol,46.3375,23.01
+202,1,ALBA,BERGHIN,41,3,75,0,1,6,5,7,35,2,72,3,1,7,5,8,Clădire Administrativă (fostă Școală Generală) Straja,Nr. 155,Straja,46.0682,23.6825
+397,1,ALBA,STREMŢ,370,15,176,13,2,19,5,15,371,14,176,13,4,19,5,13,Școala Gimnazială Stremț,Nr. 97,Stremț,46.2219,23.6399
+340,1,ALBA,PIANU,68,0,33,12,1,9,3,5,67,1,34,11,1,9,3,5,Școala Gimnazială Strungari,Nr. 22,Strungari,45.8572,23.5021
+328,1,ALBA,NOŞLAC,30,2,20,7,35,13,1,7,29,3,20,7,36,12,2,6,Școala Generală Stîna de Mureș,Nr. 1,Stâna de Mureș,46.4231,23.9901
+249,1,ALBA,FĂRĂU,7,2,87,1,6,1,0,2,9,2,90,1,6,1,0,2,Școala Primară Sînbenedic,Nr. 13,Sânbenedic,46.313,24.0454
+385,1,ALBA,SÎNCEL,131,11,264,51,2,58,58,69,144,15,259,44,1,58,53,65,Cămin Cultural Sîncel,Nr. 49,Sâncel,46.2002,23.9443
+74,1,ALBA,MUNICIPIUL AIUD,138,2,52,3,46,9,4,10,134,1,55,4,49,9,4,7,Sala de Festivități din Sîncrai,Str. Ciocîrliei nr. 8,Sâncrai,46.2916,23.7515
+408,1,ALBA,ŞONA,38,9,113,7,139,2,2,18,42,10,117,7,141,1,4,8,Școala Gimnazială Sînmiclăuș,Str. Principală nr. 56,Sânmiclăuș,46.2454,24.06
+390,1,ALBA,SÎNTIMBRU,108,8,128,18,1,22,10,16,112,9,127,17,1,18,12,17,Primăria Comunei Sîntimbru,Nr. 187,Sântimbru,46.1355,23.6492
+225,1,ALBA,CETATEA DE BALTĂ,17,2,36,17,31,1,1,5,20,3,35,17,31,1,1,2,Școala Generală Sîntămărie,Nr. 112 A,Sântămărie,46.2413,24.1445
+366,1,ALBA,SĂLCIUA,97,11,78,10,4,32,1,4,105,11,71,12,4,30,1,4,Școala Primară Sălciua de Jos,Nr. 130,Sălciua de Jos,46.3979,23.4203
+367,1,ALBA,SĂLCIUA,57,6,123,12,1,17,6,11,60,6,117,10,1,18,3,13,Școala Gimnazială „Simion Pantea” Sălciua,Nr. 318,Sălciua de Sus,46.3926,23.4005
+368,1,ALBA,SĂLIŞTEA,143,11,379,8,1,18,7,18,145,11,381,8,1,18,8,18,Școala Gimnazială „David Prodan” Săliștea,Nr. 337,Săliștea,45.908,23.3989
+370,1,ALBA,SĂLIŞTEA,16,1,103,2,0,3,0,1,15,1,103,2,2,4,0,3,Școala Primară Săliștea-Deal,Nr. 80,Săliștea-Deal,45.9001,23.4233
+403,1,ALBA,ŞIBOT,15,1,27,4,0,2,2,3,18,2,26,5,0,1,0,0,Clădire Administrativă Sărăcsău (fosta Școală Generală),Nr. 80,Sărăcsău,45.9435,23.3049
+373,1,ALBA,SĂSCIORI,141,43,199,18,0,15,9,22,141,42,203,21,0,16,9,14,Școala Gimnazială Săsciori,Nr. 380,Săsciori,45.8783,23.5739
+165,1,ALBA,ORAŞ TEIUŞ,323,19,156,41,13,10,6,33,321,20,164,37,13,15,5,27,Casa de Cultură Teiuș,Str. Decebal nr. 29,Teiuș,46.2057,23.677
+166,1,ALBA,ORAŞ TEIUŞ,218,18,71,58,4,11,9,25,223,19,76,53,1,17,11,18,Școala Gimnazială Teiuș,Str. Decebal nr. 49,Teiuș,46.205,23.6802
+167,1,ALBA,ORAŞ TEIUŞ,292,41,152,47,20,23,13,47,303,40,153,48,18,21,14,41,Liceul Teoretic Teiuș,Str. Decebal nr. 22,Teiuș,46.2056,23.6762
+168,1,ALBA,ORAŞ TEIUŞ,166,7,92,49,5,4,4,28,167,7,95,48,8,4,3,20,Gara C.F.R. Teiuș,Str. Decebal nr. 148,Teiuș,46.2027,23.6906
+232,1,ALBA,CIUGUD,124,7,32,6,0,2,0,14,125,9,35,5,0,1,1,9,Grădiniță-Teleac,Nr. 7A,Teleac,46.0863,23.6293
+241,1,ALBA,CRICĂU,28,2,127,17,0,6,1,6,28,3,124,19,2,7,1,5,Sala de Întruniri,Nr. 98A,Tibru,46.1946,23.5639
+91,1,ALBA,MUNICIPIUL BLAJ,121,11,301,10,41,17,12,23,121,11,304,14,38,20,10,18,Școala Gimnazială „Simion Bărnuțiu” Tiur,Nr. 213,Tiur,46.1596,23.885
+389,1,ALBA,SÎNTIMBRU,43,6,40,2,1,5,2,28,40,6,50,3,1,6,5,18,Școala Primară Totoi,Nr. 168 A,Totoi,46.1142,23.6564
+180,1,ALBA,ORAŞ ZLATNA,71,1,31,3,1,8,3,6,71,0,25,7,1,7,3,11,"Școala Primară, Sat Trîmpoiele",Nr. 46A,Trâmpoiele,46.1476,23.148
+268,1,ALBA,HOPÎRTA,21,1,56,1,1,9,1,2,22,1,57,0,1,8,2,3,Cămin Cultural Turdaș,Nr. 72,Turdaș,46.3056,23.9167
+198,1,ALBA,AVRAM IANCU,80,1,106,6,0,37,6,19,87,2,111,5,0,35,4,7,Școala Primară I-IV Tîrsa,Nr. 783E,Târsa,46.3795,22.7985
+371,1,ALBA,SĂLIŞTEA,120,11,168,16,1,7,2,10,121,12,167,16,2,7,4,10,Școala Primară Tărtăria,Nr. 34,Tărtăria,45.9336,23.4091
+226,1,ALBA,CETATEA DE BALTĂ,35,1,159,8,1,3,2,4,31,1,164,8,1,3,5,5,Cămin Cultural Tătîrlaua Salanr. 1,Nr. 224,Tătârlaua,46.2035,24.1654
+360,1,ALBA,ROŞIA DE SECAŞ,46,3,28,10,1,11,5,12,47,4,28,10,0,13,5,7,Fostul Sediu Cap,Nr. 357,Tău,46.0722,23.8406
+430,1,ALBA,VALEA LUNGĂ,23,3,76,5,1,15,0,4,22,4,75,3,1,13,2,4,Cămin Cultural Tăuni,Nr. 118,Tăuni,46.1492,24.1302
+312,1,ALBA,METEŞ,79,10,101,23,1,8,2,11,72,7,91,39,3,10,0,9,Școala Primară „Dionisiu Popoviciu” Tăuți,Nr. 143,Tăuți,46.0951,23.4642
+160,1,ALBA,ORAŞ OCNA MUREŞ,108,7,98,3,3,15,15,31,114,8,99,4,3,14,16,26,Școala Primară Uioara de Jos,Nr. 72,Uioara de Jos,46.3727,23.8366
+161,1,ALBA,ORAŞ OCNA MUREŞ,126,8,130,10,20,14,11,29,125,10,130,13,20,16,16,25,Grădinița cu Program Normal nr. 6 Uioara de Sus,Nr. 75,Uioara de Sus,46.392,23.8751
+358,1,ALBA,ROŞIA DE SECAŞ,62,1,22,15,1,21,7,13,47,1,20,14,1,39,7,11,Cămin Cultural,Nr. 217,Ungurei,46.0567,23.887
+416,1,ALBA,UNIREA,75,18,64,8,62,10,8,24,78,20,70,6,59,10,10,20,Școala Gimnazială „Avram Iancu” Unirea,Str. Avram Iancu nr. 76,Unirea,46.4057,23.8111
+417,1,ALBA,UNIREA,55,40,55,16,94,6,1,9,57,40,55,15,93,8,1,7,Școala Gimnazială „Avram Iancu” Unirea,Str. Avram Iancu nr. 76,Unirea,46.4057,23.8111
+418,1,ALBA,UNIREA,159,12,143,13,5,9,3,13,158,11,150,12,5,11,7,10,Școala Gimnazială „Gheorghe Maier” Unirea,Str. Școlii nr. 1142,Unirea,46.401,23.8333
+424,1,ALBA,VADU MOŢILOR,152,8,207,20,1,13,6,15,210,5,124,32,0,17,9,24,Cămin Cultural,Nr. 2,Vadu Moților,46.3941,22.9658
+325,1,ALBA,MOGOŞ,13,1,20,3,0,1,1,3,10,1,22,3,0,1,2,4,Refugiu Turistic Valea Barnii,Nr. 376 D,Valea Barnii,46.2757,23.2795
+131,1,ALBA,ORAŞ CÎMPENI,87,6,28,37,1,4,3,15,98,4,23,25,0,4,3,17,Școala Primară Valea Bistrii,,Valea Bistrii,46.3797,23.0669
+356,1,ALBA,RÎMEŢ,34,1,7,2,1,1,1,5,35,1,4,2,0,5,1,2,Fosta Școală cu Clasele I-IV Valea Inzelului,Nr. 10,Valea Inzelului,46.3315,23.5035
+425,1,ALBA,VALEA LUNGĂ,99,12,261,20,13,194,4,20,103,9,252,17,13,201,4,17,Primăria Valea Lungă,Str. Victoriei nr. 328B,Valea Lungă,46.1241,24.0366
+306,1,ALBA,LUPŞA,125,4,96,38,1,10,1,14,135,4,82,40,1,11,3,19,Școala Primară Valea Lupșii,,Valea Lupșii,46.3783,23.2222
+181,1,ALBA,ORAŞ ZLATNA,52,2,55,29,1,22,3,9,56,2,46,32,1,21,3,8,"Școala Primară, Sat Valea Mică",Nr. 96,Valea Mică,46.0788,23.2774
+357,1,ALBA,RÎMEŢ,65,0,26,1,0,4,0,0,66,0,24,0,0,4,0,1,Fosta Școală cu Clasele I-IV Valea Mănăstirii,Nr. 15,Valea Mănăstirii,46.3016,23.5207
+440,1,ALBA,VINŢU DE JOS,25,2,42,8,1,1,2,7,23,2,44,9,1,2,3,5,Școala Primară Valea Vințului,Nr. 117,Valea Vințului,46.0174,23.4538
+269,1,ALBA,HOPÎRTA,15,2,53,3,1,2,2,6,13,1,50,4,2,2,6,10,Cămin Cultural Vama Seacă,Nr. 27,Vama Seacă,46.3491,23.9361
+290,1,ALBA,JIDVEI,27,3,290,1,7,7,2,16,28,1,303,1,7,5,4,10,Căminul Cultural Veseuș,Nr. 27,Veseuș,46.2726,24.1377
+332,1,ALBA,OCOLIŞ,14,2,21,3,1,1,2,3,16,2,20,4,0,1,2,3,Școala Primară - Vidolm,Nr. 26,Vidolm,46.4801,23.511
+431,1,ALBA,VIDRA,41,1,48,10,2,5,4,5,44,4,35,13,1,4,3,6,Primăria Comunei Vidra,Nr. 1,Vidra,46.369,22.8901
+152,1,ALBA,ORAŞ CUGIR,149,14,195,23,2,9,5,18,154,17,190,22,2,11,5,16,Școala Gimnazială „Ioan Mihu” Vinerea,Str. Principală nr. 178,Vinerea,45.886,23.3512
+153,1,ALBA,ORAŞ CUGIR,185,19,143,9,0,16,3,12,187,16,148,12,2,11,4,10,Școala Gimnazială „Ioan Mihu” Vinerea,Str. Principală nr. 178,Vinerea,45.886,23.3512
+412,1,ALBA,ŞPRING,42,9,78,2,0,105,1,6,41,8,74,4,0,114,1,6,Sediu Administrativ Vingard - Comuna Șpring,Nr. 393,Vingard,46.0145,23.7421
+435,1,ALBA,VINŢU DE JOS,110,30,129,27,2,25,11,29,133,27,123,23,2,20,15,25,Cămin Cultural Vințu de Jos,Str. Lucian Blaga nr. 20,Vințu de Jos,45.9948,23.4859
+436,1,ALBA,VINŢU DE JOS,167,16,132,20,11,32,14,21,165,13,142,17,9,24,11,23,Școala Gimnazială „Iuliu Maniu” Vințu de Jos,Str. Mihai Eminescu nr. 12,Vințu de Jos,45.9938,23.4833
+437,1,ALBA,VINŢU DE JOS,69,11,74,10,2,22,9,16,77,9,78,10,1,12,8,14,Grădinița cu Program Normal Sibișeni,Str. Sibișeni nr. 39,Vințu de Jos,45.9826,23.4856
+434,1,ALBA,VINŢU DE JOS,114,7,97,16,1,15,4,26,125,10,92,16,1,11,6,20,Cămin Cultural Vurpăr,Nr. 112,Vurpăr,45.9993,23.4644
+182,1,ALBA,ORAŞ ZLATNA,35,2,27,4,1,6,2,3,37,2,29,4,1,4,3,3,"Cămin Cultural, Sat Vîltori",Nr. 24A,Vâltori,46.1422,23.2139
+362,1,ALBA,ROŞIA MONTANĂ,26,3,26,2,1,3,4,6,23,5,24,2,2,4,4,7,Școala cu Clasele I-IV - Vîrtop,Nr. 1361,Vârtop,46.3237,23.0894
+294,1,ALBA,LIVEZILE,14,2,44,1,1,2,2,6,15,2,44,2,1,1,2,5,Școala Primară,Nr. 41,Vălișoara,46.3885,23.561
+172,1,ALBA,ORAŞ ZLATNA,214,21,111,31,7,40,14,20,225,27,118,28,6,22,12,15,Școala Gimnazială „Avram Iancu” Zlatna,Nr. 4,Zlatna,46.1115,23.2233
+173,1,ALBA,ORAŞ ZLATNA,154,15,101,27,2,41,4,14,165,13,89,40,2,32,3,11,Școala Gimnazială „Avram Iancu” Zlatna,Nr. 4,Zlatna,46.1115,23.2233
+174,1,ALBA,ORAŞ ZLATNA,161,26,122,39,9,50,12,30,175,25,120,46,7,45,11,22,Liceul Corneliu Medrea Zlatna,Str. Tudor Vladimirescu nr. 14,Zlatna,46.1086,23.2262
+282,1,ALBA,ÎNTREGALDE,16,1,49,2,1,7,2,2,18,0,44,1,1,7,2,3,Școala Gimnazială Întregalde,Nr. 5,Întregalde,46.2435,23.4111
+279,1,ALBA,IGHIU,108,17,119,14,3,8,11,24,106,18,118,16,3,8,14,24,Școala Gimnazială Șard,Nr. 386,Șard,46.1286,23.5335
+280,1,ALBA,IGHIU,104,20,120,11,1,5,6,16,106,15,120,10,2,7,7,16,Școala Gimnazială Șard,Nr. 386,Șard,46.1286,23.5335
+231,1,ALBA,CIUGUD,268,24,51,20,1,5,4,16,256,23,55,21,1,10,2,13,Școala Primară Șeușa,Nr. 37A,Șeușa,46.0607,23.6243
+400,1,ALBA,ŞIBOT,139,25,130,21,1,74,6,20,139,30,131,25,2,68,6,15,Căminul Cultural Șibot,Nr. 38A,Șibot,45.9361,23.3343
+251,1,ALBA,FĂRĂU,22,0,69,4,4,2,0,3,24,0,74,3,3,2,0,1,Școala Primară Șilea,Nr. 73,Șilea,46.3251,24.1058
+405,1,ALBA,ŞONA,85,5,236,20,6,6,1,7,80,8,229,21,6,8,3,9,Școala Gimnazială Șona,Str. 23 August nr. 2,Șona,46.2172,24.015
+409,1,ALBA,ŞPRING,67,2,67,3,0,218,3,8,37,3,51,1,0,264,2,6,Primăria Comunei Șpring,Nr. 94,Șpring,45.9743,23.7779
+267,1,ALBA,HOPÎRTA,27,0,66,3,1,2,0,3,22,0,66,2,2,2,0,3,Cămin Cultural Șpălnaca,Nr. 234,Șpălnaca,46.3413,23.9082
+383,1,ALBA,SCĂRIŞOARA,26,0,32,0,0,1,1,2,25,1,29,0,1,3,1,2,Școala Primară Știuleți,Nr. 36A,Știuleți,46.4516,22.9057
+415,1,ALBA,ŞUGAG,122,53,469,29,3,19,8,26,133,45,469,33,4,18,9,21,Primăria Comunei Șugag,Nr. 180,Șugag,45.7742,23.6307
+281,1,ALBA,IGHIU,69,8,116,17,1,3,6,8,60,7,122,13,1,5,7,12,Școală Gimnazială Țelna,Nr. 263,Țelna,46.1576,23.5

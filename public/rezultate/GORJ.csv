@@ -1,0 +1,333 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+120,20,GORJ,ALBENI,264,11,50,29,1,12,22,49,232,10,40,24,1,12,20,93,Școala Gimnazială Albeni,,Albeni,45.0239,23.6002
+121,20,GORJ,ALBENI,121,0,14,16,0,17,2,19,110,0,14,14,0,22,7,31,Școala Primarâ Albeni,,Albeni,45.0211,23.5745
+124,20,GORJ,ALIMPEŞTI,191,5,88,46,3,11,6,48,172,4,78,43,0,13,4,82,"Școala Generală „Ion Lotreanu” Alimpești, Sat. Alimpești",Nr. 89,Alimpești,45.0891,23.8022
+125,20,GORJ,ALIMPEŞTI,127,7,88,35,1,7,6,19,125,5,86,31,0,10,8,32,"Școala Generală Sîrbești, Sat.Sîrbești",Nr. 53,Alimpești,45.1234,23.7962
+330,20,GORJ,VLADIMIR,159,9,120,15,0,15,15,40,155,9,111,26,2,15,13,41,Căminul Cultural,Nr. 100,Andreești,44.778,23.5267
+194,20,GORJ,CRASNA,166,7,132,12,0,19,8,18,150,6,136,11,0,24,9,28,Căminul Cultural Aniniș,,Aninișu din Vale,45.1725,23.608
+126,20,GORJ,ANINOASA,225,7,47,42,1,17,6,20,221,7,46,42,2,8,8,32,Școala Gimnazială Aninoasa,Nr. 324,Aninoasa,44.7504,23.4808
+130,20,GORJ,ARCANI,212,15,215,26,2,6,30,71,211,13,217,28,4,15,28,71,Școala Gimnazială Arcani,Nr. 114,Arcani,45.0713,23.1318
+254,20,GORJ,NEGOMIR,337,13,62,41,0,23,8,36,374,15,55,27,1,17,9,29,Școala Primară Artanu,,Artanu,44.7877,23.2264
+131,20,GORJ,BAIA DE FIER,332,8,48,84,1,10,10,25,325,11,50,39,0,11,10,73,Școala Generală Baia de Fier,Nr. 476,Baia de Fier,45.1718,23.7611
+132,20,GORJ,BAIA DE FIER,399,11,57,68,0,20,10,32,370,8,68,28,2,21,18,87,Școala Generală Baia de Fier,Nr. 476,Baia de Fier,45.1718,23.7611
+307,20,GORJ,STEJARI,92,6,7,33,1,7,4,18,85,7,4,32,1,5,5,32,Școala Primară Baloșani,Nr. 44,Baloșani,44.7317,23.66
+146,20,GORJ,BENGEŞTI-CIOCADIA,165,1,33,31,0,12,9,38,165,0,35,28,2,16,10,35,Cămin Cultural Bengești,,Bengești,45.0718,23.5892
+147,20,GORJ,BENGEŞTI-CIOCADIA,101,3,6,4,1,1,6,16,95,4,3,4,1,1,3,22,Cămin Cultural Bengești,,Bengești,45.0718,23.5892
+83,20,GORJ,ORAŞ NOVACI,102,6,106,8,4,0,4,16,98,5,123,12,2,2,4,10,Grădinița Bercești,Nr. 27,Bercești,45.1758,23.7032
+150,20,GORJ,BERLEŞTI,171,1,83,24,1,9,3,16,151,0,45,20,0,12,3,77,Școala Primară Berlești,,Berlești,44.9052,23.6635
+290,20,GORJ,SĂULEŞTI,214,6,42,9,2,15,2,5,208,5,39,8,3,19,2,10,Școala Primară Bibești,Nr. 110,Bibești,44.7784,23.4899
+298,20,GORJ,SCOARŢA,234,5,54,24,2,9,17,40,223,4,58,20,1,10,21,53,Localul Fostei Primării Bobu,Nr. 45,Bobu,45.0365,23.5105
+122,20,GORJ,ALBENI,122,2,8,14,1,8,2,6,121,2,8,13,1,6,2,11,Școala Primarâ Bolbocești,,Bolbocești,45.0054,23.5896
+157,20,GORJ,BOLBOŞI,174,2,68,24,2,7,21,44,174,3,68,24,3,9,23,47,Școala Primară Bolboși,,Bolboși,44.7441,23.227
+160,20,GORJ,BORĂSCU,168,11,47,38,3,20,10,24,171,9,41,35,4,20,6,32,Școala Generală cu Clasele I-IV Borăscu,,Borăscu,44.693,23.2774
+266,20,GORJ,PLOPŞORU,218,9,30,12,1,34,41,61,229,2,29,17,5,40,39,51,Școala Primară Broșteni,Nr. 61,Broșteni,44.6865,23.4168
+247,20,GORJ,MĂTĂSARI,87,7,57,23,1,46,6,12,91,3,59,18,2,46,9,19,Școala Primară Brădet,Nr. 128,Brădet,44.8702,23.0702
+262,20,GORJ,PEŞTIŞANI,228,9,27,53,1,23,31,52,232,7,20,55,1,24,36,53,Școala Primară Brădiceni,Nr. 167,Brădiceni,45.0584,23.0753
+165,20,GORJ,BRĂNEŞTI,115,0,73,6,0,7,4,16,113,0,78,4,0,7,3,16,Școala Primară Brănești,,Brănești,44.6531,23.4504
+201,20,GORJ,DĂNEŞTI,155,6,136,6,5,7,5,25,151,6,135,6,4,11,5,27,Școala Primară Brătuia,,Brătuia,44.9343,23.3599
+274,20,GORJ,PRIGORIA,125,1,110,12,3,36,7,17,102,1,95,10,3,32,3,52,Școala cu Clasele I-IV Bucșana,,Bucșana,45.0627,23.7139
+294,20,GORJ,SCOARŢA,236,18,28,11,1,15,7,23,235,18,23,8,1,18,2,30,Școala Generală Budieni,Nr. 83,Budieni,45.0162,23.4003
+312,20,GORJ,TELEŞTI,202,2,46,5,1,10,8,30,199,2,51,4,1,16,11,22,Școala Primară nr. 1 Buduhala,,Buduhala,44.9875,23.1245
+178,20,GORJ,CĂPRENI,61,1,10,22,2,5,4,13,66,2,8,20,2,7,7,13,Școala Primară Bulbuceni,,Bulbuceni,44.6991,23.5806
+72,20,GORJ,ORAŞ BUMBEŞTI-JIU,270,8,43,17,1,24,27,54,246,13,40,15,5,32,26,67,Sala de Sport a Orașului,Aleea Stadionului nr. 3,Bumbești-Jiu,45.1792,23.3775
+73,20,GORJ,ORAŞ BUMBEŞTI-JIU,252,18,61,19,1,18,19,44,252,19,61,22,1,22,19,38,Grădinița Bumbești-Jiu,Nr. 2,Bumbești-Jiu,45.1819,23.3802
+74,20,GORJ,ORAŞ BUMBEŞTI-JIU,363,20,51,22,2,31,20,44,355,21,58,19,1,31,11,44,Școala Gimnazială nr. 1 Bumbești-Jiu,Str. Trandafirilor nr. 2,Bumbești-Jiu,45.179,23.3814
+75,20,GORJ,ORAŞ BUMBEŞTI-JIU,220,11,22,5,3,10,18,39,213,12,23,6,3,17,15,38,Școala Gimnazială nr. 1 Bumbești-Jiu,Str. Grigore Alex. Ghica nr. 2,Bumbești-Jiu,45.1784,23.382
+76,20,GORJ,ORAŞ BUMBEŞTI-JIU,204,17,53,12,1,31,16,29,197,17,54,8,2,39,18,30,Colegiul Mihai Viteazul Bumbești-Jiu,Nr. 14,Bumbești-Jiu,45.1756,23.3839
+77,20,GORJ,ORAŞ BUMBEŞTI-JIU,209,10,46,9,2,22,5,19,200,7,48,8,2,28,5,24,Școala Primară Bumbești-Jiu,Nr. 160,Bumbești-Jiu,45.1646,23.3911
+168,20,GORJ,BUMBEŞTI-PIŢIC,237,4,46,29,1,9,4,34,223,5,33,22,2,14,7,66,Căminul Cultural Bumbești-Pițic,,Bumbești-Pițic,45.1332,23.6981
+171,20,GORJ,BUSTUCHIN,170,27,43,33,3,15,75,243,50,15,14,2,1,9,14,437,Liceul Tehnologic Bustuchin,Nr. 186,Bustuchin,44.9523,23.7128
+281,20,GORJ,RUNCU,663,15,90,27,3,8,5,29,654,12,92,27,3,7,3,40,Căminul Cultural Bîlta,,Bâlta,45.1176,23.1005
+152,20,GORJ,BÎLTENI,304,20,85,69,5,43,28,66,292,14,90,74,3,54,19,65,Primăria Comunei Bîlteni,Nr. 443,Bâlteni,44.8634,23.2793
+53,20,GORJ,MUNICIPIUL TÎRGU JIU,266,34,71,41,7,28,33,74,255,35,65,37,0,39,25,92,Școala Gimnazială nr. 9,Str. Bârsești nr. 3C,Bârsești,45.0486,23.2326
+167,20,GORJ,BRĂNEŞTI,28,1,5,7,0,7,4,5,28,1,6,6,0,9,2,4,Școala Primară Bădești,,Bădești,44.6843,23.4712
+148,20,GORJ,BENGEŞTI-CIOCADIA,179,7,34,16,2,11,4,15,174,8,35,15,2,12,5,23,Cămin Cultural Bălcești,,Bălcești,45.108,23.6415
+142,20,GORJ,BĂLEŞTI,283,21,213,24,7,50,36,72,257,30,201,23,4,65,23,85,Cămin Cultural Bălești,,Bălești,45.0218,23.2079
+158,20,GORJ,BOLBOŞI,106,0,53,9,3,7,79,94,103,0,47,13,2,13,78,93,Școala Primară Bălăcești,,Bălăcești,44.7517,23.201
+134,20,GORJ,BĂLĂNEŞTI,237,11,32,9,1,54,9,50,216,11,30,7,1,55,5,67,Școala Primară Bălanești,Nr. 96,Bălănești,45.0603,23.3916
+144,20,GORJ,BĂRBĂTEŞTI,146,13,57,10,0,16,10,31,148,12,57,13,0,14,11,35,Școala Gimnazială Bărbătești,Nr. 87,Bărbătești,44.8737,23.5074
+163,20,GORJ,BORĂSCU,150,7,34,45,6,6,11,20,150,8,30,47,4,8,9,26,Școala Generală Calapăru,,Calapăru,44.6828,23.3262
+164,20,GORJ,BRĂNEŞTI,199,3,42,24,0,2,7,12,197,1,37,25,1,2,9,19,Școala Gimnazială Capu-Dealului,,Capu Dealului,44.6292,23.4722
+143,20,GORJ,BĂLEŞTI,370,17,142,37,1,35,41,97,366,15,132,27,1,40,38,124,Școala Gimnazială „Antonie Mogoș”,,Ceauru,45.0123,23.2025
+95,20,GORJ,ORAŞ TISMANA,92,5,25,16,1,44,15,54,100,6,31,6,2,53,12,33,Școala Generală Celei,Nr. 215,Celei,45.0084,22.9251
+259,20,GORJ,PADEŞ,7,2,6,3,1,5,3,4,9,2,6,1,1,4,2,5,Școala Generală Cerna Sat,Nr. 37,Cerna-Sat,45.1287,22.6852
+133,20,GORJ,BAIA DE FIER,132,7,37,18,9,9,2,22,131,6,42,15,4,9,2,26,Școala Generală Cernădia,Nr. 99,Cernădia,45.1764,23.7103
+324,20,GORJ,ŢÎNŢĂRENI,65,3,21,1,0,4,3,6,65,3,21,1,0,4,4,8,Școala Primară Chiciora,,Chiciora,44.6291,23.5667
+149,20,GORJ,BENGEŞTI-CIOCADIA,178,6,23,12,3,15,10,31,172,7,24,9,1,14,9,40,Cămin Cultural Ciocadia,,Ciocadia,45.1082,23.6066
+183,20,GORJ,CIUPERCENI,129,2,55,19,1,5,12,26,126,0,54,20,1,10,12,26,Școala Generală Ciuperceni,Nr. 93,Ciuperceni,44.9446,23.0065
+155,20,GORJ,BÎLTENI,167,21,50,34,2,22,12,31,154,20,47,45,1,29,10,36,Școala Primară Cocoreni,Nr. 272,Cocoreni,44.8203,23.3161
+318,20,GORJ,TURBUREA,114,0,32,4,0,6,0,8,113,0,35,5,0,5,1,8,Școala Primară Cocorova,,Cocorova,44.6581,23.5603
+108,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,101,3,14,4,1,2,2,12,91,2,17,3,1,4,1,17,Școala Primară Cojani,Nr. 94A,Cojani,44.9976,23.5455
+255,20,GORJ,NEGOMIR,261,16,45,22,0,12,12,33,258,15,42,17,2,15,13,35,Școala Gimnazială Raci,,Condeiești,44.7595,23.2604
+296,20,GORJ,SCOARŢA,206,7,40,11,3,16,8,20,200,7,36,9,2,21,6,26,Școala Primară Copăcioasa,Nr. 36,Copăcioasa,45.0263,23.4341
+137,20,GORJ,BĂLEŞTI,164,3,55,28,2,31,9,20,160,3,54,24,1,34,11,27,Școala Primară Cornești,,Cornești,45.0026,23.1525
+206,20,GORJ,DRĂGOTEŞTI,221,8,59,18,0,15,28,67,211,10,56,15,1,16,31,78,Școala Generală Corobăi,,Corobăi,44.789,23.1672
+99,20,GORJ,ORAŞ TISMANA,145,2,33,9,2,54,18,40,143,6,27,11,1,57,23,39,Școala Generală Costeni,Nr. 162,Costeni,45.0186,22.895
+128,20,GORJ,ANINOASA,159,2,44,27,1,4,24,42,161,2,42,30,1,6,24,39,Școala Primară Costești,Nr. 341,Costești,44.7384,23.4257
+329,20,GORJ,VĂGIULEŞTI,215,6,85,23,3,14,10,30,216,6,86,18,3,17,14,27,Căminul Cultural Covrigi,,Covrigi,44.7398,23.135
+103,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,192,4,17,17,5,11,6,21,187,6,13,18,2,13,6,24,Școala Gimnazială Crețești,Nr. 29,Crețești,44.9502,23.4347
+249,20,GORJ,MĂTĂSARI,60,2,19,2,1,7,3,7,59,1,17,5,1,8,4,9,Școala Primară Croici,Nr. 144,Croici,44.8319,23.0893
+195,20,GORJ,CRUŞET,264,8,48,25,1,26,30,64,252,11,50,25,1,25,22,70,Școala Primară Crușeț,Nr. 18,Crușet,44.6268,23.6726
+304,20,GORJ,STĂNEŞTI,186,5,65,27,1,22,8,27,172,3,63,32,1,22,8,32,Școala Generală Curpen,,Curpen,45.1561,23.2581
+79,20,GORJ,ORAŞ BUMBEŞTI-JIU,133,10,28,5,2,22,7,15,124,11,27,3,1,27,9,24,Școala Gimnazială Curtișoara,Nr. 8,Curtișoara,45.1065,23.3614
+221,20,GORJ,GODINEŞTI,84,3,14,6,1,9,13,22,79,2,15,6,1,14,10,24,Școala Cîlcești,Nr. 206,Câlcești,44.9683,22.9661
+187,20,GORJ,CÎLNIC,146,2,234,24,1,20,22,36,135,6,223,29,1,23,15,44,Căminul Cultural Cîlnic,Nr. 279,Câlnic,44.9613,23.0699
+188,20,GORJ,CÎLNIC,97,3,186,6,4,4,7,20,99,2,175,7,3,5,11,29,Școala Primară Cîlnicu de Sus,Nr. 308,Câlnicu de Sus,44.9586,23.0362
+211,20,GORJ,DRĂGUŢEŞTI,259,27,79,41,0,64,12,31,249,35,70,27,2,69,20,51,Școala Generală Cîrbești,Nr. 399,Cârbești,44.9533,23.2118
+169,20,GORJ,BUMBEŞTI-PIŢIC,39,6,9,4,7,1,1,16,41,7,9,3,5,3,2,16,Grădinița Cârligei,,Cârligei,45.1069,23.6849
+271,20,GORJ,PRIGORIA,128,1,87,17,4,12,5,12,109,1,78,12,2,15,4,40,Școala cu Clasele I-IV Călugareasa,,Călugăreasa,45.042,23.6418
+256,20,GORJ,PADEŞ,169,18,67,36,4,23,10,26,166,15,72,35,4,25,8,23,Cămin Cultural Călugăreni,Nr. 35,Călugăreni,45.0476,22.8209
+176,20,GORJ,CĂPRENI,164,7,59,27,0,10,6,26,148,3,56,23,1,19,6,45,Școala Generală Căpreni,,Căpreni,44.7448,23.6258
+106,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,230,6,15,11,1,9,3,22,220,4,13,8,1,4,3,41,Cămin Cultural,Nr. 62,Cărbunești-Sat,44.9474,23.5405
+191,20,GORJ,CRASNA,391,17,236,21,4,31,28,70,373,17,237,24,3,37,29,84,Căminul Cultural Cărpiniș,,Cărpiniș,45.1825,23.5794
+182,20,GORJ,CĂTUNELE,119,6,26,43,5,3,1,11,115,5,24,43,6,13,1,6,Școala Primară Dealu Viilor,Nr. 54,Dealu Viilor,44.8488,22.8965
+273,20,GORJ,PRIGORIA,74,1,47,12,4,7,5,14,71,1,44,11,4,7,2,18,Școala cu Clasele I-IV Dobrana,,Dobrana,45.0552,23.6677
+283,20,GORJ,RUNCU,369,3,35,32,1,19,8,28,352,6,41,27,1,26,11,36,Căminul Cultural Dobrița,,Dobrița,45.1359,23.175
+10,20,GORJ,MUNICIPIUL TÎRGU JIU,300,29,48,26,4,37,42,77,281,30,40,26,2,43,25,97,Școala Primară din Localitatea Componentă Drăgoeni,Str. Drăgoeni nr. 148,Drăgoeni,45.043,23.3428
+192,20,GORJ,CRASNA,192,16,88,13,1,13,68,76,191,14,91,19,2,7,67,77,Școala Primară Drăgoiești,,Drăgoiești,45.1794,23.5201
+205,20,GORJ,DRĂGOTEŞTI,220,5,60,18,1,26,18,79,195,6,53,14,1,39,17,98,Căminul Cultural Drăgotești,,Drăgotești,44.8227,23.1393
+207,20,GORJ,DRĂGUŢEŞTI,206,9,55,18,7,93,16,23,194,8,50,21,6,88,13,49,Școala Generală Drăguțești,Nr. 138,Drăguțești,44.9698,23.2243
+193,20,GORJ,CRASNA,169,4,115,12,3,20,33,44,162,6,112,14,2,28,26,44,Căminul Cultural Dumbrăveni,,Dumbrăveni,45.1483,23.5128
+198,20,GORJ,DĂNCIULEŞTI,136,3,34,12,3,9,4,30,133,4,35,11,4,8,3,36,Școala Gimnazială Dănciulești,Nr. 157,Dănciulești,44.7409,23.7627
+202,20,GORJ,DĂNEŞTI,226,11,132,37,3,24,13,53,217,12,123,32,2,23,13,71,Școala Primară Dănești,,Dănești,44.9765,23.3234
+322,20,GORJ,ŢÎNŢĂRENI,298,5,100,14,1,14,6,16,286,7,99,13,2,13,6,19,Școala Primară Florești nr. 2,,Florești,44.6097,23.5212
+323,20,GORJ,ŢÎNŢĂRENI,374,13,51,37,0,11,8,32,362,10,49,35,1,18,11,37,Școala Generală Florești nr. 1,,Florești,44.6201,23.5282
+332,20,GORJ,VLADIMIR,120,2,82,38,0,7,5,10,119,3,79,37,0,6,3,17,Școala Primară nr. 2 Frasin,Nr. 292,Frasin,44.8195,23.532
+239,20,GORJ,LOGREŞTI,143,4,20,33,0,5,3,24,127,3,18,31,0,2,2,47,Cămin Cultural Frunza,,Frunza,44.8488,23.6905
+234,20,GORJ,LELEŞTI,128,0,12,9,2,9,3,19,127,2,9,5,1,12,6,23,Școala Primară Frătești,,Frătești,45.1309,23.2123
+325,20,GORJ,URDARI,252,7,83,12,5,14,6,15,240,10,86,14,5,16,6,16,Școala Gimnazială Fîntînele,Nr. 23,Fântânele,44.7804,23.3076
+212,20,GORJ,FĂRCĂŞEŞTI,113,0,97,44,0,12,12,33,112,0,98,39,0,16,15,30,Școala Primară Fărcășești,,Fărcășești,44.8677,23.2099
+136,20,GORJ,BĂLĂNEŞTI,264,4,29,14,5,21,12,37,253,2,31,12,3,22,9,55,Școala Primară Glodeni,Nr. 213,Glodeni,45.0839,23.4676
+218,20,GORJ,GLOGOVA,153,3,47,33,0,23,5,36,164,8,43,34,0,23,7,20,Școala Primară Învățător Nicolae Caranda,,Glogova,44.9394,22.8995
+220,20,GORJ,GODINEŞTI,273,9,43,37,5,24,25,48,264,8,41,36,9,31,29,56,Primăria Godinești,Nr. 164,Godinești,44.9985,22.9612
+292,20,GORJ,SCHELA,103,4,18,17,2,2,6,27,111,3,19,17,1,4,5,24,Școala Primară cu Clasele I-IV Gornăcel,,Gornăcel,45.1724,23.3456
+127,20,GORJ,ANINOASA,143,3,47,9,0,7,7,14,146,3,39,8,0,8,7,18,Școala Gimnazială Groșerea,Nr. 134,Groșerea,44.7219,23.4741
+252,20,GORJ,MUŞETEŞTI,103,4,11,61,1,2,20,45,104,3,15,63,2,3,20,39,Școala Primară Grui,Nr. 131,Grui,45.1299,23.4357
+114,20,GORJ,ORAŞ TURCENI,134,5,102,31,0,15,11,19,119,6,97,50,2,15,9,17,Școala Generală Gârbovu,Str. 8 Septembrie nr. 81,Gârbovu,44.7322,23.3438
+189,20,GORJ,CÎLNIC,90,1,123,9,1,12,5,14,87,0,116,13,1,16,7,16,Școala Primară Hodoreasca,Nr. 1,Hodoreasca,44.9406,23.0509
+68,20,GORJ,MUNICIPIUL MOTRU,116,7,39,8,1,12,2,7,96,7,40,8,1,27,2,8,Școala Horăști,,Horăști,44.7851,23.0152
+327,20,GORJ,URDARI,82,1,41,9,1,9,7,12,76,1,41,10,2,7,7,19,Grădinița Hotăroasa,Nr. 16,Hotăroasa,44.8112,23.2867
+224,20,GORJ,HUREZANI,294,9,167,27,4,18,6,29,263,8,163,20,4,32,6,64,Școala Generală Hurezani,,Hurezani,44.8011,23.6459
+208,20,GORJ,DRĂGUŢEŞTI,155,11,32,27,4,179,10,33,158,9,30,36,3,172,7,32,Cămin Cultural,Nr. 92,Iași-Gorj,44.9877,23.2439
+54,20,GORJ,MUNICIPIUL TÎRGU JIU,157,14,33,9,4,12,20,49,138,13,32,12,4,16,13,62,Imobil nr. 42,Str. Iezureni nr. 42,Iezureni,45.0901,23.3245
+227,20,GORJ,IONEŞTI,132,4,31,14,0,18,2,11,127,6,26,13,1,24,1,9,Școala Primară Iliești,,Iliești,44.6443,23.4057
+226,20,GORJ,IONEŞTI,320,8,38,57,1,34,5,16,326,4,29,54,1,36,2,25,Școala Gimnazială Ionești,,Ionești,44.6187,23.4332
+217,20,GORJ,GLOGOVA,178,4,41,8,0,22,6,23,180,4,41,9,0,30,5,10,Primăria Glogova,,Iormănești,44.9107,22.9114
+231,20,GORJ,JUPÎNEŞTI,123,3,11,4,4,9,5,15,114,4,10,4,4,9,3,27,Cămin Cultural Jupînești,,Jupânești,44.9034,23.5286
+286,20,GORJ,SAMARINEŞTI,129,2,13,24,1,4,6,8,125,2,15,25,1,8,6,6,Școala Primară Larga,,Larga,44.7781,23.0629
+233,20,GORJ,LELEŞTI,348,19,56,34,17,5,16,49,325,19,54,36,2,20,16,67,Școala Generală „Ion Grigoroiu” Lelești,,Lelești,45.1004,23.2008
+67,20,GORJ,MUNICIPIUL MOTRU,143,7,70,16,3,36,4,18,110,7,63,13,6,76,9,22,Școala Leurda,,Leurda,44.7977,23
+236,20,GORJ,LICURICI,91,0,29,28,6,24,5,15,87,2,27,23,3,22,3,36,Școala Primară Licurici,Nr. 189,Licurici,44.921,23.6207
+241,20,GORJ,LOGREŞTI,141,2,41,8,0,15,6,24,114,2,10,2,0,9,4,89,Școala Primară Moșteni,,Logrești Moșteni,44.9096,23.7029
+181,20,GORJ,CĂTUNELE,193,27,56,19,2,8,13,32,193,23,60,18,4,17,7,22,Căminul Cultural Lupoaia,Nr. 38,Lupoaia,44.8112,22.9596
+288,20,GORJ,SĂCELU,114,7,34,44,1,8,11,28,112,4,32,45,1,8,5,34,Școala Primară Magherești,,Magherești,45.0873,23.5275
+161,20,GORJ,BORĂSCU,141,3,39,14,1,7,4,10,151,4,41,8,1,6,4,11,Școala Generală cu Clasele I-IV Menții din Dos,,Menții din Dos,44.6926,23.2199
+301,20,GORJ,SLIVILEŞTI,169,4,46,32,3,36,44,54,172,2,45,26,2,47,35,47,Sala de Sport,,Miculești,44.8213,23.0467
+162,20,GORJ,BORĂSCU,128,1,19,15,1,7,2,5,121,1,22,13,2,8,1,6,Școala Gimnazialâ Miluta,,Miluta,44.7006,23.1778
+154,20,GORJ,BÎLTENI,138,6,40,42,1,50,9,24,131,7,44,48,1,56,5,14,Școala Generală Moi,Nr. 330,Moi,44.8995,23.21
+57,20,GORJ,MUNICIPIUL MOTRU,288,33,131,29,2,39,23,42,264,31,124,30,2,64,29,47,Școala Gimnazială nr. 2 Motru,Str. Tineretului nr. 10,Motru,44.8055,22.9655
+58,20,GORJ,MUNICIPIUL MOTRU,165,14,84,15,4,45,3,16,154,15,72,22,5,59,6,20,Colegiul Tehnic Motru,Str. Molidului nr. 1,Motru,44.8091,22.9645
+59,20,GORJ,MUNICIPIUL MOTRU,285,41,161,46,1,40,8,37,264,48,149,40,3,61,9,40,Casa de Cultură Motru,Str. Macului nr. 29,Motru,44.8023,22.9673
+60,20,GORJ,MUNICIPIUL MOTRU,257,30,128,32,3,47,14,34,246,28,122,32,5,57,17,41,Colegiul Național George Coșbuc Motru,Str. Margaretei nr. 3,Motru,44.8057,22.9666
+61,20,GORJ,MUNICIPIUL MOTRU,318,28,142,24,1,32,15,58,298,25,129,28,3,68,17,51,Școala Gimnazială nr. 1 Motru,Str. Minerului nr. 3,Motru,44.8033,22.9711
+62,20,GORJ,MUNICIPIUL MOTRU,182,29,121,25,2,24,8,32,176,29,105,28,2,42,12,34,Grădinița „Vile” Motru,Str. Macului nr. 32,Motru,44.8012,22.9699
+63,20,GORJ,MUNICIPIUL MOTRU,328,48,148,10,3,45,17,42,295,47,148,13,2,78,18,45,Grădinița Catolică Motru,Aleea Teilor nr. 41,Motru,44.7997,22.9758
+64,20,GORJ,MUNICIPIUL MOTRU,334,27,147,28,2,40,24,56,331,28,138,28,3,64,19,41,Grădinița Creșă nr. 1 Motru,Str. Minerului nr. 13,Motru,44.8025,22.9748
+65,20,GORJ,MUNICIPIUL MOTRU,309,33,178,27,1,35,14,44,281,46,156,23,2,65,15,49,Sediul Impozite și Taxe Locale Motru,Str. Macului nr. 36,Motru,44.8015,22.9688
+66,20,GORJ,MUNICIPIUL MOTRU,298,37,141,16,5,47,19,43,296,34,115,21,7,61,21,47,Casa Multiculturală Motru,Str. Minerului nr. 5,Motru,44.8033,22.9721
+258,20,GORJ,PADEŞ,334,15,96,35,3,29,7,34,323,12,101,37,4,30,7,37,Școala Gimnazială Motru-Sec,Nr. 217,Motru Sec,45.0542,22.8051
+113,20,GORJ,ORAŞ TURCENI,171,9,47,16,1,24,7,18,175,8,44,17,1,29,3,12,Școala Generală Murgești,Str. 1 Decembrie nr. 65A,Murgești,44.7115,23.363
+250,20,GORJ,MUŞETEŞTI,178,6,21,7,2,36,30,58,174,6,22,5,2,38,40,59,Căminul Cultural,Nr. 162,Mușetești,45.1484,23.4605
+196,20,GORJ,CRUŞET,116,1,27,1,3,23,10,24,116,1,26,2,2,24,9,24,Căminul Cultural Măiag,Nr. 276,Măiag,44.6091,23.6212
+242,20,GORJ,LOGREŞTI,91,3,8,8,1,2,2,11,80,3,6,7,0,1,1,26,Școala Primară Măru,,Măru,44.9064,23.7486
+244,20,GORJ,MĂTĂSARI,173,12,88,11,2,32,14,23,177,12,87,7,2,27,15,29,Grădinița Mătăsari,Nr. 76,Mătăsari,44.8444,23.0909
+245,20,GORJ,MĂTĂSARI,224,11,108,25,2,38,12,26,225,10,104,18,3,42,16,31,Grădinița Mătăsari,Nr. 76,Mătăsari,44.8444,23.0909
+246,20,GORJ,MĂTĂSARI,116,1,51,19,3,31,6,14,121,2,43,12,1,30,13,28,Școala nr. 2 Mătăsari,Nr. 240,Mătăsari,44.8486,23.0831
+272,20,GORJ,PRIGORIA,48,2,20,5,1,11,3,7,43,1,18,5,1,14,4,14,Școala cu Clasele I-IV Negoești,,Negoiești,45.0361,23.6642
+253,20,GORJ,NEGOMIR,352,2,55,71,1,30,13,26,407,2,49,22,1,26,9,32,Școala Gimnazială nr. 1 Negomir,,Negomir,44.831,23.1805
+237,20,GORJ,LICURICI,98,8,51,35,5,6,5,23,85,10,48,23,3,5,3,51,Școala Gimnazială Negreni,Nr. 49,Negreni,44.8555,23.6382
+80,20,GORJ,ORAŞ NOVACI,261,14,247,51,18,34,24,95,260,20,287,39,5,38,16,76,Școala Gimnazială Novaci,Str. Eroilor nr. 1,Novaci,45.1751,23.6637
+81,20,GORJ,ORAŞ NOVACI,156,14,214,15,12,11,7,45,134,15,241,17,6,14,6,37,Clubul Elevilor,Nr. 13,Novaci,45.1782,23.6727
+200,20,GORJ,DĂNCIULEŞTI,68,3,14,4,1,10,2,11,62,4,11,5,1,11,2,17,Școala Gimnazială Obârșia,Nr. 180,Obârșia,44.819,23.7642
+219,20,GORJ,GLOGOVA,111,2,45,10,0,7,5,38,135,4,39,10,1,7,4,14,Școala Primară Olteanu,,Olteanu,44.8961,22.916
+257,20,GORJ,PADEŞ,252,9,53,91,1,17,12,39,245,9,51,94,1,21,17,44,Școala Gimnazială Padeș,Nr. 60,Padeș,45.0198,22.8573
+145,20,GORJ,BĂRBĂTEŞTI,165,5,27,6,0,9,9,22,161,4,27,8,0,11,10,22,Școala Primară Petrești,Nr. 110,Petrești,44.8422,23.507
+153,20,GORJ,BÎLTENI,289,16,119,47,1,48,24,54,268,17,108,50,2,51,33,71,Școala Primară nr. 2 Peșteana-Jiu,Nr. 712,Peșteana Jiu,44.8485,23.2967
+186,20,GORJ,CIUPERCENI,108,5,26,5,1,8,17,31,110,1,26,6,2,8,15,31,Școala Primară Peșteana Vulcan,Nr. 80,Peșteana Vulcan,44.9264,22.9736
+214,20,GORJ,FĂRCĂŞEŞTI,142,4,136,18,1,10,20,36,143,5,134,14,1,9,23,43,Grădinița Peșteana de Jos,,Peșteana de Jos,44.8363,23.2645
+260,20,GORJ,PEŞTIŞANI,251,15,90,37,2,140,50,86,247,15,86,40,4,147,55,80,Grup Școlar Industrial Minier Constantin Brâncuși,Nr. 5,Peștișani,45.0807,23.0536
+261,20,GORJ,PEŞTIŞANI,395,21,58,50,3,64,68,110,389,21,51,54,1,88,60,92,Școala Gimnazială Peștișani,Nr. 6,Peștișani,45.0806,23.0529
+228,20,GORJ,IONEŞTI,162,0,13,67,0,10,4,9,165,1,11,62,0,14,7,10,Școala Primară Picu,,Picu,44.5877,23.4449
+190,20,GORJ,CÎLNIC,80,1,80,2,1,5,8,15,79,0,85,2,1,5,8,11,Școala Primară Pinoasa,Nr. 36,Pinoasa,44.9073,23.0965
+306,20,GORJ,STEJARI,86,1,19,87,1,5,5,27,94,0,17,80,1,5,3,29,Căminul Cultural Piscoiu,Nr. 272,Piscoiu,44.8472,23.7484
+264,20,GORJ,PLOPŞORU,388,4,25,18,3,5,16,24,382,6,32,13,1,13,10,22,Școala Gimnazială Piscuri,Nr. 296,Piscuri,44.7841,23.3832
+295,20,GORJ,SCOARŢA,161,1,15,8,0,6,10,24,161,1,17,12,1,4,7,23,Școala Primară Pișteștii din Deal,Nr. 115,Pișteștii din Deal,45.0384,23.4112
+225,20,GORJ,HUREZANI,47,0,38,3,0,4,5,7,47,1,37,3,0,3,4,9,Școala Primară Plopu,,Plopu,44.7904,23.6003
+263,20,GORJ,PLOPŞORU,469,15,83,54,0,54,134,160,445,16,78,46,3,86,130,159,Școala Gimnazială „Nicolae Tomovici Plopșor” Plopșoru,Nr. 156,Plopșoru,44.7835,23.3491
+69,20,GORJ,MUNICIPIUL MOTRU,252,17,141,20,2,34,7,29,235,15,143,19,3,58,8,24,Școala Primară Ploștina,,Ploștina,44.8171,22.9843
+82,20,GORJ,ORAŞ NOVACI,226,18,191,48,11,20,18,60,202,16,233,38,7,25,16,56,Școala Gimnazială Pociovaliștea,Nr. 475,Pociovaliștea,45.1518,23.6455
+97,20,GORJ,ORAŞ TISMANA,187,11,72,13,1,34,25,41,178,10,66,13,1,42,26,45,Școala Generală Pocruia,Nr. 114,Pocruia,45.0451,22.9234
+317,20,GORJ,TURBUREA,509,2,25,11,2,6,3,12,494,2,23,13,2,10,2,22,Școala Generală Poiana,,Poiana,44.6591,23.5307
+172,20,GORJ,BUSTUCHIN,141,0,50,50,0,8,54,172,51,4,15,9,0,1,10,338,Școala Generală Poiana-Seciuri,Nr. 191,Poiana Seciuri,45.0013,23.7248
+170,20,GORJ,BUMBEŞTI-PIŢIC,136,9,48,8,2,7,6,16,124,11,40,7,3,7,6,34,Școala Generală Poienari,,Poienari,45.1379,23.7344
+174,20,GORJ,BUSTUCHIN,107,3,5,2,0,11,4,74,36,3,4,0,0,7,3,146,Școala Primară Poienița,Nr. 74,Poienița,44.9922,23.6799
+175,20,GORJ,BUSTUCHIN,95,6,14,12,0,5,26,62,41,6,6,0,1,3,3,131,Școala Primară Pojaru,Nr. 94,Pojaru,44.9457,23.6935
+104,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,169,2,29,26,1,7,3,16,156,3,25,28,1,9,5,28,Școala Gimnazială Pojogeni,Nr. 75,Pojogeni,44.9881,23.4927
+107,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,128,2,15,5,1,5,1,7,122,3,15,4,1,5,2,13,Școala Primară Pojogeni Cerăt,Nr. 289A,Pojogeni,45.0004,23.4541
+267,20,GORJ,POLOVRAGI,287,9,71,6,3,22,4,46,278,9,71,9,2,26,5,41,Școala Gimnazială nr. 1 Polovragi,Nr. 136,Polovragi,45.1672,23.8052
+269,20,GORJ,POLOVRAGI,256,11,75,11,2,10,5,49,263,13,74,9,1,11,8,44,Școala Gimnazială nr. 1 Polovragi,,Polovragi,45.1672,23.8052
+270,20,GORJ,PRIGORIA,91,2,31,2,1,1,4,9,83,3,27,1,2,2,2,18,Școala Gimnazială Prigoria,,Prigoria,45.0701,23.6846
+123,20,GORJ,ALBENI,32,0,1,1,3,3,5,7,23,0,1,1,3,3,5,19,Școala Primarâ Prunești,,Prunești,45.0191,23.6353
+166,20,GORJ,BRĂNEŞTI,95,0,18,4,0,28,9,14,90,1,20,3,0,28,9,14,Școala Primară Gilortu,,Pârâu,44.6695,23.4904
+230,20,GORJ,JUPÎNEŞTI,62,0,5,3,1,6,7,14,52,0,5,1,1,5,4,28,Școala Primară Pîrîu-Boia,,Pârâu Boia,44.9256,23.5324
+151,20,GORJ,BERLEŞTI,182,4,92,104,6,36,14,48,145,1,28,42,4,38,7,204,Căminul Cultural Pîrîu Viu,,Pârâu Viu,44.9325,23.6644
+222,20,GORJ,GODINEŞTI,139,0,7,3,3,6,19,22,137,1,7,5,3,9,17,18,Școala Primară Pîrîu de Pripor,Nr. 21,Pârâu de Pripor,44.9633,22.984
+223,20,GORJ,GODINEŞTI,74,1,8,7,1,3,4,10,71,0,8,8,1,4,4,12,Școala Pîrîu de Vale,Nr. 56,Pârâu de Vale,44.9792,22.9956
+309,20,GORJ,STOINA,144,1,57,20,0,2,4,60,123,2,54,19,1,4,3,77,Școala cu Clasele I-IV Păișani,,Păișani,44.6628,23.647
+268,20,GORJ,POLOVRAGI,136,6,17,5,1,19,9,19,136,4,17,5,1,26,6,15,Școala Primară Racovița,Nr. 67,Racovița,45.1682,23.8334
+138,20,GORJ,BĂLEŞTI,89,3,69,6,4,10,5,16,85,4,67,4,3,10,4,22,Școala Primară Rasova,,Rasova,45.0465,23.183
+235,20,GORJ,LELEŞTI,61,0,6,4,2,5,6,15,56,0,4,6,1,10,6,17,Școala Primară Rasovița,,Rasovița,45.0827,23.1738
+7,20,GORJ,MUNICIPIUL TÎRGU JIU,138,14,49,5,0,16,22,44,130,17,42,5,1,25,20,49,Școala Primară din Localitatea Componentă Romanești,Nr. 47B,Romanești,45.0077,23.2608
+84,20,GORJ,ORAŞ ROVINARI,157,5,56,15,2,134,35,59,159,10,49,16,2,131,28,62,Școala Gimnazială nr. 1 Rovinari,Str. Tineretului nr. 1,Rovinari,44.895,23.1614
+85,20,GORJ,ORAŞ ROVINARI,141,12,53,26,1,98,19,40,123,17,43,23,1,105,23,60,Școala Gimnazială nr. 1 Rovinari,Str. Tineretului nr. 1,Rovinari,44.895,23.1614
+86,20,GORJ,ORAŞ ROVINARI,123,16,50,17,1,90,39,68,115,15,42,16,2,95,35,79,Școala Gimnazială nr. 3 Rovinari,Str. Muncii nr. 1,Rovinari,44.8982,23.1645
+87,20,GORJ,ORAŞ ROVINARI,151,19,56,18,3,89,36,53,153,19,54,15,2,94,26,54,Școala Gimnazială nr. 3 Rovinari,Str. Muncii nr. 1,Rovinari,44.8982,23.1645
+88,20,GORJ,ORAŞ ROVINARI,144,8,42,20,2,104,36,60,134,12,40,19,3,119,34,59,Colegiul „Gheorghe Tătărescu” Rovinari,Str. Jiului nr. 6,Rovinari,44.8993,23.1615
+89,20,GORJ,ORAŞ ROVINARI,136,15,55,29,4,75,21,42,129,17,47,25,5,87,14,44,Colegiul „Gheorghe Tătărescu” Rovinari,Str. Jiului nr. 6,Rovinari,44.8993,23.1615
+90,20,GORJ,ORAŞ ROVINARI,135,14,60,19,1,148,26,44,120,14,55,15,2,150,22,62,Grădinița nr. 3 Rovinari,Aleea Cireșului nr. 2,Rovinari,44.9001,23.1537
+91,20,GORJ,ORAŞ ROVINARI,147,10,54,28,1,108,23,39,149,12,44,27,1,114,16,37,Grădinița nr. 3 Rovinari,Aleea Cireșului nr. 2,Rovinari,44.9001,23.1537
+213,20,GORJ,FĂRCĂŞEŞTI,141,2,127,12,1,19,58,78,147,5,127,12,3,20,37,64,Liceulu Roșia Jiu,,Roșia Jiu,44.897,23.1536
+276,20,GORJ,ROŞIA DE AMARADIA,282,4,209,8,1,18,9,40,200,3,178,8,1,10,9,155,Căminul Cultural „Izvorul”,Nr. 29,Roșia de Amaradia,45.0548,23.755
+70,20,GORJ,MUNICIPIUL MOTRU,119,10,52,14,1,22,5,11,103,11,49,13,1,35,4,15,Școala Primară Roșiuța,,Roșiuța,44.8577,22.979
+278,20,GORJ,ROŞIA DE AMARADIA,114,1,80,2,1,4,3,31,43,0,67,0,1,2,3,123,Școala Primară Ruget,Nr. 100,Ruget,45.0158,23.7662
+320,20,GORJ,TURCINEŞTI,101,0,133,3,1,17,11,14,105,5,94,4,2,29,16,30,Școala Primară Rugi,Nr. 288,Rugi,45.1357,23.2895
+282,20,GORJ,RUNCU,423,18,83,42,1,14,19,47,404,18,75,41,1,20,16,65,Școala Generală Runcu,,Runcu,45.1195,23.1441
+248,20,GORJ,MĂTĂSARI,61,0,21,10,1,43,3,14,61,3,20,8,1,43,2,14,Școala Primară Runcurel,Nr. 70,Runcurel,44.8597,23.0275
+71,20,GORJ,MUNICIPIUL MOTRU,68,8,46,6,1,11,2,11,72,4,43,7,1,15,1,10,Școala Râpa,,Râpa,44.7968,22.9487
+199,20,GORJ,DĂNCIULEŞTI,79,3,28,12,4,6,13,46,73,2,26,14,0,7,9,62,Școala Gimnazială „Cornelius Radu” Rădinești,Nr. 120,Rădinești,44.7982,23.7649
+285,20,GORJ,SAMARINEŞTI,415,13,60,84,3,14,11,23,408,13,61,72,1,26,11,26,Școala Generală cu Clasele V-VIII Samarinești,,Samarinești,44.7489,23.0345
+177,20,GORJ,CĂPRENI,127,3,16,14,0,3,6,21,118,4,11,12,0,12,5,26,Școala Primară Căpreni de Sus,,Satu Nou,44.7685,23.6337
+293,20,GORJ,SCHELA,103,8,13,14,2,18,5,31,111,4,14,14,4,22,5,21,Fosta Școală Generală cu Clasele I-VIII Schela,,Schela,45.1715,23.3065
+297,20,GORJ,SCOARŢA,220,15,43,34,6,26,10,20,208,14,42,40,1,31,12,29,Căminul Cultural Scoarța,Nr. 48,Scoarța,45.0178,23.465
+243,20,GORJ,LOGREŞTI,106,3,14,2,1,2,2,8,99,2,7,1,1,3,1,28,Școala Primară Seaca,,Seaca,44.9224,23.7434
+277,20,GORJ,ROŞIA DE AMARADIA,129,0,81,11,14,12,7,29,71,0,61,7,7,6,5,119,Școala Primară Seciurile,Nr. 192,Seciurile,45.0226,23.7322
+299,20,GORJ,SLIVILEŞTI,199,7,53,27,1,4,13,21,203,6,50,28,1,9,6,17,Școala Primară Slivilești cu Clasele I-IV,,Slivilești,44.7821,23.1312
+197,20,GORJ,CRUŞET,92,0,72,1,3,13,4,19,95,1,66,3,2,15,1,18,Căminul Cultural Slăvuța,Nr. 115,Slăvuța,44.6861,23.6808
+98,20,GORJ,ORAŞ TISMANA,148,5,29,19,1,56,10,46,161,6,32,13,2,66,12,25,Școala Generală Sohodol,Nr. 151,Sohodol,45.0498,22.8913
+305,20,GORJ,STEJARI,140,4,46,74,3,4,4,26,113,2,43,66,3,6,3,58,Centrul Cultural „Gh.Zamfir”,Nr. 30,Stejari,44.7656,23.6894
+129,20,GORJ,ANINOASA,154,1,13,12,0,2,8,28,159,0,13,12,0,2,9,23,Școala Primară nr. 2 Sterpoaia,Nr. 103,Sterpoaia,44.7905,23.4338
+308,20,GORJ,STOINA,277,11,63,57,1,21,12,106,261,11,63,55,2,18,13,129,Căminul Cultural Stoina,,Stoina,44.6845,23.6316
+139,20,GORJ,BĂLEŞTI,125,3,134,7,1,13,7,17,125,2,133,3,1,13,5,18,Școala Primară Stolojani,,Stolojani,45.0346,23.1491
+115,20,GORJ,ORAŞ TURCENI,218,10,69,98,4,18,10,29,203,6,62,128,4,24,5,21,Școala Generală Strâmba Jiu,Str. Stoichiță Râioșanu (Str. Stoichiță Roșianu) (D) nr. 194A,Strâmba Jiu,44.7597,23.3186
+184,20,GORJ,CIUPERCENI,72,2,26,8,1,6,9,16,69,1,25,9,3,7,12,20,Școala Primară Strîmba Vulcan,Nr. 213,Strâmba Vulcan,44.9141,23.0367
+300,20,GORJ,SLIVILEŞTI,67,1,14,11,1,7,7,13,67,3,14,9,0,9,7,10,Școala Primară Strîmtu cu Clasele I-IV,,Strâmtu,44.7771,23.0881
+251,20,GORJ,MUŞETEŞTI,101,7,8,12,1,23,78,89,103,8,7,12,1,26,68,83,Școala Primară Stăncești,Nr. 166,Stăncești,45.1729,23.4673
+303,20,GORJ,STĂNEŞTI,228,6,85,26,4,8,6,33,230,5,80,22,3,11,9,45,Primăria Stănești,,Stănești,45.1228,23.2412
+302,20,GORJ,SLIVILEŞTI,99,6,26,12,1,6,16,25,98,5,21,12,1,5,18,30,Școala Primară Sura cu Clasele I-IV,,Sura,44.7648,23.1562
+284,20,GORJ,RUNCU,162,2,32,8,4,9,3,14,154,1,33,9,4,17,5,15,Centrul de Îngrijire și Asistență Suseni,,Suseni,45.1465,23.2042
+291,20,GORJ,SCHELA,118,6,43,13,3,8,30,55,123,7,45,13,2,15,29,41,Fosta Școala Primară Sîmbotin,,Sâmbotin,45.1355,23.3387
+287,20,GORJ,SĂCELU,174,6,44,41,1,18,25,70,168,9,43,46,2,19,16,69,Școala Generală Săcelu,,Săcelu,45.0978,23.5404
+289,20,GORJ,SĂULEŞTI,551,10,47,14,2,40,14,28,528,10,50,16,1,42,14,43,Școala Gimnazială Săulești,Nr. 147,Săulești,44.8079,23.4811
+310,20,GORJ,TELEŞTI,121,7,15,14,4,31,11,22,123,5,13,12,5,35,11,21,Clădirea de Lângă Sediul Primăriei Comunei Telești - Sala de Ședințe a Consiliului Local Telești,,Telești,44.9823,23.0946
+311,20,GORJ,TELEŞTI,206,3,35,10,10,8,43,62,217,4,29,8,11,7,41,61,Școala Primară Telești,,Telești,45.0106,23.0725
+78,20,GORJ,ORAŞ BUMBEŞTI-JIU,187,10,32,11,4,22,5,18,184,8,31,14,1,23,8,22,Școala Primară Tetila,Nr. 279,Tetila,45.1295,23.3869
+215,20,GORJ,FĂRCĂŞEŞTI,22,0,10,7,1,11,5,10,24,0,5,9,1,13,5,7,Școala Primară Timișeni,,Timișeni,44.8738,23.1213
+93,20,GORJ,ORAŞ TISMANA,126,15,29,12,2,28,6,22,121,15,27,15,1,26,9,28,Grădinița cu Program Normal Tismana,Nr. 518,Tismana,45.0501,22.9466
+94,20,GORJ,ORAŞ TISMANA,139,14,53,20,3,26,16,36,140,16,49,17,2,31,12,34,Grădinița cu Program Normal Tismana,Nr. 518,Tismana,45.0501,22.9466
+96,20,GORJ,ORAŞ TISMANA,206,9,40,10,3,35,6,18,213,9,37,13,2,35,7,12,Școala Generală Topesti,Nr. 42,Topești,45.076,22.9782
+238,20,GORJ,LICURICI,94,3,29,35,5,2,4,17,86,1,26,33,1,3,3,38,Școala Gimnazială nr. 1 Totea,Nr. 228,Totea,44.8517,23.5997
+314,20,GORJ,TURBUREA,182,10,31,1,0,12,1,16,183,10,34,0,0,12,1,15,Școala Primară Turburea,,Turburea,44.7308,23.5142
+315,20,GORJ,TURBUREA,193,10,50,13,1,7,9,20,196,8,46,18,1,7,10,19,Școala Generală Turburea,,Turburea,44.7198,23.5154
+109,20,GORJ,ORAŞ TURCENI,196,23,84,37,4,21,8,18,194,19,78,42,2,26,5,21,Casa de Cultură Turceni,Str. Muncii (D) nr. 13,Turceni,44.6811,23.3731
+110,20,GORJ,ORAŞ TURCENI,297,22,121,67,3,27,22,49,285,21,109,80,3,37,19,55,Casa de Cultură Turceni,Str. Muncii (D) nr. 13,Turceni,44.6811,23.3731
+111,20,GORJ,ORAŞ TURCENI,123,2,34,18,3,14,7,15,113,3,37,22,1,12,9,19,Poliția Locală Turceni,Str. Sf. Nicolae nr. 178,Turceni,44.6702,23.3848
+112,20,GORJ,ORAŞ TURCENI,84,3,40,19,5,9,10,19,85,3,35,28,3,11,8,15,Școala Generală Stolojani,Str. Prof. Emil Gîlceavă nr. 118,Turceni,44.6833,23.3507
+319,20,GORJ,TURCINEŞTI,291,16,210,20,9,33,23,46,293,15,195,22,6,37,19,60,Primăria,Nr. 175,Turcinești,45.1029,23.3117
+210,20,GORJ,DRĂGUŢEŞTI,141,1,29,15,1,43,4,12,136,2,26,9,1,39,4,28,Școala Primară Tîlvești,Nr. 65,Tâlvești,44.9488,23.2342
+100,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,271,15,86,28,1,19,14,42,265,10,68,23,1,13,12,84,Școala Gimnazială George Uscătescu,Str. Trandafirilor nr. 39,Târgu Cărbunești,44.961,23.5094
+101,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,273,8,63,19,1,28,14,33,235,6,54,21,1,27,10,78,Școala Gimnazială George Uscătescu,Str. Trandafirilor nr. 39,Târgu Cărbunești,44.961,23.5094
+102,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,263,16,67,25,2,23,11,30,260,16,55,23,2,18,7,58,Colegiu Național Tudor Arghezi,Str. Tudor Arghezi (Aleea Liceului) nr. 18,Târgu Cărbunești,44.9606,23.514
+1,20,GORJ,MUNICIPIUL TÎRGU JIU,342,77,122,57,4,40,32,96,320,81,95,62,4,66,24,112,Universitatea „Constantin Brâncuși”,,Târgu Jiu,45.0385,23.2749
+2,20,GORJ,MUNICIPIUL TÎRGU JIU,218,72,100,34,2,40,63,120,204,74,82,46,2,54,50,123,Colegiul Național Tudor Vladimirescu,Str. Unirii nr. 13,Târgu Jiu,45.0373,23.274
+3,20,GORJ,MUNICIPIUL TÎRGU JIU,210,56,88,45,2,26,32,95,203,65,71,36,1,38,27,103,Colegiul Național Tudor Vladimirescu,Str. Unirii nr. 13,Târgu Jiu,45.0373,23.274
+4,20,GORJ,MUNICIPIUL TÎRGU JIU,251,56,105,46,7,37,49,105,234,60,86,42,2,41,46,140,Școala Gimnazială Constantin Săvoiu,Str. Popa Șapcă (Cartierul Unirii Popa Șapcă) (D) nr. 9,Târgu Jiu,45.0375,23.2728
+5,20,GORJ,MUNICIPIUL TÎRGU JIU,232,53,78,25,3,25,27,73,202,57,57,31,1,43,21,93,Școala Gimnazială Constantin Săvoiu,Str. Unirii nr. 9,Târgu Jiu,45.0375,23.2728
+6,20,GORJ,MUNICIPIUL TÎRGU JIU,316,65,103,42,5,31,44,93,281,66,87,41,3,31,43,138,Colegiul Tehnic nr. 2,Str. Victoriei (Cartierul Centru-Victoriei) nr. 134,Târgu Jiu,45.0315,23.2689
+8,20,GORJ,MUNICIPIUL TÎRGU JIU,268,51,78,37,5,44,41,76,250,51,65,37,4,61,35,94,Școala Gimnazială Alexandru Ștefulescu,Calea Eroilor nr. 32,Târgu Jiu,45.0384,23.2759
+9,20,GORJ,MUNICIPIUL TÎRGU JIU,324,36,75,32,5,56,49,106,302,43,67,31,5,63,39,129,Universitatea Constantin Brâncuși,Calea București nr. 69A,Târgu Jiu,45.0397,23.3143
+11,20,GORJ,MUNICIPIUL TÎRGU JIU,229,57,67,38,2,24,30,79,219,56,56,39,1,41,24,85,Colegiul Național Spiru Haret,Str. 1 Decembrie 1918 nr. 106,Târgu Jiu,45.0278,23.2785
+12,20,GORJ,MUNICIPIUL TÎRGU JIU,194,38,90,20,2,32,25,62,181,35,75,20,3,38,26,84,Colegiul Național Spiru Haret,Str. 1 Decembrie 1918 nr. 106,Târgu Jiu,45.0278,23.2785
+13,20,GORJ,MUNICIPIUL TÎRGU JIU,283,36,104,30,7,33,44,97,265,36,83,30,5,40,42,129,Colegiul Național Spiru Haret,Str. 1 Decembrie 1918 nr. 106,Târgu Jiu,45.0278,23.2785
+14,20,GORJ,MUNICIPIUL TÎRGU JIU,273,39,63,24,7,28,22,54,248,40,45,25,3,36,15,96,Colegiul Național Spiru Haret,Str. 1 Decembrie 1918 nr. 106,Târgu Jiu,45.0278,23.2785
+15,20,GORJ,MUNICIPIUL TÎRGU JIU,223,32,71,22,5,26,27,50,197,35,61,14,4,28,22,91,Colegiul Național Spiru Haret,Str. 1 Decembrie 1918 nr. 106,Târgu Jiu,45.0278,23.2785
+16,20,GORJ,MUNICIPIUL TÎRGU JIU,213,62,78,34,1,27,32,80,182,61,62,39,1,40,36,107,Palatul Copiilor,Str. Siretului (Cartierul Unirii-Siret) nr. 20,Târgu Jiu,45.0363,23.2738
+17,20,GORJ,MUNICIPIUL TÎRGU JIU,304,77,115,46,6,41,45,88,280,74,95,36,4,47,39,141,Liceul Teologic,Str. Alexandru Ioan Cuza nr. 23,Târgu Jiu,45.0311,23.2783
+18,20,GORJ,MUNICIPIUL TÎRGU JIU,221,36,65,44,2,32,19,63,211,33,56,44,1,34,22,81,Liceul Teologic,Str. Alexandru Ioan Cuza nr. 23,Târgu Jiu,45.0311,23.2783
+19,20,GORJ,MUNICIPIUL TÎRGU JIU,362,50,87,36,8,41,41,99,316,55,78,35,6,55,42,130,Liceul Teologic,Str. Alexandru Ioan Cuza nr. 23,Târgu Jiu,45.0311,23.2783
+20,20,GORJ,MUNICIPIUL TÎRGU JIU,305,49,75,28,2,38,44,84,283,54,66,28,4,41,36,103,Școala Gimnazială Gheorghe Tătărăscu,Str. 23 August nr. 47,Târgu Jiu,45.0285,23.2719
+21,20,GORJ,MUNICIPIUL TÎRGU JIU,329,58,96,35,8,40,35,83,297,51,80,34,1,53,34,132,Școala Gimnazială Gheorghe Tătărăscu,Str. 23 August nr. 47,Târgu Jiu,45.0285,23.2719
+22,20,GORJ,MUNICIPIUL TÎRGU JIU,261,39,79,29,7,21,32,68,236,34,63,27,1,32,29,115,Școala Gimnazială Pompiliu Marcea,Str. Mioriței nr. 4,Târgu Jiu,45.0262,23.2744
+23,20,GORJ,MUNICIPIUL TÎRGU JIU,325,45,92,25,6,60,48,95,304,45,77,25,9,62,42,131,Școala Gimnazială Pompiliu Marcea,Str. Mioriței nr. 4,Târgu Jiu,45.0262,23.2744
+24,20,GORJ,MUNICIPIUL TÎRGU JIU,350,49,97,39,10,26,42,95,304,60,72,32,6,55,41,132,Școala Gimnazială Constantin Brâncuși,Str. Liviu Rebreanu nr. 1,Târgu Jiu,45.0238,23.2765
+25,20,GORJ,MUNICIPIUL TÎRGU JIU,333,45,83,40,6,36,34,78,329,41,67,35,3,38,28,103,Școala Gimnazială Constantin Brâncuși,Str. Liviu Rebreanu nr. 1,Târgu Jiu,45.0238,23.2765
+26,20,GORJ,MUNICIPIUL TÎRGU JIU,268,44,76,33,9,36,25,80,241,44,74,30,4,48,20,109,Școala Gimnazială Constantin Brâncuși,Str. Liviu Rebreanu nr. 1,Târgu Jiu,45.0238,23.2765
+27,20,GORJ,MUNICIPIUL TÎRGU JIU,257,32,84,23,3,31,30,59,221,40,82,15,1,46,28,86,Școala Gimnazială Constantin Brâncuși,Str. Liviu Rebreanu nr. 1,Târgu Jiu,45.0238,23.2765
+28,20,GORJ,MUNICIPIUL TÎRGU JIU,269,47,67,37,5,36,37,75,253,44,59,36,4,42,33,99,Colegiul Național Ecaterina Teodoroiu,Str. 1 Decembrie 1918 nr. 25,Târgu Jiu,45.0281,23.271
+29,20,GORJ,MUNICIPIUL TÎRGU JIU,280,51,69,32,2,32,38,73,255,58,65,37,4,36,34,101,Colegiul Național Ecaterina Teodoroiu,Str. 1 Decembrie 1918 nr. 25,Târgu Jiu,45.0281,23.271
+30,20,GORJ,MUNICIPIUL TÎRGU JIU,252,46,88,33,10,27,60,96,234,47,82,38,4,33,41,111,Colegiul Național Ecaterina Teodoroiu,Str. 1 Decembrie 1918 nr. 25,Târgu Jiu,45.0281,23.271
+31,20,GORJ,MUNICIPIUL TÎRGU JIU,218,46,45,33,4,26,30,63,184,48,35,33,4,45,15,87,Liceul cu Program Sportiv,Str. 23 August nr. 100,Târgu Jiu,45.0237,23.2716
+32,20,GORJ,MUNICIPIUL TÎRGU JIU,220,39,47,20,3,25,33,64,194,42,37,18,3,31,32,94,Liceul cu Program Sportiv,Str. 23 August nr. 100,Târgu Jiu,45.0237,23.2716
+33,20,GORJ,MUNICIPIUL TÎRGU JIU,402,100,95,36,6,48,36,99,379,95,81,45,3,63,37,126,Colegiul Economic Virgil Madgearu,Str. Tudor Vladimirescu nr. 127,Târgu Jiu,45.0383,23.2861
+34,20,GORJ,MUNICIPIUL TÎRGU JIU,348,76,143,76,4,50,39,109,319,74,120,67,4,72,31,142,Colegiul Economic Virgil Madgearu,Str. Tudor Vladimirescu nr. 127,Târgu Jiu,45.0383,23.2861
+35,20,GORJ,MUNICIPIUL TÎRGU JIU,251,57,69,23,5,26,32,69,218,53,58,26,5,43,31,99,Liceul de Arte Constantin Brăiloiu,Str. Griviței nr. 34,Târgu Jiu,45.0436,23.2781
+36,20,GORJ,MUNICIPIUL TÎRGU JIU,344,98,89,53,19,34,43,109,327,110,77,41,7,60,27,121,Liceul de Arte Constantin Brăiloiu,Str. Griviței nr. 34,Târgu Jiu,45.0436,23.2781
+37,20,GORJ,MUNICIPIUL TÎRGU JIU,288,20,58,9,1,17,6,40,291,16,51,12,1,20,4,47,Liceul de Arte Constantin Brăiloiu,Str. Griviței nr. 34,Târgu Jiu,45.0436,23.2781
+38,20,GORJ,MUNICIPIUL TÎRGU JIU,198,43,51,35,8,20,23,65,183,56,48,34,5,26,15,64,Liceul de Arte Constantin Brăiloiu,Str. Griviței nr. 34,Târgu Jiu,45.0436,23.2781
+39,20,GORJ,MUNICIPIUL TÎRGU JIU,227,49,72,39,4,17,31,78,211,54,59,38,1,40,28,73,Casa de Cultură a Sindicatelor,Str. Traian nr. 5,Târgu Jiu,45.0419,23.273
+40,20,GORJ,MUNICIPIUL TÎRGU JIU,439,88,111,62,14,47,45,128,413,87,99,60,2,78,37,143,Școala Gimnazială Sfântu Nicolae,Str. 11 Iunie 1848 nr. 64,Târgu Jiu,45.0475,23.2749
+41,20,GORJ,MUNICIPIUL TÎRGU JIU,198,36,51,26,2,23,32,64,182,38,45,21,3,26,33,81,Școala Gimnazială Sfântu Nicolae,Str. 11 Iunie 1848 nr. 64,Târgu Jiu,45.0475,23.2749
+42,20,GORJ,MUNICIPIUL TÎRGU JIU,261,60,59,28,7,26,21,59,219,67,54,30,4,40,32,84,Școala Gimnazială Sfântu Nicolae,Str. 11 Iunie 1848 nr. 64,Târgu Jiu,45.0475,23.2749
+43,20,GORJ,MUNICIPIUL TÎRGU JIU,290,44,86,56,5,32,40,90,267,46,65,52,5,37,40,130,Școala Generală Ecaterina Teodoroiu,Str. G-ral Ion Dragalina (Str. Ecaterina Teodoroiu) (D) nr. 41,Târgu Jiu,45.0512,23.2822
+44,20,GORJ,MUNICIPIUL TÎRGU JIU,310,41,101,37,6,35,51,102,277,40,87,45,3,39,40,141,Colegiul Tehnic Ion Mincu,Str. Lt. col. Dumitru Petrescu (Cartierul Debarcader) nr. 4,Târgu Jiu,45.052,23.2802
+45,20,GORJ,MUNICIPIUL TÎRGU JIU,167,18,34,14,5,22,17,35,161,19,26,17,1,28,11,41,Colegiul Tehnic Ion Mincu,Str. Lt. col. Dumitru Petrescu (Cartierul Debarcader) nr. 4,Târgu Jiu,45.052,23.2802
+46,20,GORJ,MUNICIPIUL TÎRGU JIU,229,26,57,38,3,31,32,92,214,23,57,41,1,34,27,99,Colegiul Tehnic General Gheorghe Magheru,Str. Lt. col. Dumitru Petrescu (Cartierul Debarcader) nr. 18,Târgu Jiu,45.0533,23.2794
+47,20,GORJ,MUNICIPIUL TÎRGU JIU,227,23,77,41,4,25,27,71,217,25,70,34,2,30,21,93,Colegiul Tehnic General Gheorghe Magheru,Str. Lt. col. Dumitru Petrescu (Cartierul Debarcader) nr. 18,Târgu Jiu,45.0533,23.2794
+48,20,GORJ,MUNICIPIUL TÎRGU JIU,350,54,71,22,7,37,32,75,325,57,53,22,3,46,23,117,Școala Gimnazială nr. 7,Str. G-ral Ion Dragalina (Str. Ecaterina Teodoroiu) (D) nr. 369,Târgu Jiu,45.0678,23.2937
+49,20,GORJ,MUNICIPIUL TÎRGU JIU,316,19,48,23,7,26,25,72,289,22,40,24,3,33,25,102,Școala Gimnazială nr. 7,Str. G-ral Ion Dragalina (Str. Ecaterina Teodoroiu) (D) nr. 369,Târgu Jiu,45.0678,23.2937
+50,20,GORJ,MUNICIPIUL TÎRGU JIU,367,66,100,65,6,41,45,101,357,63,85,58,5,48,32,119,Școala Gimnazială Voievod Litovoi,Calea Severinului (Str. Mehedinți) nr. 86,Târgu Jiu,45.0363,23.2549
+51,20,GORJ,MUNICIPIUL TÎRGU JIU,505,52,79,22,4,39,36,79,491,52,76,20,2,40,37,103,Școala Gimnazială Voievod Litovoi,Calea Severinului (Str. Mehedinți) nr. 86,Târgu Jiu,45.0363,23.2549
+52,20,GORJ,MUNICIPIUL TÎRGU JIU,429,23,84,37,7,31,36,72,421,20,79,29,9,40,29,90,Școala Gimnazială Voievod Litovoi,Calea Severinului (Str. Mehedinți) nr. 86,Târgu Jiu,45.0363,23.2549
+56,20,GORJ,MUNICIPIUL TÎRGU JIU,157,18,51,24,2,20,14,42,143,18,46,25,1,21,15,62,Colegiul Tehnic Henr. Coandă,Str. Islaz nr. 2,Târgu Jiu,45.0571,23.2878
+240,20,GORJ,LOGREŞTI,193,3,38,3,0,10,8,40,168,4,16,2,1,5,5,88,Cămin Cultural Tîrgu Logrești,,Târgu Logrești,44.8746,23.7072
+140,20,GORJ,BĂLEŞTI,121,1,79,7,1,12,13,23,122,2,82,5,1,12,9,19,Școala Primară Tălpășești,,Tălpășești,45.0211,23.1613
+141,20,GORJ,BĂLEŞTI,120,5,49,9,1,23,7,24,96,5,50,10,1,27,8,41,Școala Primară Tămășești,,Tămășești,44.9946,23.1853
+326,20,GORJ,URDARI,380,5,78,27,1,17,12,31,381,7,70,23,1,15,14,44,Școala Gimnazială nr. 1 Urdari,Nr. 242,Urdari,44.7982,23.2934
+209,20,GORJ,DRĂGUŢEŞTI,249,3,15,15,1,34,9,22,231,3,14,8,2,36,8,42,Școala Generală Urechești,Nr. 406,Urechești,44.9627,23.2694
+55,20,GORJ,MUNICIPIUL TÎRGU JIU,166,8,40,14,11,12,13,30,167,9,45,12,6,12,8,30,Școala Primară și Grădinița de Copii Ursați,Str. Ursați nr. 49,Ursați,45.0791,23.2302
+159,20,GORJ,BOLBOŞI,143,1,43,11,2,16,28,43,139,4,46,11,1,18,26,43,Școala Generală Valea,,Valea,44.7193,23.2142
+280,20,GORJ,RUNCU,317,9,35,19,8,9,12,25,321,10,33,20,8,8,11,24,Școala Primară Valea-Mare,,Valea Mare,45.1116,23.0792
+180,20,GORJ,CĂTUNELE,115,5,14,4,5,7,5,17,121,6,13,4,3,8,8,13,Școala Gimnazială „Mazilu Vipie Gheorghe”,Nr. 34,Valea Mânăstirii,44.8236,22.934
+179,20,GORJ,CĂTUNELE,143,4,24,9,5,7,7,18,133,3,26,9,7,17,8,16,Grădinița Valea Perilor,Nr. 93,Valea Perilor,44.8441,22.9189
+173,20,GORJ,BUSTUCHIN,67,6,14,6,3,6,25,122,25,5,9,0,1,3,2,181,Școala Primară Valea Pojarului,Nr. 50,Valea Pojarului,44.9382,23.7277
+216,20,GORJ,FĂRCĂŞEŞTI,86,7,137,80,1,17,3,10,91,6,132,72,2,19,1,17,Școala Generală Victor Popescu,,Valea cu Apă,44.8529,23.2398
+229,20,GORJ,JUPÎNEŞTI,47,1,19,4,1,5,2,5,47,1,18,3,2,4,3,10,Școala Primară Vidin,,Vidin,44.9251,23.511
+232,20,GORJ,JUPÎNEŞTI,103,1,5,5,2,16,6,11,92,1,5,4,2,12,4,24,Școala Primară Vierșani,,Vierșani,44.8751,23.5304
+331,20,GORJ,VLADIMIR,119,1,116,6,1,41,20,33,116,3,118,8,1,43,19,39,Școala Primară nr. 1 Vladimir,,Vladimir,44.8324,23.5679
+156,20,GORJ,BÎLTENI,167,13,59,19,2,38,15,43,164,12,60,23,2,41,13,40,Școala Primară Vlăduleni,Nr. 94,Vlăduleni,44.8833,23.2448
+135,20,GORJ,BĂLĂNEŞTI,297,4,21,15,6,23,5,37,278,4,19,13,6,22,8,59,Primărie,Nr. 228,Voiteștii de Vale,45.0846,23.4232
+92,20,GORJ,ORAŞ ROVINARI,97,17,19,7,1,86,11,24,83,18,14,8,1,100,9,28,Grădinița Cartier Vîrț,,Vârt,44.9362,23.1346
+185,20,GORJ,CIUPERCENI,63,5,18,9,4,3,40,46,64,2,16,9,2,5,36,46,Școala Primară Vîrtopu,Nr. 167,Vârtopu,44.9121,22.9769
+203,20,GORJ,DĂNEŞTI,184,12,73,20,5,16,19,41,180,10,74,22,4,18,17,41,Școala Primară Văcarea,,Văcarea,44.9699,23.3028
+328,20,GORJ,VĂGIULEŞTI,253,5,89,40,3,26,5,18,256,7,82,47,3,28,7,13,Școala Generală nr. 1 Vâgiulești,,Văgiulești,44.7182,23.0805
+265,20,GORJ,PLOPŞORU,267,10,87,33,7,37,48,62,260,8,87,30,6,52,42,59,Școala Primară Văleni,Nr. 270,Văleni,44.7418,23.3843
+275,20,GORJ,PRIGORIA,104,4,16,11,1,6,5,13,95,3,16,8,1,4,3,26,Școala cu Clasele I-IV Zorlești,,Zorlești,45.0913,23.7174
+204,20,GORJ,DĂNEŞTI,105,15,44,16,2,24,8,17,96,16,46,12,1,24,7,27,Școala Primară Șasa,,Șasa,44.986,23.3729
+316,20,GORJ,TURBUREA,248,8,28,11,1,8,9,17,246,7,21,9,2,11,12,26,Spațiul Public Șipotu,,Șipotu,44.6966,23.5232
+279,20,GORJ,ROŞIA DE AMARADIA,69,5,38,4,2,2,7,20,58,4,34,6,2,4,1,36,Grădinița Șitoaia,Nr. 63,Șitoaia,45.0715,23.7659
+313,20,GORJ,TELEŞTI,226,4,26,18,2,13,22,41,210,5,24,22,2,12,18,56,Școala Primară Șomănești,,Șomănești,44.9583,23.1055
+105,20,GORJ,ORAŞ TÎRGU CĂRBUNEŞTI,164,2,13,4,1,9,2,8,160,2,17,6,1,6,1,8,Școala Primară Ștefănești,Nr. 223A,Ștefănești,44.9762,23.5563
+116,20,GORJ,ORAŞ ŢICLENI,180,10,26,20,2,24,10,71,203,12,28,18,1,17,7,69,Grădinița nr. 2 Tunși,Nr. 256,Țicleni,44.9022,23.4406
+117,20,GORJ,ORAŞ ŢICLENI,204,25,60,12,1,52,16,103,230,25,52,18,1,35,18,97,Școala Gimnazială nr. 1 Țicleni,Nr. 686,Țicleni,44.8845,23.3969
+118,20,GORJ,ORAŞ ŢICLENI,160,7,32,10,2,34,17,82,187,5,31,11,2,21,10,68,Școala Gimnazială nr. 1 Țicleni,Nr. 686,Țicleni,44.8845,23.3969
+119,20,GORJ,ORAŞ ŢICLENI,235,9,44,21,2,31,12,81,272,19,46,16,1,22,13,55,Grădinița nr. 3 Rășina,,Țicleni,44.8717,23.3679
+321,20,GORJ,ŢÎNŢĂRENI,471,22,97,20,1,49,24,57,460,21,99,21,0,58,21,45,Școala Coordonatoare Țînțăreni,,Țânțăreni,44.5995,23.4921

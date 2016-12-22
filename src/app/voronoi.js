@@ -1,18 +1,176 @@
 import d3 from 'd3';
-import { maxBy, find } from 'lodash';
+import Promise from 'bluebird';
+import fetch from 'isomorphic-fetch';
+import { find, maxBy, filter, reduce } from 'lodash';
 
-import { partyColors, getWinnerColor, getCoord, counties, sum, getPointsByCity } from './helpers';
+import * as helpers from './helpers';
 import * as Boxes from './boxes';
 import * as Loader from './loader';
-import {filter, reduce} from 'lodash';
 
 // Clears the overlay that contains the Voronoi map
 const clearVoronoiOverlay = () => {
   d3.select('#overlay').remove();
 }
 
+const getCountyPoints = (county) => {
+  return new Promise((resolve, reject) => {
+    d3.csv(`./rezultate/${county.toUpperCase()}.csv`, (response) => {
+      let cities = [];
+
+      let points = filter(response, o => (o.id != 'total')).map((point) => {
+        // Change the structure of the point
+        point = {
+          id: point.id,
+          name: point.name,
+          address: point.address,
+          city: point.city,
+          lat: point.lat,
+          lng: point.lng,
+          county,
+          votes: {
+            cdep: {
+              usr: parseInt(point.usr_cdep),
+              psd: parseInt(point.psd_cdep),
+              pnl: parseInt(point.pnl_cdep),
+              pmp: parseInt(point.pmp_cdep),
+              udmr: parseInt(point.udmr_cdep),
+              alde: parseInt(point.alde_cdep),
+              pru: parseInt(point.pru_cdep),
+              altele: parseInt(point.altele_cdep)
+            },
+            senat: {
+              usr: parseInt(point.usr_senat),
+              psd: parseInt(point.psd_senat),
+              pnl: parseInt(point.pnl_senat),
+              pmp: parseInt(point.pmp_senat),
+              udmr: parseInt(point.udmr_senat),
+              alde: parseInt(point.alde_senat),
+              pru: parseInt(point.pru_senat),
+              altele: parseInt(point.altele_senat)
+            }
+          },
+        };
+
+        // Collect the city list
+        if (!cities.includes(point.city)) {
+          cities.push(point.city);
+        }
+
+        // Save point at coord
+        return point;
+      });
+
+      resolve({
+        points,
+        cities: cities.map((city, id) => ({id, city}))
+      });
+    }); // d3.csv
+  }); // Promise
+};
+
+const appendToCitiesSelect = (cities, county, points, map) => {
+  Boxes.drawCities(cities, county);
+
+  let $citiesSelect = $('.cities').removeClass('dn');
+  $citiesSelect.off('change select2:select select2:unselect'); // Needs to happen before the select2 init
+  map.off('click moveend'); // Needs to happen before the select2 init
+
+  $citiesSelect.select2({
+    placeholder: "Afișează secții din localitățile",
+  }).data('select2').$container.addClass('mt2');
+
+  map.on('click moveend', () => { $citiesSelect.select2('close') });
+
+  const setViewToCity = (city, points, map) => {
+    const coord = find(points, {city: city});
+    map.setView([coord.lat, coord.lng], 14)
+    Boxes.drawCityResults(points, city);
+  }
+
+  $citiesSelect.on('select2:select', (e) => {
+    setViewToCity(e.params.data.id, points, map);
+  });
+
+  $citiesSelect.on('select2:unselect', (e) => {
+    const selectedCities = $citiesSelect.val();
+    if (!selectedCities.length)
+      return;
+    setViewToCity(selectedCities[selectedCities.length-1], points, map);
+  });
+
+  $citiesSelect.on('change', (e) => {
+    let $container = $('.results-navigator-box').find('.cities-nav');
+    $container.find('.nav').empty();
+    let selectedCities = $citiesSelect.val();
+    if (!selectedCities.length) {
+      return $container.addClass('dn');
+    }
+
+    drawWithLoader(map, points, selectedCities);
+
+    $container.removeClass('dn');
+    const $navContainer = $container.find('.nav');
+    selectedCities.forEach(city => {
+      let $link = $(`<a href="#" class="black pv1 bl bb b--white ph2 bg-light-gray hover-bg-gray hover-light-gray dib" data="${city}">${city}</a>`)
+        .click(e => {
+          e.preventDefault();
+          let city = $(e.target).attr('data');
+          let clickedCoord = find(points, { city: city });
+          map.setView([clickedCoord.lat, clickedCoord.lng], 14);
+          Boxes.drawCityResults(points, city);
+        });
+      $navContainer.append($link);
+    });
+  });
+
+  return $citiesSelect;
+}
+
+const drawCountiesSelect = (map, selectedCallback) => {
+  let $countiesSelect = $('select.counties');
+
+  Boxes.drawCounties();
+  const selectOptions = {
+    placeholder: "Încarcă date din județul",
+    allowClear: false
+  };
+  $countiesSelect.select2(selectOptions);
+
+  map.on('click moveend', () => $countiesSelect.select2('close'));
+
+  $countiesSelect.val('').trigger('change');
+
+  // When a new county is selected
+  $countiesSelect.on('select2:select', (e) => {
+    // TODO, maybe move after load
+    $countiesSelect.find(`option[value=${e.params.data.id}]`).prop('disabled', true);
+    $countiesSelect.find(`option[value=${e.params.data.id}]`).text((i, t) => `${t} (Încărcat)`);
+    $countiesSelect.select2(selectOptions);
+    $countiesSelect.val('').trigger('change');
+
+    selectedCallback({
+      selectedCounty: e.params.data.id,
+      container: $(e.target).closest('.box'),
+      element: $countiesSelect
+    });
+  });
+}
+
+const focusOnCounty = (county, points, map, move = true) => {
+  helpers.doFetch(
+    `https://api.mapbox.com/geocoding/v5/mapbox.places/${county.toLowerCase()}.json?country=ro&access_token=${process.env['MAPBOX_ACCESS_TOKEN']}`
+  )
+  .then(response => response.json())
+  .then(json => {
+    if (move) {
+      map.setView(json.features[0].center.reverse(), 10);
+    }
+    Boxes.drawCountyResults(points, county);
+  }).catch(e => console.log('Getting the county coords did not work', e));
+}
+
 // Draws a Voronoi map
-const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
+const drawVoronoiOverlay = (map, points, visibleCities) => {
   clearVoronoiOverlay();
 
   let bounds = map.getBounds(),
@@ -23,12 +181,19 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
     drawLimits = bounds.pad(0.4);
 
   // Filter the points to remove duplicates and points that are out of bounds
+  let pointsAtCoord = d3.map();
   let filteredPoints = points.map((point) => {
-    var latlng = new L.LatLng(point.lat, point.lng);
+    const latlng = new L.LatLng(point.lat, point.lng);
     if (
       !drawLimits.contains(latlng)
       || !visibleCities.includes(point.city)
     ) { return false };
+
+    // Get points the points at a certain coordinate
+    const coord = helpers.getCoord(point);
+    const existingPoints = pointsAtCoord.get(coord) || [];
+    pointsAtCoord.set(coord, existingPoints.concat(point));
+
     const layerPoint = map.latLngToLayerPoint(latlng);
 
     // Eliminates duplicate points
@@ -41,7 +206,7 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
       x: layerPoint.x,
       y: layerPoint.y
     };
-  }).filter(point => point);
+  }).filter(p => p);
 
   // Transform the points into polygons that can be rendered
   const voronoi = d3.geom.voronoi().x(d => d.x).y(d => d.y);
@@ -79,8 +244,8 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
           data = cell.datum();
 
       if (lastSelectedPoint == data) {
+        Boxes.drawCityResults(points, lastSelectedPoint.point.city);
         lastSelectedPoint = null;
-        Boxes.clearDetails();
         return;
       }
 
@@ -89,7 +254,7 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
 
       d3.select(this.parentNode).select('circle').classed('selected', true);
 
-      Boxes.drawDetails(pointsAtCoord.get(getCoord(data.point)));
+      Boxes.drawPointResults(pointsAtCoord.get(helpers.getCoord(data.point)));
     });
     //.classed("selected", function(d) { return lastSelectedPoint == d} );
 
@@ -105,13 +270,13 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
     .attr('cx', d => d.point.x)
     .attr('cy', d => d.point.y)
     .attr('class', d => {
-      return getWinnerColor(pointsAtCoord.get(getCoord(d.point))) == partyColors['none'] ? 'none' : ''
+      return helpers.getWinnerColor(pointsAtCoord.get(helpers.getCoord(d.point))) == helpers.partyColors['none'] ? 'none' : ''
     })
-    .style('fill', d => getWinnerColor(pointsAtCoord.get(getCoord(d.point))))
-    .style('stroke', d => getWinnerColor(pointsAtCoord.get(getCoord(d.point))))
+    .style('fill', d => helpers.getWinnerColor(pointsAtCoord.get(helpers.getCoord(d.point))))
+    .style('stroke', d => helpers.getWinnerColor(pointsAtCoord.get(helpers.getCoord(d.point))))
     .attr("r", d => {
       //console.log()
-      const numberOfBooths = pointsAtCoord.get(getCoord(d.point)).length;
+      const numberOfBooths = pointsAtCoord.get(helpers.getCoord(d.point)).length;
       const mapZoom = map.getZoom();
       let radius = (3/8)*mapZoom + numberOfBooths;//numberOfBooths + 1 //+ (20 + Math.max(map.getZoom(), 0)) / 10;
       //console.log(mapZoom);
@@ -119,159 +284,61 @@ const drawVoronoiOverlay = (map, points, pointsAtCoord, visibleCities) => {
     })
 }
 
+const drawWithLoader = (map, points, visibleCities) => {
+  Loader.show();
+  setTimeout(() => {
+    drawVoronoiOverlay(map, points, visibleCities);
+    Loader.hide();
+  }, 0);
+}
+
+
 // In prima faza dupa numarul de sectii, apoi dupa numarul de voturi
 // Marimea la bile zoom out si in sa fie ok
 // Harta culorilor partidelor
 // Update UI
 export default function (map, url) {
-  let pointsAtCoord = d3.map(),
-    points = [],
-    $countiesSelect = $('.counties'),
-    $reloadButton = $('#reload'),
-    $citiesSelect = $('.cities');
-
-  const drawWithLoader = (points, pointsAtCoord, visibleCities) => {
-    Loader.show();
-    setTimeout(() => {
-      drawVoronoiOverlay(map, points, pointsAtCoord, visibleCities);
-      Loader.hide();
-    }, 0);
-  }
 
   map.on('ready', () => {
-    const getCityJson = (url, county, callback) => {
-      d3.json(url + '?nocache=' + (new Date()).getTime(), (response) => {
-        let cities = [];
-        let points = filter(response, o => (o.id != 'total'));
+    let points = [];
+    drawCountiesSelect(map, ({ selectedCounty, container: $container, element: $counties }) => {
+        /*
+         * When a certain county is selected, get the list of points
+         * from this county.
+         */
+        getCountyPoints(selectedCounty)
+          // When the list of points is complete...
+          .then(pointData => {
+            // 1. Draw the cities select
+            let { points: newPoints, cities } = pointData;
+            points = [...newPoints, ...points];
+            let $cities = appendToCitiesSelect(
+              cities,
+              selectedCounty,
+              points,
+              map
+            );
 
-        // Reset pointsAtCoord on each new json load
-        // so that old points don't add up with the response
-        pointsAtCoord = d3.map();
+            // 3. Append a new navigation link
+            let $link = $(`<a href="#" class="black pv1 bl bb b--white ph2 bg-light-gray hover-bg-gray hover-light-gray dib">${selectedCounty}</a>`)
+              .click(e => {
+                e.preventDefault();
+                //Boxes.drawCountyResults(points, $(e.target).text());
+                focusOnCounty($(e.target).text(), points, map, false);
+              });
+              $('.results-navigator-box')
+                .find('.results-nav')
+                .removeClass('dn')
+                .find('.counties-nav .nav')
+                .append($link);
 
-    // Get the IDs for each location
-    points = points.map((point) => {
-      // Change the structure of the point
-      point = {
-        id: point.id,
-        name: point.name,
-        address: point.address,
-        city: point.city,
-        lat: point.lat,
-        lng: point.lng,
-        votes: {
-          cdep: {
-            usr: parseInt(point.usr_cdep),
-            psd: parseInt(point.psd_cdep),
-            pnl: parseInt(point.pnl_cdep),
-            pmp: parseInt(point.pmp_cdep),
-            udmr: parseInt(point.udmr_cdep),
-            alde: parseInt(point.alde_cdep),
-            pru: parseInt(point.pru_cdep),
-            altele: parseInt(point.altele_cdep)
-          },
-          senat: {
-            usr: parseInt(point.usr_senat),
-            psd: parseInt(point.psd_senat),
-            pnl: parseInt(point.pnl_senat),
-            pmp: parseInt(point.pmp_senat),
-            udmr: parseInt(point.udmr_senat),
-            alde: parseInt(point.alde_senat),
-            pru: parseInt(point.pru_senat),
-            altele: parseInt(point.altele_senat)
-          }
-        },
-      };
+            // 4. Zoom to the county on the map, and draw the county results
+            focusOnCounty(selectedCounty, newPoints, map);
 
-      point.reportedStations = (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0)) > 0 ? 1 : 0
-
-      // Collect the city list
-      if (!cities.includes(point.city)) {
-        cities.push(point.city);
-      }
-
-      // Save point at coord
-      const coord = getCoord(point);
-      let existingPoints = pointsAtCoord.get(coord) || [];
-      pointsAtCoord.set(coord, existingPoints.concat(point));
-      return point;
-    });
-
-    Boxes.drawCountyResults(points, 'județul Cluj');
-
-    cities = cities.map((city, id) => ({id, city}));
-
-    Boxes.drawCities(cities, county);
-    $citiesSelect.select2({
-      placeholder: "Alege Localitatea",
-    });
-    $citiesSelect.on('select2:select', (e) => {
-      let coord = find(points, {city: e.params.data.id});
-      map.setView([coord.lat, coord.lng], 14);
-    });
-
-    $citiesSelect.on('select2:unselect', (e) => {
-      let selectedCity = $citiesSelect.val();
-      let coord = find(points, {city: selectedCity});
-      map.setView([coord.lat, coord.lng], 14);
-    })
-    $citiesSelect.on('change', (e) => {
-      drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
-
-      let selectedCity = $citiesSelect.val();
-      let $navContainer = $(e.target).closest('.box').find('.city-navigator');
-      $navContainer.find('.city-link').remove();
-      $navContainer.find('.title').html();
-      if (!selectedCity.length) {
-        return;
-      }
-
-        let coord = find(points, {city: selectedCity});
-        let $link = $(`<a href="#" class="city-link black dim ml1" data="${selectedCity}">${selectedCity.split(' ').join("&nbsp;")}</a>`)
-        .click(function(e) {
-          e.preventDefault();
-          map.setView([coord.lat, coord.lng], 14);
-          let city = $(e.target).attr('data');
-          Boxes.drawCityResults(points, city);
-        });
-        $navContainer
-          .append($link)
-          .find('.title').html('Vezi rezultate pentru:');
-
-  // console.log(getPointsByCity(points));
-    });
-
-    $citiesSelect.val('Cluj-Napoca').trigger('change');
-    let Clujcoords = find(points, {city: 'Cluj-Napoca'});
-    map.setView([Clujcoords.lat, Clujcoords.lng], 14)
-        map.on('viewreset moveend', () => {
-          drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
-          Boxes.clearDetails();
-          Boxes.drawCountyResults(points, 'județul Cluj');
-        });
-        drawWithLoader(points, pointsAtCoord, $citiesSelect.val());
-        if (callback) callback();
-      });
-    };
-
-    Boxes.drawCounties();
-    $countiesSelect.select2({
-      placeholder: "Alege Județul",
-      allowClear: true
-    });
-    $countiesSelect.on('change', (e) => {
-      getCityJson(`data.json`, e.target.value)
-      //map.setView([coord.lat, coord.lng], 14);
-    });
-    $countiesSelect.val('Cluj').trigger('change'); // set the default to Cluj for now
-
-    $reloadButton.on('click', () => {
-      let selectedCity = $citiesSelect.val();
-      getCityJson('data.json', 'Cluj', () => {
-    Boxes.clearDetails();
-    if (window.lastActivePoint) {
-      Boxes.drawDetails(pointsAtCoord.get(getCoord(window.lastActivePoint)));
-    }
-      });
+            map.on('viewreset moveend', () => {
+              drawWithLoader(map, points, $cities.val());
+            }).fire('viewreset');
+          });
     });
   });
 }

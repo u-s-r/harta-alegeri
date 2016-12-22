@@ -8,6 +8,10 @@ body {
   padding-bottom: 0;
 }
 
+.select2.mt2 {
+  margin-top: .5em !important;
+}
+
 .point-cell {
   fill: none;
   pointer-events: all;
@@ -103,9 +107,8 @@ body {
   }
 }
 
-.chart-container {
-	display: inline-block;
-	width: 49%;
+.chart-container svg{
+  overflow: visible !important;
 }
 
 .top-50 {

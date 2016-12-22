@@ -1,0 +1,528 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+147,39,VASLUI,ALBEŞTI,168,19,38,12,1,11,6,23,167,19,43,7,1,10,9,22,Școala Gimnazială nr. 1 Albesti,,Albești,46.5058,27.8604
+246,39,VASLUI,DELEŞTI,26,1,20,1,0,4,2,5,26,2,20,1,0,4,2,4,"Școala Primară, Albești",,Albești,46.6958,27.5507
+151,39,VASLUI,ALEXANDRU VLAHUŢĂ,99,0,117,2,2,8,7,14,92,0,119,4,5,9,10,15,"Școala Gimnazială, Alexandru Vlahuță",,Alexandru Vlahuță,46.427,27.6387
+175,39,VASLUI,BĂCEŞTI,98,0,13,4,0,3,1,7,97,0,13,5,1,3,1,6,Școala Primară Sat Armășeni,,Armășeni,46.8465,27.2478
+212,39,VASLUI,BUNEŞTI-AVEREŞTI,83,0,14,0,0,5,1,6,81,0,19,1,0,5,2,3,Fosta Școala Generală Armășeni,,Armășeni,46.8061,27.9789
+410,39,VASLUI,PUNGEŞTI,51,6,54,14,0,13,4,7,51,5,55,16,0,11,3,6,"Școala Primară, Sat Armășoaia",,Armășoaia,46.6884,27.3839
+155,39,VASLUI,ARSURA,99,0,53,12,1,6,14,19,96,2,57,11,2,5,12,14,Școala Primară „Nicolae Gh. Lupu” Arsura,,Arsura,46.8137,28.0259
+209,39,VASLUI,BUNEŞTI-AVEREŞTI,64,1,13,2,3,11,0,4,61,2,12,2,3,11,2,6,Școala Gimnazială nr. 1 Sat Averești,,Averești,46.7869,27.9865
+500,39,VASLUI,VOINEŞTI,81,3,12,27,2,11,3,9,84,3,14,22,1,8,8,18,Școala Primară Sat Avrămești,,Avrămești,46.5516,27.3636
+160,39,VASLUI,BANCA,97,6,122,8,0,12,9,20,98,6,123,6,0,12,8,19,Școala Gimnazială Banca,,Banca,46.3016,27.808
+311,39,VASLUI,HOCENI,252,3,17,2,0,2,1,6,257,4,17,1,0,2,2,5,Grădinița cu Program Normal Barboși,,Barboși,46.4882,27.9713
+262,39,VASLUI,DRAGOMIREŞTI,28,0,13,6,1,1,1,2,28,0,16,2,1,2,3,5,Școala Primară Belzeni,,Belzeni,46.6233,27.3041
+458,39,VASLUI,TANACU,54,1,44,4,0,3,1,7,55,1,47,5,0,3,2,4,Școala Primară Sat. Benești,,Benești,46.6934,27.8292
+241,39,VASLUI,DĂNEŞTI,40,0,16,6,0,5,1,6,41,0,17,6,0,5,1,5,Școala Primară Bereasa,,Bereasa,46.8337,27.6578
+183,39,VASLUI,BEREZENI,357,4,47,8,0,18,5,12,353,7,52,7,1,18,4,8,Școala Gimnazială „Anastasie Fătu” Berezeni- Corp 1,,Berezeni,46.3727,28.1485
+184,39,VASLUI,BEREZENI,208,3,46,7,0,7,4,13,208,6,49,7,0,6,5,9,Școala Gimnazială „Anastasie Fătu” Berezeni- Corp 3,,Berezeni,46.3794,28.1497
+189,39,VASLUI,BLĂGEŞTI,210,1,37,13,2,8,9,30,204,2,44,14,2,11,9,23,Căminul Cultural Blăgești,,Blăgești,46.1392,28.0179
+273,39,VASLUI,DUDA-EPURENI,34,0,5,2,0,2,6,8,32,0,5,2,0,2,5,9,Fosta Școala cu Clasele I-IV Bobești,,Bobești,46.7193,28.0027
+192,39,VASLUI,BOGDANA,49,3,41,14,1,6,1,57,62,4,66,16,1,8,5,16,Școala Gimnazială nr. 1 Bogdana,,Bogdana,46.5329,27.6317
+444,39,VASLUI,STĂNILEŞTI,21,0,26,2,0,2,0,1,22,0,23,2,0,2,0,2,"Școala Primară, Bogdana - Voloseni",,Bogdana-Voloseni,46.6377,28.1175
+197,39,VASLUI,BOGDĂNEŞTI,231,6,32,12,0,6,5,16,231,7,31,14,0,8,6,12,Căminul Cultural Bogdănești,,Bogdănești,46.4491,27.7248
+284,39,VASLUI,FĂLCIU,76,1,24,2,1,4,4,9,80,2,23,2,1,4,5,8,Școala Primară Sat Bogdănești,,Bogdănești,46.2592,28.1151
+203,39,VASLUI,BOGDĂNIŢA,42,0,5,6,0,3,4,11,46,0,5,7,0,3,4,5,Sediul Primariei,,Bogdănița,46.4531,27.6815
+385,39,VASLUI,POGANA,164,3,12,13,0,9,2,6,156,5,16,13,0,10,1,6,Școala Gimnazială Sat Bogești,,Bogești,46.3393,27.5516
+424,39,VASLUI,REBRICEA,40,0,10,1,0,3,1,4,43,0,10,1,0,2,1,3,Școala Primară Bolați,,Bolați,46.8473,27.5934
+380,39,VASLUI,POCHIDIA,49,0,65,3,0,1,2,5,51,0,62,3,0,1,1,3,"P.A.P.I. - Acces Internet, Borodești",,Borodești,46.0538,27.5855
+436,39,VASLUI,SOLEŞTI,57,3,9,5,0,4,1,10,56,3,11,3,1,4,1,11,Fosta Școala cu Clasele I-IV Boușori,,Boușori,46.7367,27.8217
+286,39,VASLUI,FĂLCIU,81,1,12,2,1,6,0,6,81,1,15,2,1,8,1,4,Școala Primară Sat Bozia,,Bozia,46.3382,28.1255
+207,39,VASLUI,BOŢEŞTI,119,5,158,18,1,19,7,25,116,4,172,14,2,19,8,20,Școala Gimnazială nr. 1 Boțești,,Boțești,46.7929,27.8882
+346,39,VASLUI,LUNCA BANULUI,89,3,18,6,0,10,4,7,84,5,21,7,0,10,2,6,Școala Primară Sat Broscoșești,,Broscoșești,46.5681,28.2219
+325,39,VASLUI,IVĂNEŞTI,62,4,13,7,0,12,5,13,64,3,17,6,0,11,6,11,Școala Broșteni,,Broșteni,46.6382,27.4929
+494,39,VASLUI,VINDEREI,89,0,43,7,1,4,3,11,97,0,40,7,1,1,3,7,"Școala Primară, Bradesti",,Brădești,46.1635,27.7733
+452,39,VASLUI,ŞTEFAN CEL MARE,192,4,6,3,0,4,3,10,197,4,5,3,0,2,3,8,"Școala Primară, Brăhășoaia",,Brăhășoaia,46.7176,27.603
+153,39,VASLUI,ALEXANDRU VLAHUŢĂ,19,0,66,4,0,5,1,4,17,1,66,4,2,4,1,3,"Școala Primară, Buda",,Buda,46.47,27.6054
+198,39,VASLUI,BOGDĂNEŞTI,182,0,6,3,0,1,2,5,185,0,6,3,0,1,2,3,"Școala Primară, Sat Buda",,Buda,46.4916,27.7136
+370,39,VASLUI,OŞEŞTI,190,3,66,3,1,16,6,27,193,0,70,5,2,15,6,25,Școala Gimnazială „Luiza Zavloschi” Sat Buda,,Buda,46.7647,27.423
+238,39,VASLUI,CREŢEŞTI,81,2,7,0,1,3,7,10,79,2,10,0,1,4,6,9,Școala Dezafectata Budești,,Budești,46.6141,27.9492
+445,39,VASLUI,STĂNILEŞTI,22,1,38,4,0,11,0,3,21,0,41,3,0,12,0,3,"Școala Primară, Budu - Cantemir",,Budu Cantemir,46.6144,28.1276
+508,39,VASLUI,VULTUREŞTI,144,3,27,22,0,2,5,8,145,0,25,20,0,4,5,9,Căminul Cultural Buhăiești,,Buhăiești,46.7826,27.5271
+244,39,VASLUI,DELENI,88,10,72,8,0,6,1,7,87,11,72,9,0,7,1,4,"Grădinița cu Program Normal, Sat Bulboaca",,Bulboaca,46.5497,27.7763
+488,39,VASLUI,VETRIŞOAIA,11,0,42,8,1,8,1,6,16,1,42,6,1,7,1,3,Școala Bumbăta,,Bumbăta,46.4853,28.2237
+210,39,VASLUI,BUNEŞTI-AVEREŞTI,282,3,59,14,1,9,2,17,282,4,70,12,0,8,1,10,Școala Gimnazială I-IV Bunești,,Bunești,46.83,27.9674
+279,39,VASLUI,EPURENI,180,0,21,10,0,10,7,18,179,2,23,10,1,13,5,10,Școala Primară nr. 1 Sat Bursuci,,Bursuci,46.2208,27.8661
+518,39,VASLUI,ZĂPODENI,39,1,16,7,1,1,0,1,44,1,19,6,1,0,0,0,"Școala Gimnazială, Sat Butucăria",,Butucăria,46.7945,27.6219
+63,39,VASLUI,MUNICIPIUL BÎRLAD,279,18,95,23,1,27,15,51,285,25,94,27,1,29,19,36,Școala Gimnazială nr. 10,Nr. 35,Bârlad,46.2195,27.6554
+64,39,VASLUI,MUNICIPIUL BÎRLAD,288,42,193,33,0,35,18,73,294,42,184,50,1,32,22,59,Școala Gimnazială nr. 10,Nr. 35,Bârlad,46.2195,27.6554
+65,39,VASLUI,MUNICIPIUL BÎRLAD,297,37,143,43,1,19,11,48,310,50,124,55,0,21,9,26,Școala Gimnazială nr. 10,Nr. 35,Bârlad,46.2195,27.6554
+66,39,VASLUI,MUNICIPIUL BÎRLAD,150,31,72,29,0,29,14,31,156,33,71,28,0,32,12,21,Școala Generală nr. 7 „Căpitan Grigore Ignat”,Str. 1 Mai nr. 4,Bârlad,46.2224,27.6593
+67,39,VASLUI,MUNICIPIUL BÎRLAD,177,25,67,25,0,22,11,35,171,29,63,36,0,30,11,28,Școala Generală nr. 7 „Căpitan Grigore Ignat”,Str. 1 Mai nr. 4,Bârlad,46.2224,27.6593
+68,39,VASLUI,MUNICIPIUL BÎRLAD,163,36,85,39,0,31,22,50,170,37,88,41,0,32,21,38,Colegiul Național „Gheorghe Roșca Codreanu”,Str. Nicolae Bălcescu nr. 11,Bârlad,46.2262,27.6645
+69,39,VASLUI,MUNICIPIUL BÎRLAD,234,29,114,39,2,21,17,56,247,31,113,42,3,19,15,42,Colegiul Național „Gheorghe Roșca Codreanu”,Str. Nicolae Bălcescu nr. 11,Bârlad,46.2262,27.6645
+70,39,VASLUI,MUNICIPIUL BÎRLAD,180,23,115,26,1,29,18,51,184,25,112,36,2,30,24,41,Colegiul Național „Gheorghe Roșca Codreanu”,Str. Nicolae Bălcescu nr. 11,Bârlad,46.2262,27.6645
+71,39,VASLUI,MUNICIPIUL BÎRLAD,197,35,125,35,2,19,19,56,198,40,125,48,4,16,17,37,Școala Gimnazială de Arte „N. N. Tonitza”,Str. Mihail Kogălniceanu nr. 4,Bârlad,46.2322,27.6677
+72,39,VASLUI,MUNICIPIUL BÎRLAD,203,31,108,29,1,23,18,43,216,40,99,34,1,19,20,32,Școala Gimnazială de Arte „N. N. Tonitza”,Str. Mihail Kogălniceanu nr. 4,Bârlad,46.2322,27.6677
+73,39,VASLUI,MUNICIPIUL BÎRLAD,124,24,43,15,0,11,10,27,125,26,45,15,0,14,10,17,Școala Gimnazială nr. 8,Str. Nicolae Tonitza (Str. Pictor Nicolae Tonitza) nr. 20,Bârlad,46.2338,27.6685
+74,39,VASLUI,MUNICIPIUL BÎRLAD,269,31,114,29,2,38,30,80,285,42,106,40,2,34,34,54,Școala Gimnazială nr. 8,Str. Nicolae Tonitza (Str. Pictor Nicolae Tonitza) nr. 20,Bârlad,46.2338,27.6685
+75,39,VASLUI,MUNICIPIUL BÎRLAD,216,28,96,31,2,32,14,48,218,32,102,37,4,32,17,31,Școala Gimnazială nr. 8,Str. Nicolae Tonitza (Str. Pictor Nicolae Tonitza) nr. 20,Bârlad,46.2338,27.6685
+76,39,VASLUI,MUNICIPIUL BÎRLAD,268,26,109,39,0,54,20,60,274,31,101,45,3,59,23,45,Școala Gimnazială nr. 8,Str. Nicolae Tonitza (Str. Pictor Nicolae Tonitza) nr. 20,Bârlad,46.2338,27.6685
+77,39,VASLUI,MUNICIPIUL BÎRLAD,252,23,108,23,3,24,13,58,264,26,114,31,1,26,13,33,Școala Gimnazială „Manolache Costache Epureanu”,Nr. 1,Bârlad,46.2392,27.6696
+78,39,VASLUI,MUNICIPIUL BÎRLAD,233,40,113,27,0,24,18,56,235,42,112,39,2,20,20,43,Colegiul „Alexandru Ioan Cuza”,Str. Vasile Pârvan (Str. Sterian Dumbravă) nr. 1,Bârlad,46.2313,27.6721
+79,39,VASLUI,MUNICIPIUL BÎRLAD,299,27,107,33,1,33,24,62,322,31,93,36,1,32,26,44,Colegiul „Alexandru Ioan Cuza”,Str. Vasile Pârvan (Str. Sterian Dumbravă) nr. 1,Bârlad,46.2313,27.6721
+80,39,VASLUI,MUNICIPIUL BÎRLAD,241,29,96,39,0,25,16,81,266,35,87,42,1,24,18,52,Colegiul „Alexandru Ioan Cuza”,Str. Vasile Pârvan (Str. Sterian Dumbravă) nr. 1,Bârlad,46.2313,27.6721
+81,39,VASLUI,MUNICIPIUL BÎRLAD,200,11,90,25,1,15,10,48,201,15,91,28,3,16,16,38,Colegiul „Alexandru Ioan Cuza”,Str. Vasile Pârvan (Str. Sterian Dumbravă) nr. 1,Bârlad,46.2313,27.6721
+82,39,VASLUI,MUNICIPIUL BÎRLAD,193,24,99,27,2,34,16,47,194,28,92,36,6,33,18,35,Colegiul „Alexandru Ioan Cuza”,Str. Vasile Pârvan (Str. Sterian Dumbravă) nr. 1,Bârlad,46.2313,27.6721
+83,39,VASLUI,MUNICIPIUL BÎRLAD,201,31,119,21,0,37,16,60,214,34,117,33,1,31,20,40,Colegiul „Alexandru Ioan Cuza”,Str. Vasile Pârvan (Str. Sterian Dumbravă) nr. 11,Bârlad,46.2313,27.6721
+84,39,VASLUI,MUNICIPIUL BÎRLAD,253,17,77,37,1,31,20,47,265,18,79,44,0,32,19,29,Colegiul „Alexandru Ioan Cuza”,Str. Vasile Pârvan (Str. Sterian Dumbravă) nr. 1,Bârlad,46.2313,27.6721
+85,39,VASLUI,MUNICIPIUL BÎRLAD,206,17,91,25,1,18,5,28,200,17,90,30,1,19,8,25,Liceul Tehnologic „Petru Rareș”,Str. Petru Rareș (Str. Pescarilor) nr. 41,Bârlad,46.2324,27.6787
+86,39,VASLUI,MUNICIPIUL BÎRLAD,218,34,140,32,1,26,15,41,221,39,134,39,4,26,19,34,Liceul Tehnologic „Petru Rareș”,Str. Petru Rareș (Str. Pescarilor) nr. TOATE,Bârlad,46.2324,27.6787
+87,39,VASLUI,MUNICIPIUL BÎRLAD,209,19,93,17,1,18,12,41,225,16,94,26,1,18,10,24,Liceul Tehnologic „Petru Rareș”,Str. Petru Rareș (Str. Pescarilor) nr. 41,Bârlad,46.2324,27.6787
+88,39,VASLUI,MUNICIPIUL BÎRLAD,188,11,128,19,1,13,9,40,184,13,123,19,5,15,20,34,Școala Gimnazială „Victor Ioan Popa”,Str. Dimitrie Cantemir nr. 15,Bârlad,46.224,27.6776
+89,39,VASLUI,MUNICIPIUL BÎRLAD,217,21,117,29,1,27,27,67,227,26,111,38,2,22,28,55,Școala Gimnazială „Victor Ioan Popa”,Str. Dimitrie Cantemir nr. 15,Bârlad,46.224,27.6776
+90,39,VASLUI,MUNICIPIUL BÎRLAD,206,11,99,27,1,19,10,40,208,17,101,28,3,20,14,33,Școala Gimnazială „Victor Ioan Popa”,Str. Dimitrie Cantemir nr. 15,Bârlad,46.224,27.6776
+91,39,VASLUI,MUNICIPIUL BÎRLAD,263,24,125,35,0,33,18,55,270,29,124,43,3,26,22,42,Casa de Cultură a Sindicatelor „George Tutoveanu”,Str. 1 Decembrie (Str. Victoriei) nr. 2,Bârlad,46.2278,27.6686
+92,39,VASLUI,MUNICIPIUL BÎRLAD,256,69,159,41,0,43,30,82,271,82,150,50,0,38,30,56,Casa de Cultură a Sindicatelor „George Tutoveanu”,Str. 1 Decembrie (Str. Victoriei) nr. 2,Bârlad,46.2278,27.6686
+93,39,VASLUI,MUNICIPIUL BÎRLAD,236,58,171,41,0,24,18,61,237,64,155,50,0,34,21,47,Școala Gimnazială „Principesa Elena Bibescu”,Str. Popa Șapcă nr. 5,Bârlad,46.2232,27.6708
+94,39,VASLUI,MUNICIPIUL BÎRLAD,234,42,123,35,1,28,22,57,234,40,120,44,1,32,24,49,Școala Gimnazială „Principesa Elena Bibescu”,Str. Popa Șapcă nr. 5,Bârlad,46.2232,27.6708
+95,39,VASLUI,MUNICIPIUL BÎRLAD,159,24,53,31,0,21,14,33,168,27,51,32,0,16,16,27,Școala Gimnazială nr. 2,Bulevardul Primăverii nr. 16,Bârlad,46.22,27.6697
+96,39,VASLUI,MUNICIPIUL BÎRLAD,130,19,57,21,1,6,11,26,130,21,56,24,1,7,13,19,Școala Gimnazială nr. 2,Bulevardul Primăverii nr. 16,Bârlad,46.22,27.6697
+97,39,VASLUI,MUNICIPIUL BÎRLAD,188,35,87,18,1,21,15,46,196,23,86,36,0,17,19,36,Școala Gimnazială nr. 2,Bulevardul Primăverii nr. 16,Bârlad,46.22,27.6697
+98,39,VASLUI,MUNICIPIUL BÎRLAD,126,27,76,15,0,22,8,37,130,31,67,23,0,23,8,30,Școala Gimnazială nr. 2,Bulevardul Primăverii nr. 16,Bârlad,46.22,27.6697
+99,39,VASLUI,MUNICIPIUL BÎRLAD,217,44,109,38,3,22,16,47,222,44,98,44,5,23,24,44,Școala Gimnazială „George Tutoveanu”,Str. Carpați nr. 5,Bârlad,46.2171,27.6703
+100,39,VASLUI,MUNICIPIUL BÎRLAD,288,27,129,41,0,29,16,56,298,31,131,51,0,27,16,38,Școala Gimnazială „George Tutoveanu”,Str. Carpați nr. 5,Bârlad,46.2171,27.6703
+101,39,VASLUI,MUNICIPIUL BÎRLAD,203,45,113,18,1,24,29,76,213,52,113,25,2,19,31,58,Școala Gimnazială „George Tutoveanu”,Str. Carpați nr. 5,Bârlad,46.2171,27.6703
+102,39,VASLUI,MUNICIPIUL BÎRLAD,173,42,97,17,0,12,16,40,177,46,93,25,0,13,16,26,Liceul Pedagogic „Alexandru Vlahuță”,Str. Lirei nr. 15,Bârlad,46.2173,27.668
+103,39,VASLUI,MUNICIPIUL BÎRLAD,160,48,112,25,1,18,13,59,167,52,109,29,1,19,12,42,Liceul Pedagogic „Alexandru Vlahuță”,Str. Lirei nr. 15,Bârlad,46.2173,27.668
+104,39,VASLUI,MUNICIPIUL BÎRLAD,233,45,118,34,1,24,17,49,239,44,118,40,2,20,19,39,Liceul Pedagogic „Alexandru Vlahuță”,Str. Lirei nr. 15,Bârlad,46.2173,27.668
+105,39,VASLUI,MUNICIPIUL BÎRLAD,189,30,101,33,3,26,11,33,192,30,95,37,1,27,11,34,Liceul Pedagogic „Alexandru Vlahuță”,Str. Lirei nr. 15,Bârlad,46.2173,27.668
+106,39,VASLUI,MUNICIPIUL BÎRLAD,185,41,113,27,0,30,12,62,179,46,112,37,0,36,18,45,Grădinița cu Program Prelungit „Licurici”,Nr. 26,Bârlad,46.2202,27.665
+107,39,VASLUI,MUNICIPIUL BÎRLAD,167,44,152,26,0,26,14,66,170,60,132,43,0,29,17,49,Grădinița cu Program Prelungit „Licurici”,Nr. 26,Bârlad,46.2202,27.665
+108,39,VASLUI,MUNICIPIUL BÎRLAD,113,37,97,19,2,13,9,42,118,42,97,28,1,13,9,25,Grădinița cu Program Prelungit „Licurici”,Nr. 26,Bârlad,46.2202,27.665
+280,39,VASLUI,EPURENI,135,0,14,21,0,13,3,8,133,1,16,22,0,15,3,8,Școala Primară .Sat Birlalesti,,Bârlălești,46.2213,27.9171
+450,39,VASLUI,ŞTEFAN CEL MARE,405,5,29,3,0,9,5,18,399,9,32,6,0,8,4,12,Căminul Cultural Bîrzești,,Bârzești,46.7434,27.5636
+176,39,VASLUI,BĂCEŞTI,58,0,18,12,1,12,3,10,65,1,20,6,0,12,3,7,Școala Primară Sat Băbușa,,Băbușa,46.8093,27.2279
+263,39,VASLUI,DRAGOMIREŞTI,23,0,17,4,1,3,2,10,25,1,19,1,1,3,4,8,Școala Primară Băbuța,,Băbuța,46.6074,27.3594
+169,39,VASLUI,BĂCANI,154,1,140,30,2,2,8,28,158,2,141,30,3,2,10,24,Școala Gimnazială nr. 1 Sat Băcani,,Băcani,46.3294,27.6814
+174,39,VASLUI,BĂCEŞTI,271,4,140,18,1,9,15,50,275,7,140,18,1,12,21,39,Școala Gimnazială nr. 1 Sat Băcești,,Băcești,46.8252,27.2466
+359,39,VASLUI,MUNTENII DE JOS,146,22,34,14,0,18,13,29,151,26,32,13,0,21,14,23,Școala Primară Sat Băcăoani,,Băcăoani,46.579,27.7801
+478,39,VASLUI,TUTOVA,277,8,85,15,0,8,4,23,282,9,81,20,0,8,2,13,Școala Gimnazială Badeana,,Bădeana,46.1611,27.5939
+231,39,VASLUI,COZMEŞTI,128,5,19,6,1,5,2,7,126,5,20,5,1,6,3,10,Școala Primară Bălești,,Bălești,46.7148,27.5169
+180,39,VASLUI,BĂLTENI,266,9,37,4,0,7,3,18,261,11,37,4,0,7,2,18,Centrul Cultural Bălteni,,Bălteni,46.6802,27.6259
+181,39,VASLUI,BĂLTENI,93,5,13,8,0,1,4,8,90,6,12,7,0,1,7,9,Școala Primară Bălteni Deal,,Bălteni-Deal,46.6552,27.617
+170,39,VASLUI,BĂCANI,60,0,55,10,2,2,7,14,61,0,56,10,2,1,7,11,Școala Primară Sat Bălțăteni,,Băltățeni,46.3371,27.6953
+466,39,VASLUI,TĂTĂRĂNI,52,0,20,11,1,43,2,5,48,1,18,11,1,41,5,8,Școala Gimnazială „Ion Angheluta” - Sat Baltati,,Bălțați,46.6993,27.9003
+502,39,VASLUI,VOINEŞTI,46,0,9,2,0,3,2,5,47,1,9,1,0,2,4,5,Școala Primară Băncești,,Băncești,46.5396,27.4465
+406,39,VASLUI,PUIEŞTI,68,0,6,4,0,2,0,4,68,1,6,4,0,2,0,3,"Școala Primară, Sat Bărtăluș -Mocani",,Bărtăluș-Mocani,46.3927,27.4548
+206,39,VASLUI,BOGDĂNIŢA,72,1,26,14,0,20,2,5,72,2,30,14,0,19,2,4,Școala Gimnazială nr. 1 Cepești,,Cepești,46.3854,27.6821
+404,39,VASLUI,PUIEŞTI,55,4,15,4,5,3,1,9,60,4,14,4,3,4,2,5,"Școala Primară, Sat Cetățuia",,Cetățuia,46.429,27.4406
+446,39,VASLUI,STĂNILEŞTI,39,1,121,2,2,1,5,10,32,0,134,1,0,1,4,10,"Școala Primară, Chersăcosu",,Chersăcosu,46.7172,28.137
+182,39,VASLUI,BĂLTENI,64,1,6,1,0,1,2,4,66,1,4,3,0,1,1,3,Școala Primară Chetrești,,Chetrești,46.6817,27.5924
+299,39,VASLUI,GHERGHEŞTI,94,0,69,2,5,5,6,9,94,2,75,2,5,2,5,5,Școala Gimnazială Sat Chetrosu,,Chetrosu,46.5719,27.5029
+222,39,VASLUI,COROIEŞTI,69,0,2,3,0,2,2,8,73,0,3,2,0,2,0,3,"Dispensar Uman, Sat Chilieni",,Chilieni,46.3011,27.4752
+354,39,VASLUI,MICLEŞTI,169,7,31,5,0,4,3,16,171,7,31,5,1,5,6,13,Școala Gimnazială Chircești-Deal,,Chircești,46.8461,27.8477
+355,39,VASLUI,MICLEŞTI,122,0,5,3,1,2,0,11,122,0,8,2,0,3,1,8,Școala Dezafectată Chircești -Vale,,Chircești,46.8495,27.8374
+227,39,VASLUI,COSTEŞTI,57,1,13,4,0,1,1,3,59,3,13,3,0,2,1,2,Școala Primară Chițcani,,Chițcani,46.4506,27.7813
+339,39,VASLUI,LIPOVĂŢ,156,9,52,9,1,12,6,32,158,15,49,13,0,10,5,18,Școala Gimnazială „Spătar Ștefan Angheluță” Sat Chițoc,,Chițoc,46.5947,27.6725
+143,39,VASLUI,ORAŞ NEGREŞTI,55,2,34,7,1,20,1,16,65,1,36,5,1,22,2,5,Școala Primară Sat Cioatele,,Cioatele,46.8289,27.4274
+214,39,VASLUI,CIOCANI,290,3,29,12,1,15,2,10,289,2,33,8,1,15,7,12,Căminul Cultural Ciocani,,Ciocani,46.2599,27.5597
+514,39,VASLUI,ZĂPODENI,24,0,10,8,0,3,2,4,26,0,11,7,0,2,1,3,"Școala Primară, Sat Ciofeni",,Ciofeni,46.7623,27.6299
+480,39,VASLUI,TUTOVA,66,1,8,5,3,0,0,4,65,1,8,5,2,1,4,6,Școala Ciortolom,,Ciortolom,46.1137,27.5753
+434,39,VASLUI,ROŞIEŞTI,22,0,3,2,0,4,2,3,21,0,3,2,0,3,2,3,Școala Generală Codreni,,Codreni,46.4782,27.9062
+216,39,VASLUI,CODĂEŞTI,172,3,39,13,1,19,11,22,172,4,41,12,1,17,15,22,Școala Gimnazială Codăești,,Codăești,46.8743,27.7569
+217,39,VASLUI,CODĂEŞTI,132,4,26,11,0,11,5,13,133,2,28,12,0,9,7,12,Școala Gimnazială Codăești,,Codăești,46.8743,27.7569
+287,39,VASLUI,FĂLCIU,119,1,17,4,0,0,2,7,121,2,15,4,0,1,2,4,Școala Primară Sat Copăceana,,Copăceana,46.3541,28.062
+338,39,VASLUI,LIPOVĂŢ,120,2,17,2,0,8,8,19,127,4,17,1,0,7,8,17,Școala Primară Sat Corbu,,Corbu,46.5822,27.7066
+148,39,VASLUI,ALBEŞTI,247,12,38,21,1,4,6,18,247,8,41,17,3,5,8,20,"Școala Gimnazială, Corni-Albesti",,Corni-Albești,46.5173,27.8651
+298,39,VASLUI,GHERGHEŞTI,44,1,13,5,0,6,0,2,43,1,14,5,0,6,2,2,Școala Primară Sat Corodesti,,Corodești,46.529,27.5108
+204,39,VASLUI,BOGDĂNIŢA,86,1,21,4,0,5,2,6,86,2,22,5,0,4,2,6,Școala Primară Coroiești,,Coroiești,46.4407,27.6727
+221,39,VASLUI,COROIEŞTI,180,2,17,7,0,4,4,11,208,1,7,1,0,4,1,3,Școala Gimnazială George C Dragu Sat Coroiesti,,Coroiești,46.2442,27.4862
+481,39,VASLUI,TUTOVA,43,0,18,8,1,3,2,6,43,0,19,10,2,3,1,4,Școala Coroiu,,Coroiu,46.105,27.5436
+225,39,VASLUI,COSTEŞTI,236,13,72,30,0,23,8,38,241,16,70,27,1,22,13,33,Școala Gimnazială Sfântul Ierarh Luca Costești,,Costești,46.4969,27.7638
+470,39,VASLUI,TODIREŞTI,61,1,7,3,0,6,1,4,61,2,9,1,1,6,2,3,Școala Primară Sat Cotic,,Cotic,46.876,27.3632
+233,39,VASLUI,COZMEŞTI,53,3,9,3,1,7,8,13,56,3,11,2,0,5,6,11,Fosta Școală cu Clasele I-IV Cozmești,,Cozmești,46.7357,27.5035
+327,39,VASLUI,IVĂNEŞTI,40,2,15,5,1,8,1,4,45,0,15,5,3,4,1,8,Școala Coșca,,Coșca,46.6818,27.4742
+328,39,VASLUI,IVĂNEŞTI,62,1,10,3,0,5,2,9,61,1,11,4,0,3,4,9,Școala Coșești,,Coșești,46.674,27.4571
+149,39,VASLUI,ALBEŞTI,55,16,31,6,1,2,16,20,49,16,33,8,0,3,15,21,Școala Primară Crasna,,Crasna,46.5062,27.8304
+235,39,VASLUI,CREŢEŞTI,140,2,59,4,0,5,3,11,137,3,63,5,0,6,3,7,Căminul Cultural „Vasile Folescu” Crețești,,Crețești,46.6375,27.9645
+236,39,VASLUI,CREŢEŞTI,129,4,30,7,2,5,1,11,122,3,42,8,4,5,3,9,Școala Gimnazială nr. 1 Cretestii de Sus,,Crețeștii de Sus,46.6423,27.9764
+403,39,VASLUI,PUIEŞTI,86,1,25,9,1,3,3,3,81,1,23,11,1,3,2,4,"Școala Primară, Sat Cristești",,Cristești,46.4631,27.453
+479,39,VASLUI,TUTOVA,89,1,38,3,1,5,0,4,87,1,43,3,1,4,0,2,Căminul Cultural Crivesti,,Crivești,46.0907,27.5592
+215,39,VASLUI,CIOCANI,116,2,10,5,0,10,6,14,115,2,11,4,0,10,7,12,Școala Primară Crâng,,Crâng,46.2435,27.6085
+425,39,VASLUI,REBRICEA,80,2,15,1,0,4,3,10,82,2,13,2,0,5,2,10,Școala Primară Crăciunești,,Crăciunești,46.8724,27.5292
+412,39,VASLUI,PUNGEŞTI,36,0,5,4,0,4,3,9,37,0,5,5,0,5,3,6,"Școala Primară, Sat Cursești Deal",,Cursești-Deal,46.7119,27.3854
+413,39,VASLUI,PUNGEŞTI,32,0,18,3,0,6,12,14,34,0,21,3,0,3,12,13,"Școala Primară, Sat Cursești Vale",,Cursești-Vale,46.7202,27.3755
+365,39,VASLUI,OLTENEŞTI,22,0,23,15,0,7,1,1,19,0,24,15,0,7,2,4,Școala Primară Curteni,,Curteni,46.5982,27.9327
+131,39,VASLUI,ORAŞ MURGENI,208,6,33,12,1,7,2,15,212,7,32,12,0,7,1,10,Școala Primară Sat Cârja,,Cârja,46.1557,28.1063
+400,39,VASLUI,PUIEŞTI,74,0,23,6,1,2,4,10,79,0,21,5,1,4,5,7,"Școala Primară, Sat Călimănești",,Călimănești,46.4989,27.4247
+340,39,VASLUI,LIPOVĂŢ,81,4,9,1,0,1,2,6,84,4,10,0,0,1,3,3,Școala Primară Sat Căpușneni,,Căpușneni,46.5241,27.6878
+146,39,VASLUI,ORAŞ NEGREŞTI,76,1,24,5,0,3,5,7,77,1,24,5,1,3,4,5,Școala Primară Sat Căzănești,,Căzănești,46.864,27.4973
+374,39,VASLUI,PĂDURENI,105,3,15,3,2,2,5,9,101,4,16,3,1,4,4,8,Școala Primară Davidești,,Davidești,46.605,28.084
+524,39,VASLUI,ZORLENI,51,1,9,0,0,7,0,3,51,3,7,2,0,7,0,1,Imobil Proprietate Rusu Sorin,,Dealu Mare,46.2243,27.7202
+516,39,VASLUI,ZĂPODENI,61,5,9,1,1,3,1,7,60,7,9,1,1,3,3,8,"Școala Primară, Sat Delea",,Delea,46.6986,27.6992
+243,39,VASLUI,DELENI,267,12,97,21,2,13,6,31,250,12,107,22,2,18,13,20,Școala Gimnazială nr. 1 Deleni,,Deleni,46.5434,27.7482
+312,39,VASLUI,HOCENI,162,1,14,13,0,1,2,6,157,0,18,14,0,1,2,5,Școala Primară Deleni,,Deleni,46.5178,27.9866
+245,39,VASLUI,DELEŞTI,103,2,33,22,2,9,7,22,100,3,38,21,2,8,10,18,"Școala Gimnazială nr. 1, Delești",,Delești,46.7115,27.5523
+228,39,VASLUI,COSTEŞTI,29,1,10,2,0,1,2,6,30,1,9,2,0,1,2,6,Școala Primară Dinga,,Dinga,46.4936,27.7364
+260,39,VASLUI,DRAGOMIREŞTI,104,1,150,5,1,2,1,22,113,1,156,2,2,3,2,11,Școala Gimnazială Doagele,,Doagele,46.6667,27.3309
+519,39,VASLUI,ZĂPODENI,139,0,24,4,0,3,0,5,134,6,24,4,0,4,0,3,"Școala Primară, Sat Dobroslovești",,Dobroslovești,46.7682,27.6064
+495,39,VASLUI,VINDEREI,53,0,99,7,1,4,6,16,56,3,97,7,1,3,9,16,"Școala Gimnazială, Docani",,Docani,46.1396,27.7516
+496,39,VASLUI,VINDEREI,41,1,46,0,0,2,1,7,37,1,46,0,1,2,3,8,Școala Primară Docaneasa,,Docăneasa,46.1112,27.7998
+256,39,VASLUI,DODEŞTI,497,3,32,11,1,25,2,29,502,4,31,14,0,28,2,17,Școala Gimnazială „V.I. Popa”,,Dodești,46.3556,27.8927
+258,39,VASLUI,DRAGOMIREŞTI,84,1,30,12,0,7,0,12,86,1,32,15,0,8,0,4,Căminul Cultural Dragomirești,,Dragomirești,46.6283,27.3547
+421,39,VASLUI,REBRICEA,189,6,16,5,0,3,3,11,193,7,18,4,0,3,4,8,"Căminul Cultural, Draxeni",,Draxeni,46.8727,27.6214
+171,39,VASLUI,BĂCANI,66,2,28,5,0,4,12,19,67,3,27,8,0,4,15,17,Școala Primară Sat Drujești,,Drujești,46.3044,27.6763
+268,39,VASLUI,DRÎNCENI,121,7,9,2,0,6,2,6,116,8,9,2,0,5,1,6,"Școala Primară, Sat Drînceni",,Drânceni,46.7999,28.1323
+471,39,VASLUI,TODIREŞTI,92,2,15,3,0,3,6,8,91,3,12,2,0,4,7,12,Școala Primară Sat Drăgești,,Drăgești,46.868,27.3987
+300,39,VASLUI,GHERGHEŞTI,29,0,16,2,5,5,1,3,26,1,15,2,3,5,2,5,Școala Primară Sat Draxeni,,Drăxeni,46.584,27.474
+271,39,VASLUI,DUDA-EPURENI,131,2,57,13,0,86,7,16,124,4,69,12,1,91,6,12,Școala Gimnazială Ioan Ghe. Pricop,,Duda,46.7504,28.0413
+460,39,VASLUI,TĂCUTA,51,5,29,2,0,1,0,9,54,0,33,2,1,1,0,4,Școala Primară Dumasca,,Dumasca,46.9257,27.7057
+302,39,VASLUI,GÎRCENI,67,1,15,5,0,4,1,2,70,1,15,6,0,4,1,1,"Școala Primară, Dumbrăveni",,Dumbrăveni,46.763,27.3455
+274,39,VASLUI,DUMEŞTI,191,10,33,35,0,6,2,28,200,15,31,35,1,6,2,17,Școala Gimnazială „Mareșal C-Tin Prezan” Dumești,,Dumești,46.8452,27.2831
+275,39,VASLUI,DUMEŞTI,108,4,31,17,0,16,6,14,114,4,28,18,0,17,6,13,Grădinița nr. 1 Dumești,,Dumești,46.8465,27.3125
+276,39,VASLUI,DUMEŞTI,84,0,9,4,2,7,0,6,89,1,7,5,2,7,2,3,Grădinița Dumeștii Vechi,,Dumeștii Vechi,46.8352,27.3138
+239,39,VASLUI,DĂNEŞTI,91,0,21,13,0,7,1,8,91,2,23,13,0,6,3,5,Căminul Cultural Dănești,,Dănești,46.8476,27.6718
+240,39,VASLUI,DĂNEŞTI,92,5,14,2,0,50,5,13,96,6,13,2,0,44,7,10,Școala Gimnazială Emil Racoviță,,Emil Racoviță,46.8749,27.6813
+270,39,VASLUI,DUDA-EPURENI,194,6,59,10,0,16,6,12,194,5,59,10,0,19,8,11,Școala Gimnazială Constantin Asiminei,,Epureni,46.7086,28.0388
+278,39,VASLUI,EPURENI,169,12,29,14,0,12,7,21,169,13,29,18,0,7,8,22,Școala Gimnazială „Manolache Costache Epureanu” Sat Epureni,,Epureni,46.2469,27.9096
+454,39,VASLUI,ŞULETEA,60,8,93,7,2,1,2,21,64,8,104,7,2,2,1,9,Școala Primară „Natalia și Dumitru Ciobanu”,,Fedești,46.3073,27.8718
+289,39,VASLUI,FEREŞTI,302,4,55,8,1,28,19,29,306,3,56,9,1,28,24,28,"Centrul Cultural „Sandu Trifan”, Ferești",,Ferești,46.7811,27.6994
+132,39,VASLUI,ORAŞ MURGENI,114,6,45,8,1,2,6,15,115,7,45,8,0,2,5,16,Școala Gimnazială Sat Floreni,,Floreni,46.2355,27.9796
+389,39,VASLUI,POIENEŞTI,124,3,8,6,0,2,4,14,121,6,10,5,0,3,3,11,"Școala Gimnazială, Florești",,Florești,46.5509,27.5625
+345,39,VASLUI,LUNCA BANULUI,43,0,13,2,0,4,2,3,41,0,13,2,0,4,1,1,Școala Primară Sat Focșa,,Focșa,46.5627,28.1928
+462,39,VASLUI,TĂCUTA,91,0,146,6,0,3,1,5,92,1,149,6,0,3,1,3,Școala Gimnazială Focșeașca,,Focșeașca,46.9339,27.6342
+392,39,VASLUI,POIENEŞTI,83,6,6,0,0,3,3,8,88,7,4,0,2,2,3,7,Școala Frasinu,,Frasinu,46.6165,27.5062
+290,39,VASLUI,FRUNTIŞENI,186,1,56,19,0,2,6,17,192,1,60,23,0,4,9,18,Școala Gimnazială „General Aviator Inginer Gheorghe Negrescu” Fruntișeni,,Fruntișeni,46.2043,27.765
+401,39,VASLUI,PUIEŞTI,21,0,20,1,3,2,1,2,24,0,22,1,2,1,1,1,"Școala Primară, Sat Fulgu",,Fulgu,46.4971,27.3957
+341,39,VASLUI,LIPOVĂŢ,187,0,6,2,0,11,3,7,188,1,7,2,0,8,4,5,Școala Gimnazială Sat Fundu - Văii,,Fundu Văii,46.5437,27.6785
+394,39,VASLUI,POIENEŞTI,29,0,6,1,0,4,1,3,29,0,6,1,1,4,1,2,Școala Fundu Văii,,Fundu Văii,46.5702,27.5225
+156,39,VASLUI,ARSURA,41,3,18,10,0,6,1,9,43,3,21,11,0,6,0,4,Școala Primară „Înv. Ion Busuioc” Fundătura,,Fundătura,46.7975,28.0214
+247,39,VASLUI,DELEŞTI,73,2,31,1,0,1,2,6,74,1,31,1,0,2,1,3,"Școala Primară, Fundătura",,Fundătura,46.6833,27.5295
+399,39,VASLUI,PUIEŞTI,30,1,9,6,3,2,2,3,35,0,8,6,1,2,2,2,"Școala Primară, Sat Fîntînele",,Fântânele,46.4958,27.4506
+232,39,VASLUI,COZMEŞTI,66,2,13,3,0,8,4,11,66,1,15,3,1,7,2,8,Școala Gimnazială „Cezar Botez” Fâstâci,,Fâstâci,46.7281,27.4562
+234,39,VASLUI,COZMEŞTI,154,0,15,8,0,4,2,11,154,3,15,6,0,3,2,9,Școala Primară Fâstâci,,Fâstâci,46.7279,27.4432
+282,39,VASLUI,FĂLCIU,194,6,50,12,0,15,9,17,190,7,48,13,0,19,12,19,Liceul Tehnologic „Dimitrie Cantemir” Sat Fălciu,,Fălciu,46.2936,28.1417
+283,39,VASLUI,FĂLCIU,206,2,46,20,0,9,6,21,200,5,51,21,0,13,8,15,Căminul Cultural Fălciu,,Fălciu,46.294,28.1439
+159,39,VASLUI,BANCA,133,13,134,6,0,32,9,26,124,16,140,7,0,37,11,18,Școala Gimnazială nr. 1 Gara Banca,,Gara Banca,46.3337,27.7922
+432,39,VASLUI,ROŞIEŞTI,57,1,13,5,0,18,4,8,59,2,10,6,0,19,3,5,Grădinița cu Program Normal Gara Roșiești,,Gara Roșiești,46.4312,27.835
+220,39,VASLUI,CODĂEŞTI,57,3,16,10,0,9,1,6,60,3,17,8,1,7,1,5,Școala Generală Ghergheleu,,Ghergheleu,46.8575,27.7077
+296,39,VASLUI,GHERGHEŞTI,105,3,73,30,3,18,7,10,100,1,78,25,4,18,7,12,"Căminul Cultural, Gherghești",,Gherghești,46.4895,27.5346
+161,39,VASLUI,BANCA,54,2,47,7,0,6,0,7,55,4,46,7,0,6,2,6,Școala Primară Ghermănești,,Ghermănești,46.3228,27.8384
+267,39,VASLUI,DRÎNCENI,402,8,57,17,1,15,12,32,402,11,60,17,2,17,22,34,Sala de Educație Fizică Școlară Ghermănești,,Ghermănești,46.8293,28.0822
+152,39,VASLUI,ALEXANDRU VLAHUŢĂ,13,1,33,6,5,4,0,4,12,1,34,5,6,2,2,6,"Școala Primară, Ghicani",,Ghicani,46.3908,27.6559
+350,39,VASLUI,MĂLUŞTENI,35,1,17,2,0,1,2,5,35,1,15,2,0,2,1,3,Școala Ghireasca,,Ghireasca,46.1988,27.8971
+293,39,VASLUI,GĂGEŞTI,82,1,20,10,1,5,4,14,84,1,19,13,1,7,3,9,Grădinița cu Program Normal Giurcani,,Giurcani,46.2833,27.9823
+145,39,VASLUI,ORAŞ NEGREŞTI,56,6,11,16,0,18,0,2,54,6,10,17,0,18,1,3,Școala Primară Sat Glodeni,,Glodeni,46.846,27.5215
+307,39,VASLUI,GRIVIŢA,149,10,189,21,0,13,5,19,145,13,181,28,0,17,6,16,Grădinița cu Program Normal Grivița,,Grivița,46.1609,27.6614
+252,39,VASLUI,DIMITRIE CANTEMIR,97,1,17,0,0,4,1,7,99,2,19,1,0,4,1,5,Școala Primară Grumezoaia,,Grumezoaia,46.5563,28.0348
+291,39,VASLUI,FRUNTIŞENI,105,4,85,7,1,11,5,15,107,2,91,6,1,10,6,14,Școala Gimnazială Grăjdeni,,Grăjdeni,46.1878,27.7752
+208,39,VASLUI,BOŢEŞTI,146,5,210,14,1,23,5,15,146,4,217,14,2,24,4,10,Școala Gimnazială „Alexandru Obreja” Sat Gugești,,Gugești,46.7693,27.8879
+150,39,VASLUI,ALBEŞTI,43,1,6,2,0,4,0,1,42,1,5,2,0,4,1,2,Școala Primară - Gura Albești,,Gura Albești,46.4693,27.8381
+431,39,VASLUI,ROŞIEŞTI,70,0,23,4,2,2,3,9,68,0,25,3,2,3,4,7,Școala Primară Gura Idrici,,Gura Idrici,46.4154,27.8805
+447,39,VASLUI,STĂNILEŞTI,47,1,51,3,0,6,6,8,46,1,49,4,0,4,5,11,"Grădinița cu Program Normal, Gura Văii",,Gura Văii,46.643,28.1612
+253,39,VASLUI,DIMITRIE CANTEMIR,104,2,49,7,1,6,3,10,106,3,47,7,0,6,7,13,Școala Gimnazială Gușiței,,Gușiței,46.4596,28.0232
+397,39,VASLUI,PUIEŞTI,41,0,4,3,1,2,2,4,43,1,3,3,1,3,2,3,"Școala Primară, Sat Gîlțești",,Gâlțești,46.4317,27.5131
+301,39,VASLUI,GÎRCENI,247,2,22,38,1,17,3,13,261,1,23,36,3,17,5,13,Căminul Cultural Gîrceni,,Gârceni,46.7549,27.3062
+504,39,VASLUI,VOINEŞTI,147,0,16,26,3,11,5,16,152,1,16,26,0,11,10,20,Școala Gimnazială Gîrdești,,Gârdești,46.5534,27.4501
+292,39,VASLUI,GĂGEŞTI,72,3,33,3,1,6,14,23,67,3,39,3,1,9,13,22,Școala Gimnazială „Ion Artene” Găgești,,Găgești,46.3308,27.9716
+194,39,VASLUI,BOGDANA,22,0,12,3,0,2,1,9,23,1,14,3,0,2,5,5,Școala Primară Găvanu,,Găvanu,46.5116,27.6101
+490,39,VASLUI,VIIŞOARA,44,0,11,3,0,9,1,2,45,0,11,2,0,9,1,3,Școala Primară Halta Dodești,,Halta Dodești,46.3763,27.8205
+310,39,VASLUI,HOCENI,182,4,11,5,1,3,3,9,189,4,8,7,0,4,4,6,Căminul Cultural Hoceni,,Hoceni,46.5392,28.0063
+281,39,VASLUI,EPURENI,89,1,10,2,0,8,3,6,88,0,14,2,0,8,3,4,"Școala Primară, Sat Horga",,Horga,46.2788,27.8879
+202,39,VASLUI,BOGDĂNEŞTI,60,1,7,5,0,0,0,9,62,2,6,5,0,0,1,7,"Școala Primară, Sat Horoiata",,Horoiata,46.3563,27.7489
+224,39,VASLUI,COROIEŞTI,122,0,10,0,0,2,0,3,126,0,7,1,0,1,0,0,Școala Primară Sat Hreasca,,Hreasca,46.333,27.5024
+472,39,VASLUI,TODIREŞTI,115,3,14,2,2,4,0,3,112,4,16,2,3,5,1,2,Școala Primară Sat Huc,,Huc,46.8319,27.4015
+251,39,VASLUI,DIMITRIE CANTEMIR,117,3,21,3,0,10,1,6,116,6,24,2,1,9,0,4,Școala Gimnazială nr. 1 Hurdugi,,Hurdugi,46.5083,28.0556
+109,39,VASLUI,MUNICIPIUL HUŞI,150,20,89,13,2,14,2,9,144,21,97,15,0,14,0,5,Asociatia Agricola „Corni”,Str. Șara (Str. Sara) nr. 126,Huși,46.6818,28.0425
+110,39,VASLUI,MUNICIPIUL HUŞI,127,11,88,9,2,12,9,23,116,9,106,9,2,15,9,16,Școala Profesionala Specială „Sf.Ecaterina”,Str. Dobrina nr. 2,Huși,46.6765,28.0474
+111,39,VASLUI,MUNICIPIUL HUŞI,390,24,144,20,0,48,11,47,367,26,181,22,0,46,11,33,Centrul Consultativ Huși,Str. 1 Decembrie (Str. 7 Noiembrie) nr. 17,Huși,46.6729,28.0542
+112,39,VASLUI,MUNICIPIUL HUŞI,229,10,76,13,1,28,5,18,217,14,90,16,0,34,6,12,Colegiul Național „Cuza Voda”,Str. Mihail Kogălniceanu nr. 11,Huși,46.6747,28.0557
+113,39,VASLUI,MUNICIPIUL HUŞI,238,8,97,17,2,26,9,24,214,11,123,16,1,26,10,21,Liceul Tehnologic „Ioan Corivan”,Str. Cpt. N. N. Cisman (Str. Cpt. N. Cisman) nr. 12,Huși,46.6715,28.0545
+114,39,VASLUI,MUNICIPIUL HUŞI,235,13,62,22,0,37,7,24,208,16,88,21,1,30,12,20,Colegiul Agricol „Dimitrie Cantemir”,Str. I. Al. Angheluș (Str. Alex. Ion Angheluș) nr. 17,Huși,46.6753,28.0578
+115,39,VASLUI,MUNICIPIUL HUŞI,222,15,97,25,1,27,11,23,216,11,116,23,1,28,10,17,Școala Gimnazială „Anastasie Panu”,Str. Mihail Kogălniceanu nr. 15,Huși,46.6742,28.0564
+116,39,VASLUI,MUNICIPIUL HUŞI,170,9,89,9,0,11,5,18,166,8,100,9,0,10,7,12,Școala Gimnazială „Anastasie Panu”,Str. Ion Luca Caragiale nr. 4,Huși,46.6763,28.0609
+117,39,VASLUI,MUNICIPIUL HUŞI,296,17,110,30,2,29,9,39,283,19,133,25,2,31,13,29,Școala Gimnazială „Anastasie Panu”,Str. Ion Luca Caragiale nr. 4,Huși,46.6763,28.0609
+118,39,VASLUI,MUNICIPIUL HUŞI,215,21,64,24,3,31,7,20,209,25,90,23,1,23,10,15,Casa de Cultura „Alexandru Giugaru”,Str. Alexandru Giugaru (Str. Teilor) nr. 1,Huși,46.6736,28.0585
+119,39,VASLUI,MUNICIPIUL HUŞI,329,16,113,14,2,44,6,26,320,18,139,12,2,39,6,15,Școala Gimnazială „Mihail Sadoveanu”,Str. Al. I. Cuza (Str. Alexandru Ioan Cuza) nr. 24-26,Huși,46.6716,28.0644
+120,39,VASLUI,MUNICIPIUL HUŞI,255,20,104,10,1,34,7,21,242,24,128,12,0,26,8,18,Școala Gimnazială „Mihail Sadoveanu”,Str. Al. I. Cuza (Str. Alexandru Ioan Cuza) nr. 24-26,Huși,46.6716,28.0644
+121,39,VASLUI,MUNICIPIUL HUŞI,309,25,132,14,1,23,12,26,281,25,168,16,0,21,10,24,Școala Gimnazială „Ion Creangă”,Str. Al. I. Cuza (Str. Alexandru Ioan Cuza) nr. 53,Huși,46.6704,28.0686
+122,39,VASLUI,MUNICIPIUL HUŞI,254,13,78,20,0,30,8,19,234,12,107,17,0,27,11,17,Școala Gimnazială „Ion Creanga”,Bulevardul 1 Mai nr. 89,Huși,46.6707,28.0701
+123,39,VASLUI,MUNICIPIUL HUŞI,284,19,84,11,1,23,12,33,266,19,111,7,3,25,14,23,Școala Gimnazială „Ion Creanga”,Bulevardul 1 Mai nr. 89,Huși,46.6707,28.0701
+124,39,VASLUI,MUNICIPIUL HUŞI,120,10,84,15,0,20,4,18,118,14,88,14,1,17,6,18,Școala Gimnazială nr. 5,Str. Corni nr. 79,Huși,46.6858,28.0554
+125,39,VASLUI,MUNICIPIUL HUŞI,74,13,45,15,1,9,2,10,69,11,50,14,1,10,5,11,Școala Gimnazială nr. 5,Str. Corni nr. 79,Huși,46.6858,28.0554
+126,39,VASLUI,MUNICIPIUL HUŞI,289,17,72,16,3,17,4,23,269,20,89,14,1,26,8,19,Școala Gimnazială nr. 4,Str. Anton Sîrbu (D) nr. 7,Huși,46.6726,28.077
+127,39,VASLUI,MUNICIPIUL HUŞI,249,11,87,13,1,28,3,17,245,11,106,13,1,23,3,9,Școala Gimnazială nr. 4,Str. Anton Sîrbu (D) nr. 7,Huși,46.6726,28.077
+128,39,VASLUI,MUNICIPIUL HUŞI,246,7,115,14,1,19,7,21,234,7,133,13,1,20,8,17,Directia Agricola Judeteana Vaslui - Unitatea Fitosanitara Husi,"Str. Calea Basarabiei (Șoseaua Huși-Drînceni, Str. Carpați) nr. 110",Huși,46.6752,28.0947
+248,39,VASLUI,DELEŞTI,48,4,42,1,2,6,3,10,43,8,48,3,2,8,6,8,"Școala Gimnazială, Hîrșova",,Hârsova,46.6726,27.5423
+317,39,VASLUI,IANA,137,2,81,13,2,4,2,14,137,5,83,9,2,6,3,13,Școala Primară Hălărești,,Hălărești,46.4013,27.548
+316,39,VASLUI,IANA,253,3,40,14,2,4,9,24,261,1,36,13,2,3,9,27,Școala Gimnazială nr. 1 Iana,,Iana,46.3851,27.5524
+437,39,VASLUI,SOLEŞTI,82,0,13,1,0,6,1,3,80,0,14,1,0,5,1,2,Grădinița cu Program Normal Iaz,,Iaz,46.8214,27.7597
+321,39,VASLUI,IBĂNEŞTI,184,1,23,12,0,8,5,14,185,2,24,13,0,7,6,12,Căminul Cultural Ibănești,,Ibănești,46.3962,27.6232
+430,39,VASLUI,ROŞIEŞTI,73,1,9,3,1,2,2,3,69,4,7,2,1,2,3,6,Școala Primară Idrici,,Idrici,46.4677,27.8973
+396,39,VASLUI,PUIEŞTI,57,2,6,3,4,2,3,10,60,2,7,3,4,2,3,5,"Școala Primară, Sat Iezer",Nr. l,Iezer,46.4117,27.5238
+190,39,VASLUI,BLĂGEŞTI,75,1,11,2,0,1,2,6,76,0,14,1,0,1,2,5,Școala Primară Igești,,Igești,46.1517,27.9913
+332,39,VASLUI,IVEŞTI,169,14,79,12,2,12,3,17,169,14,81,16,1,12,3,14,Școala Gimnazială nr. 1 Ivești - Corp A,,Ivești,46.1932,27.5416
+333,39,VASLUI,IVEŞTI,170,14,51,10,0,14,4,13,175,14,50,9,0,11,5,14,Școala Gimnazială nr. 1 Ivești - Corp B,,Ivești,46.1932,27.5416
+324,39,VASLUI,IVĂNEŞTI,161,15,32,12,2,39,4,21,168,18,32,13,3,40,5,15,Școala Ivănești,,Ivănești,46.6425,27.4622
+375,39,VASLUI,PĂDURENI,101,0,12,5,0,3,4,5,98,1,9,5,0,4,5,8,Școala Primară Ivănești,,Ivănești,46.5594,28.1188
+455,39,VASLUI,ŞULETEA,33,1,52,2,0,1,2,4,32,3,52,1,0,1,2,3,Școala Primară „Dumitru Bahrim”,,Jigălia,46.3131,27.9191
+196,39,VASLUI,BOGDANA,39,4,30,10,0,10,2,8,42,4,30,12,0,11,2,6,Școala Primară Lacu Babei,,Lacu Babei,46.5827,27.5905
+334,39,VASLUI,LAZA,220,78,117,9,0,17,8,24,224,83,112,12,1,14,6,19,Școala Gimnazială „Mihai Eminescu” Laza,,Laza,46.644,27.5957
+464,39,VASLUI,TĂTĂRĂNI,65,6,7,1,0,28,1,4,63,8,8,1,0,25,1,5,Școala Primară - Sat.Leosti,,Leoști,46.6622,27.948
+337,39,VASLUI,LIPOVĂŢ,331,7,46,13,1,12,2,37,340,10,55,13,2,13,4,15,Centrul Cultural „Ștefan Ciobotărașu” Sat Lipovaț,,Lipovăț,46.5645,27.7104
+297,39,VASLUI,GHERGHEŞTI,52,2,43,13,1,1,3,7,54,1,43,11,1,1,4,6,Școala Primară Sat Lunca,,Lunca,46.4556,27.5411
+342,39,VASLUI,LUNCA BANULUI,301,6,94,11,0,33,5,19,295,8,104,9,0,33,6,16,Școala Gimnazială nr. 1 Lunca Banului,,Lunca Banului,46.5964,28.1691
+344,39,VASLUI,LUNCA BANULUI,34,0,5,3,0,1,0,3,31,0,5,3,0,3,1,3,Școala Primară Sat Lunca Veche,,Lunca Veche,46.5274,28.1753
+351,39,VASLUI,MĂLUŞTENI,80,2,30,9,0,2,0,5,83,2,27,10,0,3,1,4,Sala Festivități Lupești,,Lupești,46.175,27.8795
+402,39,VASLUI,PUIEŞTI,73,0,30,15,1,4,0,5,77,0,30,15,1,5,1,1,"Școala Gimnazială, Sat Lălești",,Lălești,46.4733,27.4259
+133,39,VASLUI,ORAŞ MURGENI,51,0,18,5,0,1,1,8,50,0,18,6,0,2,2,6,Școala Primară Sat Lățești,,Lățești,46.1839,27.9832
+168,39,VASLUI,BANCA,15,3,60,1,0,5,0,4,12,3,62,2,0,4,0,5,Școala Primară Miclești,,Miclești,46.3244,27.8951
+353,39,VASLUI,MICLEŞTI,184,8,52,6,1,16,9,15,180,10,59,4,0,16,6,13,Căminul Cultural Miclești,,Miclești,46.8225,27.838
+158,39,VASLUI,ARSURA,12,1,8,1,2,11,1,4,16,1,11,0,2,10,0,0,Școala Primară Mihail Kogălniceanu,,Mihail Kogălniceanu,46.7968,28.0665
+461,39,VASLUI,TĂCUTA,24,0,96,3,0,2,0,6,22,0,98,2,0,3,1,4,Școala Primară Mircești,,Mircești,46.902,27.6718
+223,39,VASLUI,COROIEŞTI,116,1,15,10,0,5,1,7,125,0,14,6,0,5,0,4,Școala Gimnazială Sat Mireni,,Mireni,46.3178,27.4882
+165,39,VASLUI,BANCA,81,2,40,2,1,8,1,2,79,3,41,2,0,8,1,4,Școala Primară Mitoc,,Mitoc,46.381,27.7822
+485,39,VASLUI,VĂLENI,175,12,43,11,1,36,15,36,174,17,46,8,1,32,19,37,Școala Primară Sat Moara Domnească,,Moara Domnească,46.7181,27.76
+154,39,VASLUI,ALEXANDRU VLAHUŢĂ,23,0,53,1,0,11,4,9,24,0,55,1,0,9,4,9,"Școala Primară, Morăreni",,Morăreni,46.5131,27.5869
+357,39,VASLUI,MUNTENII DE JOS,280,33,59,37,1,31,19,48,278,38,61,40,2,32,19,44,Sala de Educație Fizică Școlară Muntenii de Jos,,Muntenii de Jos,46.6023,27.771
+360,39,VASLUI,MUNTENII DE SUS,218,8,42,10,0,8,7,21,213,13,39,12,0,11,8,20,"Școala Gimnazială „Ion Agarici”, Muntenii de Sus",,Muntenii de Sus,46.6883,27.7672
+129,39,VASLUI,ORAŞ MURGENI,353,12,99,46,0,20,9,41,360,15,101,49,0,20,14,25,Casa de Cultura Murgeni,,Murgeni,46.2042,28.0205
+130,39,VASLUI,ORAŞ MURGENI,59,2,26,14,0,6,4,35,68,1,26,17,0,8,5,8,Școala Primară Sat Nou,,Murgeni,46.1957,28.0201
+185,39,VASLUI,BEREZENI,97,1,7,8,0,21,1,2,96,1,11,6,1,22,1,1,Școala Primară Mușata,,Mușata,46.4373,28.0947
+358,39,VASLUI,MUNTENII DE JOS,132,3,34,3,0,9,0,9,137,4,34,4,1,10,2,5,Școala Primară Sat Mînjești,,Mânjești,46.5968,27.8164
+322,39,VASLUI,IBĂNEŞTI,183,4,11,2,1,10,1,6,185,3,10,2,1,10,1,3,Școala Primară Sat. Mînzați,,Mânzați,46.4452,27.5936
+352,39,VASLUI,MĂLUŞTENI,96,0,7,4,0,3,1,3,95,0,7,4,0,4,2,4,Școala Primară Mînzătești,,Mânzătești,46.1565,27.8868
+249,39,VASLUI,DELEŞTI,33,0,23,2,0,4,3,5,36,1,23,1,0,4,3,3,"Școala Primară, Mînăstirea",,Mânăstirea,46.6855,27.5388
+349,39,VASLUI,MĂLUŞTENI,33,2,4,2,0,1,5,5,31,2,4,2,0,2,5,5,Școala Mînăstirea,,Mânăstirea,46.1795,27.954
+347,39,VASLUI,MĂLUŞTENI,84,2,32,6,0,4,4,6,82,4,31,6,0,5,6,8,"Școala Gimnazială nr. 1, Sat Mălușteni",,Mălușteni,46.1815,27.924
+511,39,VASLUI,VUTCANI,99,2,19,7,0,3,2,7,101,2,17,8,0,3,2,6,Școala Primară Mălăiești,,Mălăiești,46.459,27.972
+451,39,VASLUI,ŞTEFAN CEL MARE,276,16,37,8,0,9,3,11,277,20,33,6,4,6,1,7,Școala Primară „Constantin Manoilescu” Maraseni,,Mărășeni,46.6982,27.6661
+501,39,VASLUI,VOINEŞTI,26,5,5,6,0,8,4,10,29,2,8,5,2,8,2,8,Școala Primară Mărășești,,Mărășești,46.525,27.4167
+386,39,VASLUI,POGANA,142,1,15,12,0,12,2,7,135,3,18,14,0,11,3,6,Școala Gimnazială Sat Măscurei,,Măscurei,46.3416,27.5211
+137,39,VASLUI,ORAŞ NEGREŞTI,294,24,142,70,1,28,19,45,303,27,131,54,0,37,18,47,Casa de Cultură,Str. Mihail Kogălniceanu nr. 4,Negrești,46.8345,27.4562
+138,39,VASLUI,ORAŞ NEGREŞTI,261,36,139,56,2,24,10,24,270,43,131,41,2,28,17,29,Casa de Cultură,Str. Mihail Kogălniceanu nr. 4,Negrești,46.8345,27.4562
+139,39,VASLUI,ORAŞ NEGREŞTI,302,29,157,65,1,25,8,44,309,30,155,46,1,44,11,27,Serviciul Public de Asistență Socială Negrești,Str. Pieții nr. 1,Negrești,46.8366,27.4568
+140,39,VASLUI,ORAŞ NEGREŞTI,134,6,78,26,0,6,5,18,149,9,78,21,1,6,5,12,Grădinița cu Program Normal nr. 2 Negrești,Str. Alexandru Ioan Cuza nr. 35,Negrești,46.8316,27.4621
+497,39,VASLUI,VINDEREI,85,3,150,6,0,4,3,12,86,1,149,6,0,4,5,10,Școala Gimnazială Obirseni,,Obârșeni,46.1838,27.8397
+505,39,VASLUI,VOINEŞTI,47,1,22,1,0,1,1,2,51,1,22,1,0,1,1,2,Școala Primară Obîrșeni,,Obârșeni,46.581,27.4527
+506,39,VASLUI,VOINEŞTI,185,1,22,21,2,20,4,11,184,2,22,20,1,19,4,7,Școala Gimnazială Obîrșenii Lingurari,,Obârșenii Lingurari,46.5911,27.4361
+288,39,VASLUI,FĂLCIU,48,3,25,5,1,1,2,6,44,5,27,4,0,2,2,4,Școala Primară Sat Odaia Bogdana,,Odaia Bogdana,46.2884,28.0785
+309,39,VASLUI,GRIVIŢA,91,1,52,4,1,4,1,12,92,1,53,6,1,5,1,7,Școala Primară Odaia Bursucani,,Odaia Bursucani,46.1528,27.7095
+363,39,VASLUI,OLTENEŞTI,44,3,31,4,0,6,8,13,46,3,32,3,0,6,7,12,Școala Primară Oltenești,,Oltenești,46.5853,27.9001
+391,39,VASLUI,POIENEŞTI,133,10,49,9,0,12,1,12,133,12,50,8,1,12,1,7,Școala Oprișița,,Oprișița,46.6116,27.5709
+369,39,VASLUI,OŞEŞTI,240,8,128,11,3,6,4,25,233,8,134,12,3,7,5,17,Școala Gimnazială „Mihai Eminescu” Sat Oșești,,Oșești,46.7562,27.4802
+313,39,VASLUI,HOCENI,186,0,15,16,0,3,2,8,188,1,12,18,0,3,2,9,Școala Primară Oțeleni,,Oțeleni,46.541,27.9835
+343,39,VASLUI,LUNCA BANULUI,156,0,21,4,0,3,1,8,154,1,23,4,0,3,2,5,Școala Primară Sat Oțetoaia,,Oțetoaia,46.5819,28.1757
+144,39,VASLUI,ORAŞ NEGREŞTI,87,6,27,16,1,10,2,10,91,5,22,12,2,10,7,10,Grădinița cu Program Normal Sat Parpanița,,Parpanița,46.8247,27.4845
+294,39,VASLUI,GĂGEŞTI,83,4,38,15,0,3,2,12,87,4,36,17,0,3,1,8,Școala Primară „Dumitru Marin” Peicani,,Peicani,46.3055,27.9868
+377,39,VASLUI,PERIENI,257,6,102,31,1,1,3,16,257,8,106,28,2,3,3,8,Școala Gimnazială Perieni - Centru,,Perieni,46.3081,27.6084
+378,39,VASLUI,PERIENI,185,4,104,38,1,5,8,23,185,7,105,42,3,7,9,20,Școala Primară Perieni - Satul Nou,,Perieni,46.2972,27.6114
+379,39,VASLUI,PERIENI,57,3,51,6,2,0,1,8,56,3,50,8,2,1,3,5,Școala Primară Perieni - Vale,,Perieni,46.3104,27.6206
+211,39,VASLUI,BUNEŞTI-AVEREŞTI,77,4,25,9,1,4,0,7,73,5,27,6,1,7,2,10,Școala Primară Plopi,,Plopi,46.7681,27.9801
+473,39,VASLUI,TODIREŞTI,60,1,3,1,1,3,3,7,62,2,2,1,1,2,3,6,Școala Primară Sat Plopoasa,,Plopoasa,46.8195,27.3786
+254,39,VASLUI,DIMITRIE CANTEMIR,63,0,8,2,1,2,5,20,71,2,9,2,0,2,6,11,Școala Primară Plotonești,,Plotonești,46.5571,28.0753
+381,39,VASLUI,POCHIDIA,65,1,76,9,0,1,3,9,65,0,80,10,0,2,3,5,Școala Primară Pochidia,,Pochidia,46.0437,27.5882
+213,39,VASLUI,BUNEŞTI-AVEREŞTI,58,0,14,4,0,8,1,7,57,0,13,3,0,7,2,5,Școala Primară Podu-Oprii,,Podu Oprii,46.8328,27.9459
+383,39,VASLUI,POGANA,144,5,30,9,0,19,1,13,149,5,32,10,0,17,2,9,Școala Gimnazială nr. 1 Pogana,,Pogana,46.3128,27.5726
+387,39,VASLUI,POGONEŞTI,192,12,48,72,0,91,11,30,188,13,47,74,1,96,13,19,Școala Gimnazială „Dimitrie Negrutiu”,,Pogonești,46.1495,27.5314
+448,39,VASLUI,STĂNILEŞTI,118,0,150,3,0,4,17,31,118,1,156,2,0,5,21,25,"Școala Gimnazială, Pogănești",,Pogănești,46.6925,28.1664
+142,39,VASLUI,ORAŞ NEGREŞTI,65,1,19,5,1,6,1,3,68,1,18,2,1,6,1,3,Școala Primară Sat Poiana,,Poiana,46.8076,27.4801
+259,39,VASLUI,DRAGOMIREŞTI,18,4,49,5,1,1,1,3,21,4,48,4,1,1,1,2,Școala Primară Poiana Pietrei,,Poiana Pietrei,46.6392,27.3457
+415,39,VASLUI,PUŞCAŞI,93,2,8,3,1,5,2,8,90,3,9,4,3,5,4,8,Școala Primară Poiana Lui Alexa,,Poiana lui Alexa,46.6205,27.6179
+390,39,VASLUI,POIENEŞTI,146,21,18,4,0,5,4,8,148,22,20,5,1,5,3,5,Cămin Cultural Poienești,,Poienești,46.6256,27.5291
+393,39,VASLUI,POIENEŞTI,31,2,1,1,0,1,1,5,31,2,1,0,1,1,1,3,Școala Poienești Deal,,Poienești-Deal,46.5769,27.5447
+388,39,VASLUI,POGONEŞTI,22,1,4,4,3,46,1,4,21,1,4,4,2,48,5,8,Sala Tineretului,,Polocin,46.1357,27.5317
+526,39,VASLUI,ZORLENI,268,4,24,6,0,11,9,26,270,6,22,7,0,13,9,18,Școala Gimnazială nr. 3 Popeni,,Popeni,46.2449,27.8
+527,39,VASLUI,ZORLENI,224,3,25,3,0,6,5,14,220,3,23,6,0,7,5,10,Școala Gimnazială nr. 3 Popeni,,Popeni,46.2449,27.8
+266,39,VASLUI,DRAGOMIREŞTI,65,2,18,3,0,0,0,8,69,1,16,2,0,1,0,4,Școala Primară Popești,,Popești,46.59,27.4011
+356,39,VASLUI,MICLEŞTI,92,0,17,8,0,7,1,6,92,0,17,8,0,8,2,5,Școala Primară Popești,,Popești,46.7969,27.8365
+515,39,VASLUI,ZĂPODENI,194,5,15,6,0,3,6,16,186,6,14,8,0,2,7,15,"Școala Primară, Sat Portari",,Portari,46.7385,27.6975
+512,39,VASLUI,VUTCANI,64,0,1,2,0,1,1,4,63,0,1,2,1,1,1,4,Școala Primară Poșta-Elan,,Poșta Elan,46.4104,27.9942
+218,39,VASLUI,CODĂEŞTI,182,10,17,27,2,5,0,7,181,6,18,29,3,5,2,8,Școala Gimnazială Pribești,,Pribești,46.9041,27.7976
+463,39,VASLUI,TĂCUTA,74,5,176,6,0,1,2,8,72,7,172,7,1,1,3,7,Școala Gimnazială Protopopești,,Protopopești,46.9658,27.641
+395,39,VASLUI,PUIEŞTI,222,5,37,14,0,10,12,26,227,4,33,12,0,15,14,22,"Liceul Tehnologic, Sat Puiești",,Puiești,46.4257,27.4966
+407,39,VASLUI,PUNGEŞTI,188,4,40,11,0,10,3,15,195,6,41,12,0,10,5,11,"Școala Gimnazială nr. 1, Sat Pungești",,Pungești,46.7082,27.3374
+226,39,VASLUI,COSTEŞTI,53,1,11,3,0,4,5,7,53,2,11,3,0,3,5,9,Școala Gimnazială Puntișeni,,Puntișeni,46.4784,27.7665
+414,39,VASLUI,PUŞCAŞI,176,16,70,23,2,15,4,30,176,20,73,21,2,17,4,23,Școala Gimnazială nr. 1 Pușcași,,Pușcași,46.6258,27.6453
+418,39,VASLUI,PUŞCAŞI,130,8,73,15,0,5,6,22,128,12,74,16,1,5,4,20,Școala Gimnazială nr. 1 Puscasi,,Pușcași,46.6258,27.6453
+323,39,VASLUI,IBĂNEŞTI,42,1,0,9,1,4,0,2,46,2,0,8,1,3,1,1,"Fosta Școala cu Clasele I-IV, Puțu Olarului",,Puțu Olarului,46.3765,27.6455
+368,39,VASLUI,OLTENEŞTI,39,1,25,2,1,2,1,4,40,3,23,2,1,2,2,3,Școala Primară Pîhna,,Pâhna,46.5563,27.8676
+157,39,VASLUI,ARSURA,67,0,13,4,2,7,6,9,67,0,15,3,1,7,5,8,Școala Primară Pîhnești,,Pâhnești,46.7824,28.0354
+230,39,VASLUI,COSTEŞTI,26,0,4,1,0,2,2,3,25,0,4,1,0,3,2,2,Școala Primară Pîrvești,,Pârvești,46.4742,27.742
+371,39,VASLUI,OŞEŞTI,24,1,22,1,0,2,2,4,25,3,21,1,0,1,1,3,Școala Primară Sat Pădureni,,Pădureni,46.783,27.4419
+372,39,VASLUI,PĂDURENI,252,5,43,9,0,7,5,16,245,7,52,7,0,10,8,15,Școala Gimnazială nr. 1 Pădureni,,Pădureni,46.6222,28.0786
+177,39,VASLUI,BĂCEŞTI,88,0,11,0,0,5,3,9,92,0,11,1,2,6,3,5,Școala Primară Sat Păltiniș,,Păltiniș,46.7883,27.2435
+304,39,VASLUI,GÎRCENI,53,1,16,8,2,1,1,3,50,1,13,10,2,1,1,6,"Școala Gimnazială, Racova",,Racova,46.7432,27.2491
+305,39,VASLUI,GÎRCENI,67,1,2,4,0,3,0,1,67,1,2,4,0,3,0,1,"Școala Primară, Racovița",,Racovița,46.7531,27.2561
+419,39,VASLUI,RAFAILA,439,9,60,18,0,25,4,14,429,8,63,17,0,25,8,21,"Grădinița cu Program Normal, Rafaila",,Rafaila,46.802,27.3652
+134,39,VASLUI,ORAŞ MURGENI,134,1,25,5,1,3,1,8,133,2,28,6,0,3,1,4,Școala Primară Sat Raiu,,Raiu,46.2409,28.0159
+427,39,VASLUI,REBRICEA,94,2,16,5,0,12,1,3,91,1,18,5,0,11,3,4,Școala Primară Rateșu-Cuzei,,Rateșu Cuzei,46.8362,27.5628
+420,39,VASLUI,REBRICEA,88,12,16,11,0,8,2,8,81,13,15,14,0,9,3,7,Școala Gimnazială Rebricea,,Rebricea,46.8702,27.5609
+319,39,VASLUI,IANA,106,0,13,8,1,0,0,2,105,0,13,8,2,0,0,1,Școala Gimnazială Recea,,Recea,46.4354,27.5429
+433,39,VASLUI,ROŞIEŞTI,46,0,12,0,1,3,3,6,48,0,12,1,1,4,3,4,Școala Primară Rediu,,Rediu,46.473,27.8695
+219,39,VASLUI,CODĂEŞTI,97,0,22,0,1,11,3,12,96,0,23,0,1,12,5,12,Căminul Cultural Rediu-Galian,,Rediu Galian,46.8878,27.7299
+405,39,VASLUI,PUIEŞTI,17,2,9,3,3,0,1,2,19,2,8,4,3,0,1,2,"Școala Primară, Sat Rotari",,Rotari,46.4178,27.4627
+428,39,VASLUI,ROŞIEŞTI,160,2,41,15,1,21,9,21,153,5,42,13,2,20,10,24,"Școala Gimnazială „Veniamin Costachi”, Roșiești",,Roșiești,46.4437,27.9034
+373,39,VASLUI,PĂDURENI,107,1,19,8,0,14,2,18,104,1,22,8,0,13,2,17,Școala Primară Rusca,,Rusca,46.6426,28.0622
+398,39,VASLUI,PUIEŞTI,85,1,9,11,6,2,4,12,84,0,9,10,6,2,5,12,"Școala Primară, Sat Ruși",,Ruși,46.4569,27.5066
+186,39,VASLUI,BEREZENI,144,0,15,6,1,4,2,8,141,0,16,5,1,4,2,9,Școala Gimnazială Rînceni,,Rânceni,46.4061,28.104
+285,39,VASLUI,FĂLCIU,176,3,15,9,1,4,5,20,184,5,14,12,1,5,1,11,Școala Gimnazială Sat Rânzești,,Rânzești,46.2235,28.0965
+269,39,VASLUI,DRÎNCENI,313,7,93,7,3,19,5,34,308,8,107,8,2,21,5,20,"Școala Gimnazială, Sat Rîșești",,Râșești,46.7777,28.1449
+336,39,VASLUI,LAZA,39,15,19,4,1,1,0,0,39,14,18,0,1,3,1,3,"Școala Primară, Râșnița",,Râșnița,46.6601,27.5731
+264,39,VASLUI,DRAGOMIREŞTI,125,1,24,8,0,3,1,8,123,0,25,11,0,4,2,5,Școala Gimnazială nr. 1 Rădeni,,Rădeni,46.5905,27.3729
+229,39,VASLUI,COSTEŞTI,35,0,7,4,0,1,1,5,35,0,7,5,0,1,1,6,Școala Primară Rădești,,Rădești,46.4797,27.7914
+250,39,VASLUI,DELEŞTI,26,0,19,2,0,5,2,7,24,4,20,1,0,4,2,5,"Școala Primară, Răduiești",,Răduiești,46.6966,27.5835
+456,39,VASLUI,ŞULETEA,22,2,73,4,2,1,1,9,24,3,75,4,1,2,1,4,Școala Primară Rășcani,,Rășcani,46.3193,27.9001
+422,39,VASLUI,REBRICEA,47,0,7,11,0,3,3,6,46,1,8,12,0,3,3,4,Școala Primară Sasova,,Sasova,46.8786,27.5753
+188,39,VASLUI,BEREZENI,302,3,57,6,1,4,4,15,300,1,61,3,1,6,3,13,Școala Gimnazială „Anastasie Fătu” Berezeni-Corp 2 Satu Nou,,Satu Nou,46.3583,28.1453
+237,39,VASLUI,CREŢEŞTI,54,2,49,6,2,11,0,14,53,3,54,4,1,14,1,12,Școala Noua Satu Nou,,Satu Nou,46.6563,27.9761
+361,39,VASLUI,MUNTENII DE SUS,175,7,80,13,1,8,6,23,177,9,80,11,2,12,5,18,"Școala Primară, Satu-Nou",,Satu Nou,46.694,27.7485
+362,39,VASLUI,MUNTENII DE SUS,123,9,58,18,1,4,6,25,122,11,62,17,0,6,7,21,"Școala Primară, Satu Nou",,Satu Nou,46.694,27.7485
+438,39,VASLUI,SOLEŞTI,98,3,13,2,0,7,3,6,99,4,11,3,0,7,4,6,Grădinița cu Program Normal Satu Nou,,Satu Nou,46.7829,27.7982
+335,39,VASLUI,LAZA,160,55,31,8,0,11,5,14,159,63,29,7,0,8,5,13,"Școala Primară, Sauca",,Sauca,46.6516,27.6029
+136,39,VASLUI,ORAŞ MURGENI,110,3,8,1,0,3,3,9,113,3,7,2,0,3,3,8,Școala Primară Sat Schineni,,Schineni,46.2002,27.9514
+318,39,VASLUI,IANA,298,1,42,9,2,0,1,12,300,2,47,11,2,0,2,9,Școala Primară Siliștea,,Siliștea,46.4273,27.555
+409,39,VASLUI,PUNGEŞTI,39,0,28,1,1,6,5,7,41,1,29,1,0,4,7,7,"Școala Primară, Sat Siliștea",,Siliștea,46.6932,27.37
+468,39,VASLUI,TODIREŞTI,74,4,9,15,0,7,2,8,75,4,11,11,1,9,3,6,Școala Primară Sat Siliștea,,Siliștea,46.8388,27.4102
+525,39,VASLUI,ZORLENI,234,11,50,18,0,14,7,33,237,12,51,23,2,14,9,21,Școala Primară Sat Simila,,Simila,46.2619,27.701
+191,39,VASLUI,BLĂGEŞTI,37,0,4,2,0,2,1,3,38,1,4,1,0,3,1,3,Școala Primară Sipeni,,Sipeni,46.1382,27.9817
+306,39,VASLUI,GÎRCENI,159,0,15,10,1,6,1,6,156,1,13,12,1,6,3,8,"Școala Primară, Slobozia",,Slobozia,46.753,27.2328
+474,39,VASLUI,TODIREŞTI,21,1,1,1,0,17,3,3,19,2,1,2,0,16,4,4,Școala Primară Sat Sofronești,,Sofronești,46.8782,27.3746
+435,39,VASLUI,SOLEŞTI,175,3,40,14,1,5,3,17,174,6,42,13,2,6,4,13,Biblioteca „Elena Cuza” din Localitatea Solești,,Solești,46.7616,27.7837
+408,39,VASLUI,PUNGEŞTI,63,1,6,10,0,11,1,8,72,1,7,10,0,9,2,2,"Școala Primară, Sat Stejaru",,Stejaru,46.69,27.3183
+162,39,VASLUI,BANCA,86,1,79,9,2,14,1,7,83,5,78,11,1,12,2,8,Școala Primară Stoișești,,Stoișești,46.3422,27.8549
+467,39,VASLUI,TĂTĂRĂNI,38,2,49,2,0,14,7,12,37,2,49,2,0,15,8,12,Școala Primară - Sat Stroiesti,,Stroiești,46.7257,27.9778
+167,39,VASLUI,BANCA,29,0,26,0,1,10,7,13,28,0,30,0,1,13,6,7,Grădinița Strîmtura -Mitoc,,Strâmtura-Mitoc,46.3608,27.785
+187,39,VASLUI,BEREZENI,62,0,9,0,0,2,0,4,61,2,8,1,0,3,0,1,Școala Primară Stuhuleț,,Stuhuleț,46.4156,28.0672
+503,39,VASLUI,VOINEŞTI,77,0,1,1,0,3,1,4,77,0,2,1,0,4,2,5,Școala Primară Stîncășeni,,Stâncășeni,46.5236,27.4735
+442,39,VASLUI,STĂNILEŞTI,206,7,103,13,1,14,4,29,204,10,113,11,1,12,5,20,"Școala Gimnazială nr. 1, Corp B",,Stănilești,46.6168,28.1722
+443,39,VASLUI,STĂNILEŞTI,129,2,68,13,1,8,2,11,124,2,79,12,1,8,3,10,"Școala Gimnazială nr. 1, Corp B",,Stănilești,46.6168,28.1722
+193,39,VASLUI,BOGDANA,23,0,18,1,0,3,1,13,26,6,19,1,1,3,0,2,Școala Suceveni,,Suceveni,46.537,27.6471
+172,39,VASLUI,BĂCANI,54,1,54,8,2,5,4,9,57,1,53,6,2,6,4,10,Școala Primară Sat Suseni,,Suseni,46.3533,27.6621
+164,39,VASLUI,BANCA,79,5,30,3,0,16,1,5,82,2,30,3,1,16,4,8,Școala Primară 1 Decembrie,1 DECEMBRIE,Sârbi,46.3591,27.8095
+166,39,VASLUI,BANCA,49,11,27,3,1,10,2,7,49,11,27,4,1,10,2,6,Școala Gimnazială Sîrbi,,Sârbi,46.3936,27.8049
+382,39,VASLUI,POCHIDIA,76,3,287,6,0,6,12,27,77,1,296,4,1,5,11,18,"Școala Gimnazială nr. 1, Sălceni",,Sălceni,46.0658,27.5677
+135,39,VASLUI,ORAŞ MURGENI,53,3,17,7,0,2,3,8,53,3,21,5,0,2,3,5,Școala Gimnazială Emil Juvara Sat Sărățeni,,Sărățeni,46.1927,27.9651
+457,39,VASLUI,TANACU,215,4,131,6,1,83,4,24,215,4,133,6,1,89,5,17,Școala Gimnazială nr. 1 Sat. Tanacu,,Tanacu,46.6808,27.8125
+426,39,VASLUI,REBRICEA,56,0,9,3,0,1,1,3,57,0,9,2,1,1,1,2,Școala Primară Tatomirești,,Tatomirești,46.8974,27.5315
+416,39,VASLUI,PUŞCAŞI,87,4,47,4,0,3,0,13,84,6,47,3,0,4,2,11,Școala Primară Teișoru,,Teișoru,46.6059,27.5839
+517,39,VASLUI,ZĂPODENI,110,8,31,1,2,2,0,5,113,8,31,2,0,1,2,4,"Școala Primară, Sat Telejna",,Telejna,46.7828,27.6467
+469,39,VASLUI,TODIREŞTI,135,10,34,20,1,6,11,20,142,8,38,12,1,8,11,16,Școala Gimnazială „Gh.Cioată” Todirești,,Todirești,46.8417,27.3867
+384,39,VASLUI,POGANA,184,2,15,31,1,16,9,17,187,4,18,27,1,15,11,18,Școala Gimnazială Sat Tomești,,Tomești,46.3603,27.5817
+315,39,VASLUI,HOCENI,35,0,7,2,0,4,1,2,33,0,9,2,0,4,1,2,Școala Primară Tomșa,,Tomșa,46.5712,27.9951
+411,39,VASLUI,PUNGEŞTI,68,4,64,8,0,25,4,10,66,4,64,9,0,26,5,11,"Școala Primară, Sat Toporăști",,Toporăști,46.691,27.4097
+308,39,VASLUI,GRIVIŢA,197,9,81,55,1,7,4,18,198,7,80,61,3,10,7,13,Școala Gimnazială Trestiana,,Trestiana,46.1913,27.6728
+303,39,VASLUI,GÎRCENI,60,1,14,7,1,4,2,3,62,1,14,7,1,4,1,1,"Școala Primară, Trohan",,Trohan,46.7344,27.2862
+423,39,VASLUI,REBRICEA,70,0,8,3,1,4,1,4,70,1,9,3,0,4,3,4,Școala Primară Tufeștii de Jos,,Tufeștii de Jos,46.8812,27.6176
+265,39,VASLUI,DRAGOMIREŞTI,42,1,8,2,0,1,0,5,42,0,9,3,1,1,0,3,Școala Primară Tulești,,Tulești,46.6025,27.3314
+205,39,VASLUI,BOGDĂNIŢA,64,1,6,4,0,2,0,4,63,1,7,2,0,3,1,4,Școala Primară Tunsești,,Tunsești,46.4801,27.6589
+295,39,VASLUI,GĂGEŞTI,61,2,21,2,0,3,7,12,57,2,23,5,1,4,7,10,Școala Primară Tupilati,,Tupilați,46.3917,27.9795
+477,39,VASLUI,TUTOVA,317,14,83,19,2,58,3,32,320,18,82,23,2,64,4,18,Căminul Cultural Tutova,,Tutova,46.121,27.563
+367,39,VASLUI,OLTENEŞTI,129,6,58,14,0,7,8,25,129,7,59,14,1,9,7,14,Școala Gimnazială Constantin Rotaru Tîrzii,,Târzii,46.5695,27.872
+459,39,VASLUI,TĂCUTA,102,0,111,14,2,22,6,17,106,3,110,12,5,26,3,9,Căminul Cultural Tăcuta,,Tăcuta,46.9161,27.6875
+242,39,VASLUI,DĂNEŞTI,43,0,8,4,0,3,1,7,47,0,6,5,0,2,1,4,Școala Primară Tătărăni,,Tătărăni,46.8057,27.6773
+465,39,VASLUI,TĂTĂRĂNI,87,3,28,11,0,63,7,16,84,3,32,12,0,62,6,14,Căminul Cultural Tătărăni,,Tătărăni,46.6915,27.9561
+200,39,VASLUI,BOGDĂNEŞTI,88,1,11,2,1,3,1,10,86,0,11,2,1,3,3,10,"Școala Primară, Sat Ulea",,Ulea,46.4236,27.7347
+520,39,VASLUI,ZĂPODENI,101,3,23,1,0,2,0,0,99,3,22,3,0,1,0,3,"Școala Primară, Sat Uncești",,Uncești,46.7986,27.5962
+201,39,VASLUI,BOGDĂNEŞTI,315,3,19,7,1,4,7,13,316,3,21,4,1,4,3,11,"Școala Gimnazială, Sat Unțești",,Unțești,46.3991,27.7234
+257,39,VASLUI,DODEŞTI,80,1,12,2,0,5,5,10,79,2,12,3,0,6,4,9,Școala Primară Urdești,,Urdești,46.3495,27.9436
+255,39,VASLUI,DIMITRIE CANTEMIR,63,2,8,2,1,2,1,4,62,2,9,2,0,2,3,5,Școala Primară Urlați,,Urlați,46.5661,28.0532
+330,39,VASLUI,IVĂNEŞTI,80,1,12,3,1,3,1,9,82,2,11,3,1,4,3,7,Școala Ursoaia,,Ursoaia,46.6509,27.4051
+331,39,VASLUI,IVĂNEŞTI,72,1,24,6,3,4,3,6,75,2,21,5,1,4,4,7,Grădinița cu Program Normal Sat.Ursoaia,,Ursoaia,46.6558,27.4091
+320,39,VASLUI,IANA,88,1,10,4,0,0,3,12,88,2,15,3,0,0,4,9,Grădinița Vadurile,,Vadurile,46.373,27.5441
+272,39,VASLUI,DUDA-EPURENI,202,2,58,21,2,8,7,14,191,5,63,16,3,8,7,13,Școala Gimnazială Nicolae Popa,,Valea Grecului,46.7208,28.0979
+498,39,VASLUI,VINDEREI,53,1,57,2,0,3,2,4,55,1,54,1,0,4,4,4,Școala Primară Valea Lungă,,Valea Lungă,46.1505,27.8302
+141,39,VASLUI,ORAŞ NEGREŞTI,148,6,112,9,0,12,7,21,153,5,111,9,1,19,10,19,Școala Gimnazială Sat Valea Mare,,Valea Mare,46.8136,27.4578
+277,39,VASLUI,DUMEŞTI,214,0,16,4,0,14,1,10,209,0,17,5,0,15,3,13,Școala Primară Valea Mare,,Valea Mare,46.8337,27.329
+326,39,VASLUI,IVĂNEŞTI,107,0,4,2,0,3,0,4,108,0,4,2,0,3,0,2,Școala Valea Mare,,Valea Mare,46.6595,27.4892
+329,39,VASLUI,IVĂNEŞTI,51,3,15,2,2,5,2,5,53,4,14,2,1,4,4,6,Școala Valea Oanei,,Valea Oanei,46.6704,27.429
+475,39,VASLUI,TODIREŞTI,42,2,3,4,0,2,5,6,44,1,3,2,0,2,6,7,Școala Primară Sat Valea -Popii,,Valea Popii,46.8629,27.4099
+441,39,VASLUI,SOLEŞTI,66,1,8,11,0,4,2,8,67,2,8,10,0,4,1,7,Fosta Școala cu Clasele I-IV Valea Siliștei,,Valea Siliștei,46.7451,27.8334
+417,39,VASLUI,PUŞCAŞI,102,0,10,3,0,4,0,5,104,2,8,3,1,4,0,2,Școala Primară Valea Târgului,,Valea Târgului,46.6571,27.652
+429,39,VASLUI,ROŞIEŞTI,123,5,14,3,1,8,8,13,120,5,14,5,0,8,8,12,Școala Primară Valea Lui Darie,,Valea lui Darie,46.4483,27.9425
+1,39,VASLUI,MUNICIPIUL VASLUI,287,82,102,48,0,62,54,85,279,87,114,42,1,67,58,73,Casa de Cultură a Sindicatelor,Str. Ștefan cel Mare nr. 81,Vaslui,46.639,27.7327
+2,39,VASLUI,MUNICIPIUL VASLUI,308,51,65,31,2,45,23,60,307,51,67,25,4,49,25,52,Casa de Cultură a Sindicatelor,Str. Ștefan cel Mare nr. 81,Vaslui,46.639,27.7327
+3,39,VASLUI,MUNICIPIUL VASLUI,215,32,45,36,3,23,17,41,213,36,48,31,3,21,19,36,Liceul Teoretic „Mihail Kogălniceanu”,Str. Mihail Kogălniceanu nr. 16,Vaslui,46.6411,27.7285
+4,39,VASLUI,MUNICIPIUL VASLUI,122,26,39,8,1,19,8,23,123,24,44,8,0,20,7,18,Liceul Teoretic „Mihail Kogălniceanu”,Str. Mihail Kogălniceanu nr. 16,Vaslui,46.6411,27.7285
+5,39,VASLUI,MUNICIPIUL VASLUI,187,29,46,22,0,29,13,37,185,35,43,21,0,32,20,30,Liceul Teoretic „Mihail Kogălniceanu”,Str. Mihail Kogălniceanu nr. 16,Vaslui,46.6411,27.7285
+6,39,VASLUI,MUNICIPIUL VASLUI,148,39,50,34,2,26,14,52,151,45,61,33,2,29,16,38,S.C. Corevas S.R.L.,Str. Spiru Haret nr. 3,Vaslui,46.6373,27.729
+7,39,VASLUI,MUNICIPIUL VASLUI,122,71,65,33,1,45,19,49,133,72,74,30,1,41,14,37,S.C. Corevas S.R.L.,Str. Spiru Haret nr. 3,Vaslui,46.6373,27.729
+8,39,VASLUI,MUNICIPIUL VASLUI,289,54,73,26,3,38,18,57,297,58,80,27,2,33,29,42,Grădinița cu Program Prelungit nr. 15,Str. Eternității nr. 2,Vaslui,46.6407,27.7255
+9,39,VASLUI,MUNICIPIUL VASLUI,134,22,35,13,2,31,14,40,144,22,41,15,3,24,16,27,Școala Gimnazială „Constantin Parfene”,Str. Mihail Kogălniceanu nr. 20,Vaslui,46.6421,27.729
+10,39,VASLUI,MUNICIPIUL VASLUI,38,15,16,1,0,12,13,18,42,13,18,1,2,12,10,12,Școala Gimnazială „Constantin Parfene”,Str. Mihail Kogălniceanu nr. 20,Vaslui,46.6421,27.729
+11,39,VASLUI,MUNICIPIUL VASLUI,6,2,3,1,0,2,0,3,6,3,3,1,1,2,0,1,Școala Gimnazială „Constantin Parfene”,Str. Mihail Kogălniceanu nr. 20,Vaslui,46.6421,27.729
+12,39,VASLUI,MUNICIPIUL VASLUI,84,7,34,10,1,13,12,23,85,7,31,10,3,12,14,25,Școala Gimnazială „Constantin Parfene”,Str. Mihail Kogălniceanu nr. 20,Vaslui,46.6421,27.729
+13,39,VASLUI,MUNICIPIUL VASLUI,77,5,18,5,0,7,4,10,87,4,10,5,1,7,5,9,Școala Gimnazială „Constantin Parfene”,Str. Mihail Kogălniceanu nr. 20,Vaslui,46.6421,27.729
+14,39,VASLUI,MUNICIPIUL VASLUI,158,15,54,10,0,27,14,34,160,16,46,11,2,27,18,37,Grădinița cu Program Prelungit nr. 5,Str. Avîntului nr. 19,Vaslui,46.6423,27.7303
+15,39,VASLUI,MUNICIPIUL VASLUI,107,8,30,8,0,6,12,25,108,13,29,8,0,9,12,17,Grădinița cu Program Prelungit nr. 5,Str. Avîntului nr. 19,Vaslui,46.6423,27.7303
+16,39,VASLUI,MUNICIPIUL VASLUI,266,42,86,34,0,54,19,49,274,48,94,30,2,41,25,50,Romsilva - Ra - Filiala Vaslui,Str. Veteran Țurcanu nr. 61,Vaslui,46.6489,27.7301
+17,39,VASLUI,MUNICIPIUL VASLUI,343,59,89,33,2,62,27,59,330,68,96,37,2,60,23,48,Școala Ajutătoare,Str. Spitalului,Vaslui,46.6552,27.7345
+18,39,VASLUI,MUNICIPIUL VASLUI,135,12,32,11,0,20,8,24,134,15,35,10,0,21,9,22,Școala Ajutătoare,Str. Spitalului,Vaslui,46.6552,27.7345
+19,39,VASLUI,MUNICIPIUL VASLUI,150,24,47,15,0,23,10,29,142,28,51,12,0,25,15,27,Școala Gimnazială „Mihail Sadoveanu”,Str. Dr. Victor Babeș nr. 1,Vaslui,46.6541,27.7344
+20,39,VASLUI,MUNICIPIUL VASLUI,262,63,65,42,1,59,22,46,270,66,65,41,2,56,21,39,Școala Gimnazială „Mihail Sadoveanu”,Str. Dr. Victor Babeș nr. 1,Vaslui,46.6541,27.7344
+21,39,VASLUI,MUNICIPIUL VASLUI,252,71,89,18,0,53,15,48,247,76,87,21,1,54,20,39,Școala Gimnazială „Dimitrie Cantemir”,Str. Ștefan cel Mare nr. 193,Vaslui,46.6476,27.7379
+22,39,VASLUI,MUNICIPIUL VASLUI,107,14,37,13,1,19,12,31,108,16,37,12,1,20,10,29,Școala Gimnazială „Dimitrie Cantemir”,Str. Ștefan cel Mare nr. 193,Vaslui,46.6476,27.7379
+23,39,VASLUI,MUNICIPIUL VASLUI,286,50,93,24,1,62,25,69,276,61,102,26,1,58,29,53,Liceul cu Program Sportiv,Str. Ștefan cel Mare nr. 193,Vaslui,46.6471,27.7379
+24,39,VASLUI,MUNICIPIUL VASLUI,91,9,13,9,0,11,3,12,91,8,17,11,2,10,3,7,Grădinița cu Program Prelungit nr. 6,Str. Dimitrie Bolintineanu nr. 1,Vaslui,46.6474,27.7363
+25,39,VASLUI,MUNICIPIUL VASLUI,277,43,55,27,0,22,18,57,282,47,63,20,3,20,19,46,Grădinița cu Program Prelungit nr. 17,Nr. 1,Vaslui,46.6443,27.728
+26,39,VASLUI,MUNICIPIUL VASLUI,228,22,62,21,0,28,15,53,238,20,71,18,2,25,18,42,Școala Gimnazială „Ștefan Cel Mare”,Str. Mareșal Constantin Prezan (Bulevardul Primăverii) nr. 2,Vaslui,46.6428,27.7339
+27,39,VASLUI,MUNICIPIUL VASLUI,354,76,86,48,0,55,32,58,355,79,93,47,0,57,25,47,Școala Gimnazială „Ștefan Cel Mare”,Str. Mareșal Constantin Prezan (Bulevardul Primăverii) nr. 2,Vaslui,46.6428,27.7339
+28,39,VASLUI,MUNICIPIUL VASLUI,180,34,44,23,2,24,13,37,192,38,44,25,2,23,12,20,Școala Gimnazială „Constantin Motaș”,Str. Cuza Vodă nr. 7,Vaslui,46.6435,27.7386
+29,39,VASLUI,MUNICIPIUL VASLUI,179,34,51,9,1,20,14,41,184,39,53,7,2,26,13,27,Școala Gimnazială „Constantin Motaș”,Str. Cuza Vodă nr. 7,Vaslui,46.6435,27.7386
+30,39,VASLUI,MUNICIPIUL VASLUI,271,44,43,28,0,39,23,69,288,47,45,26,1,39,23,50,Liceul Teoretic „Emil Racoviță”,Str. Husului nr. 48,Vaslui,46.642,27.7382
+31,39,VASLUI,MUNICIPIUL VASLUI,259,47,46,29,0,47,19,42,257,50,48,27,0,47,20,40,Grădinița cu Program Normal nr. 12,Str. Husului nr. 23,Vaslui,46.6407,27.7362
+32,39,VASLUI,MUNICIPIUL VASLUI,226,41,63,25,2,36,10,40,238,46,61,25,2,39,11,24,Grădinița cu Program Prelungit nr. 3,Str. Gheorghe Racoviță nr. 191,Vaslui,46.6409,27.7361
+33,39,VASLUI,MUNICIPIUL VASLUI,270,68,70,25,0,33,23,51,281,71,67,18,0,36,26,46,Sala Sporturilor,Str. Decebal (Str. Abator) nr. 1,Vaslui,46.634,27.7347
+34,39,VASLUI,MUNICIPIUL VASLUI,76,33,28,12,1,13,5,18,75,31,30,12,1,14,6,19,Sala Sporturilor,Str. Decebal (Str. Abator) nr. 1,Vaslui,46.634,27.7347
+35,39,VASLUI,MUNICIPIUL VASLUI,143,33,42,24,1,26,11,38,134,38,47,24,1,33,14,27,Sala Sporturilor,Str. Decebal (Str. Abator) nr. 1,Vaslui,46.634,27.7347
+36,39,VASLUI,MUNICIPIUL VASLUI,223,66,82,38,1,51,27,69,225,72,100,35,2,41,31,57,Școala Gimnazială „Mihai Eminescu”,Str. Ștefan cel Mare nr. 60,Vaslui,46.6341,27.7312
+37,39,VASLUI,MUNICIPIUL VASLUI,135,35,41,24,2,38,16,36,140,38,43,21,1,34,15,31,Școala Gimnazială „Vasile Alecsandri”,Str. Biruinței nr. 1,Vaslui,46.6281,27.7292
+38,39,VASLUI,MUNICIPIUL VASLUI,113,28,39,19,0,21,11,28,122,28,38,18,1,19,10,22,Școala Gimnazială „Vasile Alecsandri”,Str. Biruinței nr. 1,Vaslui,46.6281,27.7292
+39,39,VASLUI,MUNICIPIUL VASLUI,142,29,29,14,1,21,15,34,146,27,38,17,4,18,14,20,Școala Gimnazială „Vasile Alecsandri”,Str. Biruinței nr. 1,Vaslui,46.6281,27.7292
+40,39,VASLUI,MUNICIPIUL VASLUI,192,42,80,43,1,32,23,61,202,52,77,39,2,35,20,42,Școala Gimnazială „Vasile Alecsandri”,Str. Biruinței nr. 1,Vaslui,46.6281,27.7292
+41,39,VASLUI,MUNICIPIUL VASLUI,141,28,73,20,0,21,11,32,147,26,69,20,0,24,15,33,Școala Gimnazială „Alexandra Nechita”,Str. Păcii nr. 1,Vaslui,46.6293,27.7264
+42,39,VASLUI,MUNICIPIUL VASLUI,203,37,56,29,2,23,12,41,208,41,58,28,3,23,9,28,Școala Gimnazială „Alexandra Nechita”,Str. Păcii nr. 1,Vaslui,46.6293,27.7264
+43,39,VASLUI,MUNICIPIUL VASLUI,68,14,19,12,0,13,1,9,69,15,18,13,2,12,4,6,Școala Gimnazială „Alexandra Nichita”,Str. Păcii nr. 1,Vaslui,46.6293,27.7264
+44,39,VASLUI,MUNICIPIUL VASLUI,189,27,48,19,0,37,13,37,186,31,55,16,1,41,10,25,Școala Gimnazială „Alexandra Nichita”,Str. Păcii nr. 1,Vaslui,46.6293,27.7264
+45,39,VASLUI,MUNICIPIUL VASLUI,202,54,58,30,0,39,18,36,198,54,66,26,0,36,20,34,Colegiul Economic „Anghel Rugină”,Str. Traian nr. 1,Vaslui,46.6333,27.7293
+46,39,VASLUI,MUNICIPIUL VASLUI,159,39,61,15,2,22,17,37,153,46,72,10,4,19,17,28,Colegiul Economic „Anghel Rugină”,Str. Traian nr. 1,Vaslui,46.6333,27.7293
+47,39,VASLUI,MUNICIPIUL VASLUI,186,52,58,20,2,34,19,46,181,52,71,20,1,35,17,37,Școala Gimnazială „Elena Cuza”,Str. Mihai Viteazu nr. 10,Vaslui,46.6358,27.7274
+48,39,VASLUI,MUNICIPIUL VASLUI,169,37,51,9,0,40,28,59,167,47,62,9,1,46,24,31,Școala Gimnazială „Elena Cuza”,Str. Mihai Viteazu nr. 10,Vaslui,46.6358,27.7274
+49,39,VASLUI,MUNICIPIUL VASLUI,180,17,54,16,0,26,19,55,194,20,58,15,1,31,18,33,Școala Gimnazială „Alexandru Ioan Cuza”,Str. Racova nr. 69,Vaslui,46.6362,27.7224
+50,39,VASLUI,MUNICIPIUL VASLUI,189,83,72,35,1,43,21,49,195,89,77,32,1,40,23,38,Școala Gimnazială „Alexandru Ioan Cuza”,Str. Racova nr. 69,Vaslui,46.6362,27.7224
+51,39,VASLUI,MUNICIPIUL VASLUI,53,1,6,4,0,10,1,4,51,1,7,2,1,10,2,6,Școala Primară,Str. Braniștei,Vaslui,46.6422,27.798
+52,39,VASLUI,MUNICIPIUL VASLUI,124,13,61,7,2,14,6,29,129,13,62,5,3,16,7,21,Școala Primară,Str. Pompelor,Vaslui,46.6333,27.6924
+53,39,VASLUI,MUNICIPIUL VASLUI,175,28,49,31,2,55,11,33,187,30,49,27,2,52,14,30,Școala Gimnazială,Str. Egalității,Vaslui,46.6389,27.76
+54,39,VASLUI,MUNICIPIUL VASLUI,183,7,26,9,1,22,12,30,189,9,27,8,1,28,8,16,Școala Gimnazială,Str. Constantin Brâncoveanu,Vaslui,46.6446,27.6836
+55,39,VASLUI,MUNICIPIUL VASLUI,282,60,87,39,1,68,18,65,293,70,83,44,1,66,20,47,Grădinița cu Program Normal,Str. Gheorghe Doja nr. 6,Vaslui,46.6704,27.746
+56,39,VASLUI,MUNICIPIUL VASLUI,164,23,73,28,1,33,20,50,164,30,80,24,3,23,23,45,Liceul „Stefan Procopiu”,Str. Castanilor nr. 3,Vaslui,46.6428,27.7183
+57,39,VASLUI,MUNICIPIUL VASLUI,94,15,30,4,2,10,2,17,92,15,33,3,2,9,4,18,Grădinița cu Program Normal nr. 22,Str. Metalurgiei,Vaslui,46.6231,27.6976
+58,39,VASLUI,MUNICIPIUL VASLUI,55,8,12,8,0,11,2,18,64,8,13,9,1,8,2,8,Școala Gimnazială „Alexandru Ioan Cuza”,Str. Racova nr. 69,Vaslui,46.6362,27.7224
+59,39,VASLUI,MUNICIPIUL VASLUI,120,21,47,7,1,13,6,14,121,25,44,9,1,14,7,9,Liceul „Ștefan Procopiu”,Str. Castanilor nr. 3,Vaslui,46.6428,27.7183
+60,39,VASLUI,MUNICIPIUL VASLUI,47,8,34,10,0,7,14,23,48,10,30,10,1,9,14,22,Grădinița cu Program Normal nr. 22,Str. Metalurgiei,Vaslui,46.6231,27.6976
+61,39,VASLUI,MUNICIPIUL VASLUI,85,2,22,5,1,4,6,14,84,4,23,4,2,4,6,15,Școala Primară,Str. Pompelor,Vaslui,46.6333,27.6924
+62,39,VASLUI,MUNICIPIUL VASLUI,25,4,6,1,0,5,1,3,25,5,5,2,1,4,3,4,Grădinița cu Program Prelungit nr. 5,Str. Avîntului nr. 19,Vaslui,46.6423,27.7303
+195,39,VASLUI,BOGDANA,36,0,18,4,0,8,3,18,44,0,21,4,1,9,3,4,Școala Verdeș,,Verdeș,46.546,27.6181
+486,39,VASLUI,VETRIŞOAIA,247,1,292,5,8,10,1,32,252,3,307,3,5,9,4,10,Cămin Cultural Vetrișoaia,,Vetrișoaia,46.4322,28.2116
+487,39,VASLUI,VETRIŞOAIA,157,3,192,5,1,3,3,16,148,4,204,2,1,4,4,13,Liceul Tehnologic „Petru Rareș” Vetrișoaia,,Vetrișoaia,46.4235,28.2019
+476,39,VASLUI,TODIREŞTI,27,1,3,4,0,4,1,4,28,0,4,3,0,4,2,4,Școala Primară Sat Viișoara,,Viișoara,46.8316,27.36
+489,39,VASLUI,VIIŞOARA,292,4,37,6,1,19,1,8,295,6,34,7,0,21,2,8,"Camin Cultural, Sat Viișoara",,Viișoara,46.3818,27.8924
+492,39,VASLUI,VIIŞOARA,74,0,2,1,1,3,1,1,72,2,0,0,0,3,0,3,Școala Primară Viltotești,,Viltotești,46.382,27.8736
+493,39,VASLUI,VINDEREI,95,2,118,0,0,6,5,14,94,2,120,0,0,8,6,11,"Școala Gimnazială nr. 1, Vinderei",,Vinderei,46.1503,27.813
+366,39,VASLUI,OLTENEŞTI,104,1,83,9,3,5,1,4,98,1,84,7,3,4,5,10,Școala Gimnazială Grigore Șt. Răileanu Vinețești,,Vinețești,46.6294,27.8986
+482,39,VASLUI,TUTOVA,39,1,13,18,0,2,2,9,41,2,13,18,0,4,2,6,Școala Vizureni,,Vizureni,46.0826,27.592
+199,39,VASLUI,BOGDĂNEŞTI,99,2,4,1,0,1,0,0,102,2,4,1,0,0,0,0,"Școala Primară, Sat Vișinari",,Vișinari,46.4642,27.7026
+261,39,VASLUI,DRAGOMIREŞTI,59,0,28,30,1,0,1,3,57,0,28,29,2,0,3,6,Liceul Tehnologic Vladia,,Vladia,46.6373,27.3115
+499,39,VASLUI,VOINEŞTI,70,1,18,2,1,7,2,8,71,2,18,2,2,8,2,6,Școala Gimnazială nr. 1 Voinești,,Voinești,46.564,27.4218
+509,39,VASLUI,VULTUREŞTI,70,3,26,4,1,2,4,10,75,3,30,3,1,2,4,8,Grădinița cu Program Normal Voinești,,Voinești,46.8175,27.5123
+179,39,VASLUI,BĂCEŞTI,52,0,25,8,0,2,3,9,58,0,23,9,0,1,3,8,Școala Primară Sat Vovriești,,Vovriești,46.8713,27.1994
+173,39,VASLUI,BĂCANI,28,0,26,6,1,2,5,11,29,0,29,6,1,2,4,9,Fosta Școala cu Clasele I-IV Vulpășeni,,Vulpășeni,46.3625,27.6761
+507,39,VASLUI,VULTUREŞTI,186,12,36,17,2,15,11,20,187,13,35,15,3,16,7,19,Școala Gimnazială „Nicolaie Ciubotaru” Vulturești,,Vulturești,46.8121,27.5258
+510,39,VASLUI,VUTCANI,363,3,30,14,0,7,10,30,370,4,35,14,0,7,11,23,"Școala Gimnazială nr. 1, Vutcani",,Vutcani,46.4628,27.9531
+376,39,VASLUI,PĂDURENI,190,3,36,5,2,24,14,26,186,2,39,8,2,31,12,20,Școala Primară Văleni,,Văleni,46.5935,28.0662
+483,39,VASLUI,VĂLENI,95,11,40,13,0,63,9,29,104,12,43,12,1,63,11,20,Școala Gimnazială nr. 1 Sat Văleni Com Văleni,,Văleni,46.7409,27.765
+484,39,VASLUI,VĂLENI,105,6,56,13,1,54,4,25,106,6,58,11,1,52,6,23,Școala Gimnazială nr. 1 Sat Văleni Com. Văleni,,Văleni,46.7409,27.765
+491,39,VASLUI,VIIŞOARA,33,0,5,5,0,1,4,7,36,0,2,6,0,1,5,7,Școala Primară Văleni,,Văleni,46.387,27.8449
+364,39,VASLUI,OLTENEŞTI,14,0,30,1,1,3,0,3,14,1,33,1,1,2,1,1,Școala Primară Zgura,,Zgura,46.5662,27.9372
+521,39,VASLUI,ZORLENI,270,12,44,18,0,14,12,21,270,13,41,16,0,15,12,19,Școala Gimnazială nr. 1 Zorleni,,Zorleni,46.2657,27.7188
+522,39,VASLUI,ZORLENI,275,17,44,22,0,10,9,26,280,20,44,19,0,11,7,21,Școala Gimnazială nr. 1 Zorleni,,Zorleni,46.2657,27.7188
+523,39,VASLUI,ZORLENI,316,8,33,3,1,3,8,28,320,11,31,4,1,3,11,25,Școala Gimnazială nr. 2 Zorleni,,Zorleni,46.2728,27.7295
+513,39,VASLUI,ZĂPODENI,430,13,66,10,1,5,9,18,425,16,65,9,0,6,10,21,Căminul Cultural Zăpodeni,,Zăpodeni,46.7478,27.6607
+439,39,VASLUI,SOLEŞTI,129,3,30,4,0,24,3,13,127,4,33,4,0,22,3,14,Școala Gimnazială Șerbotești,,Șerbotești,46.8112,27.7729
+314,39,VASLUI,HOCENI,80,0,6,11,0,4,2,9,84,0,7,11,0,3,2,5,Școala Primară „Mihai Ciofu” Șișcani,,Șișcani,46.5788,27.9964
+449,39,VASLUI,ŞTEFAN CEL MARE,239,6,24,9,0,12,3,9,237,10,26,10,0,9,6,9,"Căminul Cultural, Ștefan Cel Mare",,Ștefan cel Mare,46.7162,27.6291
+440,39,VASLUI,SOLEŞTI,49,3,11,3,1,20,2,12,56,2,12,3,1,18,3,7,Grădinița cu Program Normal Știoborăni,,Știoborăni,46.7484,27.8581
+453,39,VASLUI,ŞULETEA,131,6,127,7,1,11,7,49,148,8,129,9,2,11,10,28,Căminul Cultural „Virgil Caraivan” Șuletea,,Șuletea,46.291,27.9093
+178,39,VASLUI,BĂCEŞTI,39,1,16,3,0,4,2,8,42,1,16,2,0,5,2,5,Școala Primară Sat Țibăneștii Buhlii,,Țibăneștii Buhlii,46.8625,27.2368
+163,39,VASLUI,BANCA,31,2,57,0,0,7,3,6,32,2,59,0,0,7,4,6,Școala Gimnazială Țifu,,Țifu,46.3284,27.8914
+348,39,VASLUI,MĂLUŞTENI,133,2,15,4,1,5,1,5,140,2,13,5,0,5,2,4,Școala Centru Țuțcani,,Țuțcani,46.1645,27.95

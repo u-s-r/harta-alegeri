@@ -1,0 +1,314 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+299,6,BISTRIȚA-NĂSĂUD,TÎRLIŞUA,272,11,58,7,2,10,20,30,283,8,53,7,1,9,20,29,Școala Generală Agrieș,Nr. 40,Agrieș,47.3998,24.1355
+262,6,BISTRIȚA-NĂSĂUD,ŞIEU-ODORHEI,70,4,16,3,1,5,2,4,72,4,19,3,1,2,1,3,Școala Generală Agrișu de Jos,Nr. 86,Agrișu de Jos,47.1548,24.2408
+263,6,BISTRIȚA-NĂSĂUD,ŞIEU-ODORHEI,35,2,11,0,2,12,3,7,32,2,12,0,2,12,3,7,Căminul Cultural Agrișu de Sus,Nr. 39,Agrișu de Sus,47.1507,24.2286
+141,6,BISTRIȚA-NĂSĂUD,GALAŢII BISTRIŢEI,60,3,10,2,1,4,2,3,57,1,12,3,1,4,3,4,Școala Generală Albeștii Bistriței,Nr. 76,Albeștii Bistriței,46.9933,24.4503
+313,6,BISTRIȚA-NĂSĂUD,ZAGRA,52,2,12,5,1,2,1,1,53,1,13,4,1,1,1,2,Școala Generală Alunișul,Nr. 26,Alunișul,47.3915,24.2779
+173,6,BISTRIȚA-NĂSĂUD,MAIERU,259,6,92,10,1,45,26,45,254,7,93,12,1,47,25,45,Școala Gimnazială Anieș,Nr. 60,Anieș,47.4157,24.7718
+108,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,39,2,39,1,3,4,1,7,40,2,41,2,3,7,2,5,Școala Primară Apatiu,Nr. 50,Apatiu,46.9996,24.1774
+260,6,BISTRIȚA-NĂSĂUD,ŞIEU-MĂGHERUŞ,38,2,100,2,3,17,3,11,42,6,100,4,2,14,3,10,"Școala Generală Arcalia, Clasele V-VIII",Nr. 72,Arcalia,47.0827,24.3614
+278,6,BISTRIȚA-NĂSĂUD,TEACA,135,7,27,8,6,11,5,11,143,6,24,7,6,11,5,9,Căminul Cultural Archiud,Nr. 32,Archiud,46.8907,24.4378
+253,6,BISTRIȚA-NĂSĂUD,ŞIEU,40,6,31,12,1,78,7,10,42,5,25,12,1,82,8,14,Școala Generală Ardan,Nr. 212,Ardan,47.0295,24.6697
+181,6,BISTRIȚA-NĂSĂUD,MĂGURA ILVEI,69,5,22,3,1,3,2,6,66,5,25,3,0,3,2,7,Căminul Cultural Arșița,Nr. 90,Arșița,47.3534,24.8357
+216,6,BISTRIȚA-NĂSĂUD,PETRU RAREŞ,140,10,44,11,89,4,4,7,128,8,61,12,88,3,5,7,Căminul Cultural Bața,Nr. 149,Bața,47.1882,23.9943
+58,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,269,52,146,47,77,37,12,34,283,67,114,58,74,27,14,36,Sala de Căsătorii,Str. 1 Decembrie 1918 nr. 2,Beclean,47.1802,24.1807
+59,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,338,36,161,37,42,18,9,36,355,37,135,44,40,18,12,39,Policlinica Orășenească Beclean,Str. 1 Decembrie 1918 nr. 63,Beclean,47.1831,24.1856
+60,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,156,19,74,32,40,15,6,19,158,15,73,41,40,9,7,18,Clubul Copiilor Beclean,Aleea Gării nr. 10,Beclean,47.1786,24.1807
+61,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,134,29,60,17,23,14,8,22,137,31,53,23,25,13,7,17,Clubul Copiilor Beclean,Aleea Gării nr. 10,Beclean,47.1786,24.1807
+62,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,290,54,120,41,67,26,9,40,286,55,106,69,66,22,10,37,Școala Gimnazială „Grigore Silași”,Piața Libertății nr. 19,Beclean,47.1786,24.1761
+63,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,282,29,90,54,59,21,12,39,289,31,73,85,55,21,7,28,Casa de Cultură „Radu Săplăcan” Beclean,Aleea Ghiocelului nr. 6,Beclean,47.181,24.1745
+64,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,70,9,25,7,5,3,1,10,71,8,25,10,3,2,1,14,Școala Generală Beclenuț,Str. Beclenuț nr. 27,Beclean,47.1881,24.1794
+65,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,77,2,20,4,18,3,6,11,78,6,18,5,14,2,8,12,Grădinița cu Program Normal Valea Viilor,Str. Valea Viilor nr. 10,Beclean,47.1677,24.1433
+207,6,BISTRIȚA-NĂSĂUD,NUŞENI,89,1,139,1,3,7,2,11,99,2,130,5,1,9,1,8,Școala Primară Beudiu,Nr. 23,Beudiu,47.0636,24.1703
+290,6,BISTRIȚA-NĂSĂUD,TELCIU,67,9,66,2,3,55,1,7,70,9,70,1,3,47,1,4,Școala Gimnazială Bichigiu,Nr. 117A,Bichigiu,47.4252,24.3374
+175,6,BISTRIȚA-NĂSĂUD,MATEI,46,1,17,1,1,7,3,6,41,1,17,1,2,5,3,8,Grădinița Bidiu,Nr. 4,Bidiu,47.0444,24.2373
+1,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,185,72,133,39,38,66,18,63,190,72,144,27,37,61,22,62,Clubul Sportiv Municipal Bistrița,Str. Parcului nr. 1,Bistrița,47.1298,24.502
+2,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,133,26,96,18,20,19,10,43,134,25,105,17,20,22,9,29,Grădinița cu Program Săptămânal „Dumbrava Minunată”,Str. Ecaterina Teodoroiu nr. 2 - 4,Bistrița,47.1314,24.5004
+3,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,120,54,110,45,37,43,9,33,116,54,117,42,37,38,13,39,Liceul de Muzică „Tudor Jarda”,Str. Alexandru Odobescu nr. 8,Bistrița,47.129,24.4924
+4,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,191,69,157,31,38,44,17,63,186,69,161,31,37,41,25,61,"Primăria Municipiului Bistrița, Direcția Economică-Venituri",Str. Alexandru Odobescu nr. 17,Bistrița,47.1278,24.4946
+5,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,194,53,142,26,26,28,10,40,189,47,149,25,28,29,11,42,Grădinița cu Program Prelungit nr. 6,Aleea Șieului nr. 11B,Bistrița,47.1255,24.4912
+6,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,150,48,103,28,30,24,13,42,146,42,109,28,27,31,14,45,Grădinița cu Program Prelungit nr. 6,Aleea Șieului nr. 11B,Bistrița,47.1255,24.4912
+7,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,190,56,121,43,38,33,12,52,179,54,136,40,36,39,9,51,Liceul Tehnologic Special „Sfânta Maria” Bistrița,Bulevardul Independenței nr. 23,Bistrița,47.1289,24.4892
+8,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,135,47,60,21,16,26,9,40,131,44,73,21,15,20,9,40,Școala Gimnazială nr. 1,Bulevardul Independenței nr. 46,Bistrița,47.1285,24.4834
+9,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,178,44,96,26,21,27,10,45,177,45,103,25,21,26,13,40,Școala Gimnazială nr. 1,Bulevardul Independenței nr. 46,Bistrița,47.1285,24.4834
+10,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,201,60,136,31,35,45,12,39,197,51,141,32,33,45,13,41,Școala Gimnazială nr. 1,Bulevardul Independenței nr. 46,Bistrița,47.1285,24.4834
+11,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,261,65,98,17,33,52,14,52,250,64,109,14,32,55,19,58,Școala Gimnazială nr. 1,Bulevardul Independenței nr. 46,Bistrița,47.1285,24.4834
+12,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,199,57,105,28,47,31,15,51,206,55,108,31,47,30,13,41,Grădinița cu Program Normal nr. 10,Bulevardul Independenței nr. 57,Bistrița,47.1267,24.485
+13,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,201,55,140,49,24,37,22,60,204,57,140,44,25,43,20,52,Școala Gimnazială „Lucian Blaga”,Str. Garoafei nr. 8,Bistrița,47.1226,24.4828
+14,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,180,52,154,36,53,35,6,35,174,50,162,32,53,32,9,39,Școala Gimnazială „Lucian Blaga”,Str. Garoafei nr. 8,Bistrița,47.1226,24.4828
+15,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,210,58,147,50,45,46,8,34,201,57,150,42,45,53,11,42,Școala Gimnazială „Lucian Blaga”,Str. Garoafei nr. 8,Bistrița,47.1226,24.4828
+16,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,191,70,156,22,43,34,20,53,187,65,162,23,42,34,16,51,Colegiul Tehnic „Grigore Moisil”,Str. Rodnei nr. 23,Bistrița,47.1286,24.4803
+17,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,192,52,111,30,36,34,11,47,183,53,110,30,36,39,14,52,Colegiul Tehnic „Grigore Moisil”,Str. Rodnei nr. 23,Bistrița,47.1286,24.4803
+18,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,136,28,89,32,14,22,4,35,143,27,95,29,15,19,3,31,Grădinița cu Program Normal nr. 18,Str. Rodnei nr. 23,Bistrița,47.1288,24.4804
+19,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,160,52,114,24,5,31,11,33,154,50,128,24,5,25,17,33,Grădinița cu Program Normal nr. 18,Str. Rodnei nr. 23,Bistrița,47.1288,24.4804
+20,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,196,51,117,27,18,31,17,49,188,49,129,22,16,35,20,58,Grădinița cu Program Prelungit „Trenulețul Veseliei”,Str. Rodnei nr. 3,Bistrița,47.1307,24.4835
+21,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,267,36,189,39,18,44,15,61,262,40,188,36,20,57,17,57,Liceul Tehnologic Forestier,Str. Romană nr. 26,Bistrița,47.1383,24.4874
+22,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,185,67,159,29,31,45,11,49,184,62,157,32,27,51,12,52,Grădinița cu Program Normal „Căsuța cu Povești”,Str. Subcetate (D) nr. bloc 6,Bistrița,47.1486,24.485
+23,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,207,72,103,39,22,38,15,59,201,70,127,32,25,32,15,53,Colegiul Național „Andrei Mureșanu”,Bulevardul Republicii nr. 26,Bistrița,47.1323,24.4913
+24,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,178,59,106,21,31,30,12,55,175,54,109,19,29,32,15,60,Grădinița cu Program Prelungit „Căsuța cu Povești”,Str. Zimbrului nr. 9,Bistrița,47.1345,24.4923
+25,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,134,38,81,17,20,29,8,32,132,34,91,17,18,29,6,30,Grădinița cu Program Normal nr. 15,Str. Zimbrului nr. 19,Bistrița,47.1353,24.4923
+26,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,169,50,112,17,21,29,12,43,162,51,111,24,19,32,11,43,"Colegiul Național „Liviu Rebreanu”, Școala Primară",Bulevardul Republicii nr. 8,Bistrița,47.1347,24.494
+27,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,211,55,109,21,30,44,12,62,198,56,118,26,31,52,13,54,Colegiul Național „Liviu Rebreanu”,Bulevardul Republicii nr. 8,Bistrița,47.1347,24.4953
+28,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,188,68,135,34,40,53,10,41,176,68,141,30,39,59,12,50,Grădinița cu Program Normal nr. 9,Str. Crinilor nr. 4,Bistrița,47.1382,24.4983
+29,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,213,66,130,29,18,40,15,35,199,61,142,24,19,47,15,43,"Universitatea „Babeș-Bolyai” Cluj-Napoca, Extensia Universitară Bistrița",Str. Andrei Mureșanu nr. 3 - 5,Bistrița,47.1396,24.4972
+30,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,163,53,125,26,33,30,12,42,159,55,128,23,32,31,16,46,"Universitatea „Babeș-Bolyai” Cluj-Napoca, Extensia Universitară Bistrița",Str. Andrei Mureșanu nr. 3 - 5,Bistrița,47.1396,24.4972
+31,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,247,90,230,37,22,62,15,52,251,87,227,32,18,64,15,55,Școala Gimnazială nr. 4,Str. Florilor nr. 3 - 5,Bistrița,47.1434,24.5007
+32,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,195,49,89,30,28,43,10,51,194,48,94,27,28,40,16,55,Școala Gimnazială nr. 4,Str. Florilor nr. 3 - 5,Bistrița,47.1434,24.5007
+33,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,169,26,121,30,13,17,17,47,167,28,115,30,15,17,16,51,Grădinița cu Program Normal nr. 5,Str. Mesteacănului nr. 15,Bistrița,47.145,24.5032
+34,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,214,62,128,24,22,30,19,49,200,63,135,25,22,34,24,51,Grădinița cu Program Prelungit nr. 12,Str. Andrei Mureșanu nr. 44 A,Bistrița,47.1417,24.5026
+35,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,185,65,122,28,22,42,7,36,171,61,133,27,24,39,14,44,Grădinița cu Program Normal nr. 16,Str. Cerbului nr. 27,Bistrița,47.141,24.5024
+36,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,237,60,110,43,31,47,19,60,226,57,122,37,30,53,17,64,Școala Gimnazială „Avram Iancu”,Str. 1 Decembrie nr. 27-29,Bistrița,47.1403,24.5033
+37,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,209,35,145,18,31,23,24,60,200,25,157,18,32,25,25,61,Școala Gimnazială „Avram Iancu”,Str. 1 Decembrie nr. 27-29,Bistrița,47.1403,24.5033
+38,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,206,81,138,29,30,34,24,68,199,83,147,29,30,36,26,65,Grădinița cu Program Prelungit nr. 13,Aleea Basmului nr. 1,Bistrița,47.1383,24.5038
+39,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,249,77,161,33,33,51,11,64,233,71,170,35,34,55,18,70,Școala Gimnazială „Ștefan Cel Mare”,Bulevardul G-ral Grigore Bălan nr. 36 A,Bistrița,47.1367,24.5063
+40,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,201,60,124,30,11,33,10,51,195,57,128,24,12,40,13,57,Școala Gimnazială „Ștefan Cel Mare”,Bulevardul G-ral Grigore Bălan (D) nr. 36 A,Bistrița,47.1367,24.5063
+41,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,196,75,128,40,7,38,7,46,194,68,139,34,8,44,8,43,Grădinița cu Program Prelungit nr. 3,Aleea Plăieșului nr. 41,Bistrița,47.1372,24.5069
+42,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,144,44,61,23,18,27,8,21,145,38,66,22,19,26,7,22,Creșa nr. 3,Aleea Plăieșului nr. 2,Bistrița,47.1371,24.5064
+43,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,180,97,126,31,22,29,8,43,165,93,136,30,22,30,12,49,Grădinița cu Program Normal nr. 7,Str. Constantin Romanu-Vivu (Str. Traian Banciu) (D) nr. 35,Bistrița,47.1343,24.5079
+44,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,141,50,98,25,5,27,7,21,131,44,111,23,4,28,6,26,Grădinița cu Program Normal nr. 7,Str. Constantin Romanu-Vivu (Str. Traian Banciu) (D) nr. 35,Bistrița,47.1343,24.5079
+45,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,209,85,196,36,26,63,10,47,188,80,213,34,22,68,15,56,Rotary Club Bistrița Nosa,Str. Grănicerilor nr. 1,Bistrița,47.1403,24.5077
+46,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,181,58,146,29,22,43,12,47,178,53,156,30,23,45,14,41,Grădinița cu Program Prelungit „Rază de Soare”,Str. Bîrgăului (Str. 6 Martie) (D) nr. 12,Bistrița,47.1424,24.5067
+47,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,235,84,140,46,24,40,12,38,224,84,134,44,23,48,15,47,Colegiul Tehnic „Infoel”,Str. Calea Moldovei (Calea Calea Moldovei) nr. 20,Bistrița,47.1435,24.5102
+48,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,141,32,107,14,17,22,9,33,134,27,113,18,17,30,12,29,Liceul cu Program Sportiv,Str. Calea Moldovei (Calea Calea Moldovei) nr. 18,Bistrița,47.1432,24.5098
+49,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,150,100,131,26,16,37,12,42,141,92,143,25,16,38,16,45,Liceul cu Program Sportiv,Str. Calea Moldovei (Calea Calea Moldovei) nr. 18,Bistrița,47.1432,24.5098
+84,6,BISTRIȚA-NĂSĂUD,BISTRIŢA BÎRGĂULUI,340,13,78,40,7,21,7,52,365,14,79,34,5,17,10,45,Căminul Cultural Bistrița Bîrgăului,Nr. 1330,Bistrița Bârgăului,47.2094,24.7587
+85,6,BISTRIȚA-NĂSĂUD,BISTRIŢA BÎRGĂULUI,135,16,69,5,1,10,5,19,142,18,66,5,1,11,6,14,Școala Gimnazială nr. 2 Bistrița Bîrgăului,Nr. 414,Bistrița Bârgăului,47.1897,24.7973
+86,6,BISTRIȚA-NĂSĂUD,BISTRIŢA BÎRGĂULUI,204,4,75,22,2,10,2,13,209,4,77,14,1,12,2,14,Sala de Nunți Bistrița Bîrgăului,Nr. 1020/A,Bistrița Bârgăului,47.1949,24.793
+275,6,BISTRIȚA-NĂSĂUD,ŞINTEREAG,70,5,43,9,1,6,4,13,75,6,45,5,2,3,4,12,Căminul Cultural Blăjenii de Jos,Nr. 77,Blăjenii de Jos,47.1675,24.351
+276,6,BISTRIȚA-NĂSĂUD,ŞINTEREAG,85,4,58,6,0,9,4,7,84,3,62,8,0,8,1,7,Școala Primară „Nicolae Bălan” Blăjenii de Sus,Nr. 34B,Blăjenii de Sus,47.1653,24.389
+297,6,BISTRIȚA-NĂSĂUD,TÎRLIŞUA,83,3,24,3,0,10,2,2,85,3,23,3,1,8,2,2,Școala Generală Borleasa,Nr. 68,Borleasa,47.345,24.1755
+110,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,51,4,95,2,60,5,3,7,48,4,100,2,57,4,3,7,Școala Gimnazială Bozieș,Nr. 27,Bozieș,47.0334,24.191
+88,6,BISTRIȚA-NĂSĂUD,BRANIŞTEA,95,10,53,10,109,12,5,13,97,13,50,10,108,9,7,16,Primăria Comunei Braniștea,Nr. 101,Braniștea,47.1715,24.065
+197,6,BISTRIȚA-NĂSĂUD,NEGRILEŞTI,120,2,79,26,2,11,7,15,115,2,80,27,3,13,5,11,Școala Gimnazială „Victor Motogna” Breaza,Nr. 124,Breaza,47.3542,24.0629
+264,6,BISTRIȚA-NĂSĂUD,ŞIEU-ODORHEI,24,1,6,1,79,2,2,5,23,1,8,1,77,1,2,7,Căminul Cultural Bretea,Nr. 22,Bretea,47.1241,24.2443
+240,6,BISTRIȚA-NĂSĂUD,SÎNMIHAIU DE CÎMPIE,8,3,2,0,0,39,1,6,8,3,3,1,0,36,3,6,Căminul Cultural Brăteni,Nr. 98,Brăteni,46.9147,24.3941
+91,6,BISTRIȚA-NĂSĂUD,BUDACU DE JOS,116,1,31,5,1,4,3,20,122,2,34,3,1,7,3,14,Primăria Comunei Budacu de Jos,Nr. 251,Budacu de Jos,47.0866,24.5194
+132,6,BISTRIȚA-NĂSĂUD,DUMITRIŢA,278,6,112,9,4,18,6,24,266,6,115,6,6,21,11,32,Școala de Arte și Meserii Budacu de Sus,Nr. 64,Budacu de Sus,47.0603,24.6576
+96,6,BISTRIȚA-NĂSĂUD,BUDEŞTI,73,4,30,15,2,13,3,15,75,4,31,16,5,14,1,11,Școala Gimnazială Budești,Nr. 252,Budești,46.8762,24.2428
+97,6,BISTRIȚA-NĂSĂUD,BUDEŞTI,49,6,22,6,2,2,2,11,53,7,23,6,2,1,2,7,Școala Primară Budești-Fînațe,Nr. 37,Budești-Fânațe,46.8464,24.2283
+279,6,BISTRIȚA-NĂSĂUD,TEACA,39,1,4,3,2,2,6,10,39,1,5,4,2,1,5,9,Căminul Cultural Budurleni,Nr. 82,Budurleni,46.9191,24.423
+92,6,BISTRIȚA-NĂSĂUD,BUDACU DE JOS,117,2,25,10,1,31,2,4,118,3,22,7,0,29,4,7,Școala Gimnazială Buduș,Nr. 200,Buduș,47.0813,24.5349
+116,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,14,0,16,2,1,5,1,5,15,0,11,6,1,5,3,5,Căminul Cultural Buza-Cătun,Nr. 92,Buza Cătun,46.9408,24.1881
+184,6,BISTRIȚA-NĂSĂUD,MĂRIŞELU,73,1,37,2,1,5,1,8,71,2,37,2,1,8,1,5,Căminul Cultural Bîrla,Nr. 95,Bârla,47.0122,24.5569
+273,6,BISTRIȚA-NĂSĂUD,ŞINTEREAG,97,3,42,4,1,3,1,3,99,2,40,4,1,3,1,6,Școala Primară Clasele I-IV (Fostul Sediu),Nr. 38,Caila,47.1428,24.3655
+129,6,BISTRIȚA-NĂSĂUD,DUMITRA,86,6,114,2,1,45,6,20,84,6,114,1,1,52,7,20,Școala Generală Cepari,Nr. 73,Cepari,47.2351,24.4257
+111,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,20,1,66,3,1,3,3,10,25,1,69,2,1,2,3,6,Școala Primară Chețiu,Nr. 27,Chețiu,47.0308,24.1982
+257,6,BISTRIȚA-NĂSĂUD,ŞIEU-MĂGHERUŞ,67,7,71,3,2,19,2,7,67,9,66,4,3,16,4,8,Camin Cultural „Grigore Pletosu”,Nr. 200,Chintelnic,47.1003,24.3355
+107,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,32,5,22,4,31,15,3,9,33,7,19,4,33,18,3,6,Primăria Comunei Chiochiș,Nr. 17,Chiochiș,46.9846,24.1825
+155,6,BISTRIȚA-NĂSĂUD,LECHINŢA,131,1,39,7,4,4,2,5,132,2,39,9,4,3,2,5,Căminul Cultural Chiraleș,Nr. 206,Chiraleș,47.0872,24.3176
+117,6,BISTRIȚA-NĂSĂUD,CHIUZA,178,12,55,15,2,6,5,20,172,10,56,19,2,6,5,22,Școala Gimnazială „Liviu Rebreanu” Chiuza,Nr. 14,Chiuza,47.2327,24.2379
+123,6,BISTRIȚA-NĂSĂUD,CICEU - MIHĂIEŞTI,29,1,17,2,2,2,2,7,28,4,15,4,2,2,2,5,Școala Generală Ciceu-Corabia,Nr. 86,Ciceu-Corabia,47.2452,23.9356
+124,6,BISTRIȚA-NĂSĂUD,CICEU-GIURGEŞTI,155,7,105,17,3,9,11,26,157,9,100,19,4,7,10,26,Școala Gimnazială Ciceu-Giurgești,Nr. 287B,Ciceu-Giurgești,47.2457,24.0166
+121,6,BISTRIȚA-NĂSĂUD,CICEU - MIHĂIEŞTI,92,35,68,21,8,17,13,21,85,34,71,23,6,18,10,21,Căminul Cultural Ciceu-Mihăiești,Nr. 42,Ciceu-Mihăiești,47.1848,23.9713
+103,6,BISTRIȚA-NĂSĂUD,CĂIANU MIC,267,3,20,7,0,16,1,3,271,3,20,7,0,12,1,2,Căminul Cultural Ciceu-Poieni,Nr. 81,Ciceu-Poieni,47.2995,24.0877
+89,6,BISTRIȚA-NĂSĂUD,BRANIŞTEA,5,3,5,0,493,2,1,6,6,4,3,1,496,1,1,6,Căminul Cultural Cireșoaia,Nr. 19,Cireșoaia,47.1421,24.059
+265,6,BISTRIȚA-NĂSĂUD,ŞIEU-ODORHEI,47,1,15,0,1,9,7,10,47,2,13,0,1,8,8,11,Căminul Cultural Coasta,Nr. 60,Coasta,47.1255,24.2804
+274,6,BISTRIȚA-NĂSĂUD,ŞINTEREAG,180,14,96,11,2,23,4,19,175,16,95,14,1,19,5,24,Școala Gimnazială Cociu,Nr. 20,Cociu,47.1986,24.2313
+66,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,72,10,51,13,73,7,3,13,75,10,47,18,70,8,3,12,Grădinița cu Program Normal Coldău,Nr. 145,Coldău,47.1821,24.1268
+87,6,BISTRIȚA-NĂSĂUD,BISTRIŢA BÎRGĂULUI,41,5,18,6,2,4,3,14,44,5,18,6,2,3,3,13,Școala Gimnazială Colibița,Nr. 84,Colibița,47.1658,24.9426
+192,6,BISTRIȚA-NĂSĂUD,MILAŞ,26,1,29,1,2,3,0,3,29,1,28,1,2,4,0,3,Căminul Cultural Comlod,Nr. 67,Comlod,46.8577,24.4441
+83,6,BISTRIȚA-NĂSĂUD,ORAŞ SÎNGEORZ-BĂI,90,2,26,2,1,34,3,7,87,3,25,3,2,35,3,5,Școala Gimnazială Cormaia,Nr. 138,Cormaia,47.3892,24.6816
+176,6,BISTRIȚA-NĂSĂUD,MATEI,112,5,112,6,3,7,3,13,110,6,119,6,1,9,3,8,Școala Gimnazială Corvinești,Nr. 81,Corvinești,47.0184,24.2598
+126,6,BISTRIȚA-NĂSĂUD,COŞBUC,333,1,253,17,3,54,5,15,339,3,258,0,3,55,5,20,Școala Gimnazială „George Coșbuc”,Nr. 243,Coșbuc,47.3653,24.3914
+258,6,BISTRIȚA-NĂSĂUD,ŞIEU-MĂGHERUŞ,94,5,93,7,3,23,5,13,92,5,97,10,2,23,5,9,Căminul Cultural Crainimăt,Nr. 159,Crainimăt,47.0696,24.4008
+302,6,BISTRIȚA-NĂSĂUD,URIU,270,12,94,10,3,24,8,23,280,8,91,15,2,19,7,24,Școala Generală Cristeștii Ciceului,Nr. 303,Cristeștii Ciceului,47.1938,24.0937
+266,6,BISTRIȚA-NĂSĂUD,ŞIEU-ODORHEI,75,4,22,4,2,11,9,13,70,4,31,2,2,8,7,12,Școala Generală Cristur-Șieu,Nr. 127,Cristur-Șieu,47.1199,24.3011
+164,6,BISTRIȚA-NĂSĂUD,LIVEZILE,33,3,21,20,2,128,1,17,34,4,23,22,2,126,1,10,Școala Primară Cușma,Nr. 41,Cușma,47.129,24.7047
+101,6,BISTRIȚA-NĂSĂUD,CĂIANU MIC,205,2,29,4,0,6,2,11,209,1,23,4,0,4,2,11,Școala Gimnazială Căianu Mare,Nr. 252,Căianu Mare,47.2306,24.1598
+100,6,BISTRIȚA-NĂSĂUD,CĂIANU MIC,450,16,50,12,0,6,2,14,448,15,58,10,0,6,3,15,Primăria Comunei Căianu Mic,Nr. 100,Căianu Mic,47.2356,24.1559
+234,6,BISTRIȚA-NĂSĂUD,ROMULI,16,1,28,1,0,78,4,7,21,1,37,1,0,63,4,8,Grădinița cu Program Normal Dealu Ștefăniței,Nr. 20,Dealu Ștefăniței,47.5777,24.4182
+307,6,BISTRIȚA-NĂSĂUD,URMENIŞ,12,3,13,2,1,66,7,18,12,2,15,3,2,63,8,17,Școala Generală Delureni,Nr. 132,Delureni,46.8129,24.3446
+139,6,BISTRIȚA-NĂSĂUD,GALAŢII BISTRIŢEI,190,6,68,4,1,34,3,6,182,4,71,5,1,31,4,7,Școala Generală Dipșa Clasele I-IV,Nr. 252,Dipșa,46.9683,24.4344
+102,6,BISTRIȚA-NĂSĂUD,CĂIANU MIC,310,3,63,8,1,1,4,7,318,3,52,12,1,1,6,8,Școala Gimnazială Dobric,Nr. 43,Dobric,47.2462,24.1283
+248,6,BISTRIȚA-NĂSĂUD,SPERMEZEU,39,0,110,14,0,6,3,5,41,1,109,14,0,5,4,7,Școala Primară Dobricel,Nr. 116,Dobricel,47.2975,24.1112
+183,6,BISTRIȚA-NĂSĂUD,MĂRIŞELU,135,4,35,7,2,20,6,21,139,5,31,8,4,20,7,17,Școala Primară Domnești,Nr. 162,Domnești,47.037,24.4758
+163,6,BISTRIȚA-NĂSĂUD,LIVEZILE,27,2,23,17,1,98,1,5,26,2,24,17,2,100,0,5,Școala Gimnazială Dorolea,Nr. 42,Dorolea,47.173,24.6342
+166,6,BISTRIȚA-NĂSĂUD,LIVEZILE,20,6,9,24,0,50,0,3,21,6,13,20,1,51,0,1,Școala Primară Dumbrava,Nr. 7,Dumbrava,47.2149,24.6231
+125,6,BISTRIȚA-NĂSĂUD,CICEU-GIURGEŞTI,152,2,54,23,3,6,1,7,150,2,50,26,3,9,2,7,Căminul Cultural Dumbrăveni,Nr. 232,Dumbrăveni,47.2833,23.9851
+247,6,BISTRIȚA-NĂSĂUD,SPERMEZEU,47,0,122,6,2,8,18,28,57,2,112,6,2,10,10,20,Școala Gimnazială „Teodor Cotuțiu” Dumbrăvița,Nr. 211,Dumbrăvița,47.2585,24.1814
+127,6,BISTRIȚA-NĂSĂUD,DUMITRA,78,8,64,15,0,102,0,17,71,8,65,13,1,107,1,15,Școala Generală Dumitra,Nr. 5,Dumitra,47.2221,24.4698
+128,6,BISTRIȚA-NĂSĂUD,DUMITRA,95,5,69,15,0,108,2,51,93,6,72,13,1,109,2,51,Școala Generală Dumitra,Nr. 5,Dumitra,47.2221,24.4698
+131,6,BISTRIȚA-NĂSĂUD,DUMITRIŢA,173,3,83,16,4,122,3,12,184,3,95,16,4,93,9,19,Școala Generală Dumitrița,Nr. 151,Dumitrița,47.0724,24.6247
+177,6,BISTRIȚA-NĂSĂUD,MATEI,58,2,21,1,1,2,0,2,57,2,21,0,1,1,0,2,Grădinița Enciu,Nr. 125,Enciu,47.0504,24.246
+133,6,BISTRIȚA-NĂSĂUD,FELDRU,113,9,175,8,2,29,2,10,113,9,174,7,1,29,3,11,Primăria Comunei Feldru,Nr. 186,Feldru,47.2781,24.5922
+134,6,BISTRIȚA-NĂSĂUD,FELDRU,110,8,179,9,2,19,3,13,106,7,183,5,1,18,3,16,Liceul Tehnologic Feldru,Nr. 939,Feldru,47.2778,24.5956
+135,6,BISTRIȚA-NĂSĂUD,FELDRU,112,8,184,8,0,23,2,10,110,8,182,7,0,24,2,16,After-School Feldru,Nr. 782,Feldru,47.2793,24.5993
+136,6,BISTRIȚA-NĂSĂUD,FELDRU,21,3,43,2,0,1,1,4,18,2,50,1,0,1,1,2,Școala Primară Poderei,Nr. 1420,Feldru,47.2844,24.6222
+208,6,BISTRIȚA-NĂSĂUD,NUŞENI,39,0,48,12,1,19,3,6,38,0,50,10,1,19,2,7,Căminul Cultural Feleac,Nr. 163,Feleac,47.0903,24.2453
+289,6,BISTRIȚA-NĂSĂUD,TELCIU,19,0,8,1,1,13,1,4,19,1,8,3,1,10,1,4,Școala Gimnazială Fiad,Nr. 113A,Fiad,47.4868,24.3842
+67,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,156,4,24,14,1,4,9,14,157,3,24,14,1,4,9,13,Școala Primară Figa,Nr. 131,Figa,47.1498,24.2129
+205,6,BISTRIȚA-NĂSĂUD,NIMIGEA,68,1,37,2,2,1,2,8,65,3,36,3,2,1,2,10,Școala Primară Florești,Nr. 27,Florești,47.237,24.2749
+308,6,BISTRIȚA-NĂSĂUD,URMENIŞ,8,1,8,5,1,39,2,6,9,1,8,6,1,41,2,5,Căminul Cultural Fînațe,Nr. 59B,Fânațe,46.7957,24.4037
+178,6,BISTRIȚA-NĂSĂUD,MATEI,54,2,34,7,81,2,4,6,56,1,36,7,77,3,4,6,Școala Primară Fîntînele,Nr. 85,Fântânele,46.937,24.2719
+188,6,BISTRIȚA-NĂSĂUD,MICEŞTII DE CÎMPIE,14,1,16,4,48,8,2,6,16,1,14,4,53,6,3,8,Căminul Cultural Fîntînița,Nr. 188,Fântânița,46.8336,24.3401
+138,6,BISTRIȚA-NĂSĂUD,GALAŢII BISTRIŢEI,156,5,45,6,3,22,4,13,153,5,51,5,2,23,5,11,Căminul Cultural Galații Bistriței,Nr. 241,Galații Bistriței,46.9919,24.4216
+226,6,BISTRIȚA-NĂSĂUD,REBRIŞOARA,72,5,45,6,0,10,5,9,84,4,43,7,0,4,5,7,Școala Gimnazială nr. 1 Gersa I,Nr. 142 A,Gersa I,47.3361,24.4594
+227,6,BISTRIȚA-NĂSĂUD,REBRIŞOARA,7,3,17,3,1,6,2,2,7,1,18,3,1,6,2,2,Școala Primară „Valea Babii”,Nr. 21,Gersa II,47.3723,24.4654
+53,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,55,14,75,16,2,10,5,36,50,10,73,14,2,11,6,48,Grădinița cu Program Normal Ghinda,Nr. FN,Ghinda,47.1364,24.574
+194,6,BISTRIȚA-NĂSĂUD,MONOR,122,0,35,10,2,8,7,10,130,1,34,11,2,6,6,12,Căminul Cultural Gledin,Nr. 237C,Gledin,46.9577,24.7051
+140,6,BISTRIȚA-NĂSĂUD,GALAŢII BISTRIŢEI,198,5,25,5,0,1,1,9,191,5,26,7,1,2,1,9,Școala Generală Herina Clasele I-IV,Nr. 112,Herina,47.0188,24.4152
+246,6,BISTRIȚA-NĂSĂUD,SPERMEZEU,22,0,97,0,1,2,1,5,26,1,94,1,1,4,1,4,Școala Primară Hălmăsău,Nr. 87,Hălmăsău,47.346,24.1366
+304,6,BISTRIȚA-NĂSĂUD,URIU,44,2,19,9,1,1,4,9,44,2,19,9,1,1,4,8,Școala Generală Hășmașu Ciceului,Nr. 148,Hășmașu Ciceului,47.2303,24.0566
+303,6,BISTRIȚA-NĂSĂUD,URIU,188,10,60,16,5,8,4,10,187,11,58,16,5,10,3,9,Școala Generală Ilișua,Nr. 37,Ilișua,47.2166,24.0896
+143,6,BISTRIȚA-NĂSĂUD,ILVA MARE,168,9,90,10,0,47,4,8,168,7,85,10,1,48,4,12,Primăria Comunei Ilva Mare,Nr. 243,Ilva Mare,47.3659,24.8718
+144,6,BISTRIȚA-NĂSĂUD,ILVA MARE,91,8,74,16,1,12,3,7,96,6,70,10,1,18,3,9,Primăria Comunei Ilva Mare,Nr. 243,Ilva Mare,47.3659,24.8718
+145,6,BISTRIȚA-NĂSĂUD,ILVA MICA,372,21,58,13,1,14,6,19,369,19,62,11,1,11,4,21,Școala Gimnazială nr. 2,Nr. 843,Ilva Mica,47.3112,24.6406
+146,6,BISTRIȚA-NĂSĂUD,ILVA MICA,481,9,116,9,3,20,2,19,479,12,114,10,3,25,2,16,Școala Gimnazială nr. 1,Nr. 589,Ilva Mica,47.3071,24.6598
+186,6,BISTRIȚA-NĂSĂUD,MĂRIŞELU,3,1,1,0,76,5,1,5,4,1,1,0,76,4,1,5,Societatea Agricolă,Nr. 128,Jeica,46.9836,24.5038
+93,6,BISTRIȚA-NĂSĂUD,BUDACU DE JOS,184,4,56,7,1,9,2,17,178,4,56,6,2,11,3,20,Centrul Local de Informare Turistică,Nr. 110,Jelna,47.1087,24.5528
+115,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,40,3,57,1,11,9,3,6,39,3,61,1,13,8,3,5,Căminul Cultural Jimbor,Nr. 262,Jimbor,46.9245,24.2046
+147,6,BISTRIȚA-NĂSĂUD,JOSENII BÎRGĂULUI,111,13,74,15,1,34,6,26,102,14,77,19,1,32,6,31,Căminul Cultural Josenii Bîrgăului,Nr. 152,Josenii Bârgăului,47.2118,24.6789
+148,6,BISTRIȚA-NĂSĂUD,JOSENII BÎRGĂULUI,126,3,46,22,2,18,2,15,130,4,48,19,3,19,2,10,Școala Gimnazială Josenii Bîrgăului,Nr. 155,Josenii Bârgăului,47.2112,24.6779
+152,6,BISTRIȚA-NĂSĂUD,LECHINŢA,313,5,52,4,8,6,6,15,318,8,52,4,8,7,5,10,Primăria Comunei Lechința,Nr. 509,Lechința,47.0198,24.3323
+153,6,BISTRIȚA-NĂSĂUD,LECHINŢA,273,11,67,10,3,15,9,18,274,10,66,10,4,15,8,19,Școala Profesională Lechința nr. 394,Nr. 394,Lechința,47.0175,24.332
+122,6,BISTRIȚA-NĂSĂUD,CICEU - MIHĂIEŞTI,29,1,21,2,1,1,2,4,29,1,22,2,1,2,2,3,Școala Generală Lelești,Nr. 58,Lelești,47.2223,23.9541
+159,6,BISTRIȚA-NĂSĂUD,LEŞU,398,4,89,11,0,20,9,16,400,7,94,10,0,16,7,17,Sediul Primăriei Vechi Leșu,Nr. 133A,Leșu,47.3114,24.7503
+161,6,BISTRIȚA-NĂSĂUD,LIVEZILE,55,11,61,50,3,159,5,20,58,11,69,35,2,163,4,14,Căminul Cultural Livezile,Nr. 165,Livezile,47.1807,24.5715
+162,6,BISTRIȚA-NĂSĂUD,LIVEZILE,60,12,69,71,5,137,4,23,59,15,77,59,5,148,4,15,Școala Gimnazială Livezile,Nr. 525,Livezile,47.1814,24.575
+75,6,BISTRIȚA-NĂSĂUD,ORAŞ NĂSĂUD,173,6,70,14,1,17,4,8,170,6,62,13,1,18,5,18,Căminul Cultural Liviu Rebreanu,Nr. 8,Liviu Rebreanu,47.2573,24.4315
+271,6,BISTRIȚA-NĂSĂUD,ŞIEUŢ,29,5,19,16,1,40,2,11,29,5,23,13,1,38,2,11,Școala Primară Lunca,Nr. 55,Lunca,47.0181,24.6796
+167,6,BISTRIȚA-NĂSĂUD,LUNCA ILVEI,126,13,120,10,0,14,5,20,131,14,110,12,1,19,7,21,Căminul Cultural Lunca Ilvei,Str. Grănicerilor nr. 198,Lunca Ilvei,47.3639,24.9684
+168,6,BISTRIȚA-NĂSĂUD,LUNCA ILVEI,120,16,79,11,2,17,4,13,120,16,79,9,2,19,6,17,Căminul Cultural Lunca Ilvei,Str. Grănicerilor nr. 198,Lunca Ilvei,47.3639,24.9684
+160,6,BISTRIȚA-NĂSĂUD,LEŞU,125,4,56,4,0,5,2,9,132,6,54,5,0,3,2,5,Școala Generală nr. 2 Lunca Leșului,Nr. 254/A,Lunca Leșului,47.3113,24.7897
+298,6,BISTRIȚA-NĂSĂUD,TÎRLIŞUA,62,1,31,6,1,29,3,11,62,1,35,3,2,26,5,10,Școala Generală Lunca Sătească,Nr. 1,Lunca Săteasca,47.4024,24.1875
+76,6,BISTRIȚA-NĂSĂUD,ORAŞ NĂSĂUD,83,11,54,4,0,14,2,14,83,10,56,4,0,16,3,12,Căminul Cultural Lușca,Nr. 185,Lușca,47.2786,24.405
+169,6,BISTRIȚA-NĂSĂUD,MAIERU,211,10,47,14,0,22,6,16,212,8,54,13,0,22,6,12,Liceul Tehnologic Maieru,Nr. 201,Maieru,47.399,24.7405
+170,6,BISTRIȚA-NĂSĂUD,MAIERU,211,12,67,25,0,17,0,13,214,11,70,22,2,18,1,10,Liceul Tehnologic Maieru,Nr. 203,Maieru,47.3993,24.7418
+171,6,BISTRIȚA-NĂSĂUD,MAIERU,179,2,44,3,0,19,1,11,179,2,39,3,0,18,1,11,Liceul Tehnologic Maieru,Nr. 203,Maieru,47.3993,24.7418
+172,6,BISTRIȚA-NĂSĂUD,MAIERU,313,13,87,9,1,28,5,18,331,15,82,4,0,25,4,15,Căminul Cultural Maieru,Nr. 831,Maieru,47.4012,24.7437
+209,6,BISTRIȚA-NĂSĂUD,NUŞENI,35,4,55,4,79,2,1,7,33,2,51,10,76,4,2,8,Școala Primară Malin,Nr. 133,Malin,47.1191,24.1331
+114,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,31,0,49,0,1,3,0,5,34,0,48,0,1,3,0,3,Școala Primară Manic,Nr. 128,Manic,46.9601,24.2015
+174,6,BISTRIȚA-NĂSĂUD,MATEI,51,2,35,1,184,5,1,6,49,2,40,1,183,7,1,7,Școala Gimnazială Matei,Nr. 91,Matei,46.9796,24.2661
+187,6,BISTRIȚA-NĂSĂUD,MICEŞTII DE CÎMPIE,64,4,15,3,1,25,6,15,67,3,17,3,1,23,6,11,Căminul Cultural Miceștii de Cîmpie,Nr. 208,Miceștii de Câmpie,46.8609,24.3119
+149,6,BISTRIȚA-NĂSĂUD,JOSENII BÎRGĂULUI,228,20,70,27,3,34,7,24,224,20,72,24,3,37,5,24,Căminul Cultural Mijlocenii Bîrgăului,Nr. 76,Mijlocenii Bârgăului,47.2138,24.6884
+190,6,BISTRIȚA-NĂSĂUD,MILAŞ,203,4,49,7,1,8,4,12,208,5,47,7,1,11,3,9,Primăria Comunei Milaș,Nr. 282,Milaș,46.8176,24.4378
+202,6,BISTRIȚA-NĂSĂUD,NIMIGEA,110,3,19,2,1,4,6,9,110,3,19,1,1,4,6,10,Școala Primară Mintiu,Nr. 56,Mintiu,47.2357,24.352
+120,6,BISTRIȚA-NĂSĂUD,CHIUZA,27,2,5,2,0,58,1,3,28,2,8,1,0,54,2,3,Căminul Cultural Mireș,Nr. 16 A,Mireș,47.2662,24.2328
+200,6,BISTRIȚA-NĂSĂUD,NIMIGEA,96,6,49,4,0,23,10,19,91,6,54,2,1,24,10,19,Școala Gimnazială Mititei,Nr. 25,Mititei,47.2822,24.317
+199,6,BISTRIȚA-NĂSĂUD,NIMIGEA,93,3,32,6,1,21,2,6,90,4,30,6,1,19,6,12,Căminul Cultural Mocod,Nr. 60,Mocod,47.2622,24.2964
+204,6,BISTRIȚA-NĂSĂUD,NIMIGEA,62,6,34,4,2,3,3,7,60,4,34,6,2,3,3,6,Școala Primară Mogoșeni,Nr. 57,Mogoșeni,47.2161,24.256
+300,6,BISTRIȚA-NĂSĂUD,TÎRLIŞUA,48,4,19,9,1,4,3,5,54,3,19,9,2,3,1,2,Școala Generală Molișet (Costeasa),Nr. 54,Molișet,47.4698,24.1405
+94,6,BISTRIȚA-NĂSĂUD,BUDACU DE JOS,92,7,30,10,1,6,2,7,96,7,24,10,1,7,2,8,Școala Gimnazială Monariu,Nr. 126,Monariu,47.0655,24.4748
+193,6,BISTRIȚA-NĂSĂUD,MONOR,160,10,81,17,1,39,1,10,166,13,86,16,1,29,3,6,Căminul Cultural Monor,Nr. 254,Monor,46.95,24.6926
+179,6,BISTRIȚA-NĂSĂUD,MATEI,48,2,28,4,4,1,1,5,48,1,27,4,4,1,1,5,Școala Primară Moruț,Nr. 65,Moruț,46.9608,24.271
+294,6,BISTRIȚA-NĂSĂUD,TIHA BÎRGĂULUI,141,15,139,48,1,4,4,18,140,13,141,45,1,5,3,19,Școala Gimnazială Mureșenii Bîrgăului,Nr. 399A,Mureșenii Bârgăului,47.2106,24.8572
+180,6,BISTRIȚA-NĂSĂUD,MĂGURA ILVEI,221,8,82,13,1,17,7,23,243,8,83,12,0,10,6,16,Căminul Cultural Măgura Ilvei,Nr. 420,Măgura Ilvei,47.3743,24.8037
+182,6,BISTRIȚA-NĂSĂUD,MĂRIŞELU,86,8,58,12,3,13,1,11,85,7,55,10,3,15,1,18,Școala Gimnazială Mărișelu,Nr. 11,Măgurele,47.0146,24.5077
+90,6,BISTRIȚA-NĂSĂUD,BRANIŞTEA,126,7,39,12,1,14,4,11,117,7,36,17,2,15,7,16,Căminul Cultural Măluț,Nr. 42,Măluț,47.1694,24.1016
+195,6,BISTRIȚA-NĂSĂUD,NEGRILEŞTI,211,7,111,8,3,13,1,12,219,6,102,10,2,15,4,13,Școala Gimnazială Negrilești,Nr. 503,Negrilești,47.2686,24.0499
+137,6,BISTRIȚA-NĂSĂUD,FELDRU,93,9,207,14,5,12,3,15,100,8,215,12,5,5,2,10,Școala Gimnazială „Gavril Istrate” Nepos,Nr. 20,Nepos,47.2773,24.5329
+198,6,BISTRIȚA-NĂSĂUD,NIMIGEA,176,13,57,3,114,7,16,34,180,15,53,5,118,8,15,23,Școala Gimnazială Nimigea de Jos,Nr. 450,Nimigea de Jos,47.2536,24.2973
+201,6,BISTRIȚA-NĂSĂUD,NIMIGEA,109,9,33,4,1,4,4,12,108,8,34,3,1,5,4,13,Școala Primară Nimigea de Sus,Nr. 179/a,Nimigea de Sus,47.2786,24.3218
+206,6,BISTRIȚA-NĂSĂUD,NUŞENI,155,8,113,13,40,107,3,12,155,5,110,11,41,106,7,12,Primăria Comunei Nușeni,Nr. 37,Nușeni,47.1004,24.1997
+69,6,BISTRIȚA-NĂSĂUD,ORAŞ NĂSĂUD,292,36,143,25,2,33,19,32,296,32,146,23,3,32,19,29,Școala de Aplicație,Piața Unirii (Piața Libertății) nr. 9,Năsăud,47.2858,24.4008
+70,6,BISTRIȚA-NĂSĂUD,ORAŞ NĂSĂUD,232,43,121,18,3,45,15,33,227,39,123,20,4,49,16,35,Școala Gimnazială „Mihai Eminescu”,Bulevardul Grănicerilor (Str. Republicii) nr. 15,Năsăud,47.284,24.4071
+71,6,BISTRIȚA-NĂSĂUD,ORAŞ NĂSĂUD,158,25,91,20,5,25,12,19,155,23,89,16,5,31,13,23,Colegiul Economic,Bulevardul Grănicerilor (Str. Republicii) nr. 2A,Năsăud,47.2838,24.4048
+72,6,BISTRIȚA-NĂSĂUD,ORAŞ NĂSĂUD,197,46,131,16,4,42,30,59,199,44,129,18,3,53,23,47,Colegiul Silvic „Transilvania”,Str. Gării nr. 1,Năsăud,47.2824,24.41
+73,6,BISTRIȚA-NĂSĂUD,ORAŞ NĂSĂUD,233,37,137,20,5,49,10,26,229,40,133,19,5,60,13,28,Autogara Călători,Str. Gării nr. 11,Năsăud,47.2819,24.4109
+74,6,BISTRIȚA-NĂSĂUD,ORAŞ NĂSĂUD,126,14,60,11,3,73,6,62,140,14,63,11,4,90,11,35,Școala Generală Valea Spinului,Str. George Coșbuc nr. 174,Năsăud,47.2922,24.3881
+280,6,BISTRIȚA-NĂSĂUD,TEACA,101,11,66,16,3,8,3,11,108,12,64,13,3,8,3,14,Căminul Cultural Ocnița,Nr. 323,Ocnița,46.8621,24.4854
+106,6,BISTRIȚA-NĂSĂUD,CETATE,198,5,53,9,3,33,2,10,201,5,57,8,4,26,2,11,Căminul Cultural Orheiu Bistriței,Nr. 27,Orheiu Bistriței,47.0957,24.5921
+191,6,BISTRIȚA-NĂSĂUD,MILAŞ,100,2,48,15,2,5,2,7,99,3,51,17,3,5,1,3,Școala Generală Orosfaia,Nr. 117,Orosfaia,46.8508,24.4212
+212,6,BISTRIȚA-NĂSĂUD,PARVA,163,3,51,22,3,33,2,15,170,4,54,22,2,25,2,11,Școala Generală Clasele V-VIII Parva,Nr. 194,Parva,47.399,24.5445
+213,6,BISTRIȚA-NĂSĂUD,PARVA,133,3,30,17,2,12,0,15,142,3,27,17,1,14,0,8,Școala Generală V-VIII,Nr. 194,Parva,47.399,24.5445
+312,6,BISTRIȚA-NĂSĂUD,ZAGRA,49,2,34,19,1,16,1,2,49,3,33,19,1,15,1,3,Școala Generală Perișor,Nr. 63,Perișor,47.3136,24.2264
+105,6,BISTRIȚA-NĂSĂUD,CETATE,193,4,91,4,1,13,2,28,187,3,102,15,1,13,2,15,Școala Clasele I-IV Petriș,Nr. 290,Petriș,47.1029,24.6224
+119,6,BISTRIȚA-NĂSĂUD,CHIUZA,60,6,45,9,1,55,4,5,63,6,42,9,1,51,3,7,Școala Primară Piatra,Nr. 141 A,Piatra,47.2489,24.2636
+295,6,BISTRIȚA-NĂSĂUD,TIHA BÎRGĂULUI,17,11,29,5,2,6,1,5,16,9,33,5,2,2,1,8,Școala Gimnazială Piatra Fîntînele,Nr. 107A,Piatra Fântânele,47.236,25.0006
+281,6,BISTRIȚA-NĂSĂUD,TEACA,97,3,32,6,4,13,2,11,102,2,33,5,6,11,2,12,Fost Sediu C.A.P. Pinticu,Nr. 236,Pinticu,46.9394,24.5399
+217,6,BISTRIȚA-NĂSĂUD,POIANA ILVEI,340,13,61,6,1,144,5,22,349,9,69,7,1,143,3,14,Școala Gimnazială „Sever Pop” Poiana Ilvei,Nr. 412,Poiana Ilvei,47.3579,24.7408
+310,6,BISTRIȚA-NĂSĂUD,ZAGRA,203,3,35,11,2,14,4,10,200,3,34,12,3,17,5,9,Școala Generală Poienile Zagrei,Nr. 196,Poienile Zagrei,47.3871,24.2547
+254,6,BISTRIȚA-NĂSĂUD,ŞIEU,82,9,38,1,2,43,5,16,86,6,43,1,3,44,5,9,Școala Generală Posmuș,Nr. 129,Posmuș,46.976,24.5899
+218,6,BISTRIȚA-NĂSĂUD,PRUNDU BÎRGĂULUI,224,38,81,30,4,28,3,20,227,43,72,30,2,28,4,26,Școala Primară Prundu Bîrgăului,Nr. 953,Prundu Bârgăului,47.2199,24.7391
+219,6,BISTRIȚA-NĂSĂUD,PRUNDU BÎRGĂULUI,348,28,128,47,2,16,10,30,348,28,134,38,2,23,9,30,Căminul Cultural Prundu Bîrgăului,Nr. 952,Prundu Bârgăului,47.2204,24.7393
+220,6,BISTRIȚA-NĂSĂUD,PRUNDU BÎRGĂULUI,280,22,103,19,2,12,9,23,285,20,99,17,2,14,12,24,Școala Primară Prundu Bîrgăului,Nr. 953,Prundu Bârgăului,47.2199,24.7391
+196,6,BISTRIȚA-NĂSĂUD,NEGRILEŞTI,39,2,29,5,1,3,1,4,39,2,30,6,1,4,1,2,Școala Generală Purcărete,Nr. 12,Purcărete,47.3092,24.0536
+222,6,BISTRIȚA-NĂSĂUD,REBRA,116,3,101,20,1,3,0,10,117,2,106,20,1,6,0,5,Școala Gimnazială Rebra Clasele I-IV,Nr. 413,Rebra,47.3256,24.4981
+223,6,BISTRIȚA-NĂSĂUD,REBRA,105,2,87,29,0,9,1,12,102,4,87,25,0,8,1,13,Școala Gimnazială Rebra Clasele I-IV,Nr. 413,Rebra,47.3256,24.4981
+224,6,BISTRIȚA-NĂSĂUD,REBRIŞOARA,198,13,153,15,2,19,16,25,209,10,146,15,1,15,16,22,Căminul Cultural Rebrișoara,Nr. 827,Rebrișoara,47.2865,24.446
+225,6,BISTRIȚA-NĂSĂUD,REBRIŞOARA,176,6,131,14,1,35,14,31,176,6,124,16,1,36,18,31,Școala Gimnazială Clasele I-IV Rebrișoara,Nr. 495,Rebrișoara,47.287,24.4531
+214,6,BISTRIȚA-NĂSĂUD,PETRU RAREŞ,233,15,135,17,59,16,10,22,224,10,154,15,56,14,11,25,Primăria Comunei Petru Rareș,Nr. 272,Reteag,47.1945,24.0202
+215,6,BISTRIȚA-NĂSĂUD,PETRU RAREŞ,97,3,40,4,8,3,1,8,103,2,40,4,6,2,2,10,"Școala Generală Reteag Poieni, Clasele I-IV",Nr. 601,Reteag,47.2051,24.0076
+228,6,BISTRIȚA-NĂSĂUD,RODNA,260,15,51,12,7,14,12,29,271,17,50,8,7,15,11,25,Școala Gimnazială nr. 2 „Florian Porcius” Rodna,Nr. 89,Rodna,47.4199,24.8155
+229,6,BISTRIȚA-NĂSĂUD,RODNA,231,7,40,7,9,11,5,13,234,9,40,7,10,8,5,16,Școala Gimnazială nr. 2 „Florian Porcius” Rodna,Nr. 89,Rodna,47.4199,24.8155
+230,6,BISTRIȚA-NĂSĂUD,RODNA,408,14,71,14,13,23,14,38,401,14,74,9,12,30,11,38,Primăria Comunei Rodna,Nr. 756,Rodna,47.4224,24.8157
+231,6,BISTRIȚA-NĂSĂUD,RODNA,421,12,85,3,11,11,6,28,425,10,93,5,10,10,11,23,Căminul Cultural „Gherasim Domide” Rodna,Nr. 1192,Rodna,47.422,24.8147
+233,6,BISTRIȚA-NĂSĂUD,ROMULI,66,1,41,15,1,236,2,6,84,1,90,16,3,162,5,13,"Școala Gimnazială Clasele I-VIII, Romuli",Nr. 88,Romuli,47.5413,24.4337
+235,6,BISTRIȚA-NĂSĂUD,RUNCU SALVEI,89,3,380,2,3,14,1,7,91,3,373,0,1,14,1,9,Primăria Comunei Runcu Salvei,Nr. 1,Runcu Salvei,47.3428,24.3245
+150,6,BISTRIȚA-NĂSĂUD,JOSENII BÎRGĂULUI,138,4,60,18,1,39,9,22,135,5,58,13,2,44,8,24,Căminul Cultural Rusu Bîrgăului,Nr. 239,Rusu Bârgăului,47.2005,24.6406
+68,6,BISTRIȚA-NĂSĂUD,ORAŞ BECLEAN,93,3,15,8,2,2,1,5,94,3,15,8,2,4,1,4,Grădinița cu Program Normal Rusu de Jos,Nr. 26,Rusu de Jos,47.1479,24.1705
+210,6,BISTRIȚA-NĂSĂUD,NUŞENI,49,4,30,11,2,15,4,7,50,4,35,9,2,14,3,6,Școala Primară Rusu de Sus,Nr. 27,Rusu de Sus,47.1226,24.1806
+269,6,BISTRIȚA-NĂSĂUD,ŞIEUŢ,44,2,77,18,1,43,2,10,46,3,75,14,1,47,4,12,Școala Primară Ruștior,Nr. 136,Ruștior,46.9906,24.6676
+236,6,BISTRIȚA-NĂSĂUD,SALVA,316,11,84,11,0,22,1,10,318,13,83,10,0,21,2,10,Primăria Comunei Salva,Nr. 154,Salva,47.305,24.3544
+237,6,BISTRIȚA-NĂSĂUD,SALVA,360,14,65,10,2,30,5,17,358,15,66,9,2,28,5,21,Școala Gimanzială Salva,Nr. 1,Salva,47.3052,24.3537
+104,6,BISTRIȚA-NĂSĂUD,CETATE,142,12,49,6,1,5,3,20,141,12,49,7,1,11,3,13,Biblioteca Comunală Satu Nou,Nr. 169,Satu Nou,47.1098,24.6252
+270,6,BISTRIȚA-NĂSĂUD,ŞIEUŢ,57,4,122,10,0,59,1,12,54,4,122,6,2,61,1,12,Școala Gimnazială Sebiș,Nr. 41,Sebiș,47.0061,24.7155
+54,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,121,24,55,6,3,19,5,29,123,24,59,4,3,22,4,22,Casa de Cultură Sigmir,Nr. 134,Sigmir,47.1339,24.4237
+238,6,BISTRIȚA-NĂSĂUD,SILIVAŞU DE CÎMPIE,120,5,34,13,2,123,6,13,133,7,37,12,2,107,9,16,Căminul Cultural Silivașu de Cîmpie,Nr. 70,Silivașu de Câmpie,46.7795,24.2919
+95,6,BISTRIȚA-NĂSĂUD,BUDACU DE JOS,36,2,17,12,1,4,0,8,38,1,16,11,1,5,0,8,Școala Gimnazială Simionești,Nr. 19,Simionești,47.0663,24.5003
+245,6,BISTRIȚA-NĂSĂUD,SPERMEZEU,22,3,89,3,1,5,0,3,23,4,84,2,1,5,1,5,Școala Gimnazială Sita,Nr. 105,Sita,47.316,24.1815
+52,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,82,2,48,6,1,3,5,11,82,4,46,8,1,2,5,11,Școala Primară „Dimitrie Cojocaru” Slătinița,Nr. 42,Slătinița,47.2045,24.5259
+244,6,BISTRIȚA-NĂSĂUD,SPERMEZEU,84,5,438,11,3,19,3,7,95,4,421,11,4,20,5,15,Primăria Comunei Spermezeu,Nr. 295,Spermezeu,47.2934,24.1539
+109,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,3,1,20,0,59,5,1,3,4,1,20,0,59,4,1,3,Școala Primară Strugureni,Nr. 104,Strugureni,46.9812,24.2047
+151,6,BISTRIȚA-NĂSĂUD,JOSENII BÎRGĂULUI,42,1,32,2,2,6,0,4,37,1,30,4,2,10,0,5,Școala Primară Strîmba,Nr. 70,Strâmba,47.2248,24.6489
+242,6,BISTRIȚA-NĂSĂUD,SÎNMIHAIU DE CÎMPIE,9,6,8,0,1,116,2,5,10,6,7,1,1,113,4,6,Școala Gimnazialâ Stupini,Nr. 5,Stupini,46.8765,24.3752
+311,6,BISTRIȚA-NĂSĂUD,ZAGRA,164,3,28,6,7,1,6,13,165,2,25,5,6,1,4,14,Școala Generală Suplai,Nr. 74,Suplai,47.4366,24.2586
+221,6,BISTRIȚA-NĂSĂUD,PRUNDU BÎRGĂULUI,226,20,63,30,0,17,5,27,224,23,64,25,2,24,4,23,Școala Primară Susenii Bîrgăului,Nr. 145,Susenii Bârgăului,47.223,24.7083
+77,6,BISTRIȚA-NĂSĂUD,ORAŞ SÎNGEORZ-BĂI,269,12,131,14,2,17,4,13,253,15,143,13,3,14,6,18,Școala Gimnazială „Artemiu Publiu Alexi” Sîngeorz-Băi,Str. Republicii nr. 38,Sângeorz-Băi,47.3675,24.6702
+78,6,BISTRIȚA-NĂSĂUD,ORAŞ SÎNGEORZ-BĂI,258,10,126,4,2,24,4,18,249,10,127,6,2,32,3,18,Școala Gimnazială „Artemiu Publiu Alexi” Sîngeorz-Băi,Str. Republicii nr. 38,Sângeorz-Băi,47.3675,24.6702
+79,6,BISTRIȚA-NĂSĂUD,ORAŞ SÎNGEORZ-BĂI,126,4,65,8,1,16,2,14,122,4,71,8,1,15,2,8,Școala Gimnazială „Artemiu Publiu Alexi” Sîngeorz-Băi,Str. Teilor nr. 4,Sângeorz-Băi,47.3638,24.6716
+80,6,BISTRIȚA-NĂSĂUD,ORAŞ SÎNGEORZ-BĂI,229,16,187,11,0,13,4,10,221,14,194,9,1,12,3,9,Clubul Tineretului Sîngeorz-Băi,Str. Carpaților nr. 8,Sângeorz-Băi,47.3701,24.6804
+81,6,BISTRIȚA-NĂSĂUD,ORAŞ SÎNGEORZ-BĂI,163,12,114,9,4,13,4,12,161,14,116,11,4,10,6,15,Liceul Teoretic „Solomon Haliță”,Str. Republicii nr. 39,Sângeorz-Băi,47.3681,24.6709
+82,6,BISTRIȚA-NĂSĂUD,ORAŞ SÎNGEORZ-BĂI,123,4,202,16,1,10,1,8,118,5,206,15,1,13,1,5,Grădinița cu Program Normal Sîngeorz-Băi,Str. Izvoarelor nr. 64,Sângeorz-Băi,47.3752,24.6653
+154,6,BISTRIȚA-NĂSĂUD,LECHINŢA,172,7,58,4,1,8,5,16,177,7,57,5,1,7,5,10,Căminul Cultural Sîngeorzu- Nou,Nr. 291,Sângeorzu Nou,46.9604,24.3583
+156,6,BISTRIȚA-NĂSĂUD,LECHINŢA,92,1,15,0,1,0,2,4,91,1,16,0,1,0,4,5,Școala Primară Sîniacob,Nr. 96/A,Sâniacob,47.0529,24.2902
+239,6,BISTRIȚA-NĂSĂUD,SÎNMIHAIU DE CÎMPIE,80,7,41,6,0,162,11,20,81,7,50,6,0,157,13,16,Căminul Cultural Sînmihaiu de Cîmpie,Nr. 43,Sânmihaiu de Câmpie,46.894,24.3317
+112,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,17,1,22,3,1,2,4,5,21,1,21,1,1,2,3,4,Școala Primară Sînnicoară,Nr. 72,Sânnicoară,46.9798,24.1275
+185,6,BISTRIȚA-NĂSĂUD,MĂRIŞELU,50,6,27,2,2,17,1,4,49,5,28,2,2,20,1,3,Școala Primară Sîntioana,Nr. 149,Sântioana,47.0087,24.5615
+241,6,BISTRIȚA-NĂSĂUD,SÎNMIHAIU DE CÎMPIE,6,3,4,1,3,38,2,5,10,3,4,1,3,32,6,8,Căminul Cultural Sălcuța,Nr. 114,Sălcuța,46.9176,24.3015
+57,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,102,9,67,7,56,16,4,28,105,10,75,5,51,16,5,23,Școala Primară Sărata,Nr. 107,Sărata,47.072,24.4353
+259,6,BISTRIȚA-NĂSĂUD,ŞIEU-MĂGHERUŞ,49,7,36,14,2,14,4,9,46,7,31,12,2,20,5,12,Căminul Cultural Sărățel,Nr. 27,Sărățel,47.0527,24.4133
+118,6,BISTRIȚA-NĂSĂUD,CHIUZA,77,12,51,20,1,8,4,14,75,11,36,42,1,8,4,14,Căminul Cultural Săsarm,Nr. 152 A,Săsarm,47.212,24.2174
+282,6,BISTRIȚA-NĂSĂUD,TEACA,127,7,45,20,26,11,3,11,127,6,46,19,30,10,4,10,Căminul Cultural Teaca,Nr. 603,Teaca,46.9089,24.5027
+283,6,BISTRIȚA-NĂSĂUD,TEACA,133,13,69,25,38,15,2,9,134,14,67,26,37,16,4,8,Primăria Comunei Teaca,Nr. 598,Teaca,46.9092,24.5045
+285,6,BISTRIȚA-NĂSĂUD,TELCIU,75,9,72,15,1,57,7,26,77,10,66,14,1,56,9,30,Liceul Tehnologic Telciu,Nr. 204B,Telciu,47.4296,24.3962
+286,6,BISTRIȚA-NĂSĂUD,TELCIU,84,2,65,22,2,80,7,22,83,2,68,20,2,82,11,22,Căminul Cultural Telciu,Nr. 543A,Telciu,47.4319,24.3976
+287,6,BISTRIȚA-NĂSĂUD,TELCIU,92,7,50,11,1,59,10,26,94,6,46,14,0,59,8,23,Ocolul Silvic Telciu,Nr. 188B,Telciu,47.4287,24.3953
+288,6,BISTRIȚA-NĂSĂUD,TELCIU,20,5,35,4,1,54,2,13,22,4,36,3,2,51,4,18,Școala Gimnazială Telcișor,Nr. 185A,Telcișor,47.4603,24.4502
+291,6,BISTRIȚA-NĂSĂUD,TIHA BÎRGĂULUI,168,21,136,26,2,19,4,19,162,22,133,24,2,24,5,21,Căminul Cultural Tiha Bîrgăului,Nr. 404A,Tiha Bârgăului,47.2274,24.7697
+142,6,BISTRIȚA-NĂSĂUD,GALAŢII BISTRIŢEI,26,0,1,2,53,4,1,6,27,1,1,2,53,5,1,5,Școala Generală Tonciu,Nr. 145,Tonciu,46.9981,24.3775
+292,6,BISTRIȚA-NĂSĂUD,TIHA BÎRGĂULUI,61,5,23,10,1,9,1,13,76,6,24,11,2,9,1,7,Școala Gimnazială Tureac,Nr. 11,Tureac,47.2293,24.8038
+293,6,BISTRIȚA-NĂSĂUD,TIHA BÎRGĂULUI,118,7,118,25,2,10,2,27,123,7,112,26,2,11,3,27,Școala Gimnazială Tureac,Nr. 724 A,Tureac,47.2296,24.8043
+296,6,BISTRIȚA-NĂSĂUD,TÎRLIŞUA,228,11,97,13,2,46,5,12,243,14,89,17,2,35,6,12,Liceul Tehnologic Tîrlișua,Nr. 154,Târlișua,47.383,24.1744
+130,6,BISTRIȚA-NĂSĂUD,DUMITRA,31,1,37,2,4,54,1,10,31,4,36,4,5,55,0,7,Școala Generală Tărpiu,Nr. 270,Tărpiu,47.1911,24.4039
+203,6,BISTRIȚA-NĂSĂUD,NIMIGEA,100,6,13,1,2,5,5,10,104,7,14,0,1,4,4,7,Școala Primară Tăure,Nr. 199,Tăure,47.2065,24.3198
+50,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,170,48,138,33,5,23,20,47,166,46,152,25,4,20,23,49,Grădinița cu Program Normal Unirea,Nr. 267,Unirea,47.1606,24.5281
+51,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,167,39,145,22,11,52,18,45,164,40,149,21,11,51,18,44,Grădinița cu Program Normal Unirea,Nr. 267,Unirea,47.1606,24.5281
+301,6,BISTRIȚA-NĂSĂUD,URIU,173,13,101,24,109,29,2,11,177,16,99,31,113,19,2,10,Școala Generală Uriu,Nr. 316B,Uriu,47.2027,24.0633
+305,6,BISTRIȚA-NĂSĂUD,URMENIŞ,52,6,45,4,9,147,3,11,53,6,47,4,10,141,2,10,Sala de Sport Urmeniș,Nr. 55,Urmeniș,46.7706,24.3647
+251,6,BISTRIȚA-NĂSĂUD,ŞANŢ,98,1,7,15,0,1,2,4,96,1,7,17,0,2,2,5,Școala Primară „Lucian Valea”,Nr. 59,Valea Mare,47.4674,24.952
+165,6,BISTRIȚA-NĂSĂUD,LIVEZILE,11,1,1,2,1,51,0,6,14,1,3,1,1,51,0,6,Școala Primară Valea Poenii,Nr. 17,Valea Poenii,47.1876,24.6347
+232,6,BISTRIȚA-NĂSĂUD,RODNA,66,3,4,2,2,7,2,2,67,3,3,2,2,7,1,2,Școala Primară Valea Vinului,Nr. 11,Valea Vinului,47.4738,24.8254
+158,6,BISTRIȚA-NĂSĂUD,LECHINŢA,285,8,6,3,2,1,1,13,289,9,6,3,2,1,1,9,Căminul Cultural Vermeș,Nr. 202,Vermeș,47.0011,24.3215
+284,6,BISTRIȚA-NĂSĂUD,TEACA,120,1,25,32,11,5,4,19,134,1,26,34,10,9,2,9,Școala Gimnazială Viile Tecii,Nr. 67,Viile Tecii,46.9465,24.4596
+55,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,137,21,107,14,6,26,7,31,140,21,108,13,6,27,7,27,Școala Gimnazială nr. 7 Viișoara,Nr. 37,Viișoara,47.1021,24.4462
+56,6,BISTRIȚA-NĂSĂUD,MUNICIPIUL BISTRIŢA,111,32,104,25,8,25,5,22,113,29,113,23,7,19,5,21,Școala Gimnazială nr. 7 Viișoara,Nr. 37,Viișoara,47.1021,24.4462
+189,6,BISTRIȚA-NĂSĂUD,MICEŞTII DE CÎMPIE,31,4,56,0,2,5,2,20,28,4,56,11,2,5,3,7,Căminul Cultural Visuia,Nr. 125,Visuia,46.837,24.2923
+211,6,BISTRIȚA-NĂSĂUD,NUŞENI,2,2,29,1,89,2,1,7,3,2,28,0,93,2,1,5,Școala Gimnazială Vița,Nr. 213,Vița,47.0408,24.149
+309,6,BISTRIȚA-NĂSĂUD,ZAGRA,243,11,68,21,8,3,13,21,250,15,70,16,9,3,8,12,Școala Generală Zagra,Nr. 132,Zagra,47.3245,24.2777
+243,6,BISTRIȚA-NĂSĂUD,SÎNMIHAIU DE CÎMPIE,23,5,12,0,2,71,0,7,29,5,12,0,3,72,1,2,Căminul Cultural Zoreni,Nr. 92,Zoreni,46.8965,24.2738
+249,6,BISTRIȚA-NĂSĂUD,ŞANŢ,449,13,54,43,0,35,8,62,462,15,55,34,0,36,8,55,Primăria Comunei Șanț,Nr. 92,Șanț,47.4395,24.8891
+250,6,BISTRIȚA-NĂSĂUD,ŞANŢ,413,14,50,35,1,18,2,19,413,18,51,33,0,13,2,26,Școala Gimnazială „Enea Grapini” Șanț,Nr. 878,Șanț,47.439,24.8872
+252,6,BISTRIȚA-NĂSĂUD,ŞIEU,113,12,70,11,40,78,16,33,106,8,72,8,38,99,10,29,Primăria Comunei Șieu,Nr. 261,Șieu,46.9994,24.6138
+256,6,BISTRIȚA-NĂSĂUD,ŞIEU-MĂGHERUŞ,112,4,98,7,3,47,4,12,108,5,97,5,3,54,4,12,Căminul Cultural Șieu-Măgheruș,Nr. 219,Șieu-Măgheruș,47.0907,24.3723
+261,6,BISTRIȚA-NĂSĂUD,ŞIEU-ODORHEI,137,16,42,10,14,30,4,19,136,17,49,10,13,22,8,21,Primăria Comunei Șieu-Odorhei,Nr. 48 A,Șieu-Odorhei,47.1505,24.2909
+277,6,BISTRIȚA-NĂSĂUD,ŞINTEREAG,134,9,52,2,18,1,3,16,136,9,52,2,19,2,5,12,Școala Primară Clasele I-IV Șieu-Sfîntu (Fostul Sediu),Nr. 125,Șieu-Sfântu,47.1459,24.306
+268,6,BISTRIȚA-NĂSĂUD,ŞIEUŢ,42,9,143,7,7,87,1,16,45,9,138,6,7,91,1,12,Primăria Comunei Șieuț,Nr. 197,Șieuț,46.9768,24.6479
+272,6,BISTRIȚA-NĂSĂUD,ŞINTEREAG,173,15,77,11,58,16,5,20,173,18,78,9,57,19,2,16,Primăria Comunei Șintereag,Nr. 40,Șintereag,47.1798,24.2879
+267,6,BISTRIȚA-NĂSĂUD,ŞIEU-ODORHEI,38,2,22,4,1,18,6,9,38,3,23,4,1,15,6,9,Școala Generală Șirioara,Nr. 14,Șirioara,47.1024,24.295
+255,6,BISTRIȚA-NĂSĂUD,ŞIEU,20,1,14,2,2,22,1,3,21,1,13,2,3,21,1,2,Căminul Cultural Șoimuș,Nr. 15,Șoimuș,47.0422,24.6228
+306,6,BISTRIȚA-NĂSĂUD,URMENIŞ,18,3,13,0,2,56,2,9,21,4,15,0,1,56,2,8,Școala Generală Șopteriu,Nr. 150,Șopteriu,46.7969,24.3444
+98,6,BISTRIȚA-NĂSĂUD,BUDEŞTI,80,7,51,14,3,3,3,11,74,9,50,12,3,5,5,13,Școala Primară Țagu,Nr. 212 A,Țagu,46.8207,24.226
+113,6,BISTRIȚA-NĂSĂUD,CHIOCHIŞ,11,1,29,0,3,3,0,6,11,1,31,0,2,3,1,4,Școala Primară Țentea,Nr. 123,Țentea,47.0013,24.1387
+157,6,BISTRIȚA-NĂSĂUD,LECHINŢA,57,2,11,1,93,2,1,6,55,2,11,1,92,1,1,7,Școala Primară Țigău,Nr. 37,Țigău,47.0701,24.3314
+99,6,BISTRIȚA-NĂSĂUD,BUDEŞTI,39,2,17,11,1,5,0,3,38,1,17,12,1,6,0,3,Școala Primară Țăgșoru,Nr. 103 A,Țăgșoru,46.7944,24.2359

@@ -1,0 +1,438 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+336,2,ARAD,PLEŞCUŢA,38,2,26,5,0,10,1,5,40,1,22,4,0,10,2,7,Căminul Cultural Aciuța,Nr. 127,Aciuța,46.2885,22.4503
+357,2,ARAD,SINTEA MARE,34,3,11,1,193,3,8,22,38,3,10,2,195,3,6,14,Școala Gimnazială „Olosz Lajos” Adea,Nr. 87,Adea,46.5551,21.5834
+393,2,ARAD,TÎRNOVA,73,2,270,31,3,3,2,26,73,4,271,30,3,6,3,18,Căminul Cultural Agrișu Mare,Nr. 11,Agrișu Mare,46.2721,21.7543
+295,2,ARAD,HĂŞMAŞ,27,5,42,8,1,1,2,9,27,3,26,26,1,1,5,11,Căminul Cultural Agrișu Mic,Nr. 109A,Agrișu Mic,46.5254,22.0515
+202,2,ARAD,BÎRSA,80,4,64,4,1,13,5,16,80,6,59,7,1,13,4,14,Cămin Cultural Aldești,Nr. 197,Aldești,46.3944,22.0405
+176,2,ARAD,ALMAŞ,198,9,60,25,1,57,11,35,193,8,63,32,0,61,16,31,Căminul Cultural Almaș,Nr. 613,Almaș,46.2847,22.237
+268,2,ARAD,FRUMUŞENI,70,11,208,17,3,4,2,19,68,15,209,26,4,5,2,11,Căminul Cultural Aluniș,Nr. 298,Aluniș,46.0931,21.4906
+435,2,ARAD,ZIMANDU NOU,111,32,262,7,38,11,6,28,103,39,258,9,38,13,14,30,Căminul Cultural Andrei Șaguna,Nr. 165,Andrei Șaguna,46.2909,21.3907
+180,2,ARAD,APATEU,113,8,70,14,0,13,12,21,120,8,69,21,0,14,8,12,Școala Gimnazială „Gheorghe Popovici” Apateu,Nr. 329,Apateu,46.6224,21.7763
+181,2,ARAD,APATEU,102,5,68,11,0,13,10,18,104,4,69,15,1,10,9,15,Școala Gimnazială „Gheorghe Popovici” Apateu,Nr. 425,Apateu,46.6207,21.7761
+1,2,ARAD,MUNICIPIUL ARAD,106,62,65,16,38,22,10,33,124,61,59,15,39,21,11,23,Colegiul Economic,Piața George Enescu nr. 2,Arad,46.1745,21.3194
+2,2,ARAD,MUNICIPIUL ARAD,161,106,97,31,32,30,28,61,172,106,96,30,37,34,22,41,Policlinica Municipală,Bulevardul Revoluției (Bulevardul Republicii) nr. 45,Arad,46.1794,21.3214
+3,2,ARAD,MUNICIPIUL ARAD,182,76,106,26,59,30,16,65,180,88,97,25,58,45,29,53,Spitalul Clinic Municipal - Secția Orl,Str. Tudor Vladimirescu nr. 1,Arad,46.1798,21.3177
+4,2,ARAD,MUNICIPIUL ARAD,185,99,139,23,45,42,19,64,197,107,131,24,42,47,19,45,Colegiul Național „Vasile Goldiș” (fosta Școală Generală nr. 4),Bulevardul Ștefan Augustin Doinaș (Bulevardul Mareșal Ion Antonescu) nr. 33-37,Arad,46.183,21.3181
+5,2,ARAD,MUNICIPIUL ARAD,187,88,117,23,67,33,17,64,191,99,116,25,68,35,13,36,Colegiul Național „Vasile Goldiș” (fosta Școală Generală nr. 4),Bulevardul Ștefan Augustin Doinaș (Bulevardul Mareșal Ion Antonescu) nr. 33-37,Arad,46.183,21.3181
+6,2,ARAD,MUNICIPIUL ARAD,157,39,88,12,46,29,17,54,160,42,90,13,49,30,15,38,Colegiul Național „Vasile Goldiș” (fosta Școală Generală nr. 4),Bulevardul Ștefan Augustin Doinaș (Bulevardul Mareșal Ion Antonescu) nr. 33-37,Arad,46.183,21.3181
+7,2,ARAD,MUNICIPIUL ARAD,195,64,134,25,40,36,16,64,211,71,140,20,41,35,10,40,Colegiul Național „Vasile Goldiș” (fosta Școală Generală nr. 4),Bulevardul Ștefan Augustin Doinaș (Bulevardul Mareșal Ion Antonescu) nr. 33-37,Arad,46.183,21.3181
+8,2,ARAD,MUNICIPIUL ARAD,251,142,189,38,79,57,35,95,260,151,173,39,75,67,37,73,Colegiul Național „Vasile Goldiș”,Calea Victoriei nr. 3-5,Arad,46.1847,21.3091
+9,2,ARAD,MUNICIPIUL ARAD,148,79,135,16,26,25,23,40,151,78,127,22,27,26,23,37,Liceul de Arte „Sabin Drăgoi”,Nr. 20-22,Arad,46.1845,21.3243
+10,2,ARAD,MUNICIPIUL ARAD,193,71,132,19,51,38,27,69,202,80,116,21,52,38,34,63,Liceul de Arte „Sabin Drăgoi”,Bulevardul Revoluției (Bulevardul Republicii) nr. 20-22,Arad,46.1845,21.3243
+11,2,ARAD,MUNICIPIUL ARAD,185,86,144,36,47,38,22,54,186,90,143,35,48,43,26,47,Liceul Tehnologic de Electronică și Automatizări „Caius Iacob”,Piața Academician Caius Iacob (Piața Acad. Caius Iacob) nr. 1,Arad,46.184,21.325
+12,2,ARAD,MUNICIPIUL ARAD,116,80,107,13,39,25,11,37,132,69,110,14,37,29,10,25,Liceul Teologic Baptist „Alexa Popovici”,Nr. 7-9,Arad,46.1811,21.3271
+13,2,ARAD,MUNICIPIUL ARAD,142,92,101,15,25,24,28,53,153,91,96,18,25,28,22,41,Liceul Teologic Baptist „Alexa Popovici”,Nr. 7-9,Arad,46.1811,21.3271
+14,2,ARAD,MUNICIPIUL ARAD,207,85,146,30,48,21,24,61,205,93,140,33,53,30,22,44,Liceul Național de Informatică,Bulevardul Iuliu Maniu nr. 39-41,Arad,46.182,21.3292
+15,2,ARAD,MUNICIPIUL ARAD,138,93,109,9,53,43,24,55,160,105,94,13,52,41,16,35,Sala Polivalentă,Piața Sporturilor,Arad,46.1796,21.3341
+16,2,ARAD,MUNICIPIUL ARAD,138,80,103,16,33,30,15,71,145,86,111,16,34,37,17,43,Sala Polivalentă,Piața Sporturilor,Arad,46.1796,21.3341
+17,2,ARAD,MUNICIPIUL ARAD,170,92,143,21,29,29,25,65,182,90,139,21,31,34,23,48,Universitatea „Aurel Vlaicu”,Str. Elena Drăgoi nr. 2,Arad,46.1762,21.3437
+18,2,ARAD,MUNICIPIUL ARAD,198,111,135,25,33,22,20,60,196,115,126,28,34,35,23,50,Universitatea „Aurel Vlaicu”,Str. Elena Drăgoi nr. 2,Arad,46.1762,21.3437
+19,2,ARAD,MUNICIPIUL ARAD,186,96,173,10,23,40,19,56,189,110,152,10,23,51,23,49,Universitatea „Aurel Vlaicu”,Str. Elena Drăgoi nr. 2,Arad,46.1762,21.3437
+20,2,ARAD,MUNICIPIUL ARAD,160,68,149,22,12,44,17,57,162,74,144,25,14,47,21,43,Universitatea „Aurel Vlaicu”,Str. Elena Drăgoi nr. 2,Arad,46.1762,21.3437
+21,2,ARAD,MUNICIPIUL ARAD,204,91,188,26,58,31,29,68,208,92,186,28,57,34,24,61,Grădinița cu Program Prelungit „Prichindel” Arad,Calea Radnei (Bulevardul Iuliu Maniu) nr. 120,Arad,46.1803,21.343
+22,2,ARAD,MUNICIPIUL ARAD,224,93,134,17,38,35,17,69,222,96,141,28,36,43,19,44,Școala Gimnazială „Regina Maria” (fosta Școală Generală nr. 12),Str. Miorița (Str. Mioriței) nr. FN,Arad,46.1778,21.3496
+23,2,ARAD,MUNICIPIUL ARAD,195,58,90,13,50,26,22,66,203,56,94,14,48,31,24,49,Școala Gimnazială „Regina Maria” (fosta Școală Generală nr. 12),Str. Miorița (Str. Mioriței) nr. FN,Arad,46.1778,21.3496
+24,2,ARAD,MUNICIPIUL ARAD,215,106,156,26,43,33,15,46,222,98,143,26,39,28,15,49,Școala Gimnazială „Regina Maria” (fosta Școală Generală nr. 12),Str. Miorița (Str. Mioriței) nr. FN,Arad,46.1778,21.3496
+25,2,ARAD,MUNICIPIUL ARAD,184,68,153,16,34,20,23,67,190,65,150,19,35,25,23,58,Școala Gimnazială „Caius Iacob” (fosta Școală Generală nr. 22),Str. Nucet nr. 3,Arad,46.1703,21.3505
+26,2,ARAD,MUNICIPIUL ARAD,162,44,147,18,38,20,13,36,160,48,140,17,38,25,14,35,Școala Gimnazială „Caius Iacob” (fosta Școală Generală nr. 22),Str. Nucet nr. 3,Arad,46.1703,21.3505
+27,2,ARAD,MUNICIPIUL ARAD,190,66,163,26,22,28,13,57,201,64,155,26,23,33,13,46,Școala Gimnazială „Caius Iacob” (fosta Școală Generală nr. 22),Str. Nucet nr. 3,Arad,46.1703,21.3505
+28,2,ARAD,MUNICIPIUL ARAD,188,44,152,26,47,21,32,58,197,47,139,32,48,23,33,50,Școala Gimnazială „Caius Iacob” (fosta Școală Generală nr. 22),Str. Nucet nr. 3,Arad,46.1703,21.3505
+29,2,ARAD,MUNICIPIUL ARAD,180,63,139,9,24,20,21,46,184,69,138,7,23,21,20,39,Școala Gimnazială „Caius Iacob” (fosta Școală Generală nr. 22),Str. Nucet nr. 3,Arad,46.1703,21.3505
+30,2,ARAD,MUNICIPIUL ARAD,143,88,168,23,26,28,12,59,155,100,157,22,25,30,9,41,Școala Gimnazială „Caius Iacob” (fosta Școală Generală nr. 22),Str. Nucet nr. 3,Arad,46.1703,21.3505
+31,2,ARAD,MUNICIPIUL ARAD,207,95,204,40,5,33,32,71,206,103,198,37,7,41,34,56,Direcția de Dezvoltare și Asistență Comunitară Arad,Calea Radnei (Bulevardul Iuliu Maniu) nr. 250,Arad,46.1761,21.3607
+32,2,ARAD,MUNICIPIUL ARAD,195,100,171,28,38,30,21,54,197,110,160,30,36,31,21,43,Grădinița PP nr. 7,Calea Radnei (Bulevardul Iuliu Maniu) nr. 143,Arad,46.1786,21.3525
+33,2,ARAD,MUNICIPIUL ARAD,189,55,125,24,36,35,20,59,193,59,120,25,38,34,24,53,Grădinița P.P. nr. 7,Calea Radnei (Bulevardul Iuliu Maniu) nr. 143,Arad,46.1786,21.3525
+34,2,ARAD,MUNICIPIUL ARAD,183,86,150,22,53,37,16,47,183,86,142,21,57,40,23,47,Grădinița cu Program Prelungit „Prichindel” Arad,Str. Fabius nr. 8,Arad,46.1809,21.346
+35,2,ARAD,MUNICIPIUL ARAD,119,53,136,20,31,37,14,45,120,65,138,18,29,43,12,27,Școala Gimnazială „Aron Cotruș” Arad (fosta Școală Generală nr. 13),Str. Ardealului nr. 8,Arad,46.1865,21.3301
+36,2,ARAD,MUNICIPIUL ARAD,197,76,179,21,54,33,21,65,203,78,182,20,56,37,21,48,Școala Gimnazială „Aron Cotruș” Arad (fosta Școală Generală nr. 13),Str. Petru Rareș nr. 20,Arad,46.1902,21.331
+37,2,ARAD,MUNICIPIUL ARAD,155,68,127,20,17,27,30,44,161,69,126,18,17,33,27,35,Școala Gimnazială „Aron Cotruș” Arad (fosta Școală Generală nr. 13),Str. Petru Rareș nr. 21,Arad,46.1938,21.3318
+38,2,ARAD,MUNICIPIUL ARAD,182,75,131,24,62,27,13,40,182,79,131,25,64,32,11,26,Școala Gimnazială „Aron Cotruș” Arad (fosta Școală Generală nr. 13),Str. Petru Rareș nr. 21,Arad,46.1938,21.3318
+39,2,ARAD,MUNICIPIUL ARAD,84,28,75,15,44,16,7,25,86,31,75,13,45,25,6,13,Școala Gimnazială „Aron Cotruș” Arad (fosta Școală Generală nr. 13),Str. Petru Rareș nr. 20,Arad,46.1902,21.331
+40,2,ARAD,MUNICIPIUL ARAD,157,62,139,28,40,28,24,49,157,60,133,29,40,33,26,51,Școala Gimnazială „Aron Cotruș” Arad (fosta Școală Generală nr. 13),Str. Petru Rareș nr. 21,Arad,46.1938,21.3318
+41,2,ARAD,MUNICIPIUL ARAD,164,72,164,24,34,20,24,52,167,73,157,25,38,25,24,44,Școala Gimnazială „Aron Cotruș” Arad (fosta Școală Generală nr. 13),Str. Petru Rareș nr. 21,Arad,46.1938,21.3318
+42,2,ARAD,MUNICIPIUL ARAD,125,95,144,15,74,22,21,51,134,96,142,13,75,23,18,44,Grădinița P.P. nr. 11 Arad,Str. Crasna nr. 44,Arad,46.1892,21.3345
+43,2,ARAD,MUNICIPIUL ARAD,151,13,98,4,15,10,14,34,147,15,91,8,16,13,15,31,Grădinița cu Program Normal nr. 9,Calea 6 Vânători (Str. 6 Vînători) nr. 34,Arad,46.2053,21.3208
+44,2,ARAD,MUNICIPIUL ARAD,154,44,149,9,18,18,13,39,156,43,152,11,18,19,15,31,Grădinița cu Program Săptămânal nr. 2 Arad,Str. Izoi (Str. Izei) nr. 1,Arad,46.1969,21.32
+45,2,ARAD,MUNICIPIUL ARAD,194,55,135,20,72,24,13,45,194,63,125,21,73,31,14,37,Școala Gimnazială „Aurel Vlaicu” Arad (fosta Școală Generală nr. 21),Str. Fulgerului nr. 2-4,Arad,46.1954,21.3027
+46,2,ARAD,MUNICIPIUL ARAD,184,74,112,16,43,26,23,53,185,79,108,16,42,36,23,38,Școala Gimnazială „Aurel Vlaicu” Arad (fosta Școală Generală nr. 21),Str. Fulgerului nr. 2-4,Arad,46.1954,21.3027
+47,2,ARAD,MUNICIPIUL ARAD,187,63,119,21,54,32,11,66,191,69,121,20,61,27,12,51,Școala Gimnazială „Aurel Vlaicu” Arad (fosta Școală Generală nr. 21),Str. Fulgerului nr. 2-4,Arad,46.1954,21.3027
+48,2,ARAD,MUNICIPIUL ARAD,222,58,129,41,76,29,24,74,221,65,129,35,84,35,27,58,Școala Gimnazială „Nicolae Bălcescu” (fosta Școală Generală nr. 11),Str. Poetului nr. 85/A,Arad,46.2023,21.2976
+49,2,ARAD,MUNICIPIUL ARAD,151,66,150,18,53,25,18,39,151,64,143,21,61,27,18,35,Școala Gimnazială „Nicolae Bălcescu” (fosta Școală Generală nr. 11),Str. Poetului nr. 85/A,Arad,46.2023,21.2976
+50,2,ARAD,MUNICIPIUL ARAD,149,26,139,10,26,16,19,42,163,27,133,12,28,16,18,31,Școala Gimnazială „Nicolae Bălcescu” (fosta Școală Generală nr. 11),Str. Poetului nr. 85/A,Arad,46.2023,21.2976
+51,2,ARAD,MUNICIPIUL ARAD,230,71,197,25,63,37,32,84,247,84,186,27,61,42,32,60,Grădinița cu Program Prelungit „Palatul Fermecat” Arad,Str. Ștefan Luchian,Arad,46.2018,21.2965
+52,2,ARAD,MUNICIPIUL ARAD,210,71,127,27,51,26,17,52,213,78,124,24,53,26,25,43,Grădinița cu Program Prelungit „Palatul Fermecat” Arad,Str. Ștefan Luchian,Arad,46.2018,21.2965
+53,2,ARAD,MUNICIPIUL ARAD,187,65,135,23,46,26,16,45,196,68,128,23,43,28,20,39,Centrul de Vârstnici,Calea Aurel Vlaicu nr. 227,Arad,46.2013,21.2892
+54,2,ARAD,MUNICIPIUL ARAD,158,91,210,31,110,25,6,56,171,94,206,28,113,29,10,42,Grădinița P.N. nr. 8,Str. Poetului nr. 72,Arad,46.2064,21.2942
+55,2,ARAD,MUNICIPIUL ARAD,114,56,193,18,72,14,14,64,124,56,198,20,76,21,13,29,Grădinița P.P. nr. 8 Arad,Str. Anton Pann nr. 30-32,Arad,46.213,21.2712
+56,2,ARAD,MUNICIPIUL ARAD,78,38,106,5,61,7,3,25,87,40,111,3,63,7,2,11,Școala Gimnazială „Frații Neumann” (fosta Școală Generală nr. 10),Str. Grădinarilor nr. 1-15,Arad,46.2034,21.2825
+57,2,ARAD,MUNICIPIUL ARAD,157,33,104,14,105,14,10,48,164,37,100,18,105,23,8,30,Școala Gimnazială „Frații Neumann” (fosta Școală Generală nr. 10),Str. Grădinarilor nr. 1-15,Arad,46.2034,21.2825
+58,2,ARAD,MUNICIPIUL ARAD,152,42,157,35,55,15,21,46,157,47,148,34,56,19,17,37,Liceul cu Program Sportiv (fosta Școală Generală nr. 9),Str. Independenței nr. 3,Arad,46.1924,21.2859
+59,2,ARAD,MUNICIPIUL ARAD,107,34,121,13,12,16,11,28,112,33,114,20,12,14,8,24,Liceul cu Program Sportiv (fosta Școală Generală nr. 9),Str. Independenței nr. 3,Arad,46.1924,21.2859
+60,2,ARAD,MUNICIPIUL ARAD,121,21,186,6,43,20,12,34,114,28,179,12,40,28,14,26,Liceul cu Program Sportiv (fosta Școală Generală nr. 9),Str. Independenței nr. 3,Arad,46.1924,21.2859
+61,2,ARAD,MUNICIPIUL ARAD,100,33,151,29,35,10,6,27,99,32,150,25,38,14,9,24,Liceul cu Program Sportiv (fosta Școală Generală nr. 9),Str. Independenței nr. 3,Arad,46.1924,21.2859
+62,2,ARAD,MUNICIPIUL ARAD,120,30,150,24,39,9,16,39,122,35,146,25,38,13,15,31,Liceul cu Program Sportiv (fosta Școală Generală nr. 9),Nr. 3,Arad,46.1902,21.2895
+63,2,ARAD,MUNICIPIUL ARAD,196,49,162,19,64,21,15,42,203,51,154,20,66,23,19,40,Grădinița cu Program Prelungit „Grădinița Prieteniei” Arad,Str. Predeal nr. FN,Arad,46.1993,21.2919
+64,2,ARAD,MUNICIPIUL ARAD,170,43,161,14,37,17,11,43,181,44,144,21,35,19,14,33,Grădinița cu Program Prelungit „Grădinița Prieteniei” Arad,Str. Predeal nr. FN,Arad,46.1993,21.2919
+65,2,ARAD,MUNICIPIUL ARAD,159,53,141,24,56,23,12,48,163,55,137,28,56,25,15,42,Colegiul Tehnic de Construcții și Protecția Mediului (fosta Școală Generală nr. 6),Str. Hațeg nr. 3,Arad,46.1976,21.2951
+66,2,ARAD,MUNICIPIUL ARAD,231,63,154,16,27,32,24,53,231,70,152,18,26,31,29,48,Colegiul Tehnic de Construcții și Protecția Mediului (fosta Școală Generală nr. 6),Str. Hațeg nr. 3,Arad,46.1976,21.2951
+67,2,ARAD,MUNICIPIUL ARAD,208,63,135,29,52,36,8,45,220,70,128,29,54,35,9,35,Grădinița cu Program Prelungit „Furnicuța” Arad,Str. Constantin Brâncuși (Str. Ural),Arad,46.1942,21.2987
+68,2,ARAD,MUNICIPIUL ARAD,233,58,130,14,72,26,22,63,235,53,136,18,75,24,22,54,Grădinița cu Program Prelungit „Furnicuța” Arad,Str. Constantin Brâncuși (Str. Ural),Arad,46.1942,21.2987
+69,2,ARAD,MUNICIPIUL ARAD,202,58,115,19,36,25,11,39,203,63,105,26,39,27,16,33,Școala Gimnazială „Avram Iancu” (fosta Școală Generală nr. 18),Str. Vasile Conta nr. 2B,Arad,46.1921,21.304
+70,2,ARAD,MUNICIPIUL ARAD,202,60,153,20,58,37,21,65,212,75,146,18,61,49,15,34,Școala Gimnazială „Avram Iancu” (fosta Școală Generală nr. 18),Str. Vasile Conta nr. 2B,Arad,46.1921,21.304
+71,2,ARAD,MUNICIPIUL ARAD,131,35,161,21,38,18,16,42,137,35,154,25,40,23,12,35,Colegiul Tehnic de Construcții și Protecția Mediului,Str. Ioan Flueraș (Str. Ioan Fluieraș) nr. 10C,Arad,46.1893,21.3017
+72,2,ARAD,MUNICIPIUL ARAD,125,38,130,25,37,15,6,40,123,46,122,27,37,18,13,40,Colegiul Tehnic de Construcții și Protecția Mediului,Str. Ioan Flueraș (Str. Ioan Fluieraș) nr. 10,Arad,46.1893,21.3017
+73,2,ARAD,MUNICIPIUL ARAD,102,10,58,9,8,6,7,35,103,11,57,15,9,5,6,25,Școala Gimnazială „Ilarion Felea” (fosta Școală Generală nr. 8),Str. Preot Dr. Ilarion Felea (Str. Prof. dr. Felea Ilarion) nr. 7-13,Arad,46.1887,21.2999
+74,2,ARAD,MUNICIPIUL ARAD,131,52,86,10,35,22,19,48,141,52,83,9,34,22,18,44,"Agenția Națională de Administrare Fiscală, fosta Direcție Vamală",Str. Frații Neumann (Colonia UTA) nr. 10,Arad,46.1937,21.3099
+75,2,ARAD,MUNICIPIUL ARAD,110,74,97,12,29,25,7,27,105,78,91,13,32,29,11,22,"Agenția Națională de Administrare Fiscală, fosta Direcție Vamală",Str. Frații Neumann (Colonia UTA) nr. 10,Arad,46.1937,21.3099
+76,2,ARAD,MUNICIPIUL ARAD,136,31,163,13,49,24,15,42,134,35,159,17,54,24,16,37,Grădinița P.N. nr. 12 Arad,"Str. Rodnei nr. 3-5, Bloc 5",Arad,46.1817,21.2925
+77,2,ARAD,MUNICIPIUL ARAD,130,49,113,14,23,12,10,30,133,55,108,18,24,16,6,19,Grădinița P.N. nr. 12 Arad,"Str. Rodnei nr. 3-5, Bloc 5",Arad,46.1817,21.2925
+78,2,ARAD,MUNICIPIUL ARAD,145,50,175,20,37,24,7,35,144,51,181,15,37,24,9,33,Centru Pentru Acordarea Ajutoarelor Bănești Pentru Încălzirea Locuințelor,"Str. Rodnei nr. 3-5, Bloc 5",Arad,46.1818,21.2926
+79,2,ARAD,MUNICIPIUL ARAD,119,110,153,23,77,40,13,42,128,114,139,26,77,49,12,34,Școala Gimnazială „Iosif Moldovan” (fosta Școală Generală nr. 3),Str. Episcop Roman Ciorogariu (Str. Gheorghe Hălmăgeanu) nr. 18-22,Arad,46.1804,21.3
+80,2,ARAD,MUNICIPIUL ARAD,132,61,131,22,33,23,6,31,132,64,125,19,30,29,11,32,Școala Gimnazială „Iosif Moldovan” (fosta Școală Generală nr. 3),Str. Condurașilor nr. 48-50,Arad,46.1804,21.3
+81,2,ARAD,MUNICIPIUL ARAD,158,67,136,16,17,23,11,47,163,66,128,21,20,25,16,40,Școala Gimnazială „Iosif Moldovan” (fosta Școală Generală nr. 3),Str. Condurașilor nr. 48-50,Arad,46.1804,21.3
+82,2,ARAD,MUNICIPIUL ARAD,127,61,130,11,15,16,14,50,129,61,125,14,18,22,14,42,Școala Gimnazială „Iosif Moldovan” (fosta Școală Generală nr. 3),Str. Condurașilor nr. 48-50,Arad,46.1804,21.3
+83,2,ARAD,MUNICIPIUL ARAD,120,78,88,15,112,30,19,53,132,74,86,17,109,29,21,53,Școala Gimnazială „Iosif Moldovan” (fosta Școală Generală nr. 3),Str. Oituz nr. 108-114,Arad,46.1738,21.3012
+84,2,ARAD,MUNICIPIUL ARAD,141,85,143,52,84,27,29,59,148,85,143,49,84,34,23,45,Școala Gimnazială „Iosif Moldovan” (fosta Școala Generală nr. 3),Str. Oituz nr. 108-114,Arad,46.1738,21.3012
+85,2,ARAD,MUNICIPIUL ARAD,194,55,178,25,45,18,8,57,204,54,176,24,45,18,10,49,Căminul Social,"Str. Condurașilor , Bloc 61B",Arad,46.1659,21.2913
+86,2,ARAD,MUNICIPIUL ARAD,99,32,114,13,47,20,7,33,106,34,103,15,46,22,9,31,Grădinița cu Program Prelungit „Elefănțelul Alfa” Arad,Str. Condurașilor nr. 13,Arad,46.1663,21.3
+87,2,ARAD,MUNICIPIUL ARAD,170,43,116,23,23,21,15,45,169,51,117,20,22,28,16,38,Grădinița cu Program Prelungit „Elefănțelul Alfa” Arad,Str. Condurașilor nr. 13,Arad,46.1663,21.3
+88,2,ARAD,MUNICIPIUL ARAD,51,2,30,5,2,3,2,12,49,2,30,6,2,2,2,13,Stațiunea de Cercetare - Dezvoltare Pentru Creșterea Bovinelor Arad,Calea Bodrogului nr. FN,Arad,46.1758,21.2371
+89,2,ARAD,MUNICIPIUL ARAD,99,46,91,20,61,21,9,42,106,56,96,21,60,20,10,23,Liceul Tehnologic de Transporturi Auto „Henr. Coandă”,Str. Mărășești nr. 34,Arad,46.1789,21.311
+90,2,ARAD,MUNICIPIUL ARAD,142,76,114,11,96,39,12,49,152,72,116,11,96,43,14,37,Școala Gimnazială „Mihai Eminescu” (fosta Școală Generală nr. 1),Str. Episcopiei (Str. 7 Noiembrie) nr. 40-42,Arad,46.174,21.3105
+91,2,ARAD,MUNICIPIUL ARAD,120,78,134,20,92,28,16,74,135,84,120,26,99,30,13,51,Colegiul Tehnologic de Industrie Alimentară Arad,Str. Lucian Blaga (Str. Miron Constantinescu) nr. 15,Arad,46.1738,21.3139
+92,2,ARAD,MUNICIPIUL ARAD,96,53,86,20,34,14,17,48,101,48,81,21,36,23,15,41,Colegiul Tehnologic de Industrie Alimentară Arad,Str. Lucian Blaga (Str. Miron Constantinescu) nr. 15,Arad,46.1738,21.3139
+93,2,ARAD,MUNICIPIUL ARAD,125,52,81,24,93,21,15,46,123,48,77,23,93,33,11,41,Colegiul „Csiky Gergely”,Str. Vârful cu Dor nr. 22,Arad,46.1711,21.3069
+94,2,ARAD,MUNICIPIUL ARAD,65,13,38,11,43,13,3,27,69,16,34,11,42,12,7,24,Liceul Tehnologic „Francisc Neumann”,Str. Sava Tekelia (Str. Agrișelor) nr. 1,Arad,46.1671,21.3141
+95,2,ARAD,MUNICIPIUL ARAD,112,36,106,14,66,35,9,46,110,51,101,14,71,38,14,37,Liceul Tehnologic „Francisc Neumann”,Str. Sava Tekelia (Str. Agrișelor) nr. 1,Arad,46.1671,21.3141
+96,2,ARAD,MUNICIPIUL ARAD,92,36,95,21,58,33,11,57,104,39,96,21,61,38,10,37,Liceul Tehnologic „Francisc Neumann”,Str. Sava Tekelia (Str. Agrișelor) nr. 1,Arad,46.1671,21.3141
+97,2,ARAD,MUNICIPIUL ARAD,122,49,117,10,59,22,14,61,130,57,113,14,61,30,11,35,"Primăria Municipiului Arad, Direcția Venituri",Str. Mucius Scaevola nr. 9-11,Arad,46.1642,21.3204
+98,2,ARAD,MUNICIPIUL ARAD,129,76,98,25,49,35,15,40,130,76,97,27,52,38,15,32,Colegiul Tehnic „Aurel Vlaicu”,Bulevardul Decebal (Bulevardul Armata Poporului) nr. 31A,Arad,46.1695,21.3193
+99,2,ARAD,MUNICIPIUL ARAD,135,69,114,15,53,31,18,43,148,74,106,16,54,32,17,29,Liceul Tehnologic „Francisc Neumann” (Internat),Str. Labirint nr. 6,Arad,46.162,21.3256
+100,2,ARAD,MUNICIPIUL ARAD,153,65,132,10,41,38,14,51,158,66,143,13,43,39,13,32,Grădinița P.P. nr. 14 Arad,Str. Patria nr. 2-6,Arad,46.1639,21.3213
+101,2,ARAD,MUNICIPIUL ARAD,54,18,42,10,18,2,6,13,59,20,42,10,17,7,2,4,Grădinița P.N. nr. 13 Arad,Str. Memorandului (Str. Memorandumului) nr. 2,Arad,46.1584,21.3224
+102,2,ARAD,MUNICIPIUL ARAD,65,66,105,14,19,16,5,24,70,66,105,13,17,16,8,22,Patinoarul Municipal Arad,Str. Radu de la Afumați nr. FN,Arad,46.1686,21.3266
+103,2,ARAD,MUNICIPIUL ARAD,173,117,184,29,62,45,19,75,171,123,177,29,65,64,22,52,Liceul Teoretic „Adam M. Guttenbrunn” (fosta Școală Generală nr. 20),Str. Posada nr. 19,Arad,46.1549,21.3177
+104,2,ARAD,MUNICIPIUL ARAD,84,22,104,5,15,23,6,23,84,27,98,7,15,32,4,14,Imobil fosta Grădiniță P.N. nr. 25,Str. Câmpia Turzii (Str. Cîmpia Turzii) nr. 43,Arad,46.1543,21.301
+105,2,ARAD,MUNICIPIUL ARAD,85,49,131,14,16,24,7,30,91,51,123,15,15,29,10,23,"Liceul Teoretic „Adam M. Guttenbrunn”, Clasele I-VIII",Calea Timișorii (Str. Marx Karl) nr. 67,Arad,46.1513,21.3221
+106,2,ARAD,MUNICIPIUL ARAD,172,64,161,21,15,17,9,44,172,64,156,22,15,25,12,40,Grădinița P.P. nr. 3 Arad,Calea Timișorii (Str. Marx Karl) nr. 94,Arad,46.1484,21.3212
+107,2,ARAD,MUNICIPIUL ARAD,101,46,110,19,16,20,11,51,102,59,105,20,16,24,15,34,Liceul Teoretic „Adam M. Guttenbrunn”,Calea Timișorii (Str. Marx Karl) nr. 67,Arad,46.1513,21.3221
+108,2,ARAD,MUNICIPIUL ARAD,143,65,139,30,36,31,14,59,143,65,150,30,37,38,12,40,Liceul Tehnologic „Iuliu Moldovan” (Fost Grup Școlar Forestier),Calea Timișorii (Str. Marx Karl) nr. 29-31,Arad,46.155,21.3223
+109,2,ARAD,MUNICIPIUL ARAD,87,45,99,15,29,14,17,39,96,52,95,15,29,17,13,27,Grădinița P.N. nr. 26 Arad,Str. Adam M. Guttenbrunn (Calea Adam Muller Guttenbrun) nr. 114,Arad,46.1475,21.3288
+110,2,ARAD,MUNICIPIUL ARAD,95,21,86,12,14,18,10,27,99,26,81,10,16,21,12,24,Grădinița P.N. nr. 26 Arad,Str. Adam M. Guttenbrunn (Calea Adam Muller Guttenbrun) nr. 114,Arad,46.1475,21.3288
+111,2,ARAD,MUNICIPIUL ARAD,139,29,118,11,48,15,11,37,140,34,111,11,50,19,10,25,Școala Gimnazială „Adam Nicolae” (fosta Școală Generală nr. 7),Str. Steagului nr. 25-27,Arad,46.1405,21.3437
+112,2,ARAD,MUNICIPIUL ARAD,126,40,130,6,25,15,20,61,119,43,128,10,26,24,27,47,Școala Gimnazială „Adam Nicolae” (fosta Școală Generală nr. 7),Str. Steagului nr. 25-27,Arad,46.1405,21.3437
+113,2,ARAD,MUNICIPIUL ARAD,165,48,157,16,36,38,18,52,156,45,158,17,35,63,16,40,Școala Gimnazială „Adam Nicolae” (fosta Școală Generală nr. 7),Str. Steagului nr. 25-27,Arad,46.1405,21.3437
+114,2,ARAD,MUNICIPIUL ARAD,10,2,10,4,3,3,0,3,10,2,9,3,3,4,2,5,Câmpul Dumbrava Roșie,Str. Dumbrava (Str. Dumbrava Roșie) (D) nr. 2,Arad,46.2042,21.2351
+115,2,ARAD,MUNICIPIUL ARAD,13,0,51,3,1,1,0,1,14,1,48,2,1,1,0,3,Câmpul Albinelor,Nr. FN,Arad,46.1872,21.1903
+184,2,ARAD,ARCHIŞ,89,4,25,15,0,18,2,5,90,4,18,21,0,17,5,6,Primăria Comunei Archiș,Nr. 97,Archiș,46.4772,22.0536
+394,2,ARAD,TÎRNOVA,88,2,114,7,2,1,4,15,84,3,115,4,3,2,3,11,Căminul Cultural Arăneag,Nr. 143,Arăneag,46.2543,21.7772
+413,2,ARAD,VÎRFURILE,63,9,92,19,0,15,4,10,68,10,90,20,0,14,4,9,Școala Generală Avram Iancu,Nr. 269,Avram Iancu,46.3362,22.4853
+190,2,ARAD,BATA,19,0,33,4,0,2,2,4,21,0,31,4,0,3,2,3,Căminul Cultural Bacăul de Mijloc,Nr. 14,Bacău de Mijloc,45.9769,22.0971
+403,2,ARAD,VĂRĂDIA DE MUREŞ,49,4,8,1,2,3,1,3,50,4,7,1,2,3,1,2,Căminul Cultural Baia,Nr. 156A,Baia,46.092,22.1726
+323,2,ARAD,PĂULIŞ,50,1,27,2,4,2,2,6,48,2,26,3,4,3,1,5,Centrul Local de Informare Turistică Barațca,,Barațca,46.1074,21.6324
+188,2,ARAD,BATA,46,1,107,3,2,22,5,12,51,0,104,3,1,26,5,15,Primăria Comunei Bata,Nr. 166,Bata,46.0169,22.0402
+192,2,ARAD,BELIU,453,17,219,26,1,20,18,42,438,25,220,38,1,14,28,33,Primăria Comunei Beliu,Nr. 632,Beliu,46.4907,21.9853
+236,2,ARAD,CONOP,41,6,40,2,1,4,2,3,41,6,39,3,1,5,1,2,Școala Primară Belotinț,Nr. 210,Belotinț,46.0786,21.942
+194,2,ARAD,BELIU,39,1,23,1,0,1,1,2,41,0,22,2,0,0,2,2,Căminul Cultural Benești,Nr. 69,Benești,46.5299,22.0016
+182,2,ARAD,APATEU,114,1,91,14,0,31,6,13,113,1,92,15,0,33,4,14,Școala Primară Berechiu,Nr. 594,Berechiu,46.6355,21.8411
+227,2,ARAD,BUTENI,29,1,24,23,1,1,6,9,30,1,23,22,1,1,7,10,Căminul Cultural Berindia,Nr. 11,Berindia,46.3206,22.158
+198,2,ARAD,BIRCHIŞ,98,1,88,17,1,5,3,7,124,1,78,12,1,2,2,6,Căminul Cultural Birchiș,Nr. 162,Birchiș,45.9644,22.1693
+195,2,ARAD,BELIU,13,0,13,2,0,0,2,5,13,0,12,4,0,0,2,4,Căminul Cultural Bochia,Nr. 8,Bochia,46.5441,22.0055
+213,2,ARAD,BOCSIG,289,13,52,22,1,34,17,36,272,12,58,51,0,29,15,32,Căminul Cultural Bocsig,Nr. 566,Bocsig,46.4221,21.9408
+214,2,ARAD,BOCSIG,84,1,18,6,4,6,2,6,84,1,19,8,4,5,2,4,Școala Primară Bocsig Cartier,Nr. 913,Bocsig,46.4414,21.9666
+427,2,ARAD,ZĂDĂRENI,45,3,42,8,3,2,6,16,42,4,42,10,4,3,5,14,Căminul Cultural Bodrogu Nou nr. 68,Nr. 68,Bodrogu Nou,46.1279,21.1976
+276,2,ARAD,GURAHONŢ,100,1,99,8,1,5,4,16,98,5,106,8,2,5,4,7,Căminul Cultural Bonțești,Nr. 242,Bonțești,46.2747,22.3031
+296,2,ARAD,HĂŞMAŞ,44,4,48,11,1,2,7,13,32,2,24,32,0,6,22,27,Căminul Cultural Botfei,Nr. 97A,Botfei,46.5465,22.0615
+217,2,ARAD,BRAZII,23,0,11,13,0,2,1,2,23,0,13,13,0,2,1,1,Primăria Comunei Brazii,Nr. 26,Brazii,46.2412,22.3346
+284,2,ARAD,HĂLMAGIU,54,1,41,5,0,6,4,9,58,3,36,6,0,5,4,9,Școala Generală,Nr. 54,Brusturi,46.2667,22.5944
+400,2,ARAD,USUSĂU,7,2,10,0,1,2,0,3,7,3,9,0,1,2,0,2,Grădinița cu Program Normal Bruznic,Nr. 143,Bruznic,45.9817,21.8916
+220,2,ARAD,BRAZII,14,1,18,1,1,2,3,4,16,1,18,1,0,2,3,3,Căminul Cultural Buceava,Nr. 82,Buceava-Șoimuș,46.2181,22.3228
+221,2,ARAD,BRAZII,10,0,30,1,1,1,0,2,9,0,31,2,1,1,1,2,Căminul Cultural Șoimuș,Nr. 69,Buceava-Șoimuș,46.2048,22.3387
+252,2,ARAD,DEZNA,50,1,5,9,1,3,3,6,50,2,6,9,1,4,2,8,Căminul Cultural Buhani,Nr. 37A,Buhani,46.4061,22.2044
+191,2,ARAD,BATA,19,0,32,4,0,2,1,4,19,0,32,3,0,2,1,5,Căminul Cultural Bulci,Nr. 26,Bulci,46.0038,22.1047
+223,2,ARAD,BUTENI,86,21,86,52,0,3,11,16,82,20,80,61,0,4,10,14,Primăria Comunei Buteni,Nr. 78,Buteni,46.3279,22.1214
+224,2,ARAD,BUTENI,105,7,112,50,4,5,9,31,104,10,112,46,4,3,13,30,Căminul Cultural Buteni,Nr. 1,Buteni,46.3281,22.1209
+201,2,ARAD,BÎRSA,133,11,195,20,1,5,7,18,134,12,196,23,2,4,8,13,Grădinița PN Bîrsa,Nr. 122A,Bârsa,46.3814,22.0711
+205,2,ARAD,BÎRZAVA,208,3,69,13,2,7,5,15,220,6,69,6,2,7,4,11,Primăria Comunei Bîrzava,Nr. 314,Bârzava,46.1063,21.9923
+186,2,ARAD,ARCHIŞ,40,0,15,6,1,1,2,4,40,0,15,7,0,4,1,3,Grădinița cu Program Normal Bîrzești,Nr. 29,Bârzești,46.4851,22.1311
+283,2,ARAD,HĂLMAGIU,64,3,48,2,1,5,3,9,66,3,52,2,1,5,2,4,Căminul Cultural Bănești,Nr. 51,Bănești,46.2889,22.6007
+211,2,ARAD,BÎRZAVA,15,0,4,2,0,2,2,3,18,0,3,1,0,2,2,2,Școala Generală Bătuța,Nr. 9,Bătuța,46.0515,22.0513
+168,2,ARAD,ORAŞ SÂNTANA,100,2,120,9,1,9,11,22,95,7,120,9,1,11,11,20,Căminul Cultural Caporal Alexa nr. 195,Nr. 195,Caporal Alexa,46.338,21.5843
+230,2,ARAD,CERMEI,209,7,195,37,13,22,7,28,210,9,202,42,11,23,10,20,Primăria Comunei Cermei nr. 304,,Cermei,46.5471,21.8459
+237,2,ARAD,CONOP,61,1,37,8,0,1,5,8,60,1,34,9,1,1,3,8,Școala Primară Chelmac,Nr. 50,Chelmac,46.0815,21.8842
+372,2,ARAD,ŞICULA,93,1,26,14,0,7,2,6,97,0,26,16,0,7,3,5,Școala Gimnazială Chereluș,Nr. 197,Chereluș,46.4637,21.7035
+426,2,ARAD,ZĂBRANI,80,2,124,6,2,6,0,10,84,2,123,7,0,7,0,10,Grădinița Program Normal Chesinț,Nr. 521,Chesinț,46.0541,21.5754
+392,2,ARAD,TÎRNOVA,139,2,218,24,3,5,16,39,143,2,221,29,2,7,18,28,Căminul Cultural Chier,Nr. 143,Chier,46.3379,21.8198
+232,2,ARAD,CHISINDIA,87,8,188,6,0,5,9,21,95,7,189,5,0,7,10,16,Primăria Comunei Chisindia,Nr. 191A,Chisindia,46.294,22.0976
+116,2,ARAD,ORAŞ CHIŞINEU-CRIŞ,222,18,124,33,40,14,15,40,225,20,123,31,40,16,10,30,Liceul Teoretic „Mihai Veliciu”,Str. Primăverii nr. 3,Chișineu-Criș,46.5221,21.5122
+117,2,ARAD,ORAŞ CHIŞINEU-CRIŞ,180,12,67,15,32,17,9,20,175,12,72,11,30,22,15,25,Liceul Teoretic „Mihai Veliciu”,Str. Primăverii nr. 3,Chișineu-Criș,46.5221,21.5122
+118,2,ARAD,ORAŞ CHIŞINEU-CRIŞ,234,34,137,27,73,20,16,51,235,37,132,36,74,22,14,38,Școala Generală Chișineu-Criș,Str. Oituz nr. 4,Chișineu-Criș,46.5224,21.5186
+119,2,ARAD,ORAŞ CHIŞINEU-CRIŞ,187,17,96,6,220,8,4,27,185,20,96,7,216,11,6,23,Grădinița „Pădureni”,Str. Înfrățirii nr. 14,Chișineu-Criș,46.5143,21.5092
+243,2,ARAD,CRAIVA,130,3,110,32,0,9,12,23,118,2,146,32,0,8,3,5,Școala Primară Chișlaca,Nr. 382,Chișlaca,46.5547,21.9618
+416,2,ARAD,VLADIMIRESCU,104,31,98,9,1,10,8,28,108,26,104,7,1,10,8,31,Școala Gimnazială Cicir,Nr. 242,Cicir,46.1461,21.48
+177,2,ARAD,ALMAŞ,73,4,60,6,0,17,3,12,73,1,61,5,0,14,8,15,Căminul Cultural Cil,Nr. 183B,Cil,46.2831,22.263
+430,2,ARAD,ZĂRAND,99,5,193,87,1,30,91,122,95,6,195,112,0,27,72,96,Școala Gimnazială Cintei,Nr. 89,Cintei,46.4458,21.5626
+250,2,ARAD,CRAIVA,13,2,27,4,0,1,0,2,11,2,32,5,0,0,0,2,Școala Primară Ciuntești,Nr. 70,Ciuntești,46.6248,22.0409
+322,2,ARAD,PĂULIŞ,61,4,32,6,1,3,3,8,58,3,35,6,1,5,2,7,Căminul Cultural Cladova,Nr. 181,Cladova,46.1363,21.6529
+298,2,ARAD,HĂŞMAŞ,9,2,19,3,0,2,2,3,6,2,2,16,0,3,10,10,Căminul Cultural Clit,Nr. 34,Clit,46.5144,22.093
+294,2,ARAD,HĂŞMAŞ,12,2,34,11,0,3,2,4,15,1,14,26,0,3,9,10,Căminul Cultural Comănești,Nr. 61,Comănești,46.5096,22.0397
+235,2,ARAD,CONOP,88,6,63,5,1,43,5,11,84,6,68,6,1,47,2,8,Școala Gimnazială Conop,Nr. 3,Conop,46.1013,21.8781
+329,2,ARAD,PETRIŞ,25,1,19,6,0,1,1,4,25,3,15,7,0,1,1,4,Căminul Cultural Corbești,Nr. 46,Corbești,46.0762,22.3872
+247,2,ARAD,CRAIVA,33,1,29,7,1,1,0,0,33,1,32,5,1,1,1,1,Căminul Cultural Coroi,Nr. 35,Coroi,46.5898,21.9479
+240,2,ARAD,COVĂSINŢ,84,10,186,14,0,20,3,19,86,10,191,11,0,22,3,13,Cămin Cultural Covăsînț,Nr. 320B,Covăsinț,46.2021,21.6146
+241,2,ARAD,COVĂSINŢ,58,10,131,20,1,25,2,18,59,13,136,14,4,16,2,18,Primăria Comunei Covăsînț,Nr. 319,Covăsinț,46.2022,21.6149
+242,2,ARAD,CRAIVA,89,2,74,7,0,6,3,13,78,4,80,11,0,4,3,12,Primăria Comunei Craiva,Nr. 108,Craiva,46.58,21.9736
+257,2,ARAD,DIECI,101,0,23,3,0,17,1,9,105,0,20,4,1,16,5,7,Căminul Cultural Crocna,Nr. 44,Crocna,46.3259,22.293
+363,2,ARAD,ŞAGU,50,8,98,7,0,4,10,20,53,6,99,10,0,6,13,19,Școala Generală,Nr. 178,Cruceni,46.0683,21.3344
+225,2,ARAD,BUTENI,97,1,81,24,1,5,2,8,99,0,82,25,1,5,2,4,Clădirea Primăriei Buteni (fosta Primărie Cuied),Nr. 378,Cuied,46.337,22.0248
+121,2,ARAD,ORAŞ CURTICI,177,41,179,11,10,9,7,31,180,44,172,9,11,9,15,36,Casa de Cultură Curtici,Nr. 1,Curtici,46.3412,21.3084
+122,2,ARAD,ORAŞ CURTICI,148,28,158,15,10,9,7,21,147,27,155,15,10,6,10,24,Grădinița cu Program Prelungit „Grădinița Veseliei”,Str. Revoluției (Str. 23 August) nr. 37G,Curtici,46.3409,21.3059
+123,2,ARAD,ORAŞ CURTICI,107,38,142,15,2,13,9,29,107,40,142,19,3,14,9,20,Liceul Tehnologic „Ion Creangă”,Str. Revoluției (Str. 23 August) nr. 37,Curtici,46.3407,21.3076
+124,2,ARAD,ORAŞ CURTICI,75,19,115,12,7,13,8,24,83,22,118,12,5,13,7,18,Liceul Tehnologic „Ion Creangă”,Str. Revoluției (Str. 23 August) nr. 37,Curtici,46.3407,21.3076
+125,2,ARAD,ORAŞ CURTICI,132,20,156,21,6,11,4,26,133,20,164,23,6,14,5,16,Liceul Tehnologic „Ion Creangă”,Str. Revoluției (Str. 23 August) nr. 37,Curtici,46.3407,21.3076
+270,2,ARAD,GHIOROC,88,13,251,16,2,10,14,33,98,18,241,16,2,12,10,23,Căminul Cultural Cuvin,Nr. 98,Cuvin,46.1684,21.5942
+266,2,ARAD,FELNAC,62,4,21,1,0,3,1,7,66,3,21,1,0,1,1,7,Școala Primară Călugăreni,Nr. 11,Călugăreni,46.1261,21.1815
+343,2,ARAD,SĂVÎRŞIN,80,0,18,3,1,2,2,7,83,0,19,3,0,2,2,5,Școala Primară Căprioara,Nr. 156/B,Căprioara,45.9814,22.278
+207,2,ARAD,BÎRZAVA,83,3,24,5,0,4,6,10,87,2,21,5,0,4,7,12,Centru Local de Informare și Promovare Turistică Căpruța,Nr. 96,Căpruța,46.0886,22.0258
+199,2,ARAD,BIRCHIŞ,92,3,72,59,0,15,5,22,113,3,74,36,0,16,6,18,Școala Gimnazială Căpălnaș,Nr. 208,Căpălnaș,45.9743,22.2209
+228,2,ARAD,CĂRAND,79,2,84,13,1,13,2,20,82,3,81,22,1,11,4,12,Căminul Cultural Cărand,Nr. 71A,Cărand,46.4449,22.0866
+251,2,ARAD,DEZNA,204,7,46,17,3,22,4,14,202,8,45,21,2,28,4,10,Căminul Cultural Dezna,Calea Lazului nr. 1,Dezna,46.4061,22.2442
+256,2,ARAD,DIECI,162,5,135,20,0,9,4,24,165,4,135,22,1,8,4,19,Căminul Cultural Dieci,Nr. 139 A,Dieci,46.3156,22.2469
+174,2,ARAD,ORAŞ SEBIŞ,15,2,25,10,1,3,2,9,17,2,26,10,1,3,1,7,Școala Primară Donceni,Nr. 67,Donceni,46.3915,22.1749
+398,2,ARAD,USUSĂU,41,2,21,5,1,3,0,4,46,3,20,3,1,3,1,4,Grădinița cu Program Normal Dorgoș,Nr. 31,Dorgoș,46.0503,21.835
+260,2,ARAD,DOROBANŢI,38,3,16,1,638,3,4,8,41,3,18,0,630,6,2,7,Cămin Cultural Dorobanți,Nr. 91,Dorobanți,46.3497,21.2433
+395,2,ARAD,TÎRNOVA,110,10,317,6,2,1,0,16,107,3,330,9,2,0,2,12,Căminul Cultural Drauț,Nr. 545,Drauț,46.2624,21.8113
+396,2,ARAD,TÎRNOVA,95,0,230,1,1,1,5,17,97,0,232,1,2,2,7,11,Căminul Cultural Dud,Nr. 344,Dud,46.2986,21.8562
+208,2,ARAD,BÎRZAVA,93,2,33,1,1,1,2,8,97,2,29,1,1,1,2,8,Căminul Cultural Dumbrăvița,Nr. 190,Dumbrăvița,46.0949,22.0803
+264,2,ARAD,FELNAC,278,17,102,3,0,3,11,55,290,19,119,5,0,7,9,19,Școala Gimnazială „Aurel Sebeșan” Felnac,Nr. 397,Felnac,46.1174,21.1487
+265,2,ARAD,FELNAC,319,11,60,9,3,0,5,29,331,14,60,7,3,1,5,17,Școala Gimnazială „Aurel Sebeșan” Felnac,Nr. 398,Felnac,46.1174,21.1487
+277,2,ARAD,GURAHONŢ,28,0,23,2,1,1,2,5,30,0,21,3,1,1,2,5,Căminul Cultural Feniș,Nr. 68,Feniș,46.2975,22.3322
+364,2,ARAD,ŞAGU,35,0,106,5,2,2,4,11,31,0,110,5,2,2,4,8,Școala Generală,Nr. 156,Firiteaz,46.0202,21.3712
+365,2,ARAD,ŞAGU,25,0,112,2,0,0,5,12,30,0,113,2,0,1,5,7,Școala Gimnazială,Nr. 157,Fiscut,46.0276,21.3924
+267,2,ARAD,FRUMUŞENI,133,14,184,15,6,11,12,33,144,18,177,19,7,8,11,31,Căminul Cultural Frumușeni,Nr. 379,Frumușeni,46.1018,21.4626
+261,2,ARAD,FÂNTÂNELE,159,22,131,51,31,11,5,27,157,23,119,71,34,11,7,22,Primăria Comunei Fîntînele,Nr. 115,Fântânele,46.1237,21.3808
+262,2,ARAD,FÂNTÂNELE,198,14,96,11,43,8,2,26,191,17,93,19,43,13,4,19,Școala Gimnazială Fîntînele,Nr. 126,Fântânele,46.1234,21.3837
+381,2,ARAD,ŞIRIA,144,24,225,19,17,10,8,39,156,26,234,17,16,11,7,30,Căminul Cultural Galșa,Nr. 136A,Galșa,46.2883,21.6515
+269,2,ARAD,GHIOROC,107,8,275,25,83,11,8,39,105,10,268,30,92,11,11,27,Primăria Comunei Ghioroc,Nr. 89,Ghioroc,46.1554,21.5933
+187,2,ARAD,ARCHIŞ,203,10,47,6,0,5,1,9,203,10,39,14,0,5,4,9,Școala Gimnazială Groșeni,Nr. 269,Groșeni,46.4983,22.112
+209,2,ARAD,BÎRZAVA,59,1,12,4,1,3,0,3,61,1,11,6,1,3,0,2,Școala Gimnazială Groșii Noi,Nr. 147,Groșii Noi,46.1197,22.1197
+272,2,ARAD,GRĂNICERI,82,3,202,9,3,4,9,35,85,3,215,8,3,5,7,21,Primăria Comunei Grăniceri,Nr. 10,Grăniceri,46.5199,21.3049
+337,2,ARAD,PLEŞCUŢA,38,1,52,4,0,7,0,9,37,0,58,2,0,8,0,6,Căminul Cultural Gura Văii,Nr. 5,Gura Văii,46.2927,22.3944
+274,2,ARAD,GURAHONŢ,157,11,177,14,3,9,8,20,155,10,184,12,4,9,12,20,Primăria Comunei Gurahonț,Str. Avram Iancu nr. 29,Gurahonț,46.2702,22.341
+275,2,ARAD,GURAHONŢ,168,8,126,7,0,11,8,23,164,9,127,8,0,7,10,22,Primăria Comunei Gurahonț,Str. Avram Iancu nr. 31,Gurahonț,46.2702,22.3409
+371,2,ARAD,ŞICULA,147,7,75,31,0,8,0,15,144,9,77,43,0,8,1,8,Școala Gimnazială Gurba,Nr. 385,Gurba,46.4678,21.7868
+203,2,ARAD,BÎRSA,21,0,20,7,1,1,0,1,22,0,20,7,1,1,0,1,Clădirea Comunei Bîrsa (fosta Școală cu Clasele I-IV Hodiș),Nr. 72,Hodiș,46.3581,22.0264
+278,2,ARAD,GURAHONŢ,61,1,36,11,1,14,1,3,60,1,33,9,1,19,2,6,Căminul Cultural Honțișor,Nr. 117,Honțișor,46.2558,22.3395
+421,2,ARAD,VLADIMIRESCU,115,22,90,24,1,24,9,33,118,21,93,20,2,29,10,26,Școala Gimnazială Horia,Nr. 253,Horia,46.2085,21.4607
+422,2,ARAD,VLADIMIRESCU,109,18,116,13,2,21,15,39,110,17,119,15,3,24,12,30,Clădire Taxe și Impozite Horia,Nr. 524,Horia,46.2071,21.4595
+366,2,ARAD,ŞAGU,15,0,46,3,0,1,7,12,15,0,48,3,0,1,8,13,Căminul Cultural Hunedoara Timișană,Nr. 11,Hunedoara Timișană,46.0311,21.3191
+282,2,ARAD,HĂLMAGIU,170,5,173,3,2,28,11,27,180,5,173,7,0,25,9,24,Primăria Comunei Hălmagiu,Str. Primăriei nr. 9,Hălmagiu,46.2669,22.5945
+289,2,ARAD,HĂLMĂGEL,70,12,104,9,0,10,6,11,74,11,100,10,0,11,4,8,Primăria Comunei Hălmăgel,Nr. 1,Hălmăgel,46.2695,22.6166
+293,2,ARAD,HĂŞMAŞ,57,6,149,16,3,11,3,8,52,1,31,119,3,8,32,38,Căminul Cultural Hășmaș,Nr. 216,Hășmaș,46.5056,22.0732
+218,2,ARAD,BRAZII,28,2,44,5,0,7,4,9,28,3,45,6,0,6,4,6,Căminul Cultural Iacobini,Nr. 108,Iacobini,46.2322,22.3385
+352,2,ARAD,SELEUŞ,23,4,64,52,0,0,1,6,23,4,64,56,0,0,0,5,Școala Primară Iermata,Nr. 14,Iermata,46.3854,21.7645
+433,2,ARAD,ZERIND,17,1,22,4,114,0,0,1,15,2,19,5,115,0,0,2,Școala Primară Iermata Neagra,Nr. 1,Iermata Neagră,46.6376,21.5018
+299,2,ARAD,IGNEŞTI,46,2,62,7,1,6,5,12,43,2,61,10,1,9,5,9,Căminul Cultural Ignești,Nr. 25,Ignești,46.4099,22.1677
+327,2,ARAD,PETRIŞ,29,3,35,5,0,3,1,4,33,3,30,4,0,3,1,4,Căminul Cultural Ilteu,Nr. 55,Ilteu,46.0153,22.36
+126,2,ARAD,ORAŞ INEU,280,23,200,27,15,34,18,42,220,26,219,70,13,30,23,41,Școala Gimnazială Ineu,Calea Republicii nr. 3,Ineu,46.4253,21.8344
+127,2,ARAD,ORAŞ INEU,164,21,302,51,22,13,13,35,142,17,306,84,24,11,11,31,Grădinița PN Ineu,Str. Horia nr. 11,Ineu,46.4236,21.8441
+128,2,ARAD,ORAŞ INEU,264,19,220,20,34,30,18,39,217,23,241,71,33,24,10,20,Liceul „Mihai Viteazul” Ineu,Calea Traian nr. 7,Ineu,46.4282,21.8392
+129,2,ARAD,ORAŞ INEU,190,22,272,45,11,23,12,44,153,20,283,87,10,13,15,44,Căminul Cultural din Cartierul Traian,Str. Mărășești nr. 19,Ineu,46.4392,21.836
+130,2,ARAD,ORAŞ INEU,262,19,200,27,21,21,16,33,217,22,210,74,21,22,15,25,Sala de Sport,Calea Republicii nr. 3,Ineu,46.4246,21.8338
+279,2,ARAD,GURAHONŢ,38,0,67,5,0,2,1,7,35,0,69,5,0,6,1,5,Căminul Cultural Iosaș,Nr. 50,Iosaș,46.2833,22.335
+303,2,ARAD,IRATOŞU,61,11,89,8,332,2,8,18,63,14,85,8,334,2,10,16,Consiliul Local Iratoșu,Nr. 1,Iratoșu,46.3184,21.206
+179,2,ARAD,ALMAŞ,29,2,15,3,0,8,2,11,28,3,14,3,0,7,2,13,Căminul Cultural Joia Mare,Nr. 79A,Joia Mare,46.3002,22.1729
+404,2,ARAD,VĂRĂDIA DE MUREŞ,85,2,33,14,0,1,9,21,93,2,28,12,0,3,9,20,Școala Primară Julița,Nr. 53,Julița,46.0382,22.1348
+212,2,ARAD,BÎRZAVA,52,2,18,10,0,1,3,8,53,3,16,8,0,2,2,11,Școala Generală Lalașinț,Nr. 123,Lalașinț,46.0706,22.0071
+255,2,ARAD,DEZNA,6,4,4,2,0,2,0,0,5,4,5,1,0,2,0,1,Căminul Cultural Laz,Nr. 22,Laz,46.37,22.248
+414,2,ARAD,VÎRFURILE,90,6,47,14,0,6,9,20,91,9,41,16,0,9,10,18,Cămin Cultural Lazuri,Nr. 38,Lazuri,46.3422,22.5594
+287,2,ARAD,HĂLMAGIU,40,1,10,18,0,1,1,4,39,0,11,21,0,1,1,3,Căminul Cultural Leasa,Nr. 46,Leasa,46.2737,22.5475
+132,2,ARAD,ORAŞ LIPOVA,202,16,68,13,3,6,5,16,203,14,70,18,3,8,5,8,Liceul Atanasie Marienescu,,Lipova,46.0833,21.6878
+133,2,ARAD,ORAŞ LIPOVA,194,11,97,31,8,7,6,18,192,13,99,32,11,10,6,15,Sediul Asociația Caritas Banat Sanctus Gerhardus Lipova,,Lipova,46.0844,21.6923
+134,2,ARAD,ORAŞ LIPOVA,204,29,108,16,7,13,6,27,213,30,106,17,7,14,7,19,Clădire Parohia Romano-Catolică Lipova,,Lipova,46.0896,21.6928
+135,2,ARAD,ORAŞ LIPOVA,241,11,104,17,4,7,5,12,228,9,118,16,5,9,8,12,Clădire Parohia Ortodoxă Lipova,,Lipova,46.0932,21.6981
+136,2,ARAD,ORAŞ LIPOVA,187,17,112,12,10,15,14,30,182,20,112,12,10,20,18,24,Centru Național de Informare și Promovare Turistică Lipova,,Lipova,46.0934,21.6951
+137,2,ARAD,ORAŞ LIPOVA,267,21,170,24,5,20,9,35,246,24,183,29,4,22,9,29,Liceul Sever Bocu (Grădinița P.P. Lipova),,Lipova,46.096,21.7014
+306,2,ARAD,LIVADA,203,77,157,12,14,20,14,53,218,71,156,13,16,22,13,37,Școala Gimnazială Livada,Nr. 62,Livada,46.2217,21.3863
+290,2,ARAD,HĂLMĂGEL,37,0,57,12,1,4,1,8,36,1,56,11,1,2,1,8,Școala Primară Luncșoara,Nr. 14/B,Luncșoara,46.3234,22.6269
+402,2,ARAD,VĂRĂDIA DE MUREŞ,50,3,26,27,0,2,1,3,52,2,25,24,0,1,2,6,Căminul Cultural Lupești,Nr. 117,Lupești,46.0698,22.2172
+308,2,ARAD,MACEA,203,25,287,15,5,19,11,35,197,26,293,18,5,18,15,27,Școala Gimnazială Pavel Covaci Macea,Nr. 528,Macea,46.3854,21.3122
+309,2,ARAD,MACEA,207,14,248,25,5,7,5,22,205,15,258,23,5,8,6,21,Școala Gimnazială Pavel Covaci Macea,Nr. 985,Macea,46.3754,21.3133
+410,2,ARAD,VINGA,18,2,19,2,285,4,1,9,20,3,21,1,289,4,2,4,Școala Generală Mailat,Nr. 608,Mailat,46.0413,21.1049
+238,2,ARAD,CONOP,69,2,99,2,8,3,1,7,70,4,99,2,9,3,1,8,Școala Primară Milova,Nr. 177,Milova,46.1059,21.8019
+300,2,ARAD,IGNEŞTI,15,0,29,2,2,1,2,6,15,1,27,2,2,1,2,7,Clădirea Fostei Școli Primare Minead,Nr. 12,Minead,46.4164,22.186
+271,2,ARAD,GHIOROC,55,23,111,9,7,13,8,17,59,27,109,8,6,11,7,15,Căminul Cultural Miniș,Nr. 165,Miniș,46.1384,21.6045
+387,2,ARAD,TAUŢ,21,2,18,22,0,1,1,5,22,0,19,22,0,2,2,3,Școala Primară Minișel,,Minișel,46.2577,21.9944
+390,2,ARAD,TAUŢ,18,0,16,0,0,4,1,3,19,1,15,0,0,5,2,2,Căminul Cultural Minișu de Sus,,Minișu de Sus,46.2818,22.0078
+312,2,ARAD,MIŞCA,155,5,58,22,8,7,6,20,157,8,59,21,7,4,8,16,Primăria Comunei Mișca,Nr. 116,Mișca,46.601,21.6049
+131,2,ARAD,ORAŞ INEU,88,1,111,11,8,5,1,8,77,1,107,20,6,6,2,16,Școala Gimnazială Mocrea,,Mocrea,46.3863,21.8221
+316,2,ARAD,MONEASA,221,16,107,24,2,5,7,22,232,21,92,26,2,7,9,20,Căminul Cultural Moneasa,Nr. 117,Moneasa,46.4582,22.2509
+206,2,ARAD,BÎRZAVA,84,2,11,3,0,2,0,3,84,4,13,3,0,2,0,0,Școala Generală Monoroștia,Nr. 99,Monoroștia,46.1025,22.0064
+353,2,ARAD,SELEUŞ,48,1,132,20,0,5,2,9,52,0,121,32,0,5,1,6,Căminul Cultural Moroda,Nr. 110,Moroda,46.37,21.7572
+183,2,ARAD,APATEU,41,0,35,1,2,34,4,12,40,0,32,2,3,34,7,15,Școala Generală Moțiori,Nr. 75,Moțiori,46.6163,21.8527
+348,2,ARAD,SECUSIGIU,52,5,85,5,9,6,0,8,56,7,81,6,9,6,2,5,Căminul Cultural Munar,Nr. 92,Munar,46.1029,21.0189
+415,2,ARAD,VLADIMIRESCU,115,31,135,20,7,10,14,39,116,33,132,28,7,12,12,27,Școala Gimnazială Mîndruloc,Nr. 267,Mândruloc,46.1462,21.4721
+215,2,ARAD,BOCSIG,56,1,6,28,0,7,3,13,53,1,8,32,0,6,4,9,Căminul Cultural Mînerău,Nr. 219,Mânerău,46.4158,21.9874
+382,2,ARAD,ŞIRIA,135,10,106,3,1,16,4,21,139,12,111,5,1,17,5,15,Căminul Cultural Mîsca,Nr. 1,Mâsca,46.2963,21.6708
+158,2,ARAD,ORAŞ PÎNCOTA,188,18,60,8,3,4,11,33,197,17,64,9,2,9,9,23,Școala Gimnazială Măderat,Nr. 336,Măderat,46.2958,21.7104
+222,2,ARAD,BRAZII,29,0,41,19,0,1,0,5,27,0,41,20,0,2,1,4,Căminul Cultural Mădrigești,Nr. 99,Mădrigești,46.2036,22.3048
+411,2,ARAD,VINGA,44,3,228,7,4,5,2,10,46,2,230,7,4,6,3,11,Școala Generală Mănăștur,,Mănăștur,46.0068,21.1344
+244,2,ARAD,CRAIVA,49,2,76,6,0,3,0,3,47,3,80,8,0,3,3,4,Școala Primară Mărăuș,Nr. 90/A,Mărăuș,46.595,22.0313
+120,2,ARAD,ORAŞ CHIŞINEU-CRIŞ,235,5,102,14,1,18,11,38,244,5,105,16,3,12,11,31,Școala Gimnazială Nădab,Nr. 313,Nadab,46.4832,21.5092
+389,2,ARAD,TAUŢ,112,3,63,16,0,4,1,17,111,4,69,15,1,4,1,13,Căminul Cultural Nadăș,,Nadăș,46.227,21.9533
+253,2,ARAD,DEZNA,32,2,11,2,1,1,0,1,34,2,10,2,1,1,0,0,Căminul Cultural Neagra,Nr. 29,Neagra,46.4346,22.2077
+185,2,ARAD,ARCHIŞ,71,0,24,4,4,5,0,6,71,0,22,3,4,5,1,6,Grădinița cu Program Normal Nermiș,Nr. 68,Nermiș,46.4723,22.0805
+423,2,ARAD,ZĂBRANI,95,5,80,4,1,8,6,19,103,6,81,3,2,10,4,11,Cămin Cultural,Nr. 146,Neudorf,46.0699,21.6185
+405,2,ARAD,VĂRĂDIA DE MUREŞ,36,2,20,6,1,7,7,14,41,3,21,4,1,7,8,9,Școala Primară „Nicolae Bălcescu”,Nr. 158,Nicolae Bălcescu,46.0333,22.092
+141,2,ARAD,ORAŞ NĂDLAC,73,11,104,17,13,52,5,172,90,31,162,21,19,95,6,20,"Liceul Teoretic „Jozef Gregor Tajovsky” Nădlac, Piața Unirii",Piața Unirii nr. 2,Nădlac,46.1691,20.7527
+142,2,ARAD,ORAŞ NĂDLAC,62,13,109,6,13,52,6,93,78,19,141,10,16,72,5,13,"Casa de Cultură Nădlac, Strada 1 Decembrie (Strada 23 August)",Str. 1 Decembrie (Str. 23 August) nr. 26,Nădlac,46.1645,20.7476
+143,2,ARAD,ORAŞ NĂDLAC,124,30,93,16,3,80,8,54,134,35,97,17,5,89,10,26,"Liceul Teoretic „Jozef Gregor Tajovsky” Nădlac, Strada 1 Decembrie (Strada 23 August)",Str. 1 Decembrie (Str. 23 August) nr. 9,Nădlac,46.1615,20.7481
+144,2,ARAD,ORAŞ NĂDLAC,55,12,67,13,9,47,3,170,89,21,115,18,15,101,7,20,"Pichet Grăniceri (Direcția Poliției de Frontieră Oradea), Strada Grănicerilor",Str. Grănicerilor nr. 10,Nădlac,46.1753,20.7415
+301,2,ARAD,IGNEŞTI,8,1,19,1,0,3,6,11,9,1,22,1,0,3,6,7,Căminul Cultural Nădălbești,Nr. 9,Nădălbești,46.4534,22.1923
+331,2,ARAD,PETRIŞ,15,1,23,8,0,1,0,5,15,1,17,18,0,0,0,3,Căminul Cultural Obîrșia,Nr. 47,Obârșia,46.1382,22.44
+239,2,ARAD,CONOP,52,6,83,3,1,4,8,13,58,8,81,3,1,2,8,11,Școala Primară Odvoș,Nr. 220,Odvoș,46.111,21.8194
+318,2,ARAD,OLARI,88,7,209,10,106,9,6,29,89,7,219,11,111,8,8,18,Primăria Comunei Olari,Nr. 315,Olari,46.3858,21.5439
+200,2,ARAD,BIRCHIŞ,32,4,36,20,0,3,1,9,40,3,37,15,1,2,2,4,Căminul Cultural Ostrov,Nr. 113,Ostrov,45.9725,22.1326
+145,2,ARAD,ORAŞ PECICA,119,11,250,12,12,32,12,37,129,12,248,13,12,29,16,34,Casa de Cultură „Doru Ioan Petescu”,Str. 2 nr. 66,Pecica,46.1658,21.0732
+146,2,ARAD,ORAŞ PECICA,165,29,231,31,18,24,22,48,160,32,236,29,22,28,25,44,Liceul Teoretic „Gheorghe Lazăr”,Str. 2 nr. 37,Pecica,46.1693,21.0804
+147,2,ARAD,ORAŞ PECICA,95,14,152,12,95,17,7,28,104,15,148,12,97,22,5,16,Clădire Privată (Cantina I.A.S),Str. 3 nr. 102,Pecica,46.1695,21.0581
+148,2,ARAD,ORAŞ PECICA,75,15,156,11,260,15,4,20,74,16,158,13,251,25,3,15,Primăria Orașului Pecica,Str. 2 nr. 150,Pecica,46.1596,21.0636
+149,2,ARAD,ORAŞ PECICA,61,8,148,18,309,6,1,22,65,8,152,17,317,10,1,12,Școala Primară 2 Pecica,Str. 401 nr. 128,Pecica,46.1671,21.0544
+150,2,ARAD,ORAŞ PECICA,109,10,122,11,119,5,5,20,106,9,122,8,120,5,7,18,Școala Primară 3 Pecica,Str. 1 nr. 220,Pecica,46.1705,21.0533
+151,2,ARAD,ORAŞ PECICA,157,23,287,22,4,9,18,46,153,24,289,22,5,14,21,40,Școala Primară 1 Pecica,Str. 304 nr. 45,Pecica,46.1648,21.0855
+324,2,ARAD,PEREGU MARE,50,4,35,11,25,6,3,113,70,10,55,14,45,24,2,20,Primăria Comunei Peregu Mare,Nr. 137,Peregu Mare,46.2353,20.9055
+325,2,ARAD,PEREGU MARE,14,2,15,2,316,9,4,13,18,3,17,5,315,11,3,6,Clădirea Primăriei din Satul Peregu Mic,Nr. 323,Peregu Mic,46.2483,20.9501
+280,2,ARAD,GURAHONŢ,45,4,59,3,0,8,3,6,40,4,62,6,0,6,4,12,Căminul Cultural Pescari,Nr. 151,Pescari,46.295,22.3094
+326,2,ARAD,PETRIŞ,46,5,68,5,3,4,5,14,51,7,68,2,1,4,5,11,Primăria Petriș,Nr. 253,Petriș,46.0417,22.3916
+332,2,ARAD,PILU,116,3,130,5,2,10,6,18,113,3,132,4,4,14,3,10,Primăria Comunei Pilu,Nr. 69,Pilu,46.5762,21.343
+334,2,ARAD,PLEŞCUŢA,44,2,61,7,0,3,0,9,44,1,60,5,0,3,2,11,Primăria Comunei Pleșcuța,Nr. 82,Pleșcuța,46.3038,22.4252
+288,2,ARAD,HĂLMAGIU,17,1,30,4,0,11,0,3,17,1,31,4,0,13,0,1,Școala Generală,Nr. 6,Poienari,46.2413,22.6012
+173,2,ARAD,ORAŞ SEBIŞ,39,6,103,7,0,3,3,16,47,7,97,8,0,2,3,12,Școala Primară Prunișor,Nr. 78,Prunișor,46.4202,22.1222
+154,2,ARAD,ORAŞ PÎNCOTA,170,17,78,13,7,5,8,25,173,21,82,13,7,4,6,17,Clădire „Bucuria Copiilor”,Bulevardul Tudor Vladimirescu nr. 22,Pâncota,46.3286,21.6903
+155,2,ARAD,ORAŞ PÎNCOTA,164,13,74,10,41,14,10,23,155,18,78,12,42,18,10,17,Liceul Teoretic Pîncota,,Pâncota,46.3245,21.6858
+156,2,ARAD,ORAŞ PÎNCOTA,156,22,79,18,19,10,7,20,150,20,84,23,21,10,5,17,Liceul Teoretic Pîncota,Str. Vasile Goldiș (Str. 23 August) nr. 67,Pâncota,46.3245,21.6858
+157,2,ARAD,ORAŞ PÎNCOTA,162,12,38,7,2,3,4,14,165,12,43,9,2,3,3,5,Grădinița PN Pîncota,Bulevardul Avram Iancu nr. 41,Pâncota,46.3347,21.6934
+339,2,ARAD,SĂVÎRŞIN,41,1,12,3,1,1,2,7,40,1,15,4,1,1,2,5,Școala Primară Pîrnești,Nr. 82/A,Pârnești,46.0721,22.241
+233,2,ARAD,CHISINDIA,87,0,65,3,0,6,4,10,84,1,67,4,0,4,5,10,Cămin Cultural Păiușeni,Nr. 93,Păiușeni,46.2478,22.0933
+226,2,ARAD,BUTENI,25,0,17,10,2,2,1,16,26,1,17,16,2,2,2,7,Căminul Cultural Păulian,,Păulian,46.3347,22.1555
+320,2,ARAD,PĂULIŞ,376,28,136,23,13,14,16,40,389,37,130,19,15,16,14,34,Primăria Comunei Păuliș,Nr. 1A,Păuliș,46.1119,21.5966
+139,2,ARAD,ORAŞ LIPOVA,159,22,118,14,2,8,5,15,161,20,128,10,2,8,3,10,Sediu Agenția de Plăți și Intervenție Pentru Agricultură Radna,,Radna,46.0992,21.6895
+140,2,ARAD,ORAŞ LIPOVA,197,18,83,23,7,12,10,21,190,21,79,23,5,14,13,26,Liceul Atanasie Marienescu,,Radna,46.0937,21.6851
+258,2,ARAD,DIECI,46,2,31,4,0,1,7,16,49,2,30,4,0,2,7,14,Căminul Cultural Revetiș,Nr. 69,Revetiș,46.3132,22.1927
+249,2,ARAD,CRAIVA,22,1,27,5,1,1,0,1,21,2,30,5,1,1,0,0,Școala Primară Rogoz de Beliu,Nr. 51,Rogoz de Beliu,46.6056,22.0027
+259,2,ARAD,DIECI,10,0,13,1,0,1,0,2,8,0,14,1,0,2,0,2,Căminul Cultural Roșia,Nr. 66,Roșia,46.3376,22.194
+330,2,ARAD,PETRIŞ,19,2,63,21,0,2,0,5,25,2,32,42,2,2,1,4,Căminul Cultural Roșia Nouă,Nr. 186,Roșia Nouă,46.1182,22.4055
+178,2,ARAD,ALMAŞ,77,3,46,4,0,32,3,10,72,3,41,4,0,37,5,13,Căminul Cultural Rădești,Nr. 128,Rădești,46.2715,22.2501
+317,2,ARAD,MONEASA,68,2,31,8,0,4,0,8,70,4,28,9,0,1,1,8,Școala Primară Rănușa,Nr. 98,Rănușa,46.4306,22.2534
+216,2,ARAD,BOCSIG,130,1,51,25,1,11,0,11,118,3,33,62,1,12,3,5,Școala Primară Răpsig,Nr. 46,Răpsig,46.4217,22.0203
+347,2,ARAD,SECUSIGIU,57,5,94,8,4,9,3,25,70,5,100,9,5,9,3,8,Clădirea Primăriei din Satu Mare,Nr. 200,Satu Mare,46.0675,20.9582
+313,2,ARAD,MIŞCA,12,4,5,3,303,3,1,8,17,3,6,3,306,3,0,3,Clădirea Primăriei din Satul Satu Nou,Nr. 318,Satu Nou,46.6228,21.6978
+169,2,ARAD,ORAŞ SEBIŞ,173,33,187,32,5,28,31,45,178,36,179,35,7,31,29,39,Universitatea de Vest „Vasile Goldiș” -Filiala Sebiș,Bulevardul Victoriei nr. 7D,Sebiș,46.3719,22.1305
+170,2,ARAD,ORAŞ SEBIŞ,193,33,180,27,6,29,14,43,202,35,175,37,7,32,12,35,Liceul Orașului Sebiș,Bulevardul Victoriei nr. 7,Sebiș,46.3714,22.128
+171,2,ARAD,ORAŞ SEBIŞ,170,27,139,37,24,22,12,29,176,26,128,42,25,20,16,26,Școala Gimnazială Sebiș,Bulevardul Victoriei nr. 7,Sebiș,46.3717,22.1288
+172,2,ARAD,ORAŞ SEBIŞ,35,4,53,7,1,10,3,8,38,4,47,12,1,9,4,9,Școala Primară Prăjești,Str. Codrului nr. 2,Sebiș,46.3783,22.1496
+196,2,ARAD,BELIU,26,3,12,2,0,6,4,7,26,2,17,1,0,4,4,5,Căminul Cultural Secaci,,Secaci,46.5727,22.0383
+219,2,ARAD,BRAZII,50,1,110,11,0,7,2,7,53,3,108,14,0,7,2,5,Căminul Cultural Secaș,Nr. 114,Secaș,46.2287,22.3021
+345,2,ARAD,SECUSIGIU,93,10,70,11,5,6,2,15,97,12,69,10,3,8,5,8,Primăria Comunei Secusigiu,Nr. 275,Secusigiu,46.0875,20.9817
+346,2,ARAD,SECUSIGIU,82,4,69,10,1,5,1,10,88,4,69,11,0,6,2,6,Școala Gimnazială Secusigiu,Nr. 334,Secusigiu,46.0873,20.9833
+153,2,ARAD,ORAŞ PECICA,8,2,77,4,6,13,2,8,8,2,80,2,7,12,4,8,Școala Primară Sederhat,Nr. 80,Sederhat,46.214,21.1553
+351,2,ARAD,SELEUŞ,146,10,438,21,0,25,13,23,144,5,429,43,0,25,13,22,Primăria Comunei Seleuș,Nr. 200,Seleuș,46.3837,21.7069
+328,2,ARAD,PETRIŞ,12,1,19,2,1,2,6,11,16,1,16,3,1,2,5,8,Căminul Cultural Seliște,Nr. 60,Seliște,46.0293,22.3878
+229,2,ARAD,CĂRAND,74,7,55,36,1,4,2,7,76,8,53,40,1,5,4,7,Căminul Cultural Seliștea,Nr. 134,Seliștea,46.464,22.032
+354,2,ARAD,SEMLAC,122,15,275,17,6,15,11,44,120,14,276,21,7,21,20,42,Școala Gimnazială „Dr. Ioan Danicico”,Nr. 648,Semlac,46.1113,20.9307
+355,2,ARAD,SEMLAC,139,6,257,12,3,11,4,38,143,6,277,12,4,15,5,20,Școala Gimnazială Semlac,Nr. 737,Semlac,46.1124,20.9271
+356,2,ARAD,SINTEA MARE,118,8,72,34,4,16,39,66,128,8,80,30,8,16,30,47,Grădinița Sintea Mare,Nr. 281,Sintea Mare,46.5187,21.6054
+319,2,ARAD,OLARI,15,2,100,4,1,6,0,2,17,0,105,2,1,6,0,2,Școala Primară Sintea Mică,,Sintea Mică,46.4135,21.6034
+254,2,ARAD,DEZNA,35,6,7,2,0,12,1,2,34,7,5,2,0,13,3,4,Imobil Proprietatea Primariei Comunei Dezna Amplasat În Satul Slatina de Criș,Nr. 16,Slatina de Criș,46.4314,22.2276
+210,2,ARAD,BÎRZAVA,38,0,14,3,1,2,0,3,37,0,17,3,1,2,0,2,Cămin Cultural Slatina de Mureș,Nr. 12,Slatina de Mureș,46.155,22.1821
+359,2,ARAD,SOCODOR,151,5,321,8,7,5,4,23,158,6,322,10,6,6,4,15,Primăria Comunei Socodor,Nr. 1,Socodor,46.5101,21.4397
+360,2,ARAD,SOCODOR,153,7,280,2,2,6,3,9,148,3,289,2,2,8,4,8,Căminul Cultural Socodor,Nr. 337,Socodor,46.5101,21.439
+406,2,ARAD,VĂRĂDIA DE MUREŞ,36,1,15,9,0,3,0,2,37,1,16,8,0,3,1,2,Școala Primară Stejar,Nr. 33,Stejar,46.0341,22.1542
+245,2,ARAD,CRAIVA,20,0,39,6,0,1,2,4,18,0,41,9,0,1,1,3,Școala Primară Stoinești,Nr. 84/A,Stoinești,46.6096,22.0223
+246,2,ARAD,CRAIVA,74,4,80,4,0,3,1,5,70,1,86,3,1,4,0,3,Școala Primară Susag,Nr. 56,Susag,46.6143,21.9199
+302,2,ARAD,IGNEŞTI,13,1,59,1,1,15,2,7,12,1,59,1,1,15,1,8,Școala Primară Susani,Nr. 86,Susani,46.4541,22.1768
+321,2,ARAD,PĂULIŞ,257,20,193,26,2,9,48,62,261,22,188,28,1,8,47,61,Căminul Cultural Sîmbăteni,Nr. 95,Sâmbăteni,46.1407,21.5262
+307,2,ARAD,LIVADA,164,42,91,29,63,14,13,44,173,42,89,30,67,18,8,30,Școala Gimnazială Sînleani,Nr. 120,Sânleani,46.2123,21.3854
+310,2,ARAD,MACEA,78,6,118,8,3,4,4,21,79,7,118,11,4,4,5,12,Școala Gimnazială Pavel Covaci Macea,Nr. 370-371,Sânmartin,46.4165,21.3468
+311,2,ARAD,MACEA,50,8,140,2,3,1,2,18,52,7,145,4,3,2,3,13,Școala Gimnazială Pavel Covaci Macea,Nr. 370-371,Sânmartin,46.4157,21.3459
+386,2,ARAD,ŞOFRONEA,41,10,19,7,190,1,4,11,35,9,21,10,195,1,5,8,Școala Primară Sînpaul,Nr. 252,Sânpaul,46.258,21.2656
+349,2,ARAD,SECUSIGIU,105,5,43,15,20,8,5,12,97,4,46,18,21,11,6,11,Remiza P.S.I Sînpetru German,Nr. 25,Sânpetru German,46.1142,21.0474
+350,2,ARAD,SECUSIGIU,69,6,70,21,8,5,2,14,74,7,71,18,9,5,2,12,Școala Gimnazială Sînpetru German,Nr. 14,Sânpetru German,46.114,21.0479
+159,2,ARAD,ORAŞ SÂNTANA,96,10,94,5,2,11,9,22,95,10,101,6,2,11,9,17,Școala Gimnazială „Sfânta Ana” Sântana - Secția Germană nr. 56,Nr. 56,Sântana,46.3412,21.4962
+160,2,ARAD,ORAŞ SÂNTANA,126,20,159,11,0,20,10,40,135,21,164,15,2,20,9,18,Liceul Tehnologic Sântana nr. 6,Nr. 6,Sântana,46.3376,21.5035
+161,2,ARAD,ORAŞ SÂNTANA,76,15,74,6,2,18,8,27,77,19,79,7,2,17,9,17,Clubul Copiilor și Elevilor nr. 31,Nr. 31,Sântana,46.3415,21.4976
+162,2,ARAD,ORAŞ SÂNTANA,160,18,133,6,2,20,8,27,158,19,134,8,2,23,10,21,Școala Gimnazială Sântana nr. 36,Nr. 36,Sântana,46.3543,21.5043
+163,2,ARAD,ORAŞ SÂNTANA,113,7,110,14,3,15,11,33,118,10,115,14,3,13,11,20,Grădinița PP nr. 2 Sântana nr. 37,Nr. 37,Sântana,46.3537,21.5038
+164,2,ARAD,ORAŞ SÂNTANA,79,14,62,8,2,6,6,27,88,12,69,12,2,6,8,18,Grădinița PP nr. 2 Sântana nr. 178,Nr. 178,Sântana,46.352,21.512
+165,2,ARAD,ORAŞ SÂNTANA,55,5,55,1,0,8,6,25,63,5,55,3,0,10,6,14,Biblioteca Orașului Sântana nr. 117,Nr. 117,Sântana,46.3502,21.5088
+166,2,ARAD,ORAŞ SÂNTANA,145,18,166,15,6,18,8,20,153,21,165,14,6,15,8,18,Cămin Cultural Satu Nou nr. 1 Bis,Nr. 1 BIS,Sântana,46.3419,21.5169
+167,2,ARAD,ORAŞ SÂNTANA,125,18,115,2,1,13,9,19,130,17,116,1,1,14,8,10,Grădinița PP nr. 1 Sântana nr. 1 Bis,Nr. 1 BIS,Sântana,46.3415,21.5172
+291,2,ARAD,HĂLMĂGEL,21,0,29,4,0,3,0,4,19,1,30,5,0,3,0,2,Căminul Cultural Sîrbi,Nr. 18/B,Sârbi,46.2897,22.6405
+175,2,ARAD,ORAŞ SEBIŞ,13,2,41,3,1,4,1,8,14,2,39,3,1,3,1,9,Căminul Cultural Sălăjeni,Nr. 34,Sălăjeni,46.3672,22.1855
+338,2,ARAD,SĂVÎRŞIN,359,12,111,23,3,24,17,46,410,7,94,20,3,34,8,19,Primăria Comunei Săvârșin,Nr. 37,Săvârșin,46.0139,22.2347
+388,2,ARAD,TAUŢ,106,5,151,5,1,10,6,19,106,4,155,4,3,13,8,15,Căminul Cultural Tauț,,Tauț,46.2934,21.9112
+341,2,ARAD,SĂVÎRŞIN,30,1,15,3,1,4,2,8,33,0,14,3,1,3,4,10,Căminul Cultural Temeșești,Nr. 51/A,Temeșești,46.0503,22.2714
+285,2,ARAD,HĂLMAGIU,42,0,36,2,0,6,1,2,47,0,37,2,0,3,0,1,Școala Generală,Nr. 45,Tisa,46.2605,22.5548
+263,2,ARAD,FÂNTÂNELE,271,4,59,10,2,5,4,23,284,4,56,13,1,4,3,17,Căminul Cultural Tisa Nouă,Nr. 247,Tisa Nouă,46.0826,21.3726
+342,2,ARAD,SĂVÎRŞIN,79,4,41,6,1,4,4,9,89,4,37,5,2,3,4,7,Școala Primară Toc,Nr. 88/A,Toc,46.0159,22.3169
+340,2,ARAD,SĂVÎRŞIN,38,0,9,2,1,2,3,9,42,1,9,0,1,1,1,5,Școala Primară Troaș,Nr. 28/C,Troaș,46.0931,22.2969
+152,2,ARAD,ORAŞ PECICA,65,9,159,16,60,6,10,23,71,12,156,18,60,8,10,16,Clădirea Primăriei Orașului Pecica (fosta Primărie Turnu),Nr. 245,Turnu,46.2566,21.1269
+391,2,ARAD,TÎRNOVA,344,15,390,13,0,17,1,28,343,18,388,11,1,13,6,24,Căminul Cultural Tîrnova,Nr. 488,Târnova,46.3184,21.7944
+292,2,ARAD,HĂLMĂGEL,26,1,33,2,0,4,4,6,30,1,31,1,0,5,2,4,Școala Primară Tîrnăvița,Nr. 21/B,Târnăvița,46.255,22.6497
+193,2,ARAD,BELIU,108,4,82,6,0,5,2,14,111,4,86,8,0,5,1,7,Căminul Cultural Tăgădău,Nr. 197,Tăgădău,46.5081,21.9992
+335,2,ARAD,PLEŞCUŢA,70,3,48,8,0,3,6,10,73,5,39,13,0,4,5,10,Căminul Cultural Tălagiu,Nr. 62A,Tălagiu,46.2795,22.4791
+297,2,ARAD,HĂŞMAŞ,41,2,54,11,2,3,3,7,49,1,26,29,1,3,10,14,Căminul Cultural Urvișu de Beliu,Nr. FN,Urvișu de Beliu,46.5252,22.0853
+397,2,ARAD,USUSĂU,88,3,42,9,0,5,1,10,86,4,42,8,0,8,3,11,Școala Gimnazială „Teodor Păcățian” Ususău,Nr. 312,Ususău,46.0712,21.8141
+344,2,ARAD,SĂVÎRŞIN,33,4,13,4,0,2,1,8,34,4,12,4,0,2,1,8,Cămin Cultural Valea Mare,Nr. 68/A,Valea Mare,45.99,22.2367
+304,2,ARAD,IRATOŞU,23,8,14,2,62,2,4,6,24,10,16,1,57,2,4,6,Școala Gimnazială Variașu Mare,Nr. 117,Variașu Mare,46.2757,21.1709
+305,2,ARAD,IRATOŞU,11,2,6,5,15,0,5,6,10,0,5,4,16,0,8,10,Școala Gimnazială Variașu Mic,Nr. 47,Variașu Mic,46.2906,21.1781
+197,2,ARAD,BELIU,174,2,39,5,0,2,5,20,173,2,43,7,0,1,6,18,Școala Primară Vasile Goldiș,Nr. 59,Vasile Goldiș,46.5242,21.9355
+407,2,ARAD,VINGA,90,33,103,18,15,18,6,50,106,37,117,16,17,16,10,18,Primăria Comunei Vinga,Nr. 27,Vinga,46.0087,21.2018
+408,2,ARAD,VINGA,99,21,136,11,3,17,8,50,115,23,147,13,5,19,8,17,Școala Gimnazială nr. 2 Vinga,Nr. 415,Vinga,46.0166,21.2149
+409,2,ARAD,VINGA,101,18,180,16,16,15,10,61,109,21,195,18,19,19,9,24,Grădinița PN Vinga,Nr. 523,Vinga,46.0116,21.2055
+417,2,ARAD,VLADIMIRESCU,127,54,179,35,13,17,15,57,134,61,166,39,14,21,14,44,Căminul Cultural Vladimirescu,Str. Ștefan cel Mare nr. 5,Vladimirescu,46.1623,21.4048
+418,2,ARAD,VLADIMIRESCU,141,54,204,20,14,17,9,38,132,56,200,23,13,24,13,38,Primăria Comunei Vladimirescu,Str. Revoluției nr. 4,Vladimirescu,46.1569,21.4024
+419,2,ARAD,VLADIMIRESCU,152,79,211,19,13,20,21,66,161,77,210,25,12,20,21,50,Centru de Zi Vârstnici Vladimirescu,Str. G-ral Vasile Milea nr. 64,Vladimirescu,46.1647,21.4039
+420,2,ARAD,VLADIMIRESCU,135,25,193,13,3,15,8,55,133,30,189,19,3,14,12,51,Școala Gimnazială Vladimirescu,Str. Gării nr. 59,Vladimirescu,46.1703,21.4081
+204,2,ARAD,BÎRSA,29,1,39,1,1,4,3,6,28,1,38,4,1,4,3,6,Clădirea Comunei Bîrsa (fosta Școală cu Clasele I-IV Voivodeni),Nr. 56,Voivodeni,46.3988,22.0294
+314,2,ARAD,MIŞCA,65,3,13,3,197,10,2,18,63,2,17,8,195,8,3,13,Clădirea Primăriei din Satul Vînători,Nr. 539,Vânători,46.6261,21.6697
+412,2,ARAD,VÎRFURILE,122,9,91,11,0,19,18,28,120,9,92,10,0,21,17,28,Primăria Comunei Vîrfurile,Str. Primăriei nr. 286,Vârfurile,46.3104,22.5212
+401,2,ARAD,VĂRĂDIA DE MUREŞ,106,9,35,9,0,15,3,13,116,9,31,9,0,14,3,10,Căminul Cultural Vărădia de Mureș,Nr. 138,Vărădia de Mureș,46.0065,22.1579
+333,2,ARAD,PILU,59,9,76,4,2,13,8,21,62,11,77,2,2,14,8,15,Școala Gimnazială Vărșand,Nr. 30A,Vărșand,46.6192,21.3455
+234,2,ARAD,CHISINDIA,9,1,13,2,0,1,1,1,9,0,13,4,0,0,1,2,Cămin Cultural Văsoaia,Nr. 64,Văsoaia,46.2446,22.0623
+432,2,ARAD,ZERIND,34,2,39,3,151,2,0,9,35,2,37,3,156,2,1,7,Primăria Comunei Zerind,Nr. 1,Zerind,46.6252,21.5173
+315,2,ARAD,MIŞCA,1,1,2,3,74,1,0,3,2,1,2,4,70,1,0,3,Școala Primară din Satul Zerindu Mic,Nr. 33,Zerindu Mic,46.633,21.633
+436,2,ARAD,ZIMANDU NOU,93,34,73,11,140,19,15,26,95,30,74,10,142,22,14,24,Căminul Cultural Zimandcuz,Nr. 246,Zimandcuz,46.2559,21.382
+434,2,ARAD,ZIMANDU NOU,61,42,85,22,261,19,3,19,68,44,82,22,266,15,2,11,Căminul Cultural Zimandu Nou,Nr. 339,Zimandu Nou,46.2809,21.3985
+437,2,ARAD,ZIMANDU NOU,13,1,49,9,2,2,1,7,12,1,52,8,2,2,1,7,Școala Gimnazială Zimandu Nou (Utviniș),,Zimandu Nou,46.2736,21.3461
+281,2,ARAD,GURAHONŢ,67,1,149,0,1,4,1,11,69,1,148,0,0,4,2,10,Căminul Cultural Zimbru,Nr. 125,Zimbru,46.3325,22.3845
+399,2,ARAD,USUSĂU,47,3,21,7,1,2,0,3,44,3,23,5,1,4,0,5,Școala Primară Zăbalț,Nr. 37,Zăbalț,46.0074,21.9243
+424,2,ARAD,ZĂBRANI,107,7,149,15,0,8,4,11,110,9,149,15,0,8,3,6,Cămin Cultural Zăbrani,Nr. 648,Zăbrani,46.0695,21.5527
+425,2,ARAD,ZĂBRANI,106,10,102,10,1,11,4,14,109,9,107,10,2,11,3,7,Grădinița cu Program Normal Zăbrani,Nr. 113-114,Zăbrani,46.0727,21.5557
+428,2,ARAD,ZĂDĂRENI,113,7,192,8,4,8,10,35,117,6,195,8,4,9,9,26,Sala de Ședințe a Consiliului Local Zădăreni,Nr. 28,Zădăreni,46.1354,21.2155
+429,2,ARAD,ZĂDĂRENI,118,23,234,12,2,8,2,15,119,24,230,14,2,7,2,16,Sediu S.V.S.U. Zădăreni,Nr. 28,Zădăreni,46.1355,21.2155
+431,2,ARAD,ZĂRAND,57,8,94,66,0,145,51,77,78,9,112,87,2,102,53,70,Primăria Comunei Zărand,Nr. 512,Zărand,46.4066,21.643
+361,2,ARAD,ŞAGU,91,18,284,9,4,10,7,29,98,18,288,12,4,12,7,15,Primăria Comunei Șagu,Nr. 219,Șagu,46.0618,21.2857
+362,2,ARAD,ŞAGU,42,12,141,6,1,10,0,13,46,11,144,9,0,10,0,4,Primăria Comunei Șagu,Nr. 219,Șagu,46.0618,21.2857
+367,2,ARAD,ŞEITIN,138,6,134,13,3,38,4,25,139,7,140,9,4,41,5,17,Primăria Comunei Șeitin,Str. Revoluției nr. 47,Șeitin,46.1084,20.8434
+368,2,ARAD,ŞEITIN,155,10,167,7,1,23,4,13,158,9,166,5,2,29,6,11,Școala Gimnazială „Ștefan Bozian” Șeitin,Str. Revoluției nr. 40,Șeitin,46.1082,20.8432
+369,2,ARAD,ŞEPREUŞ,131,5,200,9,2,15,4,19,134,5,207,6,2,15,6,12,Școala Gimnazială „Mihai Veliciu”,Str. Calea Moneasa nr. 37,Șepreuș,46.5706,21.7342
+370,2,ARAD,ŞEPREUŞ,100,0,195,13,1,14,8,21,103,1,200,10,2,13,9,16,Școala Gimnazială „Mihai Veliciu”,Str. Calea Moneasa nr. 37,Șepreuș,46.5706,21.7342
+248,2,ARAD,CRAIVA,36,3,29,10,1,2,2,6,34,1,32,11,1,3,5,6,Școala Primară Șiad,Nr. 136,Șiad,46.6049,21.9875
+273,2,ARAD,GRĂNICERI,114,0,87,3,1,5,9,23,126,0,83,3,1,5,7,15,Școala Gimnazială Șiclău,Nr. 137,Șiclău,46.4932,21.3654
+373,2,ARAD,ŞICULA,200,8,65,32,4,11,11,33,201,13,60,47,2,11,9,18,Căminul Cultural Șicula,Nr. 271,Șicula,46.4343,21.7577
+374,2,ARAD,ŞICULA,144,1,36,35,0,5,3,13,142,2,36,44,0,3,4,8,Școala Gimnazială Șicula,Nr. 271,Șicula,46.4338,21.7577
+375,2,ARAD,ŞILINDIA,49,10,168,8,14,3,0,11,52,9,170,13,12,5,1,7,Căminul Cultural Șilindia,Nr. 192,Șilindia,46.3389,21.912
+376,2,ARAD,ŞIMAND,172,12,79,8,14,33,7,28,173,11,84,10,14,40,5,14,Școala Gimnazială Șimand,Nr. 1202,Șimand,46.4243,21.4498
+377,2,ARAD,ŞIMAND,220,5,87,6,1,16,12,40,235,5,85,8,1,18,14,25,Școala Primară Șimand,Nr. 697,Șimand,46.4311,21.4581
+378,2,ARAD,ŞIMAND,100,1,30,6,7,13,4,10,105,1,29,6,7,11,4,9,Școala Gimnazială Șimand - Grădinița cu Program Normal nr. 2,Nr. 350,Șimand,46.4099,21.4506
+379,2,ARAD,ŞIRIA,123,13,155,11,3,25,8,26,114,13,161,15,2,30,11,25,Căminul Cultural Șiria,Nr. 162,Șiria,46.2667,21.638
+380,2,ARAD,ŞIRIA,107,19,120,14,5,6,10,29,124,18,121,14,8,5,9,18,Căminul Cultural Șiria,Nr. 162,Șiria,46.2667,21.638
+383,2,ARAD,ŞIRIA,91,4,144,10,2,20,1,14,98,3,145,6,2,23,1,13,Clădire Administrativă (fosta Școala Gimnazială),Nr. 286,Șiria,46.2584,21.6329
+384,2,ARAD,ŞIŞTAROVĂŢ,94,1,45,8,0,1,2,9,95,2,44,9,0,2,1,2,Primăria Comunei Șiștarovăț,Nr. 116,Șiștarovăț,46.0102,21.7412
+385,2,ARAD,ŞOFRONEA,225,25,212,34,62,22,10,40,231,28,209,42,62,28,10,32,Căminul Cultural Șofronea,Nr. 223,Șofronea,46.2781,21.312
+138,2,ARAD,ORAŞ LIPOVA,68,4,78,7,1,5,4,15,71,4,80,6,1,5,6,12,Clădire Parohia Ortodoxă Șoimoș,,Șoimoș,46.106,21.7174
+231,2,ARAD,CERMEI,90,2,82,12,2,4,5,14,91,2,79,19,1,4,6,12,Punct de Lucru al Primăriei nr. 339,,Șomoșcheș,46.5751,21.8458
+189,2,ARAD,BATA,26,1,68,3,0,2,6,14,27,1,68,4,0,3,7,11,Camin Cultural Țela,Nr. 136 /A,Țela,45.986,22.069
+358,2,ARAD,SINTEA MARE,67,9,59,10,108,6,6,32,66,9,59,11,109,5,9,32,Clădirea Administrativă a Primăriei Sintea Mare,Nr. 346,Țipar,46.4758,21.6334
+286,2,ARAD,HĂLMAGIU,50,0,55,4,0,8,3,5,54,0,53,3,0,7,1,5,Cămin Cultural Țărmure,Nr. 28,Țărmure,46.2478,22.5666

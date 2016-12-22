@@ -2,18 +2,15 @@
 
 import d3 from 'd3';
 import Promise from 'bluebird';
-import { forEach } from 'lodash';
-import fetch from 'isomorphic-fetch';
-import csv from 'csv';
-import json2csv from 'json2csv';
+import { sortBy, find, forEach } from 'lodash';
 import fs from 'fs';
+import Papa from 'papaparse';
 
 import * as util from './src/app/helpers';
-import xlsx from 'node-xlsx';
 
-const getCsv = (csvSource) => {
+const getResultsCsv = (csvSource) => {
   return new Promise((resolve, reject) => {
-    fs.readFile(csvSource, 'utf8', (err, data) => {
+    fs.readFile(csvSource, { encoding: 'utf8' }, (err, data) => {
       if (err) {
         console.log(`Could not load ${csvSource}`, err);
         reject(err);
@@ -23,157 +20,150 @@ const getCsv = (csvSource) => {
   })
   .then(csvString => {
     return new Promise((resolve, reject) => {
-      csv.parse(
-        csvString,
-        {
-          columns: true
-        },
-        (err, data) => {
-          if (err) { console.log('Could not parse csvString', err); reject(err); }
-          resolve(data);
-        }
-      );
-    });
-  });
-}
-
-const getExcel = (file) => {
-  return new Promise((resolve, reject) => {
-    let parsedData = xlsx.parse(fs.readFileSync(file));
-    let points = [];
-    parsedData[0].data.forEach((line, i) => {
-      if (!line[5])
-        return;
-      points.push({
-        id: line[4],
-        name: line[5],
-        address: line[6],
-        city: line[7]
-      });
-    });
-    resolve(points);
-  });
-}
-
-
-export function parseData(apiKey, dataPromise, csvDest, county) {
-
-  dataPromise
-  .then(points => {
-    let request = {
-      method: 'GET',
-      headers: new Headers({
-        'Accept': 'application/json'
-      })
-    };
-
-    let getGeocodeUrl = (address, apiKey)  => {
-      return 'https://maps.googleapis.com/maps/api/geocode/json?address=' + encodeURIComponent(address) + '&key=' + apiKey;
-    };
-
-    let failLog = [];
-    let fails = 0;
-    let processPoint = function(point, resolve) {
-
-      /* Loc. CLUJ-NAPOCA,  Calea Moţilor (Strada Moţilor) (D) , Nr. 78-80 */
-      let address = point.address.replace(/\(.*?\)/g, "").split(',').map(point => point.trim());
-      // => [ 'Loc. CLUJ-NAPOCA', 'Calea Moţilor', 'Nr. 78-80' ]
-
-      let city = util.toTitleCase(address.shift().replace('Loc. ', ''))
-      let computeGeoAddress = (address) => {
-        return address
-          .concat([city, county])
-          .join(' ').split('Nr.')
-          .map(i => i.trim()).join(' ').trim();
-      }
-
-      // First try
-      // ['Calea Moților', 'Nr. 78-80'] => ['Calea Moților', 'Nr. 78-80']
-      // ['Nr. 78-80'] => ['Liceul de pe Moților']
-      let geoaddress = computeGeoAddress(address.length > 1 ? [address] : [point.name]);
-      // If first try results in error, try the backup
-      // ['Calea Moților', 'Nr. 78-80'] => ['Liceul de pe Moților']
-      // ['Nr. 78-80'] => []
-      let backupGeoAddress = computeGeoAddress(address.length > 1 ? [point.name] : []);
-
-      address = address
-        .concat([city, county])
-        // => [ 'Calea Moţilor', 'Nr. 78-80', 'Cluj-napoca', 'Cluj County' ]
-        .map(i => i.trim()).join(' ').trim();
-        // => Calea Moţilor 78-80 Cluj-napoca Cluj County
-
-      const fetchGeocode = (geoaddr, backup = false) => {
-        return fetch(getGeocodeUrl(geoaddr[0], apiKey), request)
-        .then(response => response.json())
-        .then(json => {
-          if ( json.results.length == 0 ) {
-            failLog.push({...point, geoaddress, backupGeoAddress, secondTry: backup});
-            if (backup) {
-              fails++;
-              console.log(`2nd: Failed for ${point.name}: ${geoaddr}`, json, geoaddr);
-              return false;
-            }
-            console.log(`1st: Failed for ${point.name}: ${geoaddr}`, json, geoaddr);
-            return fetchGeocode(geoaddr[1], true);
-          } else {
-            // console.log(`${!backup ? '1st' : '2nd'}: ${geoaddr}.`);
-            //console.log('Worked for ' + point.name);
-            resolve({
-              ...point,
-              city,
-              address,
-              psd: Math.floor((Math.random() * 10000) + 1),
-              usr: Math.floor((Math.random() * 10000) + 1),
-              pnl: Math.floor((Math.random() * 10000) + 1),
-              pmp: Math.floor((Math.random() * 10000) + 1),
-              udmr: Math.floor((Math.random() * 10000) + 1),
-              alde: Math.floor((Math.random() * 10000) + 1),
-              ...json.results[0].geometry.location
-            });
-          }
-        });
+      const getPartyColumn = (p) => csvSource.includes('cdep') ? `${p}_cdep` : `${p}_senat`;
+      const addOthers = (rowResults) => {
+        const ignoredFields = [
+          '1',
+          'Tara',
+          'Țara',
+          'Numar circumscriptie',
+          'Denumire circumscriptie',
+          'Numar sectie votare',
+          'Localitate',
+          'SIRUTA',
+          'a',
+          'a1',
+          'a2',
+          'a3',
+          'b',
+          'b1',
+          'b2',
+          'b3',
+          'c',
+          'd',
+          'e',
+          'f',
+          'g',
+          'PARTIDUL NAȚIONAL LIBERAL',
+          'PARTIDUL ALIANȚA LIBERALILOR ȘI DEMOCRAȚILOR',
+          'UNIUNEA SALVAȚI ROMÂNIA',
+          'UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA',
+          'PARTIDUL SOCIAL DEMOCRAT',
+          'PARTIDUL MIȘCAREA POPULARĂ',
+          'Data trimiterii Procesului-verbal'
+        ];
+        return rowResults.meta.fields.reduce((total, field) => {
+          let votes = rowResults.data[0][field];
+          return total + (ignoredFields.includes(field) || !votes ? 0 : parseInt(votes));
+        }, 0);
       };
 
-      return fetchGeocode([geoaddress, backupGeoAddress]);
-   };
+      const getVotes = (party, row) => {
+        return parseInt(row[party]);
+      }
 
-    let coordPromises = points.map((point, i) => {
-      return new Promise((resolve, reject) => {
-        setTimeout(function () {
-          processPoint(point, resolve);
-        }, 200 * i);
+      let partyVotes = {};
+      Papa.parse(csvString, {
+        delimiter: ',',
+        //preview: 10,
+        header: true,
+        step: (results) => {
+          const row = results.data[0];
+          if (!row['Localitate'] || row['Țara'] !== 'România') {
+            return;
+          }
+          if (results.error) { reject(results.error); return; }
+          const county = row['Denumire circumscriptie'] != 'MUNICIPIUL BUCURESTI' ? row['Denumire circumscriptie'] : 'BUCUREȘTI';
+          if (typeof partyVotes[county] == 'undefined') { partyVotes[county] = []; }
+
+          partyVotes[county].push({
+            id: parseInt(row['Numar sectie votare']),
+            nr_circumscriptie: row['Numar circumscriptie'],
+            circumscriptie: county,
+            localitate: row['Localitate'],
+            [getPartyColumn('psd')]: getVotes('PARTIDUL SOCIAL DEMOCRAT', row),
+            [getPartyColumn('usr')]: getVotes('UNIUNEA SALVAȚI ROMÂNIA', row),
+            [getPartyColumn('pnl')]: getVotes('PARTIDUL NAȚIONAL LIBERAL', row),
+            [getPartyColumn('pmp')]: getVotes('PARTIDUL MIȘCAREA POPULARĂ', row),
+            [getPartyColumn('udmr')]: getVotes('UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA', row),
+            [getPartyColumn('alde')]: getVotes('PARTIDUL ALIANȚA LIBERALILOR ȘI DEMOCRAȚILOR', row),
+            [getPartyColumn('pru')]: getVotes('PARTIDUL ROMÂNIA UNITĂ', row),
+            [getPartyColumn('altele')]: addOthers(results)
+          });
+        },
+        complete: () => { resolve(partyVotes) }
       });
     });
-
-    Promise.all(coordPromises)
-      .then(points => {
-        console.log(`\n${fails} Failures. ${points.length} Successes.`, failLog);
-        points = points.filter(point => point);
-
-        util.writeToCsv(
-          points.filter(p => p),
-          ['id', 'name', 'lat', 'lng', 'address', 'city', 'psd_cdep', 'usr_cdep', 'pnl_cdep', 'pmp_cdep', 'udmr_cdep', 'alde_cdep', 'pru_cdep', 'altele_cdep',
-		  'psd_senat', 'usr_senat', 'pnl_senat', 'pmp_senat', 'udmr_senat', 'alde_senat', 'pru_senat', 'altele_senat'],
-          csvDest
-        );
-
-      }).catch(reason => {
-        console.warn(reason);
-      });
   });
+}
+
+const parsePoints = (source) => {
+
+  new Promise((resolve, reject) => {
+    let locations = new Map();
+    fs.readFile(source, { encoding: 'utf8' }, (err, data) => {
+      if (err) {
+        console.log(`Could not load ${source}`, err);
+        reject(err);
+      }
+      JSON.parse(data).features.forEach(location => {
+        const l = location.properties;
+        locations.set(`${l.nr_circumscriptie}_${l.nr_sectie}`, location);
+      });
+
+      resolve(locations);
+    });
+  })
+  .then(locations => {
+    Promise.all([
+      getResultsCsv('./src-data/cdep.csv'),
+      getResultsCsv('./src-data/senat.csv')
+    ]).then(d => {
+      if (d[0].length != d[1].length) {
+        console.log(`\nIncongruency between senate and cdep number of counties.`);
+        return;
+      }
+
+      let voturiCdep = d[0],
+      voturiSenat = d[1];
+      //console.log(find(voturiCdep, o => o.id == 23));
+      forEach(voturiCdep, (cdepCountyPoints, county) => {
+        if (cdepCountyPoints.length != voturiSenat[county].length) {
+          return console.log(`\nIncongruency between senate and cdep number of results for ${county}.`);
+        }
+        let results = cdepCountyPoints.map((p, i) => {
+          const locationInfo = locations.get(`${p.nr_circumscriptie}_${p.id}`);
+          //console.log(`${p.nr_circumscriptie}_${p.id}`, locationInfo);
+          if (p.id != locationInfo.properties.nr_sectie) {
+            console.log('Something is amiss', point, locationInfo);
+          }
+          return {
+            ...p,
+            ...voturiSenat[county][i],
+            name: locationInfo.properties.sediu,
+            address: locationInfo.properties.adresa == 'null' ? '' : locationInfo.properties.adresa,
+            city: locationInfo.properties.uat,
+            lat: locationInfo.geometry.coordinates[1],
+            lng: locationInfo.geometry.coordinates[0]
+          };
+        });
+        results = sortBy(results, ['city']);
+
+        fs.writeFile(`rezultate/${county}.csv`, Papa.unparse(results), (err) => {
+          if (err) {
+            return console.log(`Writing "rezultate/${county}.csv" failed.`);
+          }
+          console.log(`\n${results.length} points written to "rezultate/${county}.csv"`);
+        });
+      });
+
+    });
+  }).catch(reason => {
+    console.warn(reason);
+  });
+
 };
 
 if (require.main === module) {
- if (process.argv.length < 4) {
-     console.log("Corect use is: npm run parse Google_Maps_API_KEY src_file.csv [dest_file.csv]");
-   } else if (!fs.existsSync(process.argv[3])) {
-     console.log("The source file '" + process.argv[3] + "' needs to exist.");
-   } else {
-     parseData(
-       process.argv[2],
-       getExcel(process.argv[3]),
-       process.argv.length > 4 ? process.argv[4] : './output-' + Date.now() + '.csv',
-       util.toTitleCase(process.argv[3].split('.')[0])
-     );
-   }
+  parsePoints('./src-data/sectii.geojson');
 }

@@ -1,6 +1,7 @@
 import fs from 'fs';
+import d3pie from 'd3pie';
 import json2csv from 'json2csv';
-import { findIndex, maxBy, map, reduce, isArray } from 'lodash';
+import { difference, pick, findIndex, maxBy, map, reduce, isArray } from 'lodash';
 
 export const toTitleCase = (str) => {
   const split = str.split('-');
@@ -11,6 +12,7 @@ export const toTitleCase = (str) => {
   };
   return split.map(capitalize).join('-');
 }
+
 
 export const writeToCsv = (data, fields, destFile) => {
     let csv = json2csv({
@@ -115,7 +117,8 @@ export const getWinnerColor = points => partyColors[getWinner(points)];
 export const getPointsByAddress = points => {
   // Group points by address
   let pointsByAddress = [];
-  let votes, reportedStations;
+  let votes;
+
   points.forEach(point => {
     let existingIndex = findIndex(
       pointsByAddress,
@@ -132,15 +135,9 @@ export const getPointsByAddress = points => {
         point
       ]);
 
-      reportedStations = calculateReportedPollingStations([
-        pointsByAddress[existingIndex],
-        point
-      ]);
-
       pointsByAddress[existingIndex] = {
         ...pointsByAddress[existingIndex],
         votes,
-        reportedStations,
         ids: [...pointsByAddress[existingIndex].ids, point.id]
       };
     };
@@ -149,13 +146,94 @@ export const getPointsByAddress = points => {
   return pointsByAddress;
 }
 
+export const getPointsByCriterion = (points, properties = false) => {
+  // Group points by city
+  let groupedPoints = [];
+  let votes;
+
+  points.forEach(point => {
+    let existingIndex = properties ? findIndex(
+        groupedPoints,
+        p => {
+          let conditionIsMet = true;
+          properties.forEach(prop => {
+            conditionIsMet = conditionIsMet && (p[prop] === point[prop]);
+          });
+          return conditionIsMet;
+        }
+      ) : (groupedPoints.length ? 0 : -1); // If no props are supplied, group onto the first point
+
+    let getGroupedPoints = (point, existing = false) => {
+      const minimalPoint = pick(point, difference(Object.keys(point), [...properties, 'votes']));
+      const result = {
+        points: existing ? [...existing['points'], minimalPoint] : [minimalPoint]
+      };
+      return result;
+    }
+
+    if (existingIndex === -1) {
+      groupedPoints.push({
+        ...pick(point, [...properties, 'votes', 'city']),
+        ...getGroupedPoints(point)
+      });
+    } else {
+      votes = calculatePointsVotes([
+        groupedPoints[existingIndex],
+        point
+      ]);
+
+      groupedPoints[existingIndex] = {
+        ...groupedPoints[existingIndex],
+        votes,
+        ...getGroupedPoints(point, groupedPoints[existingIndex])
+      };
+    };
+  });
+
+  return groupedPoints;
+}
+
+// Merges points that satisfy an certain property equality criterion into
+// the first point encountered, and preserves a list of ids.
+export const mergePointsByCriterion = (points, properties) => {
+  // Group points by city
+  let mergedPoints = [];
+  let votes;
+
+  points.forEach(point => {
+    let existingIndex = findIndex(
+      mergedPoints,
+      p => {
+        let conditionIsMet = true;
+        properties.forEach(prop => {
+          conditionIsMet = conditionIsMet && (p[prop] === point[prop]);
+        });
+        return conditionIsMet;
+      }
+    );
+
+    if (existingIndex === -1) {
+      mergedPoints.push({
+        ...point,
+        ids: [point.id]
+      });
+    } else {
+      mergedPoints[existingIndex] = {
+        ...mergedPoints[existingIndex],
+        ids: [...mergedPoints[existingIndex].ids, point.id]
+      };
+    };
+  });
+
+  return mergedPoints;
+}
+
 export const getPointsByCity = (points) => {
   // Group points by city
   let pointsByCity = [];
-  let votes, reportedStations;
-  let isStationReported = point => (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0);
-  points.forEach(point => {
+  let votes;
 
+  points.forEach(point => {
     let existingIndex = findIndex(
       pointsByCity,
       addrPoint => addrPoint.city === point.city
@@ -164,7 +242,6 @@ export const getPointsByCity = (points) => {
     if (existingIndex === -1) {
       pointsByCity.push({
         ...point,
-        reportedStations: isStationReported(point) ? 1 : 0,
         ids: [point.id]
       });
     } else {
@@ -172,10 +249,6 @@ export const getPointsByCity = (points) => {
         pointsByCity[existingIndex],
         point
       ]);
-
-      if (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0) {
-        pointsByCity[existingIndex].reportedStations++;
-      }
 
       pointsByCity[existingIndex] = {
         ...pointsByCity[existingIndex],
@@ -190,46 +263,142 @@ export const getPointsByCity = (points) => {
 }
 
 export const counties = {
-  "MARAMURES": "MM",
-  "SALAJ": "SJ",
+  "MARAMUREȘ": "MM",
+  "SĂLAJ": "SJ",
   "SATU MARE": "SM",
-  "ARGES": "AG",
-  "CALARASI": "CL",
-  "DAMBOVITA": "DB",
+  "ARGEȘ": "AG",
+  "CĂLĂRAȘI": "CL",
+  "DÂMBOVIȚA": "DB",
   "GIURGIU": "GR",
-  "IALOMITA": "IL",
+  "IALOMIȚA": "IL",
   "PRAHOVA": "PH",
   "TELEORMAN": "TR",
-  "BRAILA": "BR",
-  "BACAU": "BC",
-  "CONSTANTA": "CT",
-  "GALATI": "GL",
+  "BRĂILA": "BR",
+  "BACĂU": "BC",
+  "CONSTANȚA": "CT",
+  "GALAȚI": "GL",
   "ILFOV": "IF",
   "ALBA": "AB",
-  "BRASOV": "BV",
+  "BRAȘOV": "BV",
   "TULCEA": "TL",
   "VRANCEA": "VN",
   "DOLJ": "DJ",
   "GORJ": "GJ",
-  "MEHEDINTI": "MH",
+  "MEHEDINȚI": "MH",
   "OLT": "OT",
   "VALCEA": "VL",
   "ARAD": "AR",
-  "CARAS-SEVERIN": "CS",
+  "CARAȘ-SEVERIN": "CS",
   "HUNEDOARA": "HD",
-  "TIMIS": "TM",
+  "TIMIȘ": "TM",
   "COVASNA": "CV",
   "HARGHITA": "HR",
-  "MURES": "MS",
+  "MUREȘ": "MS",
   "SIBIU": "SB",
-  "BOTOSANI": "BT",
-  "IASI": "IS",
-  "NEAMT": "NT",
+  "BOTOȘANI": "BT",
+  "IAȘI": "IS",
+  "NEAMȚ": "NT",
   "SUCEAVA": "SV",
   "BIHOR": "BH",
-  "BUCURESTI": "B",
+  "BUCUREȘTI": "B",
   "VASLUI": "VS",
-  "BISTRITA-NASAUD": "BN",
+  "BISTRIȚA-NĂSĂUD": "BN",
   "CLUJ": "CJ",
-  "BUZAU": "BZ"
+  "BUZĂU": "BZ"
 };
+
+export const generatePie = (domId, title, content) => {
+    const pie = new d3pie(domId, {
+      header: {
+        title: {
+          text: title,
+          fontSize: 24,
+          font: "Helvetica"
+        },
+        titleSubtitlePadding: 9
+      },
+      footer: {
+        color: "#999999",
+        fontSize: 10,
+        font: "Helvetica",
+        location: "bottom-left"
+      },
+      size: {
+        canvasWidth: '400',
+        canvasHeight: '400',
+        pieInnerRadius: "57%",
+        pieOuterRadius: "82%"
+      },
+      data: {
+        sortOrder: "value-asc",
+        content: content
+      },
+      labels: {
+        outer: {
+          pieDistance: 14
+        },
+        inner: {
+          hideWhenLessThanPercentage: 3
+        },
+        mainLabel: {
+          fontSize: 17
+        },
+        percentage: {
+          color: "#ffffff",
+          decimalPlaces: 1,
+          fontSize: 14
+        },
+        value: {
+          color: "#adadad",
+          fontSize: 14
+        },
+        lines: {
+          enabled: true
+        },
+        truncation: {
+          enabled: true
+        }
+      },
+      tooltips: {
+        enabled: true,
+        type: "placeholder",
+        string: "{label}: {value}, {percentage}%",
+        styles: {
+          borderRadius: 5,
+          fontSize: 16
+        }
+      },
+      effects: {
+        load: {
+          effect: "none"
+        },
+        pullOutSegmentOnClick: {
+          effect: "none"
+        }
+      },
+      misc: {
+        gradient: {
+          enabled: false,
+          percentage: 100
+        }
+      }
+    });
+
+    $(`#${domId} svg`)
+      //.attr('preserveAspectRatio', 'xMaxn meet')
+      .attr('viewBox', '0 0 400 400')
+      .attr('class', 'w-100 overflow-visible')
+      .attr('height', '290');
+
+    return pie;
+}
+
+export const doFetch = (url) => {
+  let request = {
+    method: 'GET',
+    headers: new Headers({
+      'Accept': 'application/json'
+    })
+  };
+  return fetch(url, request);
+}

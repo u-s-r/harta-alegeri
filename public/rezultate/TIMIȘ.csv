@@ -1,0 +1,596 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+467,37,TIMIȘ,MOŞNIŢA NOUĂ,68,4,78,12,1,7,7,20,70,3,79,15,1,8,7,14,Clădirea Comunei Moșnița Nouă fosta Școală Primară Albina,Str. Sebeș nr. 21,Albina,45.7154,21.373
+456,37,TIMIȘ,MAŞLOC,111,8,37,20,1,7,28,46,108,9,35,19,1,10,30,47,Căminul Cultural Alios,Nr. 264,Alioș,46.0384,21.4906
+315,37,TIMIȘ,BELINŢ,32,3,30,3,0,7,0,3,36,4,27,3,0,8,0,1,Grădinița cu Program Normal Babsa-Gruni,Nr. 145,Babșa,45.8087,21.7883
+243,37,TIMIȘ,ORAŞ BUZIAŞ,86,17,183,19,3,21,8,111,89,15,185,12,2,18,8,119,Școala Gimnazială Bacova,Nr. 329,Bacova,45.6652,21.5506
+298,37,TIMIȘ,BALINŢ,128,9,50,11,10,15,1,15,123,10,51,10,9,16,2,19,Căminul Cultural Balinț,Nr. 135,Balinț,45.813,21.8579
+560,37,TIMIȘ,TOMEŞTI,18,1,22,8,1,3,1,7,21,1,21,9,1,1,0,5,Căminul Cultural Baloșești,Nr. 25,Baloșești,45.7807,22.2896
+302,37,TIMIȘ,BANLOC,157,15,77,11,1,13,4,52,166,15,86,4,1,15,10,46,Primăria Banloc,Nr. 405,Banloc,45.387,21.1353
+306,37,TIMIȘ,BARA,47,4,22,0,1,0,0,4,49,3,22,0,1,0,0,4,Primăria Bara,Nr. 44,Bara,45.8975,21.8824
+286,37,TIMIȘ,ORAŞ RECAŞ,177,10,39,9,6,20,2,15,180,10,42,9,4,20,2,14,Școala Gimnazială Bazoș,Nr. 73,Bazoș,45.738,21.4909
+345,37,TIMIȘ,BUCOVĂŢ,59,16,98,7,0,5,7,15,59,16,96,9,1,3,5,12,Căminul Cultural Bazoșu Nou,,Bazoșu Nou,45.7502,21.4208
+310,37,TIMIȘ,BEBA VECHE,272,8,72,8,13,6,1,16,303,6,66,6,11,9,1,7,Căminul Cultural Beba Veche,Nr. 141,Beba Veche,46.131,20.2997
+312,37,TIMIȘ,BECICHERECU MIC,215,33,90,33,4,23,0,31,226,32,90,34,4,25,4,19,Grădinița PP Dimitrie Țichindeal,Calea Banatului nr. 2,Becicherecu Mic,45.8348,21.0514
+313,37,TIMIȘ,BECICHERECU MIC,269,32,88,28,4,19,2,34,289,30,93,28,2,13,4,21,Școala Gimnazială Dimitrie Țichindeal,Str. Gării nr. 1,Becicherecu Mic,45.8333,21.0487
+260,37,TIMIȘ,ORAŞ FĂGET,52,1,32,2,1,22,5,9,57,0,32,1,1,16,5,12,Fosta Școala Gimnazială Begheiul Mic,Nr. 20,Begheiu Mic,45.8352,22.1467
+314,37,TIMIȘ,BELINŢ,127,12,111,26,2,30,10,24,138,13,118,21,3,27,10,15,Primăria Belinț,Nr. 147,Belinț,45.7488,21.7678
+503,37,TIMIȘ,PIŞCHIA,32,3,57,2,1,6,1,7,30,2,55,2,2,7,2,5,Grădinița cu P.N. Bencecu de Jos,Nr. 63,Bencecu de Jos,45.9033,21.4331
+504,37,TIMIȘ,PIŞCHIA,61,8,78,25,2,10,0,6,54,7,78,23,1,11,3,19,Școala Gimnazială Bencecu de Sus,Nr. 125,Bencecu de Sus,45.883,21.4262
+327,37,TIMIȘ,BIRDA,67,0,7,5,1,6,1,4,68,0,7,6,1,6,1,2,Căminul Cultural Berecuța,Nr. 74,Berecuța,45.4131,21.3498
+530,37,TIMIȘ,SĂCĂLAZ,172,27,130,113,2,36,8,43,179,22,141,106,2,31,8,38,Căminul Cultural Beregsău Mare,,Beregsău Mare,45.759,21.0218
+531,37,TIMIȘ,SĂCĂLAZ,111,2,50,10,5,5,6,21,121,2,52,12,5,7,1,7,Școala Primară Beregsău Mic,,Beregsău Mic,45.7514,20.9751
+515,37,TIMIȘ,SACOŞU TURCESC,46,20,15,5,2,9,1,20,52,20,21,5,2,8,4,9,Școala Primară Berini,Nr. 126,Berini,45.5825,21.4309
+318,37,TIMIȘ,BETHAUSEN,188,6,45,16,4,11,2,17,206,5,43,10,3,12,2,12,Primăria Bethausen,Nr. 66,Bethausen,45.838,21.9598
+261,37,TIMIȘ,ORAŞ FĂGET,93,6,68,4,1,7,6,15,104,6,67,3,1,2,4,12,Căminul Cultural Bichigi,Nr. 61,Bichigi,45.8567,22.1381
+324,37,TIMIȘ,BILED,269,30,158,62,8,24,11,64,296,29,171,55,5,23,11,42,Caminul Cultural Biled,Nr. 353,Biled,45.8871,20.9594
+325,37,TIMIȘ,BILED,216,12,133,59,6,19,5,34,230,13,145,48,4,14,5,25,Grădinița PP Biled,Nr. 360,Biled,45.886,20.9604
+326,37,TIMIȘ,BIRDA,327,4,76,15,2,16,1,15,339,4,78,13,2,10,2,15,Școala Gimnazială Birda,Nr. 110,Birda,45.4293,21.3397
+474,37,TIMIȘ,NIŢCHIDORF,53,3,13,6,1,6,1,3,56,2,12,5,2,4,2,5,Casa Națională Blajova,Nr. 53,Blajova,45.5908,21.4855
+352,37,TIMIȘ,CENEI,140,6,79,11,2,7,5,34,150,7,84,9,2,6,3,23,Școala Primară Bobda,Nr. 86,Bobda,45.7349,20.9444
+299,37,TIMIȘ,BALINŢ,40,3,19,14,112,9,2,9,43,2,24,14,103,11,2,10,Grădinița PN Bodo,Nr. 55,Bodo,45.8145,21.8854
+335,37,TIMIȘ,BOGDA,75,4,28,2,1,2,4,10,76,3,31,2,0,0,4,11,Sediul Primăriei Bogda,,Bogda,45.9797,21.5741
+337,37,TIMIȘ,BOLDUR,99,11,46,20,1,13,5,28,97,9,47,26,3,13,6,28,Școala Gimnazială Boldur,Nr. 184,Boldur,45.6938,21.7836
+331,37,TIMIȘ,BÎRNA,64,0,8,2,2,0,0,3,66,0,9,0,1,2,1,2,Căminul Cultural Botinești,Nr. 56,Botinești,45.7382,22.0903
+451,37,TIMIȘ,MARGINA,85,0,15,2,0,8,0,7,87,0,14,2,0,8,1,6,Căminul Cultural Breazova,,Breazova,45.8374,22.2804
+341,37,TIMIȘ,BRESTOVĂŢ,54,2,56,1,2,6,1,4,54,2,57,3,2,5,1,3,Primăria Brestovăț,,Brestovăț,45.873,21.6815
+377,37,TIMIȘ,DENTA,37,2,12,2,1,2,2,113,86,5,37,4,7,3,6,24,Școala Primară Brestea,Nr. 88,Breștea,45.3518,21.2749
+262,37,TIMIȘ,ORAŞ FĂGET,78,3,27,1,2,24,1,10,93,2,27,1,1,16,2,8,Caminul Cultural Brănești,Nr. 133A,Brănești,45.8144,22.2502
+344,37,TIMIȘ,BUCOVĂŢ,243,45,215,26,4,29,2,24,260,43,221,30,3,16,3,20,Căminul Cultural Bucovăț,,Bucovăț,45.755,21.3814
+385,37,TIMIȘ,DUMBRAVA,163,4,22,21,5,2,0,11,167,1,24,19,4,3,1,14,Școala Primară Bucovăț,Nr. 127,Bucovăț,45.7895,22.1511
+440,37,TIMIȘ,LENAUHEIM,70,22,144,13,3,17,61,101,87,23,159,14,1,12,54,81,Căminul Cultural Bulgăruș,Nr. 251,Bulgăruș,45.9173,20.8182
+263,37,TIMIȘ,ORAŞ FĂGET,41,0,14,3,1,2,3,11,38,0,13,3,1,2,1,11,Școala Primară Bunea Mare,Nr. 24,Bunea Mare,45.9133,22.0995
+271,37,TIMIȘ,ORAŞ GĂTAIA,8,1,25,1,2,2,0,147,81,4,74,2,3,8,1,12,Școala Primară Butin,Nr. 136,Butin,45.3368,21.3764
+336,37,TIMIȘ,BOGDA,47,1,37,4,0,2,11,15,50,3,34,5,0,2,9,14,Casa de Cultură Buzad,,Buzad,45.9421,21.5472
+240,37,TIMIȘ,ORAŞ BUZIAŞ,197,33,260,20,13,49,9,48,207,32,261,18,13,43,12,45,Școala Gimnazială Buziaș,Str. Republicii nr. 4,Buziaș,45.6465,21.6056
+241,37,TIMIȘ,ORAŞ BUZIAŞ,199,12,178,19,6,17,15,54,207,8,188,19,4,12,14,50,Școala Generală,Nr. 3,Buziaș,45.6486,21.603
+242,37,TIMIȘ,ORAŞ BUZIAŞ,274,34,218,17,4,39,16,66,297,34,221,15,4,31,17,55,Liceul Teoretic,Nr. 19a,Buziaș,45.6473,21.6048
+330,37,TIMIȘ,BÎRNA,114,4,24,10,1,1,0,6,121,2,24,12,0,3,1,5,Căminul Cultural Bîrna,Nr. 71,Bârna,45.7201,22.0586
+525,37,TIMIȘ,SATCHINEZ,38,2,33,17,1,4,4,11,43,1,32,16,1,3,3,11,Școala Gimnazială Barateaz,Str. Principală nr. 32,Bărăteaz,45.9675,21.0927
+259,37,TIMIȘ,ORAŞ FĂGET,54,3,56,6,2,14,3,9,63,1,53,7,1,11,4,8,Școala Primară Bătești,Nr. 48,Bătești,45.8462,22.2052
+572,37,TIMIȘ,TORMAC,78,8,17,4,3,4,4,9,80,9,18,4,2,4,5,8,Căminul Cultural Cadăr,,Cadar,45.5338,21.5361
+539,37,TIMIȘ,SÎNANDREI,211,43,92,59,6,41,7,27,232,34,93,56,5,33,9,33,Caminul Cultural Carani,,Carani,45.9106,21.1555
+247,37,TIMIȘ,ORAŞ CIACOVA,101,8,40,5,0,4,1,16,107,5,37,5,1,4,2,15,Școala Primară Cebza,Nr. 1-373,Cebza,45.5504,21.0649
+349,37,TIMIȘ,CENAD,64,10,58,13,37,10,1,62,95,7,74,20,31,13,0,21,Școala Gimnazială Cenad,Nr. 1577,Cenad,46.1363,20.5875
+350,37,TIMIȘ,CENAD,90,12,78,14,24,11,3,35,107,11,78,14,24,9,4,22,Școala Gimnazială Cenad,Nr. 1577,Cenad,46.1363,20.5875
+351,37,TIMIȘ,CENEI,118,9,140,20,34,21,5,64,141,11,160,21,32,20,4,27,Sediul Primăriei Cenei,Nr. 134,Cenei,45.7167,20.9074
+444,37,TIMIȘ,LIEBLING,18,2,19,2,0,4,1,8,18,3,19,3,0,4,0,7,Cladirea Fostei Primarii din Cerna,Nr. 73,Cerna,45.5627,21.4039
+413,37,TIMIȘ,GIARMATA,140,19,67,21,5,11,7,27,153,16,64,20,4,13,7,25,Școala Primară Cerneteaz,,Cerneteaz,45.8418,21.2605
+353,37,TIMIȘ,CHECEA,86,10,143,44,3,25,5,29,88,9,157,51,3,22,6,16,Căminul Cultural Checea,Nr. 183,Checea,45.7545,20.8354
+383,37,TIMIȘ,DUDEŞTII VECHI,34,3,59,1,17,5,1,14,37,3,60,4,18,5,0,4,Căminul Cultural Cheglevici,,Cheglevici,46.1143,20.4464
+311,37,TIMIȘ,BEBA VECHE,97,0,27,2,54,0,4,11,111,1,27,2,44,0,5,7,Căminul Cultural Chereștur,Nr. 50,Cherestur,46.1269,20.386
+354,37,TIMIȘ,CHEVEREŞU MARE,200,9,80,16,2,17,3,18,216,9,78,16,2,13,4,17,Consiliul Local Chevereșu Mare,Nr. 277,Chevereșu Mare,45.6639,21.4883
+317,37,TIMIȘ,BELINŢ,107,10,70,0,4,22,4,19,110,8,77,0,2,23,5,15,Grădinița cu Program Normal Chizatau,Nr. 275,Chizătău,45.7559,21.7328
+422,37,TIMIȘ,GIROC,162,98,154,42,14,30,14,51,172,94,165,39,12,28,14,41,"Școala Gimnazială „Iosif Ciorogariu”, Chișoda",Str. Nicolae Firu (Str. Belșugului) nr. 65,Chișoda,45.7035,21.2126
+423,37,TIMIȘ,GIROC,168,103,137,22,7,46,19,75,183,99,153,21,5,43,16,59,"Școala Gimnazială „Iosif Ciorogariu”, Chișoda",Str. Nicolae Firu (Str. Belșugului) nr. 65,Chișoda,45.7035,21.2126
+245,37,TIMIȘ,ORAŞ CIACOVA,148,31,104,24,11,24,4,30,150,32,106,25,13,22,7,23,Primărie,,Ciacova,45.5139,21.1226
+246,37,TIMIȘ,ORAŞ CIACOVA,106,29,99,6,9,10,2,13,112,26,101,7,9,6,4,11,Liceul Al.Mocioni Ciacova,Str. Tudor Vladimirescu nr. 23,Ciacova,45.5104,21.124
+368,37,TIMIȘ,CRICIOVA,138,2,32,25,1,7,0,8,143,2,30,23,1,8,0,8,Căminul Cultural Cireșu,Nr. 78,Cireșu,45.6497,22.0328
+319,37,TIMIȘ,BETHAUSEN,107,3,16,7,2,6,3,12,111,2,16,6,1,5,4,11,Căminul Cultural Cladova,Nr. 86/B,Cladova,45.8645,21.9709
+320,37,TIMIȘ,BETHAUSEN,63,0,6,2,0,3,0,92,132,1,11,5,0,3,3,13,Căminul Cultural Cliciova,Nr. 54,Cliciova,45.7941,21.9662
+433,37,TIMIȘ,JAMU MARE,38,5,27,60,1,7,3,28,47,5,29,66,1,7,2,13,Școala Primară Clopodia,Nr. 259,Clopodia,45.2799,21.463
+559,37,TIMIȘ,TOMEŞTI,84,3,74,12,10,59,4,30,92,4,72,12,8,59,1,30,"Școala Gimnazială „Sorin Leia”, Colonia Fabricii",Nr. 14,Colonia Fabricii,45.7655,22.3128
+264,37,TIMIȘ,ORAŞ FĂGET,28,6,21,2,1,4,2,9,25,8,21,2,1,4,2,10,"Școala Primară, Colonia Mică",Nr. 17,Colonia Mică,45.8366,22.1883
+357,37,TIMIȘ,COMLOŞU MARE,301,10,55,13,3,13,7,29,320,9,52,12,5,9,4,21,Școala Gimnazială Comloșu Mare,Nr. 485,Comloșu Mare,45.8903,20.6307
+358,37,TIMIȘ,COMLOŞU MARE,281,14,42,13,2,15,4,31,315,14,47,10,1,9,3,15,Căminul Cultural Comloșu Mare,Nr. 605,Comloșu Mare,45.8895,20.6267
+359,37,TIMIȘ,COMLOŞU MARE,165,8,37,9,1,8,2,26,189,8,32,6,2,7,3,16,Biblioteca din Comloșu Mic,Nr. 219,Comloșu Mic,45.8512,20.6658
+483,37,TIMIȘ,ORŢIŞOARA,59,23,51,11,2,4,2,17,65,21,48,12,1,3,2,18,Școala Primară Cornești,,Cornești,45.9118,21.2235
+540,37,TIMIȘ,SÎNANDREI,163,48,70,17,4,14,7,30,175,52,67,19,4,10,5,18,Școala Primară Covaci,,Covaci,45.8335,21.2309
+342,37,TIMIȘ,BRESTOVĂŢ,14,0,32,1,0,1,0,1,13,0,33,1,0,1,1,2,Cladirea Comunei Brestovat (fosta Școala Generală Coșarii),,Coșarii,45.9282,21.7355
+371,37,TIMIȘ,CURTEA,97,10,15,51,3,19,3,12,109,8,14,51,3,17,3,9,Căminul Cultural Coșava,Nr. 62,Coșava,45.8482,22.3106
+361,37,TIMIȘ,COŞTEIU,113,10,46,37,3,4,8,24,119,8,47,34,5,6,9,20,Căminul Cultural Coșteiu,Nr. 27,Coșteiu,45.7331,21.8655
+362,37,TIMIȘ,COŞTEIU,140,12,104,67,8,12,4,25,136,13,111,65,8,9,4,20,Primăria Vechecoșteiu,Nr. 668,Coșteiu,45.7423,21.8479
+452,37,TIMIȘ,MARGINA,41,3,13,10,0,2,0,3,43,3,13,7,1,2,0,5,Căminul Cultural Coșteiu de Sus,,Coșteiu de Sus,45.9032,22.3686
+425,37,TIMIȘ,GIULVĂZ,45,3,28,3,0,7,3,13,47,3,29,3,0,11,4,10,Cămin Cultural Crai Nou,,Crai Nou,45.4885,20.9984
+567,37,TIMIȘ,TOPOLOVĂŢU MARE,24,5,7,6,0,8,0,11,27,5,11,4,0,11,0,3,Căminul Cultural Cralovăț,Nr. 131,Cralovăț,45.8309,21.6211
+367,37,TIMIȘ,CRICIOVA,322,8,58,16,2,9,1,15,339,8,55,10,1,7,5,13,Căminul Cultural Criciova,Nr. 210,Criciova,45.6297,22.0712
+472,37,TIMIȘ,NĂDRAG,93,2,6,6,2,3,0,15,97,2,10,6,1,3,0,11,Școala Primară Crivina,Nr. 70,Crivina,45.6514,22.1217
+499,37,TIMIȘ,PIETROASA,51,0,25,2,0,49,2,2,52,1,43,2,0,27,3,3,Căminul Cultural Crivina de Sus,Nr. 9,Crivina de Sus,45.845,22.4328
+536,37,TIMIȘ,SECAŞ,26,2,6,16,1,2,3,6,29,2,6,16,1,1,2,5,Căminul Cultural Crivobara,Nr. 107,Crivobara,45.914,21.8149
+396,37,TIMIȘ,FOENI,21,3,30,0,33,12,2,7,32,3,28,0,31,7,3,7,Primăria Veche Cruceni,Nr. 76,Cruceni,45.4742,20.8749
+370,37,TIMIȘ,CURTEA,147,1,40,41,1,36,5,12,155,2,43,39,1,31,2,6,Căminul Cultural Curtea,Nr. 224,Curtea,45.8276,22.3091
+321,37,TIMIȘ,BETHAUSEN,47,2,11,8,1,9,3,17,56,1,12,8,1,7,2,10,Școala Primară Cutina,Nr. 161,Cutina,45.8287,21.9311
+482,37,TIMIȘ,ORŢIŞOARA,82,6,37,11,4,13,3,13,89,7,35,8,3,10,2,13,Școala Primară Călacea,Nr. 94,Călacea,45.9531,21.1426
+507,37,TIMIȘ,RACOVIŢA,65,1,18,3,2,5,1,3,67,2,15,4,2,4,0,3,Școala Primară Căpăt,Nr. 71,Căpăt,45.6864,21.6646
+346,37,TIMIȘ,CĂRPINIŞ,151,27,88,27,8,20,5,18,155,22,92,28,4,19,5,19,Primăria Cărpiniș,Nr. 42,Cărpiniș,45.7898,20.9042
+347,37,TIMIȘ,CĂRPINIŞ,146,14,77,14,3,8,3,30,154,13,74,14,3,6,6,25,Căminul Cultural Cărpiniș,Nr. 25,Cărpiniș,45.7878,20.9049
+372,37,TIMIȘ,DAROVA,116,9,182,83,8,17,3,31,125,6,186,87,5,13,3,30,Școala Gimnazială Comuna Darova,Nr. 47/D,Darova,45.6413,21.7713
+462,37,TIMIȘ,MORAVIŢA,40,2,5,4,2,2,2,14,41,3,5,5,2,2,2,11,Casa Națională Dejan,Nr. 115,Dejan,45.285,21.292
+375,37,TIMIȘ,DENTA,129,3,37,6,0,14,1,73,156,6,46,6,1,19,1,26,Școala Gimnazială Denta,Nr. 712,Denta,45.3569,21.2502
+376,37,TIMIȘ,DENTA,112,6,45,9,0,11,5,84,130,8,57,10,0,13,10,45,Școala Gimnazială Denta,Nr. 712,Denta,45.3569,21.2502
+251,37,TIMIȘ,ORAŞ DETA,150,11,137,15,56,31,10,93,166,10,160,14,56,34,10,52,Liceul Sfântul Nicolae Deta,Nr. 12,Deta,45.3898,21.2232
+252,37,TIMIȘ,ORAŞ DETA,148,16,104,15,36,11,10,52,171,15,113,16,37,13,12,20,Școala Gimnazială Deta,Str. Victoriei (Str. Republicii) nr. 50,Deta,45.3961,21.2257
+253,37,TIMIȘ,ORAŞ DETA,113,9,66,13,14,18,5,48,123,10,83,10,16,19,4,20,Școala Gimnazială Deta,Str. Victoriei (Str. Republicii) nr. 50,Deta,45.3961,21.2257
+254,37,TIMIȘ,ORAŞ DETA,135,22,81,18,23,17,4,62,143,20,101,17,26,21,5,27,A.N.I.F Deta,Nr. 18,Deta,45.4013,21.2282
+491,37,TIMIȘ,PECIU NOU,73,9,84,13,2,9,5,56,94,9,88,12,3,13,7,30,Căminul Cultural Diniaș,Nr. 192,Diniaș,45.6489,21.0013
+307,37,TIMIȘ,BARA,38,0,2,9,1,3,0,4,38,0,2,9,1,3,0,4,Clădirea Comunei Bara (fosta Scoală Dobresti),Nr. 120,Dobrești,45.9054,21.9364
+447,37,TIMIȘ,LIVEZILE,17,4,58,2,1,2,1,8,17,4,63,1,1,2,1,8,Școala Primară Dolaț,Nr. 243,Dolaț,45.4294,21.0652
+552,37,TIMIȘ,ŞTIUCA,28,1,34,13,1,20,0,7,25,0,39,12,3,20,0,4,Școala Primară Dragomirești,Nr. 29,Dragomirești,45.5433,21.9487
+355,37,TIMIȘ,CHEVEREŞU MARE,190,16,40,9,16,8,4,18,195,17,38,8,17,7,4,14,Școala Primară Dragșina,,Dragșina,45.7018,21.4316
+332,37,TIMIȘ,BÎRNA,51,1,33,1,1,3,1,5,49,1,36,1,1,1,1,5,Căminul Cultural Drinova,Nr. 74,Drinova,45.6843,22.069
+508,37,TIMIȘ,RACOVIŢA,48,10,18,2,1,4,1,7,54,9,14,2,1,3,0,7,Școala Primară Drăgoiesti,Nr. 49,Drăgoiești,45.7122,21.6702
+393,37,TIMIȘ,FÎRDEA,71,1,65,7,6,9,1,15,73,1,71,5,3,3,0,18,Căminul Cultural Drăgșinești,,Drăgsinești,45.7681,22.1972
+477,37,TIMIȘ,OHABA LUNGĂ,34,19,12,3,2,18,0,11,39,16,12,1,1,17,1,13,Căminul Cultural Dubești,Nr. 147,Dubești,45.9261,22.0258
+475,37,TIMIȘ,NIŢCHIDORF,73,3,8,6,1,1,4,9,75,1,10,5,1,3,3,9,Cladirea Comunei Nitchidorf (fosta Școala cu Clasele I-IV),Nr. 157,Duboz,45.5465,21.5473
+379,37,TIMIȘ,DUDEŞTII NOI,116,25,157,10,2,7,8,40,111,26,160,10,2,9,10,32,Căminul Cultural Dudestii Noi,,Dudeștii Noi,45.8361,21.1029
+380,37,TIMIȘ,DUDEŞTII NOI,82,11,139,13,3,26,7,33,84,12,140,13,1,24,8,29,Căminul Cultural Dudestii Noi,,Dudeștii Noi,45.8361,21.1029
+381,37,TIMIȘ,DUDEŞTII VECHI,77,7,80,11,7,16,4,290,172,15,191,18,36,24,7,37,Liceul Teoretic „Sfinții Kiril și Metodii” Dudestii Vechi,,Dudeștii Vechi,46.0417,20.4764
+382,37,TIMIȘ,DUDEŞTII VECHI,51,11,103,9,12,4,0,194,116,16,189,20,19,4,1,17,Consiliul Local Dudeștii Vechi,,Dudeștii Vechi,46.0423,20.4751
+384,37,TIMIȘ,DUMBRAVA,70,1,17,11,137,30,5,13,75,3,26,9,137,21,2,9,Sediul Primariei Dumbrava,Nr. 336,Dumbrava,45.8253,22.1155
+387,37,TIMIȘ,DUMBRĂVIŢA,166,266,239,48,68,44,17,75,176,268,243,51,68,47,19,49,Școala Gimnazială Dumbravita,Str. Petőfi Sándor nr. 29,Dumbrăvița,45.8015,21.249
+388,37,TIMIȘ,DUMBRĂVIŢA,183,235,232,67,70,50,18,84,188,237,242,62,72,56,24,71,Camin Cultural,Str. Petőfi Sándor nr. 29,Dumbrăvița,45.8007,21.2479
+389,37,TIMIȘ,DUMBRĂVIŢA,174,206,196,47,102,56,16,70,187,198,213,52,100,51,18,50,Școala Gimnazială,Str. Petőfi Sándor nr. 33,Dumbrăvița,45.8015,21.249
+390,37,TIMIȘ,DUMBRĂVIŢA,214,252,218,53,81,50,15,73,219,259,224,49,75,60,19,52,Școala Gimnazială,Str. Petőfi Sándor nr. 33,Dumbrăvița,45.8015,21.249
+434,37,TIMIȘ,JAMU MARE,34,1,16,4,2,6,0,26,48,0,20,5,1,6,0,8,Școala Primară Ferendia,Nr. 150,Ferendia,45.3156,21.4969
+391,37,TIMIȘ,FIBIŞ,139,13,140,76,2,11,12,28,157,15,145,77,1,5,9,20,Căminul Cultural Fibiș,Nr. 41,Fibiș,45.974,21.4223
+509,37,TIMIȘ,RACOVIŢA,65,1,21,3,1,3,1,6,67,1,21,4,1,2,2,5,Școala Primară Ficătar,Nr. 151,Ficătar,45.7148,21.6965
+395,37,TIMIȘ,FOENI,56,2,94,8,4,26,9,26,66,2,92,8,3,24,11,22,Școala Gimnazială Foeni,Nr. 383,Foeni,45.4993,20.8718
+595,37,TIMIȘ,VOITEG,47,2,27,8,1,5,4,6,47,0,32,7,1,4,3,6,Școala Primară Folea,Nr. 15,Folea,45.4961,21.302
+392,37,TIMIȘ,FÎRDEA,111,4,91,13,3,13,3,13,118,4,95,10,3,6,3,14,Căminul Cultural Fîrdea,Nr. 132/A,Fârdea,45.7418,22.1618
+300,37,TIMIȘ,BALINŢ,56,0,22,3,0,3,1,8,54,0,25,4,0,3,2,6,Școala Primară Fădimac,Nr. 61,Fădimac,45.8466,21.865
+256,37,TIMIȘ,ORAŞ FĂGET,275,35,143,23,40,35,12,39,284,30,151,22,37,29,15,34,Casa de Cultura Faget,Calea Lugojului nr. 26,Făget,45.8538,22.1757
+257,37,TIMIȘ,ORAŞ FĂGET,52,9,39,5,7,10,4,10,57,5,39,6,7,10,4,9,Școala Transport Mixt Fageteana Sa,Calea Lugojului nr. 86,Făget,45.8495,22.1673
+258,37,TIMIȘ,ORAŞ FĂGET,214,15,176,26,6,53,11,36,247,13,180,25,5,40,8,22,Grădinița Program Normal Făget,Str. Ștefan cel Mare nr. 4,Făget,45.859,22.1739
+500,37,TIMIȘ,PIETROASA,55,0,13,3,1,27,0,0,58,1,24,3,1,17,0,1,Căminul Cultural Fărășești,Nr. 7,Fărășești,45.7992,22.3837
+402,37,TIMIȘ,GHILAD,9,4,14,8,0,1,0,3,12,3,14,8,0,1,0,3,Căminul Cultural Gad,Nr. 235,Gad,45.4664,20.9863
+463,37,TIMIȘ,MORAVIŢA,41,0,7,4,2,3,0,5,46,0,7,3,1,4,0,3,Casa Națională Gaiu Mic,Nr. 77,Gaiu Mic,45.2962,21.2091
+397,37,TIMIȘ,GAVOJDIA,158,9,131,21,1,14,4,16,167,8,140,16,1,11,2,13,Sediul Primariei Găvojdia,Nr. 295,Gavojdia,45.6205,22.023
+585,37,TIMIȘ,VARIAŞ,251,13,62,9,10,10,6,61,278,11,76,10,14,4,5,31,Școala Gimnazială Gelu,Nr. 197,Gelu,46.0048,21.0533
+435,37,TIMIȘ,JAMU MARE,39,1,18,16,1,3,2,16,41,0,15,20,1,3,0,15,Căminul Cultural Gherman,,Gherman,45.2736,21.36
+401,37,TIMIȘ,GHILAD,129,17,104,43,5,15,0,32,139,17,112,40,3,16,7,28,Școala Gimnazială Ghilad,Nr. 738,Ghilad,45.4647,21.1364
+403,37,TIMIȘ,GHIRODA,264,138,172,40,23,32,12,61,269,142,179,35,23,33,8,49,Școala Gimnazială Ghiroda,,Ghiroda,45.7702,21.3033
+404,37,TIMIȘ,GHIRODA,181,92,174,36,11,39,11,54,195,96,178,34,16,34,10,38,Școala Gimnazială Ghiroda,Str. Victoria nr. 41,Ghiroda,45.7702,21.3033
+405,37,TIMIȘ,GHIRODA,209,38,123,22,20,36,15,54,220,38,127,24,20,29,14,48,Grădinița cu Program Prelungit Ghiroda,Str. Victoria nr. 52,Ghiroda,45.7696,21.3024
+407,37,TIMIȘ,GHIZELA,36,1,115,13,3,4,6,8,36,2,116,12,2,5,5,7,Sediul Primariei Ghizela,Nr. 41,Ghizela,45.8212,21.7446
+410,37,TIMIȘ,GIARMATA,184,45,147,79,1,17,12,30,195,42,142,75,1,19,16,30,Camin Cultural,,Giarmata,45.8368,21.3116
+411,37,TIMIȘ,GIARMATA,182,50,129,45,7,20,14,50,180,48,137,50,8,22,12,39,Școala Gimnazială Giarmata,,Giarmata,45.8406,21.3165
+412,37,TIMIȘ,GIARMATA,135,43,105,53,7,25,7,34,148,41,114,48,4,22,4,24,Grădinița cu Program Prelungit Comuna Giarmata,,Giarmata,45.8349,21.3087
+406,37,TIMIȘ,GHIRODA,209,74,206,45,10,30,10,50,214,81,209,45,7,29,6,41,Școala Primară Giarmata Vii,Str. Înfrățirea nr. 82-84,Giarmata-Vii,45.7989,21.2999
+414,37,TIMIȘ,GIERA,73,4,13,7,27,10,2,18,77,4,14,9,25,12,2,9,Sediul Primariei Giera,Nr. 192,Giera,45.4071,20.992
+417,37,TIMIȘ,GIROC,167,83,153,28,8,27,5,48,184,77,157,25,7,27,7,38,Căminul Cultural Giroc,Str. Trandafirilor nr. 26,Giroc,45.6997,21.2333
+418,37,TIMIȘ,GIROC,210,196,226,43,15,44,5,53,221,204,224,37,19,42,5,39,Căminul Cultural Giroc,Str. Trandafirilor nr. 26,Giroc,45.6997,21.2333
+419,37,TIMIȘ,GIROC,174,106,160,22,7,31,14,70,175,107,173,23,7,33,17,48,Liceul Teoretic „David Voniga” Giroc,Str. Trandafirilor nr. 59,Giroc,45.6962,21.2363
+420,37,TIMIȘ,GIROC,138,86,128,24,10,18,8,44,139,88,127,31,10,23,8,27,Liceul Teoretic David Voniga Giroc,Str. Trandafirilor nr. 59,Giroc,45.6962,21.2363
+421,37,TIMIȘ,GIROC,153,329,302,48,19,42,17,76,160,326,310,51,18,40,16,59,Calea Timișoarei (Fostele U.M),Calea Timișoarei nr. 76,Giroc,45.7173,21.2365
+424,37,TIMIȘ,GIULVĂZ,148,10,48,9,3,22,6,38,158,12,44,10,2,23,5,27,Primară Giulvăz,Nr. 172/b,Giulvăz,45.5465,20.9853
+394,37,TIMIȘ,FÎRDEA,122,1,67,6,1,23,2,8,127,2,74,4,1,11,2,10,Căminul Cultural Gladna Română,Nr. 11/D,Gladna Româna,45.7496,22.2246
+428,37,TIMIȘ,GOTTLOB,100,11,205,12,3,20,3,18,97,10,217,9,3,19,6,22,Cladirea Comunei Gottlob (Sala de Sedinte),Nr. 433,Gottlob,45.9373,20.7104
+441,37,TIMIȘ,LENAUHEIM,46,7,82,10,8,11,21,37,50,6,83,10,3,10,26,37,Căminul Cultural Grabaț,Nr. 236,Grabăț,45.8779,20.7444
+453,37,TIMIȘ,MARGINA,27,0,3,9,0,1,0,4,29,0,3,7,0,1,0,2,Căminul Cultural Groși,,Groși,45.9151,22.2844
+316,37,TIMIȘ,BELINŢ,30,5,24,6,1,11,1,4,27,4,25,5,1,12,1,4,Grădinița cu Program Normal Babsa-Gruni,Nr. 207,Gruni,45.7643,21.8115
+415,37,TIMIȘ,GIERA,38,3,12,5,4,1,1,1,38,3,13,5,4,1,0,1,Grădinița cu Program Normal Grănicerii,Nr. 28,Grănicerii,45.4408,20.8805
+268,37,TIMIȘ,ORAŞ GĂTAIA,175,12,146,11,47,12,4,63,200,10,165,12,44,14,3,23,Casa de Cultura Gataia,Str. Republicii nr. 111,Gătaia,45.4258,21.4263
+269,37,TIMIȘ,ORAŞ GĂTAIA,170,7,144,15,22,25,2,50,191,4,163,9,21,23,5,18,Primăria Oras Gataia,Str. Carpați nr. 106,Gătaia,45.428,21.4248
+589,37,TIMIȘ,VICTOR VLAD DELAMARINA,93,6,46,7,2,9,6,24,100,6,45,11,2,7,5,16,Căminul Cultural Herendești,Nr. 18,Herendești,45.6505,21.8559
+287,37,TIMIȘ,ORAŞ RECAŞ,112,7,17,7,1,4,0,10,120,6,18,9,1,4,0,6,Școala Primară Herneacova,Nr. 17,Herneacova,45.8585,21.5157
+363,37,TIMIȘ,COŞTEIU,58,1,16,12,1,8,1,5,61,1,17,11,1,7,2,4,Școala Primară Hezeris,Nr. 11,Hezeriș,45.7273,21.9259
+510,37,TIMIȘ,RACOVIŢA,195,17,41,14,2,23,5,30,198,15,46,15,2,26,7,20,Școala Gimnazială Hitiaș,Nr. 173,Hitiaș,45.7101,21.5961
+526,37,TIMIȘ,SATCHINEZ,108,22,70,15,2,19,4,25,126,22,68,17,1,13,4,18,Școala Gimnazială Hodoni,Str. Germană nr. 21,Hodoni,45.9039,21.0855
+373,37,TIMIȘ,DAROVA,36,0,31,7,1,2,4,14,38,1,33,6,0,2,3,13,Grădinița Pn,Nr. 11,Hodoș,45.6652,21.7966
+590,37,TIMIȘ,VICTOR VLAD DELAMARINA,67,2,21,4,2,6,0,6,71,1,23,2,3,6,1,2,Școala Primară Honorici,,Honorici,45.617,21.9068
+513,37,TIMIȘ,REMETEA MARE,75,13,67,18,5,30,2,32,67,12,62,18,3,49,3,29,Școala Primară Ianova,Nr. 142,Ianova,45.8375,21.4187
+516,37,TIMIȘ,SACOŞU TURCESC,48,3,27,9,1,4,2,7,51,2,28,7,2,5,1,7,Cladirea Comunei Sacosu Turcesc (fosta Școala Primară Icloda),Nr. 56,Icloda,45.6435,21.3835
+568,37,TIMIȘ,TOPOLOVĂŢU MARE,25,6,35,23,0,17,4,17,25,7,40,20,1,15,5,17,Cladirea Comunei Topolovatu Mare (Sediul Fostului Cap Ictar - Budinți),Nr. 175,Ictar-Budinți,45.7684,21.671
+430,37,TIMIȘ,IECEA MARE,244,12,62,16,2,11,5,23,259,11,61,15,0,8,6,26,Primăria Iecea Mare,Nr. 127/A,Iecea Mare,45.8492,20.8873
+431,37,TIMIȘ,IECEA MARE,222,6,44,6,0,6,3,15,235,4,41,6,0,5,4,16,Școala Primară Iecea Mare,Nr. 128,Iecea Mare,45.8491,20.8878
+348,37,TIMIȘ,CĂRPINIŞ,124,5,52,10,3,6,7,23,132,5,48,12,3,6,5,18,Căminul Cultural Iecea Mică,Nr. 40,Iecea Mică,45.823,20.9215
+478,37,TIMIȘ,OHABA LUNGĂ,65,3,38,3,1,3,0,3,70,3,35,3,1,5,0,3,Căminul Cultural Ierșnic,Nr. 126,Ierșnic,45.8848,22.0045
+534,37,TIMIȘ,SÂNPETRU MARE,186,5,30,10,0,10,4,23,208,4,38,7,1,10,1,10,Școala Gimnazială Academician Profesor Doctor Munteanu Ioan,Nr. 808,Igriș,46.1126,20.7853
+486,37,TIMIȘ,OTELEC,40,12,59,5,3,11,9,21,43,10,65,5,2,12,7,17,Căminul Cultural Iohanisfeld,Nr. 102,Iohanisfeld,45.5651,20.8616
+445,37,TIMIȘ,LIEBLING,23,5,17,13,10,10,4,15,26,5,16,13,10,9,5,14,Căminul Cultural Satul Iosif,Nr. 139,Iosif,45.5699,21.2762
+569,37,TIMIȘ,TOPOLOVĂŢU MARE,29,2,21,4,0,27,4,14,31,3,19,6,0,27,5,12,Școala Primară Iosifalău,Nr. 184,Iosifalău,45.7817,21.6801
+426,37,TIMIȘ,GIULVĂZ,48,3,26,7,5,5,2,34,50,3,29,7,7,3,2,28,Camin Cultural Ivanda,,Ivanda,45.567,20.9416
+288,37,TIMIȘ,ORAŞ RECAŞ,237,36,136,25,1,24,8,31,249,36,134,23,1,19,11,38,Școala Gimnazială Izvin,Str. Preot Traian Pelea nr. 53,Izvin,45.7989,21.4609
+338,37,TIMIȘ,BOLDUR,79,4,29,7,1,8,4,20,93,3,31,6,1,8,5,13,Școala Primară Jabăr,Nr. 17,Jabăr,45.7129,21.8032
+432,37,TIMIȘ,JAMU MARE,211,11,45,17,0,15,4,31,225,10,46,16,0,17,6,25,Primăria Jamu Mare,Nr. 181,Jamu Mare,45.2539,21.415
+369,37,TIMIȘ,CRICIOVA,180,8,64,11,1,8,7,18,194,7,66,11,2,3,7,10,Căminul Cultural Jdioara,Nr. 21,Jdioara,45.6203,22.1066
+437,37,TIMIȘ,JEBEL,205,37,157,30,2,28,9,55,224,35,169,26,1,23,9,39,Casa Nationala Efta Botoca,Nr. 831,Jebel,45.5627,21.2162
+438,37,TIMIȘ,JEBEL,204,24,126,24,1,18,8,40,213,21,137,24,1,17,8,32,Grădinița PN Jebel,Nr. 832,Jebel,45.5624,21.218
+398,37,TIMIȘ,GAVOJDIA,78,5,55,8,1,12,5,12,78,6,59,5,1,8,4,15,Școala Primară Jena,Nr. 150E,Jena,45.6016,22.0767
+275,37,TIMIȘ,ORAŞ JIMBOLIA,118,27,62,10,29,18,5,31,129,26,67,13,26,14,5,25,Liceul Tehnologic Jimbolia,Str. Gheorghe Doja nr. 14,Jimbolia,45.7915,20.7228
+276,37,TIMIȘ,ORAŞ JIMBOLIA,122,19,71,8,35,24,7,48,124,23,76,14,34,24,6,33,Liceul Tehnologic Jimbolia,Str. Tudor Vladimirescu nr. 61,Jimbolia,45.7895,20.7151
+277,37,TIMIȘ,ORAŞ JIMBOLIA,122,22,90,14,9,16,9,40,124,19,104,14,10,15,6,27,Școala Gimnazială Jimbolia,Str. Lorena (Str. 1 Mai) nr. 35,Jimbolia,45.7896,20.7244
+278,37,TIMIȘ,ORAŞ JIMBOLIA,121,11,50,14,68,10,3,37,123,12,50,17,70,13,4,27,Școala Gimnazială Jimbolia,Str. George Enescu nr. 9,Jimbolia,45.7989,20.7051
+279,37,TIMIȘ,ORAŞ JIMBOLIA,98,20,82,21,31,15,6,26,105,16,91,22,34,13,4,22,Incubatorul de Afaceri Jimbolia,Str. Ștefan cel Mare nr. 9,Jimbolia,45.7951,20.7223
+280,37,TIMIȘ,ORAŞ JIMBOLIA,113,21,86,23,24,16,15,49,121,19,91,20,25,19,11,37,Casa de Cultură,Str. Tudor Vladimirescu nr. 88,Jimbolia,45.7922,20.7165
+281,37,TIMIȘ,ORAŞ JIMBOLIA,88,10,73,11,23,24,6,28,99,10,75,12,20,20,7,22,Casa de Cultură,Str. Tudor Vladimirescu nr. 88,Jimbolia,45.7922,20.7165
+282,37,TIMIȘ,ORAŞ JIMBOLIA,9,2,27,3,2,2,1,9,11,1,24,4,2,3,2,8,Grădinița cu Program Normal Clarii Vii,Colonia Clarii Vii,Jimbolia,45.8058,20.806
+265,37,TIMIȘ,ORAŞ FĂGET,35,1,22,3,1,1,0,0,34,0,21,1,1,1,1,3,Fosta Școala Generală Jupânești,Nr. 46,Jupânești,45.7853,22.2694
+333,37,TIMIȘ,BÎRNA,54,2,9,7,0,1,1,4,58,1,11,5,1,2,1,1,Căminul Cultural Jurești,,Jurești,45.7067,22.0681
+439,37,TIMIȘ,LENAUHEIM,118,19,86,24,4,32,3,19,126,17,91,18,3,26,3,20,Căminul Cultural Lenauheim,Nr. 205,Lenauheim,45.8724,20.8008
+322,37,TIMIȘ,BETHAUSEN,117,4,27,10,1,5,1,9,125,4,27,11,1,3,1,9,Școala Primară Leucușești,Nr. 76,Leucușești,45.8351,22.003
+442,37,TIMIȘ,LIEBLING,141,24,108,14,3,58,8,26,147,23,110,12,0,56,11,27,Căminul Cultural Liebling,Nr. 466,Liebling,45.5804,21.3222
+443,37,TIMIȘ,LIEBLING,138,26,106,21,3,25,2,17,139,27,104,25,4,23,4,13,Școala Gimnazială Liebling,Nr. 523,Liebling,45.5805,21.3209
+446,37,TIMIȘ,LIVEZILE,75,6,128,35,2,6,4,35,89,4,139,32,0,4,5,25,Primăria Comunei Livezile,Nr. 245,Livezile,45.3889,21.0552
+448,37,TIMIȘ,LOVRIN,125,28,160,4,5,17,8,33,138,29,160,5,5,18,5,21,Statiunea de Cercetare și Dezvoltare Agricola Lovrin,Nr. 200,Lovrin,45.9681,20.7727
+449,37,TIMIȘ,LOVRIN,140,25,181,24,5,16,6,25,147,24,190,26,1,12,7,24,Strand Termal Lovrin nr. 752/B,,Lovrin,45.9665,20.7613
+208,37,TIMIȘ,MUNICIPIUL LUGOJ,154,40,103,37,11,21,16,45,142,33,124,31,13,30,14,38,Colegiul Național „Iulia Hașdeu”,Str. Vlad Victor Delamarina nr. 1,Lugoj,45.6871,21.907
+209,37,TIMIȘ,MUNICIPIUL LUGOJ,213,33,110,23,14,29,14,40,210,32,132,20,15,28,12,26,Școala Gimnazială nr. 3,Str. 20 Decembrie 1989 (Str. V. I. Lenin) nr. 4,Lugoj,45.6872,21.9059
+210,37,TIMIȘ,MUNICIPIUL LUGOJ,159,36,143,51,22,27,10,47,157,30,160,48,19,28,9,41,Grădinița cu Program Prelungit nr. 3,Str. Făgetului nr. 52,Lugoj,45.6908,21.9154
+211,37,TIMIȘ,MUNICIPIUL LUGOJ,182,28,99,17,20,34,18,38,179,19,112,19,15,34,18,36,Grădinița cu Program Prelungit nr. 4,Aleea Brazilor nr. 3,Lugoj,45.6913,21.9099
+212,37,TIMIȘ,MUNICIPIUL LUGOJ,116,19,73,19,13,22,5,15,117,18,77,16,11,19,6,18,Grădinița cu Program Prelungit nr. 4,Aleea Brazilor nr. 3,Lugoj,45.6913,21.9099
+213,37,TIMIȘ,MUNICIPIUL LUGOJ,120,37,104,31,19,13,9,27,106,33,125,20,19,20,15,29,Școala Gimnazială nr. 4,Str. Ștefan cel Mare nr. 7,Lugoj,45.6867,21.9114
+214,37,TIMIȘ,MUNICIPIUL LUGOJ,220,27,77,18,27,29,11,43,215,22,87,17,29,29,15,37,Grădinița cu Program Prelungit nr. 5,Str. Ceahlăului nr. 21,Lugoj,45.6937,21.9064
+215,37,TIMIȘ,MUNICIPIUL LUGOJ,187,34,71,23,19,21,7,28,201,31,80,21,13,14,10,25,Grădinița cu Program Prelungit nr. 5,Str. Ceahlăului nr. 21,Lugoj,45.6937,21.9064
+216,37,TIMIȘ,MUNICIPIUL LUGOJ,207,21,93,26,19,18,12,44,205,18,111,27,18,16,12,36,Școala Gimnazială nr. 2,Str. Alexandru Astalas nr. 31A,Lugoj,45.6941,21.9057
+217,37,TIMIȘ,MUNICIPIUL LUGOJ,167,14,70,20,7,16,5,31,166,9,81,20,6,12,6,30,Grădinița cu Program Prelungit nr. 7,Str. Buziașului nr. 36,Lugoj,45.6835,21.8651
+218,37,TIMIȘ,MUNICIPIUL LUGOJ,120,27,103,51,16,9,9,33,115,25,117,47,16,9,6,31,Grădinița cu Program Normal nr. 11,Str. Libertății,Lugoj,45.6894,21.9205
+219,37,TIMIȘ,MUNICIPIUL LUGOJ,159,23,73,32,8,21,14,40,157,18,98,29,5,22,10,24,Grădinița cu Program Normal nr. 11,Str. Libertății nr. 62,Lugoj,45.6894,21.9205
+220,37,TIMIȘ,MUNICIPIUL LUGOJ,115,26,59,26,10,16,14,42,106,30,71,22,13,19,10,30,Sala Sporturilor „Ioan Kunst Ghermănescu”,Str. Timișorii nr. 51-53,Lugoj,45.6945,21.9013
+221,37,TIMIȘ,MUNICIPIUL LUGOJ,193,31,116,55,21,35,10,49,201,26,130,50,16,35,11,42,Sala Sporturilor „Ioan Kunst Ghermănescu”,Str. Timișorii nr. 51-53,Lugoj,45.6945,21.9013
+222,37,TIMIȘ,MUNICIPIUL LUGOJ,234,49,110,31,14,22,23,55,212,50,134,28,17,28,26,46,Sala Sporturilor „Ioan Kunst Ghermănescu”,Str. Timișorii nr. 51-53,Lugoj,45.6945,21.9013
+223,37,TIMIȘ,MUNICIPIUL LUGOJ,164,26,67,14,14,22,9,29,151,27,84,12,13,21,13,26,Sala Sporturilor „Ioan Kunst Ghermănescu”,Str. Timișorii nr. 51-53,Lugoj,45.6945,21.9013
+224,37,TIMIȘ,MUNICIPIUL LUGOJ,178,28,108,31,25,13,22,33,157,25,136,24,25,21,19,30,Școala Gimnazială „Eftimie Murgu”,Str. Lăcrămioarelor nr. 21,Lugoj,45.6935,21.896
+225,37,TIMIȘ,MUNICIPIUL LUGOJ,213,28,133,35,15,37,12,36,208,26,146,32,13,37,14,37,Școala Gimnazială „Eftimie Murgu”,Str. Lăcrămioarelor nr. 21,Lugoj,45.6935,21.896
+226,37,TIMIȘ,MUNICIPIUL LUGOJ,240,45,161,36,40,33,7,51,229,37,183,34,39,37,6,44,Grădinița cu Program Normal nr. 13,Str. Bucegi nr. 39,Lugoj,45.6867,21.898
+227,37,TIMIȘ,MUNICIPIUL LUGOJ,171,37,88,32,35,34,13,39,174,32,104,24,36,41,12,27,Colegiul Tehnic „Valeriu Braniște”,Str. Gheorghe Doja nr. 41,Lugoj,45.689,21.8911
+228,37,TIMIȘ,MUNICIPIUL LUGOJ,177,44,111,29,15,19,9,43,175,35,118,25,23,19,6,36,Grădinița cu Program Prelungit nr. 2,Str. Xenopol nr. 48,Lugoj,45.6856,21.8917
+229,37,TIMIȘ,MUNICIPIUL LUGOJ,154,50,150,31,25,24,17,58,150,38,184,25,22,25,15,47,Școala Gimnazială nr. 1,Str. Bocșei nr. 11,Lugoj,45.6758,21.8984
+230,37,TIMIȘ,MUNICIPIUL LUGOJ,158,20,107,30,20,28,17,45,143,11,134,27,21,30,17,43,Școala Gimnazială nr. 1,Str. Bocșei nr. 11,Lugoj,45.6758,21.8984
+231,37,TIMIȘ,MUNICIPIUL LUGOJ,24,3,38,3,2,4,3,14,28,2,38,5,2,2,2,9,Școala Gimnazială nr. 1,Str. Bocșei nr. 11,Lugoj,45.6758,21.8984
+232,37,TIMIȘ,MUNICIPIUL LUGOJ,128,15,70,31,24,28,7,27,141,17,75,29,23,17,7,24,Cubul Tineretului,Str. Andrei Mocioni (Str. Gheorghiu Dej) nr. 9,Lugoj,45.6827,21.9009
+233,37,TIMIȘ,MUNICIPIUL LUGOJ,125,31,62,28,9,24,16,33,125,27,70,28,8,23,16,31,Sala de Lupte și Gimnastică „Francisc Horvath”,Str. Plopilor,Lugoj,45.6818,21.9077
+234,37,TIMIȘ,MUNICIPIUL LUGOJ,192,41,95,39,14,32,12,35,192,42,108,40,13,33,12,27,Baza de Agrement Ștrand,Str. Ștrandului,Lugoj,45.6815,21.9102
+235,37,TIMIȘ,MUNICIPIUL LUGOJ,178,43,146,33,14,21,16,49,179,33,172,32,13,14,12,35,Sala Sporturilor „Lavinia Miloșovici”,Str. Caransebeșului nr. 2B,Lugoj,45.6739,21.9138
+236,37,TIMIȘ,MUNICIPIUL LUGOJ,196,39,134,39,21,24,13,33,184,26,165,35,18,25,12,29,Sala Sporturilor „Lavinia Miloșovici”,Str. Caransebeșului nr. 2B,Lugoj,45.6739,21.9138
+237,37,TIMIȘ,MUNICIPIUL LUGOJ,180,40,118,55,20,22,14,50,180,33,132,52,24,22,14,41,Sala Sporturilor „Lavinia Miloșovici”,Str. Caransebeșului nr. 2B,Lugoj,45.6739,21.9138
+399,37,TIMIȘ,GAVOJDIA,69,9,197,11,1,12,9,17,68,9,201,14,0,5,9,20,Grădinița cu Program Normal Lugojel,Nr. 273,Lugojel,45.6655,21.9603
+561,37,TIMIȘ,TOMEŞTI,73,2,89,1,1,4,1,11,78,2,84,1,1,6,1,9,Grădinița cu Program Normal Luncanii de Jos,Nr. 139,Luncanii de Jos,45.7198,22.3116
+360,37,TIMIȘ,COMLOŞU MARE,94,2,22,2,2,2,3,12,110,0,23,1,0,4,1,6,Școala Primară Lunga,Nr. 73,Lunga,45.883,20.5902
+308,37,TIMIȘ,BARA,21,0,4,2,1,2,0,2,23,0,2,2,1,1,0,2,Căminul Cultural Lăpușnic,Nr. 79,Lăpușnic,45.8938,21.9221
+436,37,TIMIȘ,JAMU MARE,57,4,6,6,1,2,4,11,57,4,7,6,1,2,6,10,Cladirea Comunei Jamu Mare (fosta Școala Lățunaș),,Lățunaș,45.2105,21.4819
+248,37,TIMIȘ,ORAŞ CIACOVA,52,4,40,4,2,2,3,14,55,3,37,4,2,3,4,13,Căminul Cultural Macedonia,,Macedonia,45.5165,21.055
+450,37,TIMIȘ,MARGINA,321,13,51,5,1,7,7,17,319,13,52,5,1,9,5,22,Căminul Cultural Margina,,Margina,45.8636,22.2745
+455,37,TIMIȘ,MAŞLOC,51,6,91,5,1,10,35,46,63,3,90,5,1,11,35,43,Primăria Mașloc,Nr. 95,Mașloc,45.9966,21.4522
+461,37,TIMIȘ,MORAVIŢA,146,8,42,38,2,9,2,42,144,9,47,40,1,7,1,43,Casa Nationala de Cultura Moravița,Nr. 285,Moravița,45.2569,21.2664
+465,37,TIMIȘ,MOŞNIŢA NOUĂ,174,72,253,17,79,46,12,49,195,71,251,17,75,48,14,40,Școala Gimnazială Moșnița Nouă,Str. Școlii nr. 37,Moșnița Nouă,45.7205,21.3229
+466,37,TIMIȘ,MOŞNIŢA NOUĂ,105,156,273,24,29,36,14,54,115,149,285,26,28,38,13,34,Școala Gimnazială Moșnița Nouă,Str. Școlii nr. 37,Moșnița Nouă,45.7205,21.3229
+468,37,TIMIȘ,MOŞNIŢA NOUĂ,145,131,324,31,12,93,15,50,159,141,321,33,12,85,13,41,Școala Primară Moșnița Veche,Str. Bisericii nr. 56,Moșnița Veche,45.7332,21.3343
+505,37,TIMIȘ,PIŞCHIA,88,6,46,12,5,14,8,17,84,7,46,10,5,16,6,19,Grădinița cu P.N.Murani nr. 383,,Murani,45.9254,21.3027
+328,37,TIMIȘ,BIRDA,85,2,10,7,0,2,0,4,90,2,10,4,2,2,1,5,Școala Primară Mânăstire,Nr. 87,Mânăstire,45.4077,21.3312
+238,37,TIMIȘ,MUNICIPIUL LUGOJ,104,0,19,5,4,4,0,13,125,1,20,5,3,4,2,4,Căminul Cultural Măguri,,Măguri,45.6649,21.9915
+458,37,TIMIȘ,MĂNĂŞTIUR,252,4,44,13,13,29,1,17,275,1,40,10,10,28,2,14,Școala Gimnazială George Gârda Mănăștiur,,Mănăștiur,45.8358,22.0629
+557,37,TIMIȘ,TEREMIA MARE,118,1,43,5,7,6,1,17,125,3,45,6,4,6,0,11,Caminul Cultural Nerau,Nr. 76,Nerău,45.9697,20.5582
+323,37,TIMIȘ,BETHAUSEN,42,3,10,1,0,1,0,11,56,3,11,1,0,0,0,2,Grădinița cu Program Normal Nevrincea,Nr. 111,Nevrincea,45.7885,21.9349
+473,37,TIMIȘ,NIŢCHIDORF,190,2,109,18,2,26,3,18,192,4,104,19,1,25,4,18,Holul Primăriei Nițchidorf,Nr. 212,Nițchidorf,45.5804,21.5342
+470,37,TIMIȘ,NĂDRAG,345,13,40,13,3,13,5,27,354,13,43,12,3,12,4,26,Grădinița cu Program Prelungit Nadrag,Nr. 1,Nădrag,45.6509,22.1827
+471,37,TIMIȘ,NĂDRAG,284,21,90,16,4,15,4,36,291,17,94,22,3,9,4,34,Liceul Tehnologic „Traian Grozăvescu” Nădrag,Nr. 1,Nădrag,45.6509,22.1868
+249,37,TIMIȘ,ORAŞ CIACOVA,28,1,55,9,3,3,3,12,30,2,58,9,2,1,3,11,Școala Primară Obad,,Obad,45.5383,21.1516
+303,37,TIMIȘ,BANLOC,27,0,40,1,1,0,0,11,31,0,41,0,2,0,0,7,Grădinița cu Program Normal Ofsenița,Nr. 121,Ofsenița,45.4145,21.1424
+476,37,TIMIȘ,OHABA LUNGĂ,90,8,24,16,2,3,2,32,103,8,19,12,2,0,2,32,Căminul Cultural Ohaba Lungă,Nr. 36,Ohaba Lungă,45.9071,21.9842
+479,37,TIMIȘ,OHABA LUNGĂ,57,3,14,3,0,4,2,5,60,2,14,3,0,4,3,6,Căminul Cultural Ohaba Română,Nr. 167,Ohaba Română,45.9501,21.9446
+339,37,TIMIȘ,BOLDUR,138,15,59,6,2,22,1,25,148,12,59,4,0,24,2,23,Școala Primară Ohaba-Forgaci,Nr. 255,Ohaba-Forgaci,45.7177,21.7389
+553,37,TIMIȘ,ŞTIUCA,34,0,61,10,1,33,0,6,39,0,61,9,1,35,1,2,Căminul Cultural Oloșag,Nr. 125,Oloșag,45.6014,21.9561
+255,37,TIMIȘ,ORAŞ DETA,59,4,112,4,3,10,2,23,71,4,120,3,1,7,3,15,Căminul Cultural Opatița,Nr. 97,Opatița,45.414,21.2721
+480,37,TIMIȘ,ORŢIŞOARA,105,24,93,21,5,10,4,29,116,21,87,23,6,11,6,27,Camin Cultural Ortisoara,Nr. 266,Orțișoara,45.9634,21.199
+481,37,TIMIȘ,ORŢIŞOARA,99,21,75,9,9,11,8,29,112,21,74,10,8,6,8,25,Biblioteca Comunala Ortisoara,Nr. 258,Orțișoara,45.9653,21.2004
+485,37,TIMIȘ,OTELEC,41,7,11,3,150,1,4,17,45,8,13,3,153,1,3,6,Căminul Cultural Otelec,Nr. 458,Otelec,45.6163,20.8504
+517,37,TIMIȘ,SACOŞU TURCESC,24,5,13,6,83,4,2,7,28,3,15,4,81,5,2,8,Școala Primară Otvesti,Nr. 190,Otvești,45.6216,21.4374
+408,37,TIMIȘ,GHIZELA,44,1,29,9,0,6,0,6,49,1,30,6,0,5,1,5,Căminul Cultural Paniova,Nr. 124,Paniova,45.8485,21.7941
+304,37,TIMIȘ,BANLOC,46,3,37,4,6,2,1,11,49,3,35,3,5,2,1,11,Grădinița cu Program Normal Partoș,Nr. 113,Partoș,45.3347,21.1232
+487,37,TIMIȘ,PARŢA,390,49,114,37,11,14,9,58,407,43,115,43,10,15,7,46,Căminul Cultural Parța,Nr. 374,Parța,45.625,21.1338
+489,37,TIMIȘ,PECIU NOU,136,19,110,25,7,20,4,37,139,19,103,26,8,18,5,42,Liceul Teoretic Peciu Nou,Nr. 309,Peciu Nou,45.6069,21.0574
+490,37,TIMIȘ,PECIU NOU,154,26,121,20,1,22,6,37,167,26,114,22,2,20,3,32,Căminul Cultural Peciu Nou,Nr. 252,Peciu Nou,45.6065,21.0587
+272,37,TIMIȘ,ORAŞ GĂTAIA,36,2,56,0,1,4,3,34,44,2,78,0,1,3,4,6,Școala Primară Percosova,Nr. 271,Percosova,45.322,21.3514
+493,37,TIMIȘ,PERIAM,246,21,76,18,2,14,3,25,252,16,79,15,4,16,1,21,Liceul Teoretic Periam,Str. Magnoliei nr. 2,Periam,46.0453,20.8676
+494,37,TIMIȘ,PERIAM,224,28,76,17,3,27,2,49,238,21,89,20,4,25,2,32,Liceul Teoretic Periam,Str. Viorelelor nr. 1,Periam,46.0404,20.872
+495,37,TIMIȘ,PERIAM,235,18,80,8,1,17,1,22,242,15,88,7,1,13,2,17,Casa de Cultură,Str. Magnoliei nr. 17,Periam,46.0435,20.8689
+496,37,TIMIȘ,PESAC,208,5,24,12,1,4,1,16,211,5,26,8,1,7,1,15,Căminul Cultural Pesac,Nr. 355,Pesac,45.9962,20.8333
+497,37,TIMIȘ,PESAC,204,8,23,11,1,8,1,11,225,8,21,11,0,6,0,6,Școala Gimnazială „Maria Brindea”,Nr. 279,Pesac,45.9967,20.8331
+592,37,TIMIȘ,VICTOR VLAD DELAMARINA,144,3,47,10,3,6,1,12,156,2,48,8,2,1,1,9,Școala Gimnazială Petroasa Mare,,Petroasa Mare,45.6179,21.8439
+250,37,TIMIȘ,ORAŞ CIACOVA,58,1,52,35,1,5,2,13,63,1,50,35,1,4,2,9,Școala Primară Petroman,,Petroman,45.5407,21.1134
+289,37,TIMIȘ,ORAŞ RECAŞ,71,5,10,6,3,6,2,12,79,3,14,6,2,5,2,6,Școala Primară Petrovaselo,Nr. 33,Petrovaselo,45.8151,21.5801
+498,37,TIMIȘ,PIETROASA,60,5,26,10,1,80,1,4,63,3,40,11,1,63,1,6,Căminul Cultural Pietroasa,Nr. 27/D,Pietroasa,45.8355,22.3955
+502,37,TIMIȘ,PIŞCHIA,123,16,96,17,1,31,14,32,122,18,101,17,1,29,14,30,Școala Gimnazială Pișchia,Nr. 17,Pișchia,45.9038,21.3404
+334,37,TIMIȘ,BÎRNA,58,0,8,8,1,4,0,11,70,2,9,6,1,3,0,3,Căminul Cultural Pogănești,,Pogănești,45.7225,22.0164
+501,37,TIMIȘ,PIETROASA,102,3,49,2,0,14,1,4,100,3,54,2,0,7,2,10,Căminul Cultural Poieni,Nr. 27/C,Poieni,45.8007,22.4526
+266,37,TIMIȘ,ORAŞ FĂGET,23,0,14,1,3,3,5,11,26,0,14,1,2,4,2,5,Caminul Cultural Povergina,Nr. 42,Povârgina,45.8869,22.1347
+580,37,TIMIȘ,UIVAR,109,4,26,8,28,9,3,13,120,4,24,7,28,6,5,11,Căminul Cultural Pustiniș,Nr. 168,Pustiniș,45.6318,20.8539
+459,37,TIMIȘ,MĂNĂŞTIUR,19,0,13,2,1,6,0,2,21,0,14,1,1,5,0,1,Clădirea Comunei Mănăștiur (fosta Școală Generală Pădurani),,Pădurani,45.8782,22.0615
+488,37,TIMIȘ,PĂDURENI,127,15,184,20,4,15,12,46,134,14,185,22,2,14,15,39,Școala Gimnazială Pădureni,Nr. 221,Pădureni,45.5978,21.2193
+591,37,TIMIȘ,VICTOR VLAD DELAMARINA,28,1,15,2,1,4,0,6,30,1,15,5,1,3,2,3,Cladirea Comunei Victor Vlad Delamarina (fosta Școală cu Clasele I-IV Pădureni),,Pădureni,45.5775,21.9068
+364,37,TIMIȘ,COŞTEIU,35,0,13,8,6,1,0,7,36,0,17,6,4,1,1,6,Caminul Cultural Paru,Nr. 86,Păru,45.7768,21.8483
+506,37,TIMIȘ,RACOVIŢA,183,8,69,19,5,23,7,17,176,6,72,20,3,27,6,21,Școala Gimnazială Racovița,Nr. 45,Racovița,45.7003,21.6365
+283,37,TIMIȘ,ORAŞ RECAŞ,306,32,102,24,12,28,5,46,328,25,113,19,13,26,5,31,Primăria Recaș,Calea Timișoarei nr. 86,Recaș,45.7987,21.5031
+284,37,TIMIȘ,ORAŞ RECAŞ,278,19,87,13,10,23,3,30,287,19,93,10,11,20,2,24,Grădinița cu P.P. Recaș,Str. Florilor nr. 5,Recaș,45.7984,21.5084
+285,37,TIMIȘ,ORAŞ RECAŞ,282,24,97,34,34,32,6,38,293,20,98,35,32,25,5,36,Liceul Teoretic Recaș,Str. George Coșbuc nr. 1,Recaș,45.801,21.5126
+512,37,TIMIȘ,REMETEA MARE,204,20,99,29,2,44,11,43,208,17,95,33,2,44,10,40,Școala Gimnazială Remetea Mare,Nr. 49,Remetea Mare,45.7794,21.3781
+457,37,TIMIȘ,MAŞLOC,29,5,43,7,0,10,21,32,31,4,47,8,0,12,21,27,Căminul Cultural Remetea Mică,,Remetea Mică,45.9668,21.4794
+460,37,TIMIȘ,MĂNĂŞTIUR,81,2,23,4,5,5,2,14,91,1,27,4,2,2,2,11,Clădirea Comunei Mănăștiur (fosta Școală Generală Remetea Luncă),,Remetea-Luncă,45.8624,22.0448
+562,37,TIMIȘ,TOMEŞTI,92,4,41,3,3,20,4,16,97,2,42,5,3,17,6,15,Grădinița cu Program Normal Românești,Nr. 120,Românești,45.8105,22.3117
+378,37,TIMIȘ,DENTA,59,2,13,2,16,6,1,11,64,2,14,1,16,7,1,7,Căminul Cultural Rovinița Mare,Nr. 168,Rovinița Mare,45.3787,21.2972
+427,37,TIMIȘ,GIULVĂZ,33,3,25,0,1,8,2,21,33,2,33,2,1,8,6,14,Cămin Cultural Rudna,,Rudna,45.4952,21.0111
+386,37,TIMIȘ,DUMBRAVA,108,3,49,10,3,28,7,20,128,1,54,11,4,13,2,13,Școala Gimnazială Răchita,Nr. 144,Răchita,45.8423,22.1029
+309,37,TIMIȘ,BARA,22,0,5,1,1,7,2,3,22,0,5,1,1,7,2,3,Căminul Cultural Rădmănești,Nr. 147,Rădmănești,45.9253,21.9003
+581,37,TIMIȘ,UIVAR,46,1,27,10,18,4,3,10,45,1,22,12,17,3,3,14,Căminul Cultural Răuți,Nr. 136,Răuți,45.6744,20.9308
+374,37,TIMIȘ,DAROVA,63,2,85,19,1,20,5,19,61,2,94,16,2,20,3,18,Școala Primară,Nr. 220,Sacoșu Mare,45.5837,21.729
+514,37,TIMIȘ,SACOŞU TURCESC,152,18,72,27,6,10,4,18,156,18,72,28,6,8,5,17,Școala Gimnazială Sacosu Turcesc,Nr. 1A,Sacoșu Turcesc,45.656,21.4268
+521,37,TIMIȘ,SARAVALE,153,1,28,7,12,20,2,37,191,2,32,8,3,18,1,15,"Sala Primariei nr. 167b, Saravale",,Saravale,46.0672,20.7404
+522,37,TIMIȘ,SARAVALE,137,8,34,6,2,39,5,26,133,8,39,6,2,34,6,31,"Caminul Cultural nr. 673, Saravale",,Saravale,46.0736,20.7387
+523,37,TIMIȘ,SATCHINEZ,82,7,42,37,12,10,2,28,88,6,46,37,11,10,2,24,Școala Gimnazială Satchinez,Str. Daliei nr. 67,Satchinez,45.9437,21.0382
+524,37,TIMIȘ,SATCHINEZ,73,11,48,23,2,7,5,35,78,9,51,22,2,8,2,28,Școala Gimnazială Satchinez,Str. Daliei nr. 67,Satchinez,45.9437,21.0382
+270,37,TIMIȘ,ORAŞ GĂTAIA,271,13,190,14,24,19,4,53,302,11,191,14,27,14,5,25,Școala Primară Sculia,Nr. 284,Sculia,45.4434,21.4304
+535,37,TIMIȘ,SECAŞ,34,2,24,19,1,3,4,10,39,2,23,16,2,3,6,11,Sediul Primăriei Secaș,Nr. 19,Secaș,45.884,21.8243
+484,37,TIMIȘ,ORŢIŞOARA,59,7,30,13,1,6,4,14,58,6,34,15,1,5,2,13,Căminul Cultural Seceani,Nr. 100,Seceani,45.9768,21.3194
+244,37,TIMIȘ,ORAŞ BUZIAŞ,94,11,93,6,2,11,4,28,97,9,98,4,1,13,3,24,Școala Primară Silagiu,Nr. 205 A,Silagiu,45.6075,21.609
+340,37,TIMIȘ,BOLDUR,97,7,29,14,2,14,4,20,102,8,29,14,3,13,4,20,Școala Primară Sinersig,Nr. 146,Sinersig,45.6733,21.7218
+454,37,TIMIȘ,MARGINA,112,2,59,8,0,5,5,11,122,2,59,7,0,5,4,7,Căminul Cultural Sintești,,Sintești,45.8738,22.2463
+305,37,TIMIȘ,BANLOC,63,2,42,1,3,2,0,21,71,1,49,1,2,2,2,10,Grădinița cu Program Normal Soca,Nr. 93,Soca,45.3711,21.1625
+464,37,TIMIȘ,MORAVIŢA,138,2,22,30,4,10,7,26,149,4,28,28,4,8,5,17,Școala Primară Stamora Germană,Nr. 184,Stamora Germană,45.2817,21.25
+518,37,TIMIȘ,SACOŞU TURCESC,51,1,33,10,1,5,1,10,54,0,35,11,1,4,1,3,Cladirea Comunei Sacosu Turcesc (fosta Școala Primară Stamora Romana),Nr. 80,Stamora Română,45.6063,21.398
+290,37,TIMIȘ,ORAŞ RECAŞ,66,2,11,6,2,5,0,69,99,6,27,10,2,7,1,12,Școala Primară Stanciova,Nr. 161,Stanciova,45.8672,21.5714
+574,37,TIMIȘ,TRAIAN VUIA,40,1,23,21,1,111,7,14,46,1,26,21,1,103,5,12,Telecentrul „Traian Vuia” Sudriaș,,Sudriaș,45.7944,22.0237
+576,37,TIMIȘ,TRAIAN VUIA,27,2,22,8,1,35,0,12,26,2,23,8,1,33,2,13,Căminul Cultural Surducu Mic,,Surducu Mic,45.7657,22.095
+577,37,TIMIȘ,TRAIAN VUIA,31,5,14,12,1,56,2,9,33,5,13,12,2,54,3,10,Căminul Cultural Susani,,Susani,45.8021,21.9939
+570,37,TIMIȘ,TOPOLOVĂŢU MARE,36,3,17,9,0,13,3,7,37,3,18,8,0,14,2,8,Căminul Cultural Șuștra,Nr. 118,Suștra,45.7872,21.5835
+537,37,TIMIȘ,SÎNANDREI,244,69,121,20,16,32,8,41,252,72,129,15,14,32,7,33,Caminul Cultural Sinandrei,,Sânandrei,45.8551,21.1675
+538,37,TIMIȘ,SÎNANDREI,205,46,101,25,10,29,6,27,213,46,103,19,11,26,9,28,Școala Gimnazială Sinandrei,,Sânandrei,45.8553,21.1679
+329,37,TIMIȘ,BIRDA,168,9,11,5,1,4,0,18,185,9,13,5,1,6,0,4,Școala Primară Sângeorge,Nr. 203d,Sângeorge,45.3996,21.3194
+582,37,TIMIȘ,UIVAR,20,1,19,2,28,1,0,3,21,1,20,0,28,2,1,1,Școala Primară Sânmartinu Maghiar,Nr. 60,Sânmartinu Maghiar,45.6362,20.9086
+492,37,TIMIȘ,PECIU NOU,74,12,39,9,1,5,1,42,96,12,43,8,0,5,1,22,Școala Primară Sînmartinu Sîrbesc,Nr. 325,Sânmartinu Sârbesc,45.6042,20.959
+543,37,TIMIȘ,SÎNMIHAIU ROMÂN,72,29,69,31,3,6,5,23,81,29,73,26,2,9,3,18,Școala Primară Sânmihaiu German,,Sânmihaiu German,45.711,21.0306
+541,37,TIMIȘ,SÎNMIHAIU ROMÂN,165,72,124,34,7,28,8,36,175,74,126,27,5,27,7,27,Primăria Sînmihaiu Român,,Sânmihaiu Român,45.7079,21.0909
+542,37,TIMIȘ,SÎNMIHAIU ROMÂN,131,66,123,35,19,17,6,29,129,66,126,41,20,16,4,23,Școala Gimnazială Sînmihaiu Român,,Sânmihaiu Român,45.7096,21.0894
+291,37,TIMIȘ,ORAŞ SÂNNICOLAU MARE,136,23,159,20,28,22,11,112,161,25,204,23,28,22,13,37,Sala Casei de Cultură (Castel Nako) Etaj 1,Str. Republicii nr. 14,Sânnicolau Mare,46.0712,20.6256
+292,37,TIMIȘ,ORAŞ SÂNNICOLAU MARE,162,18,192,26,30,24,6,120,207,17,223,29,31,24,8,43,Sala Casei de Cultură (Castel Nako) Demisol,Str. Republicii nr. 14,Sânnicolau Mare,46.0712,20.6256
+293,37,TIMIȘ,ORAŞ SÂNNICOLAU MARE,184,31,227,27,32,23,16,126,201,27,277,39,35,23,19,43,Primăria Orașului Sânnicolau Mare,Str. Oprean Nistor nr. 1A,Sânnicolau Mare,46.072,20.6259
+294,37,TIMIȘ,ORAŞ SÂNNICOLAU MARE,186,10,207,18,8,14,7,61,199,15,219,19,8,20,7,31,"Grădinița Pp1 nr. 1 Parter, Sânnicolau Mare",Str. Decebal nr. 13,Sânnicolau Mare,46.0735,20.6198
+295,37,TIMIȘ,ORAŞ SÂNNICOLAU MARE,185,23,172,14,24,29,11,52,194,18,193,16,24,27,10,27,"Grădinița Pp1 nr. 1 Etaj, Sânnicolau Mare",Str. Decebal nr. 13,Sânnicolau Mare,46.0735,20.6198
+296,37,TIMIȘ,ORAŞ SÂNNICOLAU MARE,136,18,194,17,21,30,7,66,163,19,213,22,21,23,5,26,Liceul Tehnologic Cristofor Nako Oraș Sânnicolau Mare,Str. 16 Decembrie 1989 (Str. 6 Martie) nr. 17,Sânnicolau Mare,46.0687,20.62
+297,37,TIMIȘ,ORAŞ SÂNNICOLAU MARE,192,20,232,25,18,20,5,95,210,21,265,30,22,16,9,40,"Școala Gimnazială Theodor Bucurescu nr. 1, Sânnicolau Mare, Parter",Piața 1 Mai nr. 3,Sânnicolau Mare,46.0719,20.6278
+532,37,TIMIȘ,SÂNPETRU MARE,92,4,38,2,0,16,2,58,120,4,54,4,1,13,2,17,Primăria Comunei Sînpetru Mare,Nr. 1,Sânpetru Mare,46.0445,20.8158
+533,37,TIMIȘ,SÂNPETRU MARE,89,5,36,5,4,7,1,51,118,6,43,6,2,5,1,17,Primăria Comunei Sînpetru Mare,Nr. 1,Sânpetru Mare,46.0445,20.8158
+586,37,TIMIȘ,VARIAŞ,47,2,19,3,24,7,1,5,48,5,20,2,25,7,0,3,Grădinița cu Program Normal Sinpetru Mic,Nr. 100,Sânpetru Mic,46.0288,21.0344
+511,37,TIMIȘ,RACOVIŢA,45,4,15,5,1,2,0,5,47,5,14,5,2,3,0,3,Școala Primară Sîrbova,,Sârbova,45.6995,21.561
+575,37,TIMIȘ,TRAIAN VUIA,18,1,11,6,3,19,3,5,18,0,12,5,2,16,3,9,Căminul Cultural Săceni,,Săceni,45.7621,22.0615
+527,37,TIMIȘ,SĂCĂLAZ,179,44,104,60,6,19,12,37,189,45,95,54,6,17,13,42,Școala Gimnazială Sacalaz,,Săcălaz,45.7607,21.1132
+528,37,TIMIȘ,SĂCĂLAZ,120,47,88,47,8,14,18,49,129,51,91,44,8,14,18,41,Școala Gimnazială Săcălaz,,Săcălaz,45.7607,21.1132
+529,37,TIMIȘ,SĂCĂLAZ,161,39,92,66,9,25,12,38,171,37,96,68,6,24,9,27,Căminul Cultural Săcălaz,,Săcălaz,45.7601,21.112
+400,37,TIMIȘ,GAVOJDIA,43,3,54,10,3,3,2,11,46,1,56,7,1,5,2,8,Căminul Cultural Sălbăgel,Nr. 34,Sălbăgel,45.5675,22.0387
+239,37,TIMIȘ,MUNICIPIUL LUGOJ,48,2,17,8,1,5,2,10,46,1,20,6,1,5,2,11,Grădinița cu Program Normal nr. 5 Tăpia,,Tapia,45.6827,21.9714
+267,37,TIMIȘ,ORAŞ FĂGET,139,5,29,6,1,9,1,11,147,5,28,6,1,9,1,11,Caminul Cultural Temerești,Nr. 26,Temerești,45.8732,22.2145
+555,37,TIMIȘ,TEREMIA MARE,242,6,28,18,20,5,2,11,247,8,34,14,20,3,1,10,Camin Cultural,Nr. 53,Teremia Mare,45.9369,20.5253
+556,37,TIMIȘ,TEREMIA MARE,212,11,39,19,17,18,2,18,215,10,36,25,18,16,1,16,Camin Cultural,Nr. 74,Teremia Mare,45.9369,20.5253
+558,37,TIMIȘ,TEREMIA MARE,107,1,16,1,4,4,0,7,108,2,18,1,4,5,1,6,Școala Primară Teremia Mică,Nr. 306,Teremia Mică,45.9565,20.4959
+343,37,TIMIȘ,BRESTOVĂŢ,49,1,40,8,0,1,1,11,48,1,43,6,1,1,1,8,Căminul Cultural Teș,,Teș,45.8462,21.656
+1,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,123,101,114,19,13,33,17,72,133,104,121,21,13,35,16,46,Universitatea de Medicina și Farmacie „Victor Babeș”,Nr. 2,Timișoara,45.7568,21.2367
+2,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,155,96,166,17,6,36,10,55,151,96,166,19,11,42,10,40,Universitatea de Medicina și Farmacie „Victor Babeș”,Nr. 2,Timișoara,45.7568,21.2367
+3,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,82,54,69,17,4,28,5,34,82,57,63,19,6,29,5,29,Liceul Pedagogic „Carmen Sylva”,Bulevardul Constantin Loga Diaconovici (Bulevardul Victoriei) nr. 45,Timișoara,45.7541,21.2358
+4,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,180,123,140,30,34,62,16,55,186,117,155,30,30,64,13,41,Colegiul Tehnic „Emanuil Ungureanu”,Piața Iancu Huniade nr. 3,Timișoara,45.7525,21.2283
+5,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,67,81,88,18,25,29,5,49,75,82,90,20,24,30,6,32,Liceul Teoretic „Nikolaus Lenau” - Corp Cladire Școala cu Clasele I-IV,Piața Unirii nr. 7,Timișoara,45.7585,21.2288
+6,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,66,81,64,8,11,21,8,46,65,92,70,8,9,24,6,27,Liceul Teoretic „Nikolaus Lenau” - Corp Cladire Școala cu Clasele I-IV,Piața Unirii nr. 7,Timișoara,45.7585,21.2288
+7,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,80,72,76,18,8,30,9,56,89,73,84,21,9,29,9,27,Liceul Teoretic „Nikolaus Lenau” - Corp Cladire Școala cu Clasele I-IV,Piața Unirii nr. 7,Timișoara,45.7585,21.2288
+8,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,76,78,68,16,10,24,5,26,78,70,77,17,9,30,4,19,Colegiul Tehnic „Henr. Coandă”,Str. Coriolan Brediceanu nr. 37,Timișoara,45.7563,21.2183
+9,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,144,105,92,39,14,27,21,74,159,109,89,39,18,30,20,51,Colegiul Tehnic „Henr. Coanda”,Str. Coriolan Brediceanu nr. 37,Timișoara,45.7563,21.2183
+10,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,84,76,76,13,8,20,6,40,85,77,80,11,8,28,5,27,Colegiul Tehnic „Ion Mincu”,Str. Lazăr Gheorghe nr. 20,Timișoara,45.7592,21.2219
+11,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,108,102,98,27,12,17,11,53,120,96,103,26,7,17,15,47,Inspectoratul Judetean al Poliției de Frontiera,Calea Sever Bocu (Calea Lipovei) nr. 11- 13,Timișoara,45.7791,21.2327
+12,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,142,107,131,27,17,35,8,46,144,101,144,30,17,33,10,40,Inspectoratul Judetean al Poliției de Frontiera,Calea Sever Bocu (Calea Lipovei) nr. 11-13,Timișoara,45.7791,21.2327
+13,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,124,77,145,25,6,19,9,63,124,87,146,30,7,21,8,46,Fundația Ioan Slavici,Aleea Lirei nr. 4,Timișoara,45.7779,21.2433
+14,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,125,95,157,28,15,34,7,45,128,97,167,26,14,39,8,28,Fundația Ioan Slavici,Aleea Lirei nr. 4,Timișoara,45.7779,21.2433
+15,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,122,67,86,26,4,21,10,43,122,67,91,28,2,24,15,34,Fundația Ioan Slavici,Str. Ion Ionescu de la Brad nr. 15,Timișoara,45.7779,21.2433
+16,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,105,61,78,19,11,22,10,42,105,57,81,22,11,24,14,36,Fundația Ioan Slavici,Str. Ion Ionescu de la Brad nr. 15,Timișoara,45.7745,21.2305
+17,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,225,97,176,26,10,35,23,68,231,95,177,26,10,36,25,65,Fundația Ioan Slavici,Str. Ion Ionescu de la Brad nr. 15,Timișoara,45.7779,21.2433
+18,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,172,183,177,40,23,44,13,62,182,175,190,38,22,50,14,42,Grădinița cu Program Prelungit nr. 36 (fosta Grădiniță nr. 37),"Calea Aradului nr. 38, Bloc 21",Timișoara,45.7732,21.2225
+19,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,181,120,153,25,16,22,24,79,189,114,161,26,16,31,25,60,Grădinița cu Program Prelungit nr. 36 (fosta Grădiniță nr. 37),"Calea Aradului nr. 38, Bloc 21",Timișoara,45.7732,21.2225
+20,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,173,212,262,47,26,34,16,77,178,200,264,56,28,45,17,60,Colegiul Silvic „Casa Verde” (Fost Grup Școlar Agricol „Iulian Dracea”),Calea Aradului nr. 56,Timișoara,45.7835,21.2198
+21,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,141,163,166,26,17,25,12,52,143,170,175,24,18,25,15,36,Colegiul Silvic „Casa Verde” (Fost Grup Școlar Agricol „Iulian Dracea”),Calea Aradului nr. 56,Timișoara,45.7835,21.2198
+22,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,211,110,184,27,26,34,18,68,217,114,187,35,21,34,23,53,Colegiul Silvic „Casa Verde” (Fost Grup Școlar Agricol „Iulian Dracea”),Calea Aradului nr. 56,Timișoara,45.7835,21.2198
+23,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,160,102,139,22,8,30,11,65,160,104,147,26,10,33,12,48,Colegiul Silvic „Casa Verde” (Fost Grup Școlar Agricol „Iulian Dracea”),Calea Aradului nr. 56,Timișoara,45.7835,21.2198
+24,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,165,157,163,46,22,36,27,79,170,162,160,47,25,32,34,71,Colegiul Silvic „Casa Verde” (Fost Grup Școlar Agricol „Iulian Dracea”),Calea Aradului nr. 56,Timișoara,45.7835,21.2198
+25,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,167,103,126,31,18,36,11,51,171,105,142,31,19,36,14,32,Școala Gimnazială nr. 24 (Grădinița cu Program Prelungit nr. 27),Str. Brîndușei nr. 15,Timișoara,45.7674,21.22
+26,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,163,82,122,33,31,39,10,63,165,85,133,28,30,36,11,51,Școala Gimnazială nr. 24 (Grădinița cu Program Prelungit nr. 27),Str. Brîndușei nr. 15,Timișoara,45.7674,21.22
+27,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,192,99,140,41,26,33,15,77,183,92,161,41,25,42,11,60,Școala Gimnazială nr. 19 (Școala Primară nr. 19),Piața Avram Iancu nr. 5,Timișoara,45.7651,21.2053
+28,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,167,138,159,30,20,34,17,78,165,131,170,31,21,41,18,67,Școala Gimnazială nr. 19 (Școala Primară nr. 19),Piața Avram Iancu nr. 5,Timișoara,45.7651,21.2053
+29,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,180,117,137,29,28,31,19,63,187,122,140,27,21,38,20,46,Școala Gimnazială nr. 24,Str. Brîndușei nr. 7,Timișoara,45.7659,21.2209
+30,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,194,107,115,38,23,23,13,64,195,105,125,38,24,33,12,45,Școala Gimnazială nr. 24,Str. Brîndușei nr. 7,Timișoara,45.7659,21.2209
+31,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,108,82,68,18,12,14,15,44,110,73,75,19,13,18,15,37,Școala Gimnazială nr. 24,Str. Brîndușei nr. 7,Timișoara,45.7659,21.2209
+32,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,103,84,118,25,19,38,8,60,108,87,120,21,22,40,9,43,Școala Gimnazială nr. 24,Str. Brîndușei nr. 7,Timișoara,45.7659,21.2209
+33,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,172,109,123,18,16,27,15,65,181,120,115,20,16,21,20,53,Școala Gimnazială nr. 26,Str. Ulmului nr. 2,Timișoara,45.7659,21.2173
+34,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,149,104,129,9,34,35,9,53,157,99,146,9,35,35,7,27,Școala Gimnazială nr. 26,Str. Ulmului nr. 2,Timișoara,45.7659,21.2173
+35,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,107,99,95,14,23,24,10,54,111,97,107,14,24,25,11,36,Școala Gimnazială nr. 26,Str. Ulmului nr. 2,Timișoara,45.7659,21.2173
+36,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,156,117,149,45,10,38,11,65,167,121,168,37,9,32,9,45,Școala Gimnazială nr. 26,Str. Ulmului nr. 2,Timișoara,45.7659,21.2173
+37,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,174,84,116,35,35,37,11,76,190,83,128,43,33,41,14,46,Școala Gimnazială nr. 18,Str. Amforei nr. 6,Timișoara,45.764,21.2166
+38,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,234,122,135,24,27,37,17,81,244,114,164,23,27,37,15,53,Școala Gimnazială nr. 18,Str. Amforei nr. 6,Timișoara,45.764,21.2166
+39,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,138,84,91,25,24,34,11,68,149,85,103,29,26,28,11,47,Școala Gimnazială nr. 18,Str. Amforei nr. 6,Timișoara,45.764,21.2166
+40,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,137,82,94,20,22,22,11,46,137,81,104,17,22,27,14,37,Clubul Sportiv Școlar nr. 1,Str. Amforei nr. 4,Timișoara,45.7636,21.2167
+41,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,151,125,107,37,24,36,18,69,153,114,123,35,25,38,19,61,Grădinița cu Program Prelungit nr. 36,Str. Teiului nr. 5,Timișoara,45.7635,21.218
+42,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,136,129,123,25,30,44,12,55,129,126,134,32,33,47,9,33,Școala Gimnazială nr. 19 „Avram Iancu”,Bulevardul Cetății nr. 24,Timișoara,45.7621,21.2107
+43,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,147,90,127,30,23,44,13,54,160,83,135,30,24,41,15,39,Școala Gimnazială nr. 19 „Avram Iancu”,Bulevardul Cetății nr. 24,Timișoara,45.7621,21.2107
+44,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,158,134,131,24,18,46,15,69,165,125,149,25,20,42,18,46,Școala Gimnazială nr. 19 „Avram Iancu”,Bulevardul Cetății nr. 24,Timișoara,45.7621,21.2107
+45,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,153,131,123,32,20,25,14,50,160,128,134,29,21,22,10,35,Școala Gimnazială nr. 19 „Avram Iancu”,Bulevardul Cetății nr. 24,Timișoara,45.7621,21.2107
+46,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,166,127,148,24,33,34,16,70,174,123,166,29,31,31,12,48,Grădinița cu Program Prelungit nr. 26,Str. Teiului nr. 3,Timișoara,45.7625,21.217
+47,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,183,101,131,18,10,37,16,69,197,97,152,19,15,27,14,42,Grădinița cu Program Prelungit nr. 26,Str. Teiului nr. 3,Timișoara,45.7625,21.217
+48,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,164,95,163,29,12,28,16,75,180,101,182,31,10,18,13,45,Grădinița cu Program Prelungit nr. 20 (Grădinița cu Program Prelungit nr. 9 „Carla Pelz”),Str. Crișan nr. 21-23,Timișoara,45.7655,21.2047
+49,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,150,150,146,30,11,20,16,76,157,149,155,27,13,23,13,52,Grădinița cu Program Prelungit nr. 20 (Grădinița cu Program Prelungit nr. 9 „Carla Pelz”),Str. Crișan nr. 21-23,Timișoara,45.7655,21.2047
+50,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,83,69,65,24,23,34,9,38,87,67,71,25,20,41,9,25,"Biroul Locuințe/Direcția Clădiri, Terenuri și Dotări Diverse- Primăria Municipiului Timișoara",Str. Oituz nr. 1,Timișoara,45.7591,21.2308
+51,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,137,81,114,9,7,22,12,51,143,79,117,11,7,27,12,37,Liceul Tehnologic de Industrie Alimentară,Calea Bogdăneștilor (Calea Mareșal Ion Antonescu) nr. 32A,Timișoara,45.7585,21.2075
+52,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,159,92,131,25,14,27,14,72,167,89,142,28,15,29,16,49,Liceul Tehnologic de Industrie Alimentară,Calea Bogdăneștilor (Calea Mareșal Ion Antonescu) nr. 32A,Timișoara,45.7585,21.2075
+53,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,135,76,137,30,15,28,14,52,141,73,134,34,14,32,12,40,Liceul Tehnologic Ucecom „Spiru Haret”,Calea Bogdăneștilor (Calea Mareșal Ion Antonescu) nr. 32B,Timișoara,45.7592,21.2037
+54,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,170,101,115,24,11,30,14,42,173,98,117,18,16,36,12,37,Liceul Tehnologic Ucecom „Spiru Haret”,Calea Bogdăneștilor (Calea Mareșal Ion Antonescu) nr. 32B,Timișoara,45.7592,21.2037
+55,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,189,96,177,58,22,44,19,74,199,100,181,61,23,42,14,52,Colegiul Tehnic „Henr. Coandă” (Școala Primară nr. 11),Str. Războieni nr. 2,Timișoara,45.7514,21.1894
+56,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,188,110,166,39,17,32,18,74,188,108,179,39,18,32,19,62,Colegiul Tehnic „Henr. Coandă” (Școala Primară nr. 11),Str. Războieni nr. 2,Timișoara,45.7514,21.1894
+57,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,180,147,186,46,21,31,8,51,180,147,195,38,22,37,13,48,Colegiul Tehnic „Henr. Coandă” (Școala Primară nr. 11),Str. Războieni nr. 2,Timișoara,45.7514,21.1894
+58,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,127,90,148,23,13,42,11,53,137,87,152,25,16,44,10,35,Școala Gimnazială nr. 19 „Avram Iancu” (Școala Primară nr. 19),Str. Aprodul Movila nr. 10,Timișoara,45.7568,21.2089
+59,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,143,161,191,39,40,49,20,84,148,166,203,41,38,56,17,56,Școala Gimnazială nr. 19 „Avram Iancu” (Școala Primară nr. 19),Str. Aprodul Movila nr. 10,Timișoara,45.7568,21.2089
+60,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,127,72,105,25,9,30,11,47,140,70,107,28,8,26,9,35,Școala Gimnazială nr. 19 „Avram Iancu” (Școala Primară nr. 19),Str. Aprodul Movila nr. 10,Timișoara,45.7568,21.2089
+61,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,109,79,97,12,21,32,16,55,121,77,107,13,22,29,11,37,Inspectoratul Teritorial de Muncă Timiș,Splaiul Nicolae Titulescu nr. 12,Timișoara,45.7475,21.2086
+62,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,161,85,107,25,24,43,14,73,176,77,118,28,24,44,7,49,S.C. Drumuri Municipale Timișoara S.A. (fosta Administrarea Domeniului Public),Splaiul Nicolae Titulescu nr. 10,Timișoara,45.7485,21.2115
+63,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,107,43,112,23,8,19,7,40,113,40,111,24,10,22,8,33,S.C. Drumuri Municipale Timișoara S.A. (fosta Administrarea Domeniului Public),Splaiul Nicolae Titulescu nr. 10,Timișoara,45.7485,21.2115
+64,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,107,78,95,24,27,31,8,52,116,76,102,27,28,35,6,29,Colegiul Tehnic de Vest,Bulevardul Regele Carol I (Bulevardul Tinereții) nr. 11,Timișoara,45.745,21.2122
+65,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,94,65,106,13,12,21,16,56,100,62,116,14,11,20,19,44,Colegiul Tehnic de Vest,Bulevardul Regele Carol I (Bulevardul Tinereții) nr. 11,Timișoara,45.745,21.2122
+66,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,81,84,77,24,21,19,12,52,85,79,81,23,21,15,11,48,Colegiul Tehnic de Vest,Bulevardul Regele Carol I (Bulevardul Tinereții) nr. 11,Timișoara,45.745,21.2122
+67,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,102,69,93,24,22,18,9,34,106,68,93,20,26,20,9,28,Școala Gimnazială nr. 12,Bulevardul Regele Carol I (Bulevardul Tinereții) nr. 17,Timișoara,45.7446,21.2096
+68,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,110,66,92,30,30,13,15,74,121,67,102,22,35,20,11,45,Școala Gimnazială nr. 12,Bulevardul Regele Carol I (Bulevardul Tinereții) nr. 17,Timișoara,45.7446,21.2096
+69,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,110,56,83,19,8,16,7,29,111,54,90,12,8,24,8,23,Colegiul Economic „F.S.Nitti”,Str. Corbului nr. 7,Timișoara,45.7412,21.22
+70,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,82,71,99,24,25,21,6,53,89,75,103,28,30,25,6,27,Colegiul Economic „F.S.Nitti”,Str. Corbului nr. 7,Timișoara,45.7412,21.22
+71,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,145,121,136,19,20,32,8,54,148,110,146,20,22,38,12,41,Colegiul Economic „F.S.Nitti”,Str. Corbului nr. 7,Timișoara,45.7412,21.22
+72,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,99,104,126,33,20,45,16,61,111,103,141,36,21,36,13,41,Colegiul Economic „F.S. Nitti”,Str. Corbului nr. 7,Timișoara,45.7412,21.22
+73,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,103,93,83,20,20,20,11,60,111,98,87,22,23,25,13,35,Liceul Teoretic „Grigore Moisil” (Școala Gimnazială nr. 22),Piața Nicolae Bălcescu nr. 3,Timișoara,45.7418,21.2265
+74,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,78,88,93,15,15,24,16,61,83,79,102,17,14,33,16,46,Liceul Teoretic „Grigore Moisil” (Școala Gimnazială nr. 22),Piața Nicolae Bălcescu nr. 3,Timișoara,45.7418,21.2265
+75,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,116,87,96,12,20,23,11,44,123,92,97,11,21,25,10,31,Liceul Teoretic „Grigore Moisil” (Școala Gimnazială nr. 22),Piața Nicolae Bălcescu nr. 3,Timișoara,45.7418,21.2265
+76,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,112,103,93,26,37,23,10,64,114,102,101,30,39,29,8,43,Liceul Teoretic „Grigore Moisil” (Școala Gimnazială nr. 22),Piața Nicolae Bălcescu nr. 3,Timișoara,45.7418,21.2265
+77,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,86,106,108,19,32,27,10,52,84,109,118,19,33,26,10,40,Liceul „Grigore Moisil”,Str. Ghirlandei nr. 4,Timișoara,45.7415,21.2273
+78,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,127,85,108,18,28,21,14,43,131,87,113,16,29,23,13,34,Liceul „Grigore Moisil”,Str. Ghirlandei nr. 4,Timișoara,45.7415,21.2273
+79,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,149,149,152,38,39,58,14,78,165,144,168,34,37,45,17,63,Școala Sf. Antim Ivireanul (Fost Liceul de Arte Plastice -fosta Școala Generală nr. 9),Bulevardul Liviu Rebreanu (Bulevardul Plavăț Ștefan) (D) nr. 35,Timișoara,45.734,21.2223
+80,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,128,86,144,31,30,39,13,63,125,87,146,33,34,46,13,46,Școala Sf. Antim Ivireanul (Fost Liceul de Arte Plastice -fosta Școala Generală nr. 9),Bulevardul Liviu Rebreanu (Bulevardul Plavăț Ștefan) (D) nr. 35,Timișoara,45.734,21.2223
+81,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,140,116,132,32,54,25,15,65,152,115,149,34,45,31,13,41,Școala Sf. Antim Ivireanul (Fost Liceul de Arte Plastice -fosta Școala Generală nr. 9),Bulevardul Liviu Rebreanu (Bulevardul Plavăț Ștefan) (D) nr. 35,Timișoara,45.734,21.2223
+82,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,119,97,120,31,42,31,4,39,129,94,130,32,43,26,5,22,Școala Sf. Antim Ivireanul (Fost Liceul de Arte Plastice -fosta Școala Generală nr. 9),Bulevardul Liviu Rebreanu (Bulevardul Plavăț Ștefan) (D) nr. 35,Timișoara,45.734,21.2223
+83,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,152,87,94,31,27,21,12,60,155,85,103,33,22,21,13,51,Școala Gimnazială nr. 27 (Gradinița cu Program Prelungit nr. 3),Str. Nicolae Leonard nr. 13,Timișoara,45.7311,21.2056
+84,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,138,72,110,19,24,36,9,57,143,68,122,19,27,30,10,46,Școala Gimnazială nr. 27 (Gradinița cu Program Prelungit nr. 3),Str. Nicolae Leonard nr. 13,Timișoara,45.7311,21.2056
+85,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,195,115,115,16,25,33,16,75,216,113,124,21,22,30,15,45,Școala Gimnazială nr. 27,Aleea Gorniștilor nr. 3,Timișoara,45.7326,21.2037
+86,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,160,102,146,23,26,34,10,63,177,100,160,25,25,32,10,46,Școala Gimnazială nr. 27,Aleea Gorniștilor nr. 3,Timișoara,45.7326,21.2037
+87,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,190,96,134,41,23,39,14,71,210,92,149,40,23,34,17,45,Școala Gimnazială nr. 27,Aleea Gorniștilor nr. 3,Timișoara,45.7326,21.2037
+88,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,184,98,115,24,11,35,16,61,188,99,120,26,10,34,22,51,Școala Gimnazială nr. 27,Aleea Gorniștilor nr. 3,Timișoara,45.7326,21.2037
+89,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,138,53,89,19,9,20,14,50,143,52,91,20,12,19,13,42,Școala Gimnazială nr. 6,Str. Vulturilor nr. 89,Timișoara,45.7395,21.1979
+90,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,147,72,112,24,17,28,13,49,152,72,121,22,19,26,11,35,Școala Gimnazială nr. 6,Str. Vulturilor nr. 89,Timișoara,45.7395,21.1979
+91,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,138,62,127,31,28,30,13,74,145,61,137,30,28,32,12,46,Școala Gimnazială nr. 6,Str. Vulturilor nr. 89,Timișoara,45.7395,21.1979
+92,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,169,74,109,22,32,30,13,56,173,71,123,22,31,35,11,41,Școala Gimnazială nr. 6,Str. Vulturilor nr. 89,Timișoara,45.7395,21.1979
+93,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,149,65,154,36,24,29,15,81,150,66,166,32,25,31,16,60,Liceul Tehnologic Transporturi Auto,Str. Ardealului nr. 1,Timișoara,45.7284,21.1803
+94,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,154,77,125,34,49,23,8,64,160,74,137,40,45,23,10,47,Liceul Tehnologic Transporturi Auto,Str. Ardealului nr. 1,Timișoara,45.7284,21.1803
+95,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,174,85,147,52,15,21,20,69,173,84,162,43,13,25,20,61,Liceul Tehnologic Transporturi Auto,Str. Ardealului nr. 1,Timișoara,45.7284,21.1803
+96,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,135,52,120,20,31,37,10,45,141,58,122,23,31,33,11,36,Liceul Tehnologic Transporturi Auto (Școala Gimnazială nr. 29),Str. Ion Slavici nr. 51,Timișoara,45.7238,21.1758
+97,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,133,16,81,34,7,10,6,35,136,19,87,35,7,8,6,27,Liceul Tehnologic Transporturi Auto (Școala Gimnazială nr. 29),Str. Ion Slavici nr. 51,Timișoara,45.7238,21.1758
+98,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,84,30,107,15,30,12,15,64,92,33,107,14,28,14,19,55,Liceul Tehnologic Transporturi Auto (Școala Gimnazială nr. 29),Str. Ion Slavici nr. 51,Timișoara,45.7238,21.1758
+99,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,191,81,157,33,19,42,7,55,200,75,174,30,21,40,11,38,Școala Gimnazială nr. 15 (Școala Primară nr. 15),Str. Izlaz (Str. Islaz) nr. 44,Timișoara,45.7231,21.2113
+100,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,166,86,120,43,17,25,10,51,176,84,130,39,19,25,13,39,Școala Gimnazială nr. 15 (Școala Primară nr. 15),Str. Izlaz (Str. Islaz) nr. 44,Timișoara,45.7231,21.2113
+101,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,145,83,121,37,27,34,13,55,147,82,134,32,26,35,16,47,Școala Gimnazială nr. 2 (Grădinița cu Program Prelungit nr. 29),Str. Mureș nr. 6,Timișoara,45.7294,21.2127
+102,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,128,120,121,24,25,21,17,52,131,117,130,23,27,27,18,33,Școala Gimnazială nr. 2 (Grădinița cu Program Prelungit nr. 29),Str. Mureș nr. 6,Timișoara,45.7294,21.2127
+103,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,147,87,127,30,45,38,16,61,157,78,139,28,43,44,18,47,Școala Gimnazială nr. 2,Str. Mureș nr. 8,Timișoara,45.7294,21.2127
+104,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,189,100,116,25,28,29,11,59,196,99,125,25,28,24,13,43,Școala Gimnazială nr. 2,Str. Mureș nr. 8,Timișoara,45.7294,21.2127
+105,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,178,75,125,27,34,26,10,49,184,77,139,29,28,29,12,26,Școala Gimnazială nr. 2,Str. Mureș nr. 8,Timișoara,45.7294,21.2127
+106,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,198,185,212,43,44,42,18,86,205,183,220,48,48,50,17,57,Grădinița cu Program Prelungit nr. 2 (Grădinița cu Program Prelungit nr. 1),Str. Aluniș nr. 41 A,Timișoara,45.7231,21.2267
+107,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,188,130,167,38,43,37,26,94,210,130,172,33,43,39,24,68,Grădinița cu Program Prelungit nr. 2 (Grădinița cu Program Prelungit nr. 1),Str. Aluniș nr. 41A,Timișoara,45.7231,21.2267
+108,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,132,102,105,26,24,34,11,62,141,102,113,30,25,37,11,38,Liceul Teoretic „Vlad Țepes” (Grădinița cu Program Prelungit nr. 28),Str. Retezat nr. 1,Timișoara,45.7441,21.2408
+109,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,156,138,163,27,35,44,16,75,159,140,180,28,37,53,13,39,Liceul cu Program Sportiv „Banatul”,Aleea F.C. Ripensia (Aleea Sportivilor) nr. 29,Timișoara,45.7423,21.2453
+110,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,50,71,82,15,11,17,11,60,58,73,91,11,15,19,11,40,Colegiul National de Arta „Ion Vidu”,Str. Cluj nr. 12,Timișoara,45.7467,21.2348
+111,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,131,122,173,19,25,21,12,33,136,122,173,17,25,22,18,31,Fundația Județeană Pentru Tineret Timiș (fosta Casa Tineretului),Str. Arieș nr. 19,Timișoara,45.7411,21.2396
+112,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,153,163,141,41,19,53,12,74,178,168,153,41,17,51,9,35,Fundația Județeană Pentru Tineret Timiș (fosta Casa Tineretului),Str. Arieș nr. 19,Timișoara,45.7411,21.2396
+113,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,119,58,80,22,18,34,7,30,125,54,86,20,16,31,9,31,Fundația Județeană Pentru Tineret Timiș (fosta Casa Tineretului),Str. Arieș nr. 19,Timișoara,45.7411,21.2396
+114,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,56,66,92,7,13,19,5,28,62,68,97,7,11,16,3,22,Liceul Teoretic „Jean Louis Calderon” (fosta Școala Gimnazială nr. 28) „Corp B”,Str. Cornelia Sălceanu (Str. Fagului) nr. 11,Timișoara,45.7531,21.2428
+115,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,164,205,237,43,39,45,21,56,171,191,252,47,41,52,15,35,Școala Gimnazială nr. 30,Str. Aștrilor nr. 13,Timișoara,45.7336,21.251
+116,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,154,111,182,21,15,41,20,67,162,110,192,23,14,40,16,45,Școala Gimnazială nr. 30,Str. Aștrilor nr. 13,Timișoara,45.7336,21.251
+117,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,188,113,214,36,23,51,13,43,203,111,220,35,20,46,12,35,Școala Gimnazială nr. 30,Str. Aștrilor nr. 13,Timișoara,45.7336,21.251
+118,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,166,113,191,26,26,34,13,50,180,121,197,23,25,24,13,32,Școala Gimnazială nr. 30,Str. Aștrilor nr. 13,Timișoara,45.7336,21.251
+119,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,168,112,181,20,18,39,9,48,176,113,187,16,15,41,13,39,Școala Gimnazială nr. 30,Str. Aștrilor nr. 13,Timișoara,45.7336,21.251
+120,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,105,123,183,21,17,24,14,61,117,119,190,24,17,24,11,40,Universitatea Politehnica Timișoara - Cantina Studențească,Aleea F.C. Ripensia (Aleea Sportivilor) nr. 3,Timișoara,45.7484,21.2398
+121,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,115,83,119,17,12,21,11,41,119,82,122,16,12,29,7,29,Universitatea Politehnica Timișoara- Cantina Studențească,Aleea F.C. Ripensia (Aleea Sportivilor) nr. 3,Timișoara,45.7484,21.2398
+122,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,121,97,120,39,15,24,28,61,130,97,130,38,14,25,24,48,Liceul Teoretic „William Shakespeare” (fosta Școala Gimnazială nr. 5),Str. Prof. Nicoară Moise nr. 17,Timișoara,45.7577,21.2572
+123,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,124,102,135,24,22,29,9,59,131,106,131,30,18,30,10,46,Liceul Teoretic „William Shakespeare” (fosta Școala Gimnazială nr. 5),Str. Prof. Nicoară Moise nr. 17,Timișoara,45.7577,21.2572
+124,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,122,79,108,25,11,29,21,61,127,82,111,27,12,29,22,48,Gradinița cu Program Prelungit nr. 11,Str. Versului nr. 2,Timișoara,45.735,21.2409
+125,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,110,89,115,29,7,34,16,47,115,82,126,27,8,28,16,48,Gradinița cu Program Prelungit nr. 11,Str. Versului nr. 2,Timișoara,45.735,21.2409
+126,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,162,105,133,20,18,35,17,63,162,106,142,16,17,34,19,58,Colegiul Tehnic „Azur”,Calea Martirilor 1989 (Calea Girocului) nr. 64,Timișoara,45.7331,21.2368
+127,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,136,148,155,25,21,33,14,43,139,142,155,28,20,32,15,38,Colegiul Tehnic „Azur”,Calea Martirilor 1989 (Calea Girocului) nr. 64,Timișoara,45.7331,21.2368
+128,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,126,102,109,19,16,26,14,40,130,99,112,19,17,22,13,36,Colegiul Tehnic „Azur”,Calea Martirilor 1989 (Calea Girocului) nr. 64,Timișoara,45.7331,21.2368
+129,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,112,98,96,20,14,28,8,32,119,90,105,19,13,28,8,29,Colegiul Tehnic „Azur”,Calea Martirilor 1989 (Calea Girocului) nr. 64,Timișoara,45.7331,21.2368
+130,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,131,97,101,29,7,25,14,58,135,93,113,28,8,30,12,38,Colegiul Tehnic „Azur”,Calea Martirilor 1989 (Calea Girocului) nr. 64,Timișoara,45.7331,21.2368
+131,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,120,94,110,19,14,40,3,38,123,90,110,25,16,39,6,31,Colegiul Tehnic „Azur”,Calea Martirilor 1989 (Calea Girocului) nr. 64,Timișoara,45.7331,21.2368
+132,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,141,93,138,32,13,32,12,60,146,83,141,31,14,33,14,57,Liceul Teoretic „Iris”,Str. Cosminului nr. 40,Timișoara,45.7344,21.2332
+133,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,156,154,157,34,17,45,8,68,166,148,167,31,16,44,13,56,Școala Gimnazială nr. 25,Str. Cosminului nr. 42,Timișoara,45.7333,21.2338
+134,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,189,141,160,44,35,35,16,61,202,134,162,40,40,41,16,50,Școala Gimnazială nr. 25,Str. Cosminului nr. 42,Timișoara,45.7333,21.2338
+135,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,173,181,230,38,18,61,19,80,184,169,233,43,21,68,24,58,Școala Gimnazială nr. 25,Str. Cosminului nr. 42,Timișoara,45.7333,21.2338
+136,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,172,131,157,31,29,57,18,47,185,117,175,31,24,48,13,39,Școala Gimnazială nr. 25,Str. Cosminului nr. 42,Timișoara,45.7333,21.2338
+137,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,160,116,152,24,25,40,8,56,163,111,165,24,22,38,13,47,Școala Gimnazială nr. 25,Str. Cosminului nr. 42,Timișoara,45.7333,21.2338
+138,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,99,67,96,34,17,31,2,57,100,73,103,36,16,35,3,31,Grădinița cu Program Prelungit nr. 11 (Grădinița cu Program Prelungit nr. 12),Piața Axente Sever nr. 10,Timișoara,45.7391,21.2307
+139,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,135,58,116,16,17,42,9,60,155,61,129,15,18,30,12,47,Școala Gimnazială nr. 15,Str. Chișodei nr. 1,Timișoara,45.7249,21.2096
+140,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,100,63,110,25,12,28,10,46,106,61,119,31,12,26,9,28,Școala Gimnazială nr. 15,Str. Chișodei nr. 1,Timișoara,45.7249,21.2096
+141,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,143,116,124,17,28,25,16,64,154,109,136,20,27,23,14,43,Școala Gimnazială nr. 15,Str. Chișodei nr. 1,Timișoara,45.7249,21.2096
+142,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,100,66,74,24,34,36,9,35,101,60,84,23,43,26,6,29,Școala Gimnazială nr. 15,Str. Chișodei nr. 1,Timișoara,45.7249,21.2096
+143,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,92,90,70,27,13,28,14,63,100,81,74,30,14,32,19,52,S.C. „Drumuri Municipale Timișoara” S.A.,Str. Eternității nr. 45,Timișoara,45.7173,21.2043
+144,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,132,72,122,37,33,26,10,59,137,70,127,35,36,23,11,55,S.C. „Drumuri Municipale Timișoara” S.A.,Str. Eternității nr. 45,Timișoara,45.7173,21.2043
+145,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,163,69,106,21,18,39,9,52,172,70,101,19,22,34,11,45,Gradinița cu Program Prelungit nr. 23,Str. Gavril Musicescu nr. 9,Timișoara,45.7287,21.2082
+146,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,124,41,100,21,15,19,10,43,125,44,105,18,13,14,11,40,Școala Gimnazială nr. 13,Str. Gavril Musicescu nr. 14,Timișoara,45.727,21.2103
+147,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,161,87,118,26,26,32,15,66,171,86,127,21,26,27,13,58,Școala Gimnazială nr. 13,Str. Gavril Musicescu nr. 14,Timișoara,45.727,21.2103
+148,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,136,53,100,25,15,22,6,40,135,58,104,26,14,25,7,29,Școala Gimnazială nr. 13,Str. Gavril Musicescu nr. 14,Timișoara,45.727,21.2103
+149,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,106,49,71,21,19,13,17,59,111,48,79,23,18,13,20,46,Școala Gimnazială nr. 13,Str. Gavril Musicescu nr. 14,Timișoara,45.727,21.2103
+150,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,168,114,167,37,14,38,19,57,182,111,178,33,14,39,17,40,Colegiul Tehnic Electrotimiș,Str. Matei Millo nr. 2/a,Timișoara,45.7297,21.2643
+151,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,129,56,130,40,46,26,21,51,136,53,141,35,45,20,18,43,Colegiul Tehnic Electrotimiș,Str. Matei Millo nr. 2/a,Timișoara,45.7297,21.2643
+152,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,163,148,146,23,14,34,12,52,156,148,153,20,16,38,16,45,Colegiul Tehnic Electrotimiș,Str. Matei Millo nr. 2/a,Timișoara,45.7297,21.2643
+153,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,86,53,94,25,10,19,12,43,96,51,99,23,10,15,9,41,Colegiul Tehnic Electrotimiș,Str. Matei Millo nr. 2/a,Timișoara,45.7297,21.2643
+154,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,164,143,179,51,43,55,8,74,173,143,185,46,48,68,12,44,Liceul Teoretic „Vlad Tepes”,Str. Surorile Martir Caceu (Str. Negoiul) nr. 47,Timișoara,45.7449,21.2467
+155,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,59,59,109,17,8,19,4,24,60,58,111,16,9,17,6,23,Liceul Teoretic „Vlad Tepes”,Str. Surorile Martir Caceu (Str. Negoiul) nr. 47,Timișoara,45.7449,21.2467
+156,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,153,97,156,35,28,37,9,69,160,98,170,34,29,43,13,41,Centrul Scolar Pentru Educatie Incluziva „Constantin Pufan”,Str. Bucegi nr. 2,Timișoara,45.7443,21.2437
+157,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,151,119,243,38,15,40,18,61,158,123,250,33,16,41,1,39,Grădinița cu Program Prelungit nr. 38 (Gradinița cu Program Normal nr. 19),Str. Martir Vasile Balmuș (Str. Luminii) nr. 22,Timișoara,45.7314,21.25
+158,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,206,104,186,18,21,36,14,49,213,91,183,10,23,41,19,49,Grădinița cu Program Prelungit nr. 38 (Grădinița cu Program Normal nr. 19),Str. Martir Vasile Balmuș (Str. Luminii) nr. 22,Timișoara,45.7314,21.25
+159,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,182,122,149,21,30,44,10,75,185,127,150,19,33,50,10,56,Școala Gimnazială nr. 16 „Take Ionescu”,Str. București nr. 11,Timișoara,45.7611,21.2368
+160,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,247,109,140,26,16,41,16,75,263,116,141,30,12,39,20,65,Școala Gimnazială nr. 16 „Take Ionescu”,Str. București nr. 11,Timișoara,45.7611,21.2368
+161,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,255,128,96,21,23,32,20,64,265,126,103,22,22,33,23,52,Școala Gimnazială nr. 16 „Take Ionescu”,Str. București nr. 11,Timișoara,45.7611,21.2368
+162,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,103,70,90,21,10,23,10,41,100,69,95,20,9,27,11,36,Grădinița cu Program Prelungit nr. 53 (Grădinița cu Program Prelungit nr. 48),Str. Drăgășani nr. 1,Timișoara,45.7635,21.2463
+163,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,188,100,160,37,24,31,16,63,198,97,173,33,24,32,17,48,Colegiul Tehnic Energetic „Regele Ferdinand I”,Str. Renașterii nr. 24/A,Timișoara,45.767,21.2549
+164,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,145,110,140,20,13,38,12,72,161,107,147,20,14,38,15,57,Școala Gimnazială nr. 21 „Vicențiu Babeș”,Str. Mihail Kogălniceanu nr. 4,Timișoara,45.7636,21.2477
+165,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,172,88,124,41,23,36,15,63,181,83,134,39,20,37,21,53,Școala Gimnazială nr. 21 „Vicențiu Babeș”,Str. Mihail Kogălniceanu nr. 4,Timișoara,45.7636,21.2477
+166,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,233,124,159,43,19,45,14,61,226,124,159,43,21,52,14,57,Școala Gimnazială nr. 21 „Vicențiu Babeș”,Str. Simion Bărnuțiu nr. 9,Timișoara,45.7636,21.2477
+167,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,127,77,100,18,20,31,13,45,139,69,105,20,17,27,13,41,Școala Gimnazială nr. 21 „Vicențiu Babeș”,Str. Simion Bărnuțiu nr. 9,Timișoara,45.7636,21.2477
+168,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,149,92,149,23,8,29,15,54,156,88,152,27,9,29,15,45,Școala Gimnazială nr. 7 „Sfânta Maria”,Str. Ion Ionescu de la Brad nr. 2,Timișoara,45.7798,21.2364
+169,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,139,107,140,26,11,31,28,81,145,94,153,29,12,33,29,66,Școala Gimnazială nr. 7 „Sfânta Maria”,Str. Ion Ionescu de la Brad nr. 2,Timișoara,45.7798,21.2364
+170,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,178,98,152,32,20,32,12,67,191,100,154,31,23,33,14,44,Școala Gimnazială nr. 7 „Sfânta Maria”,Str. Ion Ionescu de la Brad nr. 2,Timișoara,45.7798,21.2364
+171,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,121,106,124,14,14,16,18,65,121,96,141,15,15,14,20,56,Școala Gimnazială nr. 7 „Sfânta Maria”,Str. Ion Ionescu de la Brad nr. 2,Timișoara,45.7798,21.2364
+172,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,128,77,79,19,19,27,10,35,140,72,92,20,16,24,13,28,Școala Gimnazială nr. 7 „Sfânta Maria”,Str. Ion Ionescu de la Brad nr. 2,Timișoara,45.7798,21.2364
+173,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,150,86,108,20,12,29,18,46,145,86,114,25,13,26,17,34,Școala Gimnazială nr. 7 „Sfânta Maria”,Str. Ion Ionescu de la Brad nr. 2,Timișoara,45.7798,21.2364
+174,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,157,99,143,20,14,50,15,74,183,95,138,19,16,45,20,55,Grădinița cu Program Prelungit nr. 20,Str. Martir Silviu Motohon (Str. Irlanda) nr. 53,Timișoara,45.7741,21.2339
+175,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,183,113,160,36,18,47,12,53,192,109,164,38,17,44,16,45,Gradinița cu Program Prelungit nr. 20,Str. Martir Silviu Motohon (Str. Irlanda) nr. 53,Timișoara,45.7741,21.2339
+176,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,170,82,168,29,14,42,15,67,183,82,169,34,13,39,18,52,Gradinița cu Program Prelungit nr. 20,Str. Martir Silviu Motohon (Str. Irlanda) nr. 53,Timișoara,45.7741,21.2339
+177,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,144,97,139,43,12,29,14,50,147,92,139,47,13,32,17,45,S.C.Retim Ecologic Service S.A.,Str. Divizia 9 Cavalerie (Str. Ialomița) (D) nr. 17,Timișoara,45.769,21.2337
+178,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,122,66,138,29,15,23,7,34,129,64,136,30,17,17,8,35,S.C.Retim Ecologic Service S.A.,Str. Divizia 9 Cavalerie (Str. Ialomița) (D) nr. 17,Timișoara,45.769,21.2337
+179,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,144,100,120,18,17,41,18,61,156,100,125,23,13,41,21,48,Colegiul Tehnic Energetic „Regele Ferdinand I” - Cămin nr. 1 (Fost Grup Școlar „Tudor Tănăsescu”),Str. Lorena nr. 25,Timișoara,45.767,21.2549
+180,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,114,80,108,32,12,29,7,43,119,81,110,28,11,28,9,36,Colegiul Tehnic Energetic „Regele Ferdinand I” - Cămin nr. 1 (Fost Grup Școlar „Tudor Tănăsescu”),Str. Lorena nr. 25,Timișoara,45.767,21.2549
+181,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,112,84,88,42,15,38,12,53,117,87,99,38,17,38,9,35,Colegiul Tehnic Energetic „Regele Ferdinand I” - Cămin nr. 1 (Fost Grup Școlar „Tudor Tănăsescu”),Str. Lorena nr. 25,Timișoara,45.767,21.2549
+182,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,86,87,105,34,7,20,7,35,96,86,103,35,9,23,5,23,Colegiul Tehnic Energetic „Regele Ferdinand I” - Cămin nr. 1 (Fost Grup Școlar „Tudor Tănăsescu”),Str. Lorena nr. 25,Timișoara,45.767,21.2549
+183,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,142,37,126,33,5,21,17,66,142,39,136,33,6,26,17,47,S.C. „Retim Ecologic Service” S.A.,Aleea Avram Imbroane (Aleea C.F.R.) nr. 70,Timișoara,45.7748,21.2633
+184,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,76,38,70,19,8,19,9,28,77,36,77,21,7,17,9,23,S.C. Retim Ecologic Service S.A.,Aleea Avram Imbroane (Aleea C.F.R.) nr. 70,Timișoara,45.7748,21.2633
+185,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,142,134,122,31,19,50,20,87,162,133,133,27,21,57,14,47,Liceul Teoretic „William Shakespeare”,Str. Ion Luca Caragiale nr. 6,Timișoara,45.7563,21.247
+186,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,83,92,112,38,11,16,10,39,86,88,121,38,11,15,13,29,Centrul Scolar Pentru Educatie Incluziva „Paul Popescu Neveanu”,Str. Titu Maiorescu (Str. Modest Petrovici Mussorgski) nr. 2-6,Timișoara,45.7556,21.2516
+187,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,88,44,76,27,14,13,8,41,95,42,78,26,15,12,6,35,Centrul Scolar Pentru Educatie Incluziva „Paul Popescu Neveanu”,Str. Titu Maiorescu (Str. Modest Petrovici Mussorgski) nr. 2-6,Timișoara,45.7556,21.2516
+188,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,91,65,78,22,10,29,4,34,92,56,91,24,11,27,8,25,Centrul Scolar Pentru Educatie Incluziva „Paul Popescu Neveanu”,Str. Titu Maiorescu (Str. Modest Petrovici Mussorgski) nr. 2-6,Timișoara,45.7556,21.2516
+189,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,78,46,78,9,11,16,11,42,83,48,83,8,12,16,11,29,Centrul Școlar Pentru Educație Incluzivă „Paul Popescu Neveanu”,Str. Titu Maiorescu (Str. Modest Petrovici Mussorgski) nr. 2-6,Timișoara,45.7556,21.2516
+190,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,124,65,112,20,12,26,10,38,125,61,125,17,11,29,10,27,Liceul Teoretic Jean Louis Calderon Corp A,Str. Johann Heinrich Pestalozzi (Str. Heinrich Iohann Pestalozzi) nr. 14,Timișoara,45.7541,21.2431
+191,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,107,107,139,43,24,25,15,61,111,106,149,44,27,31,12,40,Liceul Teoretic Jean Louis Calderon Corp A,Str. Johann Heinrich Pestalozzi (Str. Heinrich Iohann Pestalozzi) nr. 14,Timișoara,45.7541,21.2431
+192,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,129,117,111,25,19,25,8,41,141,113,113,22,19,22,11,39,Liceul Teoretic Jean Louis Calderon Corp A,Str. Johann Heinrich Pestalozzi (Str. Heinrich Iohann Pestalozzi) nr. 14,Timișoara,45.7541,21.2431
+193,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,107,93,115,24,13,25,14,44,116,89,123,23,14,25,12,31,Liceul Teoretic Jean Louis Calderon Corp A,Str. Johann Heinrich Pestalozzi (Str. Heinrich Iohann Pestalozzi) nr. 14,Timișoara,45.7541,21.2431
+194,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,134,74,137,37,34,28,10,66,142,76,142,40,37,29,11,43,Liceul Teologic Penticostal Logos,Str. Transilvania nr. 10A,Timișoara,45.7363,21.2025
+195,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,121,71,80,15,16,27,13,38,125,70,87,19,12,26,16,29,Liceul Teologic Penticostal Logos,Str. Transilvania nr. 10A,Timișoara,45.7363,21.2025
+196,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,135,56,95,22,20,24,8,45,139,62,98,25,23,22,8,27,Liceul Teologic Penticostal Logos,Str. Transilvania nr. 10A,Timișoara,45.7363,21.2025
+197,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,143,77,109,14,22,17,9,76,157,80,124,18,20,18,11,41,Liceul Teologic Penticostal Logos,Str. Transilvania nr. 10A,Timișoara,45.7363,21.2025
+198,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,119,54,117,26,20,21,8,42,126,52,124,27,17,26,10,25,Școala Gimnazială nr. 6 (Gradinița cu Program Prelungit nr. 30),Str. Vasile Lupu nr. 29/a,Timișoara,45.7379,21.1987
+199,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,119,72,148,39,28,49,15,54,131,67,165,37,24,50,12,33,Școala Gimnazială nr. 6 (Gradinița cu Program Prelungit nr. 30),Str. Vasile Lupu nr. 29/a,Timișoara,45.7379,21.1987
+200,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,189,141,189,43,112,42,15,68,193,128,208,40,112,47,14,51,Colegiul Tehnic „Electrotimiș” (Școala Gimnazială nr. 20),Str. Martir Constantin Radu (Str. Humulești) nr. 23,Timișoara,45.7263,21.2682
+201,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,165,62,151,35,22,30,20,65,179,55,154,31,27,28,19,57,Școala Gimnazială nr. 1 (Școala Gimnazială nr. 4),Str. Jules Verne nr. 64,Timișoara,45.7498,21.2794
+202,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,152,89,120,25,22,31,15,63,159,91,127,24,19,31,16,47,Școala Gimnazială nr. 1 (Școala Gimnazială nr. 4),Str. Jules Verne nr. 64,Timișoara,45.7498,21.2794
+203,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,169,60,146,27,16,35,15,60,171,65,146,27,18,37,16,51,Grădinița cu Program Prelungit nr. 38 (Grădinița cu Program Prelungit nr. 6),Str. Ismail (Str. Țepeș Vodă) nr. 17,Timișoara,45.7601,21.2784
+204,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,159,67,104,19,17,34,9,42,169,73,102,21,13,30,10,37,Grădinița cu Program Prelungit nr. 38 (Grădinița cu Program Prelungit nr. 6),Str. Ismail (Str. Țepeș Vodă) nr. 17,Timișoara,45.7601,21.2784
+205,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,120,37,76,19,10,19,8,34,125,31,82,14,9,18,8,33,Telekom România Communications S.A.,Str. Torac nr. 45-47,Timișoara,45.7462,21.2608
+206,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,97,50,110,36,26,18,12,35,103,48,115,34,22,17,9,28,Telekom România Communications S.A.,Str. Torac nr. 45-47,Timișoara,45.7462,21.2608
+207,37,TIMIȘ,MUNICIPIUL TIMIŞOARA,73,25,63,10,4,18,5,23,73,25,61,9,4,18,3,25,Grădinița Aeroport cu Program Prelungit nr. 13,Str. Aeroport nr. 1,Timișoara,45.7966,21.3251
+416,37,TIMIȘ,GIERA,54,1,17,4,3,6,3,12,58,1,19,5,2,7,1,7,Grădinița cu Program Normal Toager,Nr. 237,Toager,45.414,20.9643
+563,37,TIMIȘ,TOMEŞTI,44,3,67,7,1,9,2,11,49,4,68,8,1,6,0,7,Grădinița cu Program Normal Tomești,Nr. 52,Tomești,45.7811,22.3129
+564,37,TIMIȘ,TOMNATIC,321,8,64,16,14,9,3,18,349,7,65,13,11,3,3,17,"Primăria Comunei Tomnatic, Corp A",Nr. 258,Tomnatic,45.989,20.6575
+565,37,TIMIȘ,TOMNATIC,257,8,45,12,4,8,2,15,275,6,43,11,1,7,2,17,"Primăria Comunei Tomnatic, Corp B",Nr. 258,Tomnatic,45.989,20.6575
+566,37,TIMIȘ,TOPOLOVĂŢU MARE,97,25,72,12,6,50,4,38,103,25,70,18,4,47,3,34,Primăria Topolovățu Mare,Nr. 321,Topolovățu Mare,45.7747,21.6213
+571,37,TIMIȘ,TORMAC,60,17,88,6,235,5,2,13,65,14,86,7,237,7,2,11,Căminul Cultural Tormac,,Tormac,45.5211,21.4909
+578,37,TIMIȘ,TRAIAN VUIA,73,3,39,23,1,28,4,8,81,4,32,20,1,33,3,9,Căminul Cultural Traian Vuia,,Traian Vuia,45.7982,22.0677
+301,37,TIMIȘ,BALINŢ,107,3,37,5,2,4,0,6,110,3,36,4,2,4,0,8,Școala Primară Tîrgoviște,Nr. 123,Târgoviște,45.8157,21.8212
+550,37,TIMIȘ,ŞANDRA,22,3,81,3,2,3,2,8,28,1,81,3,1,0,1,9,Școala Primară Uihei,Nr. 182,Uihei,45.9121,20.8616
+579,37,TIMIȘ,UIVAR,138,12,55,9,13,4,1,12,151,14,49,8,11,7,1,11,Căminul Cultural Uivar,Nr. 160,Uivar,45.6594,20.9043
+519,37,TIMIȘ,SACOŞU TURCESC,66,9,27,10,4,9,6,28,80,9,31,8,2,6,4,20,Școala Gimnazială Uliuc,Nr. 130B,Uliuc,45.6767,21.358
+520,37,TIMIȘ,SACOŞU TURCESC,18,2,25,8,2,1,2,10,20,3,24,7,2,1,3,9,Camin Cultural Unip,Nr. 64,Unip,45.6573,21.3358
+469,37,TIMIȘ,MOŞNIŢA NOUĂ,129,35,190,27,26,49,5,23,131,35,192,27,24,40,7,28,Școala Primară Urseni,Str. Mare nr. 20,Urseni,45.6931,21.3094
+544,37,TIMIȘ,SÎNMIHAIU ROMÂN,112,35,130,25,8,14,4,22,113,34,138,20,8,17,7,18,Grădinița cu P.N Utvin,,Utvin,45.7152,21.1243
+545,37,TIMIȘ,SÎNMIHAIU ROMÂN,109,20,146,23,7,17,5,47,112,24,141,28,6,20,5,41,Școala Gimnazială Utvin,,Utvin,45.7148,21.1244
+366,37,TIMIȘ,COŞTEIU,38,0,2,5,4,5,3,8,38,0,5,4,3,5,1,6,Căminul Cultural Valea Lungă Română,Nr. 14,Valea Lungă Română,45.7547,21.9532
+583,37,TIMIȘ,VARIAŞ,427,23,77,15,31,13,1,46,449,18,85,11,31,10,5,29,Căminul Cultural Variaș,Nr. 292,Variaș,46.0058,20.9586
+584,37,TIMIȘ,VARIAŞ,470,16,59,14,28,12,4,86,510,19,73,15,26,16,8,36,Școala Gimnazială Varias,,Variaș,46.0069,20.961
+588,37,TIMIȘ,VICTOR VLAD DELAMARINA,174,4,40,6,4,5,2,16,181,3,46,6,4,3,2,7,Căminul Cultural V.V Delamarina,Nr. 105,Victor Vlad Delamarina,45.6418,21.8973
+429,37,TIMIȘ,GOTTLOB,20,5,34,5,1,3,3,10,24,3,35,6,1,3,3,6,Grădinița cu PN Vizejdia,,Vizejdia,45.941,20.654
+593,37,TIMIȘ,VICTOR VLAD DELAMARINA,85,0,9,4,1,3,2,13,93,0,10,5,1,1,1,6,Școala Primară Vișag,,Vișag,45.549,21.8113
+594,37,TIMIȘ,VOITEG,166,15,99,62,3,25,24,69,171,17,104,69,3,21,24,58,Primăria Voiteg,Nr. 114,Voiteg,45.4708,21.2351
+356,37,TIMIȘ,CHEVEREŞU MARE,53,5,25,4,4,43,2,28,65,6,33,4,2,41,1,15,Școala Primară Vucova,Nr. 212,Vucova,45.6197,21.5119
+587,37,TIMIȘ,VĂLCANI,251,9,83,8,1,12,8,40,283,6,79,6,2,11,5,19,Primăria Vălcani,Nr. 222,Vălcani,46.0028,20.4003
+554,37,TIMIȘ,ŞTIUCA,16,3,33,16,2,37,0,5,22,1,39,15,1,32,0,3,Căminul Cultural Zgribești,Nr. 141,Zgribești,45.5323,22.0245
+546,37,TIMIȘ,ŞAG,353,76,140,16,26,85,15,48,365,77,151,14,21,85,11,36,Casa Nationala Mihai Viteazu,,Șag,45.6516,21.1642
+547,37,TIMIȘ,ŞAG,266,65,122,30,8,63,6,44,280,68,124,31,8,59,8,32,Casa Nationala Mihai Viteazul,,Șag,45.6515,21.1643
+548,37,TIMIȘ,ŞANDRA,161,19,162,16,7,10,3,21,166,15,163,14,7,12,2,15,Școala Gimnazială Sandra,Nr. 29,Șandra,45.9251,20.892
+549,37,TIMIȘ,ŞANDRA,92,3,96,10,3,19,7,18,96,3,97,11,4,18,7,13,Școala Gimnazială Sandra,Nr. 29,Șandra,45.9251,20.892
+409,37,TIMIȘ,GHIZELA,67,7,52,9,1,8,10,15,71,6,52,10,1,7,8,16,Casa Natională „Nicolae Ursu” Șanovița,Nr. 32,Șanovița,45.8,21.7256
+273,37,TIMIȘ,ORAŞ GĂTAIA,24,1,46,1,3,4,3,40,34,1,67,1,3,3,5,11,Școala Primară Semlacu Mare,Nr. 168,Șemlacu Mare,45.3633,21.4391
+274,37,TIMIȘ,ORAŞ GĂTAIA,19,0,21,3,1,2,0,25,26,0,38,3,2,2,1,4,Școala Primară Șemlacul Mic,Nr. 78,Șemlacu Mic,45.349,21.4115
+573,37,TIMIȘ,TORMAC,121,1,39,5,6,7,4,14,123,2,36,6,6,9,4,10,Căminul Cultural Șipet,,Șipet,45.5088,21.3975
+551,37,TIMIȘ,ŞTIUCA,50,3,141,65,1,32,0,10,56,2,139,58,3,33,0,11,Căminul Cultural Știuca,Nr. 112,Știuca,45.5713,21.9808
+365,37,TIMIȘ,COŞTEIU,36,5,15,7,178,2,1,10,39,4,20,8,173,2,0,5,Căminul Cultural Țipari,,Țipari,45.763,21.8508

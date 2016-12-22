@@ -1,0 +1,448 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+433,8,BRAȘOV,VAMA BUZĂULUI,146,7,45,5,1,9,5,26,157,7,46,5,1,11,4,11,Centrul Local de Informare și Promovare Turistică Vama Buzăului,Nr. 93,Acriș,45.6325,25.9943
+282,8,BRAȘOV,APAŢA,16,3,79,0,137,8,6,20,17,5,84,3,137,7,6,14,Căminul Cultural,Nr. 278,Apața,45.9491,25.5307
+283,8,BRAȘOV,APAŢA,32,0,34,1,175,6,4,14,28,2,33,2,180,10,4,8,Căminul Cultural,Nr. 278,Apața,45.9491,25.5307
+364,8,BRAȘOV,MĂIERUŞ,78,5,288,4,3,4,7,18,75,7,292,1,3,6,6,12,Caminul Cultural Arini,Nr. 64,Arini,45.8864,25.5646
+284,8,BRAȘOV,AUGUSTIN,311,3,99,7,2,5,13,29,319,3,91,12,3,5,17,33,Grădinița de Copii,Str. Lungă nr. 272,Augustin,46.0464,25.5453
+285,8,BRAȘOV,BECLEAN,80,19,125,8,1,42,7,28,85,22,128,10,1,46,4,11,Camin Cultural Beclean,Nr. 196,Beclean,45.8315,24.923
+308,8,BRAȘOV,CAŢA,29,1,111,6,1,0,3,4,31,1,113,7,0,2,1,2,Școala Generală Beia,Nr. 242,Beia,46.1455,25.184
+392,8,BRAȘOV,RECEA,57,6,55,17,0,4,2,30,62,7,64,22,0,6,3,9,Grădinița Berivoi,Nr. 180,Berivoi,45.7441,24.9748
+290,8,BRAȘOV,BOD,143,41,84,16,3,29,21,45,146,48,87,17,5,29,16,30,Școala Gimnazială Bod Sat,Str. Brașovului nr. 343,Bod,45.7637,25.6392
+291,8,BRAȘOV,BOD,135,38,44,12,4,15,13,32,135,43,39,13,3,17,13,29,Căminul Cultural Bod,Nr. 263,Bod,45.7646,25.6424
+347,8,BRAȘOV,HOGHIZ,64,2,19,2,2,4,36,60,61,7,22,2,2,6,43,54,Căminul Cultural Bogata,Nr. 75,Bogata Olteană,45.9799,25.3572
+287,8,BRAȘOV,BECLEAN,25,4,52,2,0,5,3,7,26,5,55,4,0,3,2,4,Camin Cultural Boholt,Nr. 323,Boholț,45.8887,24.9185
+294,8,BRAȘOV,BRAN,99,52,84,29,1,28,6,35,105,52,86,28,1,27,8,24,Primăria Comunei Bran,Nr. 1,Bran,45.5155,25.3698
+295,8,BRAȘOV,BRAN,134,30,70,28,0,15,8,32,132,33,72,28,0,16,11,25,Căminul Cultural Poarta,Str. Valea Porții nr. 249,Bran,45.5029,25.3831
+1,8,BRAȘOV,MUNICIPIUL BRAŞOV,188,138,132,26,34,51,20,64,186,147,136,26,36,46,22,50,Seminarul Teologic Liceal Ortodox „Dumitru Stăniloaie”,Str. Egalității nr. Nr. 27,Brașov,45.6305,25.573
+2,8,BRAȘOV,MUNICIPIUL BRAŞOV,147,133,90,27,26,35,28,62,148,142,93,27,25,35,24,50,Seminarul Teologic Liceal Ortodox „Dumitru Stăniloaie”,Str. Egalității nr. Nr. 27,Brașov,45.6305,25.573
+3,8,BRAȘOV,MUNICIPIUL BRAŞOV,153,85,96,24,23,32,19,48,152,89,98,28,23,28,20,39,Grădinița cu Program Prelungit nr. 2,Str. Constantin Brâncoveanu nr. Nr. 33,Brașov,45.6376,25.5803
+4,8,BRAȘOV,MUNICIPIUL BRAŞOV,116,147,77,26,64,32,21,56,112,155,82,28,67,38,20,38,Grădinița cu Program Prelungit nr. 2,Str. Constantin Brâncoveanu nr. Nr. 33,Brașov,45.6376,25.5803
+5,8,BRAȘOV,MUNICIPIUL BRAŞOV,196,192,121,26,41,56,38,86,196,180,127,25,41,56,26,50,Liceul „Andrei Mureșanu”,Str. Bisericii Sf.  Nicolae (Str. Henri Barbusse) nr. Nr. 1,Brașov,45.6362,25.5825
+6,8,BRAȘOV,MUNICIPIUL BRAŞOV,152,162,98,34,59,37,25,68,156,172,93,38,60,45,24,46,Liceul „Andrei Mureșanu”,Str. Bisericii Sf.  Nicolae (Str. Henri Barbusse) nr. Nr. 1,Brașov,45.6362,25.5825
+7,8,BRAȘOV,MUNICIPIUL BRAŞOV,115,160,66,30,51,34,18,47,112,164,72,28,52,42,21,37,Colegiul Tehnic „Maria Baiulescu”,Str. Castelului nr. Nr. 2,Brașov,45.6378,25.5886
+8,8,BRAȘOV,MUNICIPIUL BRAŞOV,153,114,103,21,51,38,28,70,155,115,113,19,51,39,27,54,Colegiul Tehnic „Maria Baiulescu”,Str. Castelului nr. Nr. 2,Brașov,45.6378,25.5886
+9,8,BRAȘOV,MUNICIPIUL BRAŞOV,87,93,59,25,55,34,15,43,89,91,61,28,58,41,17,30,Colegiul Național „Aprily Lajos”,Str. După Ziduri nr. Nr. 3,Brașov,45.6446,25.5878
+10,8,BRAȘOV,MUNICIPIUL BRAŞOV,92,155,74,23,40,57,20,51,105,157,80,25,37,51,20,36,Colegiul Național „Aprily Lajos”,Str. După Ziduri nr. Nr. 3,Brașov,45.6446,25.5878
+11,8,BRAȘOV,MUNICIPIUL BRAŞOV,80,92,43,14,29,10,14,39,88,93,50,14,31,10,7,21,Colegiul Național „Aprily Lajos”,Str. După Ziduri nr. Nr. 3,Brașov,45.6446,25.5878
+12,8,BRAȘOV,MUNICIPIUL BRAŞOV,150,144,88,20,29,58,26,69,165,138,98,17,32,51,26,57,Colegiul Național „Unirea”,Bulevardul Eroilor (Bulevardul Gheorghe Gheorghiu Dej) nr. Nr. 7,Brașov,45.6439,25.5963
+13,8,BRAȘOV,MUNICIPIUL BRAŞOV,165,120,106,20,39,45,18,50,170,122,109,22,40,44,19,40,Colegiul Național „Unirea”,Bulevardul Eroilor (Bulevardul Gheorghe Gheorghiu Dej) nr. Nr. 7,Brașov,45.6439,25.5963
+14,8,BRAȘOV,MUNICIPIUL BRAŞOV,122,114,85,27,47,28,19,58,124,122,87,31,47,25,21,44,Școala Gimnazială nr. 8,Str. Verii nr. Nr. 2A,Brașov,45.6526,25.6139
+15,8,BRAȘOV,MUNICIPIUL BRAŞOV,142,116,80,23,37,38,23,47,150,119,83,21,37,41,15,30,Școala Gimnazială nr. 8,Str. Verii nr. Nr. 2A,Brașov,45.6526,25.6139
+16,8,BRAȘOV,MUNICIPIUL BRAŞOV,146,140,98,17,28,48,49,89,164,144,99,20,30,49,35,58,Școala Gimnazială nr. 8,Str. Verii nr. Nr. 2A,Brașov,45.6526,25.6139
+17,8,BRAȘOV,MUNICIPIUL BRAŞOV,231,130,143,44,57,53,51,94,224,136,149,45,56,58,47,81,Școala Gimnazială nr. 8,Str. Verii nr. Nr. 2A,Brașov,45.6526,25.6139
+18,8,BRAȘOV,MUNICIPIUL BRAŞOV,174,156,145,40,129,51,25,78,168,160,153,44,133,60,22,54,Școala Gimnazială nr. 5,Str. Dr. Ion Cantacuzino (Str. Prof.dr. Ion Cantacuzino) nr. Nr. 3,Brașov,45.65,25.6
+19,8,BRAȘOV,MUNICIPIUL BRAŞOV,184,154,101,21,79,74,30,87,187,164,108,20,80,74,25,64,Școala Gimnazială nr. 5,Str. Dr. Ion Cantacuzino (Str. Prof.dr. Ion Cantacuzino) nr. Nr. 3,Brașov,45.65,25.6
+20,8,BRAȘOV,MUNICIPIUL BRAŞOV,243,158,145,31,61,50,43,95,241,169,149,37,62,60,37,66,Școala Gimnazială nr. 15,Str. Mihai Viteazul (Str. Mihai Viteazu) nr. Nr. 100,Brașov,45.6582,25.5951
+21,8,BRAȘOV,MUNICIPIUL BRAŞOV,236,159,113,29,58,52,34,80,239,165,114,29,57,56,30,63,Școala Gimnazială nr. 15,Str. Mihai Viteazul (Str. Mihai Viteazu) nr. Nr. 100,Brașov,45.6582,25.5951
+22,8,BRAȘOV,MUNICIPIUL BRAŞOV,233,147,129,19,49,60,25,64,236,149,133,22,49,63,20,46,Școala Gimnazială nr. 15,Str. Mihai Viteazul (Str. Mihai Viteazu) nr. Nr. 100,Brașov,45.6582,25.5951
+23,8,BRAȘOV,MUNICIPIUL BRAŞOV,179,148,102,33,79,52,49,99,197,162,109,35,83,50,24,59,Școala Gimnazială nr. 15,Str. Aurel Vlaicu nr. Nr. 26 bis,Brașov,45.6599,25.5987
+24,8,BRAȘOV,MUNICIPIUL BRAŞOV,210,107,87,27,20,31,38,73,209,113,91,30,18,36,28,62,Școala Gimnazială nr. 15,Str. Aurel Vlaicu nr. Nr. 26 bis,Brașov,45.6599,25.5987
+25,8,BRAȘOV,MUNICIPIUL BRAŞOV,142,86,73,19,34,36,28,75,151,83,78,24,34,39,28,54,Școala Gimnazială nr. 15,Str. Aurel Vlaicu nr. Nr. 26 bis,Brașov,45.6599,25.5987
+26,8,BRAȘOV,MUNICIPIUL BRAŞOV,175,170,125,40,54,77,38,81,179,177,141,40,57,74,29,51,Liceul de Muzică „Tudor Ciortea”,Str. Col. Ion Buzoianu nr. Nr. 1-3,Brașov,45.6467,25.596
+27,8,BRAȘOV,MUNICIPIUL BRAŞOV,135,174,126,37,67,55,27,75,141,184,131,41,75,52,26,42,Școala Gimnazială nr. 12,Str. de Mijloc nr. Nr. 41,Brașov,45.654,25.5867
+28,8,BRAȘOV,MUNICIPIUL BRAŞOV,155,121,112,31,44,36,24,60,155,127,109,35,48,39,22,48,Școala Gimnazială nr. 12,Str. de Mijloc nr. Nr. 41,Brașov,45.654,25.5867
+29,8,BRAȘOV,MUNICIPIUL BRAŞOV,114,53,53,12,32,21,13,37,117,59,57,10,34,20,12,27,Grădinița cu Program Prelungit „Casuta Bucuriei” nr. 11,Str. Tudor Vladimirescu nr. Nr. 33,Brașov,45.6634,25.5946
+30,8,BRAȘOV,MUNICIPIUL BRAŞOV,132,63,80,20,39,38,11,46,127,60,78,27,42,37,13,42,Grădinița cu Program Prelungit „Casuta Bucuriei” nr. 11,Str. Tudor Vladimirescu nr. Nr. 33,Brașov,45.6634,25.5946
+31,8,BRAȘOV,MUNICIPIUL BRAŞOV,246,117,108,36,61,38,37,77,254,110,112,43,63,42,30,59,Colegiul „Emil Racoviță”,Str. Armoniei nr. Nr. 6,Brașov,45.6589,25.6039
+32,8,BRAȘOV,MUNICIPIUL BRAŞOV,234,130,116,34,31,36,37,79,230,140,114,35,32,45,29,63,Colegiul „Emil Racoviță”,Str. Armoniei nr. Nr. 6,Brașov,45.6589,25.6039
+33,8,BRAȘOV,MUNICIPIUL BRAŞOV,170,125,84,35,45,38,26,57,173,123,85,34,44,46,27,45,Colegiul „Emil Racoviță”,Str. Armoniei nr. Nr. 6,Brașov,45.6589,25.6039
+34,8,BRAȘOV,MUNICIPIUL BRAŞOV,102,117,76,13,42,41,25,53,114,119,71,14,47,41,20,35,Colegiul „Emil Racoviță”,Str. Armoniei nr. Nr. 6,Brașov,45.6589,25.6039
+35,8,BRAȘOV,MUNICIPIUL BRAŞOV,256,144,140,47,100,78,35,87,262,149,146,49,103,77,32,67,Colegiul Național „Dr. I. Meșotă”,Str. Bihorului nr. Nr. 3,Brașov,45.6541,25.6092
+36,8,BRAȘOV,MUNICIPIUL BRAŞOV,118,95,82,30,60,41,19,48,119,99,91,24,61,48,19,35,Colegiul Național „Dr. I. Meșotă”,Str. Bihorului nr. Nr. 3,Brașov,45.6541,25.6092
+37,8,BRAȘOV,MUNICIPIUL BRAŞOV,197,165,131,36,49,59,30,86,195,164,138,39,50,59,35,73,Colegiul Național „Dr. I. Meșotă”,Str. Bihorului nr. Nr. 3,Brașov,45.6541,25.6092
+38,8,BRAȘOV,MUNICIPIUL BRAŞOV,200,112,101,25,56,50,20,61,202,115,106,25,61,56,16,42,Școala Gimnazială nr. 19,Aleea Lăcrămioarelor nr. Nr. 2,Brașov,45.658,25.6154
+39,8,BRAȘOV,MUNICIPIUL BRAŞOV,231,138,106,35,37,48,36,83,229,139,114,31,37,55,39,66,Școala Gimnazială nr. 19,Aleea Lăcrămioarelor nr. Nr. 2,Brașov,45.658,25.6154
+40,8,BRAȘOV,MUNICIPIUL BRAŞOV,133,102,77,20,24,42,32,53,139,108,71,24,25,42,28,38,Școala Gimnazială nr. 19,Aleea Lăcrămioarelor nr. Nr. 2,Brașov,45.658,25.6154
+41,8,BRAȘOV,MUNICIPIUL BRAŞOV,249,115,108,39,48,51,39,76,251,124,114,42,48,48,33,59,Școala Gimnazială nr. 19,Aleea Lăcrămioarelor nr. Nr. 2,Brașov,45.658,25.6154
+42,8,BRAȘOV,MUNICIPIUL BRAŞOV,242,142,99,31,44,79,26,76,244,148,99,30,43,76,30,70,Școala Gimnazială nr. 19,Aleea Lăcrămioarelor nr. Nr. 2,Brașov,45.658,25.6154
+43,8,BRAȘOV,MUNICIPIUL BRAŞOV,20,20,44,12,4,7,4,9,20,22,44,12,3,9,3,7,Vila Orizont,Str. Poiana Doamnei nr. Nr. 20B,Brașov,45.5959,25.5484
+44,8,BRAȘOV,MUNICIPIUL BRAŞOV,210,170,113,26,39,46,45,75,213,179,110,26,40,55,30,55,Școala Gimnazială nr. 27 „Anatol Ghermanschi”,Str. Mărgăritarelor nr. Nr. 2,Brașov,45.6551,25.6245
+45,8,BRAȘOV,MUNICIPIUL BRAŞOV,235,149,81,37,34,34,31,73,234,153,88,40,33,29,33,63,Școala Gimnazială nr. 27 „Anatol Ghermanschi”,Str. Mărgăritarelor nr. Nr. 2,Brașov,45.6551,25.6245
+46,8,BRAȘOV,MUNICIPIUL BRAŞOV,122,60,47,21,21,20,14,29,123,62,45,25,23,20,14,23,Școala Gimnazială nr. 27 „Anatol Ghermanschi”,Str. Mărgăritarelor nr. Nr. 2,Brașov,45.6551,25.6245
+47,8,BRAȘOV,MUNICIPIUL BRAŞOV,265,116,124,47,28,52,44,92,264,119,130,48,30,54,36,75,Școala Gimnazială nr. 27 „Anatol Ghermanschi”,Str. Mărgăritarelor nr. Nr. 2,Brașov,45.6551,25.6245
+48,8,BRAȘOV,MUNICIPIUL BRAŞOV,229,110,83,32,54,45,28,67,237,115,84,35,56,45,24,46,Școala Gimnazială nr. 27 „Anatol Ghermanschi”,Str. Mărgăritarelor nr. Nr. 2,Brașov,45.6551,25.6245
+49,8,BRAȘOV,MUNICIPIUL BRAŞOV,241,111,116,35,52,47,35,73,246,116,118,43,51,51,29,50,Școala Gimnazială nr. 27 „Anatol Ghermanschi”,Str. Mărgăritarelor nr. Nr. 2,Brașov,45.6551,25.6245
+50,8,BRAȘOV,MUNICIPIUL BRAŞOV,267,127,115,46,64,32,43,92,268,131,115,51,64,44,37,66,Școala Gimnazială nr. 27 „Anatol Ghermanschi”,Str. Mărgăritarelor nr. Nr. 2,Brașov,45.6551,25.6245
+51,8,BRAȘOV,MUNICIPIUL BRAŞOV,189,89,109,23,69,39,29,60,178,95,104,26,68,56,18,46,Școala Gimnazială nr. 11 „St.O.Iosif”,Str. Busuiocului nr. Nr. 1,Brașov,45.6548,25.6307
+52,8,BRAȘOV,MUNICIPIUL BRAŞOV,205,108,103,30,21,42,38,84,209,113,112,27,18,51,38,59,Școala Gimnazială nr. 11 „St.O.Iosif”,Str. Busuiocului nr. Nr. 1,Brașov,45.6548,25.6307
+53,8,BRAȘOV,MUNICIPIUL BRAŞOV,176,71,64,21,11,29,29,53,176,72,65,23,13,34,22,43,Școala Gimnazială nr. 11 „St.O.Iosif”,Str. Busuiocului nr. Nr. 1,Brașov,45.6548,25.6307
+54,8,BRAȘOV,MUNICIPIUL BRAŞOV,112,25,53,10,9,12,9,26,112,25,51,13,8,13,5,24,Școala Gimnazială nr. 11 „St.O.Iosif”,Str. Busuiocului nr. Nr. 1,Brașov,45.6548,25.6307
+55,8,BRAȘOV,MUNICIPIUL BRAŞOV,190,71,81,15,26,36,29,58,197,77,87,15,30,30,20,39,Școala Gimnazială nr. 11 „St.O.Iosif”,Str. Busuiocului nr. Nr. 1,Brașov,45.6548,25.6307
+56,8,BRAȘOV,MUNICIPIUL BRAŞOV,171,55,83,16,19,29,37,75,175,54,84,21,23,32,26,55,Școala Gimnazială nr. 11 „St.O.Iosif”,Str. Busuiocului nr. Nr. 1,Brașov,45.6548,25.6307
+57,8,BRAȘOV,MUNICIPIUL BRAŞOV,222,63,114,21,24,33,32,53,230,72,107,21,22,30,29,52,Școală Generală nr. 11 Ștefan Octavian Iosif,Str. Busuiocului nr. 1,Brașov,45.6548,25.6307
+58,8,BRAȘOV,MUNICIPIUL BRAŞOV,145,93,70,20,25,29,13,47,141,96,79,23,24,32,14,34,Școală Generală nr. 11 Ștefan Octavian Iosif,Str. Busuiocului nr. 1,Brașov,45.6548,25.6307
+59,8,BRAȘOV,MUNICIPIUL BRAŞOV,202,93,84,34,27,39,25,64,221,95,88,31,27,31,20,48,Școala Gimnazială nr. 11,Str. prof. Bogdan Alexandru (Str. N. A. Dobroliubov) (D) nr. Nr. 4,Brașov,45.6627,25.6323
+60,8,BRAȘOV,MUNICIPIUL BRAŞOV,228,97,94,29,26,36,18,53,225,98,97,32,29,45,19,39,Școala Gimnazială nr. 11,Str. prof. Bogdan Alexandru (Str. N. A. Dobroliubov) (D) nr. Nr. 4,Brașov,45.6627,25.6323
+61,8,BRAȘOV,MUNICIPIUL BRAŞOV,192,56,99,32,15,36,37,93,206,62,112,29,16,34,32,61,Școala Gimnazială nr. 11,Str. prof. Bogdan Alexandru (Str. N. A. Dobroliubov) (D) nr. Nr. 4,Brașov,45.6627,25.6323
+62,8,BRAȘOV,MUNICIPIUL BRAŞOV,163,66,86,24,25,33,29,57,171,68,85,28,25,31,23,45,Școala Gimnazială nr. 11,Str. prof. Bogdan Alexandru (Str. N. A. Dobroliubov) (D) nr. Nr. 4,Brașov,45.6627,25.6323
+63,8,BRAȘOV,MUNICIPIUL BRAŞOV,223,114,122,33,39,33,39,85,230,111,128,41,40,35,33,65,Școala Gimnazială nr. 11,Str. prof. Bogdan Alexandru (Str. N. A. Dobroliubov) (D) nr. Nr. 4,Brașov,45.6627,25.6323
+64,8,BRAȘOV,MUNICIPIUL BRAŞOV,206,85,104,32,35,36,26,61,204,82,99,36,34,41,25,65,Școala Gimnazială nr. 11,Str. prof. Bogdan Alexandru (Str. N. A. Dobroliubov) (D) nr. Nr. 4,Brașov,45.6627,25.6323
+65,8,BRAȘOV,MUNICIPIUL BRAŞOV,231,158,115,37,34,53,36,90,224,162,118,41,31,69,31,70,Școala Gimnazială nr. 25,Bulevardul Valea Cetății (Bulevardul Răcădău) nr. Nr. 24,Brașov,45.6341,25.6057
+66,8,BRAȘOV,MUNICIPIUL BRAŞOV,193,171,92,20,27,33,41,83,193,180,89,26,26,36,32,66,Școala Gimnazială nr. 25,Bulevardul Valea Cetății (Bulevardul Răcădău) nr. Nr. 24,Brașov,45.6341,25.6057
+67,8,BRAȘOV,MUNICIPIUL BRAŞOV,136,92,50,29,12,25,23,47,137,100,49,29,13,26,19,40,Școala Gimnazială nr. 25,Bulevardul Valea Cetății (Bulevardul Răcădău) nr. Nr. 24,Brașov,45.6341,25.6057
+68,8,BRAȘOV,MUNICIPIUL BRAŞOV,209,129,123,42,12,31,41,105,221,144,130,48,13,32,32,62,Școala Gimnazială nr. 25,Bulevardul Valea Cetății (Bulevardul Răcădău) nr. Nr. 24,Brașov,45.6341,25.6057
+69,8,BRAȘOV,MUNICIPIUL BRAŞOV,180,174,89,21,30,37,29,60,189,178,92,19,30,33,27,49,Liceul de Arte Plastice „Hans Mattis-Teutsch”,Bulevardul Valea Cetății (Bulevardul Răcădău) nr. Nr. 8,Brașov,45.6367,25.6084
+70,8,BRAȘOV,MUNICIPIUL BRAŞOV,182,103,97,43,19,26,23,55,179,108,95,42,20,32,24,49,Liceul de Arte Plastice „Hans Mattis-Teutsch”,Bulevardul Valea Cetății (Bulevardul Răcădău) nr. Nr. 8,Brașov,45.6367,25.6084
+71,8,BRAȘOV,MUNICIPIUL BRAŞOV,224,124,119,41,23,58,27,79,232,121,126,41,24,58,28,63,Liceul de Arte Plastice „Hans Mattis-Teutsch”,Bulevardul Valea Cetății (Bulevardul Răcădău) nr. Nr. 8,Brașov,45.6367,25.6084
+72,8,BRAȘOV,MUNICIPIUL BRAŞOV,196,123,93,36,50,31,30,61,189,131,98,37,48,34,28,50,Școala Gimnazială nr. 4,Str. Jepilor nr. Nr. 1,Brașov,45.6364,25.612
+73,8,BRAȘOV,MUNICIPIUL BRAŞOV,121,107,90,18,28,28,25,53,127,112,88,21,30,21,22,44,Școala Gimnazială nr. 4,Str. Jepilor nr. Nr. 1,Brașov,45.6364,25.612
+74,8,BRAȘOV,MUNICIPIUL BRAŞOV,190,104,103,25,26,45,20,56,198,112,98,24,26,37,22,53,Școala Gimnazială nr. 4,Str. Jepilor nr. Nr. 1,Brașov,45.6364,25.612
+75,8,BRAȘOV,MUNICIPIUL BRAŞOV,179,121,105,29,18,36,26,61,200,127,104,31,18,30,22,40,Școala Gimnazială nr. 4,Str. Jepilor nr. Nr. 1,Brașov,45.6364,25.612
+76,8,BRAȘOV,MUNICIPIUL BRAŞOV,207,165,146,41,42,43,37,90,221,172,151,45,41,40,24,58,Școala Gimnazială nr. 4,Str. Jepilor nr. Nr. 1,Brașov,45.6364,25.612
+77,8,BRAȘOV,MUNICIPIUL BRAŞOV,125,117,80,15,11,33,28,61,132,121,81,15,11,40,23,41,Școala Gimnazială nr. 4,Str. Jepilor nr. Nr. 1,Brașov,45.6364,25.612
+78,8,BRAȘOV,MUNICIPIUL BRAŞOV,181,54,89,27,21,28,33,65,191,51,87,27,21,30,28,57,Școala Gimnazială nr. 9 „Nicolae Orghidan”,Str. Brazilor nr. Nr. 18,Brașov,45.6151,25.6312
+79,8,BRAȘOV,MUNICIPIUL BRAŞOV,231,68,106,32,16,40,35,106,233,73,108,30,18,48,32,86,Școala Gimnazială nr. 9 „Nicolae Orghidan”,Str. Brazilor nr. Nr. 18,Brașov,45.6151,25.6312
+80,8,BRAȘOV,MUNICIPIUL BRAŞOV,245,78,95,24,25,33,26,62,239,82,99,29,23,38,21,53,Școala Gimnazială nr. 9 „Nicolae Orghidan”,Str. Brazilor nr. Nr. 18,Brașov,45.6151,25.6312
+81,8,BRAȘOV,MUNICIPIUL BRAŞOV,253,60,73,38,3,28,30,92,252,71,82,34,3,36,31,71,Școala Gimnazială nr. 9,Str. Prunului nr. Nr. 1,Brașov,45.6161,25.6393
+82,8,BRAȘOV,MUNICIPIUL BRAŞOV,178,38,71,34,9,27,22,45,173,44,74,29,9,28,22,42,Școala Gimnazială nr. 9,Str. Prunului nr. Nr. 1,Brașov,45.6161,25.6393
+83,8,BRAȘOV,MUNICIPIUL BRAŞOV,172,47,71,27,14,20,24,56,182,49,73,30,13,22,20,42,Școala Gimnazială nr. 9,Str. Prunului nr. Nr. 1,Brașov,45.6161,25.6393
+84,8,BRAȘOV,MUNICIPIUL BRAŞOV,197,56,51,22,12,31,34,73,205,62,57,22,13,26,39,64,Școala Gimnazială nr. 9,Str. Prunului nr. Nr. 1,Brașov,45.6161,25.6393
+85,8,BRAȘOV,MUNICIPIUL BRAŞOV,253,108,114,18,15,26,33,65,249,116,120,21,16,21,27,54,Școala Gimnazială nr. 9,Str. Prunului nr. Nr. 1,Brașov,45.6161,25.6393
+86,8,BRAȘOV,MUNICIPIUL BRAŞOV,239,93,111,17,27,31,41,73,249,94,109,18,30,30,30,61,Școala Gimnazială nr. 9,Str. Prunului nr. Nr. 1,Brașov,45.6161,25.6393
+87,8,BRAȘOV,MUNICIPIUL BRAŞOV,216,63,76,28,17,36,23,60,222,71,73,30,17,37,30,54,Școala Gimnazială nr. 9,Str. Prunului nr. Nr. 1,Brașov,45.6161,25.6393
+88,8,BRAȘOV,MUNICIPIUL BRAŞOV,184,59,81,23,10,16,22,68,182,62,89,22,9,20,16,53,Școală Generală nr. 9,Str. Prunului nr. 1,Brașov,45.6161,25.6393
+89,8,BRAȘOV,MUNICIPIUL BRAŞOV,248,118,100,35,40,46,44,82,246,134,104,31,41,39,46,76,Școala Gimnazială nr. 3 „Gheorghe Lazăr”,Str. Venus nr. Nr. 1,Brașov,45.646,25.6333
+90,8,BRAȘOV,MUNICIPIUL BRAŞOV,248,101,128,23,35,27,35,88,255,103,139,23,41,36,30,53,Școala Gimnazială nr. 3 „Gheorghe Lazăr”,Str. Venus nr. Nr. 1,Brașov,45.646,25.6333
+91,8,BRAȘOV,MUNICIPIUL BRAŞOV,279,113,131,36,32,42,34,86,273,124,133,45,32,47,29,60,Școala Gimnazială nr. 3 „Gheorghe Lazăr”,Str. Venus nr. Nr. 1,Brașov,45.646,25.6333
+92,8,BRAȘOV,MUNICIPIUL BRAŞOV,195,96,71,29,37,37,52,92,208,104,73,31,34,37,38,66,Școala Gimnazială nr. 3 „Gheorghe Lazăr”,Str. Venus nr. Nr. 1,Brașov,45.646,25.6333
+93,8,BRAȘOV,MUNICIPIUL BRAŞOV,212,95,103,32,62,33,32,70,212,104,104,31,58,35,33,62,Școala Gimnazială nr. 3 „Gheorghe Lazăr”,Str. Venus nr. Nr. 1,Brașov,45.646,25.6333
+94,8,BRAȘOV,MUNICIPIUL BRAŞOV,203,110,127,24,42,35,36,89,216,118,122,31,41,27,37,77,Școala Gimnazială nr. 3 „Gheorghe Lazăr”,Str. Venus nr. Nr. 1,Brașov,45.646,25.6333
+95,8,BRAȘOV,MUNICIPIUL BRAŞOV,226,145,134,36,47,45,34,75,232,150,138,38,47,38,33,65,Școala Gimnazială nr. 3 „Gheorghe Lazăr”,Str. Venus nr. Nr. 1,Brașov,45.646,25.6333
+96,8,BRAȘOV,MUNICIPIUL BRAŞOV,160,93,82,14,27,34,34,68,168,104,79,17,26,35,26,49,Liceul Tehnologic Silvic „Doctor Nicolae Rucăreanu”,Aleea Minerva nr. Nr. 11,Brașov,45.6381,25.6394
+97,8,BRAȘOV,MUNICIPIUL BRAŞOV,225,119,77,34,18,34,29,84,220,124,87,32,20,45,24,60,Liceul Tehnologic Silvic „Doctor Nicolae Rucăreanu”,Aleea Minerva nr. Nr. 11,Brașov,45.6381,25.6394
+98,8,BRAȘOV,MUNICIPIUL BRAŞOV,157,47,70,10,23,17,16,38,159,51,65,13,26,18,14,28,Liceul Tehnologic Silvic „Doctor Nicolae Rucăreanu”,Aleea Minerva nr. Nr. 11,Brașov,45.6381,25.6394
+99,8,BRAȘOV,MUNICIPIUL BRAŞOV,251,79,91,28,37,31,25,62,246,85,99,26,35,35,23,56,Liceul Tehnologic Silvic „Doctor Nicolae Rucăreanu”,Aleea Minerva nr. Nr. 11,Brașov,45.6381,25.6394
+100,8,BRAȘOV,MUNICIPIUL BRAŞOV,239,87,83,27,43,45,39,92,239,93,85,27,41,52,38,72,Școala Gimnazială nr. 2,Bulevardul Ștefan cel Mare și Sfânt (Bulevardul Ștefan cel Mare) nr. Nr. 15,Brașov,45.6425,25.6323
+101,8,BRAȘOV,MUNICIPIUL BRAŞOV,218,109,122,35,44,59,51,103,224,123,125,39,47,59,40,69,Școala Gimnazială nr. 2,Bulevardul Ștefan cel Mare și Sfânt (Bulevardul Ștefan cel Mare) nr. Nr. 15,Brașov,45.6425,25.6323
+102,8,BRAȘOV,MUNICIPIUL BRAŞOV,229,112,110,34,38,60,27,71,243,121,108,39,34,48,26,57,Școala Gimnazială nr. 2,Bulevardul Ștefan cel Mare și Sfânt (Bulevardul Ștefan cel Mare) nr. Nr. 15,Brașov,45.6425,25.6323
+103,8,BRAȘOV,MUNICIPIUL BRAŞOV,241,125,102,27,38,51,33,57,237,125,107,22,40,52,32,66,Școala Gimnazială nr. 2,Bulevardul Ștefan cel Mare și Sfânt (Bulevardul Ștefan cel Mare) nr. Nr. 15,Brașov,45.6425,25.6323
+104,8,BRAȘOV,MUNICIPIUL BRAŞOV,201,92,97,25,30,45,47,81,206,97,106,25,32,43,42,65,Școala Gimnazială nr. 2,Bulevardul Ștefan cel Mare și Sfânt (Bulevardul Ștefan cel Mare) nr. Nr. 15,Brașov,45.6425,25.6323
+105,8,BRAȘOV,MUNICIPIUL BRAŞOV,282,117,164,35,34,55,57,108,271,126,158,40,33,69,49,95,Școala Gimnazială nr. 2,Bulevardul Ștefan cel Mare și Sfânt (Bulevardul Ștefan cel Mare) nr. 15,Brașov,45.6425,25.6323
+106,8,BRAȘOV,MUNICIPIUL BRAŞOV,232,140,124,18,51,34,43,79,239,148,121,18,49,40,36,59,Colegiul de Științe „Grigore Antipa”,Str. Aurelian nr. Nr. 2,Brașov,45.6479,25.6217
+107,8,BRAȘOV,MUNICIPIUL BRAŞOV,181,136,123,30,70,46,34,76,190,143,123,31,78,42,30,56,Colegiul de Științe „Grigore Antipa”,Str. Aurelian nr. Nr. 2,Brașov,45.6479,25.6217
+108,8,BRAȘOV,MUNICIPIUL BRAŞOV,145,139,97,49,90,41,25,54,160,146,89,51,92,38,22,44,Colegiul de Științe „Grigore Antipa”,Str. Aurelian nr. Nr. 2,Brașov,45.6479,25.6217
+109,8,BRAȘOV,MUNICIPIUL BRAŞOV,201,152,104,26,43,40,30,65,204,167,96,27,42,46,20,46,Colegiul de Științe „Grigore Antipa”,Str. Aurelian nr. Nr. 2,Brașov,45.6479,25.6217
+110,8,BRAȘOV,MUNICIPIUL BRAŞOV,217,90,100,29,26,31,31,73,220,91,100,27,27,36,36,64,Colegiul Național de Informatică „Grigore Moisil”,Calea București (Calea Bucureștilor) nr. Nr. 75,Brașov,45.644,25.6242
+111,8,BRAȘOV,MUNICIPIUL BRAŞOV,215,136,99,29,26,37,27,61,222,138,110,26,26,32,23,43,Colegiul Național de Informatică „Grigore Moisil”,Calea București (Calea Bucureștilor) nr. Nr. 75,Brașov,45.644,25.6242
+112,8,BRAȘOV,MUNICIPIUL BRAŞOV,201,68,89,30,29,30,19,61,203,70,91,32,27,30,20,51,Colegiul Național de Informatică „Grigore Moisil”,Calea București (Calea Bucureștilor) nr. Nr. 75,Brașov,45.644,25.6242
+113,8,BRAȘOV,MUNICIPIUL BRAŞOV,233,128,86,24,22,41,26,64,242,126,84,30,22,40,21,53,Colegiul Național de Informatică „Grigore Moisil”,Calea București (Calea Bucureștilor) nr. Nr. 75,Brașov,45.644,25.6242
+114,8,BRAȘOV,MUNICIPIUL BRAŞOV,243,142,141,29,28,79,42,85,244,145,153,30,31,82,38,67,Colegiul Național de Informatică „Grigore Moisil”,Calea București (Calea Bucureștilor) nr. Nr. 75,Brașov,45.644,25.6242
+115,8,BRAȘOV,MUNICIPIUL BRAŞOV,131,83,62,19,16,29,20,50,141,80,69,17,16,23,21,47,Colegiul Național de Informatică „Grigore Moisil”,Calea București (Calea Bucureștilor) nr. Nr. 75,Brașov,45.644,25.6242
+116,8,BRAȘOV,MUNICIPIUL BRAŞOV,188,109,90,25,43,25,37,66,198,110,100,25,43,20,31,54,Colegiul Național de Informatică „Grigore Moisil”,Calea București (Calea Bucureștilor) nr. Nr. 75,Brașov,45.644,25.6242
+117,8,BRAȘOV,MUNICIPIUL BRAŞOV,225,150,134,29,30,54,26,79,225,161,150,33,28,57,22,45,Colegiul Național de Informatică „Grigore Moisil”,Calea București (Calea Bucureștilor) nr. Nr. 75,Brașov,45.644,25.6242
+118,8,BRAȘOV,MUNICIPIUL BRAŞOV,273,137,134,42,55,49,28,76,277,147,144,46,54,58,23,44,Liceul cu Program Sportiv,Str. Cocorului nr. Nr. 10,Brașov,45.6358,25.631
+119,8,BRAȘOV,MUNICIPIUL BRAŞOV,133,73,91,29,31,25,29,65,132,66,94,27,34,24,31,65,Liceul cu Program Sportiv,Str. Cocorului nr. Nr. 10,Brașov,45.6358,25.631
+120,8,BRAȘOV,MUNICIPIUL BRAŞOV,194,89,88,27,25,42,15,49,205,95,91,26,27,41,12,31,Liceul cu Program Sportiv,Str. Cocorului nr. Nr. 10,Brașov,45.6358,25.631
+121,8,BRAȘOV,MUNICIPIUL BRAŞOV,224,119,110,25,31,51,44,76,226,130,112,30,30,50,33,61,Liceul cu Program Sportiv,Str. Cocorului nr. Nr. 10,Brașov,45.6358,25.631
+122,8,BRAȘOV,MUNICIPIUL BRAŞOV,231,81,116,19,22,41,30,69,238,88,116,19,23,41,27,59,Liceul cu Program Sportiv,Str. Cocorului nr. Nr. 10,Brașov,45.6358,25.631
+123,8,BRAȘOV,MUNICIPIUL BRAŞOV,276,96,124,15,49,38,31,63,263,113,125,17,45,42,27,54,Școala Gimnazială nr. 1,Str. Barbu Lăutaru nr. Nr. 10,Brașov,45.6377,25.6274
+124,8,BRAȘOV,MUNICIPIUL BRAŞOV,218,84,103,12,29,43,42,80,225,91,107,13,30,43,26,63,Școala Gimnazială nr. 1,Str. Barbu Lăutaru nr. Nr. 10,Brașov,45.6377,25.6274
+125,8,BRAȘOV,MUNICIPIUL BRAŞOV,224,94,119,31,31,38,28,64,217,106,124,32,28,43,27,52,Școala Gimnazială nr. 1,Str. Barbu Lăutaru nr. Nr. 10,Brașov,45.6377,25.6274
+126,8,BRAȘOV,MUNICIPIUL BRAŞOV,216,133,134,45,41,43,32,85,228,140,131,45,42,45,24,64,Școala Gimnazială nr. 1,Str. Barbu Lăutaru nr. Nr. 10,Brașov,45.6377,25.6274
+127,8,BRAȘOV,MUNICIPIUL BRAŞOV,258,75,79,27,26,24,39,82,271,79,82,28,27,31,31,59,Școala Gimnazială nr. 1,Str. Barbu Lăutaru nr. Nr. 10,Brașov,45.6377,25.6274
+128,8,BRAȘOV,MUNICIPIUL BRAŞOV,161,72,60,15,15,23,20,37,154,73,68,13,13,24,22,37,Școala Gimnazială nr. 1,Str. Barbu Lăutaru nr. Nr. 10,Brașov,45.6377,25.6274
+129,8,BRAȘOV,MUNICIPIUL BRAŞOV,182,47,61,20,15,27,33,55,179,51,68,20,15,30,26,43,Școala Gimnazială nr. 1,Str. Barbu Lăutaru nr. Nr. 10,Brașov,45.6377,25.6274
+130,8,BRAȘOV,MUNICIPIUL BRAŞOV,248,131,111,20,26,45,41,92,258,141,118,23,25,52,33,59,Școala Gimnazială nr. 1,Str. Barbu Lăutaru nr. Nr. 10,Brașov,45.6377,25.6274
+131,8,BRAȘOV,MUNICIPIUL BRAŞOV,125,35,66,20,11,23,30,54,129,41,66,20,11,23,22,35,Centrul Regional de Formare Profesională Brașov,Str. Poienelor (Str. Poienilor) nr. Nr. 5,Brașov,45.6316,25.6281
+132,8,BRAȘOV,MUNICIPIUL BRAŞOV,186,82,92,23,33,51,39,72,197,88,87,23,33,45,37,62,Centrul Regional de Formare Profesională Brașov,Str. Poienelor (Str. Poienilor) nr. Nr. 5,Brașov,45.6316,25.6281
+133,8,BRAȘOV,MUNICIPIUL BRAŞOV,115,113,92,20,134,36,29,56,116,118,93,22,137,36,22,41,Școala Gimnazială nr. 15,Str. Plevnei nr. Nr. 2,Brașov,45.6593,25.593
+134,8,BRAȘOV,MUNICIPIUL BRAŞOV,201,254,241,51,66,96,40,98,210,269,231,52,65,98,43,76,Cantina Studențească,Str. Memorandumului nr. Nr. 39,Brașov,45.6549,25.5813
+135,8,BRAȘOV,MUNICIPIUL BRAŞOV,109,75,67,24,43,23,24,55,112,77,70,23,44,26,22,47,Colegiul Național Economic „Andrei Bârseanu”,Str. Lungă nr. Nr. 198,Brașov,45.6597,25.5811
+136,8,BRAȘOV,MUNICIPIUL BRAŞOV,128,132,62,22,49,34,12,40,123,137,70,24,48,34,15,26,Colegiul Național Economic „Andrei Bârseanu”,Str. Lungă nr. Nr. 198,Brașov,45.6597,25.5811
+137,8,BRAȘOV,MUNICIPIUL BRAŞOV,135,162,120,30,41,25,19,56,131,158,131,33,38,33,23,42,Colegiul Național Economic „Andrei Bârseanu”,Str. Școlii nr. Nr. 11,Brașov,45.658,25.5857
+138,8,BRAȘOV,MUNICIPIUL BRAŞOV,138,63,79,25,63,28,21,54,144,69,79,27,64,21,20,48,Școala Gimnazială nr. 14,Str. Lungă nr. Nr. 229,Brașov,45.6593,25.5792
+139,8,BRAȘOV,MUNICIPIUL BRAŞOV,147,55,83,30,19,35,21,45,138,56,96,27,19,39,16,37,Școala Gimnazială nr. 14,Str. Lungă nr. Nr. 229,Brașov,45.6593,25.5792
+140,8,BRAȘOV,MUNICIPIUL BRAŞOV,197,106,121,18,45,20,27,61,196,116,125,18,42,26,16,41,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+141,8,BRAȘOV,MUNICIPIUL BRAŞOV,141,66,95,21,24,18,29,70,141,68,96,25,27,23,26,54,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+142,8,BRAȘOV,MUNICIPIUL BRAŞOV,140,73,135,23,19,29,22,60,146,81,131,25,19,32,22,45,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+143,8,BRAȘOV,MUNICIPIUL BRAŞOV,171,82,137,33,15,31,28,73,172,88,125,35,15,36,30,63,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+144,8,BRAȘOV,MUNICIPIUL BRAŞOV,140,166,142,33,27,47,39,83,137,168,157,40,25,56,29,57,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+145,8,BRAȘOV,MUNICIPIUL BRAŞOV,178,144,126,30,20,41,22,65,177,148,128,33,22,46,28,50,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+146,8,BRAȘOV,MUNICIPIUL BRAŞOV,188,141,138,45,13,35,22,58,194,147,130,44,12,43,28,53,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+147,8,BRAȘOV,MUNICIPIUL BRAŞOV,170,135,132,18,27,32,27,76,172,130,138,22,25,40,24,62,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+148,8,BRAȘOV,MUNICIPIUL BRAŞOV,154,48,85,40,27,37,18,51,152,55,88,42,27,35,19,43,Școala Gimnazială nr. 14,Str. Agricultorilor nr. Nr. 3,Brașov,45.6647,25.5746
+149,8,BRAȘOV,MUNICIPIUL BRAŞOV,151,179,194,68,22,59,41,100,159,186,194,82,22,60,35,68,Școala Gimnazială nr. 14,Str. Fagurului (Str. Fagurelui) nr. Nr. 1,Brașov,45.6994,25.5596
+150,8,BRAȘOV,MUNICIPIUL BRAŞOV,124,95,141,36,9,29,22,57,125,99,146,38,10,24,25,54,Școala Gimnazială nr. 14,Str. Fagurului (Str. Fagurelui) nr. Nr. 1,Brașov,45.6994,25.5596
+151,8,BRAȘOV,MUNICIPIUL BRAŞOV,255,144,169,42,20,52,48,97,262,160,163,42,20,54,38,78,Școala Gimnazială nr. 30,Str. 1 Decembrie 1918 nr. Nr. 4,Brașov,45.665,25.5994
+152,8,BRAȘOV,MUNICIPIUL BRAŞOV,257,180,153,48,18,51,50,104,264,189,153,47,18,53,47,87,Școala Gimnazială nr. 30,Str. 1 Decembrie 1918 nr. Nr. 4,Brașov,45.665,25.5994
+153,8,BRAȘOV,MUNICIPIUL BRAŞOV,287,199,156,32,26,65,37,103,286,209,166,29,23,60,41,86,Școala Gimnazială nr. 30,Str. 1 Decembrie 1918 nr. Nr. 4,Brașov,45.665,25.5994
+154,8,BRAȘOV,MUNICIPIUL BRAŞOV,247,122,156,28,27,65,51,113,260,125,164,30,27,64,48,86,Școala Gimnazială nr. 30,Str. 1 Decembrie 1918 nr. Nr. 4,Brașov,45.665,25.5994
+155,8,BRAȘOV,MUNICIPIUL BRAŞOV,194,106,93,17,15,36,27,63,205,114,93,18,14,36,23,45,Școala Gimnazială nr. 13,Str. Olteț nr. Nr. 12,Brașov,45.6655,25.6051
+156,8,BRAȘOV,MUNICIPIUL BRAŞOV,228,82,108,31,38,45,43,89,223,92,112,34,36,56,39,70,Școala Gimnazială nr. 13,Str. Olteț nr. Nr. 12,Brașov,45.6655,25.6051
+157,8,BRAȘOV,MUNICIPIUL BRAŞOV,242,112,121,42,27,77,35,82,248,122,125,39,28,73,31,68,Școala Gimnazială nr. 13,Str. Olteț nr. Nr. 12,Brașov,45.6655,25.6051
+158,8,BRAȘOV,MUNICIPIUL BRAŞOV,275,99,101,32,20,35,23,77,269,103,108,38,21,43,20,62,Școala Gimnazială nr. 13,Str. Olteț nr. Nr. 12,Brașov,45.6655,25.6051
+159,8,BRAȘOV,MUNICIPIUL BRAŞOV,272,157,106,40,14,37,41,83,270,160,110,38,14,53,39,67,Școala Gimnazială nr. 13,Str. Olteț nr. Nr. 12,Brașov,45.6655,25.6051
+160,8,BRAȘOV,MUNICIPIUL BRAŞOV,165,21,67,9,5,19,23,49,176,24,64,10,5,22,14,36,Colegiul „Nicolae Titulescu”,Str. 13 Decembrie nr. Nr. 125,Brașov,45.6698,25.6103
+161,8,BRAȘOV,MUNICIPIUL BRAŞOV,234,58,76,25,24,24,26,54,227,62,76,31,24,26,20,46,Colegiul „Nicolae Titulescu”,Str. 13 Decembrie nr. Nr. 125,Brașov,45.6698,25.6103
+162,8,BRAȘOV,MUNICIPIUL BRAŞOV,206,50,98,24,21,32,24,58,209,60,89,22,20,36,21,51,Colegiul „Nicolae Titulescu”,Str. 13 Decembrie nr. Nr. 125,Brașov,45.6698,25.6103
+163,8,BRAȘOV,MUNICIPIUL BRAŞOV,231,72,115,17,6,27,31,56,229,71,119,21,6,28,28,52,Colegiul „Nicolae Titulescu”,Str. 13 Decembrie nr. Nr. 125,Brașov,45.6698,25.6103
+164,8,BRAȘOV,MUNICIPIUL BRAŞOV,215,57,98,47,6,30,26,67,230,63,98,45,6,26,25,52,Colegiul „Nicolae Titulescu”,Str. 13 Decembrie nr. Nr. 125,Brașov,45.6698,25.6103
+165,8,BRAȘOV,MUNICIPIUL BRAŞOV,165,63,77,22,3,19,37,66,166,58,78,25,4,22,34,63,Colegiul „Nicolae Titulescu”,Str. 13 Decembrie nr. Nr. 125,Brașov,45.6698,25.6103
+166,8,BRAȘOV,MUNICIPIUL BRAŞOV,148,140,109,27,8,31,30,71,151,145,110,31,8,29,26,57,Școala Profesională Germană „Kronstadt”,Str. 13 Decembrie nr. Nr. 131,Brașov,45.6824,25.6146
+167,8,BRAȘOV,MUNICIPIUL BRAŞOV,110,17,60,10,5,11,11,25,110,15,65,9,7,12,8,22,Colegiul Tehnic de Transporturi,Fundătura Hărmanului nr. Nr. 12,Brașov,45.6732,25.6467
+168,8,BRAȘOV,MUNICIPIUL BRAŞOV,196,28,87,20,14,27,19,40,201,28,86,19,15,26,17,37,Colegiul Tehnic de Transporturi,Fundătura Hărmanului nr. Nr. 12,Brașov,45.6732,25.6467
+169,8,BRAȘOV,MUNICIPIUL BRAŞOV,243,70,112,24,7,21,22,58,248,66,117,28,5,21,17,51,Colegiul Tehnic de Transporturi,Fundătura Hărmanului nr. Nr. 12,Brașov,45.6732,25.6467
+170,8,BRAȘOV,MUNICIPIUL BRAŞOV,230,60,108,13,17,33,31,66,236,63,108,14,18,38,26,51,Școala Gimnazială nr. 31,Str. Simeria nr. Nr. 5,Brașov,45.6762,25.6454
+171,8,BRAȘOV,MUNICIPIUL BRAŞOV,228,55,100,32,11,45,23,64,230,56,103,33,12,45,24,56,Școala Gimnazială nr. 31,Str. Simeria nr. Nr. 5,Brașov,45.6762,25.6454
+172,8,BRAȘOV,MUNICIPIUL BRAŞOV,219,51,72,22,11,25,23,51,217,59,70,25,11,32,18,37,Școala Gimnazială nr. 31,Str. Simeria nr. Nr. 5,Brașov,45.6762,25.6454
+173,8,BRAȘOV,MUNICIPIUL BRAŞOV,61,32,34,7,15,12,12,25,63,31,41,10,14,12,7,16,Colegiul Tehnic „Remus Răduleț”,Str. Zizinului nr. Nr. 106,Brașov,45.6467,25.6421
+174,8,BRAȘOV,MUNICIPIUL BRAŞOV,141,39,66,17,6,16,15,39,129,45,66,18,6,22,19,34,Colegiul Tehnic „Remus Răduleț”,Str. Zizinului nr. Nr. 106,Brașov,45.6467,25.6421
+175,8,BRAȘOV,MUNICIPIUL BRAŞOV,140,24,48,13,5,11,20,47,142,27,52,14,5,12,18,34,Colegiul Tehnic „Remus Răduleț”,Str. Zizinului nr. Nr. 106,Brașov,45.6467,25.6421
+176,8,BRAȘOV,MUNICIPIUL BRAŞOV,155,28,56,9,8,18,14,34,151,30,59,11,10,13,18,35,Colegiul Tehnic „Remus Răduleț”,Str. Zizinului nr. Nr. 106,Brașov,45.6467,25.6421
+177,8,BRAȘOV,MUNICIPIUL BRAŞOV,185,29,57,14,4,12,13,38,190,35,62,12,5,13,12,28,Colegiul Tehnic „Remus Răduleț”,Str. Zizinului nr. Nr. 106,Brașov,45.6467,25.6421
+362,8,BRAȘOV,LISA,89,13,74,23,0,5,7,27,96,13,81,29,0,3,6,10,Căminul Cultural Breaza,Nr. 68,Breaza,45.7045,24.8811
+402,8,BRAȘOV,ŞINCA,22,19,23,3,2,8,3,32,29,22,31,4,2,9,6,9,Căminul Cultural,,Bucium,45.7409,25.0962
+299,8,BRAȘOV,BUDILA,98,2,281,3,9,12,5,12,97,2,283,3,8,12,6,16,Școala Gimnazială Budila,Nr. 617,Budila,45.6743,25.8062
+300,8,BRAȘOV,BUDILA,78,9,43,7,93,5,8,28,83,10,40,8,98,4,8,21,Școala Gimnazială Budila,Nr. 593A,Budila,45.6773,25.8064
+301,8,BRAȘOV,BUDILA,93,5,191,1,32,5,7,28,93,5,200,3,31,6,6,14,Primăria Comunei Budila,Nr. 261,Budila,45.6719,25.8047
+302,8,BRAȘOV,BUNEŞTI,77,13,72,4,1,3,6,18,81,15,69,4,2,6,4,15,Primăria Bunești,Nr. 119,Bunești,46.1056,25.0687
+434,8,BRAȘOV,VAMA BUZĂULUI,52,3,29,1,0,10,4,9,54,4,27,3,0,9,6,9,Școala Primară Buzăiel,Nr. 951,Buzăiel,45.606,26.0204
+412,8,BRAȘOV,ŞOARŞ,29,4,60,2,0,7,6,22,34,5,67,3,0,7,4,10,Școala Generală Bărcut,Nr. 156,Bărcut,45.9986,24.9197
+288,8,BRAȘOV,BECLEAN,19,6,72,3,0,2,2,11,18,12,69,6,0,3,1,5,Camin Cultural Calbor,Nr. 87,Calbor,45.8685,24.9012
+307,8,BRAȘOV,CAŢA,118,5,235,4,23,5,4,26,121,6,238,7,26,11,2,15,Căminul Cultural Cața,Nr. 37,Cața,46.0884,25.2789
+312,8,BRAȘOV,CINCU,171,22,237,6,2,38,6,25,175,24,240,6,2,37,7,17,Caminul Cultural Cincu,Nr. 520,Cincu,45.9155,24.8036
+440,8,BRAȘOV,VOILA,127,8,58,4,1,7,6,17,140,9,58,4,1,6,3,8,Caminul Cultural Cincsor,Nr. 206,Cincșor,45.8358,24.8326
+425,8,BRAȘOV,TICUŞU,18,17,13,3,29,1,5,11,18,21,15,3,28,1,4,7,Școala Primară Cobor,Nr. 42,Cobor,45.9458,25.0507
+178,8,BRAȘOV,MUNICIPIUL CODLEA,115,19,76,7,6,29,9,27,128,19,72,7,7,24,7,19,Colegiul Tehnic Simion Mehedinți,Str. Chimiștilor nr. 3,Codlea,45.687,25.4514
+179,8,BRAȘOV,MUNICIPIUL CODLEA,175,58,80,14,3,30,15,43,179,61,87,12,3,26,14,35,Colegiul Tehnic Simion Mehedinți,Str. Chimiștilor nr. 3,Codlea,45.687,25.4514
+180,8,BRAȘOV,MUNICIPIUL CODLEA,223,37,82,10,0,29,13,35,232,33,79,11,1,33,14,32,Colegiul Tehnic Simion Mehedinți,Str. Chimiștilor nr. 3,Codlea,45.687,25.4514
+181,8,BRAȘOV,MUNICIPIUL CODLEA,107,25,85,9,7,34,11,40,109,29,84,11,6,28,15,36,Colegiul Tehnic Simion Mehedinti,Str. Chimiștilor nr. 3,Codlea,45.687,25.4514
+182,8,BRAȘOV,MUNICIPIUL CODLEA,228,63,82,21,15,27,21,53,236,63,87,20,19,31,25,41,Școala Generală nr. 2,Str. Nuferilor nr. 13,Codlea,45.6911,25.4517
+183,8,BRAȘOV,MUNICIPIUL CODLEA,255,60,98,17,21,59,24,66,261,66,105,16,23,54,26,48,Grădinița nr. 1,Str. Laterală nr. 1,Codlea,45.6962,25.4469
+184,8,BRAȘOV,MUNICIPIUL CODLEA,150,73,91,14,20,39,7,35,144,83,96,15,19,34,12,32,Grădinița nr. 1,Str. Laterală nr. 1,Codlea,45.6962,25.4469
+185,8,BRAȘOV,MUNICIPIUL CODLEA,217,66,113,20,11,67,23,70,220,75,123,33,12,63,16,40,Grup Scolar Forestier,Str. Măgurii nr. 3,Codlea,45.6997,25.4451
+186,8,BRAȘOV,MUNICIPIUL CODLEA,198,52,81,15,11,45,18,43,207,48,93,15,13,33,20,35,Școala Generală nr. 1,Str. Măgurii nr. 6,Codlea,45.7005,25.4453
+187,8,BRAȘOV,MUNICIPIUL CODLEA,161,31,76,10,4,28,18,45,175,34,77,9,3,28,18,31,Grădinița nr. 4,Nr. 33,Codlea,45.7058,25.4486
+188,8,BRAȘOV,MUNICIPIUL CODLEA,290,62,124,24,9,63,16,52,303,68,122,27,8,57,20,38,Grădinița nr. 4,Nr. 33,Codlea,45.7058,25.4486
+189,8,BRAȘOV,MUNICIPIUL CODLEA,156,39,87,14,7,28,15,35,159,43,93,13,8,26,9,26,Școala Generală nr. 3,Str. Freziei nr. 2,Codlea,45.702,25.4437
+190,8,BRAȘOV,MUNICIPIUL CODLEA,226,67,102,14,4,37,18,37,224,71,106,14,7,32,19,32,Școala Generală nr. 3,Str. Freziei nr. 2,Codlea,45.702,25.4437
+191,8,BRAȘOV,MUNICIPIUL CODLEA,170,41,72,9,3,28,9,36,169,43,74,10,5,34,10,24,Școala Generală nr. 3,Str. Freziei nr. 2,Codlea,45.702,25.4437
+192,8,BRAȘOV,MUNICIPIUL CODLEA,177,45,106,12,4,36,18,44,190,43,100,16,4,30,17,35,Liceul Teoretic,Str. Cloșca nr. 26,Codlea,45.7008,25.4378
+193,8,BRAȘOV,MUNICIPIUL CODLEA,185,46,90,2,14,26,5,28,189,46,96,6,12,24,5,21,Școala de Arte și Meserii,Str. Carpați nr. 23,Codlea,45.6911,25.4398
+194,8,BRAȘOV,MUNICIPIUL CODLEA,142,7,65,17,11,21,4,29,149,10,71,18,11,19,3,16,Școala de Arte și Meserii,Str. Carpați nr. 23,Codlea,45.6911,25.4398
+447,8,BRAȘOV,VULCAN,76,1,53,8,2,14,8,20,77,2,54,10,0,12,8,17,Caminul Cultural 1 Mai,Nr. 34,Colonia 1 Mai,45.6649,25.4081
+292,8,BRAȘOV,BOD,108,21,58,9,44,20,1,17,111,21,55,9,41,19,11,19,Grădinița Bod Colonie,Str. Fabricii nr. 1,Colonia Bod,45.755,25.5973
+293,8,BRAȘOV,BOD,88,25,62,8,34,30,14,29,87,24,69,8,37,31,11,24,Școala Generală Colonia Bod,Str. Fabricii nr. 2,Colonia Bod,45.7561,25.6024
+331,8,BRAȘOV,FELDIOARA,107,3,80,7,21,4,7,23,102,6,79,8,19,5,7,26,Căminul Cultural Reconstrucția,,Colonia Reconstrucția,45.8275,25.5701
+314,8,BRAȘOV,COMANA,89,9,131,12,1,3,6,34,96,14,133,13,1,7,10,17,Căminul Cultural Comăna de Jos,Nr. 178,Comana de Jos,45.9143,25.2279
+315,8,BRAȘOV,COMANA,33,6,24,6,0,5,1,20,33,9,30,9,0,12,1,5,Căminul Cultural Comăna de Sus,Nr. 124,Comana de Sus,45.8957,25.2693
+344,8,BRAȘOV,HÂRSENI,99,29,49,4,1,11,2,47,115,34,60,5,1,11,1,13,Grădinița Copăcel,Nr. 65-66,Copăcel,45.7456,24.9928
+429,8,BRAȘOV,UCEA,23,15,28,4,0,2,2,8,25,19,24,6,0,1,2,5,Caminul Cultural Corbi,Nr. 4,Corbi,45.7787,24.6943
+316,8,BRAȘOV,COMANA,86,8,129,0,0,5,2,18,89,8,127,4,0,4,4,11,Căminul Cultural Crihalma,Nr. 64,Crihalma,45.9253,25.1982
+318,8,BRAȘOV,CRISTIAN,174,107,209,25,7,57,20,73,175,113,210,34,8,61,23,56,Grădinița de Copii Cristian,Nr. 8,Cristian,45.6253,25.4805
+319,8,BRAȘOV,CRISTIAN,144,54,160,23,4,51,11,40,140,51,165,24,4,55,11,37,Caminul Cultural nr. 1,Nr. 103,Cristian,45.6248,25.4815
+320,8,BRAȘOV,CRISTIAN,187,133,198,55,8,74,14,58,194,133,218,54,9,69,15,40,"Școala Generală, Corp B",Nr. 161,Cristian,45.6301,25.4868
+321,8,BRAȘOV,CRIZBAV,393,12,58,7,112,11,9,24,400,15,57,9,111,9,10,20,Căminul Cultural,Str. Principală nr. 1,Crizbav,45.815,25.4659
+303,8,BRAȘOV,BUNEŞTI,44,9,46,2,0,3,2,17,46,14,43,3,0,4,1,13,Școala Primară Criț,Nr. 121,Criț,46.1196,25.0232
+348,8,BRAȘOV,HOGHIZ,276,13,21,6,4,6,2,37,296,15,33,7,6,6,3,10,Școala Gimnazială „Aron Pumnu” Cuciulata,Nr. 9,Cuciulata,45.9454,25.2735
+322,8,BRAȘOV,CRIZBAV,263,1,13,0,5,2,0,12,269,1,17,0,3,1,0,10,Școala Primară Cutuș,Str. Cetății nr. 75,Cutuș,45.8234,25.4678
+420,8,BRAȘOV,TĂRLUNGENI,64,19,47,9,4,10,9,26,67,19,51,9,4,7,9,22,Școala Generală Carpinis,Nr. 942,Cărpiniș,45.661,25.7649
+357,8,BRAȘOV,JIBERT,93,7,21,12,2,5,10,26,91,10,26,14,2,9,9,17,Școala Generală Dacia,,Dacia,46.0093,25.1523
+349,8,BRAȘOV,HOGHIZ,40,1,2,0,59,3,1,9,42,3,2,0,61,2,1,7,Căminul Cultural Dopca,Nr. 24,Dopca,45.9812,25.3809
+441,8,BRAȘOV,VOILA,67,6,38,6,0,9,4,13,64,7,37,8,0,9,3,7,Caminul Cultural Dridif,Nr. 32,Dridif,45.8199,24.883
+323,8,BRAȘOV,DRĂGUŞ,98,18,261,37,0,24,13,47,100,29,265,39,0,24,12,26,Primăria Drăguș,Str. Principală nr. 42,Drăguș,45.7615,24.7743
+309,8,BRAȘOV,CAŢA,14,1,66,0,74,2,1,4,13,1,61,0,73,3,1,3,Grădinița Drăușeni,Nr. 147,Drăușeni,46.1433,25.3136
+324,8,BRAȘOV,DUMBRĂVIŢA,191,39,146,33,0,29,9,31,192,42,150,37,0,29,8,24,Primăria Comunei Dumbrăvița,Str. Mare nr. 1176,Dumbrăvița,45.7672,25.4347
+325,8,BRAȘOV,DUMBRĂVIŢA,217,29,166,31,2,19,10,42,224,33,166,30,3,25,11,27,Grădinița cu Program Normal Dumbrăvița,Str. Mare nr. 981,Dumbrăvița,45.7677,25.4342
+431,8,BRAȘOV,UNGRA,291,5,17,1,0,2,6,17,287,4,18,2,1,2,7,16,Grădinița Dăișoara,Nr. 120,Dăișoara,45.9711,25.1626
+327,8,BRAȘOV,FELDIOARA,310,15,178,29,8,17,25,61,312,14,186,31,8,23,16,47,Căminul Cultural Feldioara,Str. Octavian Goga,Feldioara,45.8194,25.5933
+328,8,BRAȘOV,FELDIOARA,176,33,201,18,14,34,22,65,180,32,211,21,15,36,14,45,Liceul Teoretic Petru Rareș Feldioara,Str. Octavian Goga nr. 57,Feldioara,45.8192,25.5957
+329,8,BRAȘOV,FELDIOARA,142,11,145,13,3,0,12,55,150,11,147,13,3,16,16,33,Liceul Teoretic Petru Rareș Feldioara,Str. Octavian Goga nr. 57,Feldioara,45.8192,25.5957
+428,8,BRAȘOV,UCEA,25,5,16,6,1,4,2,7,24,6,17,8,0,4,3,4,Caminul Cultural Feldioara,Nr. 23,Feldioara,45.8041,24.6896
+411,8,BRAȘOV,ŞOARŞ,53,9,67,1,0,13,2,15,57,8,71,1,0,14,1,10,Școala Generală Felmer,Nr. 319,Felmer,45.9287,25.006
+260,8,BRAȘOV,ORAŞ RUPEA,80,0,37,1,3,2,1,17,86,1,42,3,3,1,1,8,Școala Primară Fiser,Nr. 227,Fișer,46.0789,25.1492
+332,8,BRAȘOV,FUNDATA,47,4,161,20,1,7,7,22,45,4,161,20,1,8,6,25,Școala Generală Fundata,Nr. 197,Fundata,45.4398,25.2913
+350,8,BRAȘOV,HOGHIZ,51,3,29,2,1,1,4,32,54,11,33,4,1,3,1,11,Cămunul Cultural Fântâna,Nr. 44,Fântâna,45.9656,25.2982
+195,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,240,29,64,7,11,19,22,62,247,38,65,8,13,23,23,43,"Serviciul Public de Asistenta Sociala, Str. T. Vladimirescu nr. 8",Nr. 8,Făgăraș,45.8429,24.9851
+196,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,232,36,70,16,10,19,20,55,221,42,71,19,10,26,23,50,Grădinița cu Program Normal „Voinicelul”,Str. Tudor Vladimirescu nr.  6A,Făgăraș,45.8429,24.9855
+197,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,170,118,82,21,23,22,23,80,172,131,97,21,23,23,24,46,Casa Municipală de Cultură,Nr. 41,Făgăraș,45.8436,24.9753
+198,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,156,76,80,9,11,22,27,83,154,86,85,19,12,29,30,49,Casa Municipală de Cultură,Nr. 41,Făgăraș,45.8436,24.9753
+199,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,172,82,39,7,5,19,6,42,183,98,43,8,4,20,7,24,Școala Gimnazială „Ovid Densușianu” - Școala Generală nr. 4,Nr. 52,Făgăraș,45.8526,24.9806
+200,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,155,60,75,9,9,27,11,55,158,74,74,12,14,23,13,33,Fundația Culturală „Negru Voda”,Str. Republicii nr. 6,Făgăraș,45.8444,24.9701
+201,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,205,93,93,17,14,29,24,84,211,102,117,14,16,27,26,52,Colegiul Național „D-Na Stanca”,Nr. 14,Făgăraș,45.8449,24.9675
+202,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,162,80,75,19,9,24,22,78,173,80,98,20,11,23,22,37,Colegiul Național „D-Na Stanca”,Nr. 14,Făgăraș,45.8449,24.9675
+203,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,122,98,75,21,12,31,23,78,122,120,83,18,11,33,27,45,Colegiul Național „Radu Negru” - Școala Generală nr. 1,Str. Școlii nr. 16,Făgăraș,45.8421,24.9677
+204,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,158,89,91,11,25,37,26,67,159,101,85,16,27,38,25,50,Colegiul Național „Radu Negru” - Școala Generală nr. 1,Str. Școlii nr. 16,Făgăraș,45.8421,24.9677
+205,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,148,54,58,14,6,22,18,49,148,66,63,13,4,20,19,39,Colegiul Național „Radu Negru”,Str. Școlii nr. 1,Făgăraș,45.8424,24.9696
+206,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,175,82,78,21,17,23,21,72,185,92,99,20,17,19,17,37,Colegiul Național „Radu Negru”,Str. Școlii nr. 1,Făgăraș,45.8424,24.9696
+207,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,184,51,74,17,6,27,18,67,192,61,73,20,9,29,16,44,Colegiul Național „D-Na Stanca” -Școala Gimnazială nr. 7,Nr. 104B,Făgăraș,45.8355,24.9703
+208,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,156,44,83,22,12,20,21,70,175,54,76,24,14,23,21,48,Colegiul Național „D-Na Stanca” -Școala Gimnazială nr. 7,Nr. 104B,Făgăraș,45.8355,24.9703
+209,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,233,86,63,22,13,26,28,84,237,90,77,24,15,20,35,64,Colegiul Național „D-Na Stanca” -Școala Gimnazială nr. 7,Nr. 104B,Făgăraș,45.8355,24.9703
+210,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,203,23,41,10,5,14,13,50,214,25,49,12,5,23,11,18,Colegiul „Aurel Vijoli”,Nr. 1,Făgăraș,45.8203,24.9676
+211,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,126,23,31,2,5,7,9,46,138,24,35,4,5,11,8,28,Colegiul „Aurel Vijoli”,Nr. 1,Făgăraș,45.8203,24.9676
+212,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,151,52,44,11,7,16,9,56,159,67,50,12,10,18,13,24,Liceul Teologic Ortodox „Constantin Brâncoveanu”,Str. Negoiu (Str. Filimon Sîrbu) nr. 6,Făgăraș,45.8345,24.9738
+213,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,172,75,74,17,12,40,10,46,178,80,82,20,13,32,11,31,Liceul Teologic Ortodox „Sf. Constantin Brâncoveanu”,Str. Negoiu (Str. Filimon Sîrbu) nr. 6,Făgăraș,45.8345,24.9738
+214,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,199,35,59,9,17,32,14,50,202,45,63,13,18,31,8,27,Liceul Teologic Ortodox „Sf.. Constantin Brâncoveanu”,Str. Negoiu (Str. Filimon Sîrbu) nr. 6,Făgăraș,45.8345,24.9738
+215,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,181,94,75,17,14,28,20,73,182,105,91,18,14,36,16,34,Liceul Teologic Ortodox „Sf.. Constantin Brâncoveanu”,Str. Negoiu (Str. Filimon Sîrbu) nr. 6,Făgăraș,45.8345,24.9738
+216,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,157,62,52,13,13,34,14,61,160,75,64,14,13,31,17,28,Liceul Teologic Ortodox „Sf.. Constantin Brâncoveanu” -Grădinița cu Program Normal „Mateiaș Brâncoveanu”,Str. Nicolae Bălcescu nr. 20,Făgăraș,45.8413,24.9724
+217,8,BRAȘOV,MUNICIPIUL FĂGĂRAŞ,166,60,63,9,16,27,24,56,167,62,69,13,16,28,27,44,Școala Gimnazială „Ovid Densușianu”,Str. Vasile Alecsandri nr. 13,Făgăraș,45.8417,24.9768
+237,8,BRAȘOV,ORAŞ GHIMBAV,308,51,146,19,11,20,19,68,309,55,137,20,14,24,18,63,Primăria Ghimbav,Str. Lungă nr. 1,Ghimbav,45.6635,25.507
+238,8,BRAȘOV,ORAŞ GHIMBAV,222,138,142,19,17,47,24,140,223,147,149,27,18,53,25,108,Școala Generală Ghimbav Clasele V-VIII,Str. Pieții nr. 70,Ghimbav,45.6636,25.5083
+239,8,BRAȘOV,ORAŞ GHIMBAV,251,99,157,21,19,42,29,78,255,108,162,26,20,37,20,58,Școala Generală Ghimbav Clasele I-IV,Str. Școlii nr. 258,Ghimbav,45.6643,25.5043
+377,8,BRAȘOV,PĂRĂU,53,3,35,0,0,4,2,16,51,9,35,1,0,6,3,7,Școala Primară Grid,Nr. 94,Grid,45.8236,25.2146
+359,8,BRAȘOV,JIBERT,10,2,24,0,73,5,2,7,11,2,28,1,72,2,3,6,Școala Generală Grînari,,Grânari,46.0396,24.9725
+345,8,BRAȘOV,HOGHIZ,94,7,46,4,117,9,4,13,98,11,44,6,114,9,5,16,Căminul Cultural Hoghiz,Nr. 232,Hoghiz,45.9856,25.3097
+346,8,BRAȘOV,HOGHIZ,82,2,36,3,66,6,2,9,84,3,32,3,67,8,2,7,Căminul Cultural Hoghiz,Nr. 232,Hoghiz,45.9856,25.3097
+352,8,BRAȘOV,HOLBAV,150,7,107,2,0,8,4,47,170,12,113,2,0,8,5,20,Primăria Comunei Holbav,Nr. 39,Holbav,45.6583,25.3864
+353,8,BRAȘOV,HOMOROD,100,4,129,7,28,15,6,25,103,10,128,12,29,13,6,16,Camin Cultural Homorod,"Nr. 403, Bloc -",Homorod,46.0412,25.2789
+286,8,BRAȘOV,BECLEAN,117,21,48,3,1,14,2,15,121,21,50,2,1,13,5,13,Camin Cultural Hurez,Nr. 207,Hurez,45.7998,24.9538
+341,8,BRAȘOV,HÂRSENI,83,13,25,2,2,6,5,28,87,16,30,4,1,9,3,12,Școala Gimnazială Prof.Dr. Ioan Cerghit Hârseni,Nr. 154,Hârseni,45.7546,25.0119
+334,8,BRAȘOV,HĂLCHIU,224,67,85,14,14,27,21,63,225,65,94,13,13,24,21,55,Căminul Cultural,Nr. 2A,Hălchiu,45.7613,25.5458
+335,8,BRAȘOV,HĂLCHIU,214,67,126,19,12,35,21,70,226,66,136,16,13,35,22,41,Locația Kredent,Nr. 2,Hălchiu,45.7613,25.5458
+400,8,BRAȘOV,ŞERCAIA,7,3,52,2,61,3,1,2,5,3,55,2,60,4,2,3,Fostul Sediu Cap,Nr. 246,Hălmeag,45.8661,25.1294
+338,8,BRAȘOV,HĂRMAN,180,108,109,54,8,40,31,77,184,111,112,61,9,39,32,59,Școala Gimnazială Harman,Nr. 78,Hărman,45.7164,25.6839
+339,8,BRAȘOV,HĂRMAN,189,69,74,48,13,50,26,65,198,72,81,49,14,53,32,44,Școala Gimnazială Harman,Nr. 78,Hărman,45.7164,25.6839
+340,8,BRAȘOV,HĂRMAN,193,81,92,50,8,32,29,66,200,85,96,45,10,35,24,54,Școala Gimnazială Harman,Nr. 78,Hărman,45.7164,25.6839
+366,8,BRAȘOV,MÂNDRA,107,47,54,10,1,11,4,26,111,47,56,12,1,12,6,18,Așezamânt Cultural,Nr. 307,Ileni,45.7895,24.9978
+310,8,BRAȘOV,CAŢA,1,3,13,2,46,1,1,3,1,2,13,1,51,1,1,2,Căminul Cultural Ionești,Nr. 68,Ionești,46.1605,25.3368
+356,8,BRAȘOV,JIBERT,27,8,39,9,2,4,2,21,27,8,40,11,4,7,3,13,Școala Generală Jibert,,Jibert,46.0009,25.0753
+355,8,BRAȘOV,HOMOROD,19,0,24,0,119,2,1,6,17,0,25,0,121,3,2,4,Camin Cultural Jimbor,,Jimbor,46.1097,25.3868
+361,8,BRAȘOV,LISA,254,18,104,3,0,13,3,29,263,23,102,8,1,7,3,15,Căminul Cultural Lisa,Nr. 251,Lisa,45.7262,24.8513
+358,8,BRAȘOV,JIBERT,32,5,55,1,1,4,2,12,34,6,62,2,2,3,2,2,Școala Generală Lovnic,,Lovnic,45.9843,25.0076
+442,8,BRAȘOV,VOILA,13,2,58,0,0,1,3,19,13,3,60,0,0,2,5,13,Caminul Cultural Ludisor,Nr. 131,Ludișor,45.7747,24.886
+386,8,BRAȘOV,PREJMER,156,41,98,32,3,9,17,45,164,46,101,30,2,17,10,27,Școala Gimnazială Lunca Calnicului Sat,Str. Bisericii nr. 220,Lunca Calnicului,45.7549,25.7634
+387,8,BRAȘOV,PREJMER,170,38,128,20,12,9,16,44,180,36,137,21,9,8,9,27,Școala Gimnazială Lunca Calnicului Colonie,Str. Pictor Iacob Brujan nr. 355,Lunca Calnicului,45.7502,25.7705
+351,8,BRAȘOV,HOGHIZ,28,0,7,2,1,1,1,6,26,1,8,2,3,1,1,4,Căminul Cultural Lupșa,Nr. 25,Lupșa,45.9354,25.2985
+289,8,BRAȘOV,BECLEAN,21,9,20,0,0,3,3,7,20,9,18,0,0,7,3,6,Camin Cultural Luta,Nr. 64,Luța,45.7987,24.9081
+388,8,BRAȘOV,RACOŞ,65,6,26,9,7,3,1,22,67,7,25,8,6,3,8,21,Camin Cultural,Nr. 173,Mateiaș,46.0169,25.3799
+354,8,BRAȘOV,HOMOROD,34,4,80,2,3,4,1,13,41,2,81,4,3,5,1,6,Camin Cultural Mercheasa,,Mercheașa,46.0668,25.3351
+304,8,BRAȘOV,BUNEŞTI,13,2,19,0,0,2,2,10,15,5,19,1,0,2,2,3,Căminul Cultural Meșendorf,Nr. 44,Meșendorf,46.0896,24.983
+370,8,BRAȘOV,MOIECIU,162,26,153,18,0,13,9,29,169,31,151,18,0,15,8,15,Primăria Comunei Moieciu,Nr. 330 A,Moieciu de Jos,45.5023,25.3358
+371,8,BRAȘOV,MOIECIU,205,35,194,26,0,25,27,62,203,44,199,30,0,28,24,40,Primăria Comunei Moieciu,Nr. 330 A,Moieciu de Jos,45.5023,25.3358
+372,8,BRAȘOV,MOIECIU,141,15,54,13,1,3,7,12,143,19,58,8,0,4,4,7,Școala Gimnazială Moieciu de Sus,Nr. 212 A,Moieciu de Sus,45.4431,25.3306
+365,8,BRAȘOV,MÂNDRA,246,42,47,5,2,9,10,52,256,46,56,5,2,11,10,21,Școala Generală Mândra,Nr. 312,Mândra,45.8226,25.0472
+374,8,BRAȘOV,MOIECIU,65,2,57,8,1,2,11,17,72,6,56,7,1,2,5,9,Școala Gimnazială Măgura,Nr. 85A,Măgura,45.5217,25.2994
+363,8,BRAȘOV,MĂIERUŞ,137,25,415,10,3,25,9,43,142,31,410,10,5,27,7,31,Caminul Cultural Maierus,Nr. 2,Măieruș,45.8987,25.5404
+343,8,BRAȘOV,HÂRSENI,67,12,41,6,0,15,3,28,66,12,50,7,0,15,4,17,Grădinița Mărgineni,Nr. 15,Mărgineni,45.7321,25.0442
+403,8,BRAȘOV,ŞINCA,27,4,40,3,1,2,1,33,41,8,46,2,0,3,3,9,Căminul Cultural,,Ohaba,45.7712,25.151
+437,8,BRAȘOV,VIŞTEA,24,8,37,7,1,4,6,21,26,8,47,8,1,5,5,7,Școala Generală Olteț,Nr. 24,Olteț,45.8044,24.7606
+375,8,BRAȘOV,ORMENIŞ,118,4,103,50,348,15,3,19,116,3,111,50,344,13,6,17,Dispensar Medical Ormeniș,Str. Principală nr. 291,Ormeniș,46.005,25.5542
+311,8,BRAȘOV,CAŢA,21,5,66,2,2,3,3,6,25,5,68,1,2,3,2,2,Școala Generală Paloș,Nr. 203,Paloș,46.1201,25.2314
+409,8,BRAȘOV,ŞINCA NOUĂ,14,0,16,0,0,1,4,70,31,3,56,3,0,1,8,14,Școala Primară Paltin,Nr. 58,Paltin,45.6574,25.2915
+404,8,BRAȘOV,ŞINCA,87,8,64,7,0,15,8,37,91,11,65,8,1,19,8,16,Căminul Cultural,,Perșani,45.7815,25.2103
+373,8,BRAȘOV,MOIECIU,58,6,91,3,0,6,4,25,58,8,90,5,0,12,7,23,Școala Gimnazială Peștera,Nr. 1A,Peștera,45.5063,25.2753
+337,8,BRAȘOV,HĂRMAN,69,32,62,14,6,32,16,42,72,35,63,15,6,32,15,32,Căminul Cultural,Nr. 1157,Podu Oltului,45.7605,25.7218
+380,8,BRAȘOV,POIANA MĂRULUI,245,13,186,19,0,7,14,91,286,19,180,24,0,14,14,32,Școala Gimnazială nr. 1 Corp A2,Nr. 388,Poiana Mărului,45.6045,25.3075
+381,8,BRAȘOV,POIANA MĂRULUI,116,9,104,18,0,4,4,31,129,8,103,22,0,6,4,14,Școală Gimnazială nr. 1 Corp B,Str. Vânătorilor nr. 172,Poiana Mărului,45.6043,25.3085
+382,8,BRAȘOV,POIANA MĂRULUI,64,2,18,3,1,1,2,9,67,2,17,2,1,2,3,8,Școală Gimnazială nr. 2 Între-Vai,,Poiana Mărului,45.6341,25.3515
+240,8,BRAȘOV,ORAŞ PREDEAL,208,47,131,32,2,31,44,90,201,45,122,37,1,37,70,97,Centrul de Cultură Mihail Saulescu,Nr. NR. 127,Predeal,45.5079,25.5737
+241,8,BRAȘOV,ORAŞ PREDEAL,166,45,85,34,0,25,30,52,172,46,80,30,0,25,40,60,Liceul Teoretic Mihail Saulescu,Bulevardul Mihail Săulescu (Bulevardul Gheorghe Gheorghiu Dej),Predeal,45.4975,25.572
+242,8,BRAȘOV,ORAŞ PREDEAL,165,33,115,21,1,20,46,80,167,38,115,20,1,19,64,81,Liceul Teoretic Mihail Săulescu,Nr. 91,Predeal,45.4975,25.572
+245,8,BRAȘOV,ORAŞ PREDEAL,39,7,33,5,5,5,13,16,36,8,33,3,4,1,19,23,Clubul Dâmbul Morii,Str. Piatra Mare nr. 1,Predeal,45.595,25.6374
+296,8,BRAȘOV,BRAN,150,47,74,16,2,34,10,38,163,51,73,19,2,30,6,22,Școala Generală Predeluț,Nr. 2,Predeluț,45.5266,25.3625
+383,8,BRAȘOV,PREJMER,170,49,131,52,3,26,32,51,174,49,128,54,4,32,23,42,"Școala Gimnazială Prejmer, Str.Școlii nr. 1, Corp A, Parter",Str. Școlii nr. 1,Prejmer,45.7219,25.7726
+384,8,BRAȘOV,PREJMER,182,56,175,20,5,26,16,47,176,56,182,23,6,30,18,36,"Școala Gimnazială Prejmer, Str.Școlii nr. 1, Corp A, Parter",Str. Școlii nr. 1,Prejmer,45.7219,25.7726
+385,8,BRAȘOV,PREJMER,178,63,165,51,9,30,17,52,183,60,170,51,12,30,19,41,"Școala Gimnazială Prejmer, Str.Școlii nr. 1, Corp A, Parter",Str. Școlii nr. 1,Prejmer,45.7219,25.7726
+417,8,BRAȘOV,TĂRLUNGENI,132,23,83,9,146,9,11,37,137,25,86,10,147,11,12,31,Școala Generală Purcareni,Nr. 465,Purcăreni,45.6473,25.7856
+376,8,BRAȘOV,PĂRĂU,79,11,37,19,1,7,2,28,87,11,43,21,1,8,3,10,Căminul Cultural Părău,Nr. 214,Părău,45.8486,25.1912
+389,8,BRAȘOV,RACOŞ,81,1,9,2,42,1,1,9,84,3,9,1,41,2,2,5,Școala Generală „Bethlen Samuel”,Str. Bethlen nr. 13-15,Racoș,46.0236,25.4104
+390,8,BRAȘOV,RACOŞ,35,4,15,0,208,5,1,11,37,4,15,2,210,6,1,2,Primăria Comunei Racos,Str. Dr. Imreh Barna nr. 13,Racoș,46.0247,25.4054
+391,8,BRAȘOV,RECEA,171,39,243,30,1,15,9,57,181,58,231,33,4,11,17,36,Căminul Cultural Recea,Nr. 38,Recea,45.7317,24.9437
+305,8,BRAȘOV,BUNEŞTI,33,0,20,0,2,4,1,10,34,1,28,0,1,2,1,5,Școala Primară Roadeș,Nr. 162,Roadeș,46.1258,25.1067
+413,8,BRAȘOV,ŞOARŞ,40,4,73,2,0,0,3,4,37,6,72,2,0,0,5,6,Școala Generală Rodbav,Nr. 112,Rodbav,45.9115,24.8768
+330,8,BRAȘOV,FELDIOARA,156,23,162,12,9,14,15,37,157,34,149,11,8,17,15,35,Căminul Cultural Rotbav,Nr. FN,Rotbav,45.8383,25.5563
+438,8,BRAȘOV,VIŞTEA,32,4,138,0,0,4,1,15,34,4,151,0,0,4,2,4,Gradinița Rucăr,Nr. 32,Rucăr,45.8205,24.7692
+256,8,BRAȘOV,ORAŞ RUPEA,170,25,72,9,56,15,22,45,169,21,80,8,62,17,22,35,Școala Generală I,Str. Republicii nr. 92,Rupea,46.0394,25.2234
+257,8,BRAȘOV,ORAŞ RUPEA,176,30,92,16,56,18,13,52,184,31,97,17,63,20,14,31,Casa Oraseneasca de Cultura,Str. Republicii nr. 124,Rupea,46.038,25.2209
+258,8,BRAȘOV,ORAŞ RUPEA,226,27,122,13,59,38,4,41,222,30,130,16,61,43,8,24,Școala Generală Ii,Str. Republicii nr. 145,Rupea,46.0386,25.2216
+259,8,BRAȘOV,ORAŞ RUPEA,139,7,42,3,24,9,5,12,142,9,43,4,24,6,4,11,Club Muncitoresc Brafor Gara Rupea,Str. Muncii nr. 23,Rupea,46.0187,25.2745
+367,8,BRAȘOV,MÂNDRA,70,29,27,8,0,4,2,27,75,35,31,11,0,5,3,7,Așezamânt Cultural,Nr. 170,Râușor,45.8178,25.0041
+246,8,BRAȘOV,ORAŞ RÂŞNOV,223,63,184,20,7,41,20,69,228,63,185,17,7,47,20,63,Școala Generală nr. 1 Râșnov,Nr. 131,Râșnov,45.5826,25.462
+247,8,BRAȘOV,ORAŞ RÂŞNOV,142,7,93,3,0,5,3,51,136,8,83,3,1,11,6,60,Școala Generală nr. 1 Râșnov,Nr. 131,Râșnov,45.5826,25.462
+248,8,BRAȘOV,ORAŞ RÂŞNOV,227,41,162,15,11,28,22,51,223,47,166,16,11,34,23,40,Școala Generală nr. 3 Râșnov,Nr. 3,Râșnov,45.5868,25.456
+249,8,BRAȘOV,ORAŞ RÂŞNOV,233,58,186,15,3,31,22,83,234,57,191,17,3,36,19,69,Școala Generală nr. 3 Râșnov,Nr. 3,Râșnov,45.5868,25.456
+250,8,BRAȘOV,ORAŞ RÂŞNOV,146,24,78,16,1,8,15,50,149,26,79,14,1,8,13,46,Grădinița nr. 1,"Str. Câmpului (Str. Cîmpului) nr. 1, Bloc 5",Râșnov,45.5902,25.464
+251,8,BRAȘOV,ORAŞ RÂŞNOV,221,37,143,21,7,42,17,85,215,40,151,27,7,42,18,72,Școala Generală nr. 2 Râșnov,Str. Izvor (Str. Izvorului) nr. 8,Râșnov,45.5921,25.4669
+252,8,BRAȘOV,ORAŞ RÂŞNOV,212,73,205,10,8,35,20,64,226,66,205,16,9,35,21,53,Școala Generală nr. 2 Râșnov,Str. Izvor (Str. Izvorului) nr. 8,Râșnov,45.5921,25.4669
+253,8,BRAȘOV,ORAŞ RÂŞNOV,186,60,145,18,5,21,15,66,195,61,146,20,5,23,15,52,Școala Generală nr. 2 Râșnov,Str. Izvor (Str. Izvorului) nr. 8,Râșnov,45.5921,25.4669
+254,8,BRAȘOV,ORAŞ RÂŞNOV,267,123,251,30,6,54,32,98,285,124,255,30,7,52,33,80,Grup Școlar Industrial Râșnov,Str. Republicii nr. 29,Râșnov,45.5933,25.46
+255,8,BRAȘOV,ORAŞ RÂŞNOV,283,49,204,19,5,30,25,79,288,53,205,17,4,31,22,72,Grup Școlar Industrial Râșnov,Str. Republicii nr. 29,Râșnov,45.5933,25.46
+336,8,BRAȘOV,HĂLCHIU,136,10,27,22,137,7,3,10,131,13,27,19,142,5,3,10,Camin Cultural,Nr. 184,Satu Nou,45.7739,25.5119
+342,8,BRAȘOV,HÂRSENI,79,19,28,6,0,72,12,41,83,21,29,7,0,81,15,32,Grădinița Sebeș,Nr. 47,Sebeș,45.726,25.0296
+414,8,BRAȘOV,ŞOARŞ,30,2,32,0,2,1,1,3,30,2,32,0,2,2,0,2,Căminul Cultural Ortodox Seliștat,Nr. FN,Seliștat,45.9851,24.8618
+297,8,BRAȘOV,BRAN,83,17,47,27,0,10,3,20,81,20,45,30,0,16,1,12,Căminul Cultural Sohodol,Str. Școlii nr. 1,Sohodol,45.5293,25.3995
+443,8,BRAȘOV,VOILA,42,10,52,2,0,29,2,8,45,9,48,3,0,26,4,9,Caminul Cultural Sambata de Jos,Nr. 9,Sâmbăta de Jos,45.8124,24.8202
+394,8,BRAȘOV,SÂMBĂTA DE SUS,260,28,189,25,0,18,10,62,275,33,183,33,0,25,13,35,Școala Generală,Nr. 556,Sâmbăta de Sus,45.7599,24.8241
+395,8,BRAȘOV,SÎNPETRU,204,165,119,47,14,44,35,92,201,165,135,47,14,45,32,75,Școala Gimnazială Sânpetru,Str. Căprioarei nr. 2-3,Sânpetru,45.7093,25.6312
+396,8,BRAȘOV,SÎNPETRU,197,203,166,56,30,32,46,111,188,206,180,56,31,43,34,90,Grădinița cu Program Normal 4ore Sanpetru,Str. Republicii nr. 168,Sânpetru,45.7123,25.6337
+397,8,BRAȘOV,SÎNPETRU,154,62,98,26,10,38,42,104,152,65,94,25,12,54,39,88,Căminul Cultural al Bisericii Ortodoxe,Str. Bisericii Române nr. 481,Sânpetru,45.7173,25.6266
+218,8,BRAȘOV,MUNICIPIUL SĂCELE,205,136,91,19,292,47,27,55,216,145,91,20,286,48,24,41,"Școala Gimnazială nr. 1, Corpul a (Lângă Grădiniță)",Bulevardul Brașovului (Bulevardul V. I. Lenin) nr. 227,Săcele,45.6128,25.6689
+219,8,BRAȘOV,MUNICIPIUL SĂCELE,214,47,56,30,57,26,17,46,217,49,64,27,57,25,17,35,Școala Gimnazială nr. 1 Corpul B,Bulevardul Brașovului (Bulevardul V. I. Lenin) nr. 250,Săcele,45.6128,25.6689
+220,8,BRAȘOV,MUNICIPIUL SĂCELE,214,81,106,14,138,21,17,50,209,83,106,17,135,26,18,39,Școala Gimnazială nr. 1 Corpul F,Str. Barbu Lăutaru (D) nr. 37,Săcele,45.6118,25.6803
+221,8,BRAȘOV,MUNICIPIUL SĂCELE,118,67,47,22,281,21,19,46,124,63,50,29,279,21,14,36,Liceulu Zajzoni Rab Istvan,Bulevardul Brașovului (Bulevardul V. I. Lenin) nr. 107,Săcele,45.617,25.6807
+222,8,BRAȘOV,MUNICIPIUL SĂCELE,139,55,76,28,415,22,19,48,135,58,75,35,406,25,25,40,Liceul George Moroianu Corpul C,Piața Libertății nr. 24,Săcele,45.6179,25.6939
+223,8,BRAȘOV,MUNICIPIUL SĂCELE,164,91,77,25,130,24,31,68,174,93,79,26,129,25,26,56,Liceul George Moroianu Corpul C,Piața Libertății nr. 24,Săcele,45.6179,25.6939
+224,8,BRAȘOV,MUNICIPIUL SĂCELE,259,74,85,38,43,24,28,60,263,73,87,36,45,28,24,46,Sala de Sport,Cartierul Ștefan cel Mare (Cartierul I. V. Socec) nr. FN,Săcele,45.6191,25.6977
+225,8,BRAȘOV,MUNICIPIUL SĂCELE,247,55,56,37,50,35,29,67,246,59,56,39,52,39,25,59,Sala de Sport,Cartierul Ștefan cel Mare (Cartierul I. V. Socec) nr. FN,Săcele,45.6191,25.6977
+226,8,BRAȘOV,MUNICIPIUL SĂCELE,149,71,102,38,308,26,22,46,142,77,108,48,306,24,17,35,Liceul George Moroianu,Bulevardul George Moroianu (Bulevardul 8 Mai) nr. 110,Săcele,45.6187,25.7053
+227,8,BRAȘOV,MUNICIPIUL SĂCELE,256,94,120,55,77,52,33,77,250,99,120,62,75,59,28,63,Școala Gimnazială nr. 4 Frații Popeea,Bulevardul George Moroianu (Bulevardul 8 Mai) nr. 291,Săcele,45.6155,25.7216
+228,8,BRAȘOV,MUNICIPIUL SĂCELE,269,49,55,20,28,27,19,46,281,46,54,17,28,29,15,40,Școala Gimnazială nr. 4 Frații Popeea,Str. Viitorului nr. 4A,Săcele,45.6175,25.7221
+229,8,BRAȘOV,MUNICIPIUL SĂCELE,193,64,70,35,22,33,27,54,195,68,72,36,30,30,22,41,Școala Gimnazială nr. 4 Frații Popeea,Str. Viitorului nr. 4A,Săcele,45.6175,25.7221
+230,8,BRAȘOV,MUNICIPIUL SĂCELE,141,21,52,12,21,20,20,38,144,22,46,18,21,25,14,28,Grup Școlar Industrial Victor Jinga,Aleea Episcop Popeea (Str. Parcului) nr. 20,Săcele,45.6162,25.724
+231,8,BRAȘOV,MUNICIPIUL SĂCELE,208,31,47,31,23,16,18,33,204,29,45,28,25,28,18,30,Grup Școlar Industrial Victor Jinga,Aleea Episcop Popeea (Str. Parcului) nr. 20,Săcele,45.6162,25.724
+232,8,BRAȘOV,MUNICIPIUL SĂCELE,255,59,65,26,35,29,21,50,257,65,60,28,34,30,22,46,Școala Gimnazială nr. 4 Frații Popeea,Str. Viitorului nr. 4A,Săcele,45.6175,25.7221
+233,8,BRAȘOV,MUNICIPIUL SĂCELE,108,35,35,20,106,14,14,38,104,36,39,22,112,17,14,31,Școala Gimnazială nr. 5 Corpul B,Bulevardul George Moroianu (Bulevardul 8 Mai) nr. 399,Săcele,45.6085,25.7324
+234,8,BRAȘOV,MUNICIPIUL SĂCELE,188,2,22,7,18,12,4,28,190,4,22,7,18,15,1,19,Școala Gimnazială nr. 5 Corpul B,Bulevardul George Moroianu (Bulevardul 8 Mai) nr. 399,Săcele,45.6085,25.7324
+235,8,BRAȘOV,MUNICIPIUL SĂCELE,249,2,16,34,1,4,4,18,248,2,18,32,2,5,2,16,Școala Gimnazială nr. 5 Corpul A,Str. Barajului nr. 49,Săcele,45.6014,25.7418
+236,8,BRAȘOV,MUNICIPIUL SĂCELE,310,1,16,19,1,14,2,18,321,2,16,19,1,14,5,14,Școala Gimnazială nr. 5 Corpul A,Str. Barajului nr. 49,Săcele,45.6014,25.7418
+393,8,BRAȘOV,RECEA,66,14,76,8,0,9,4,19,74,19,71,12,0,9,4,7,Căminul Cultural Săvăstreni,Nr. 14,Săvăstreni,45.7623,24.943
+421,8,BRAȘOV,TELIU,281,4,48,9,34,7,3,16,286,4,52,11,34,7,3,15,Școală Generală Teliu,Str. Alexandru Petofi nr. 344,Teliu,45.6984,25.8528
+422,8,BRAȘOV,TELIU,107,17,60,10,102,9,7,15,99,17,63,10,102,8,14,24,Căminul Cultural Teliu,Str. Tudor Vladimirescu nr. 449,Teliu,45.6984,25.8579
+423,8,BRAȘOV,TELIU,84,9,100,8,2,32,18,30,90,11,97,10,2,32,15,22,Școală Generală Teliu Vale,Str. Tudor Vladimirescu nr. 800,Teliu,45.6899,25.8875
+317,8,BRAȘOV,COMANA,72,3,120,0,1,4,6,31,75,8,136,2,2,5,7,10,Căminul Cultural Ticușu Nou,Nr. 88,Ticușu Nou,45.9177,25.1802
+424,8,BRAȘOV,TICUŞU,69,4,141,1,3,3,4,11,62,5,143,2,3,3,4,10,Căminul Cultural Ticușu Vechi,Nr. 198,Ticușu Vechi,45.9297,25.1007
+244,8,BRAȘOV,ORAŞ PREDEAL,43,7,30,5,0,4,14,37,45,7,32,6,0,3,25,34,Grădinița cu Program Normal Timisul de Jos,Nr. 16,Timișu de Jos,45.5848,25.624
+243,8,BRAȘOV,ORAŞ PREDEAL,36,2,34,8,3,6,19,33,36,3,36,5,3,4,26,36,Agenția Poștală,,Timișu de Sus,45.5327,25.58
+313,8,BRAȘOV,CINCU,27,1,49,2,1,2,1,6,23,4,47,2,1,5,1,4,Școala Generală Toarcla,Nr. 148,Toarcla,45.898,24.7397
+368,8,BRAȘOV,MÂNDRA,83,8,27,4,1,5,3,12,90,7,26,6,1,4,2,6,Așezamânt Cultural,Nr. 49,Toderița,45.7863,25.063
+280,8,BRAȘOV,ORAŞ ZĂRNEŞTI,263,39,196,29,3,20,17,47,262,41,201,30,3,18,14,40,Căminul Cultural Tohanul Nou,,Tohanu Nou,45.5524,25.3822
+415,8,BRAȘOV,TĂRLUNGENI,113,29,128,6,137,12,6,24,117,37,123,10,139,14,6,14,Camin Cultural,Nr. 298,Tărlungeni,45.6396,25.7576
+416,8,BRAȘOV,TĂRLUNGENI,111,27,134,12,131,22,16,37,115,31,138,16,129,23,12,25,Grădinița Program Prelungit,Nr. 754,Tărlungeni,45.6425,25.7567
+426,8,BRAȘOV,UCEA,50,25,74,7,3,15,3,24,48,27,86,7,2,14,4,12,Sediul Primariei Comunei Ucea,Nr. 78,Ucea de Jos,45.7861,24.6681
+427,8,BRAȘOV,UCEA,91,29,90,3,1,14,9,42,86,31,108,5,0,12,12,26,Caminul Cultural Ucea de Sus,Nr. 103,Ucea de Sus,45.7517,24.6806
+430,8,BRAȘOV,UNGRA,79,5,41,11,2,20,3,27,76,4,47,11,3,22,7,19,Școala Generală Ungra,Nr. 177,Ungra,45.9844,25.2668
+399,8,BRAȘOV,ŞERCAIA,60,7,48,1,2,16,8,72,68,11,75,3,4,21,12,24,Cămin Cultural Vad,,Vad,45.793,25.1482
+432,8,BRAȘOV,VAMA BUZĂULUI,252,24,56,3,0,11,6,23,251,25,55,5,0,10,4,20,Căminul Cultural Vama Buzăului,Nr. 425,Vama Buzăului,45.5956,25.9915
+378,8,BRAȘOV,PĂRĂU,55,11,79,0,3,10,5,29,63,14,84,1,3,9,5,14,Clădirea Fostei Primării,Nr. 426,Veneția de Jos,45.8744,25.2089
+379,8,BRAȘOV,PĂRĂU,38,6,63,2,0,3,3,29,40,6,66,3,0,5,3,12,Clădirea Fostei Primării,Nr. 197,Veneția de Sus,45.8587,25.241
+261,8,BRAȘOV,ORAŞ VICTORIA,137,47,89,14,0,27,22,66,149,53,100,9,0,21,28,49,Primăria Victoria,Str. Stadionului nr. 14,Victoria,45.7275,24.7006
+262,8,BRAȘOV,ORAŞ VICTORIA,124,57,106,12,2,17,23,56,132,63,112,13,2,15,21,37,Liceul Teoretic I.C. Drăgușanu,Str. 1 Decembrie 1918 (Str. Bujorului) nr. 8,Victoria,45.7294,24.6977
+263,8,BRAȘOV,ORAŞ VICTORIA,133,58,104,27,3,23,21,80,148,71,103,27,1,19,29,64,Școala Gimnazială Victoria,Str. 1 Decembrie 1918 (Str. Bujorului) nr. 2,Victoria,45.7297,24.6999
+264,8,BRAȘOV,ORAŞ VICTORIA,121,67,69,7,2,22,20,67,123,73,73,6,4,27,20,49,Colegiul Tehnic Dr. Alexandru Bărbat,Str. Salcîmilor nr. 2,Victoria,45.7286,24.7047
+265,8,BRAȘOV,ORAŞ VICTORIA,114,52,87,15,2,5,16,71,131,58,93,14,0,4,13,44,Grădinița nr. 1,Str. Libertății nr. 1,Victoria,45.7263,24.7031
+306,8,BRAȘOV,BUNEŞTI,32,22,22,2,2,5,1,10,31,23,27,2,1,3,2,7,Școala Primară Viscri,Nr. 60,Viscri,46.0538,25.0915
+435,8,BRAȘOV,VIŞTEA,56,9,84,7,1,3,7,44,60,15,86,7,1,8,10,26,Primăria Comunei Viștea,Nr. 132,Viștea de Jos,45.7939,24.723
+436,8,BRAȘOV,VIŞTEA,50,16,68,4,1,17,5,26,52,23,73,5,1,17,4,12,Grădinița Viștea de Sus,Nr. 23,Viștea de Sus,45.7462,24.7395
+326,8,BRAȘOV,DUMBRĂVIŢA,76,15,86,7,1,16,5,39,80,15,97,11,1,22,10,23,Școala Generală Sat Vlădeni,Str. Calea Făgărașului nr. 243,Vlădeni,45.7671,25.368
+439,8,BRAȘOV,VOILA,78,13,50,6,4,10,2,34,90,17,60,7,4,9,4,11,Primăria Voila,Nr. 124,Voila,45.8182,24.8405
+444,8,BRAȘOV,VOILA,66,23,86,3,0,14,4,20,71,28,87,5,0,13,3,11,Caminul Cultural Voivodenii Mari,Nr. 250,Voivodeni,45.7766,24.8621
+445,8,BRAȘOV,VULCAN,243,42,172,12,1,44,15,56,259,45,175,12,2,45,17,32,Caminul Cultural Vulcan,Nr. 305,Vulcan,45.6344,25.4215
+446,8,BRAȘOV,VULCAN,205,17,126,4,2,28,10,37,197,21,133,5,2,34,9,27,Caminul Cultural Vulcan,Nr. 305,Vulcan,45.6344,25.4215
+401,8,BRAȘOV,ŞINCA,22,0,11,2,1,1,1,17,27,1,17,2,1,1,2,5,Școală Generală,,Vâlcea,45.7532,25.176
+360,8,BRAȘOV,JIBERT,22,1,15,0,1,3,4,20,24,1,14,0,1,2,5,22,Școala Generală Văleni,,Văleni,45.9614,24.9699
+418,8,BRAȘOV,TĂRLUNGENI,142,4,91,9,80,31,5,22,141,3,99,9,82,31,7,14,Școala Generală Zizin,Nr. 154,Zizin,45.637,25.7766
+419,8,BRAȘOV,TĂRLUNGENI,136,10,87,7,98,38,14,30,136,12,90,8,99,39,13,24,Școala Generală Zizin,Str. Zizinului nr. 205,Zizin,45.6381,25.7745
+266,8,BRAȘOV,ORAŞ ZĂRNEŞTI,342,12,67,13,4,13,22,56,355,10,77,13,5,13,21,36,Grădinița Bobocel,Str. Grui nr. NR. 4,Zărnești,45.5562,25.3145
+267,8,BRAȘOV,ORAŞ ZĂRNEŞTI,322,27,72,13,3,14,27,60,331,25,75,17,2,19,21,38,Liceul Teoretic M.I.Mețianu - Corp A,Str. Dr. Ioan Senchea (Str. Caraiman) nr. 23,Zărnești,45.5594,25.3168
+268,8,BRAȘOV,ORAŞ ZĂRNEŞTI,327,33,111,27,1,18,19,54,351,32,113,27,2,14,15,35,Liceul Teoretic M.I.Mețianu - Corp B,Str. Dr. Tiberiu Spîrchez (Str. 6 Martie) nr. 2,Zărnești,45.5607,25.3159
+269,8,BRAȘOV,ORAŞ ZĂRNEŞTI,406,15,113,16,5,28,15,56,421,22,115,15,4,28,7,41,Liceul Teoretic M.I.Mețianu - Corp B,Str. Dr. Tiberiu Spîrchez (Str. 6 Martie) nr. 2,Zărnești,45.5607,25.3159
+270,8,BRAȘOV,ORAŞ ZĂRNEŞTI,243,51,100,18,6,16,21,64,258,57,94,18,4,18,19,48,Casa de Cultură,Str. Mitropolit Ion Metianu (Str. Republicii) nr. 9,Zărnești,45.5609,25.3177
+271,8,BRAȘOV,ORAŞ ZĂRNEŞTI,223,74,85,22,6,13,19,44,222,75,83,19,6,15,22,44,Grădinița Voinicelul nr. 2,Str. Dr. Ioan Senchea (Str. Caraiman) nr. 61,Zărnești,45.5595,25.3202
+272,8,BRAȘOV,ORAŞ ZĂRNEŞTI,277,41,103,32,11,25,21,52,290,48,97,32,9,21,20,46,Clubul Pensionarilor - Caraiman,Str. Zorilor,Zărnești,45.5575,25.3175
+273,8,BRAȘOV,ORAŞ ZĂRNEŞTI,325,46,77,18,2,16,18,51,326,42,78,22,1,18,22,42,Clubul Pensionarilor,Str. Ciucaș nr. 21,Zărnești,45.5709,25.3427
+274,8,BRAȘOV,ORAŞ ZĂRNEŞTI,149,43,76,19,20,19,10,36,147,49,82,14,20,23,11,25,Școala Gimnazială nr. 3 Pompiliu Dan-Corp A,Str. Mitropolit Ion Metianu (Str. Republicii) nr. 115,Zărnești,45.5621,25.3271
+275,8,BRAȘOV,ORAŞ ZĂRNEŞTI,381,29,82,18,7,14,27,60,374,37,75,16,6,18,25,56,Spitalul Orășenesc Dr. Caius Tiberiu Spârchez,Str. Policlinicii nr. 12,Zărnești,45.5704,25.3367
+276,8,BRAȘOV,ORAŞ ZĂRNEŞTI,299,29,88,15,5,27,28,63,311,33,90,17,5,31,20,39,Școala Gimnazială nr. 1 Gheorghe Crăciun Corp B,Str. Carpați nr. 1,Zărnești,45.5746,25.3434
+277,8,BRAȘOV,ORAŞ ZĂRNEŞTI,300,47,95,15,3,24,23,55,300,54,90,20,3,23,21,48,Școala Gimnazială nr. 1 Gheorghe Crăciun,Str. Carpați nr. 1,Zărnești,45.5746,25.3434
+278,8,BRAȘOV,ORAŞ ZĂRNEŞTI,146,21,43,10,3,8,8,40,160,25,41,10,2,9,8,26,Liceul Tehnologic Malaxa,Aleea Uzinei nr. 2,Zărnești,45.5668,25.3554
+279,8,BRAȘOV,ORAŞ ZĂRNEŞTI,122,2,32,0,2,4,6,20,126,5,35,0,2,3,5,13,Școala Gimnazială nr. 2,Piața Morii nr. 1,Zărnești,45.5765,25.3625
+281,8,BRAȘOV,ORAŞ ZĂRNEŞTI,346,45,96,34,4,25,24,51,350,48,96,32,4,31,20,42,Caminul Cultural Tohanul Vechi,Str. Școlii nr. 134,Zărnești,45.5764,25.3621
+398,8,BRAȘOV,ŞERCAIA,108,21,200,10,11,12,9,50,116,24,210,12,14,15,10,24,Cămin Cultural Șercaia,Nr. 82,Șercaia,45.8304,25.1404
+405,8,BRAȘOV,ŞINCA,70,2,53,8,1,8,5,67,93,6,72,15,1,11,5,13,Căminul Cultural,,Șercăița,45.7461,25.1209
+298,8,BRAȘOV,BRAN,133,31,99,27,1,13,11,45,146,33,90,33,1,15,12,32,Căminul Cultural Șimon,Str. Muchia Scorții nr. 3,Șimon,45.4852,25.3544
+407,8,BRAȘOV,ŞINCA NOUĂ,57,27,74,14,1,7,13,477,132,48,339,34,2,19,12,74,Căminul Cultural,Nr. 57,Șinca Nouă,45.6994,25.243
+408,8,BRAȘOV,ŞINCA NOUĂ,17,1,50,0,0,1,3,34,21,2,79,0,0,1,5,11,Școală Generală,,Șinca Nouă,45.696,25.2419
+406,8,BRAȘOV,ŞINCA,48,8,29,37,0,10,7,130,85,15,63,49,2,18,7,25,Primărie,,Șinca Veche,45.7638,25.1677
+333,8,BRAȘOV,FUNDATA,16,2,81,8,1,2,1,8,18,1,83,11,1,3,0,4,Școala Generală Șirnea,Nr. 45,Șirnea,45.4717,25.2555
+410,8,BRAȘOV,ŞOARŞ,54,5,123,5,0,4,5,16,54,6,128,7,2,5,5,10,Primăria Comunei Șoarș,Nr. 111,Șoarș,45.9296,24.9251
+369,8,BRAȘOV,MÂNDRA,44,9,17,6,0,4,1,11,38,11,20,6,0,3,3,12,Așezamânt Cultural,Nr. 203,Șona,45.8487,25.0447

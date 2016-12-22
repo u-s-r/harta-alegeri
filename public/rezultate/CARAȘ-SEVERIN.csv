@@ -1,0 +1,366 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+140,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,36,1,8,2,1,2,1,6,31,2,9,3,1,3,2,5,Școala Primară Agadici,Nr. 73,Agadici,45.1084,21.6943
+92,11,CARAȘ-SEVERIN,ORAŞ ANINA,152,5,120,12,3,4,11,24,168,5,121,11,4,6,7,10,Casa de Cultură Anina,Str. Sfînta Varvara (Str. 1 Mai) nr. 5,Anina,45.0956,21.8555
+93,11,CARAȘ-SEVERIN,ORAŞ ANINA,143,6,105,11,6,14,4,14,147,7,110,10,6,11,7,10,Centrul de Afaceri Anina,Str. Sfînta Varvara (Str. 1 Mai) nr. 51,Anina,45.0916,21.8511
+94,11,CARAȘ-SEVERIN,ORAŞ ANINA,126,2,65,2,0,2,4,8,126,2,65,3,1,3,4,6,Școala Gimnazială nr. 1 Celnic Grădinița cu Program Normal nr. 1 Celnic,Str. Cheile Gîrliștei (Str. Scînteii) nr. 2,Anina,45.1055,21.8613
+95,11,CARAȘ-SEVERIN,ORAŞ ANINA,90,2,53,6,0,8,2,7,89,1,55,6,0,7,5,9,Sediul S.C. Gostrans S.A.,Str. Uzinei nr. 12,Anina,45.1003,21.8577
+96,11,CARAȘ-SEVERIN,ORAŞ ANINA,84,0,54,2,2,3,5,7,85,0,55,3,2,3,6,9,Școala Gimnazială nr. 1 Celnic Grădinița cu Program Normal nr. 2 Orașul Nou,Str. Oraș Nou,Anina,45.1046,21.8682
+97,11,CARAȘ-SEVERIN,ORAŞ ANINA,132,6,75,8,0,7,5,10,129,6,79,8,0,8,5,9,Centrul de Zi Anina,Str. Libertății (Str. 23 August) nr. 28,Anina,45.0861,21.8515
+98,11,CARAȘ-SEVERIN,ORAŞ ANINA,109,3,84,7,0,4,1,8,107,3,92,6,0,3,2,7,Sediul Depozitul Final Cântar,Str. Cloșca,Anina,45.0861,21.8535
+99,11,CARAȘ-SEVERIN,ORAŞ ANINA,58,4,43,8,1,2,2,11,52,2,50,7,0,3,3,9,Școala Gimnazială nr. 1 Celnic Grădinița cu Program Normal nr. 4 Sigismund,Str. Republicii,Anina,45.075,21.852
+100,11,CARAȘ-SEVERIN,ORAŞ ANINA,120,3,163,13,2,7,1,23,127,2,171,10,2,7,3,14,Liceul „Mathias Hammer” Anina Școala Gimnazială nr. 2 Steierdorf,Str. Victoriei,Anina,45.0632,21.8397
+101,11,CARAȘ-SEVERIN,ORAŞ ANINA,92,3,60,6,0,6,4,15,96,2,69,5,0,4,3,9,Liceul „Mathias Hammer” Anina Grădinița cu Program Normal nr. 5 Steierdorf,Str. Victoriei nr. 61,Anina,45.0602,21.8491
+102,11,CARAȘ-SEVERIN,ORAŞ ANINA,84,0,23,16,0,1,0,0,83,0,23,16,0,1,0,0,Liceul „Mathias Hammer” Anina Școala Gimnazială nr. 3 Brădet,Str. Brădet,Anina,45.0896,21.8222
+183,11,CARAȘ-SEVERIN,BREBU,36,2,39,17,1,4,0,5,38,1,41,14,1,4,0,3,Căminul Cultural,,Apadia,45.3908,22.0484
+159,11,CARAȘ-SEVERIN,ARMENIŞ,225,5,391,20,0,23,12,21,165,2,471,6,0,37,5,10,Școala Gimnazială,,Armeniș,45.2084,22.3105
+327,11,CARAȘ-SEVERIN,SOCOL,16,2,7,1,1,6,4,10,14,3,7,1,1,10,4,7,Căminul Cultural - Baziaș,Nr. 43,Baziaș,44.8158,21.3898
+296,11,CARAȘ-SEVERIN,POJEJENA,175,3,11,4,0,4,0,81,194,12,28,12,4,19,3,12,Școala Gimnazială „Borislav Cristici” Belobreșca,,Belobreșca,44.7851,21.5118
+167,11,CARAȘ-SEVERIN,BERLIŞTE,58,1,74,10,1,1,2,5,63,0,72,6,2,2,4,7,Școala Gimnazială Berliște,Nr. 99 B,Berliște,44.9905,21.467
+171,11,CARAȘ-SEVERIN,BERZASCA,271,6,48,40,2,9,13,35,238,7,63,39,1,38,13,24,Casa Culturală-Berzasca,,Berzasca,44.6467,21.9574
+174,11,CARAȘ-SEVERIN,BERZOVIA,125,7,65,40,2,13,10,35,130,3,73,37,2,10,14,28,Liceul Tehnologic Berzovia,Nr. 124,Berzovia,45.428,21.6278
+175,11,CARAȘ-SEVERIN,BERZOVIA,90,7,78,17,1,8,12,24,89,7,83,16,1,8,7,18,Liceul Tehnologic Berzovia,Nr. 124,Berzovia,45.428,21.6278
+172,11,CARAȘ-SEVERIN,BERZASCA,25,0,7,2,0,1,1,10,29,0,9,3,0,3,0,3,Școala Gimnazială-Bigar,,Bigăr,44.6648,22.1038
+233,11,CARAȘ-SEVERIN,DOCLIN,105,10,46,16,0,7,4,24,115,9,50,14,1,7,5,14,Școala Primară Biniș,Nr. 121,Biniș,45.336,21.6884
+108,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,153,14,66,54,3,21,23,44,154,12,75,54,3,20,21,38,Școala Gimnazială nr. 1 Bocșa,Str. Republicii nr. 97,Bocșa,45.3745,21.7106
+109,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,181,11,69,35,6,9,16,37,191,13,79,30,5,8,18,26,Școala Gimnazială nr. 1 Bocșa,Str. Sadovei nr. 2E,Bocșa,45.3754,21.7087
+110,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,183,19,72,74,2,10,15,45,185,20,80,69,2,10,15,36,Școala Gimnazială nr. 1 Bocșa,Str. Republicii nr. 100,Bocșa,45.3746,21.7082
+111,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,170,18,89,37,3,17,16,41,172,17,91,39,5,15,18,32,Liceul Teoretic Tata Oancea,Str. 1 Decembrie 1918 (Str. Gheorghe Doja) nr. 12,Bocșa,45.3801,21.7754
+112,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,164,17,72,32,6,22,7,24,166,17,77,31,5,21,10,21,Liceul Teoretic Tata Oancea,Str. Tata Oancea (Str. Oancea Tata) nr. 4,Bocșa,45.3783,21.7701
+113,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,119,7,49,22,9,17,5,21,113,8,56,24,9,16,7,18,Liceul Teoretic Tata Oancea,Str. Tudor Vladimirescu nr. 57A,Bocșa,45.3796,21.765
+114,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,187,26,106,71,2,12,21,47,205,24,109,73,0,11,21,33,Grădinița cu Program Normal nr. 4 Bocșa,Fundătura Serei nr. 2,Bocșa,45.3797,21.7868
+115,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,107,3,24,424,2,4,4,21,107,3,27,430,1,6,6,17,Școala Gimnazială nr. 2 Bocșa,Str. Măgura nr. 45,Bocșa,45.3862,21.7977
+116,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,222,19,84,85,4,8,11,33,231,19,85,85,6,7,12,25,Liceul Tehnologic „Constantin Lucaci” Bocsa,Str. Tineretului nr. 1,Bocșa,45.3782,21.7275
+117,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,193,13,46,46,2,16,11,28,198,15,46,44,3,18,11,23,Grădinița cu Program Normal nr. 6 Bocșa,"Str. Carpați nr. BL. 5, Bloc 5",Bocșa,45.3772,21.7255
+118,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,196,8,36,50,3,5,6,33,196,11,40,52,4,4,5,19,Serviciu Public de Gospodărie Comunală,Str. Ceahlău nr. 2,Bocșa,45.3769,21.7265
+119,11,CARAȘ-SEVERIN,ORAŞ BOCŞA,205,15,58,51,1,17,23,40,196,13,68,51,1,21,20,30,Clubul Elevilor,Str. Victoriei nr. 6,Bocșa,45.3758,21.7121
+314,11,CARAȘ-SEVERIN,SASCA MONTANĂ,34,2,8,2,2,1,2,3,36,1,7,4,1,1,2,2,Căminul Cultural,,Bogodinț,44.898,21.6627
+223,11,CARAȘ-SEVERIN,CORNEREVA,125,1,18,2,0,4,7,9,124,2,16,2,0,4,7,8,Școala Primară Bogîltin,,Bogâltin,45.0389,22.4146
+178,11,CARAȘ-SEVERIN,BOLVAŞNIŢA,32,7,81,17,1,18,7,13,30,4,93,16,1,17,8,10,Clubul Tineretului,,Bolvașnița,45.3461,22.3055
+347,11,CARAȘ-SEVERIN,TURNU RUIENI,125,3,202,13,0,9,5,23,120,3,220,14,0,5,3,16,Căminul Cultural-Borlova,,Borlova,45.3669,22.3503
+301,11,CARAȘ-SEVERIN,PRIGOR,47,2,60,9,0,18,1,14,48,2,63,4,0,20,1,11,Școala Generală,,Borlovenii Noi,44.9681,22.1432
+300,11,CARAȘ-SEVERIN,PRIGOR,108,0,24,19,0,5,4,35,112,2,30,13,0,4,2,27,Căminul Cultural,,Borlovenii Vechi,44.9548,22.1084
+180,11,CARAȘ-SEVERIN,BOZOVICI,432,16,69,19,2,15,6,30,445,17,70,16,3,14,10,20,Școala Clasele I-IV,Nr. 206,Bozovici,44.9268,21.997
+181,11,CARAȘ-SEVERIN,BOZOVICI,222,4,38,15,1,5,3,21,241,5,33,12,2,1,4,12,Liceul Teoretic Bozovici,Nr. 826,Bozovici,44.9241,22.0043
+184,11,CARAȘ-SEVERIN,BREBU,184,6,80,19,0,14,10,32,178,6,83,24,0,16,10,27,Școala Generală cu Clasele I-VIII „Sf. Iacob”,,Brebu,45.4212,21.9932
+142,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,139,3,25,9,1,2,5,12,137,1,31,9,1,3,7,9,Cămin Cultural,Nr. 50,Broșteni,45.0456,21.647
+141,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,86,3,22,5,1,3,1,11,92,4,25,6,0,5,0,3,Școala Primară Brădișoru de Jos,Nr. 50A,Brădișoru de Jos,45.0797,21.7174
+188,11,CARAȘ-SEVERIN,BUCHIN,169,2,52,9,1,12,15,27,158,4,62,8,1,9,19,31,Școala cu Clasele I-IV,Nr. 4,Buchin,45.363,22.2434
+166,11,CARAȘ-SEVERIN,BĂUŢAR,172,2,170,42,0,33,0,5,146,3,182,30,0,55,0,3,Casa Culturală,Nr. 67,Bucova,45.5104,22.6431
+190,11,CARAȘ-SEVERIN,BUCOŞNIŢA,206,1,23,1,0,7,0,1,205,2,25,1,0,6,0,1,Școala Primară Bucosnita,Nr. 81,Bucoșnița,45.301,22.2688
+345,11,CARAȘ-SEVERIN,TOPLEŢ,163,8,52,27,1,14,7,30,159,10,60,24,1,12,10,27,Școala Primară Bîrza,Nr. 95,Bârza,44.8112,22.3875
+103,11,CARAȘ-SEVERIN,ORAŞ BĂILE HERCULANE,55,1,27,10,1,8,8,16,57,0,28,5,1,11,6,12,Protopopiat Ortodox Român,Str. Cernei nr. 4,Băile Herculane,44.8874,22.4245
+104,11,CARAȘ-SEVERIN,ORAŞ BĂILE HERCULANE,228,17,117,59,1,38,17,56,216,23,141,40,2,49,18,44,Liceul Hercules (fosta Școala Generală),Str. Castanilor (Str. 30 Decembrie) nr. 17,Băile Herculane,44.8797,22.4122
+105,11,CARAȘ-SEVERIN,ORAŞ BĂILE HERCULANE,146,9,80,44,1,19,8,20,142,7,84,42,1,22,10,20,Liceul Hercules,Str. Trandafirilor nr. 36,Băile Herculane,44.8669,22.4058
+106,11,CARAȘ-SEVERIN,ORAŞ BĂILE HERCULANE,180,16,110,42,1,30,23,48,184,13,122,31,1,38,25,44,Liceul Hercules,Str. Trandafirilor nr. 36,Băile Herculane,44.8669,22.4058
+162,11,CARAȘ-SEVERIN,BĂNIA,173,2,135,19,2,12,4,23,172,2,146,14,3,10,3,20,Căminul Cultural,,Bănia,44.8762,22.0432
+164,11,CARAȘ-SEVERIN,BĂUŢAR,249,12,66,10,2,45,1,10,233,12,70,7,1,56,3,13,Casa Culturală Băuțarul de Jos,Nr. 253A,Băuțar,45.5175,22.5335
+165,11,CARAȘ-SEVERIN,BĂUŢAR,189,3,82,7,0,57,2,11,184,2,90,6,0,54,4,11,Casa Culturală Băuțarul de Sus,Nr. 45A,Băuțar,45.5131,22.5676
+235,11,CARAȘ-SEVERIN,DOGNECEA,11,0,26,1,0,2,0,1,13,0,26,2,0,1,0,0,Căminul Cultural,,Calina,45.2267,21.6981
+71,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,189,13,125,22,2,12,7,19,175,11,143,22,1,14,8,13,Clădire a Municipiului Caransebeș (fosta Școală Primară),Str. Nicolae Bălcescu nr. 113,Caransebeș,45.415,22.1996
+72,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,54,12,66,13,0,9,4,14,52,9,71,14,0,12,6,12,Grădinița cu Program Normal nr. 3,Str. Teiușului nr. 24,Caransebeș,45.4054,22.2003
+73,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,219,56,171,34,1,29,17,41,192,50,216,37,0,34,18,27,Muzeul de Etnografie și al Regimentului de Graniță,Piața G-ral Ion Dragalina (Piața Republicii) nr. 2,Caransebeș,45.4144,22.2138
+74,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,210,37,129,19,3,25,10,30,198,32,155,17,1,22,11,22,Școala Gimnazială nr. 8,Str. Racoviței nr. 1,Caransebeș,45.4155,22.2132
+75,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,219,50,151,24,3,23,23,50,213,44,182,20,5,19,20,36,Liceul Tehnologic „Dacia”,Str. Libertății nr. 21,Caransebeș,45.4108,22.2164
+76,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,231,53,138,19,3,25,24,45,208,45,169,23,5,28,20,35,Casa Municipală de Cultură „George Suru”,Str. Mihai Viteazu (Str. 30 Decembrie) nr. 6,Caransebeș,45.4129,22.2159
+77,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,221,34,147,27,2,26,15,47,208,28,192,25,1,14,18,39,Grădinița cu Program Normal nr. 1,Str. Bistra (Str. Muntele Mic) (D) nr. 1,Caransebeș,45.4106,22.2224
+78,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,133,15,123,15,0,13,15,35,128,13,140,14,0,14,10,25,Clădire a Municipiului Caransebeș (fosta Școală Generală nr. 7),Aleea Alunișului nr. 1,Caransebeș,45.417,22.2165
+79,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,146,27,106,17,0,16,16,40,136,20,136,15,1,18,19,25,Clădire a Municipiului Caransebeș (fosta Școală Generală nr. 7),Aleea Alunișului nr. 1,Caransebeș,45.417,22.2165
+80,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,156,16,112,9,2,13,8,24,156,6,128,8,0,11,10,22,Clubul Sportiv Școlar,Aleea Alunișului nr. 1,Caransebeș,45.4173,22.2164
+81,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,181,19,110,13,1,11,8,30,159,17,135,13,1,12,8,22,Grădinița nr. 4,Aleea Grădiniței nr. 1,Caransebeș,45.4167,22.2169
+82,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,171,20,157,18,0,15,9,34,154,16,185,16,2,9,13,29,Școala Gimnazială nr. 2,Str. Ardealului (Str. Scînteii) (D) nr. 138,Caransebeș,45.4238,22.2254
+83,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,163,22,128,17,0,12,13,33,151,24,152,17,0,10,15,24,Școala Gimnazială nr. 2,Str. Ardealului (Str. Scînteii) (D) nr. 138,Caransebeș,45.4238,22.2254
+84,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,157,35,109,21,1,19,9,27,150,32,141,13,1,15,7,21,Liceul Tehnologic „Decebal”,Str. Ardealului (Str. Scînteii) (D) nr. 166,Caransebeș,45.4276,22.2254
+85,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,153,18,117,12,2,18,6,28,155,19,134,11,2,15,4,14,Liceul Tehnologic „Decebal”,Str. Ardealului (Str. Scînteii) (D) nr. 166,Caransebeș,45.4276,22.2254
+86,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,179,32,144,15,5,25,15,36,166,28,177,13,3,18,14,26,Liceul Tehnologic „Decebal”,Str. Ardealului (Str. Scînteii) (D) nr. 166,Caransebeș,45.4276,22.2254
+87,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,185,37,158,27,2,29,17,57,163,30,191,29,1,39,19,37,Colegiul Național „C.D. Loga”,Str. Constantin Loga Diaconovici (Str. Școlii) nr. 12,Caransebeș,45.4147,22.2193
+88,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,175,16,105,9,2,17,12,39,164,13,130,11,2,17,9,28,Grădinița cu Program Normal nr. 5,Calea Severinului (Str. Eliberării) (D) nr. 48,Caransebeș,45.4027,22.2237
+89,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,108,11,59,3,6,10,3,18,94,8,77,4,5,11,7,17,Grădinița cu Program Prelungit nr. 3,Calea Severinului (Str. Eliberării) (D) nr. 149A,Caransebeș,45.394,22.2281
+90,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,174,5,107,5,0,5,10,22,162,5,127,7,0,4,8,15,Școala Gimnazială nr. 1,Calea Severinului (Str. Eliberării) (D) nr. 149,Caransebeș,45.3939,22.2273
+194,11,CARAȘ-SEVERIN,CARAŞOVA,46,1,14,18,0,1,2,173,92,8,103,38,3,5,3,6,Căminul Cultural,,Carașova,45.2031,21.864
+197,11,CARAȘ-SEVERIN,CARAŞOVA,61,3,33,7,1,2,2,174,114,8,132,21,2,7,2,8,Grădinița cu Program Normal Carașova,,Carașova,45.2032,21.8639
+143,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,87,6,22,15,1,4,7,20,83,6,20,18,1,4,6,21,Cămin Cultural,Nr. 118,Ciclova Montană,45.0267,21.7329
+200,11,CARAȘ-SEVERIN,CICLOVA ROMÂNĂ,122,0,57,7,1,99,16,40,112,12,59,12,2,115,8,17,Școala Gimnazială Ciclova Romana,,Ciclova Română,45.0096,21.7046
+358,11,CARAȘ-SEVERIN,VRANI,38,7,11,6,0,11,0,4,41,7,11,7,0,6,0,1,Școala Primară Ciortea,,Ciortea,45.0315,21.4487
+203,11,CARAȘ-SEVERIN,CIUCHICI,124,3,21,25,1,15,3,15,126,6,23,24,1,14,3,12,Casa de Cultură,,Ciuchici,44.9446,21.6143
+208,11,CARAȘ-SEVERIN,CIUDANOVIŢA,124,0,43,30,1,5,2,8,134,0,41,26,2,2,1,8,Școala Gimnazială,,Ciudanovița,45.1463,21.793
+286,11,CARAȘ-SEVERIN,OBREJA,99,2,31,6,1,27,2,6,88,2,35,6,1,32,2,6,Școala Primară Ciuta,,Ciuta,45.4808,22.2244
+271,11,CARAȘ-SEVERIN,LUPAC,12,1,82,6,0,25,2,104,32,12,146,9,1,30,6,9,Școala Gimnazială Clocotici,,Clocotici,45.2453,21.8343
+249,11,CARAȘ-SEVERIN,FOROTIC,68,1,127,6,0,4,8,29,70,1,125,10,0,6,8,25,Școala Primară,,Comorâște,45.1831,21.5616
+215,11,CARAȘ-SEVERIN,COPĂCELE,87,1,27,3,0,11,3,7,82,2,31,3,0,12,5,6,Școala cu Clasele I-VIII,,Copăcele,45.4995,22.0956
+219,11,CARAȘ-SEVERIN,CORNEA,134,2,44,21,1,6,15,26,124,3,56,17,3,5,14,25,"Școala Gimnazială Traian Lalescu Cornea, Cu Clasele I- VIII",Nr. 260,Cornea,45.0406,22.324
+222,11,CARAȘ-SEVERIN,CORNEREVA,122,1,38,6,1,2,3,16,118,1,41,1,1,11,3,9,Centru de Zi After School Cornereva,,Cornereva,45.0644,22.4199
+292,11,CARAȘ-SEVERIN,PĂLTINIŞ,101,1,34,14,1,15,2,11,79,1,42,7,1,39,2,10,Școala Gimnazială Cornuțel,Nr. 222,Cornuțel,45.4321,22.0913
+229,11,CARAȘ-SEVERIN,CORONINI,401,3,83,92,1,25,8,28,431,3,88,61,1,39,8,14,Școala Gimnazială Coronini,Nr. 59,Coronini,44.6796,21.6793
+220,11,CARAȘ-SEVERIN,CORNEA,101,3,20,27,0,4,1,8,95,1,22,22,0,7,5,16,Grădinița cu Program Normal Prichindelul Crusovat,Nr. 44,Crușovăț,44.9972,22.3188
+66,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,57,1,12,3,0,11,1,11,58,1,15,3,0,10,1,8,Căminul Cultural Cuptoare,,Cuptoare,45.2609,21.9671
+221,11,CARAȘ-SEVERIN,CORNEA,125,1,90,31,1,4,3,26,125,1,92,26,1,5,6,29,Școala Gimnazială cu Clasele I-VIII Cuptoare-Structura,Nr. 171,Cuptoare,45.0091,22.3082
+65,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,196,17,128,11,1,14,11,43,186,17,151,17,1,20,12,24,Colegiul Național „Mircea Eliade” - Școala Câlnic (Corp D),,Câlnic,45.3383,21.8552
+328,11,CARAȘ-SEVERIN,SOCOL,98,1,45,26,0,4,1,32,96,3,66,22,0,11,2,8,Școala Primară Cîmpia,Nr. 121,Câmpia,44.8621,21.4119
+339,11,CARAȘ-SEVERIN,TICVANIU MARE,26,3,26,34,0,33,2,13,24,4,25,17,0,56,1,11,Școala cu Clasele I-IV,,Cârnecea,45.2004,21.6319
+239,11,CARAȘ-SEVERIN,DOMAŞNEA,40,3,22,20,2,1,22,30,36,1,18,6,1,1,49,57,Căminul Cultural,,Cănicea,45.0689,22.3559
+198,11,CARAȘ-SEVERIN,CĂRBUNARI,249,0,22,27,8,12,7,20,251,0,22,16,11,13,8,22,Școala Gimnazială,,Cărbunari,44.8333,21.7472
+214,11,CARAȘ-SEVERIN,CONSTANTIN DAICOVICIU,156,7,84,8,0,20,5,15,148,7,96,8,0,20,3,11,Grădinița din Cadrul Școlii cu Clasele I-VIII,,Căvăran,45.5469,22.1492
+230,11,CARAȘ-SEVERIN,DALBOŞEŢ,165,2,121,44,1,50,10,46,166,2,132,19,2,81,10,36,Căminul Cultural-Dalboset,Nr. 128,Dalboșeț,44.8623,21.9571
+348,11,CARAȘ-SEVERIN,TURNU RUIENI,36,0,21,5,0,19,4,8,35,0,24,5,0,18,3,7,Școala Primară Dalci,,Dalci,45.4134,22.3103
+293,11,CARAȘ-SEVERIN,PĂLTINIŞ,47,0,37,4,0,1,2,5,45,0,40,2,0,1,2,4,Școala Gimnazială Delinești,Nr. 108,Delinești,45.3868,22.0684
+244,11,CARAȘ-SEVERIN,FÎRLIUG,100,2,31,1,1,3,7,13,69,1,35,4,1,28,9,15,Centrul Agricol Dezești,Nr. 79A,Dezești,45.4691,21.8914
+298,11,CARAȘ-SEVERIN,POJEJENA,79,2,26,3,1,5,1,16,85,3,29,3,1,6,3,4,Grădinița cu Program Normal Divici,,Divici,44.7822,21.48
+224,11,CARAȘ-SEVERIN,CORNEREVA,15,0,6,3,2,1,0,2,16,0,7,2,1,1,0,1,Școala Primară Dobraia,,Dobraia,45.0018,22.4843
+232,11,CARAȘ-SEVERIN,DOCLIN,96,1,36,16,0,3,6,10,92,1,38,16,0,3,8,11,Școala Primară Doclin,Nr. 114,Doclin,45.2994,21.6487
+236,11,CARAȘ-SEVERIN,DOGNECEA,85,3,238,2,0,127,2,17,84,4,244,2,1,133,1,7,Școala Gimnazială Dognecea,,Dognecea,45.266,21.7499
+237,11,CARAȘ-SEVERIN,DOGNECEA,81,7,223,1,2,16,0,2,32,6,214,1,2,68,1,7,Școala Gimnazială,,Dognecea,45.2544,21.7491
+225,11,CARAȘ-SEVERIN,CORNEREVA,298,2,32,18,1,5,2,9,297,2,51,5,2,7,3,3,Școala Primară Dolina,,Dolina,45.0713,22.4448
+67,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,53,6,40,8,1,2,3,22,52,7,46,8,1,3,2,16,Grădinița cu Program Normal Doman,,Doman,45.2649,21.9159
+238,11,CARAȘ-SEVERIN,DOMAŞNEA,130,7,70,14,0,10,35,47,115,5,65,11,0,17,64,72,Căminul Cultural,,Domașnea,45.0821,22.3172
+245,11,CARAȘ-SEVERIN,FÎRLIUG,99,0,5,3,0,0,4,6,85,0,9,6,1,4,4,6,Căminul Cultural,Nr. 1,Duleu,45.5103,21.7776
+240,11,CARAȘ-SEVERIN,EFTIMIE MURGU,257,9,69,182,1,13,22,53,268,9,121,133,1,15,21,41,Căminul Cultural,Nr. 261,Eftimie Murgu,44.8747,22.0978
+354,11,CARAȘ-SEVERIN,VERMEŞ,42,4,12,27,3,4,1,5,43,2,16,25,3,4,2,5,Școala Primară Ersig,Nr. 1,Ersig,45.5038,21.6213
+241,11,CARAȘ-SEVERIN,EZERIŞ,90,7,130,12,0,6,7,20,95,5,130,9,0,6,8,20,Casa de Cultura Ezeris,Nr. 453,Ezeriș,45.4134,21.8857
+160,11,CARAȘ-SEVERIN,ARMENIŞ,110,0,155,6,0,9,4,11,95,1,174,4,0,8,5,9,Școala Primară Fenes,Nr. 16,Feneș,45.1908,22.3414
+176,11,CARAȘ-SEVERIN,BERZOVIA,57,11,46,6,2,2,5,18,58,10,44,9,4,1,4,13,Școala Gimnazială Fizes,Nr. 4,Fizeș,45.3641,21.5984
+251,11,CARAȘ-SEVERIN,FOROTIC,30,4,14,60,1,13,2,16,31,4,14,63,1,12,2,14,Școala Gimnazială „Petru Oallde”,,Forotic,45.2326,21.5834
+243,11,CARAȘ-SEVERIN,FÎRLIUG,208,7,38,47,0,7,10,25,185,6,49,43,1,24,12,20,Școala Gimnazială Fîrliug,Nr. 100,Fârliug,45.4872,21.8473
+177,11,CARAȘ-SEVERIN,BERZOVIA,178,2,32,14,6,10,6,16,180,3,29,14,5,11,7,18,Școala Primară Ghertenis,Nr. 324,Gherteniș,45.4304,21.5816
+256,11,CARAȘ-SEVERIN,GORUIA,7,0,9,3,0,42,2,10,10,0,7,4,0,43,1,8,Școala cu Clasele I-IV,,Giurgiova,45.1846,21.7202
+254,11,CARAȘ-SEVERIN,GLIMBOCA,238,23,319,26,0,73,20,33,236,23,320,22,4,88,14,23,Căminul Cultural,Nr. 367,Glimboca,45.4957,22.3192
+261,11,CARAȘ-SEVERIN,IABLANIŢA,139,1,46,5,1,18,8,13,128,2,50,3,1,25,6,10,Școala Primară,,Globu Craiovei,44.994,22.2712
+277,11,CARAȘ-SEVERIN,MEHADIA,19,2,34,14,0,1,10,14,25,2,38,9,0,0,9,10,Școala Generală,,Globurău,45.0071,22.3707
+192,11,CARAȘ-SEVERIN,BUCOŞNIŢA,202,0,19,1,1,2,0,1,196,0,24,1,1,3,0,1,Școala Primară Golet,,Goleț,45.2833,22.2557
+319,11,CARAȘ-SEVERIN,SICHEVIŢA,164,4,28,20,1,4,0,12,168,4,26,20,1,7,2,8,Grădinița cu Program Normal Gornea,Nr. 79,Gornea,44.6811,21.855
+255,11,CARAȘ-SEVERIN,GORUIA,65,2,9,21,0,49,2,41,64,2,11,21,0,61,4,28,Căminul Cultural,,Goruia,45.187,21.7718
+259,11,CARAȘ-SEVERIN,GRĂDINARI,78,4,53,34,0,47,2,34,77,3,57,31,0,46,4,37,Cladire Primarie Greoni,Nr. 1,Greoni,45.0894,21.6156
+226,11,CARAȘ-SEVERIN,CORNEREVA,311,0,56,12,0,3,2,7,316,0,57,6,0,6,4,6,Școala Gimnazială nr. 2 Gruni,,Gruni,45.107,22.4214
+258,11,CARAȘ-SEVERIN,GRĂDINARI,141,4,140,16,0,14,8,21,136,4,145,17,1,13,9,20,Școala Gimnazială Pavel Bordan,,Grădinari,45.1223,21.5933
+163,11,CARAȘ-SEVERIN,BĂNIA,77,0,95,20,1,6,5,9,74,2,100,19,1,8,4,5,Fosta Primarie,Nr. 270,Gârbovăț,44.8656,22.0117
+257,11,CARAȘ-SEVERIN,GORUIA,52,0,20,6,0,18,3,22,50,1,22,11,0,24,4,6,Dispensarul Medical,,Gârliște,45.1774,21.8113
+252,11,CARAȘ-SEVERIN,GÎRNIC,37,6,61,2,0,3,0,33,52,9,76,2,0,1,1,5,Casa Culturală „Petr Glaser”,,Gârnic,44.751,21.7899
+186,11,CARAȘ-SEVERIN,BREBU NOU,23,11,27,1,0,6,1,8,23,11,26,0,0,10,1,7,Căminul Cultural,Nr. 147,Gărâna,45.227,22.0959
+195,11,CARAȘ-SEVERIN,CARAŞOVA,21,1,3,1,0,0,2,65,53,2,24,6,0,0,3,5,Școala Primară Iabalcea,,Iabalcea,45.2181,21.9153
+260,11,CARAȘ-SEVERIN,IABLANIŢA,211,3,30,15,1,6,10,25,214,4,36,13,1,8,11,15,Căminul Cultural,,Iablanița,44.9523,22.3137
+168,11,CARAȘ-SEVERIN,BERLIŞTE,50,1,63,8,0,2,0,2,47,0,70,5,0,2,0,1,Școala Primară Iam,Nr. 303,Iam,45.0094,21.3984
+287,11,CARAȘ-SEVERIN,OBREJA,250,1,33,6,0,10,6,21,239,2,41,6,0,7,11,25,Școala Primară Iaz,,Iaz,45.4643,22.2314
+201,11,CARAȘ-SEVERIN,CICLOVA ROMÂNĂ,58,7,13,10,2,34,1,9,52,7,14,7,1,39,2,9,Școala Primară Ilidia,,Ilidia,44.9706,21.7058
+323,11,CARAȘ-SEVERIN,SLATINA-TIMIŞ,89,0,101,6,1,2,9,17,78,0,106,6,1,3,10,19,Școala Primară Ilova,,Ilova,45.2773,22.3404
+227,11,CARAȘ-SEVERIN,CORNEREVA,32,0,10,2,0,4,2,2,32,0,10,1,0,5,2,2,Școala Primară Ineleț,,Ineleț,45.015,22.5392
+355,11,CARAȘ-SEVERIN,VERMEŞ,70,6,23,4,0,1,6,10,64,6,24,6,0,2,7,9,Școala Primară Izgar,Nr. 1,Izgar,45.5436,21.6058
+207,11,CARAȘ-SEVERIN,CIUDANOVIŢA,44,1,2,42,0,0,8,17,42,0,2,40,0,0,8,18,Căminul Cultural,,Jitin,45.1488,21.727
+91,11,CARAȘ-SEVERIN,MUNICIPIUL CARANSEBEŞ,108,5,84,8,0,7,1,11,101,3,94,8,1,8,4,10,Școala Primară,,Jupa,45.4569,22.1875
+283,11,CARAȘ-SEVERIN,NAIDĂŞ,87,0,11,21,1,4,0,25,96,1,14,24,0,4,2,12,Căminul Cultural,Nr. 102,Lescovița,44.8701,21.5436
+321,11,CARAȘ-SEVERIN,SICHEVIŢA,23,0,4,4,0,1,0,4,24,1,5,2,0,2,1,2,Centru de Informare Turistica Comuna Sichevita,,Liborajdea,44.6658,21.7768
+173,11,CARAȘ-SEVERIN,BERZASCA,147,5,52,28,0,7,1,52,172,4,61,39,2,5,5,11,Grădinița Liubcova,,Liubcova,44.6588,21.8947
+268,11,CARAȘ-SEVERIN,LUNCAVIŢA,84,2,32,48,0,6,19,36,73,2,48,45,0,11,20,31,Grădinița cu Program Normal Luncavita,Nr. 251,Luncavița,45.091,22.2683
+270,11,CARAȘ-SEVERIN,LUPAC,58,4,31,46,0,10,9,74,92,7,52,52,1,13,8,18,Școala Gimnazială Lupac,,Lupac,45.2827,21.8104
+263,11,CARAȘ-SEVERIN,LĂPUŞNICEL,78,1,36,45,2,49,3,12,54,2,47,55,1,54,1,9,Căminul Cultural,,Lăpușnicel,44.986,22.2272
+266,11,CARAȘ-SEVERIN,LĂPUŞNICU MARE,205,4,139,28,1,8,1,16,214,1,153,12,1,8,0,10,Căminul Cultural,,Lăpușnicu Mare,44.9012,21.9412
+209,11,CARAȘ-SEVERIN,CONSTANTIN DAICOVICIU,136,1,19,5,1,10,6,10,136,2,22,4,0,12,7,9,Școala cu Clasele I-VIII,,Maciova,45.5217,22.2035
+204,11,CARAȘ-SEVERIN,CIUCHICI,49,5,8,4,1,2,0,7,50,5,10,4,1,2,2,6,Casa de Cultură,,Macoviște,44.9391,21.6549
+157,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,100,5,36,7,1,18,5,7,100,4,42,4,1,17,5,9,Căminul Cultural Mal,Nr. 86,Mal,45.5042,22.3969
+274,11,CARAȘ-SEVERIN,MARGA,484,6,37,19,4,13,9,14,376,5,40,22,1,125,5,9,Căminul Cultural,Nr. 100,Marga,45.5031,22.5201
+145,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,28,2,6,2,2,1,0,1,26,3,5,3,1,1,1,1,Centrul Administrativ,,Marila,45.0594,21.7774
+280,11,CARAȘ-SEVERIN,MEHADIA,186,5,112,59,1,12,27,41,180,7,126,42,2,20,31,39,Liceul Tehnologic „Nicolae Stoica de Hateg”,,Mehadia,44.9017,22.3667
+281,11,CARAȘ-SEVERIN,MEHADIA,121,6,35,32,0,11,20,31,116,8,40,22,1,15,24,33,Liceul Tehnologic „Nicolae Stoica de Hateg”,,Mehadia,44.9017,22.3667
+282,11,CARAȘ-SEVERIN,MEHADICA,130,2,36,38,3,5,3,25,123,3,43,32,3,16,8,17,Școala Generală cu Clasele I-VIII,,Mehadica,45.0388,22.2627
+353,11,CARAȘ-SEVERIN,VĂRĂDIA,168,1,34,8,0,5,3,7,167,0,32,3,5,4,2,12,Clădirea Administrației Locale,,Mercina,45.0623,21.5357
+169,11,CARAȘ-SEVERIN,BERLIŞTE,48,0,43,5,0,0,3,8,49,0,43,5,0,1,2,5,Școala Primară Milcoveni,Nr. 99 A,Milcoveni,45.0005,21.449
+267,11,CARAȘ-SEVERIN,LĂPUŞNICU MARE,205,3,38,31,2,3,0,7,210,5,39,19,1,3,4,13,Căminul Cultural,,Moceriș,44.8697,21.9223
+120,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,206,7,139,75,0,11,6,46,223,7,181,39,0,20,6,17,Școala Gimnazială „Alexandru Moisi”,Str. Nicolae Bălcescu nr. 3,Moldova Nouă,44.7334,21.67
+121,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,196,6,93,33,0,9,12,32,190,5,111,23,0,22,11,17,Casa de Cultură,Str. 1 Decembrie 1918 (Str. 1 Mai) nr. 2,Moldova Nouă,44.7352,21.6689
+122,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,83,1,50,17,0,7,10,20,88,1,54,11,0,8,10,18,Grădinița cu Program Normal „Bambi”,Str. 1 Decembrie 1918 (Str. 1 Mai) nr. 219,Moldova Nouă,44.7544,21.6898
+123,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,201,4,100,17,3,13,11,33,199,4,109,12,3,20,13,22,Școala Gimnazială „Sofia Arcan”,Aleea Traian Vuia nr. FN,Moldova Nouă,44.7312,21.6198
+124,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,144,1,102,7,2,10,9,24,146,2,109,6,2,10,9,17,Grădinița cu Program Prelungit „Sf Stelian”,Str. Francesco Griselini nr. FN,Moldova Nouă,44.7299,21.6194
+125,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,182,8,99,13,1,13,4,18,179,13,98,10,0,18,8,12,S.C. Moldomin S.A. - S.C. Dunărea S.A.,Str. Dunării nr. 1,Moldova Nouă,44.7277,21.618
+126,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,148,3,84,12,2,10,10,27,147,5,89,12,2,9,12,23,Liceul Tehnologic „Clisura Dunării” (Ciclul Gimnazial),Aleea George Coșbuc nr. FN,Moldova Nouă,44.7268,21.6191
+127,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,154,3,71,19,4,9,11,23,148,4,84,18,4,9,13,19,Grădinița cu Program Prelungit „Licuricii”,Aleea Slavici Ioan nr. FN,Moldova Nouă,44.7265,21.6215
+128,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,132,4,56,9,1,13,5,18,138,4,58,8,1,17,5,10,Liceul Tehnologic „Clisura Dunării” (Ciclul Liceal),Aleea George Coșbuc nr. FN,Moldova Nouă,44.7272,21.6185
+130,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,149,10,87,20,1,15,10,134,198,12,138,20,1,29,11,20,Cămin Cultural,Nr. 447,Moldova Veche,44.7207,21.6176
+131,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,66,1,14,4,1,1,7,13,64,2,18,3,1,1,8,10,Cămin Cultural,Nr. 7B,Moldovița,44.7834,21.7109
+70,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,49,11,22,5,0,5,0,8,48,11,27,5,0,7,3,5,Colegiul Național „Mircea Eliade” - Grădinița Moniom (Corp F),,Moniom,45.3494,21.8329
+211,11,CARAȘ-SEVERIN,CONSTANTIN DAICOVICIU,72,1,45,5,0,9,1,9,71,1,52,3,0,6,5,9,Școala cu Clasele I-IV,,Mâtnicu Mare,45.5101,22.1229
+129,11,CARAȘ-SEVERIN,ORAŞ MOLDOVA NOUĂ,87,1,44,7,0,6,2,27,93,2,52,4,1,6,4,16,Școala Primară „Sveti Petar I Pavle/Sfântul Petru și Pavel”,Nr. 111A,Măcești,44.7553,21.6071
+360,11,CARAȘ-SEVERIN,ZĂVOI,69,0,144,5,0,7,0,3,68,1,146,4,0,8,0,2,Căminul Cultural- Magura,Nr. 117,Măgura,45.4996,22.413
+361,11,CARAȘ-SEVERIN,ZĂVOI,133,5,259,13,0,12,2,8,135,5,256,10,0,17,2,11,Școala Gimnazială Măru,Nr. 268,Măru,45.4751,22.4508
+275,11,CARAȘ-SEVERIN,MĂURENI,124,23,427,1,0,7,10,23,118,27,424,3,0,8,8,16,Căminul Cultural,Nr. 131A,Măureni,45.4069,21.5018
+284,11,CARAȘ-SEVERIN,NAIDĂŞ,205,10,88,20,0,16,9,22,200,12,89,21,0,13,12,27,Primăria Veche,Nr. 1,Naidăș,44.8831,21.5899
+196,11,CARAȘ-SEVERIN,CARAŞOVA,17,2,28,1,0,8,1,110,72,4,77,8,1,6,2,8,Școala Primară Nermed,,Nermed,45.228,21.8609
+206,11,CARAȘ-SEVERIN,CIUCHICI,95,3,17,5,0,3,3,9,97,2,19,5,0,3,4,8,Sediul Fostei Primării Nicolinț,,Nicolinț,44.956,21.5542
+285,11,CARAȘ-SEVERIN,OBREJA,408,13,148,21,2,22,14,28,401,11,154,22,0,24,12,23,Școala Gimnazială Obreja,,Obreja,45.4795,22.2557
+289,11,CARAȘ-SEVERIN,OCNA DE FIER,105,11,146,4,1,25,2,8,100,8,151,5,1,34,3,6,Școala Gimnazială,,Ocna de Fier,45.3413,21.7754
+216,11,CARAȘ-SEVERIN,COPĂCELE,54,0,32,3,0,2,1,8,48,1,40,2,0,3,0,6,Școala cu Clasele I-IV,,Ohaba-Mâtnic,45.4693,22.0766
+291,11,CARAȘ-SEVERIN,PĂLTINIŞ,22,2,7,2,1,2,1,3,21,2,9,1,1,2,1,3,Căminul Cultural,Nr. 45,Ohabița,45.3875,22.0974
+132,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,158,25,38,23,2,11,9,26,151,23,38,22,2,16,10,28,Școala Gimnazială nr. 3 Oravița,Str. Emanoil Gojdu nr. 54,Oravița,45.0412,21.7199
+133,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,151,8,61,8,1,16,3,24,150,8,68,9,1,19,3,14,Liceul Teoretic „General Dragalina”,Piața Ferdinand (Piața Libertății) nr. 1,Oravița,45.0356,21.7118
+134,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,182,12,54,4,3,17,9,28,179,13,53,4,3,22,9,25,Grădinița PN nr. 2,Str. Eftimie Murgu nr. 78,Oravița,45.0324,21.7011
+135,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,259,15,51,19,2,11,13,30,268,12,56,15,2,10,17,20,Liceul Tehnologic „Mihai Novac” Oravița,Str. Cloșca nr. 10,Oravița,45.0351,21.6847
+136,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,250,15,61,16,4,18,8,21,246,16,69,15,5,13,11,24,Școala Gimnazială „Romul Ladea” Oravița,Str. Zona Gării,Oravița,45.0402,21.6835
+137,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,288,13,50,7,5,15,4,17,290,15,52,6,6,14,5,15,Școala Gimnazială „Romul Ladea” Oravița,Str. Zona Gării,Oravița,45.04,21.6834
+138,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,216,6,37,7,5,12,7,20,207,7,42,5,3,14,10,26,Școala Gimnazială „Romul Ladea” Oravița,Str. Zona Gării,Oravița,45.0401,21.6834
+139,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,210,12,55,16,1,8,8,26,202,14,53,19,1,8,11,32,Creșa Cămin,Str. Zona Gării,Oravița,45.0406,21.6822
+146,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,177,8,65,11,6,21,11,21,170,5,71,10,5,27,8,18,Casa de Cultură,Str. 22 Decembrie 1989 (Str. 30 Decembrie) nr. 1,Oțelu Roșu,45.5156,22.3536
+147,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,159,12,43,3,1,23,2,9,156,10,51,3,1,24,1,7,Casa de Cultură,Str. 22 Decembrie 1989 (Str. 30 Decembrie) nr. 1,Oțelu Roșu,45.5156,22.3536
+148,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,228,8,85,12,4,31,11,29,215,8,92,10,4,32,11,30,Școala Gimnzială nr. 3,Bulevardul Libertății,Oțelu Roșu,45.5135,22.3516
+149,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,209,14,102,11,7,47,7,27,197,12,108,10,7,53,11,27,Grădinița cu Program Prelungit nr. 3,Str. Rozelor (Str. V. I. Lenin) nr. 3,Oțelu Roșu,45.5188,22.3536
+150,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,143,13,67,9,5,32,9,42,139,11,82,14,6,34,5,26,Cantina de Ajutor Social,Str. Republicii,Oțelu Roșu,45.5229,22.366
+151,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,193,13,87,17,5,42,17,31,193,11,103,15,3,39,15,25,Grădinița cu Program Normal nr. 2,Str. Revoluției (Str. 23 August),Oțelu Roșu,45.5116,22.3459
+152,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,186,7,149,14,2,28,5,17,184,7,157,14,3,18,10,19,Grădinița cu Program Normal Gai,Str. Cloșca nr. FN,Oțelu Roșu,45.5205,22.378
+153,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,105,9,35,10,1,19,3,10,99,9,36,7,1,19,4,16,Grădinița cu Program Normal Valea Ohăbii,Nr. 12,Oțelu Roșu,45.5255,22.3561
+154,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,51,10,27,4,2,7,4,9,52,10,27,4,3,7,4,8,S.C. „Romflex” S.A.,Str. Tineretului nr. 1,Oțelu Roșu,45.518,22.3633
+155,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,190,14,73,47,5,41,10,25,182,12,79,52,6,37,12,30,S.C. „Romflex” S.A.,Str. Tineretului nr. 1,Oțelu Roșu,45.518,22.3633
+156,11,CARAȘ-SEVERIN,ORAŞ OŢELU ROŞU,126,5,91,5,2,21,4,18,126,6,98,6,2,26,3,7,Căminul Cultural Cireșa,Str. Hațegului nr. 65,Oțelu Roșu,45.5264,22.3836
+253,11,CARAȘ-SEVERIN,GÎRNIC,311,4,27,163,0,8,1,4,326,1,52,107,1,24,1,6,Casa Culturala Padina-Matei,,Padina Matei,44.7599,21.7473
+107,11,CARAȘ-SEVERIN,ORAŞ BĂILE HERCULANE,95,1,72,29,2,19,9,13,93,2,79,20,2,23,7,11,Căminul Cultural,Nr. 9,Pecinișca,44.8588,22.4031
+262,11,CARAȘ-SEVERIN,IABLANIŢA,114,2,32,43,1,3,9,10,117,2,40,36,1,2,7,8,Școala Primară,,Petnic,44.9777,22.2912
+205,11,CARAȘ-SEVERIN,CIUCHICI,71,1,16,3,1,2,2,3,71,1,16,4,0,2,2,3,Casa de Cultură,,Petrilova,44.9199,21.6272
+191,11,CARAȘ-SEVERIN,BUCOŞNIŢA,250,2,61,4,0,4,3,5,254,0,62,2,0,5,2,4,Școala Gizmnaziala Petrosnita,,Petroșnița,45.3011,22.2688
+212,11,CARAȘ-SEVERIN,CONSTANTIN DAICOVICIU,34,0,18,5,0,9,4,5,33,0,19,5,0,9,3,5,Școala cu Clasele I-IV,,Peștere,45.5267,22.1906
+278,11,CARAȘ-SEVERIN,MEHADIA,127,2,45,104,1,13,19,33,158,1,69,54,0,13,17,31,Școala Generală,,Plugova,44.9635,22.3571
+187,11,CARAȘ-SEVERIN,BUCHIN,242,0,32,8,0,2,5,12,238,2,32,8,0,2,3,13,Școala cu Clasele I-VIII,Nr. 137,Poiana,45.353,22.1761
+362,11,CARAȘ-SEVERIN,ZĂVOI,7,2,18,2,0,1,1,5,6,2,21,2,1,1,1,3,Ocolul Silvic,Nr. 23,Poiana Mărului,45.4005,22.5424
+295,11,CARAȘ-SEVERIN,POJEJENA,279,1,48,32,1,14,7,31,263,3,57,29,1,25,8,29,Școala Gimnazială „Atanasie Cojocaru” Pojejena,,Pojejena,44.7732,21.5787
+318,11,CARAȘ-SEVERIN,SASCA MONTANĂ,59,6,10,4,1,9,1,6,46,7,9,4,1,20,3,7,Școala Primară Potoc,,Potoc,44.9254,21.723
+304,11,CARAȘ-SEVERIN,PRIGOR,160,2,61,22,1,64,11,26,154,4,89,11,1,52,7,21,Cladire Primarie (Școala Veche),,Prigor,44.9277,22.1135
+182,11,CARAȘ-SEVERIN,BOZOVICI,181,3,55,21,2,9,4,13,180,2,61,16,2,9,7,10,Școala cu Clasele I-VIII,Nr. 27,Prilipeț,44.9298,22.0616
+213,11,CARAȘ-SEVERIN,CONSTANTIN DAICOVICIU,95,1,40,11,0,6,2,4,88,1,49,8,0,6,1,4,Școala cu Clasele I-IV,,Prisaca,45.4983,22.1572
+303,11,CARAȘ-SEVERIN,PRIGOR,25,1,10,8,0,23,0,3,27,1,13,5,0,24,0,1,Școala Generală,,Putna,44.9366,22.1756
+264,11,CARAȘ-SEVERIN,LĂPUŞNICEL,231,0,12,19,0,4,8,22,45,0,16,167,0,23,11,34,Școala Gimnazială,,Pârvova,45.0127,22.2064
+290,11,CARAȘ-SEVERIN,PĂLTINIŞ,69,10,63,46,0,5,9,24,61,10,80,41,0,5,11,20,Căminul Cultural,,Păltiniș,45.4345,22.1628
+302,11,CARAȘ-SEVERIN,PRIGOR,63,0,51,30,0,6,6,32,74,0,53,24,0,4,8,27,Școala Generală,,Pătaș,44.9508,22.1
+297,11,CARAȘ-SEVERIN,POJEJENA,169,1,24,12,1,5,0,15,156,2,25,4,1,13,4,12,Grădinița cu Program Normal Radimna,,Radimna,44.7921,21.5625
+272,11,CARAȘ-SEVERIN,LUPAC,20,2,23,2,0,38,0,55,37,2,46,7,1,40,3,10,Școala Primară Rafnic,,Rafnic,45.2316,21.788
+305,11,CARAȘ-SEVERIN,RAMNA,157,8,101,19,0,12,12,28,132,13,119,21,0,15,6,20,Școala Gimnazială Ramna,Nr. 232,Ramna,45.4399,21.6878
+331,11,CARAȘ-SEVERIN,ŞOPOTU NOU,6,0,2,0,1,1,0,31,29,0,5,0,1,1,0,7,Căminul Cultural-Ravensca,Nr. 38,Ravensca,44.7741,21.9144
+248,11,CARAȘ-SEVERIN,FÎRLIUG,63,6,12,13,0,2,1,4,57,6,13,15,0,5,2,4,Școala Primară Remetea-Pogănici,Nr. 115,Remetea-Pogănici,45.5105,21.8761
+1,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,171,26,90,23,5,13,9,44,165,25,97,28,5,17,12,38,Școala Gimnazială nr. 5,Str. Sodolului nr. 10/A,Reșița,45.2909,21.9336
+2,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,58,9,29,15,2,7,10,26,61,4,36,17,1,9,7,17,Centrul de Zi „Maria”,Str. Cireșului nr. 75,Reșița,45.2944,21.9508
+3,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,120,21,68,13,1,20,15,45,120,21,78,17,3,28,12,23,Grădinița cu Program Normal nr. 2,Str. Zimbrului nr. 46,Reșița,45.2945,21.9252
+4,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,71,19,56,7,5,13,9,29,66,19,59,7,6,20,14,24,Școala Gimnazială nr. 1 (Beton),Str. Castanilor nr. 72,Reșița,45.2912,21.9194
+5,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,120,13,74,9,5,13,10,40,121,16,83,12,4,14,8,22,Școala Gimnazială nr. 1 (Beton),Str. Castanilor nr. 72,Reșița,45.2912,21.9194
+6,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,139,28,94,23,10,27,16,56,149,25,95,28,10,38,11,34,Școala Gimnazială nr. 1 (Casa Muncitorească),Piața Republicii (Str. Dr. Corneliu Diaconovici) nr. 44,Reșița,45.294,21.9134
+7,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,78,11,62,11,7,7,9,33,75,15,66,12,8,12,11,21,Școala Gimnazială nr. 1 (Casa Muncitorească),Piața Republicii (Str. Dr. Corneliu Diaconovici) nr. 44,Reșița,45.294,21.9134
+8,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,56,2,41,9,1,9,5,18,54,2,49,9,2,8,8,14,Școala Primară Dealu Mare,Str. Badea Cîrțan nr. 1,Reșița,45.2999,21.9003
+9,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,88,1,32,8,2,10,2,18,92,1,37,8,3,9,3,9,Școala Primară Dealu Mare,Str. Badea Cîrțan (D) nr. 1,Reșița,45.2999,21.9003
+10,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,140,23,76,7,8,18,5,58,147,23,88,8,12,24,11,28,Școala Gimnazială nr. 2,Str. Romanilor nr. 2,Reșița,45.2914,21.8941
+11,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,162,40,118,17,5,25,19,83,173,41,137,21,6,49,12,26,Școala Gimnazială nr. 2,Str. Romanilor nr. 2,Reșița,45.2914,21.8941
+12,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,150,38,111,16,1,21,9,80,162,40,132,13,3,35,14,29,Școala Gimnazială nr. 2,Str. Romanilor nr. 2,Reșița,45.2914,21.8941
+13,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,92,9,61,5,1,9,8,19,94,9,61,5,3,6,9,12,Colegiul Național „Traian Lalescu” - Școala Primară,Str. Mociur nr. 4,Reșița,45.3006,21.8837
+14,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,132,36,94,15,4,27,11,75,139,31,118,19,7,39,10,29,Grădinița cu Program Prelungit „Palatul Fermecat”,Str. Oțelului nr. 18,Reșița,45.2894,21.8934
+15,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,178,43,146,30,10,30,22,63,168,43,161,31,9,39,27,45,Grădinița cu Program Prelungit „Palatul Fermecat”,Str. Oțelului nr. 18,Reșița,45.2894,21.8934
+16,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,167,30,140,33,3,24,19,69,171,32,148,32,3,44,15,29,Grădinița cu Program Prelungit „Palatul Fermecat”,Str. Oțelului nr. 18,Reșița,45.2894,21.8934
+17,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,114,19,81,21,6,23,3,35,126,20,89,18,7,30,3,10,S.C. Drumuri Județene S.A. Reșița Aflat În Proprietatea Consiliului Județean Caraș-Severin,Str. 24 Ianuarie nr. 1,Reșița,45.2904,21.8813
+18,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,71,14,58,9,3,19,11,34,79,14,70,7,3,17,8,17,Universitatea „Eftimie Murgu”,Piața Traian Vuia (Piața V. I. Lenin) nr. 1 - 4,Reșița,45.2927,21.8846
+19,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,156,29,120,21,13,30,17,60,166,25,135,22,12,28,17,39,Universitatea „Eftimie Murgu”,Piața Traian Vuia (Piața V. I. Lenin) nr. 1-4,Reșița,45.2927,21.8846
+20,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,144,28,90,14,4,25,9,39,149,31,112,9,6,26,9,14,Colegiul Național „Traian Lalescu”,Bulevardul Alexandru Ioan Cuza (Bulevardul 23 August) nr. 7/A,Reșița,45.2939,21.8802
+21,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,114,24,77,19,5,20,12,42,107,24,89,17,4,24,13,32,Colegiul Național „Traian Lalescu”,Bulevardul Alexandru Ioan Cuza (Bulevardul 23 August) nr. 7/A,Reșița,45.2939,21.8802
+22,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,177,35,102,17,1,25,17,56,174,30,128,17,5,36,12,25,Colegiul Național „Traian Lalescu”,Bulevardul Alexandru Ioan Cuza (Bulevardul 23 August) nr. 7/A,Reșița,45.2939,21.8802
+23,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,82,24,99,7,0,23,10,51,78,25,110,7,2,32,9,32,Colegiul Național „Traian Lalescu”,Bulevardul Alexandru Ioan Cuza (Bulevardul 23 August) nr. 7/A,Reșița,45.2939,21.8802
+24,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,147,29,95,12,5,19,11,54,143,28,118,14,7,27,12,23,Școala Gimnazială „Mihai Peia”,Str. Gratz (Str. Rapsodiei) nr. 10,Reșița,45.2993,21.8778
+25,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,112,14,69,14,2,17,7,30,111,14,91,9,1,13,14,22,Școala Gimnazială „Mihai Peia”,Str. Gratz (Str. Rapsodiei) nr. 10,Reșița,45.2993,21.8778
+26,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,95,18,78,14,5,18,10,41,99,17,95,9,5,24,6,21,Școala Gimnazială „Mihai Peia”,Str. Gratz (Str. Rapsodiei) nr. 10,Reșița,45.2993,21.8778
+27,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,186,40,98,12,2,18,11,49,180,43,116,9,2,19,15,34,Colegiul Tehnic Reșița,Bulevardul Alexandru Ioan Cuza (Bulevardul 23 August) nr. 39,Reșița,45.2997,21.8757
+28,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,137,26,80,8,0,14,10,36,128,27,89,9,0,24,10,22,Colegiul Tehnic Reșița,Bulevardul Alexandru Ioan Cuza (Bulevardul 23 August) nr. 39,Reșița,45.2997,21.8757
+29,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,137,21,111,11,7,28,18,54,135,23,122,11,5,38,16,34,Colegiul Tehnic Reșița,Bulevardul Alexandru Ioan Cuza (Bulevardul 23 August) nr. 39,Reșița,45.2997,21.8757
+30,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,64,16,47,7,7,4,9,31,68,16,50,6,6,12,7,18,Grădinița cu Program Normal „Ciupercuța”,Str. Ciprian Porumbescu nr. 17,Reșița,45.3094,21.8771
+31,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,176,25,66,18,2,19,13,34,183,24,76,18,2,16,13,23,Grădinița cu Program Normal „Degețica”,Str. Timișoarei nr. 12,Reșița,45.3237,21.8666
+32,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,155,17,65,15,1,12,14,26,156,17,69,14,4,12,10,18,Liceul Teoretic „Traian Vuia”,Calea Caransebeșului nr. 2,Reșița,45.3166,21.8793
+33,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,105,15,46,8,2,5,12,32,102,14,52,10,2,6,11,23,Liceul Teoretic „Traian Vuia”,Calea Caransebeșului nr. 2,Reșița,45.3166,21.8793
+34,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,172,22,96,24,5,17,18,41,173,19,113,24,3,20,13,25,Liceul Teoretic „Traian Vuia”,Calea Caransebeșului nr. 2,Reșița,45.3166,21.8793
+35,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,181,20,77,8,4,16,11,43,179,21,81,12,4,18,12,29,Liceul Teoretic „Traian Vuia”,Calea Caransebeșului nr. 2,Reșița,45.3166,21.8793
+36,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,155,30,89,18,4,11,7,48,154,32,103,18,4,15,12,31,Liceul Teoretic „Traian Vuia”,Calea Caransebeșului nr. 2,Reșița,45.3166,21.8793
+37,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,77,3,32,4,2,11,8,18,74,2,38,6,4,8,8,13,Liceul Teoretic „Traian Vuia”,Calea Caransebeșului nr. 2,Reșița,45.3166,21.8793
+38,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,193,14,84,12,6,10,18,43,194,13,90,17,7,11,19,34,Școala Gimnazială nr. 8,Aleea Bazna nr. 2,Reșița,45.3201,21.8811
+39,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,220,25,115,21,5,13,19,63,225,30,130,24,4,19,17,34,Școala Gimnazială nr. 8,Aleea Bazna nr. 2,Reșița,45.3201,21.8811
+40,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,160,19,60,15,2,19,8,37,150,19,72,16,3,26,10,26,Școala Gimnazială nr. 8,Aleea Bazna nr. 2,Reșița,45.3201,21.8811
+41,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,144,13,69,14,5,7,9,42,140,15,77,16,5,13,8,24,Colegiul Național „Mircea Eliade” Reșița,Str. Făgărașului nr. 8,Reșița,45.3222,21.8839
+42,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,160,30,81,16,2,13,15,35,162,24,88,17,2,24,15,21,"Colegiul Național „Mircea Eliade”, Reșița",Str. Făgărașului nr. 8,Reșița,45.3222,21.8839
+43,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,187,27,107,20,3,20,15,51,180,30,124,22,4,27,16,26,"Colegiul Tehnic Cărășan, Reșița",Str. Făgărașului nr. 10,Reșița,45.3229,21.883
+44,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,147,22,88,13,5,14,8,26,147,20,94,14,3,19,9,15,"Colegiul Tehnic Cărășan, Reșița",Str. Făgărașului nr. 10,Reșița,45.3229,21.883
+45,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,203,30,94,12,5,16,18,51,202,29,96,13,4,27,20,34,"Școala Gimnazială nr. 7, Corp B",Aleea Galați nr. 6,Reșița,45.3224,21.876
+46,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,178,19,83,17,13,14,10,41,175,21,86,24,13,21,15,30,"Școala Gimnazială nr. 7, Corp B",Aleea Galați nr. 6,Reșița,45.3224,21.876
+47,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,181,20,69,17,9,17,20,64,186,24,79,15,9,21,20,40,"Școala Gimnazială nr. 7, Corp B",Aleea Galați nr. 6,Reșița,45.3224,21.876
+48,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,90,23,61,15,3,10,15,37,90,25,65,15,7,18,16,23,"Școala Gimnazială nr. 7, Corp B",Aleea Galați nr. 6,Reșița,45.3224,21.876
+49,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,201,39,93,18,11,19,13,53,212,38,115,14,12,21,15,28,"Școala Gimnazială nr. 7, Corp A",Str. Progresului nr. 2,Reșița,45.3237,21.8744
+50,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,167,20,69,11,2,20,12,34,156,18,78,15,2,23,16,30,"Școala Gimnazială nr. 7, Corp A",Str. Progresului nr. 2,Reșița,45.3237,21.8744
+51,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,244,25,99,20,10,22,64,98,245,29,112,21,9,23,55,77,"Școala Gimnazială nr. 7, Corp A",Str. Progresului nr. 2,Reșița,45.3237,21.8744
+52,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,148,20,72,21,1,13,11,34,159,21,83,17,0,10,12,21,"Școala Gimnazială nr. 7, Corp A",Str. Progresului nr. 2,Reșița,45.3237,21.8744
+53,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,176,18,56,21,2,11,9,32,171,16,66,24,2,16,8,18,Școala Gimnazială nr. 9,Aleea Mărghitaș nr. 5,Reșița,45.327,21.8707
+54,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,213,24,107,20,2,16,25,56,209,21,119,24,2,19,26,44,Școala Gimnazială nr. 9,Aleea Mărghitaș nr. 5,Reșița,45.327,21.8707
+55,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,172,16,87,28,6,22,15,49,175,18,98,28,6,27,15,28,Școala Gimnazială nr. 9,Aleea Mărghitaș nr. 5,Reșița,45.327,21.8707
+56,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,225,30,72,21,1,19,14,39,215,32,78,26,2,24,14,31,Școala Gimnazială nr. 9,Aleea Mărghitaș nr. 5,Reșița,45.327,21.8707
+57,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,180,24,71,18,1,20,11,47,186,23,85,19,1,24,8,26,Liceul de Arte „Sabin Păuța”,Aleea Herculane nr. 3,Reșița,45.3248,21.8792
+58,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,184,20,88,19,0,22,14,45,182,18,102,16,1,29,12,26,Liceul de Arte „Sabin Păuța”,Aleea Herculane nr. 3,Reșița,45.3248,21.8792
+59,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,205,27,126,24,9,32,31,61,214,33,129,22,8,38,30,40,Liceul de Arte „Sabin Păuța”,Aleea Herculane nr. 3,Reșița,45.3248,21.8792
+60,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,177,31,88,9,6,21,10,42,177,26,105,10,6,16,16,32,Liceul de Arte „Sabin Păuța”,Aleea Herculane nr. 3,Reșița,45.3248,21.8792
+61,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,168,28,96,13,15,22,11,57,168,27,110,14,10,31,15,37,Școala Gimnazială nr. 12,Aleea Măcinului nr. 3,Reșița,45.3301,21.8727
+62,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,153,29,104,16,5,16,19,50,152,29,127,16,4,17,18,32,Școala Gimnazială nr. 12,Aleea Măcinului nr. 3,Reșița,45.3301,21.8727
+63,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,134,20,73,15,3,22,15,36,136,19,84,16,3,25,14,21,Școala Gimnazială nr. 12,Aleea Măcinului nr. 3,Reșița,45.3301,21.8727
+64,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,151,15,50,18,1,19,20,37,144,16,59,20,1,20,19,29,Școala Gimnazială nr. 12,Aleea Măcinului nr. 3,Reșița,45.3301,21.8727
+294,11,CARAȘ-SEVERIN,PĂLTINIŞ,58,0,13,3,1,8,2,6,51,0,17,7,1,7,2,6,Grădinița,Nr. 92,Rugi,45.3843,22.1334
+217,11,CARAȘ-SEVERIN,COPĂCELE,12,2,20,1,0,1,0,3,10,3,22,1,0,1,0,3,Școala cu Clasele I-IV,,Ruginosu,45.4602,22.1136
+338,11,CARAȘ-SEVERIN,TEREGOVA,256,11,142,16,0,6,5,32,252,8,155,6,0,14,4,26,Oficiul Primăriei,,Rusca,45.1448,22.3361
+309,11,CARAȘ-SEVERIN,RUSCA MONTANĂ,285,10,65,24,0,14,13,63,273,10,108,16,0,10,17,46,Școala Gimnazială Ștefan Velovan,Nr. 277,Rusca Montană,45.5717,22.4553
+170,11,CARAȘ-SEVERIN,BERLIŞTE,37,0,44,6,0,1,3,7,37,0,44,6,0,1,4,6,Școala Primară Rusova-Nouă,Nr. 38B,Rusova Nouă,44.9701,21.5203
+310,11,CARAȘ-SEVERIN,RUSCA MONTANĂ,88,3,11,2,0,2,1,11,89,4,12,1,0,2,3,9,Grădinița cu Program Normal,Nr. 40,Rușchița,45.2998,21.8769
+332,11,CARAȘ-SEVERIN,ŞOPOTU NOU,40,0,3,2,0,3,1,4,36,0,6,2,0,4,1,5,Școala Primară - Rachita,Nr. 3,Răchita,44.7602,21.8736
+144,11,CARAȘ-SEVERIN,ORAŞ ORAVIŢA,61,3,11,3,1,3,0,4,56,4,12,2,1,3,3,7,Fosta Școala Primară Răchitova,Nr. 48,Răchitova,45.0611,21.6774
+307,11,CARAȘ-SEVERIN,RĂCĂŞDIA,167,16,140,46,0,19,18,38,171,18,136,49,0,20,17,35,Căminul Cultural,,Răcășdia,44.9941,21.6238
+312,11,CARAȘ-SEVERIN,SACU,201,5,78,7,1,8,1,11,201,6,80,7,1,8,3,7,Club Cămin Cultural,,Sacu,45.5749,22.1208
+324,11,CARAȘ-SEVERIN,SLATINA-TIMIŞ,28,0,43,8,0,1,1,6,29,0,46,7,0,1,0,3,Școala Primară Sadova-Noua,,Sadova Nouă,45.257,22.3435
+325,11,CARAȘ-SEVERIN,SLATINA-TIMIŞ,26,2,38,8,0,4,1,3,23,2,46,5,0,2,2,3,Grădinița cu Program Normal Sadova-Veche,,Sadova Veche,45.2471,22.2982
+317,11,CARAȘ-SEVERIN,SASCA MONTANĂ,101,2,19,15,3,8,3,29,103,5,24,10,2,9,4,23,Școala Gimnazială „Mihai Novac” Sasca Montana,,Sasca Montană,44.8837,21.7201
+315,11,CARAȘ-SEVERIN,SASCA MONTANĂ,74,3,26,14,1,7,5,7,71,6,29,12,0,6,4,6,Căminul Cultural,,Sasca Română,44.8915,21.7218
+161,11,CARAȘ-SEVERIN,ARMENIŞ,70,0,101,3,0,1,0,6,62,1,115,2,0,1,0,1,Școala Primară,,Sat Bătrân,45.2344,22.3308
+246,11,CARAȘ-SEVERIN,FÎRLIUG,81,4,6,7,1,2,2,17,74,4,7,8,1,7,2,17,Căminul Cultural,Nr. 83A,Scăiuș,45.516,21.9159
+68,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,37,4,40,5,2,3,2,11,40,4,42,4,1,5,1,7,Liceul Teoretic „Diaconovici Tietz” - Școala cu Clasele I-IV,,Secu,45.2697,21.9784
+340,11,CARAȘ-SEVERIN,TICVANIU MARE,21,3,13,22,2,9,0,9,25,1,14,23,2,7,0,7,Școala cu Clasele I-IV,,Secășeni,45.1782,21.6949
+228,11,CARAȘ-SEVERIN,CORONINI,32,2,12,3,2,1,2,121,119,9,40,6,2,5,4,11,Căminul Cultural,Nr. 99,Sfânta Elena,44.6778,21.712
+320,11,CARAȘ-SEVERIN,SICHEVIŢA,368,9,58,104,0,6,1,16,370,8,72,106,1,8,1,5,Camin Cultural Sichevita,Nr. 395,Sichevița,44.6959,21.8435
+316,11,CARAȘ-SEVERIN,SASCA MONTANĂ,64,7,8,5,1,3,1,5,63,8,10,4,1,3,0,3,Căminul Cultural,,Slatina-Nera,44.9152,21.6864
+322,11,CARAȘ-SEVERIN,SLATINA-TIMIŞ,184,9,222,76,0,26,8,29,165,9,282,35,0,34,12,21,Școala Primară Slatina -Timis,Nr. 264 A,Slatina-Timiș,45.2597,22.2828
+242,11,CARAȘ-SEVERIN,EZERIŞ,82,6,227,5,0,1,3,13,80,2,237,8,0,4,3,7,Casa de Cultura Soceni,Nr. 90,Soceni,45.3746,21.9475
+326,11,CARAȘ-SEVERIN,SOCOL,154,2,25,12,1,9,4,42,163,5,41,13,1,18,3,6,Școala Gimnazială „Sf. Sava” - Socol,Nr. 80,Socol,44.8602,21.3707
+202,11,CARAȘ-SEVERIN,CICLOVA ROMÂNĂ,32,2,13,4,0,13,1,8,30,4,9,6,0,15,1,6,Cadirea Primariei (Fostul Sediu al Primariei din Socolari),,Socolari,44.9443,21.7261
+333,11,CARAȘ-SEVERIN,ŞOPOTU NOU,31,0,1,4,0,2,2,6,32,0,1,4,0,1,2,6,Camininul Cultural-Stancilova de Jos,Nr. 39,Stăncilova,44.8164,21.8125
+334,11,CARAȘ-SEVERIN,ŞOPOTU NOU,32,0,4,21,0,2,5,10,36,1,4,18,0,2,4,7,Caminnul Cultural Stancilova de Sus,Nr. 94,Stăncilova,44.8256,21.8177
+158,11,CARAȘ-SEVERIN,ARMENIŞ,44,0,53,3,0,1,0,2,27,0,64,0,1,7,0,2,Căminul Cultural,,Sub Margine,45.2213,22.347
+250,11,CARAȘ-SEVERIN,FOROTIC,24,4,19,31,0,3,23,39,27,4,22,26,0,3,23,38,Școala Primară,,Surducu Mare,45.2669,21.5866
+313,11,CARAȘ-SEVERIN,SACU,37,0,25,16,0,1,2,7,38,0,28,16,0,1,1,3,Școala Primară Sălbăgelu Nou,,Sălbăgelu Nou,45.5668,22.0611
+336,11,CARAȘ-SEVERIN,TEREGOVA,377,3,107,25,0,14,7,20,371,4,128,13,0,19,4,10,Căminul Cultural,,Teregova,45.1478,22.2846
+337,11,CARAȘ-SEVERIN,TEREGOVA,433,2,99,22,1,8,16,24,430,2,114,11,0,16,15,22,Liceul Tehnologic „Sf. Dimitrie”,,Teregova,45.1474,22.284
+342,11,CARAȘ-SEVERIN,TICVANIU MARE,67,17,7,16,0,7,9,23,66,16,6,15,0,11,7,22,Casa de Cultură „Virgil Birou”,,Ticvaniu Mare,45.1394,21.6383
+341,11,CARAȘ-SEVERIN,TICVANIU MARE,49,7,11,24,0,2,3,10,49,8,10,26,1,2,5,10,Școala cu Clasele I-IV,,Ticvaniu Mic,45.1159,21.6495
+311,11,CARAȘ-SEVERIN,SACU,59,2,30,10,0,0,3,9,59,3,37,6,0,2,2,5,Grădinița cu Program Normal Tincova,,Tincova,45.5712,22.1498
+234,11,CARAȘ-SEVERIN,DOCLIN,50,1,30,2,0,0,1,41,64,2,36,2,0,3,5,19,Școala Gimnazială Tirol,Nr. 1,Tirol,45.3309,21.5947
+344,11,CARAȘ-SEVERIN,TOPLEŢ,186,10,47,83,0,29,16,42,191,11,54,78,0,24,19,40,Căminul Cultural,Nr. 155,Topleț,44.7971,22.3957
+346,11,CARAȘ-SEVERIN,TURNU RUIENI,87,4,80,9,3,6,8,22,79,5,94,5,2,6,7,24,Căminul Cultural Turnu Ruieni,,Turnu Ruieni,45.39,22.3344
+343,11,CARAȘ-SEVERIN,TÎRNOVA,335,4,112,4,1,17,10,28,323,5,129,5,0,15,8,22,Școala Gimnazială Tîrnova,Nr. 1,Târnova,45.3391,22.0023
+279,11,CARAȘ-SEVERIN,MEHADIA,95,0,21,36,0,9,12,22,98,0,29,26,0,8,12,20,Școala Generală,,Valea Bolvașnița,44.9433,22.3845
+247,11,CARAȘ-SEVERIN,FÎRLIUG,52,0,6,11,0,2,1,9,51,0,10,10,1,1,1,7,Căminul Cultural,Nr. 87,Valea Mare,45.505,21.8022
+335,11,CARAȘ-SEVERIN,ŞOPOTU NOU,71,0,4,26,1,1,4,9,73,0,9,22,0,2,4,6,Căminul Cultural-Valea Rosie,Nr. 9,Valea Roșie,44.7962,21.8264
+189,11,CARAȘ-SEVERIN,BUCHIN,90,5,80,5,1,3,5,9,82,4,83,8,2,8,5,7,Grădinița,Nr. 101,Valea Timișului,45.3478,22.2642
+185,11,CARAȘ-SEVERIN,BREBU,44,0,32,34,0,5,4,9,44,1,33,37,0,6,3,6,Școala cu Clasele I-IV,,Valeadeni,45.3979,22.0115
+306,11,CARAȘ-SEVERIN,RAMNA,101,11,13,7,1,1,4,14,88,8,24,10,1,3,5,13,Școala cu Clasele I-IV - Valeapai,Nr. 43,Valeapai,45.4924,21.7245
+288,11,CARAȘ-SEVERIN,OBREJA,207,7,29,2,0,3,0,7,201,6,40,2,0,3,2,4,Școala Primară Var,,Var,45.4477,22.3044
+269,11,CARAȘ-SEVERIN,LUNCAVIŢA,247,12,88,114,0,33,2,14,259,10,111,90,0,35,1,11,Școala Gimnazială Verendin,,Verendin,45.0763,22.2399
+356,11,CARAȘ-SEVERIN,VERMEŞ,305,20,68,6,1,4,7,18,297,18,78,8,0,9,8,15,Sala de Sport,Nr. 182,Vermeș,45.5215,21.6602
+273,11,CARAȘ-SEVERIN,LUPAC,20,0,20,2,1,8,2,70,31,1,60,2,1,8,8,15,Școala Primară Vodnic,,Vodnic,45.2471,21.7943
+363,11,CARAȘ-SEVERIN,ZĂVOI,114,3,173,4,0,4,3,6,120,3,174,4,1,3,1,3,Școala Primară Voislova,Nr. 22 B,Voislova,45.5261,22.4589
+357,11,CARAȘ-SEVERIN,VRANI,183,6,51,11,1,35,6,18,186,5,54,11,2,35,3,11,Căminul Cultural Vrani,,Vrani,45.0412,21.4884
+308,11,CARAȘ-SEVERIN,RĂCĂŞDIA,22,3,17,7,0,6,2,6,20,3,18,8,0,7,3,6,Clădirea Fostei Primării Vrăniuț,,Vrăniuț,45.0005,21.5485
+179,11,CARAȘ-SEVERIN,BOLVAŞNIŢA,206,6,54,32,0,7,8,52,198,5,67,30,0,6,9,51,Clubul Tineretului,,Vârciorova,45.3256,22.3532
+351,11,CARAȘ-SEVERIN,VĂLIUG,103,12,126,10,5,11,1,16,105,13,129,11,5,11,3,5,Școala Gimnazială „Petre Sava Bălean”,Nr. 57,Văliug,45.2294,22.032
+193,11,CARAȘ-SEVERIN,BUCOŞNIŢA,90,5,58,10,0,8,4,11,84,3,69,7,0,6,5,14,Școala Primară Valisoara,,Vălișoara,45.3173,22.2869
+352,11,CARAȘ-SEVERIN,VĂRĂDIA,271,2,24,6,2,28,3,17,272,3,26,5,2,29,3,12,Căminul Cultural Vărădia,Nr. 178,Vărădia,45.0847,21.5435
+349,11,CARAȘ-SEVERIN,TURNU RUIENI,95,4,33,16,0,6,4,14,99,4,35,18,1,4,2,7,Căminul Cultural Zervesti,,Zervești,45.4059,22.2915
+350,11,CARAȘ-SEVERIN,TURNU RUIENI,51,0,62,10,2,4,4,14,50,0,66,10,2,4,4,10,Căminul Cultural-Zlagna,,Zlagna,45.3776,22.2981
+329,11,CARAȘ-SEVERIN,SOCOL,269,1,14,8,4,7,6,67,266,1,20,14,3,61,6,8,Școala Gimnazială- Zlatita,Nr. 212,Zlatița,44.8647,21.469
+218,11,CARAȘ-SEVERIN,COPĂCELE,93,9,18,5,0,2,2,4,89,6,24,5,0,1,2,4,Școala cu Clasele I-IV,,Zorile,45.4964,22.0589
+364,11,CARAȘ-SEVERIN,ZORLENŢU MARE,60,0,15,5,0,1,1,8,61,0,17,5,0,0,0,5,Căminul Cultural,,Zorlencior,45.4753,22.0078
+365,11,CARAȘ-SEVERIN,ZORLENŢU MARE,256,7,125,19,1,2,2,20,249,6,134,19,0,1,3,17,Școala Gimnazială Zorlentu Mare,Nr. 369,Zorlențu Mare,45.452,21.9506
+210,11,CARAȘ-SEVERIN,CONSTANTIN DAICOVICIU,84,4,49,8,0,16,5,9,81,5,52,6,0,18,5,8,Școala cu Clasele I-VIII,,Zăgujeni,45.4853,22.1609
+359,11,CARAȘ-SEVERIN,ZĂVOI,266,8,247,8,1,20,14,39,272,9,237,8,0,32,10,31,Căminul Cultural-Zavoi,Nr. 47,Zăvoi,45.5248,22.409
+330,11,CARAȘ-SEVERIN,ŞOPOTU NOU,76,1,23,8,0,8,7,15,76,1,25,7,0,10,7,11,Căminul Cultural-Sopotu Nou,Nr. 18,Șopotu Nou,44.8162,21.858
+231,11,CARAȘ-SEVERIN,DALBOŞEŢ,142,3,40,13,1,56,4,19,154,4,39,13,1,58,3,8,Căminul Cultural-Sopotu Vechi,Nr. 115,Șopotu Vechi,44.8577,21.9935
+276,11,CARAȘ-SEVERIN,MĂURENI,52,2,212,4,2,5,2,6,52,2,218,3,2,4,4,6,Cămin Cultural,Nr. 324 A,Șoșdea,45.4531,21.5182
+199,11,CARAȘ-SEVERIN,CĂRBUNARI,122,1,11,18,1,11,4,7,123,1,16,11,1,13,3,6,Școala Primară,,Știnăpari,44.847,21.7348
+265,11,CARAȘ-SEVERIN,LĂPUŞNICEL,21,0,2,5,1,3,2,20,20,0,8,14,1,5,2,4,Școala Gimnazială,,Șumița,44.9603,22.1873
+299,11,CARAȘ-SEVERIN,POJEJENA,90,5,19,17,3,5,3,20,85,9,22,13,3,11,4,17,Grădinița cu Program Normal Șușca,,Șușca,44.784,21.5309
+69,11,CARAȘ-SEVERIN,MUNICIPIUL REŞIŢA,45,4,51,8,1,8,4,21,49,5,53,8,1,8,5,14,Școala Gimnazială nr. 8 - Școala Primară Țerova,,Țerova,45.3078,21.9209

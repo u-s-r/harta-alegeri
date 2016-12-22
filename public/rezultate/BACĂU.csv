@@ -1,0 +1,635 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+232,4,BACĂU,AGĂŞ,164,8,35,9,2,41,3,23,173,6,38,9,2,42,2,18,Consiliul Local Agăș,,Agăș,46.4812,26.2277
+272,4,BACĂU,BÎRSĂNEŞTI,130,3,36,11,1,2,2,9,128,3,39,8,0,2,3,9,Școala Gimnazială Albele,,Albele,46.3639,26.6781
+403,4,BACĂU,IZVORU BERHECIULUI,50,1,35,4,0,14,0,13,51,3,36,4,0,13,0,4,Școala Generală Antohești,,Antohești,46.5499,27.2438
+245,4,BACĂU,ASĂU,105,7,38,25,1,10,2,10,108,9,31,24,1,16,4,10,Școala Generală cu Clasele I-VIII Apa-Asău,,Apa Asău,46.4869,26.3778
+246,4,BACĂU,ASĂU,117,4,42,7,1,10,4,14,123,3,38,9,1,10,5,10,Școala Generală cu Clasele I-VIII Apa-Asău,,Apa Asău,46.4869,26.3778
+238,4,BACĂU,ARDEOANI,195,6,221,19,1,35,3,30,193,9,206,17,2,44,1,16,Școala nr. 1 Ardeoani,,Ardeoani,46.5326,26.6067
+352,4,BACĂU,GĂICEANA,281,2,32,4,39,10,0,8,292,6,32,4,33,14,0,7,Școala Arini,,Arini,46.3456,27.1959
+240,4,BACĂU,ASĂU,191,7,52,17,1,15,6,21,180,6,53,24,1,20,9,17,Școala Generală cu Clasele I-VIII Asau,,Asău,46.4396,26.3957
+241,4,BACĂU,ASĂU,210,12,55,8,1,22,6,17,211,10,55,10,2,18,5,13,Școala Generală cu Clasele I-VIII Asau,,Asău,46.4396,26.3957
+1,4,BACĂU,MUNICIPIUL BACĂU,140,55,73,39,1,23,10,45,135,57,74,32,3,30,16,45,Școala Gimnazială nr. 9,Calea Moldovei nr. 136,Bacău,46.5967,26.9081
+2,4,BACĂU,MUNICIPIUL BACĂU,128,72,65,56,2,36,11,46,133,70,76,52,1,38,10,36,Școala Gimnazială nr. 9,Calea Moldovei nr. 136,Bacău,46.5967,26.9081
+3,4,BACĂU,MUNICIPIUL BACĂU,160,68,93,42,2,29,7,52,161,71,104,41,3,26,13,43,Școala Gimnazială „Georgeta Mircea Cancicov”,Str. Prieteniei nr. 73,Bacău,46.5797,26.9089
+4,4,BACĂU,MUNICIPIUL BACĂU,152,89,113,45,2,41,15,59,149,88,111,51,3,51,18,49,Școala Gimnazială „Georgeta Mircea Cancicov”,Str. Prieteniei nr. 73,Bacău,46.5797,26.9089
+5,4,BACĂU,MUNICIPIUL BACĂU,192,72,91,54,2,39,17,66,190,68,95,57,2,44,9,45,S.C. E-On Energie S.A Bacău,Str. Ștefan cel Mare nr. 22,Bacău,46.5781,26.9152
+6,4,BACĂU,MUNICIPIUL BACĂU,115,37,51,21,1,23,8,31,110,38,53,24,2,28,9,25,Grădinița cu Program Prelungit „Crai Nou”,"Str. Aprodu Purice nr. 11, A",Bacău,46.5818,26.9091
+7,4,BACĂU,MUNICIPIUL BACĂU,136,39,67,33,1,23,9,31,138,40,63,30,2,30,11,28,Grădinița cu Program Prelungit „Crai Nou”,Str. Aprodu Purice nr. 11A,Bacău,46.5818,26.9091
+8,4,BACĂU,MUNICIPIUL BACĂU,168,47,79,39,1,30,19,61,168,54,78,40,1,36,23,50,Școala Gimnazială „Mihail Sadoveanu”,Str. Venus nr. 16,Bacău,46.5816,26.9058
+9,4,BACĂU,MUNICIPIUL BACĂU,145,52,82,32,1,24,12,45,148,58,86,33,1,23,9,34,Școala Gimnazială „Mihail Sadoveanu”,Str. Venus nr. 16,Bacău,46.5816,26.9058
+10,4,BACĂU,MUNICIPIUL BACĂU,162,66,93,36,1,28,11,63,159,63,98,37,1,31,13,56,Școala Gimnazială „Mihail Sadoveanu”,Str. Venus nr. 16,Bacău,46.5816,26.9058
+11,4,BACĂU,MUNICIPIUL BACĂU,123,51,92,15,2,28,8,58,127,59,94,20,3,25,8,41,Școala Gimnazială „Mihail Sadoveanu”,Str. Venus nr. 16,Bacău,46.5816,26.9058
+12,4,BACĂU,MUNICIPIUL BACĂU,230,58,80,34,2,28,14,68,224,56,87,34,2,36,15,56,Școala Gimnazială „Georgeta Mircea Cancicov”,Str. Prieteniei nr. 73,Bacău,46.5797,26.9089
+13,4,BACĂU,MUNICIPIUL BACĂU,213,84,94,37,2,43,12,67,214,87,98,39,1,46,18,55,Școala Gimnazială „Georgeta Mircea Cancicov”,Str. Prieteniei nr. 73,Bacău,46.5797,26.9089
+14,4,BACĂU,MUNICIPIUL BACĂU,157,41,82,35,1,19,7,44,157,40,85,32,1,22,9,44,Grădinița cu Program Normal nr. 4,Str. Prieteniei nr. 73,Bacău,46.5797,26.9089
+15,4,BACĂU,MUNICIPIUL BACĂU,148,72,88,39,1,35,8,36,150,71,91,30,3,42,11,38,Grădinița cu Program Normal nr. 4,Str. Prieteniei nr. 73,Bacău,46.5797,26.9089
+16,4,BACĂU,MUNICIPIUL BACĂU,193,52,70,49,0,21,11,42,196,46,84,36,0,24,14,44,Școala Gimnazială „Mihai Drăgan”,Str. Logofăt Tăutu nr. 7,Bacău,46.5773,26.911
+17,4,BACĂU,MUNICIPIUL BACĂU,192,51,95,39,3,39,19,59,192,55,96,38,1,36,26,59,Școala Gimnazială „Mihai Drăgan”,Str. Logofăt Tăutu nr. 7,Bacău,46.5773,26.911
+18,4,BACĂU,MUNICIPIUL BACĂU,188,54,63,35,1,28,17,45,191,54,60,27,3,37,15,39,Școala Gimnazială „Mihai Drăgan”,Str. Logofăt Tăutu nr. 7,Bacău,46.5773,26.911
+19,4,BACĂU,MUNICIPIUL BACĂU,185,30,72,33,1,23,6,45,186,28,71,34,1,26,12,44,Gradinița cu Program Prelungit „Raza de Soare”,Str. Costache Negri nr. 1,Bacău,46.5761,26.9126
+20,4,BACĂU,MUNICIPIUL BACĂU,216,68,81,30,1,36,15,55,215,73,82,31,0,39,17,46,Gradinița cu Program Prelungit „Raza de Soare”,Str. Costache Negri nr. 1,Bacău,46.5761,26.9126
+21,4,BACĂU,MUNICIPIUL BACĂU,180,43,64,28,3,24,10,41,184,46,64,27,2,34,9,25,Administrația Finanțelor Publice Bacău,Str. 9 Mai nr. 33,Bacău,46.5732,26.9147
+22,4,BACĂU,MUNICIPIUL BACĂU,202,145,131,71,4,60,10,73,200,140,138,76,1,75,8,54,Colegiul Național „Gheorghe Vrânceanu”,Str. Lucrețiu Pătrășcanu nr. 30,Bacău,46.5708,26.9108
+23,4,BACĂU,MUNICIPIUL BACĂU,130,36,65,34,1,35,18,54,133,36,73,34,1,29,21,46,Colegiul Național „Gheorghe Vrânceanu”,Str. Lucrețiu Pătrășcanu nr. 30,Bacău,46.5708,26.9108
+24,4,BACĂU,MUNICIPIUL BACĂU,242,116,97,56,1,67,32,82,239,118,97,65,0,73,35,66,Școala Gimnazială „Alexandru Ioan Cuza”,Str. Oituz nr. 14,Bacău,46.5683,26.9078
+25,4,BACĂU,MUNICIPIUL BACĂU,175,71,86,46,4,39,14,50,170,68,95,43,3,43,15,46,Colegiul Național „Ferdiand I”,Str. George Bacovia nr. 45,Bacău,46.5697,26.9057
+26,4,BACĂU,MUNICIPIUL BACĂU,133,45,82,43,3,32,18,58,137,47,82,40,1,32,21,54,Colegiul Național „Ferdiand I”,Str. George Bacovia nr. 45,Bacău,46.5697,26.9057
+27,4,BACĂU,MUNICIPIUL BACĂU,253,79,101,59,0,38,26,91,253,86,112,50,2,47,22,66,Colegiul Național „Ferdiand I”,Str. George Bacovia nr. 45,Bacău,46.5697,26.9057
+28,4,BACĂU,MUNICIPIUL BACĂU,186,106,116,64,3,46,11,70,180,113,111,76,1,55,14,53,Direcția Pentru Agricultură Bacău,Str. George Bacovia nr. 20,Bacău,46.5704,26.9068
+29,4,BACĂU,MUNICIPIUL BACĂU,194,43,80,26,1,24,12,42,197,46,80,22,0,34,13,41,Grădinița cu Program Prelungit nr. 29,Str. Radu Negru nr. 3,Bacău,46.5736,26.9048
+30,4,BACĂU,MUNICIPIUL BACĂU,145,50,90,33,3,21,23,63,149,48,93,39,2,22,20,51,Grădinița cu Program Prelungit nr. 29,Str. Radu Negru nr. 3,Bacău,46.5736,26.9048
+31,4,BACĂU,MUNICIPIUL BACĂU,171,63,69,38,1,44,10,46,170,68,67,38,1,53,11,35,Grădinița cu Program Prelungit nr. 29,Str. Radu Negru nr. 3,Bacău,46.5736,26.9048
+32,4,BACĂU,MUNICIPIUL BACĂU,206,67,84,35,2,28,11,45,200,66,86,43,0,37,15,34,Grădinița cu Program Normal nr. 26,Str. Cuza Vodă nr. 10,Bacău,46.5693,26.9023
+33,4,BACĂU,MUNICIPIUL BACĂU,281,118,116,53,0,49,34,83,265,116,117,50,0,76,33,75,Grădinița cu Program Normal nr. 26,Str. Cuza Vodă nr. 10,Bacău,46.5693,26.9023
+34,4,BACĂU,MUNICIPIUL BACĂU,198,73,68,38,2,28,18,68,194,71,63,39,2,40,16,61,Școala Gimnazială „Ion Creangă”,Str. Tipografilor (Str. Poligrafiei) nr. 11,Bacău,46.573,26.8979
+35,4,BACĂU,MUNICIPIUL BACĂU,198,71,110,39,2,27,16,61,199,73,112,37,2,29,17,55,Școala Gimnazială „Ion Creangă”,Str. Tipografilor (Str. Poligrafiei) nr. 11,Bacău,46.573,26.8979
+36,4,BACĂU,MUNICIPIUL BACĂU,191,68,117,31,0,24,16,74,189,71,125,32,0,36,15,50,Școala Gimnazială „Ion Creangă”,Str. Tipografilor (Str. Poligrafiei) nr. 11,Bacău,46.573,26.8979
+37,4,BACĂU,MUNICIPIUL BACĂU,199,100,97,54,1,37,12,66,204,101,99,57,1,41,13,56,Colegiul Tehnic de Comunicații „Nicolae Vasilescu-Karpen”,Str. Mioriței nr. 76,Bacău,46.5719,26.8954
+38,4,BACĂU,MUNICIPIUL BACĂU,313,72,101,61,1,33,17,64,305,68,101,55,3,46,28,68,Colegiul Tehnic de Comunicații „Nicolae Vasilescu-Karpen”,Str. Mioriței nr. 76,Bacău,46.5719,26.8954
+39,4,BACĂU,MUNICIPIUL BACĂU,94,33,42,22,1,17,8,26,95,31,43,24,1,18,8,22,Colegiul Tehnic de Comunicații „Nicolae Vasilescu-Karpen”,Str. Mioriței nr. 76,Bacău,46.5719,26.8954
+40,4,BACĂU,MUNICIPIUL BACĂU,235,81,85,43,1,47,18,76,230,91,86,40,0,49,22,74,Colegiul Tehnic de Comunicații „Nicolae Vasilescu-Karpen”,Str. Mioriței nr. 76,Bacău,46.5719,26.8954
+41,4,BACĂU,MUNICIPIUL BACĂU,333,67,84,30,1,25,21,75,339,65,91,35,0,27,19,51,Colegiul Tehnic „Anghel Saligny” - Corpul F,Bulevardul Vasile Pârvan (Bulevardul 23 August) nr. 22,Bacău,46.5659,26.8886
+42,4,BACĂU,MUNICIPIUL BACĂU,201,63,61,53,0,28,14,52,203,56,64,51,2,35,15,46,Colegiul Tehnic „Anghel Saligny” - Corpul F,Bulevardul Vasile Pârvan (Bulevardul 23 August) nr. 22,Bacău,46.5659,26.8886
+43,4,BACĂU,MUNICIPIUL BACĂU,210,53,80,47,0,41,21,78,208,59,86,47,0,55,21,50,Colegiul „Mihai Eminescu”,Str. Mihai Eminescu (Str. Grivița Roșie) nr. 35,Bacău,46.5648,26.8985
+44,4,BACĂU,MUNICIPIUL BACĂU,219,33,70,33,1,44,12,47,221,37,67,36,1,49,12,36,Colegiul „Mihai Eminescu”,Str. Mihai Eminescu (Str. Grivița Roșie) nr. 35,Bacău,46.5648,26.8985
+45,4,BACĂU,MUNICIPIUL BACĂU,196,98,88,68,4,57,27,82,202,91,92,68,3,70,33,72,Școala Gimnazială „Alexandru Cel Bun”,Bulevardul Ioniță Sandu Sturza (Bulevardul Sandu Ioniță Sturza) nr. 80,Bacău,46.564,26.9029
+46,4,BACĂU,MUNICIPIUL BACĂU,217,56,63,42,2,34,12,45,205,48,61,45,2,53,20,42,Grădinița cu Program Prelungit nr. 12,Str. 9 Mai nr. 11,Bacău,46.5621,26.9134
+47,4,BACĂU,MUNICIPIUL BACĂU,160,63,65,32,4,30,20,56,157,65,70,27,4,46,17,41,Colegiul National „Vasile Alecsandri”,Str. Vasile Alecsandri (Str. Eliberării) nr. 37,Bacău,46.5625,26.9081
+48,4,BACĂU,MUNICIPIUL BACĂU,139,67,72,42,1,43,14,53,141,65,79,39,1,45,14,43,Colegiul National „Vasile Alecsandri”,Str. Vasile Alecsandri (Str. Eliberării) nr. 37,Bacău,46.5625,26.9081
+49,4,BACĂU,MUNICIPIUL BACĂU,147,55,56,49,0,39,15,51,137,56,60,54,0,48,19,43,Colegiul Național de Artă „George Apostu”,Str. Războieni nr. 24,Bacău,46.5639,26.9097
+50,4,BACĂU,MUNICIPIUL BACĂU,231,89,125,57,3,36,30,60,234,88,129,53,3,45,27,46,Colegiul Național Pedagogic „Ștefan Cel Mare”,Str. Spiru Haret nr. 6,Bacău,46.5566,26.9083
+51,4,BACĂU,MUNICIPIUL BACĂU,255,72,86,57,2,43,9,43,248,70,87,47,8,55,15,44,Colegiul Național Pedagogic „Ștefan Cel Mare”,Str. Spiru Haret nr. 6,Bacău,46.5566,26.9083
+52,4,BACĂU,MUNICIPIUL BACĂU,216,57,96,36,0,35,17,58,212,45,104,36,1,37,22,65,Școala Gimnazială „George Bacovia”,Str. Carpați nr. 12A,Bacău,46.5508,26.9104
+53,4,BACĂU,MUNICIPIUL BACĂU,207,67,72,37,1,33,12,62,209,72,67,40,1,38,16,50,Școala Gimnazială „George Bacovia”,Str. Carpați nr. 12A,Bacău,46.5508,26.9104
+54,4,BACĂU,MUNICIPIUL BACĂU,240,48,94,50,1,23,12,45,238,49,91,49,2,32,14,40,Grădinița cu Program Prelungit nr. 28,Str. Carpați nr. 8,Bacău,46.5518,26.9097
+55,4,BACĂU,MUNICIPIUL BACĂU,184,31,81,31,1,13,6,41,193,39,78,30,3,14,5,31,Grădinița cu Program Prelungit nr. 28,Str. Carpați nr. 8,Bacău,46.5518,26.9097
+56,4,BACĂU,MUNICIPIUL BACĂU,233,41,73,20,0,23,15,37,230,44,67,20,2,31,17,37,Grădinița cu Program Prelungit nr. 28,Str. Carpați nr. 8,Bacău,46.5518,26.9097
+57,4,BACĂU,MUNICIPIUL BACĂU,220,48,92,36,1,35,32,90,214,52,95,39,1,35,32,82,Școala Gimnazială „Domnița Maria”,Str. Bicaz nr. 126,Bacău,46.5436,26.9143
+58,4,BACĂU,MUNICIPIUL BACĂU,210,34,87,32,2,27,22,74,214,36,93,28,1,30,22,61,Școala Gimnazială „Domnița Maria”,Str. Bicaz nr. 126,Bacău,46.5436,26.9143
+59,4,BACĂU,MUNICIPIUL BACĂU,259,73,90,42,4,29,10,56,247,75,89,43,4,40,15,49,Școala Gimnazială „Domnița Maria”,Str. Bicaz nr. 126,Bacău,46.5436,26.9143
+60,4,BACĂU,MUNICIPIUL BACĂU,220,41,77,28,0,40,13,57,232,47,75,25,0,38,13,44,Școala Gimnazială „Domnița Maria”,Str. Bicaz nr. 126,Bacău,46.5436,26.9143
+61,4,BACĂU,MUNICIPIUL BACĂU,255,75,108,50,0,60,17,77,259,75,113,41,0,65,26,72,Școala Gimnazială „Domnița Maria”,Str. Bicaz nr. 126,Bacău,46.5436,26.9143
+62,4,BACĂU,MUNICIPIUL BACĂU,169,47,82,37,1,28,22,59,175,47,84,38,1,23,21,58,Școala Gimnazială „Dr.Alexandru Șafran”,Str. Henri Coandă (Str. Micronului) nr. 1,Bacău,46.5352,26.915
+63,4,BACĂU,MUNICIPIUL BACĂU,275,59,68,50,2,33,19,64,272,66,72,47,1,45,21,49,Școala Gimnazială „Dr.Alexandru Șafran”,Str. Henri Coandă (Str. Micronului) nr. 1,Bacău,46.5352,26.915
+64,4,BACĂU,MUNICIPIUL BACĂU,260,53,80,39,0,23,7,53,262,58,76,40,1,32,12,48,Grădinița cu Program Prelungit nr. 24,Str. Aviatorilor (Aleea Aviatorilor) nr. 6,Bacău,46.5364,26.9153
+65,4,BACĂU,MUNICIPIUL BACĂU,244,52,74,44,1,28,14,49,246,53,78,46,2,24,17,42,Colegiul „Grigore Antipa”,Str. Henri Coandă (Str. Micronului) nr. 7,Bacău,46.5331,26.9174
+66,4,BACĂU,MUNICIPIUL BACĂU,266,62,84,41,2,47,18,85,267,73,83,44,4,56,18,59,Colegiul Tehnic „Dumitru Mangeron” (Fost Grup Școlar Industrial „Letea”),Str. Letea nr. 26,Bacău,46.5418,26.9214
+67,4,BACĂU,MUNICIPIUL BACĂU,297,77,75,40,1,40,14,69,286,79,76,44,3,49,16,58,Școala Gimnazială nr. 10,Str. Pictor Ion Andreescu nr. 1,Bacău,46.5505,26.9152
+68,4,BACĂU,MUNICIPIUL BACĂU,264,59,79,34,0,23,15,64,255,66,85,32,0,33,13,54,Școala Gimnazială nr. 10,Nr. 1,Bacău,46.5505,26.9152
+69,4,BACĂU,MUNICIPIUL BACĂU,134,48,69,50,1,24,16,53,135,52,70,43,1,28,14,54,Școala Gimnazială nr. 10,Str. Pictor Ion Andreescu nr. 1,Bacău,46.5505,26.9152
+70,4,BACĂU,MUNICIPIUL BACĂU,231,52,71,33,1,26,16,56,228,48,69,33,1,34,19,55,Colegiul „Grigore Antipa” Bacau,Str. Henri Coandă (Str. Micronului) nr. 7,Bacău,46.5331,26.9174
+71,4,BACĂU,MUNICIPIUL BACĂU,172,43,63,33,1,18,10,52,169,43,70,28,2,24,13,44,Colegiul Tehnic „Dumitru Mangeron”,Str. Aeroportului nr. 5,Bacău,46.5326,26.9172
+72,4,BACĂU,MUNICIPIUL BACĂU,184,45,87,35,1,53,16,72,195,59,84,36,2,50,15,46,Colegiul Tehnic „Dumitru Mangeron”,Str. Aeroportului nr. 5,Bacău,46.5326,26.9172
+73,4,BACĂU,MUNICIPIUL BACĂU,136,21,36,18,1,15,9,35,139,21,36,19,1,13,10,34,Școala Primară nr. 1,Str. Ciprian Porumbescu nr. 5,Bacău,46.5358,26.9298
+74,4,BACĂU,MUNICIPIUL BACĂU,131,26,57,21,0,10,17,54,134,26,57,28,0,9,15,41,Școala Primară nr. 1,Str. Ciprian Porumbescu nr. 5,Bacău,46.5358,26.9298
+75,4,BACĂU,MUNICIPIUL BACĂU,171,30,57,15,3,21,11,32,178,30,57,18,1,18,10,31,Școala Gimnazială „Octavian Voicu”,Str. Bicaz nr. 17,Bacău,46.5343,26.9211
+76,4,BACĂU,MUNICIPIUL BACĂU,167,31,63,23,1,19,7,39,168,29,62,24,2,21,8,38,Școala Gimnazială „Octavian Voicu”,Str. Bicaz nr. 17,Bacău,46.5343,26.9211
+77,4,BACĂU,MUNICIPIUL BACĂU,195,37,69,25,1,23,17,62,198,38,71,24,1,23,16,56,Școala Gimnazială „Octavian Voicu”,Str. Bicaz nr. 17,Bacău,46.5343,26.9211
+78,4,BACĂU,MUNICIPIUL BACĂU,188,35,55,28,1,27,14,36,194,32,62,26,1,29,13,31,Școala Gimnazială „Octavian Voicu”,Str. Bicaz nr. 17,Bacău,46.5343,26.9211
+79,4,BACĂU,MUNICIPIUL BACĂU,188,39,54,38,1,22,21,45,190,36,57,36,2,26,18,41,Grădinița cu Program Prelungit „Dumbrava Minunată”,Str. Bicaz nr. 17,Bacău,46.5347,26.921
+80,4,BACĂU,MUNICIPIUL BACĂU,156,40,46,5,2,20,13,49,164,40,49,6,3,18,16,42,Grădinița cu Program Prelungit „Dumbrava Minunată”,Str. Bicaz nr. 17,Bacău,46.5347,26.921
+81,4,BACĂU,MUNICIPIUL BACĂU,201,43,39,23,0,30,13,45,200,46,43,23,0,33,9,35,Grădinița cu Program Prelungit nr. 31,Str. Bicaz nr. 3,Bacău,46.5384,26.9199
+82,4,BACĂU,MUNICIPIUL BACĂU,215,55,77,27,1,32,13,50,221,54,82,26,1,31,11,42,Școala Gimnazială „Nicolae Iorga”,Str. Bicaz nr. 3,Bacău,46.5389,26.9197
+83,4,BACĂU,MUNICIPIUL BACĂU,199,33,67,30,1,26,11,41,192,40,65,34,2,29,14,36,Școala Gimnazială „Nicolae Iorga”,Str. Bicaz nr. 3,Bacău,46.5389,26.9197
+84,4,BACĂU,MUNICIPIUL BACĂU,260,65,52,41,3,28,14,60,266,70,55,37,2,27,15,53,Școala Gimnazială „Nicolae Iorga”,Str. Bicaz nr. 3,Bacău,46.5389,26.9197
+85,4,BACĂU,MUNICIPIUL BACĂU,229,49,79,40,4,36,14,50,238,50,81,35,2,34,21,53,Școala Gimnazială „Nicolae Iorga”,Str. Bicaz nr. 3,Bacău,46.5389,26.9197
+86,4,BACĂU,MUNICIPIUL BACĂU,249,73,78,29,0,35,8,56,255,78,80,30,1,40,12,44,Colegiul Tehnic „Dumitru Mangeron” (Fostul Grup Școlar Ind. Letea),Str. Letea nr. 24,Bacău,46.5418,26.9214
+87,4,BACĂU,MUNICIPIUL BACĂU,246,36,95,33,1,22,19,59,246,38,97,26,2,28,18,53,Colegiul Tehnic „Dumitru Mangeron” (Fostul Grup Școlar Ind. Letea),Str. Letea nr. 24,Bacău,46.5418,26.9214
+88,4,BACĂU,MUNICIPIUL BACĂU,167,64,53,28,1,28,13,40,159,58,60,28,1,36,11,37,Grădinița cu Program Prelungit nr. 21 (Corpul I),Str. Pictor Ion Andreescu nr. 5,Bacău,46.5517,26.9162
+89,4,BACĂU,MUNICIPIUL BACĂU,171,59,64,36,0,36,9,53,160,59,67,42,0,55,11,40,Universitatea „Vasile Alecsandri” - Corpul A,Calea Mărășești nr. 157,Bacău,46.5545,26.9127
+90,4,BACĂU,MUNICIPIUL BACĂU,136,48,72,39,2,20,13,42,143,48,69,38,2,34,14,27,Universitatea „Vasile Alecsandri” - Corpul A,Calea Mărășești nr. 157,Bacău,46.5545,26.9127
+91,4,BACĂU,MUNICIPIUL BACĂU,205,27,38,69,1,12,9,40,210,28,43,51,1,15,11,41,Grădnița cu Program Prelungit nr. 30,Str. Alecu Russo nr. 23,Bacău,46.5523,26.9203
+92,4,BACĂU,MUNICIPIUL BACĂU,183,19,35,57,2,33,12,33,190,19,38,48,2,35,11,28,Grădnița cu Program Prelungit nr. 30,Str. Alecu Russo nr. 23,Bacău,46.5523,26.9203
+93,4,BACĂU,MUNICIPIUL BACĂU,152,47,62,30,2,30,13,52,160,44,62,28,2,29,19,51,Școala Gimnazială „Ion Luca”,Str. Alecu Russo nr. 37,Bacău,46.5501,26.9199
+94,4,BACĂU,MUNICIPIUL BACĂU,233,56,58,34,2,26,7,53,238,61,60,29,2,32,9,46,Școala Gimnazială „Ion Luca”,Str. Alecu Russo nr. 37,Bacău,46.5501,26.9199
+95,4,BACĂU,MUNICIPIUL BACĂU,220,40,70,33,0,21,12,55,218,40,74,37,0,26,15,49,Școala Gimnazială „Ion Luca”,Str. Alecu Russo nr. 37,Bacău,46.5501,26.9199
+96,4,BACĂU,MUNICIPIUL BACĂU,221,30,54,18,3,23,6,22,215,32,51,17,2,24,7,25,Școala Gimnazială „Ion Luca”,Str. Alecu Russo nr. 37,Bacău,46.5501,26.9199
+97,4,BACĂU,MUNICIPIUL BACĂU,241,38,57,38,2,28,11,40,247,39,61,39,0,33,12,32,Grădinița cu Program Prelungit nr. 27,Str. Alecu Russo nr. 59,Bacău,46.5486,26.9181
+98,4,BACĂU,MUNICIPIUL BACĂU,205,36,67,35,6,33,12,42,208,29,75,34,2,38,13,43,Grădinița cu Program Prelungit nr. 27,Str. Alecu Russo nr. 59,Bacău,46.5486,26.9181
+99,4,BACĂU,MUNICIPIUL BACĂU,258,24,58,52,0,21,20,52,260,26,56,44,0,24,23,55,Școala Gimnazială „Alecu Russo”,Str. Alecu Russo nr. 5,Bacău,46.555,26.9209
+100,4,BACĂU,MUNICIPIUL BACĂU,249,36,55,44,0,18,14,61,264,38,55,41,1,15,14,53,Școala Gimnazială „Alecu Russo”,Str. Alecu Russo nr. 5,Bacău,46.555,26.9209
+101,4,BACĂU,MUNICIPIUL BACĂU,171,41,41,56,1,22,16,45,171,43,45,52,1,24,18,40,Școala Gimnazială „Alecu Russo”,Str. Alecu Russo nr. 5,Bacău,46.555,26.9209
+102,4,BACĂU,MUNICIPIUL BACĂU,260,45,83,37,2,40,18,67,270,44,89,31,2,43,20,60,Bazinul Olimpic Bacău,Aleea Ghioceilor (Aleea Fagului) nr. 12,Bacău,46.5579,26.919
+103,4,BACĂU,MUNICIPIUL BACĂU,83,14,23,25,1,9,3,13,87,14,22,23,1,10,3,10,Bazinul Olimpic Bacău,Aleea Ghioceilor (Aleea Fagului) nr. 12,Bacău,46.5579,26.919
+104,4,BACĂU,MUNICIPIUL BACĂU,158,45,52,18,1,25,13,36,162,43,58,16,1,24,14,32,Universitatea „George Bacovia”,Str. Pictor Theodor Aman nr. 96,Bacău,46.5596,26.914
+105,4,BACĂU,MUNICIPIUL BACĂU,109,38,46,21,1,26,0,33,113,41,43,17,1,27,2,30,Universitatea „George Bacovia”,Nr. 96,Bacău,46.5596,26.914
+106,4,BACĂU,MUNICIPIUL BACĂU,322,77,104,45,1,43,34,84,320,81,97,54,2,52,32,69,Căminul Pentru Persoane Vârstnice Bacău,Aleea Ghioceilor (Aleea Fagului) nr. 2,Bacău,46.5602,26.918
+107,4,BACĂU,MUNICIPIUL BACĂU,187,30,62,21,2,28,14,44,198,27,63,19,2,23,16,39,Școala Gimnazială „Miron Costin”,Str. Miron Costin nr. 64,Bacău,46.559,26.9201
+108,4,BACĂU,MUNICIPIUL BACĂU,215,81,100,47,2,37,16,64,220,82,98,44,3,46,15,57,Școala Gimnazială „Miron Costin”,Str. Miron Costin nr. 64,Bacău,46.559,26.9201
+109,4,BACĂU,MUNICIPIUL BACĂU,271,82,76,56,1,54,12,60,274,84,75,52,1,56,12,53,Școala Gimnazială „Miron Costin”,Str. Miron Costin nr. 64,Bacău,46.559,26.9201
+110,4,BACĂU,MUNICIPIUL BACĂU,184,49,53,34,1,28,7,30,179,46,57,31,3,35,7,32,Grădinița cu Program Prelungit nr. 23,Str. Mircea Eliade (Str. I. V. Miciurin) nr. 6,Bacău,46.5594,26.9222
+111,4,BACĂU,MUNICIPIUL BACĂU,233,32,67,33,2,23,12,41,241,34,66,30,1,27,12,36,Grădinița cu Program Prelungit nr. 23,Str. Mircea Eliade (Str. I. V. Miciurin) nr. 6,Bacău,46.5594,26.9222
+112,4,BACĂU,MUNICIPIUL BACĂU,248,87,78,34,3,38,15,53,241,88,86,33,2,38,17,49,Grădinița cu Program Prelungit nr. 33,Str. Apostu George (Str. Alexandru cel Bun) (D) nr. 10,Bacău,46.5628,26.9211
+113,4,BACĂU,MUNICIPIUL BACĂU,196,77,76,55,1,48,17,55,193,78,79,55,2,49,16,56,Liceul cu Program Sportiv,Str. Apostu George (Str. Alexandru cel Bun) (D) nr. 43,Bacău,46.5649,26.9163
+114,4,BACĂU,MUNICIPIUL BACĂU,182,98,106,47,1,33,23,71,182,101,106,45,1,40,26,62,Liceul cu Program Sportiv,Str. Apostu George (Str. Alexandru cel Bun) (D) nr. 43,Bacău,46.5649,26.9163
+115,4,BACĂU,MUNICIPIUL BACĂU,189,88,100,50,1,39,15,63,184,93,104,54,1,46,17,53,Liceul cu Program Sportiv,Str. Apostu George (Str. Alexandru cel Bun) (D) nr. 43,Bacău,46.5649,26.9163
+116,4,BACĂU,MUNICIPIUL BACĂU,240,118,121,50,1,40,20,66,249,110,126,50,2,40,17,60,Școala Gimnazială „Costantin Platon”,Str. 9 Mai nr. 64,Bacău,46.5677,26.9167
+117,4,BACĂU,MUNICIPIUL BACĂU,270,100,103,66,1,49,19,73,266,110,107,62,1,58,26,62,Școala Gimnazială „Costantin Platon”,Str. 9 Mai nr. 64,Bacău,46.5677,26.9167
+118,4,BACĂU,MUNICIPIUL BACĂU,190,120,125,37,2,48,22,72,195,124,121,46,3,55,18,50,Școala Gimnazială „Costantin Platon”,Str. 9 Mai nr. 64,Bacău,46.5677,26.9167
+119,4,BACĂU,MUNICIPIUL BACĂU,140,96,84,21,1,35,23,70,144,83,87,28,1,43,19,57,Colegiul Economic „Ion Ghica”,Str. 9 Mai nr. 104,Bacău,46.5698,26.9159
+120,4,BACĂU,MUNICIPIUL BACĂU,164,23,59,11,1,23,5,30,159,24,58,10,1,23,5,32,Colegiul Economic „Ion Ghica”,Str. 9 Mai nr. 104,Bacău,46.5698,26.9159
+121,4,BACĂU,MUNICIPIUL BACĂU,223,56,101,42,1,29,14,48,227,57,98,43,3,31,18,47,Liceul Tehnologic „Petru Rareș”,Str. Tecuciului nr. 17,Bacău,46.5732,26.9332
+122,4,BACĂU,MUNICIPIUL BACĂU,189,32,101,35,0,25,13,60,189,34,95,39,1,37,13,46,Liceul Tehnologic „Petru Rareș”,Str. Tecuciului nr. 17,Bacău,46.5732,26.9332
+123,4,BACĂU,MUNICIPIUL BACĂU,169,60,65,29,2,22,12,51,169,64,63,31,2,30,18,43,Școala Gimnazială „Nicu Enea”,Calea Romanului nr. 144,Bacău,46.5852,26.9307
+124,4,BACĂU,MUNICIPIUL BACĂU,206,61,70,38,1,36,18,51,207,62,75,40,1,40,17,36,Școala Gimnazială „Nicu Enea”,Calea Romanului nr. 144,Bacău,46.5852,26.9307
+125,4,BACĂU,MUNICIPIUL BACĂU,184,60,78,23,0,30,13,55,189,60,83,28,0,32,12,42,Școala Gimnazială „Nicu Enea”,Calea Romanului nr. 144,Bacău,46.5852,26.9307
+512,4,BACĂU,PÎRGĂREŞTI,59,2,32,5,3,47,2,6,62,2,35,4,2,42,2,6,Grădinița cu Program Normal Bahna,Str. Mihail Sadoveanu nr. 98,Bahna,46.223,26.6512
+248,4,BACĂU,BALCANI,191,12,48,27,1,17,9,38,194,12,49,29,2,19,12,36,Primăria Balcani,,Balcani,46.647,26.5654
+441,4,BACĂU,MĂRGINENI,275,45,110,31,3,29,10,58,283,41,110,33,3,29,16,48,Școala cu Clasele I-VIII Barați,,Barați,46.5748,26.8701
+544,4,BACĂU,RĂCHITOASA,52,1,92,13,1,2,3,13,51,1,101,14,1,2,3,9,Școala cu Clasele . I-IV Satul Barcana,,Barcana,46.488,27.3614
+581,4,BACĂU,STĂNIŞEŞTI,108,3,11,24,0,2,1,9,108,2,13,31,1,2,1,3,Școala Satul Benești,,Benești,46.3596,27.3388
+551,4,BACĂU,SASCUT,275,5,79,36,0,8,2,23,279,7,74,32,1,8,3,21,Școala Generală cu Clasele I-IV Beresti,,Berești,46.2009,27.1433
+255,4,BACĂU,BEREŞTI-BISTRIŢA,265,10,39,9,1,13,3,20,278,11,36,9,1,14,3,10,Căminul Cultural Berești-Bistrița,,Berești-Bistrița,46.71,26.8546
+259,4,BACĂU,BEREŞTI-TAZLĂU,273,11,17,5,1,10,2,20,281,7,17,5,0,13,3,12,Școala cu Clasele I-VIII Berești-Tazlău,,Berești-Tazlău,46.4708,26.6848
+266,4,BACĂU,BERZUNŢI,113,10,40,4,2,231,4,17,119,9,44,3,2,227,5,17,Școala cu Clasele I-VIII Alexandru Cel Bun Berzunți,,Berzunți,46.4077,26.6444
+267,4,BACĂU,BERZUNŢI,77,2,26,3,1,83,2,7,82,3,27,5,0,83,2,6,Școala cu Clasele I-IV nr. 2 Berzunți,,Berzunți,46.4103,26.6777
+616,4,BACĂU,UNGURENI,284,1,37,10,1,2,6,26,287,1,40,11,1,2,5,17,Școala Bibiresti Ii,,Bibirești,46.5181,27.0772
+290,4,BACĂU,BUHOCI,178,9,50,4,0,10,3,39,186,9,58,4,1,11,6,26,Școala cu Clasele I-VIII Bijghir,,Bijghir,46.602,27.0153
+291,4,BACĂU,BUHOCI,127,4,28,6,0,6,3,30,130,5,26,7,0,8,3,17,Școala cu Clasele I-VIII Bijghir,,Bijghir,46.602,27.0153
+298,4,BACĂU,CĂIUŢI,134,4,16,11,1,9,2,11,139,4,16,11,1,10,1,7,Școala Blidari,,Blidari,46.1636,26.9243
+275,4,BACĂU,BLĂGEŞTI,128,6,26,6,0,9,5,15,131,7,26,7,0,9,4,10,Școala cu Clasele I-VIII nr. 1 Blăgești,,Blăgești,46.6906,26.6654
+276,4,BACĂU,BLĂGEŞTI,142,11,16,6,0,14,5,25,148,13,17,6,1,16,3,16,Școala cu Clasele .I-VIII nr. 1 Blăgești,,Blăgești,46.6906,26.6654
+349,4,BACĂU,FILIPEŞTI,20,2,21,5,0,26,4,7,20,2,19,9,1,25,5,10,Școala Boanța,,Boanța,46.7785,26.917
+332,4,BACĂU,DOFTEANA,172,7,44,12,0,14,6,14,176,5,47,11,1,13,3,12,Căminul Cultural Bogata,,Bogata,46.296,26.5606
+569,4,BACĂU,SĂUCEŞTI,116,15,50,14,0,35,3,28,119,18,54,17,0,40,4,11,Școala Satul Bogdan Vodă,,Bogdan Vodă,46.6198,26.9198
+590,4,BACĂU,ŞTEFAN CEL MARE,197,8,13,3,1,6,9,16,195,10,14,3,1,7,9,14,Grădinița cu Program Normal Satul Bogdana,,Bogdana,46.1868,26.8444
+281,4,BACĂU,BOGDĂNEŞTI,175,5,23,17,0,16,12,26,179,4,26,15,0,16,11,19,Școala Gimnazială Bogdănești,Nr. 66,Bogdănești,46.2121,26.6801
+282,4,BACĂU,BOGDĂNEŞTI,198,7,21,22,2,19,4,15,198,8,24,22,1,21,6,10,Școala Gimnazială Bogdănești,Nr. 66,Bogdănești,46.2121,26.6801
+609,4,BACĂU,TRAIAN,30,3,69,6,2,5,0,12,29,6,73,7,1,5,0,6,Școala cu Clasele I-IV Satul Bogdănești,,Bogdănești,46.6653,27.0143
+300,4,BACĂU,CĂIUŢI,41,2,3,5,0,2,1,3,42,2,3,4,0,2,1,3,Școala Boiștea,,Boiștea,46.1899,26.9707
+358,4,BACĂU,GHIMEŞ-FĂGET,43,7,27,10,32,3,2,15,42,6,32,10,35,6,2,10,Școala Generală cu Clasele I-VIII Bolovăniș,,Bolovăniș,46.62,26.0548
+633,4,BACĂU,ZEMEŞ,153,2,112,4,0,31,1,12,153,2,118,3,0,36,1,10,Școala Ion Creangă Zemeș,,Bolătău,46.6239,26.4179
+319,4,BACĂU,COŢOFĂNEŞTI,206,7,47,8,0,5,0,16,206,8,50,9,0,6,5,11,Școala cu Clasele I-VIII Borșani,,Borșani,46.1489,26.9801
+615,4,BACĂU,UNGURENI,173,2,7,8,0,1,1,14,180,2,8,6,0,1,1,11,Căminul Cultural Satul Botești,,Botești,46.565,27.0855
+260,4,BACĂU,BEREŞTI-TAZLĂU,140,2,14,8,1,9,1,5,136,2,15,9,2,9,2,5,Școala Generală Boșoteni,,Boșoteni,46.4992,26.6814
+258,4,BACĂU,BEREŞTI-BISTRIŢA,55,0,10,1,2,3,3,14,59,0,8,1,2,3,3,14,Școala cu Clasele I-IV Brad,,Brad,46.6869,26.8764
+284,4,BACĂU,BRUSTUROASA,248,10,48,3,0,25,3,21,247,10,45,3,1,24,4,20,Primăria Brusturoasa,,Brusturoasa,46.5202,26.1788
+286,4,BACĂU,BRUSTUROASA,113,6,22,1,1,24,1,9,111,7,20,0,1,25,1,10,Școala Primară Cuchiniș,,Brusturoasa,46.5309,26.1546
+273,4,BACĂU,BÎRSĂNEŞTI,126,11,39,3,1,15,6,25,121,12,38,6,5,15,10,26,Școala Gimnazială Brătești,,Brătești,46.3222,26.6437
+379,4,BACĂU,HELEGIU,98,1,36,6,0,73,0,11,97,2,35,4,1,71,4,15,Școala Gimnazială Brătila 2,,Brătila,46.3242,26.7742
+380,4,BACĂU,HELEGIU,144,3,30,8,2,48,1,16,146,5,31,6,2,50,1,10,Școala cu Clasele I-VIII Bratila 1,,Brătila,46.3125,26.7505
+287,4,BACĂU,BUCIUMI,376,11,50,38,2,8,2,27,378,12,58,42,1,12,1,13,Școala Gimnazială Buciumi,,Buciumi,46.2013,26.7836
+527,4,BACĂU,PODURI,225,8,53,8,0,90,6,28,219,8,44,7,0,119,3,17,Școala Satul Bucșești,,Bucșești,46.4842,26.5819
+270,4,BACĂU,BERZUNŢI,62,8,4,2,1,62,2,5,67,8,7,2,0,56,3,8,Școala cu Clasele I-IV Buda,,Buda,46.4227,26.5897
+277,4,BACĂU,BLĂGEŞTI,253,4,59,3,3,31,7,29,260,4,56,4,5,33,7,28,Școala cu Clasele I-VIII nr. 1 Buda,,Buda,46.6741,26.7088
+545,4,BACĂU,RĂCHITOASA,140,4,54,1,1,4,0,11,144,4,54,5,1,2,3,8,Școala cu Clasele .I-VIII Satul Buda,,Buda,46.5148,27.3544
+289,4,BACĂU,BUHOCI,221,28,57,39,0,14,8,35,225,25,62,46,1,13,11,29,Școala cu Clasele I-VIII Buhoci,,Buhoci,46.5674,27.0168
+179,4,BACĂU,ORAŞ BUHUŞI,298,26,78,19,0,20,5,38,294,24,88,20,1,21,11,33,Primăria Oraș Buhuși,Nr. 5,Buhuși,46.7179,26.7042
+180,4,BACĂU,ORAŞ BUHUŞI,241,20,72,18,1,20,9,34,241,20,77,15,1,20,11,31,Colegiul Tehnic Ion Borcea,Nr. 3,Buhuși,46.7195,26.7045
+181,4,BACĂU,ORAŞ BUHUŞI,225,7,72,21,0,17,10,30,219,9,77,23,0,20,9,27,Colegiul Tehnic Ion Borcea,Str. Tineretului (Str. Fedeleș) nr. 3,Buhuși,46.7195,26.7045
+182,4,BACĂU,ORAŞ BUHUŞI,321,26,74,32,1,25,14,48,316,23,86,33,1,22,16,41,Casa de Cultură,Str. Nicolae Bălcescu nr. 2,Buhuși,46.7191,26.703
+183,4,BACĂU,ORAŞ BUHUŞI,272,34,80,22,2,21,22,48,274,36,85,23,3,24,16,36,Școala Gimnazială M.Eminescu,Str. Tineretului (Str. Fedeleș) nr. 1 bis,Buhuși,46.7199,26.7032
+184,4,BACĂU,ORAŞ BUHUŞI,310,29,86,23,1,34,13,47,303,31,95,23,2,37,11,36,Biblioteca Orășenească George Bacovia,Nr. 18,Buhuși,46.7161,26.7044
+185,4,BACĂU,ORAŞ BUHUŞI,237,36,73,18,1,22,11,41,232,36,81,18,0,25,13,34,Școala Gimnazială nr. 2,Str. Florilor nr. 7,Buhuși,46.7147,26.7076
+186,4,BACĂU,ORAŞ BUHUŞI,229,17,61,11,0,23,7,30,234,25,70,11,0,13,7,17,Complexul de Servicii Comunitare,Nr. 70,Buhuși,46.7103,26.7052
+187,4,BACĂU,ORAŞ BUHUŞI,195,21,63,19,0,22,6,35,194,20,65,17,1,27,9,31,Școala Gimnazială Ștefan Cel Mare,Str. Libertății nr. 225,Buhuși,46.7107,26.7031
+188,4,BACĂU,ORAŞ BUHUŞI,272,11,72,11,1,13,6,26,269,9,81,13,0,16,6,25,Școala Gimnazială Mihai Andrei,Str. Libertății nr. 143,Buhuși,46.7177,26.6928
+189,4,BACĂU,ORAŞ BUHUŞI,223,15,103,20,1,25,9,31,209,14,120,22,1,30,9,25,Sala Polivalentă Moldova,Str. Libertății nr. 105,Buhuși,46.7216,26.688
+190,4,BACĂU,ORAŞ BUHUŞI,199,6,31,10,0,9,7,27,199,7,33,10,0,12,11,21,Școala Gimnazială,Str. Orbic nr. 246,Buhuși,46.7481,26.6869
+543,4,BACĂU,RĂCHITOASA,127,6,69,9,1,3,3,17,135,7,69,15,3,1,3,7,Școala cu Clasele.I-VIII Satul Burdusaci,,Burdusaci,46.369,27.4025
+320,4,BACĂU,COŢOFĂNEŞTI,231,4,29,5,1,6,2,9,233,3,30,4,1,7,2,10,Școala cu Clasele I-IV Bîlca,,Bâlca,46.136,26.9739
+271,4,BACĂU,BÎRSĂNEŞTI,268,14,60,30,0,12,10,44,256,16,70,25,2,12,15,39,Primăria Bîrsănești,,Bârsănești,46.3326,26.709
+316,4,BACĂU,CORBASCA,241,1,12,4,0,3,0,13,244,4,13,3,0,3,0,8,Școala cu Clasele.I-VIII Băcioiu,,Băcioiu,46.3123,27.1561
+496,4,BACĂU,PÂRJOL,124,4,50,5,2,21,5,12,124,5,47,5,2,28,7,8,Școala Satul Băhnășeni,,Băhnășeni,46.5712,26.5785
+421,4,BACĂU,LIVEZI,167,5,19,22,0,18,3,12,168,6,21,23,1,19,6,10,Școala Primară Bălăneasa,,Bălăneasa,46.3874,26.7315
+562,4,BACĂU,SĂRATA,206,24,43,19,2,26,9,44,205,22,43,20,1,28,10,49,Școala nr. 2 Sărata (Școala din Catun Dealu Nou),,Bălțata,46.5011,26.8715
+497,4,BACĂU,PÂRJOL,32,0,27,4,2,16,3,6,37,0,27,2,2,18,3,7,Școala Satul Bărnești,,Bărnești,46.5923,26.574
+614,4,BACĂU,UNGURENI,140,0,5,3,0,0,0,3,135,0,6,3,0,0,0,1,Școala Satul Bărtășești,,Bărtășești,46.5915,27.1251
+498,4,BACĂU,PÂRJOL,67,0,34,3,1,10,7,18,70,1,36,2,4,10,7,14,Școala Satul Băsești,,Băsăști,46.6191,26.6012
+285,4,BACĂU,BRUSTUROASA,156,1,53,3,0,19,3,14,153,2,58,2,0,18,4,14,Școala Primară Camenca,,Camenca,46.5272,26.1944
+377,4,BACĂU,GURA VĂII,64,2,54,2,1,5,0,9,67,2,54,2,1,5,2,7,Școala Capăta,,Capăta,46.3258,26.8822
+274,4,BACĂU,BÎRSĂNEŞTI,226,7,32,8,1,23,17,52,236,6,39,7,2,25,23,35,Școala Gimnazială Caraclău,,Caraclău,46.3058,26.716
+293,4,BACĂU,CAŞIN,217,12,68,8,0,23,11,103,258,11,85,8,2,38,15,39,Școala Gimnazială N.Pâslaru Cașin,,Cașin,46.1979,26.7442
+294,4,BACĂU,CAŞIN,154,21,70,14,0,28,6,88,180,25,80,20,2,38,11,25,Școala Gimnazială N.Pâslaru Cașin,,Cașin,46.1979,26.7442
+220,4,BACĂU,ORAŞ SLĂNIC-MOLDOVA,127,11,88,12,0,19,3,17,128,9,90,14,0,21,5,12,Școala Gimnazială nr. 3,Nr. 24,Cerdac,46.2364,26.5274
+528,4,BACĂU,PODURI,246,4,35,5,1,50,4,19,245,4,34,9,0,59,6,12,Școala Satul Cernu,,Cernu,46.4749,26.5905
+596,4,BACĂU,TAMAŞI,264,13,33,2,1,5,4,24,272,11,32,2,1,4,4,8,Școala cu Clasele I-VIII Satul Chetriș,,Chetriș,46.4667,26.9901
+575,4,BACĂU,SECUIENI,32,2,10,2,0,36,0,6,36,3,10,3,0,36,0,4,Școala Satul Chiticeni,,Chiticeni,46.6653,27.0927
+244,4,BACĂU,ASĂU,95,8,25,7,1,12,6,16,98,8,23,6,1,13,7,12,Școala cu Clasele I-IV Ciobănuș,,Ciobănuș,46.4448,26.339
+222,4,BACĂU,ORAŞ SLĂNIC-MOLDOVA,169,13,158,25,3,25,3,30,164,15,158,24,5,24,6,26,Școala nr. 2 Ciresoaia,,Cireșoaia,46.2483,26.5474
+539,4,BACĂU,RĂCĂCIUNI,78,5,44,7,3,5,2,23,82,10,51,8,4,3,4,9,Școala cu Clasele I-IV Satul Ciucani,,Ciucani,46.3641,26.9256
+482,4,BACĂU,PALANCA,414,3,24,5,2,5,5,24,421,4,25,4,1,6,4,18,Căminul Cultural Satul Ciugheș,,Ciugheș,46.515,26.1197
+401,4,BACĂU,ITEŞTI,28,3,29,8,0,0,2,5,28,3,31,8,0,0,2,3,Căminul Cultural Ciumași,,Ciumași,46.6798,26.8339
+465,4,BACĂU,ODOBEŞTI,219,10,32,10,0,14,1,16,223,8,34,12,1,11,0,14,Școala cu Clasele I-VIII Ciuturești,,Ciuturești,46.6949,27.1255
+304,4,BACĂU,CLEJA,74,9,193,14,9,14,0,22,77,9,203,15,11,12,1,13,Școala nr. 1 Cleja,,Cleja,46.4124,26.9155
+305,4,BACĂU,CLEJA,57,23,186,12,9,11,4,28,56,23,187,12,8,13,3,25,Școala nr. 1 Cleja,,Cleja,46.4124,26.9155
+306,4,BACĂU,CLEJA,87,27,216,10,9,10,5,23,86,27,217,12,11,9,6,19,Școala nr. 2 Cleja,,Cleja,46.4034,26.9414
+257,4,BACĂU,BEREŞTI-BISTRIŢA,75,0,7,3,0,12,1,6,77,0,7,3,1,12,1,4,Școala cu Clasele I-IV Climești,,Climești,46.7228,26.8477
+449,4,BACĂU,MOTOŞENI,70,1,16,3,0,2,0,9,75,1,14,4,0,3,0,8,Școala Satul Cociu,,Cociu,46.2888,27.4322
+309,4,BACĂU,COLONEŞTI,398,1,47,9,0,8,4,35,409,2,55,10,3,8,7,20,Școala Gimnazială Colonești,,Colonești,46.5781,27.3004
+559,4,BACĂU,SĂNDULENI,239,3,33,1,4,6,2,16,247,3,32,3,4,5,2,11,Școala Generală cu Clasele I-VIII Coman,,Coman,46.4767,26.7718
+191,4,BACĂU,ORAŞ COMĂNEŞTI,240,29,126,15,2,37,19,45,256,32,108,15,2,44,14,36,Centrul 5,Str. Tudor Vladimirescu nr. 7,Comănești,46.4257,26.4443
+192,4,BACĂU,ORAŞ COMĂNEŞTI,282,18,123,14,0,34,6,27,285,16,118,14,1,41,6,23,Școala Ciprian Porumbescu,Str. Republicii nr. 86,Comănești,46.4209,26.4455
+193,4,BACĂU,ORAŞ COMĂNEŞTI,300,9,168,12,2,22,26,39,313,10,152,15,1,31,21,35,Școala Ciprian Porumbescu,Str. Republicii nr. 86,Comănești,46.4209,26.4455
+194,4,BACĂU,ORAŞ COMĂNEŞTI,69,1,83,3,0,10,3,11,66,4,81,3,1,7,5,12,Școala Ciprian Porumbescu,Str. Republicii nr. 86,Comănești,46.4209,26.4455
+195,4,BACĂU,ORAŞ COMĂNEŞTI,264,20,173,18,1,52,19,47,262,21,164,21,1,60,20,44,Biblioteca Orașului Comănești,Str. Republicii nr. 21,Comănești,46.4216,26.4409
+196,4,BACĂU,ORAŞ COMĂNEŞTI,237,33,170,28,0,38,17,46,242,34,161,28,0,47,20,37,Școala Liviu Rebreanu,,Comănești,46.4214,26.4341
+197,4,BACĂU,ORAŞ COMĂNEŞTI,129,24,102,26,0,31,5,23,134,27,90,23,0,36,6,22,Școala Liviu Rebreanu,Str. Speranței (Str. Abatorului) nr. 11,Comănești,46.4214,26.4341
+198,4,BACĂU,ORAŞ COMĂNEŞTI,81,10,64,3,0,16,3,11,78,9,58,2,0,27,3,9,Școala Liviu Rebreanu,Str. Speranței (Str. Abatorului) nr. 11,Comănești,46.4214,26.4341
+199,4,BACĂU,ORAŞ COMĂNEŞTI,219,23,168,9,0,34,15,32,221,25,153,15,0,41,15,28,Primăria Orașului Comănești,Str. Ciobănuș nr. 2,Comănești,46.4233,26.4341
+200,4,BACĂU,ORAŞ COMĂNEŞTI,260,9,158,6,0,18,12,37,276,10,149,7,0,17,13,31,Școala Șupan,Str. Șoimului nr. 35,Comănești,46.4205,26.43
+201,4,BACĂU,ORAŞ COMĂNEŞTI,297,15,135,10,0,21,14,35,298,15,120,13,0,33,14,31,Școala Lăloaia,Str. Cuza Vodă nr. 7,Comănești,46.4256,26.4138
+202,4,BACĂU,ORAŞ COMĂNEŞTI,298,13,168,16,0,28,9,24,309,13,169,16,1,27,8,24,Școala nr. 5 Bis Sublăloaia,Str. Libertății nr. 98,Comănești,46.4337,26.3935
+203,4,BACĂU,ORAŞ COMĂNEŞTI,154,6,76,4,1,9,5,18,157,9,73,3,1,14,5,13,Școala Costachi S.Ciocan Lăloaia,Str. Petru Rareș,Comănești,46.425,26.407
+204,4,BACĂU,ORAŞ COMĂNEŞTI,297,9,125,2,1,20,9,28,305,11,121,4,1,24,10,24,Școala nr. 3 Leorda,Str. Progresului nr. 43,Comănești,46.431,26.4423
+205,4,BACĂU,ORAŞ COMĂNEŞTI,275,19,117,10,1,18,15,45,268,19,111,11,2,32,16,39,Școala Dimitrie Ghica Zăvoi,Str. Liceului nr. 35,Comănești,46.4237,26.4527
+206,4,BACĂU,ORAŞ COMĂNEŞTI,140,11,148,6,1,13,6,28,143,9,147,8,2,14,7,23,Școala Vermești,Str. Cireșoaia nr. 68,Comănești,46.4209,26.4739
+207,4,BACĂU,ORAŞ COMĂNEŞTI,109,8,64,5,0,20,9,14,110,7,61,5,0,24,7,13,Clădire Șipoteni (fostă Școală Șipoteni),Str. Moldovei nr. 55,Comănești,46.4081,26.4728
+552,4,BACĂU,SASCUT,111,2,22,8,2,12,3,13,111,1,19,9,2,14,5,10,Școala cu Clasele I-IV Satul Contesti,,Conțești,46.1666,27.0782
+312,4,BACĂU,CORBASCA,190,6,13,11,0,8,5,12,191,4,11,13,0,9,6,11,Cămin Cultural Corbasca,,Corbasca,46.2848,27.1566
+599,4,BACĂU,TĂTĂRĂŞTI,199,4,14,8,1,3,6,14,199,3,14,7,0,4,6,15,Școala Gimnazială Satul Cornii de Sus,,Cornii de Sus,46.2178,27.1815
+618,4,BACĂU,URECHEŞTI,148,14,58,10,0,21,5,18,153,11,57,10,0,23,7,18,Căminul Cultural Satul Cornățel,,Cornățel,46.1302,27.0433
+292,4,BACĂU,BUHOCI,122,14,29,12,0,5,4,37,135,19,33,11,0,5,2,16,Școala cu Clasele I-IV Coteni,,Coteni,46.5324,27
+233,4,BACĂU,AGĂŞ,182,3,50,6,2,31,14,30,192,5,47,7,2,28,15,27,Școala cu Clasele I-IV Cotumba,,Cotumba,46.5005,26.2002
+235,4,BACĂU,AGĂŞ,43,1,15,4,33,14,1,4,41,3,12,5,32,14,1,8,Căminul Cultural Coșnea,,Coșnea,46.4354,26.0842
+318,4,BACĂU,COŢOFĂNEŞTI,373,15,66,17,0,22,10,29,372,13,70,15,0,25,13,35,Primăria Coțofănești,,Coțofănești,46.1478,26.9956
+433,4,BACĂU,MĂGURA,66,22,90,22,1,18,6,21,65,22,89,23,2,17,8,21,Școala Generală Crihan,,Crihan,46.5706,26.8273
+582,4,BACĂU,STĂNIŞEŞTI,96,0,5,40,0,1,0,22,93,0,3,63,0,2,1,5,Școala Satul Crăiești,,Crăiești,46.3866,27.3388
+625,4,BACĂU,VALEA SEACĂ,207,3,28,4,0,7,1,8,214,2,30,4,0,9,1,2,Școala Primară Cucova,,Cucova,46.2532,27.0444
+333,4,BACĂU,DOFTEANA,209,8,48,12,0,8,4,10,209,11,47,12,1,10,4,8,Școala Generală cu Clasele I-VIII Cucuieti,,Cucuieți,46.3272,26.5536
+334,4,BACĂU,DOFTEANA,235,8,46,15,1,10,6,18,234,12,42,18,2,12,5,13,Școala Generală cu Clasele I-VIII Cucuieti,,Cucuieți,46.3272,26.5536
+579,4,BACĂU,SOLONŢ,286,4,33,5,3,16,11,29,284,3,37,5,2,19,11,25,Școala cu Clasele I-VIII Satul Cucuieți,,Cucuieți,46.589,26.528
+295,4,BACĂU,CAŞIN,128,3,76,5,0,7,1,32,131,11,83,8,0,15,1,12,Grădinița Curița,,Curița,46.1897,26.718
+500,4,BACĂU,PÂRJOL,80,3,46,9,2,9,4,18,79,6,41,9,2,11,7,15,Școala Satul Cîmpeni,,Câmpeni,46.5976,26.6224
+347,4,BACĂU,FILIPEŞTI,133,16,22,24,1,37,6,18,134,17,23,23,0,37,9,16,Școala Cîrligi,,Cârligi,46.7656,26.8474
+520,4,BACĂU,PODU TURCULUI,180,5,32,23,0,6,3,26,175,7,36,27,0,7,4,19,Căminul Cultural Satul Căbești,,Căbești,46.202,27.4409
+483,4,BACĂU,PALANCA,23,2,2,0,5,1,1,2,23,2,3,0,4,1,1,2,Școala Satul Cădărăști,,Cădărești,46.473,26.0843
+296,4,BACĂU,CĂIUŢI,294,11,34,26,1,19,8,31,286,13,35,29,0,21,13,36,Școala Gimnazială Caiuti,Nr. 441,Căiuți,46.1841,26.9302
+472,4,BACĂU,OITUZ,59,3,22,6,2,3,1,9,61,4,24,5,1,3,0,4,Grădinița Călcâi,,Călcâi,46.2064,26.5974
+323,4,BACĂU,DĂMIENEŞTI,128,2,41,3,2,55,3,22,136,1,42,5,3,51,4,17,Școala Generală cu Clasele I-VIII Călugăreni,,Călugăreni,46.7449,27.0201
+395,4,BACĂU,HURUIEŞTI,72,0,17,0,0,1,0,2,73,0,16,0,0,1,0,5,Fostul Local al Școlii Capotești,,Căpotești,46.25,27.2662
+326,4,BACĂU,DEALU MORII,219,2,35,10,0,4,2,9,219,1,35,15,0,5,2,7,Școala cu Clasele I-IV Căuia,,Căuia,46.2819,27.2812
+325,4,BACĂU,DEALU MORII,396,2,40,15,2,7,2,29,409,4,39,16,2,6,2,14,Grădinița Dealu Morii,,Dealu Morii,46.3013,27.2966
+381,4,BACĂU,HELEGIU,152,5,20,14,1,121,7,20,150,6,20,12,1,121,8,21,Școala Gimnazială Deleni,,Deleni,46.3528,26.7744
+504,4,BACĂU,PÎNCEŞTI,106,2,38,2,0,3,1,17,117,3,34,3,1,2,1,12,Școala Satul Dieneț,,Dieneț,46.3234,27.0703
+329,4,BACĂU,DOFTEANA,277,25,57,17,2,19,6,25,284,27,55,15,4,17,7,23,Școala Scarlat Longhin Dofteana,,Dofteana,46.3229,26.5279
+330,4,BACĂU,DOFTEANA,227,27,57,14,0,12,4,22,226,30,59,17,1,15,5,18,Școala Scarlat Longhin Dofteana,,Dofteana,46.3229,26.5279
+268,4,BACĂU,BERZUNŢI,111,2,30,5,0,111,3,13,100,2,32,5,1,114,5,17,Școala cu Clasele I-IV nr. 1 Dragomir,,Dragomir,46.4136,26.6361
+269,4,BACĂU,BERZUNŢI,46,1,13,0,1,126,0,11,52,1,13,0,1,127,1,5,Școala cu Clasele I-VIII nr. 2 Dragomir,,Dragomir,46.4197,26.6144
+324,4,BACĂU,DĂMIENEŞTI,80,7,12,3,1,18,0,8,78,7,14,4,0,17,0,8,Școala Generală cu Casele I-IV Drăgești,,Drăgești,46.7359,26.9593
+601,4,BACĂU,TĂTĂRĂŞTI,137,2,6,1,3,3,5,11,139,1,7,1,1,4,5,9,Școala Primară Satul Drăgești,,Drăgești,46.2489,27.1914
+382,4,BACĂU,HELEGIU,176,2,32,29,1,42,9,32,179,1,35,31,0,43,10,24,Școala Gimnazială nr. 1 Drăgugești,,Drăgugești,46.3681,26.7725
+383,4,BACĂU,HELEGIU,63,0,9,8,0,22,3,9,61,0,9,8,0,19,3,9,Școala Primară nr. 2 Drăgugești,,Drăgugești,46.3731,26.7929
+485,4,BACĂU,PARAVA,183,6,44,10,3,18,5,19,191,2,52,9,1,19,6,15,Școala Gimnazială Satul Drăgușani,,Drăgușani,46.2992,26.9829
+376,4,BACĂU,GURA VĂII,172,12,146,12,0,8,4,17,168,12,151,12,0,6,5,14,Școala Generală cu Clasele I-VIII Dumbrava,,Dumbrava,46.3096,26.8912
+400,4,BACĂU,ITEŞTI,63,13,50,7,0,9,1,12,62,12,48,9,0,10,3,14,Școala Dumbrava,,Dumbrava,46.6706,26.9012
+542,4,BACĂU,RĂCHITOASA,95,0,98,1,0,3,1,8,94,1,96,3,0,3,1,6,Școala cu Clasele.I-VIII Satul Dumbrava,,Dumbrava,46.4201,27.3442
+322,4,BACĂU,DĂMIENEŞTI,51,7,17,4,0,76,6,22,55,9,19,4,1,75,3,14,Școala Generală cu Clasele I-IV Dămienești,,Dămienești,46.7352,26.994
+208,4,BACĂU,ORAŞ DĂRMĂNEŞTI,180,16,55,26,3,175,2,20,204,18,58,26,2,174,2,12,Școala nr. 2 Dărmănești,Str. Chimiei nr. 62,Dărmănești,46.3678,26.4636
+209,4,BACĂU,ORAŞ DĂRMĂNEŞTI,248,13,70,9,0,163,11,44,251,12,63,10,0,170,12,37,Liceul Tehnologic Dărmănești,Str. Muncii nr. 11,Dărmănești,46.3687,26.4913
+210,4,BACĂU,ORAŞ DĂRMĂNEŞTI,114,10,33,12,0,86,9,19,116,7,32,8,0,95,6,14,Hotel Romanitza,Str. Rafinăriei nr. 2C,Dărmănești,46.365,26.4515
+211,4,BACĂU,ORAŞ DĂRMĂNEŞTI,131,11,61,11,0,147,6,22,135,11,56,10,2,152,7,14,Școala nr. 2,Str. Chimiei nr. 62,Dărmănești,46.365,26.4515
+212,4,BACĂU,ORAŞ DĂRMĂNEŞTI,97,4,15,8,2,71,5,16,107,6,21,8,0,63,6,13,Școala nr. 3 Dărmănești,Str. Tineretului nr. 1,Dărmănești,46.3626,26.485
+213,4,BACĂU,ORAŞ DĂRMĂNEŞTI,93,10,29,3,1,68,2,25,99,10,31,4,2,71,1,12,Școala nr. 3 Dărmănești,Str. Tineretului nr. 1,Dărmănești,46.3626,26.485
+216,4,BACĂU,ORAŞ DĂRMĂNEŞTI,104,3,28,5,0,68,6,22,108,3,28,5,0,67,6,17,Grădinița Sălătruc,Str. Uzinei nr. 111,Dărmănești,46.3439,26.4173
+217,4,BACĂU,ORAŞ DĂRMĂNEŞTI,34,5,28,3,0,41,3,6,32,4,30,3,1,41,3,4,Școala cu Clasele L-Iv Păgubeni,Str. Plopului nr. 12,Dărmănești,46.3642,26.5182
+218,4,BACĂU,ORAŞ DĂRMĂNEŞTI,148,9,35,18,0,136,6,45,161,9,39,15,0,137,10,40,Primăria Dărmănești,Str. Buciumului nr. 1A,Dărmănești,46.368,26.5035
+219,4,BACĂU,ORAŞ DĂRMĂNEŞTI,69,9,24,7,3,106,0,10,78,8,22,8,3,104,1,7,Școala cu Clasele I-IV Dărmăneasca,Calea Trotușului,Dărmănești,46.3852,26.4863
+261,4,BACĂU,BEREŞTI-TAZLĂU,130,12,13,4,0,21,5,18,135,10,18,4,0,24,8,16,Școala Generală Enăchești,,Enăchești,46.4845,26.6953
+338,4,BACĂU,FARAOANI,155,29,181,8,5,12,2,25,152,35,183,8,6,13,3,19,Școala Gimnazială nr. 1 Faraoani,,Faraoani,46.4346,26.8947
+339,4,BACĂU,FARAOANI,124,16,130,20,3,18,1,18,131,16,131,20,3,18,1,10,Școala Gimnazială nr. 1 Faraoani,,Faraoani,46.4346,26.8947
+340,4,BACĂU,FARAOANI,217,10,64,12,4,9,2,13,220,15,68,10,2,10,1,6,Școala Gimnazială nr. 2 Faraoani,,Faraoani,46.4443,26.8918
+341,4,BACĂU,FARAOANI,183,14,60,3,0,4,2,16,188,15,58,2,0,4,3,14,Școala Gimnazială nr. 2 Faraoani,,Faraoani,46.4443,26.8918
+473,4,BACĂU,OITUZ,154,13,38,20,0,6,4,20,149,13,39,22,1,5,5,23,Școala Gimnazială Ferestrau,,Ferestrău-Oituz,46.2018,26.5758
+342,4,BACĂU,FILIPENI,190,2,75,44,1,12,4,17,187,3,76,50,0,14,5,12,Primăria Filipeni,,Filipeni,46.5345,27.1927
+283,4,BACĂU,BOGDĂNEŞTI,92,10,8,28,0,12,4,11,94,12,8,26,0,13,5,13,Grădinița Filipești,Nr. 191,Filipești,46.2226,26.7136
+345,4,BACĂU,FILIPEŞTI,124,10,29,14,1,75,4,22,123,11,35,15,1,75,3,17,Școala Filipești,,Filipești,46.7413,26.885
+397,4,BACĂU,HURUIEŞTI,58,0,10,2,0,0,0,2,56,0,9,2,0,1,1,4,Fostul Local al Școlii Florești,,Florești,46.258,27.2231
+572,4,BACĂU,SCORŢENI,93,2,36,6,6,13,10,21,96,2,30,10,6,17,13,18,Școala cu Clasele I-IV Satul Florești,,Florești,46.5342,26.6744
+249,4,BACĂU,BALCANI,167,17,100,7,4,3,2,34,169,15,97,10,3,4,3,34,Grădinița Frumoasa,,Frumoasa,46.6649,26.5374
+250,4,BACĂU,BALCANI,272,14,91,15,5,4,1,28,267,19,94,16,6,5,2,25,Grădinița Frumoasa,,Frumoasa,46.6649,26.5374
+251,4,BACĂU,BALCANI,113,5,26,3,1,4,2,17,120,6,23,4,1,3,1,14,Grădinița Frumoasa,,Frumoasa,46.6649,26.5374
+369,4,BACĂU,GLĂVĂNEŞTI,143,3,156,13,0,10,1,21,149,3,163,14,0,10,3,11,Căminul Cultural Frumușelu,,Frumușelu,46.2654,27.3607
+344,4,BACĂU,FILIPENI,207,5,84,5,0,11,5,13,222,4,87,7,1,9,5,10,Școala cu Clasele I-IV Fruntești,,Fruntești,46.4968,27.2212
+507,4,BACĂU,PÎNCEŞTI,126,2,7,0,0,1,2,7,127,0,10,0,0,1,2,5,Școala Generală Satul Fulgeriș,,Fulgeriș,46.3319,27.1085
+574,4,BACĂU,SECUIENI,78,4,36,4,1,27,3,16,74,6,35,6,1,29,4,11,Școala Satul Fundeni,,Fundeni,46.6539,27.0734
+398,4,BACĂU,HURUIEŞTI,121,0,23,3,0,0,0,7,127,0,25,3,0,0,0,2,Localul Școlii Fundoaia,,Fundoaia,46.3114,27.2014
+538,4,BACĂU,RĂCĂCIUNI,202,8,68,12,35,19,6,67,230,17,76,18,29,24,4,22,Școala cu Clasele I-VIII Satul Fundu Răcăciuni,,Fundu Răcăciuni,46.3586,26.8835
+514,4,BACĂU,PLOPANA,129,4,27,2,0,1,5,27,132,7,30,4,0,1,6,18,Școala cu Clasele I-IV Satul Fundu Tutovei,,Fundu Tutovei,46.6948,27.1887
+541,4,BACĂU,RĂCHITOASA,46,0,23,2,0,2,1,4,46,0,22,3,0,2,1,4,Școala cu Clasele . I-IV Satul Fundătura-Răchitoasa,,Fundătura Răchitoasa,46.4631,27.3471
+597,4,BACĂU,TAMAŞI,233,5,23,2,1,7,0,5,233,6,22,2,1,4,1,7,Școala cu Clasele I-IV Satul Furnicari,,Furnicari,46.5112,26.9956
+451,4,BACĂU,MOTOŞENI,193,4,18,11,0,2,2,18,194,4,20,12,0,2,3,9,Școala Satul Fîntînele,,Fântânele,46.3394,27.4407
+354,4,BACĂU,GHIMEŞ-FĂGET,68,5,39,2,112,11,6,22,70,4,43,2,116,11,7,18,Primăria Făget,,Făget,46.5865,26.0545
+357,4,BACĂU,GHIMEŞ-FĂGET,16,3,8,2,25,1,3,5,16,3,11,2,27,1,2,2,Școala Generală cu Clasele I-IV Făgetul de Sus,,Făgetu de Sus,46.5909,26.0182
+346,4,BACĂU,FILIPEŞTI,105,5,21,3,0,40,8,25,105,5,23,4,1,40,8,22,Școala Galbeni,,Galbeni,46.7404,26.8439
+458,4,BACĂU,NICOLAE BĂLCESCU,109,20,148,6,7,54,5,38,108,21,154,7,6,60,7,36,Școala Satul Galbeni,,Galbeni,46.4576,26.942
+536,4,BACĂU,RĂCĂCIUNI,106,19,41,14,2,12,3,29,110,19,41,17,2,12,2,18,Școala cu Clasele I-VIII Satul Gheorghe Doja,,Gheorghe Doja,46.3788,26.9578
+602,4,BACĂU,TĂTĂRĂŞTI,94,3,9,1,1,3,1,11,97,2,7,2,2,3,1,8,Școala Primară Satul Gherdana,,Gherdana,46.2642,27.1845
+630,4,BACĂU,VULTURENI,30,1,78,0,0,4,1,4,28,1,76,0,0,5,1,2,Școala Ghilăvești,,Ghilăvești,46.4354,27.1773
+356,4,BACĂU,GHIMEŞ-FĂGET,26,6,25,3,167,8,3,10,29,5,28,3,171,8,2,6,Școala Generală cu Clasele I-VIII Ghimeș,,Ghimeș,46.5645,26.0953
+360,4,BACĂU,GIOSENI,172,7,150,3,2,5,5,22,168,8,154,2,1,4,6,20,Școala Generală cu Clasele I-VIII Ion Strat Gioseni,,Gioseni,46.4351,26.9912
+361,4,BACĂU,GIOSENI,121,5,150,3,1,2,7,16,125,6,149,4,2,5,7,12,Școala Generală cu Clasele I-VIII Ion Strat Gioseni,,Gioseni,46.4351,26.9912
+362,4,BACĂU,GIOSENI,113,3,125,4,3,4,3,15,109,3,132,4,4,6,3,10,Școala Generală cu Clasele I-VIII Ion Strat Gioseni,,Gioseni,46.4351,26.9912
+600,4,BACĂU,TĂTĂRĂŞTI,77,2,11,2,1,1,2,10,79,3,11,2,1,1,1,5,Școala Primară Satul Giurgeni,,Giurgeni,46.2382,27.1966
+576,4,BACĂU,SECUIENI,40,2,4,0,0,56,0,2,41,2,3,0,0,54,0,2,Școala Satul Glodișoarele,,Glodișoarele,46.6214,27.148
+368,4,BACĂU,GLĂVĂNEŞTI,247,4,135,38,2,33,7,56,244,4,136,75,1,37,4,19,Căminul Cultural Glăvănești,,Glăvănești,46.2479,27.3956
+628,4,BACĂU,VULTURENI,58,1,53,2,0,1,3,10,60,1,53,3,0,3,2,7,Centrul Educațional Comunitar Godineștii de Jos,,Godineștii de Jos,46.4225,27.2275
+237,4,BACĂU,AGĂŞ,104,3,28,4,2,33,5,26,107,3,25,6,2,32,4,23,Școala Generală Goioasa,,Goioasa,46.4466,26.2974
+571,4,BACĂU,SCORŢENI,133,7,44,5,1,14,4,26,132,9,45,9,2,14,7,16,Școala Veche Satul Grigoreni,,Grigoreni,46.5957,26.6845
+371,4,BACĂU,GURA VĂII,156,13,209,28,2,4,10,31,161,18,210,28,2,8,9,23,Primăria Gura Văii,,Gura Văii,46.2653,26.8286
+372,4,BACĂU,GURA VĂII,33,3,60,10,0,3,1,9,36,4,59,9,0,1,1,6,Grădinița Pătrășcani,,Gura Văii,46.2552,26.8508
+533,4,BACĂU,RACOVA,208,9,41,5,0,20,6,22,215,10,40,3,0,23,8,17,Școala Satul Gura Văii,Nr. 225,Gura Văii,46.6926,26.7825
+593,4,BACĂU,ŞTEFAN CEL MARE,168,2,14,11,0,1,5,13,166,4,14,11,0,1,7,12,Grădinița cu Program Normal Satul Gutinaș,,Gutinaș,46.2051,26.8197
+364,4,BACĂU,GÎRLENI,110,9,54,16,0,24,8,28,114,12,55,15,0,25,9,22,Școala cu Cl.I-VIII Gîrleni,,Gârleni,46.659,26.8074
+365,4,BACĂU,GÎRLENI,137,17,40,20,1,12,5,24,130,19,43,22,2,16,5,17,Școala cu Cl.I-VIII Gîrleni,,Gârleni,46.659,26.8074
+363,4,BACĂU,GÎRLENI,128,16,74,20,2,12,5,28,133,16,74,20,4,13,6,23,Școala cu Cl.I-VIII Gîrlenii de Sus,,Gârlenii de Sus,46.6547,26.7871
+537,4,BACĂU,RĂCĂCIUNI,184,5,24,3,1,3,3,20,193,4,25,4,1,3,3,15,Școala cu Clasele I-VIII Satul Gîșteni,,Gâșteni,46.3398,26.9653
+351,4,BACĂU,GĂICEANA,178,4,64,7,3,18,3,13,181,4,68,10,3,21,3,8,Primăria Găiceana,,Găiceana,46.3316,27.2276
+378,4,BACĂU,HELEGIU,114,4,20,20,0,118,3,23,119,3,22,24,1,118,5,18,Școala Gimnazială Helegiu,,Helegiu,46.3509,26.7441
+301,4,BACĂU,CĂIUŢI,41,3,15,4,1,8,2,14,44,3,18,4,1,7,3,11,Școala Heltiu,,Heltiu,46.1994,26.9383
+384,4,BACĂU,HEMEIUŞ,211,43,143,29,1,28,7,40,215,45,154,25,2,31,5,26,Căminul Cultural Hemeiuș,,Hemeiuș,46.6267,26.8528
+385,4,BACĂU,HEMEIUŞ,115,38,106,13,0,23,4,25,116,41,110,13,0,18,6,24,Școala Generală Grigore Tăbăcaru Hemeiuș,,Hemeiuș,46.6266,26.8529
+611,4,BACĂU,TRAIAN,32,3,15,3,1,5,1,4,29,3,16,3,0,9,1,3,Școala cu Clasele I-IV Satul Hertioana de Jos,,Hertioana de Jos,46.6458,27.0378
+407,4,BACĂU,LETEA VECHE,339,28,112,25,1,23,11,44,337,29,112,26,0,28,11,32,Școala Holt,,Holt,46.5791,26.9725
+388,4,BACĂU,HORGEŞTI,198,10,43,18,2,27,9,35,203,10,45,26,1,32,9,21,Primăria Horgești,,Horgești,46.4337,27.0746
+392,4,BACĂU,HURUIEŞTI,140,0,44,5,0,1,2,10,139,2,42,5,0,2,3,7,Primăria Huruiești,,Huruiești,46.2446,27.2436
+353,4,BACĂU,GĂICEANA,235,2,42,5,5,6,1,6,246,2,40,9,3,6,2,6,Școala Huțu,,Huțu,46.3761,27.2168
+499,4,BACĂU,PÂRJOL,34,0,4,2,1,9,5,14,35,0,6,2,0,11,6,14,Școala Satul Hăineala,,Hâineala,46.6147,26.6073
+474,4,BACĂU,OITUZ,68,6,14,5,1,4,6,14,71,6,14,5,1,6,6,9,Așezământ Filantropic „Sfântul Voievod Ștefan Cel Mare” Hîrja,,Hârja,46.166,26.4697
+350,4,BACĂU,FILIPEŞTI,92,8,64,5,0,59,2,10,92,9,67,5,0,61,2,12,Școala Hîrlești,,Hârlești,46.8166,26.8945
+331,4,BACĂU,DOFTEANA,229,22,67,6,1,7,10,27,232,20,66,5,1,7,12,22,Școala Generală cu Clasele I-VIII Hăghiac,,Hăghiac,46.3113,26.5161
+399,4,BACĂU,ITEŞTI,101,0,149,12,0,7,8,23,105,1,149,17,0,8,8,19,Școala cu Clasele I-VIII Itești,,Itești,46.6568,26.8646
+402,4,BACĂU,IZVORU BERHECIULUI,102,0,58,4,1,22,7,14,102,1,59,4,0,23,6,11,Școala Constantin Moscu Izv.Berheciului,,Izvoru Berheciului,46.5855,27.2195
+515,4,BACĂU,PLOPANA,263,2,18,2,3,1,0,11,270,3,18,2,2,2,1,10,Școala cu Clasele I-IV Satul Ițcani,,Ițcani,46.6796,27.2568
+335,4,BACĂU,DOFTEANA,367,3,38,5,1,22,4,13,370,3,36,4,2,21,4,11,Școala Generală cu Clasele I-VIII Larga,,Larga,46.3526,26.5313
+521,4,BACĂU,PODU TURCULUI,128,6,25,13,0,1,3,8,129,3,24,17,0,4,2,6,Școala Generală Satul Lehancea,,Lehancea,46.1966,27.345
+239,4,BACĂU,ARDEOANI,112,3,103,5,1,14,4,15,112,1,99,5,1,24,4,12,Școala Leontinești,,Leontinești,46.519,26.5923
+366,4,BACĂU,GÎRLENI,102,13,54,9,3,20,2,17,109,12,53,8,3,19,2,17,Școala cu Cl.I-VIII Lespezi,,Lespezi,46.6621,26.7735
+367,4,BACĂU,GÎRLENI,132,4,80,17,4,24,2,24,129,7,86,20,3,23,4,15,Școala cu Cl.I-VIII Lespezi,,Lespezi,46.6621,26.7735
+405,4,BACĂU,LETEA VECHE,317,34,93,39,1,60,11,43,328,36,97,39,1,61,11,31,Școala Coordonatoare Letea Veche,,Letea Veche,46.5533,26.9453
+406,4,BACĂU,LETEA VECHE,272,42,112,42,2,76,2,48,279,45,112,43,2,80,5,36,Școala Coordonatoare Letea Veche,,Letea Veche,46.5533,26.9453
+627,4,BACĂU,VULTURENI,100,2,73,0,0,3,0,4,103,3,71,1,0,2,0,2,Societatea Areal Sa,,Lichitișeni,46.3791,27.2861
+386,4,BACĂU,HEMEIUŞ,168,56,154,16,1,30,13,52,170,51,168,14,1,33,14,42,"Școala Generală Ion Simionescu, Lilieci",Nr. 222,Lilieci,46.6292,26.8668
+387,4,BACĂU,HEMEIUŞ,165,30,120,23,0,39,7,36,171,27,123,28,0,37,8,29,Școala Generală Ion Simionescu Lilieci,Nr. 222,Lilieci,46.6292,26.8668
+411,4,BACĂU,LIPOVA,223,5,21,1,0,9,4,19,233,6,21,1,0,11,4,14,Școala cu Clasele I-VIII M.Eminescu Lipova,,Lipova,46.7157,27.243
+416,4,BACĂU,LIVEZI,119,9,32,10,0,12,2,6,120,8,32,11,0,15,2,2,Școala Gimnazială nr. 1 Livezi,,Livezi,46.406,26.7342
+254,4,BACĂU,BALCANI,118,14,36,5,1,12,6,27,117,15,36,5,1,14,8,25,Școala Gimnazială Ludași,,Ludași,46.6187,26.579
+422,4,BACĂU,LUIZI-CĂLUGĂRA,157,12,87,13,3,8,2,29,159,14,85,17,3,12,3,22,Școala cu Clasele I-VIII Luizi Călugăra,,Luizi-Călugăra,46.535,26.848
+423,4,BACĂU,LUIZI-CĂLUGĂRA,124,14,60,14,8,13,5,29,129,19,57,13,7,16,6,16,Școala cu Clasele I-VIII Luizi Călugăra,,Luizi-Călugăra,46.535,26.848
+242,4,BACĂU,ASĂU,176,7,42,3,1,16,10,25,180,6,39,3,2,19,9,19,Școala cu Clasele I-IV Lunca Asău,,Lunca Asău,46.4355,26.4109
+620,4,BACĂU,URECHEŞTI,50,2,27,5,0,10,3,8,48,3,27,5,0,8,6,10,Școala Generală cu Casele I-IV Satul Lunca Dochiei,,Lunca Dochiei,46.1201,27.0619
+445,4,BACĂU,MĂRGINENI,158,28,49,20,1,14,4,39,171,31,51,22,2,14,5,25,Școala cu Clasele I-VIII Luncani,,Luncani,46.6092,26.7462
+437,4,BACĂU,MĂNĂSTIREA CAŞIN,106,6,33,11,0,5,3,29,110,5,44,9,0,7,6,14,Școala Lupești,,Lupești,46.1719,26.7327
+214,4,BACĂU,ORAŞ DĂRMĂNEŞTI,76,1,13,5,2,189,3,16,75,2,8,6,2,194,4,18,Școala Lapoș,,Lăpoș,46.3936,26.4627
+462,4,BACĂU,NICOLAE BĂLCESCU,46,1,20,1,1,4,1,9,49,0,18,2,1,4,1,6,Școala Satul Lărguța,,Lărguța,46.4795,26.8104
+471,4,BACĂU,OITUZ,100,8,12,19,2,12,3,8,100,7,13,17,1,11,5,10,Grădinița Marginea,,Marginea,46.2157,26.6302
+314,4,BACĂU,CORBASCA,81,8,19,5,0,3,8,17,84,8,19,6,0,3,8,15,Școala cu Clasele I-VIII Marvila,,Marvila,46.3019,27.0963
+629,4,BACĂU,VULTURENI,21,1,46,0,0,2,1,8,21,1,45,1,0,4,3,7,Școala Medeleni,,Medeleni,46.4431,27.2137
+493,4,BACĂU,PARINCEA,74,1,5,0,2,16,1,6,75,2,3,0,2,18,2,4,Școala Mileștii de Jos,,Mileștii de Sus,46.4773,27.0755
+126,4,BACĂU,MUNICIPIUL MOINEŞTI,153,17,31,22,1,94,8,28,130,19,20,17,0,146,3,13,Liceul Spiru Haret,Str. Vasile Alecsandri nr. 10,Moinești,46.475,26.4887
+127,4,BACĂU,MUNICIPIUL MOINEŞTI,193,32,70,13,1,123,6,36,165,30,51,16,1,179,8,28,Liceul Spiru Haret,Str. Vasile Alecsandri nr. 11,Moinești,46.475,26.4887
+128,4,BACĂU,MUNICIPIUL MOINEŞTI,159,57,61,18,1,158,24,77,121,50,44,20,1,253,17,47,Sala de Sport a Liceului Spiru Haret,Str. Zorilor (Str. Independenței) nr. 18,Moinești,46.4754,26.4881
+129,4,BACĂU,MUNICIPIUL MOINEŞTI,186,26,67,17,2,167,15,49,159,21,52,16,2,230,9,31,Școala Ștefan Luchian,Str. Zorilor (Str. Independenței) nr. 20,Moinești,46.4775,26.4897
+130,4,BACĂU,MUNICIPIUL MOINEŞTI,161,26,48,15,3,122,9,35,126,20,35,15,1,182,12,34,Școala Ștefan Luchian,Str. Zorilor (Str. Independenței) nr. 21,Moinești,46.4775,26.4897
+131,4,BACĂU,MUNICIPIUL MOINEŞTI,155,43,63,31,1,133,14,56,120,37,49,28,1,215,7,35,Biblioteca Municipala,"Str. Tudor Vladimirescu (Str. Băile Minerale, Str. Cîmpului, Str. Cireșoaia, Str. Teiului) nr. 100",Moinești,46.4742,26.4894
+132,4,BACĂU,MUNICIPIUL MOINEŞTI,218,29,42,23,0,138,11,68,177,30,41,18,0,206,6,49,Școala George Enescu,Str. Schelei nr. 1,Moinești,46.4687,26.4833
+133,4,BACĂU,MUNICIPIUL MOINEŞTI,175,12,40,6,1,104,11,48,141,11,37,4,0,171,6,29,Școala George Enescu,Str. Schelei nr. 1,Moinești,46.4687,26.4833
+134,4,BACĂU,MUNICIPIUL MOINEŞTI,173,28,67,25,3,132,10,39,147,20,54,21,2,203,9,23,Școala George Enescu,Str. Schelei nr. 1,Moinești,46.4687,26.4833
+135,4,BACĂU,MUNICIPIUL MOINEŞTI,199,6,29,9,3,177,5,24,178,8,23,10,2,212,4,19,Clubul Elevilor,Str. George Coșbuc nr. 1,Moinești,46.488,26.4877
+136,4,BACĂU,MUNICIPIUL MOINEŞTI,232,18,51,14,1,132,7,35,206,17,33,5,1,197,8,22,Școala Tristan Tzara,Str. Luminii nr. 2,Moinești,46.4857,26.4914
+137,4,BACĂU,MUNICIPIUL MOINEŞTI,204,18,47,24,1,142,9,48,164,13,43,26,1,210,10,35,Școala Tristan Tzara,Str. Luminii nr. 2,Moinești,46.4857,26.4914
+138,4,BACĂU,MUNICIPIUL MOINEŞTI,135,21,39,8,1,129,6,26,119,16,36,9,1,169,8,19,Clădire Școala Lunca,Str. Lunca nr. 45,Moinești,46.4622,26.4785
+139,4,BACĂU,MUNICIPIUL MOINEŞTI,133,4,23,8,0,91,7,15,122,3,22,5,0,113,7,11,Școala Alexandru Sever,Nr. 2,Moinești,46.4401,26.4595
+140,4,BACĂU,MUNICIPIUL MOINEŞTI,230,5,52,13,1,97,5,26,208,9,54,13,1,134,3,9,Școala Alexandru Sever,Nr. 2,Moinești,46.4401,26.4595
+141,4,BACĂU,MUNICIPIUL MOINEŞTI,191,10,34,7,1,112,9,34,179,8,29,6,1,151,6,24,Școala Alexandru Sever Hangani,Str. Avram Iancu nr. 1,Moinești,46.4496,26.4546
+142,4,BACĂU,MUNICIPIUL MOINEŞTI,145,8,39,10,0,121,12,44,120,5,32,10,0,167,11,33,Clădire Școala Găzărie,Nr. 237,Moinești,46.4899,26.5191
+373,4,BACĂU,GURA VĂII,32,5,15,2,0,3,2,5,34,5,16,1,0,4,2,3,Casa Praznicală Biserica Ortodoxă Sf.Treime - Motocești,,Motocești,46.27,26.8687
+447,4,BACĂU,MOTOŞENI,286,6,31,26,0,3,2,22,279,7,30,37,0,5,4,11,Primăria Motoșeni,,Motoșeni,46.3199,27.3912
+370,4,BACĂU,GLĂVĂNEŞTI,40,1,34,4,1,6,0,8,39,1,36,6,2,5,0,2,Școala Muncelu,,Muncelu,46.2665,27.3434
+415,4,BACĂU,LIPOVA,266,0,25,1,0,9,2,21,281,1,26,1,0,6,2,7,Școala cu Clasele I-VIII Mîlosu,,Mâlosu,46.738,27.1751
+426,4,BACĂU,MĂGIREŞTI,194,14,224,16,2,56,7,18,191,18,216,17,3,73,7,13,Caminul Cultural Magiresti,,Măgirești,46.5106,26.5426
+430,4,BACĂU,MĂGURA,136,48,99,22,2,27,7,29,136,50,100,23,1,31,7,24,Școala nr. 2 Măgura-Sala 1,,Măgura,46.5611,26.8628
+431,4,BACĂU,MĂGURA,102,20,85,15,2,16,2,19,112,22,86,11,1,16,2,13,Școala nr. 2 Sat Magura - Sala 2,,Măgura,46.5611,26.8628
+432,4,BACĂU,MĂGURA,170,30,136,65,1,25,10,43,182,36,139,66,1,22,14,38,Școala Generală nr. 1 Emil Brăiescu Măgura,,Măgura,46.5544,26.8428
+434,4,BACĂU,MĂNĂSTIREA CAŞIN,267,11,63,12,2,11,5,54,276,16,77,8,3,16,6,23,Căminul Cultural Satul Mănăstirea Cașin,,Mănăstirea Cașin,46.1542,26.6953
+303,4,BACĂU,CĂIUŢI,54,1,2,1,0,1,0,2,55,1,1,1,0,1,0,1,Școala Primară Marcesti,,Mărcești,46.1726,26.8992
+438,4,BACĂU,MĂRGINENI,131,27,74,27,3,15,13,33,137,24,79,24,2,14,13,30,Școala cu Clasele I-VIII Mărgineni,,Mărgineni,46.5863,26.8515
+439,4,BACĂU,MĂRGINENI,124,21,72,18,1,17,2,29,127,21,70,17,1,24,4,23,Școala cu Clasele I-VIII Mărgineni,,Mărgineni,46.5863,26.8515
+440,4,BACĂU,MĂRGINENI,138,24,69,19,0,28,4,29,141,24,67,16,0,29,4,24,Școala cu Clasele I-VIII Mărgineni,,Mărgineni,46.5863,26.8515
+343,4,BACĂU,FILIPENI,150,4,57,7,0,7,1,15,156,4,65,8,0,7,1,5,Școala cu Clasele I-IV Mărăști,,Mărăști,46.5731,27.1759
+591,4,BACĂU,ŞTEFAN CEL MARE,210,5,29,16,1,7,3,19,209,7,30,14,1,12,3,17,Biblioteca Comunală Satul Negoiești,,Negoiești,46.2099,26.8712
+453,4,BACĂU,NEGRI,267,8,63,13,0,11,5,37,281,9,63,13,0,9,4,27,Școala Costache Negri Satul Negri,,Negri,46.7067,26.9784
+327,4,BACĂU,DEALU MORII,140,4,53,4,1,5,2,17,140,5,66,7,0,6,2,3,Școala cu Clasele I-VIII Negulești,,Negulești,46.2296,27.2895
+455,4,BACĂU,NICOLAE BĂLCESCU,92,51,76,23,4,20,6,22,95,52,74,24,4,21,6,16,Școala Nicolae Balcescu,,Nicolae Bălcescu,46.4828,26.9168
+456,4,BACĂU,NICOLAE BĂLCESCU,130,42,92,13,0,32,7,29,130,41,93,18,0,33,11,30,Școala Nicolae Balcescu,,Nicolae Bălcescu,46.4828,26.9168
+457,4,BACĂU,NICOLAE BĂLCESCU,117,49,99,19,1,32,12,37,118,48,92,20,1,31,17,42,Școala Nicolae Balcescu,,Nicolae Bălcescu,46.4828,26.9168
+511,4,BACĂU,PÎRGĂREŞTI,50,6,73,10,1,55,0,15,52,6,81,13,1,48,0,7,Școala Gimnazială Constantin Mușat Satul Nicorești,Str. Petru Rareș nr. 344,Nicorești,46.2349,26.6483
+491,4,BACĂU,PARINCEA,207,1,26,4,0,8,7,25,209,3,31,2,0,10,8,15,Școala Nănești,,Nănești,46.4525,27.1152
+404,4,BACĂU,IZVORU BERHECIULUI,49,0,62,4,0,5,1,11,52,0,64,3,0,4,1,9,Școala Generală Obîrșia,,Obârșia,46.6165,27.1844
+396,4,BACĂU,HURUIEŞTI,114,1,9,0,0,0,0,3,117,2,8,0,0,0,0,1,Localul Școlii Ocheni,,Ocheni,46.2843,27.2296
+463,4,BACĂU,ODOBEŞTI,105,2,12,3,0,17,3,21,119,5,14,2,1,17,2,7,Școala cu Clasele I-IV Odobești,,Odobești,46.673,27.1473
+466,4,BACĂU,OITUZ,66,7,16,10,1,9,4,8,65,12,16,11,1,9,4,8,"Școala Gimnazială, Comuna Oituz",,Oituz,46.206,26.6296
+467,4,BACĂU,OITUZ,184,17,36,20,0,10,5,35,189,19,37,23,0,12,5,18,Școala Gimnazială nr. 1 Oituz,,Oituz,46.2077,26.617
+468,4,BACĂU,OITUZ,187,23,44,27,1,8,7,26,188,25,45,27,3,15,8,18,Grădinița nr. 1 Oituz,,Oituz,46.2077,26.6165
+469,4,BACĂU,OITUZ,126,10,23,11,0,14,5,23,128,10,24,13,0,14,4,19,Grădinița nr. 2 Oituz,,Oituz,46.206,26.6299
+470,4,BACĂU,OITUZ,113,9,26,17,2,20,6,19,116,8,26,18,1,19,6,18,Grădinița nr. 3 Oituz,,Oituz,46.2014,26.6373
+476,4,BACĂU,ONCEŞTI,269,2,29,11,3,19,4,18,274,4,30,13,2,22,4,14,Căminul Cultural Satul Oncești,,Oncești,46.4727,27.2552
+143,4,BACĂU,MUNICIPIUL ONEŞTI,267,46,74,53,1,42,19,51,267,42,92,50,1,43,17,42,Colegiul Național „Grigore C.Moisil”,Str. Tineretului nr. 14,Onești,46.248,26.7614
+144,4,BACĂU,MUNICIPIUL ONEŞTI,192,28,50,37,4,20,13,49,197,28,53,32,3,29,15,40,Colegiul Național „Grigore C.Moisil”,Str. Tineretului nr. 14,Onești,46.248,26.7614
+145,4,BACĂU,MUNICIPIUL ONEŞTI,256,26,36,27,1,34,13,34,264,19,41,29,1,31,11,30,Colegiul Național „Grigore C.Moisil”,Str. Tineretului nr. 14,Onești,46.248,26.7614
+146,4,BACĂU,MUNICIPIUL ONEŞTI,248,28,54,30,4,29,30,63,258,30,65,23,4,34,32,43,Școala Gimnazială „Sfântul Voievod Ștefan Cel Mare” (fosta nr. 9),Bulevardul Oituz nr. 7 bis,Onești,46.247,26.7574
+147,4,BACĂU,MUNICIPIUL ONEŞTI,278,33,73,43,0,31,23,65,281,35,77,40,2,35,23,50,Școala Gimnazială „Sfântul Voievod Ștefan Cel Mare” (fosta nr. 9),Bulevardul Oituz nr. 7 bis,Onești,46.247,26.7574
+148,4,BACĂU,MUNICIPIUL ONEŞTI,221,42,44,34,6,21,8,35,221,42,45,31,4,29,14,29,Școala Gimnazială „Emil Racoviță” (fosta nr. 10),Str. Venus nr. 2,Onești,46.2433,26.7593
+149,4,BACĂU,MUNICIPIUL ONEŞTI,239,26,36,29,0,32,10,48,245,30,45,20,1,33,12,38,Școala Gimnazială „Emil Racoviță” (fosta nr. 10),Str. Venus nr. 2,Onești,46.2433,26.7593
+150,4,BACĂU,MUNICIPIUL ONEŞTI,197,21,37,23,0,27,12,27,198,22,43,15,0,31,13,24,Școala Gimnazială „Emil Racoviță” (fosta nr. 10),Str. Venus nr. 2,Onești,46.2433,26.7593
+151,4,BACĂU,MUNICIPIUL ONEŞTI,180,34,47,30,0,21,6,23,183,36,50,28,0,22,6,20,Liceul Tehnologic (fosta nr. 7),Str. Aurora nr. 2,Onești,46.2414,26.7621
+152,4,BACĂU,MUNICIPIUL ONEŞTI,176,24,54,20,1,24,15,46,181,23,59,18,0,25,14,42,Liceul Tehnologic (fosta nr. 7),Str. Aurora nr. 2,Onești,46.2414,26.7621
+153,4,BACĂU,MUNICIPIUL ONEŞTI,231,39,43,23,0,28,5,33,234,39,48,21,0,25,11,29,Liceul Tehnologic (fosta nr. 7),Str. Aurora nr. 2,Onești,46.2414,26.7621
+154,4,BACĂU,MUNICIPIUL ONEŞTI,227,55,42,30,0,18,7,38,226,59,47,27,0,25,9,24,Liceul Tehnologic (fosta nr. 7),Str. Aurora nr. 2,Onești,46.2414,26.7621
+155,4,BACĂU,MUNICIPIUL ONEŞTI,225,51,68,20,1,32,15,43,233,48,75,16,2,39,15,31,Școala Gimnazială „Ghiță Mocanu” (fostă nr. 5),Str. 1 Mai nr. 7,Onești,46.244,26.7655
+156,4,BACĂU,MUNICIPIUL ONEŞTI,144,37,35,27,4,21,5,31,143,43,39,23,3,25,5,23,Școala Gimnazială „Ghiță Mocanu” (fostă nr. 5),Str. 1 Mai nr. 7,Onești,46.244,26.7655
+157,4,BACĂU,MUNICIPIUL ONEŞTI,334,35,73,32,2,33,21,66,327,36,89,33,1,41,23,44,Școala Gimnazială „Ghiță Mocanu” (fostă nr. 5),Str. 1 Mai nr. 7,Onești,46.244,26.7655
+158,4,BACĂU,MUNICIPIUL ONEŞTI,316,54,62,35,0,33,24,77,316,56,74,36,0,37,31,54,Școala Gimnazială „Ghiță Mocanu” (fostă nr. 5),Str. 1 Mai nr. 7,Onești,46.244,26.7655
+159,4,BACĂU,MUNICIPIUL ONEŞTI,190,21,54,23,0,13,11,41,189,26,57,22,0,25,9,24,Școala Gimnazială nr. 1,Str. Cașinului nr. 15,Onești,46.2485,26.7685
+160,4,BACĂU,MUNICIPIUL ONEŞTI,214,73,64,49,2,48,26,59,214,77,77,44,1,49,26,46,Școala Gimnazială nr. 1,Str. Cașinului nr. 15,Onești,46.2485,26.7685
+161,4,BACĂU,MUNICIPIUL ONEŞTI,271,77,76,36,2,32,22,53,274,75,86,31,3,37,18,39,Școala Gimnazială nr. 1,Str. Cașinului nr. 15,Onești,46.2485,26.7685
+162,4,BACĂU,MUNICIPIUL ONEŞTI,301,44,61,33,0,37,15,58,298,43,68,32,3,44,20,49,Colegiul Sportiv „Nadia Comăneci”,Str. Perchiului nr. 4,Onești,46.2529,26.7666
+163,4,BACĂU,MUNICIPIUL ONEŞTI,283,38,65,57,3,38,18,59,282,43,77,42,1,45,19,49,Colegiul Sportiv „Nadia Comăneci”,Str. Perchiului nr. 4,Onești,46.2529,26.7666
+164,4,BACĂU,MUNICIPIUL ONEŞTI,282,31,56,32,3,41,18,53,295,32,69,29,4,40,11,31,Colegiul Sportiv „Nadia Comăneci”,Str. Perchiului nr. 4,Onești,46.2529,26.7666
+165,4,BACĂU,MUNICIPIUL ONEŞTI,199,54,68,29,1,32,14,35,212,54,62,30,2,28,14,30,Colegiu Național „Dimitrie Cantemir”,Str. Dr. Victor Babeș nr. 12,Onești,46.2537,26.7771
+166,4,BACĂU,MUNICIPIUL ONEŞTI,228,61,61,46,2,35,20,43,226,60,75,40,1,40,17,33,Colegiu Național „Dimitrie Cantemir”,Str. Dr. Victor Babeș nr. 12,Onești,46.2537,26.7771
+167,4,BACĂU,MUNICIPIUL ONEŞTI,163,15,48,37,0,23,7,35,161,18,50,37,0,24,9,27,Colegiu Național „Dimitrie Cantemir”,Str. Dr. Victor Babeș nr. 12,Onești,46.2537,26.7771
+168,4,BACĂU,MUNICIPIUL ONEŞTI,175,25,42,28,4,27,10,36,179,25,51,23,3,34,10,26,Colegiul Tehnic „Petru Poni”,Bulevardul Republicii nr. 60,Onești,46.2545,26.7745
+169,4,BACĂU,MUNICIPIUL ONEŞTI,138,25,26,20,2,11,17,43,141,28,32,20,2,15,15,31,Colegiul Tehnic „Petru Poni”,Bulevardul Republicii nr. 60,Onești,46.2545,26.7745
+170,4,BACĂU,MUNICIPIUL ONEŞTI,280,59,53,35,0,38,25,70,280,61,64,28,0,43,27,56,Școala Gimnazială „George Călinescu” (fostă nr. 8),Str. Armoniei nr. 4,Onești,46.2564,26.7745
+171,4,BACĂU,MUNICIPIUL ONEŞTI,209,52,50,28,2,38,17,65,222,52,55,21,4,45,19,46,Școala Gimnazială „George Călinescu” (fostă nr. 8),Str. Armoniei nr. 4,Onești,46.2564,26.7745
+172,4,BACĂU,MUNICIPIUL ONEŞTI,215,27,51,30,1,25,16,49,220,27,62,31,1,24,20,36,Colegiul Tehnic „Gheorghe Asachi”,Bulevardul Republicii nr. 45,Onești,46.2552,26.7738
+173,4,BACĂU,MUNICIPIUL ONEŞTI,225,36,58,27,1,34,12,39,226,35,57,31,0,35,15,35,Colegiul Tehnic „Gheorghe Asachi”,Bulevardul Republicii nr. 45,Onești,46.2552,26.7738
+174,4,BACĂU,MUNICIPIUL ONEŞTI,163,38,32,31,0,36,16,49,162,42,42,26,0,37,15,35,Liceul Tehnologic (Tcr),Str. Avîntului nr. 5,Onești,46.259,26.7871
+175,4,BACĂU,MUNICIPIUL ONEŞTI,102,13,25,19,0,11,6,18,105,12,24,18,0,11,5,19,Sera Borzești,Bulevardul Mărășești (Calea Mărășești) nr. 244 A,Onești,46.2397,26.8207
+177,4,BACĂU,MUNICIPIUL ONEŞTI,234,32,61,20,0,17,7,35,234,32,69,22,0,20,10,35,Grădinița „Sfântul Paul”,Str. Preot Eduard Sechel (Str. Morii) nr. 5,Onești,46.2508,26.7556
+178,4,BACĂU,MUNICIPIUL ONEŞTI,232,37,59,23,1,14,12,48,232,37,64,18,4,20,16,41,Grădinița „Sfântul Paul”,Str. Preot Eduard Sechel (Str. Morii) nr. 5,Onești,46.2508,26.7556
+348,4,BACĂU,FILIPEŞTI,62,6,21,6,0,42,3,6,61,6,19,7,0,48,3,5,Școala Onișcani,,Onișcani,46.7903,26.8898
+478,4,BACĂU,ORBENI,131,1,152,10,1,38,4,15,130,5,153,11,3,42,2,9,Școala cu Clasele I-VIII Satul Orbeni,,Orbeni,46.2777,27.0207
+479,4,BACĂU,ORBENI,80,1,106,1,3,51,8,17,85,1,107,2,2,47,7,15,Școala Primară nr. 2 Satul Orbeni,,Orbeni,46.2814,26.9949
+417,4,BACĂU,LIVEZI,149,5,30,13,1,27,3,8,153,5,34,8,1,27,1,11,Școala Primară Orășa,,Orășa,46.4226,26.7434
+424,4,BACĂU,LUIZI-CĂLUGĂRA,113,10,41,12,2,4,1,16,114,8,42,16,2,4,1,11,Școala cu Clasele I-VIII Osebiți,,Osebiți,46.5385,26.8385
+425,4,BACĂU,LUIZI-CĂLUGĂRA,149,16,57,14,1,5,2,21,147,12,56,15,2,7,1,20,Școala cu Clasele I-VIII Osebiți,,Osebiți,46.5385,26.8385
+481,4,BACĂU,PALANCA,263,8,56,7,6,48,10,36,269,5,66,6,7,49,9,28,Primăria Palanca,,Palanca,46.5338,26.1265
+484,4,BACĂU,PARAVA,143,8,75,26,1,4,2,21,140,8,77,26,1,9,2,9,Școala Gimnazială Satul Parava,,Parava,46.3098,26.9818
+488,4,BACĂU,PARINCEA,206,6,22,6,1,32,1,27,209,5,28,9,2,31,1,16,Liceul Tehnologic „G.J.Cancicov” Parincea,,Parincea,46.4834,27.1042
+393,4,BACĂU,HURUIEŞTI,37,0,16,0,0,1,0,5,35,0,16,0,0,4,0,3,Fostul Local al Școlii Perchiu,,Perchiu,46.2183,27.248
+505,4,BACĂU,PÎNCEŞTI,157,0,24,2,2,17,3,19,153,3,24,2,1,16,2,14,Școala Generală Satul Petrești,,Petrești,46.3897,27.113
+588,4,BACĂU,STRUGARI,136,3,25,2,1,5,1,13,133,7,28,2,1,7,1,7,Școala Generală Satul Petricica,,Petricica,46.5033,26.7867
+513,4,BACĂU,PLOPANA,221,8,19,8,0,15,2,30,237,7,21,14,0,13,5,16,Primăria Plopana,,Plopana,46.6821,27.2174
+215,4,BACĂU,ORAŞ DĂRMĂNEŞTI,244,4,49,2,2,96,4,22,244,6,49,3,2,92,7,24,Școala cu Clasele I-VIII Plopu,,Plopu,46.3898,26.4998
+446,4,BACĂU,MĂRGINENI,106,16,24,9,1,14,6,10,111,18,23,9,1,13,7,9,Școala cu Clasele I-IV Podiș,,Podiș,46.6143,26.7248
+518,4,BACĂU,PODU TURCULUI,532,31,90,62,1,17,21,50,521,32,83,86,0,20,23,44,Căminul Cultural Podu Turcului,Str. Tudor Vladimirescu,Podu Turcului,46.2008,27.3842
+519,4,BACĂU,PODU TURCULUI,187,4,20,17,0,2,2,13,196,3,23,18,0,2,2,5,Școala Generală nr. 3 Podu Turcului,,Podu Turcului,46.2167,27.3638
+523,4,BACĂU,PODURI,212,2,40,12,1,47,3,59,215,8,28,12,3,91,4,17,Școala Satul Poduri,,Poduri,46.467,26.5364
+524,4,BACĂU,PODURI,238,13,33,6,0,41,5,36,213,9,27,8,2,92,2,10,Școala Satul Poduri,,Poduri,46.467,26.5364
+420,4,BACĂU,LIVEZI,107,5,41,27,1,7,2,11,109,3,47,25,0,8,2,10,Școala Gimnazială Poiana,,Poiana,46.3797,26.7106
+450,4,BACĂU,MOTOŞENI,112,4,8,4,0,0,1,14,117,5,8,6,0,0,1,6,Școala Satul Poiana,,Poiana,46.2746,27.421
+454,4,BACĂU,NEGRI,345,1,50,22,1,8,2,16,359,10,49,22,1,6,2,13,Școala Ion Ionescu de La Brad Satul Poiana-Negri,,Poiana,46.6927,27.0165
+280,4,BACĂU,BLĂGEŞTI,218,1,11,0,2,42,1,22,228,0,13,0,3,46,1,17,Școala cu Clasele I-IV Poiana Negustorului,,Poiana Negustorului,46.6737,26.6136
+475,4,BACĂU,OITUZ,38,9,11,11,2,4,8,18,37,8,14,10,2,4,9,16,Școala Poiana-Sărată,,Poiana Sărată,46.1429,26.4559
+229,4,BACĂU,ORAŞ TÎRGU OCNA,164,6,53,9,1,13,4,11,161,5,54,10,1,16,3,12,Școala Generală nr. 5,,Poieni,46.2888,26.5679
+492,4,BACĂU,PARINCEA,57,2,12,2,1,11,1,7,55,3,14,5,2,12,1,4,Școala Poieni,,Poieni,46.4815,27.1698
+547,4,BACĂU,ROŞIORI,103,1,12,1,0,3,3,13,104,2,11,3,0,3,3,10,Școala Primară Satul Poieni,,Poieni,46.7496,27.0743
+297,4,BACĂU,CĂIUŢI,149,9,25,6,0,12,6,17,151,13,25,7,0,13,5,12,Școala Popeni,,Popeni,46.1713,26.9334
+418,4,BACĂU,LIVEZI,148,3,19,28,0,2,3,19,151,3,24,24,1,1,2,11,Școala Primară Prăjoaia,,Prajoaia,46.4071,26.718
+299,4,BACĂU,CĂIUŢI,155,4,32,13,1,3,1,7,148,3,41,11,0,2,1,6,Școala Pralea,,Pralea,46.1097,26.8644
+236,4,BACĂU,AGĂŞ,145,6,38,8,1,41,4,17,150,5,34,9,2,42,5,15,Școala Generală Preluci,,Preluci,46.4561,26.2737
+262,4,BACĂU,BEREŞTI-TAZLĂU,130,6,41,4,0,8,1,9,129,6,40,5,1,10,1,6,Școala Generală Prisaca,,Prisaca,46.4658,26.7184
+526,4,BACĂU,PODURI,161,8,46,9,0,52,2,11,153,8,42,10,0,68,3,8,Școala Satul Prohozești,,Prohozești,46.4749,26.5463
+394,4,BACĂU,HURUIEŞTI,112,1,11,3,0,2,0,9,118,1,12,2,0,2,0,3,Fostul Local al Școlii Pradaiș,,Prădaiș,46.1974,27.2488
+429,4,BACĂU,MĂGIREŞTI,65,2,119,0,0,20,4,12,64,2,107,1,1,35,5,9,Școala cu Clasele I-IV Prajestii,,Prăjești,46.504,26.5252
+529,4,BACĂU,PRĂJEŞTI,193,28,58,12,0,73,1,20,200,27,54,11,0,75,2,20,Școala Gimnazială Gheorghe Avramescu Prajesti-Sala de Sport,,Prăjești,46.6551,26.9738
+530,4,BACĂU,PRĂJEŞTI,189,13,61,8,1,50,3,32,195,10,67,8,2,58,3,13,Școala Gimnazială Gheorghe Avramescu Prăjești - Sala Cancelariei,,Prăjești,46.6551,26.9738
+501,4,BACĂU,PÂRJOL,97,3,56,2,9,2,2,9,106,2,46,4,11,3,3,6,Grădinița Pustiana,,Pustiana,46.5906,26.6316
+502,4,BACĂU,PÂRJOL,129,6,87,9,26,6,2,9,133,5,80,9,24,6,2,10,Școala cu Clasele .I-VIII Pustiana,,Pustiana,46.5859,26.628
+503,4,BACĂU,PÎNCEŞTI,212,3,29,6,1,0,4,42,226,5,34,9,0,1,7,20,Școala nr. 1 Pîncești,,Pâncești,46.3373,27.0786
+509,4,BACĂU,PÎRGĂREŞTI,92,3,68,1,2,34,6,9,90,4,73,0,2,32,8,12,Școala Gimnazială Dumitru Mărtinaș Satul Pîrgărești,Str. Mărului nr. 49,Pârgărești,46.2521,26.6516
+494,4,BACĂU,PÂRJOL,109,9,57,24,1,33,1,10,108,8,57,24,1,39,4,7,Școala Satul Pîrjol,,Pârjol,46.5856,26.6118
+435,4,BACĂU,MĂNĂSTIREA CAŞIN,71,3,20,5,0,4,1,15,74,6,23,5,0,4,1,7,Căminul Cultural Satul Mănăstirea Cașin,,Pârvulești,46.1542,26.6953
+508,4,BACĂU,PÎRGĂREŞTI,81,3,18,5,1,35,9,20,88,4,18,4,2,30,9,19,Grădinița cu Program Normal Satul Pîrîu Boghii,Str. Vânători nr. 80,Pârâu Boghii,46.2629,26.6403
+256,4,BACĂU,BEREŞTI-BISTRIŢA,100,1,15,3,1,10,1,6,99,1,18,3,0,11,1,6,Școala cu Clasele I-IV Pădureni,,Pădureni,46.714,26.8404
+444,4,BACĂU,MĂRGINENI,53,5,11,15,1,5,0,7,53,7,10,14,0,6,0,6,Școala cu Clasele I-IV Pădureni,,Pădureni,46.5796,26.8296
+375,4,BACĂU,GURA VĂII,55,1,33,19,0,7,2,9,58,0,37,15,1,7,2,8,Școala Păltinata,,Păltinata,46.2877,26.884
+247,4,BACĂU,ASĂU,119,3,31,4,1,11,3,8,119,5,33,2,1,15,4,6,Școala cu Clasele I-IV Păltiniș,,Păltiniș,46.5342,26.3633
+553,4,BACĂU,SASCUT,193,17,65,16,1,7,4,25,193,16,67,17,1,7,6,20,Școala cu Clasele I-VIII nr. 1 Pancesti,,Păncești,46.2114,27.067
+554,4,BACĂU,SASCUT,223,14,88,14,2,15,5,23,229,14,93,19,1,17,4,11,Școala cu Clasele I-VIII nr. 1 Pancesti,,Păncești,46.2114,27.067
+531,4,BACĂU,RACOVA,267,11,96,10,0,14,10,37,271,11,99,11,0,11,10,38,Școala nr. 1 Ioan Borcea Racova,Nr. 172,Racova,46.7032,26.7427
+532,4,BACĂU,RACOVA,155,11,45,6,0,3,4,29,159,11,43,6,0,8,6,23,Școala nr. 2 Racova-Șes,Nr. 865,Racova,46.6881,26.7392
+408,4,BACĂU,LETEA VECHE,60,6,26,7,0,7,6,16,60,8,28,7,0,6,5,13,Școala Radomirești,,Radomirești,46.5461,26.993
+390,4,BACĂU,HORGEŞTI,113,2,7,7,2,55,2,25,129,2,10,4,1,63,1,10,Școala Recea,,Recea,46.3925,27.054
+317,4,BACĂU,CORBASCA,79,2,13,3,1,2,0,5,78,1,19,3,0,0,1,3,Școala cu Clasele . I-IV Rogoaza,,Rogoaza,46.2705,27.1513
+263,4,BACĂU,BEREŞTI-TAZLĂU,139,3,14,2,3,10,1,4,136,3,12,1,4,12,3,6,Școala Generală Românești,,Românești,46.492,26.6658
+546,4,BACĂU,ROŞIORI,317,3,46,12,1,14,2,21,320,3,47,15,1,14,3,18,Școala Gimnazială nr. 1 Satul Roșiori,,Roșiori,46.7214,27.0831
+516,4,BACĂU,PLOPANA,124,5,9,0,0,3,1,8,128,3,11,0,0,3,1,5,Școala cu Clasele I-VIII Satul Rusenii-Răzeși,,Rusenii Răzeși,46.6521,27.276
+409,4,BACĂU,LETEA VECHE,215,7,43,5,0,10,5,21,221,8,46,5,0,11,5,16,Școala Ruși Ciutea,,Ruși-Ciutea,46.5198,26.9671
+359,4,BACĂU,GHIMEŞ-FĂGET,40,3,12,3,4,0,2,7,40,1,13,6,2,1,3,6,Școala Generală cu Clasele I-IV Răchitiș,,Răchitiș,46.6601,26.0259
+587,4,BACĂU,STRUGARI,96,1,20,14,1,2,1,4,93,1,21,13,1,7,1,3,Școala Generală Satul Răchitiș,,Răchitișu,46.5386,26.7542
+540,4,BACĂU,RĂCHITOASA,287,7,110,10,0,25,4,20,295,6,111,15,1,26,4,14,Căminul Cultural Satul Răchitoasa,,Răchitoasa,46.4409,27.3759
+534,4,BACĂU,RĂCĂCIUNI,183,22,48,15,5,24,4,21,190,21,47,13,1,24,6,24,Casa de Cultură Nicolae Stroe Satul Răcăciuni,,Răcăciuni,46.3333,27.0028
+535,4,BACĂU,RĂCĂCIUNI,163,7,41,13,0,9,9,24,168,7,41,14,0,11,8,17,Grădinița nr. 2 Satul Răcăciuni,,Răcăciuni,46.33,27.0087
+391,4,BACĂU,HORGEŞTI,151,0,9,1,0,77,4,25,157,2,10,3,0,80,7,13,Școala Răcătău,,Răcătău-Răzeși,46.3769,27.0377
+288,4,BACĂU,BUCIUMI,528,7,26,13,1,8,1,19,540,11,33,10,0,8,3,17,Școala Gimnazială Răcăuți,,Răcăuți,46.2244,26.785
+594,4,BACĂU,ŞTEFAN CEL MARE,492,7,23,31,0,16,11,45,477,8,21,31,2,19,17,31,Grădinița cu Program Normal Satul Rădeana,,Rădeana,46.2199,26.8375
+486,4,BACĂU,PARAVA,133,2,18,0,2,1,0,16,134,3,16,2,2,2,0,10,Școala Gimnazială Satul Rădoaia,,Rădoaia,46.3091,26.9259
+549,4,BACĂU,SASCUT,210,17,77,31,2,35,9,35,213,20,80,30,2,28,10,33,Liceul Jacques Menachen Elias Sascut,,Sascut,46.206,27.1063
+550,4,BACĂU,SASCUT,222,14,79,36,1,21,9,28,218,13,79,37,1,26,12,25,Liceul Jacques Menachen Elias Sascut,,Sascut,46.206,27.1063
+555,4,BACĂU,SASCUT,177,10,56,12,3,34,7,26,187,13,59,5,1,34,6,21,Școala cu Clasele I-VIII Satul Sascut-Sat,,Sascut-Sat,46.1873,27.0674
+556,4,BACĂU,SASCUT,12,6,51,2,27,177,0,17,186,4,51,14,1,31,2,8,Școala cu Clasele I-VIII Satul Sascut-Sat,,Sascut-Sat,46.1873,27.0674
+311,4,BACĂU,COLONEŞTI,89,2,21,4,0,10,1,7,91,1,21,3,0,16,0,1,Școala Primară Satu Nou,,Satu Nou,46.6266,27.2357
+413,4,BACĂU,LIPOVA,162,0,11,2,0,10,0,17,169,1,12,1,0,11,3,8,Școala cu Clasele I-VIII Satu Nou,,Satu Nou,46.6928,27.2952
+510,4,BACĂU,PÎRGĂREŞTI,91,8,87,7,5,134,2,15,106,10,92,6,4,116,4,15,Școala Gimnazială Vasile Gh.Radu Satul Satu Nou,Str. Bujorului nr. 109,Satu Nou,46.2409,26.6497
+621,4,BACĂU,URECHEŞTI,93,3,17,1,0,3,2,6,87,5,20,1,0,3,3,7,Școala Generală cu Clasele I-IV Satul Satu Nou,,Satu Nou,46.1276,27.0299
+566,4,BACĂU,SĂUCEŞTI,146,14,34,7,0,13,3,26,152,15,33,8,3,13,4,17,Școala Satul Schineni,,Schineni,46.6388,26.9484
+252,4,BACĂU,BALCANI,110,5,38,7,0,17,3,9,102,7,36,8,0,22,2,9,Grădinița nr. 2 Schitu-Frumoasa,,Schitu Frumoasa,46.6408,26.5167
+253,4,BACĂU,BALCANI,190,6,100,11,0,15,3,18,187,7,95,12,0,22,4,21,Școala Gimnazială Schitu-Frumoasa,,Schitu Frumoasa,46.6331,26.5007
+570,4,BACĂU,SCORŢENI,224,8,56,11,3,25,6,30,227,10,58,15,3,28,6,20,Școala cu Clasele I-VIII Satul Scorțeni,,Scorțeni,46.551,26.661
+480,4,BACĂU,ORBENI,240,3,302,8,3,33,2,12,231,4,303,12,2,35,3,7,Școala Gimnazială nr. 1 Satul Scurta,Str. Principală nr. 646,Scurta,46.2634,27.022
+436,4,BACĂU,MĂNĂSTIREA CAŞIN,232,9,95,9,0,24,4,44,234,9,109,9,1,28,8,24,Școala Generală.nr. 2 Mănăstirea Cașin,,Scutaru,46.1464,26.6788
+419,4,BACĂU,LIVEZI,94,2,11,51,0,6,1,8,92,3,12,48,0,8,1,7,Școala Primară Scăriga,,Scăriga,46.3936,26.6979
+313,4,BACĂU,CORBASCA,191,0,14,16,0,2,8,14,193,0,16,15,1,1,9,12,Școala cu Clasele I -Iv Scarisoara,,Scărișoara,46.2789,27.1292
+337,4,BACĂU,DOFTEANA,115,5,16,4,2,5,2,9,116,7,15,4,3,6,1,7,Școala Generală cu Clasele I-IV Seaca,,Seaca,46.3266,26.5117
+573,4,BACĂU,SECUIENI,140,9,44,11,1,165,4,35,145,10,53,9,2,162,5,15,Școala Gimnazială Satul Secuieni,,Secuieni,46.6432,27.0952
+410,4,BACĂU,LETEA VECHE,188,10,21,3,0,8,4,15,188,9,21,2,1,9,2,11,Școala Siretu,,Siretu,46.5068,26.9654
+567,4,BACĂU,SĂUCEŞTI,197,8,36,5,0,17,1,11,199,7,32,7,0,16,2,12,Școala Satul Siretu,,Siretu,46.672,26.93
+176,4,BACĂU,MUNICIPIUL ONEŞTI,286,10,40,18,0,12,5,27,285,10,42,17,0,22,7,19,Centrul Social Slobozia,Str. Victoriei nr. 44,Slobozia,46.28,26.7852
+583,4,BACĂU,STĂNIŞEŞTI,105,4,9,7,2,3,2,15,112,2,16,11,2,3,2,7,Școala Slobozia nr. 2,,Slobozia,46.4709,27.3085
+584,4,BACĂU,STĂNIŞEŞTI,179,1,23,11,0,1,1,9,190,0,22,10,1,3,0,4,Școala 1 Satul Slobozia,,Slobozia,46.4925,27.311
+619,4,BACĂU,URECHEŞTI,73,9,53,4,0,6,4,12,76,7,53,4,0,6,5,14,Grădinița Satul Slobozia,,Slobozia,46.1116,27.118
+585,4,BACĂU,STĂNIŞEŞTI,194,0,11,6,1,1,1,4,197,0,12,6,2,1,1,7,Școala Satul Slobozia Nouă,,Slobozia Nouă,46.5393,27.2955
+221,4,BACĂU,ORAŞ SLĂNIC-MOLDOVA,252,28,165,44,0,27,26,48,234,33,163,44,1,37,28,51,Școala nr. 1 Slănic,Str. Nicolae Bălcescu nr. 13,Slănic-Moldova,46.2137,26.4453
+506,4,BACĂU,PÎNCEŞTI,153,1,17,7,1,2,2,9,163,2,15,5,2,4,3,6,Școala Generală Satul Soci,,Soci,46.405,27.1258
+389,4,BACĂU,HORGEŞTI,227,4,9,3,0,40,3,13,229,2,10,3,0,37,3,11,Școala Sohodor,,Sohodor,46.4052,27.0605
+577,4,BACĂU,SOLONŢ,270,16,38,13,2,30,7,26,275,16,35,16,2,36,5,16,Școala cu Clasele I-VIII Satul Solonț,,Solonț,46.5511,26.5336
+307,4,BACĂU,CLEJA,66,7,203,5,18,8,1,22,74,10,190,5,22,9,2,24,Școala Somușca,,Somușca,46.4022,26.9094
+310,4,BACĂU,COLONEŞTI,99,5,30,1,0,3,0,8,104,3,28,3,1,2,1,7,Școala Gimnazială Spria,,Spria,46.6037,27.2586
+243,4,BACĂU,ASĂU,166,10,53,12,2,9,6,16,174,8,52,9,3,17,7,13,Școala cu Clasele I-IV Straja,,Straja,46.4378,26.3683
+586,4,BACĂU,STRUGARI,263,4,69,5,4,30,2,17,262,0,65,5,5,35,2,11,Școala Generală Satul Strugari,,Strugari,46.5319,26.7187
+517,4,BACĂU,PLOPANA,151,2,11,0,2,2,3,9,156,3,10,0,0,4,3,9,Școala cu Clasele I-IV Satul Străminoasa,,Străminoasa,46.6421,27.2888
+560,4,BACĂU,SĂNDULENI,74,1,32,2,3,3,0,8,83,2,28,3,3,2,0,4,Școala Generală cu Clasele I-IV Stufu,,Stufu,46.4385,26.7662
+427,4,BACĂU,MĂGIREŞTI,70,4,96,0,0,12,0,5,69,5,88,1,0,20,0,2,Școala cu Clasele. I-IV Stănești (Corp Nou),,Stănești,46.5261,26.532
+580,4,BACĂU,STĂNIŞEŞTI,219,4,24,35,1,6,3,21,215,5,25,47,1,4,5,15,Primăria Stănișești,,Stănișești,46.426,27.3083
+234,4,BACĂU,AGĂŞ,158,3,32,8,1,37,9,23,165,3,32,9,1,32,8,18,Școala Generală Sulța,,Sulța,46.4729,26.2399
+522,4,BACĂU,PODU TURCULUI,147,1,15,28,1,2,8,16,142,2,17,28,0,2,8,10,Școala Generală Satul Sîrbi,,Sârbi,46.2296,27.3363
+557,4,BACĂU,SĂNDULENI,266,11,51,13,1,11,2,17,263,11,53,14,2,13,1,14,Șoala Generală cu Clasele I-VIII Sănduleni,,Sănduleni,46.4407,26.7368
+561,4,BACĂU,SĂRATA,153,24,36,10,1,11,3,33,148,27,30,8,1,13,4,39,Școala nr. 1 Sărata,,Sărata,46.5103,26.8563
+563,4,BACĂU,SĂRATA,112,5,11,0,3,4,2,22,111,6,14,0,3,4,3,19,Școala nr. 3 Sărata (Școala din Catun Talpa),,Sărata,46.5144,26.8451
+578,4,BACĂU,SOLONŢ,166,9,15,0,2,7,3,11,166,8,15,0,2,8,3,11,Cabinet Medical,,Sărata,46.5658,26.5544
+564,4,BACĂU,SĂUCEŞTI,257,23,52,26,0,26,5,36,265,25,48,26,0,27,6,31,Școala I.S.Sturza Satul Săucești,,Săucești,46.6183,26.9415
+565,4,BACĂU,SĂUCEŞTI,188,29,47,18,1,21,6,33,187,29,48,18,1,22,6,25,Școala I.S.Sturza Satul Săucești,,Săucești,46.6183,26.9415
+595,4,BACĂU,TAMAŞI,569,12,28,14,1,9,25,38,578,13,26,16,1,7,31,41,Centrul Educațional Înv.Dumitru Nediță Tamași,,Tamași,46.4775,26.9987
+477,4,BACĂU,ONCEŞTI,190,6,29,4,1,8,3,15,194,9,28,6,1,10,3,9,Sala de Festivități Satul Tarnița,,Tarnița,46.5211,27.2511
+487,4,BACĂU,PARAVA,90,5,14,3,0,3,1,8,88,5,17,4,1,6,0,3,Școala Primară Satul Teiuș,,Teiuș,46.3241,26.9691
+374,4,BACĂU,GURA VĂII,65,0,48,15,1,2,2,12,68,1,51,16,1,2,2,5,Școala Temelia,,Temelia,46.2894,26.8738
+264,4,BACĂU,BEREŞTI-TAZLĂU,172,6,38,5,2,20,5,12,169,6,36,5,2,28,5,12,Școala Generală Tescani,,Tescani,46.5107,26.6576
+464,4,BACĂU,ODOBEŞTI,347,3,26,8,0,7,2,24,345,4,25,9,1,6,6,13,Școala cu Clasele I-VIII Tisa Silvestri,,Tisa-Silvestri,46.654,27.1392
+608,4,BACĂU,TRAIAN,136,25,179,13,2,21,7,32,143,26,185,12,3,15,6,23,Școala cu Clasele I-VIII Satul Traian,,Traian,46.6251,27.0343
+442,4,BACĂU,MĂRGINENI,134,14,39,11,2,7,2,16,136,16,43,13,1,7,2,13,Școala cu Clasele I-VIII Trebeș,,Trebeș,46.5946,26.8375
+265,4,BACĂU,BEREŞTI-TAZLĂU,229,14,26,1,0,14,2,9,235,15,27,3,0,16,3,9,Școala Generală Turluianu,,Turluianu,46.4517,26.6447
+606,4,BACĂU,TÎRGU TROTUŞ,89,17,70,21,6,28,1,16,91,19,76,22,7,24,0,9,Grădinița cu Program Normal Satul Tuta,,Tuta,46.2552,26.6903
+607,4,BACĂU,TÎRGU TROTUŞ,133,12,76,12,15,36,1,16,136,12,78,10,23,38,1,7,Grădinița cu Program Normal Satul Tuta,,Tuta,46.2552,26.6903
+223,4,BACĂU,ORAŞ TÎRGU OCNA,269,31,98,37,3,27,11,61,266,34,107,41,3,27,11,43,Școala Generală nr. 1,,Târgu Ocna,46.2797,26.6037
+224,4,BACĂU,ORAŞ TÎRGU OCNA,296,40,107,37,3,53,15,51,287,45,120,34,2,51,16,45,Casa de Cultura,,Târgu Ocna,46.2794,26.6058
+225,4,BACĂU,ORAŞ TÎRGU OCNA,330,38,84,31,2,41,29,77,323,36,92,39,3,48,32,71,Colegiul National Costache Negri,,Târgu Ocna,46.2794,26.6143
+226,4,BACĂU,ORAŞ TÎRGU OCNA,272,37,81,36,2,36,20,62,257,49,89,34,1,48,22,52,Școala Generală nr. 2,,Târgu Ocna,46.2783,26.614
+227,4,BACĂU,ORAŞ TÎRGU OCNA,195,22,54,24,0,21,10,47,190,22,55,28,0,21,11,38,Școala Generală nr. 3,,Târgu Ocna,46.2783,26.6228
+228,4,BACĂU,ORAŞ TÎRGU OCNA,326,27,90,25,0,23,9,35,315,32,94,27,1,28,10,29,Școala Generală nr. 4,,Târgu Ocna,46.2729,26.6195
+231,4,BACĂU,ORAŞ TÎRGU OCNA,186,24,44,18,0,21,12,42,178,26,51,14,0,29,15,33,Școala Generală nr. 3-Sala de Sport,,Târgu Ocna,46.2786,26.623
+604,4,BACĂU,TÎRGU TROTUŞ,136,17,71,30,4,33,1,12,138,10,75,34,4,35,1,12,Grădinița cu Program Normal Tg.Trotuș,,Târgu Trotuș,46.2638,26.6728
+605,4,BACĂU,TÎRGU TROTUŞ,140,21,64,32,1,37,6,16,151,18,53,41,1,35,5,13,Grădinița cu Program Normal Tg.Trotuș,,Târgu Trotuș,46.2638,26.6728
+321,4,BACĂU,COŢOFĂNEŞTI,177,1,12,2,1,11,0,3,176,1,14,3,1,12,0,3,Școala cu Clasele I-IV Tămăsoaia,,Tămășoaia,46.1332,27.0033
+355,4,BACĂU,GHIMEŞ-FĂGET,57,5,33,0,31,8,4,10,58,4,33,2,27,8,5,11,Școala Generală cu Clasele I-VIII Tărhăuși,,Tărhăuși,46.5824,26.0688
+495,4,BACĂU,PÂRJOL,87,4,132,14,1,12,1,18,84,5,131,14,1,15,3,16,Școala Satul Tarița,,Tărâța,46.5668,26.6203
+598,4,BACĂU,TĂTĂRĂŞTI,120,1,9,18,1,1,10,19,118,1,9,20,1,2,9,17,Primăria Tătărăști,,Tătărăști,46.2172,27.2041
+328,4,BACĂU,DEALU MORII,155,2,9,5,1,2,0,18,161,3,13,9,1,3,1,4,Școala Tăvădărăști,,Tăvădărești,46.3259,27.2921
+612,4,BACĂU,UNGURENI,277,1,16,11,0,5,0,13,283,3,14,11,0,7,0,9,Căminul Cultural Ungureni,,Ungureni,46.5228,27.1141
+617,4,BACĂU,URECHEŞTI,225,8,142,10,0,19,14,39,231,9,144,10,0,18,12,29,Sala de Ceremonii,,Urechești,46.1316,27.0903
+428,4,BACĂU,MĂGIREŞTI,106,11,185,8,1,45,9,27,103,8,178,9,1,62,8,30,Școala cu Clasele I-VIII Valea Arinilor,,Valea Arinilor,46.4964,26.5073
+443,4,BACĂU,MĂRGINENI,92,18,38,4,0,9,9,17,90,17,37,4,0,12,9,16,Școala cu Clasele I-IV Valea Budului,,Valea Budului,46.5961,26.8176
+414,4,BACĂU,LIPOVA,131,3,5,2,0,6,1,21,153,3,6,3,0,6,2,7,Școala cu Clasele I-IV Valea Caselor,,Valea Caselor,46.7203,27.2089
+412,4,BACĂU,LIPOVA,87,0,5,7,0,11,0,2,86,1,2,8,0,11,0,4,Școala cu Clasele I-IV Valea Hogei,,Valea Hogei,46.7059,27.2726
+548,4,BACĂU,ROŞIORI,175,2,12,2,0,4,0,9,177,2,12,3,0,3,0,7,Școala Primară Satul Valea Mare,,Valea Mare,46.7186,27.1134
+308,4,BACĂU,CLEJA,59,2,102,4,4,3,1,11,64,4,103,2,3,4,2,5,Școala Valea Mică,,Valea Mică,46.3871,26.9539
+459,4,BACĂU,NICOLAE BĂLCESCU,106,8,49,6,0,6,3,15,116,10,51,5,0,5,3,10,Grădinița nr. 1 Valea Seaca,,Valea Seacă,46.4658,26.8836
+460,4,BACĂU,NICOLAE BĂLCESCU,139,12,65,7,1,8,4,17,137,15,66,8,1,9,5,13,Grădinița nr. 1 Valea Seaca,,Valea Seacă,46.4658,26.8836
+461,4,BACĂU,NICOLAE BĂLCESCU,112,10,47,8,0,13,1,15,116,10,49,8,0,13,2,9,Grădinița nr. 1 Valea Seaca,,Valea Seacă,46.4658,26.8836
+622,4,BACĂU,VALEA SEACĂ,305,3,21,7,1,5,4,17,306,6,22,5,1,8,4,8,Școala Gimnazială nr. 1 Valea Seacă,,Valea Seacă,46.2421,27.0446
+623,4,BACĂU,VALEA SEACĂ,242,9,37,14,0,9,1,11,245,7,34,15,0,9,2,11,Școala Primară nr. 2 Valea Seacă,,Valea Seacă,46.2409,27.0766
+624,4,BACĂU,VALEA SEACĂ,258,4,15,9,0,11,3,19,265,5,19,8,0,13,2,7,Școala Primară nr. 3 Valea Seacă,,Valea Seacă,46.2394,27.0271
+278,4,BACĂU,BLĂGEŞTI,227,7,50,1,0,10,3,14,229,7,46,2,0,18,3,14,Școala cu Clasele.I-VIII nr. 1 Valea Lui Ion,,Valea lui Ion,46.698,26.6207
+525,4,BACĂU,PODURI,191,6,33,3,0,31,3,35,197,3,36,3,0,49,4,14,Școala Satul Valea Șosii,,Valea Șoșii,46.4629,26.5445
+558,4,BACĂU,SĂNDULENI,227,7,14,2,1,2,1,9,228,5,12,3,1,3,3,8,Școala Generală cu Clasele I-VIII Verșești,,Verșești,46.448,26.7024
+613,4,BACĂU,UNGURENI,102,7,7,1,1,2,4,10,107,6,7,2,1,2,3,8,Școala Viforeni,,Viforeni,46.5832,27.0935
+592,4,BACĂU,ŞTEFAN CEL MARE,144,4,21,5,0,3,0,9,148,6,19,5,1,4,0,6,Grădinița cu Program Normal Satul Viișoara,,Viișoara,46.227,26.8463
+603,4,BACĂU,TÎRGU TROTUŞ,134,16,51,16,3,24,8,21,136,13,53,16,2,27,6,16,Grădinița cu Program Normal Satul Viișoara,,Viișoara,46.2831,26.6603
+490,4,BACĂU,PARINCEA,195,4,49,1,8,20,1,10,194,7,44,3,7,21,3,5,Școala Vladnic,,Vladnic,46.4441,27.1367
+302,4,BACĂU,CĂIUŢI,55,2,14,5,0,1,1,8,53,2,16,4,0,2,3,8,Școala Vrânceni,,Vrânceni,46.2138,26.9046
+626,4,BACĂU,VULTURENI,53,4,52,3,0,7,0,7,54,2,59,4,0,7,1,7,Școala Vultureni,,Vultureni,46.4048,27.2731
+230,4,BACĂU,ORAŞ TÎRGU OCNA,212,17,56,15,0,26,8,29,209,18,56,13,1,32,8,29,Școala Generală nr. 6,,Vâlcele,46.3013,26.5963
+315,4,BACĂU,CORBASCA,101,1,7,2,0,2,5,17,100,2,7,4,0,3,5,10,Școala cu Clasele. I-IV Vîlcele,,Vâlcele,46.3051,27.1298
+489,4,BACĂU,PARINCEA,81,2,16,7,1,4,2,14,81,1,19,8,1,3,2,11,Școala Văleni,,Văleni,46.4651,27.0759
+631,4,BACĂU,ZEMEŞ,167,7,123,6,0,39,6,28,161,7,117,9,0,60,5,19,Școala Mihai Eminescu Zemeș,,Zemeș,46.5202,26.4648
+632,4,BACĂU,ZEMEŞ,243,7,174,8,1,20,6,22,237,7,167,10,2,38,2,14,Școala Ștefan Cel Mare Zemeș,,Zemeș,46.5486,26.4658
+634,4,BACĂU,ZEMEŞ,137,4,113,1,0,20,5,15,137,4,106,2,1,29,2,10,Școala Ștefan Cel Mare Zemeș,,Zemeș,46.5486,26.4658
+610,4,BACĂU,TRAIAN,33,8,65,6,0,2,5,17,36,8,65,6,0,2,5,14,Școala cu Clasele I-IV Satul Zăpodia,,Zăpodia,46.6417,27.0692
+452,4,BACĂU,MOTOŞENI,120,0,27,6,0,3,3,11,121,0,27,6,0,2,5,10,Școala Satul Șendrești,,Șendrești,46.3772,27.4328
+568,4,BACĂU,SĂUCEŞTI,149,3,25,7,0,8,2,10,152,3,26,5,1,9,3,12,Școala Satul Șerbești,,Șerbești,46.704,26.9229
+336,4,BACĂU,DOFTEANA,192,10,36,7,1,17,1,14,194,12,39,9,0,15,1,10,Școala Generală cu Clasele I-IV Ștefan Vodă,,Ștefan Vodă,46.317,26.5144
+589,4,BACĂU,ŞTEFAN CEL MARE,189,5,40,12,2,11,3,20,190,7,42,12,2,14,9,16,Grădinița cu Program Normal Satul Ștefan Cel Mare,,Ștefan cel Mare,46.2069,26.8551
+448,4,BACĂU,MOTOŞENI,153,3,22,4,0,3,0,7,156,1,21,3,0,3,0,5,Școala Satul Țepoaia,,Țepoaia,46.3114,27.3626
+279,4,BACĂU,BLĂGEŞTI,113,2,27,6,1,3,4,12,112,2,25,5,2,4,3,11,Școala cu Clasele I-IV Țîrdenii Mari,,Țârdenii Mari,46.6857,26.6002

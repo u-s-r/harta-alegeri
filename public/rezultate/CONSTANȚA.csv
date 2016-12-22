@@ -1,0 +1,557 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+462,14,CONSTANȚA,LIMANU,309,19,62,24,1,26,31,102,327,18,65,28,3,27,35,75,Școala Generală cu Clasele I-VIII 2mai,2 MAI Nr. 426,2 Mai,43.7861,28.5772
+463,14,CONSTANȚA,LIMANU,331,23,86,27,0,33,32,82,342,25,87,27,1,40,37,58,Școala Generală cu Clasele I-VIII 2mai,2 MAI Nr. 426,2 Mai,43.7861,28.5772
+353,14,CONSTANȚA,23 AUGUST,206,14,196,26,0,17,8,40,211,16,201,27,1,22,10,29,"Școala cu Clasele I-VIII, Localitatea 23 August",23 AUGUST,23 August,43.9175,28.5812
+354,14,CONSTANȚA,23 AUGUST,181,15,179,24,1,33,9,41,177,18,195,24,2,25,9,30,"Școala cu Clasele I-VIII, Localitatea 23 August",23 AUGUST,23 August,43.9175,28.5812
+360,14,CONSTANȚA,ADAMCLISI,11,0,43,2,0,0,0,4,13,0,39,6,0,1,1,5,Școala Generală Abrud,Str. Adamclisi nr. 4,Abrud,44.1467,27.9811
+357,14,CONSTANȚA,ADAMCLISI,183,9,161,26,1,8,10,28,188,9,166,25,1,6,12,25,Liceul Tehnologic „Jean Dinu”,Str. Traian nr. 37,Adamclisi,44.0832,27.9535
+361,14,CONSTANȚA,AGIGEA,251,52,128,59,0,30,19,62,261,52,135,56,0,22,18,56,Școala Ion Borcea- Laboratorul de Istorie,,Agigea,44.0926,28.6099
+362,14,CONSTANȚA,AGIGEA,209,66,120,73,1,17,21,82,214,66,127,66,2,18,22,70,Școala Ion Borcea- Laboratorul de Chimie,,Agigea,44.0926,28.6099
+363,14,CONSTANȚA,AGIGEA,263,27,111,43,1,41,31,82,266,32,111,58,2,29,24,66,Grădinița Agigea-Grupa Fluturasilor,,Agigea,44.0915,28.6138
+364,14,CONSTANȚA,AGIGEA,217,49,116,48,3,32,26,82,219,46,135,40,2,31,25,73,Grădinița Agigea-Grupa Ratustelor,,Agigea,44.0915,28.6138
+365,14,CONSTANȚA,AGIGEA,106,8,49,20,0,3,8,22,105,7,49,19,0,3,11,24,Grădinița „Rița Gărgărița” Agigea,Str. Alexandru Ioan Cuza nr. 14-18,Agigea,44.0923,28.6136
+367,14,CONSTANȚA,ALBEŞTI,154,8,347,16,0,10,6,34,151,9,355,13,0,10,6,28,Școala Gimnazială „Ion Creangă” Albești,Șoseaua Mangaliei nr. 33,Albești,43.7999,28.4301
+372,14,CONSTANȚA,ALIMAN,64,0,148,8,2,6,7,12,69,0,149,7,3,7,6,10,Școala Gimnazială „Dan Spataru” Aliman,Str. Principală nr. 45,Aliman,44.1854,27.8532
+503,14,CONSTANȚA,OSTROV,195,2,25,4,0,8,3,13,192,2,27,4,1,8,4,11,Cămin Cultural Almălău,,Almălău,44.0837,27.3409
+375,14,CONSTANȚA,AMZACEA,210,16,103,13,0,17,4,31,222,14,113,16,1,16,4,14,Școala Amzacea,,Amzacea,43.9587,28.3915
+368,14,CONSTANȚA,ALBEŞTI,107,3,43,7,1,2,4,13,103,2,46,8,0,2,4,14,Școala Primară nr. 2 Arsa,Str. Mihai Eminescu nr. 45,Arsa,43.8394,28.4642
+540,14,CONSTANȚA,TOPRAISAR,142,3,18,6,0,7,4,16,143,4,21,6,0,5,3,10,Școala I-VIII Biruința,,Biruința,43.9965,28.5065
+507,14,CONSTANȚA,OSTROV,68,2,14,1,0,3,2,6,71,2,14,3,0,2,2,6,Camin Cultural Bugeac,,Bugeac,44.0987,27.4317
+416,14,CONSTANȚA,CRUCEA,52,2,66,2,0,4,1,7,55,2,68,4,0,3,1,4,Școala Primară nr. 1 Băltăgești,Nr. 49,Băltăgești,44.4801,28.1921
+274,14,CONSTANȚA,ORAŞ BĂNEASA,248,5,53,10,0,11,5,32,259,3,52,12,0,16,8,20,Școala Generală nr. 1 Băneasa,Str. Trandafirilor (D) nr. 79,Băneasa,44.0687,27.6936
+275,14,CONSTANȚA,ORAŞ BĂNEASA,493,21,105,52,0,44,15,61,506,16,113,55,0,42,14,46,Liceul Teoretic Băneasa,Str. Trandafirilor (D) nr. 95,Băneasa,44.0663,27.6971
+378,14,CONSTANȚA,BĂRĂGANU,249,2,52,7,2,8,4,14,250,3,52,6,1,7,6,14,Școala Gimnazială „Emil Gârleanu” Bărăganu,,Bărăganu,44.0894,28.4176
+466,14,CONSTANȚA,LIPNIŢA,81,5,47,6,0,1,6,13,82,5,53,4,0,2,6,11,Căminul Cultural Canlia,,Canlia,44.1237,27.5316
+467,14,CONSTANȚA,LIPNIŢA,57,2,13,0,0,14,2,20,68,0,16,0,0,17,1,7,Școala Generală Carvăn,,Carvăn,44.0361,27.5699
+377,14,CONSTANȚA,AMZACEA,59,3,21,4,0,4,7,11,63,3,23,3,0,3,7,10,Cămin Cultural Casicea,,Casicea,43.9671,28.2646
+380,14,CONSTANȚA,CASTELU,167,7,41,73,1,52,6,42,179,12,40,73,1,52,8,32,Căminul Cultural,Str. Republicii nr. 60,Castelu,44.2556,28.337
+381,14,CONSTANȚA,CASTELU,212,6,35,82,1,50,3,30,216,5,32,99,1,44,4,23,Căminul Cultural,Str. Republicii nr. 60,Castelu,44.2556,28.337
+383,14,CONSTANȚA,CERCHEZU,207,1,18,3,0,4,1,5,203,2,20,4,0,3,1,6,Căminul Cultural Cerchezu,Str. G-ral Cerchez nr. 26,Cerchezu,43.8244,28.0965
+278,14,CONSTANȚA,ORAŞ CERNAVODĂ,274,11,126,14,2,18,18,43,281,8,125,14,1,29,17,35,Școala Gimnazială nr. 1,Str. Salciei nr. 1,Cernavodă,44.3502,28.033
+279,14,CONSTANȚA,ORAŞ CERNAVODĂ,241,15,91,21,0,25,6,35,238,14,101,21,2,28,6,25,Școala Gimnazială nr. 1,Str. Salciei nr. 1,Cernavodă,44.3502,28.033
+280,14,CONSTANȚA,ORAŞ CERNAVODĂ,254,25,119,16,1,47,11,43,265,23,119,16,1,46,13,35,Grădinița cu Program Prelungit „Panseluța”,Str. Salciei nr. 6,Cernavodă,44.35,28.0327
+281,14,CONSTANȚA,ORAŞ CERNAVODĂ,300,25,103,36,0,28,16,52,295,24,104,35,1,38,17,47,Școala Gimnazială nr. 2,Str. Mihail Sadoveanu nr. 9,Cernavodă,44.3424,28.0389
+282,14,CONSTANȚA,ORAŞ CERNAVODĂ,289,55,127,54,0,63,12,58,287,58,130,56,0,61,21,53,Liceul Teoretic Anghel Saligny,Nr. 24-26,Cernavodă,44.3409,28.0325
+283,14,CONSTANȚA,ORAŞ CERNAVODĂ,271,77,196,43,1,53,17,72,269,77,193,48,3,69,14,56,Liceul Teoretic Anghel Saligny,Nr. 24-26,Cernavodă,44.3409,28.0325
+284,14,CONSTANȚA,ORAŞ CERNAVODĂ,216,12,71,29,2,26,5,37,206,12,78,29,2,33,4,32,Grădinița cu Program Prelungit nr. 4,Str. Tudor Vladimirescu nr. 12,Cernavodă,44.3391,28.0407
+285,14,CONSTANȚA,ORAŞ CERNAVODĂ,168,14,71,14,1,22,6,34,166,14,70,16,1,31,7,29,Creșa din Strada Tudor Vladimirescu,Str. Tudor Vladimirescu nr. 12,Cernavodă,44.339,28.0406
+286,14,CONSTANȚA,ORAŞ CERNAVODĂ,191,25,137,37,0,40,14,51,195,24,133,40,0,50,13,41,Liceul Tehnologic Axiopolis Cernavodă,Str. Cazărmii nr. 6,Cernavodă,44.3344,28.0378
+287,14,CONSTANȚA,ORAŞ CERNAVODĂ,132,56,87,45,0,42,6,41,138,52,89,39,0,48,7,39,Liceul Tehnologic Axiopolis Cernavodă,Str. Cazărmii nr. 6,Cernavodă,44.3339,28.0375
+288,14,CONSTANȚA,ORAŞ CERNAVODĂ,170,58,126,43,1,46,8,42,176,56,127,37,0,57,6,35,Școala Gimnazială Mircea Eliade,Str. Cazărmii nr. 6,Cernavodă,44.3352,28.0375
+438,14,CONSTANȚA,DOBROMIR,40,0,47,15,0,0,1,9,43,0,47,14,1,0,1,8,Școala Generală Sat Cetatea,Str. Cișmelei,Cetatea,44.0055,27.8777
+446,14,CONSTANȚA,GRĂDINA,152,5,23,4,0,0,1,10,150,4,24,4,0,0,1,8,Grădinița cu Program Normal Cheia,,Cheia,44.516,28.4301
+387,14,CONSTANȚA,CHIRNOGENI,283,7,88,22,0,11,6,53,304,8,85,25,0,12,6,34,Școala Gimnazială nr. 1 Chirnogeni,Str. Negru Vodă nr. 41,Chirnogeni,43.9028,28.2266
+390,14,CONSTANȚA,CIOBANU,470,2,26,7,0,9,4,19,478,5,24,8,0,8,4,14,Liceul Tehnologic Ciobanu -Sala Clasa 1,,Ciobanu,44.7186,27.9839
+391,14,CONSTANȚA,CIOBANU,438,5,20,3,0,4,6,16,440,6,22,1,1,4,8,16,Liceul Tehnologic Ciobanu -Sala Clasa 2,,Ciobanu,44.7186,27.9839
+479,14,CONSTANȚA,MERENI,65,1,30,8,0,1,2,7,64,1,29,9,0,2,1,5,Școala cu Clasele I -Iv,,Ciobănița,44.0144,28.2756
+393,14,CONSTANȚA,CIOCÎRLIA,263,5,79,19,1,41,2,33,282,5,81,24,1,34,4,17,Cămin Cultural Sat Ciocîrlia,Str. 1 Decembrie nr. 66,Ciocârlia,44.1042,28.285
+394,14,CONSTANȚA,CIOCÎRLIA,160,8,53,22,2,29,6,38,172,7,54,22,0,29,10,30,Cămin Cultural Sat Ciocîrlia de Sus,Str. Venus nr. 15,Ciocârlia de Sus,44.1164,28.3334
+395,14,CONSTANȚA,COBADIN,239,18,80,24,1,34,11,69,247,22,109,27,1,31,14,32,Cămin Cultural Cobadin,Piața Eroilor nr. 3,Cobadin,44.0662,28.2293
+396,14,CONSTANȚA,COBADIN,230,12,111,32,2,47,3,51,253,14,122,33,2,47,8,27,Școala Tătară Cobadin,Str. Primăverii nr. 26,Cobadin,44.0635,28.2346
+397,14,CONSTANȚA,COBADIN,232,10,88,16,2,19,4,33,246,13,90,17,2,22,3,20,Școala Romana,Str. Primăverii nr. 14,Cobadin,44.0649,28.2328
+523,14,CONSTANȚA,RASOVA,164,4,39,7,2,4,2,7,166,3,39,10,1,5,2,4,Școala Gimnazială Cochirleni,,Cochirleni,44.2749,27.9994
+401,14,CONSTANȚA,COGEALAC,329,13,52,56,0,15,11,37,340,11,54,57,0,19,11,27,Grădinița cu Orar Normal Cogealac,Str. Mare nr. 53,Cogealac,44.5568,28.5649
+402,14,CONSTANȚA,COGEALAC,298,6,45,57,0,12,9,28,302,7,47,60,2,13,7,18,Școala Gimnazială „Cristea Caraman” Cogealac,Str. Mare nr. 55,Cogealac,44.556,28.5636
+405,14,CONSTANȚA,COMANA,113,2,97,10,0,7,4,16,115,3,96,12,0,7,4,14,Școala cu Clasele I-VIII Comana,Str. Primăverii nr. 20,Comana,43.8962,28.3184
+398,14,CONSTANȚA,COBADIN,21,0,10,30,0,1,4,13,23,0,11,30,0,1,4,9,Școala Generală Conacu,Str. Nufărului nr. 138,Conacu,43.9886,28.1727
+1,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,122,59,53,32,1,22,5,36,119,55,66,27,2,25,5,30,Colegiul National „Mihai Eminescu”,Str. Traian nr. 19,Constanța,44.1749,28.6555
+2,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,97,49,54,31,0,13,10,63,107,48,61,31,0,19,12,37,Colegiul National „Mihai Eminescu”,Str. Traian nr. 19,Constanța,44.1749,28.6555
+3,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,122,48,74,49,2,15,7,49,115,42,85,50,2,22,10,45,Școala Gimnazială nr. 2,Str. Dr. Aristide Karatzali nr. 13,Constanța,44.1767,28.6561
+4,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,118,54,46,29,1,17,12,48,113,52,62,28,2,17,17,42,Colegiul Național Mircea Cel Bătrân,Str. Ștefan cel Mare nr. 6,Constanța,44.181,28.6515
+5,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,72,72,73,32,0,23,13,50,74,72,78,31,0,22,19,42,Colegiul Național Mircea Cel Bătrân,Str. Ștefan cel Mare nr. 6,Constanța,44.181,28.6515
+6,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,65,30,40,14,0,16,8,34,65,35,42,14,0,15,8,28,Școala Gimnazială nr. 28 „Dan Barbilian”,Str. Decebal nr. 15,Constanța,44.1841,28.6514
+7,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,194,132,175,81,1,51,26,110,190,131,207,81,1,50,29,82,Colegiul Comercial „Carol I”,Str. Decebal nr. 15,Constanța,44.1842,28.6508
+8,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,143,85,88,52,0,20,12,57,150,84,102,47,0,23,14,37,Colegiul Comercial „Carol I”,Str. Decebal nr. 15,Constanța,44.1842,28.6508
+9,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,224,80,149,105,3,55,18,80,233,75,162,107,6,48,22,70,Colegiul National Pedagogic „Constantin Brătescu”,Str. Răscoala 1907 (Str. Răscoalei) nr. 42,Constanța,44.1826,28.6465
+10,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,165,89,106,71,1,39,15,50,168,89,114,64,3,30,20,53,Colegiul National Pedagogic „Constantin Brătescu”,Str. Răscoala 1907 (Str. Răscoalei) nr. 42,Constanța,44.1826,28.6465
+11,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,192,93,118,74,1,44,13,75,196,86,148,69,2,31,17,64,Colegiul National Pedagogic „Constantin Brătescu”,Str. Răscoala 1907 (Str. Răscoalei) nr. 42,Constanța,44.1826,28.6465
+12,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,159,74,128,51,2,20,8,72,162,75,135,54,2,24,8,49,Liceul Tehnologic „Ioan N.Roman” (Școala nr. 25),Str. Cuza Vodă nr. 80,Constanța,44.1748,28.6426
+13,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,162,58,77,53,0,31,14,59,163,55,86,59,1,28,16,50,Liceul Tehnologic „Ioan N.Roman” (Școala nr. 25),Str. Cuza Vodă nr. 80,Constanța,44.1748,28.6426
+14,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,135,41,58,42,0,20,8,60,136,43,72,43,1,19,12,41,Teatrul de Stat Constanța (Teatrul „Fantasio”),Bulevardul Ferdinand (Bulevardul Republicii) nr. 11,Constanța,44.1767,28.6485
+15,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,129,61,71,42,0,31,17,80,137,65,85,40,0,22,17,64,Teatrul de Stat Constanța (Teatrul „Fantasio”),Bulevardul Ferdinand (Bulevardul Republicii) nr. 11,Constanța,44.1767,28.6485
+16,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,151,70,75,48,0,27,13,36,138,62,89,52,0,33,14,35,Liceul Teoretic „Traian”,Str. Traian nr. 55,Constanța,44.1747,28.6475
+17,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,89,30,51,28,1,7,6,32,92,32,55,22,2,5,8,28,Liceul Teoretic „Traian”,Str. Traian nr. 55,Constanța,44.1747,28.6475
+18,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,197,108,139,75,1,29,22,85,209,106,152,69,2,25,29,74,Liceul Teoretic „Traian”,Str. Traian nr. 55,Constanța,44.1747,28.6475
+19,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,182,100,108,76,1,21,19,68,195,98,125,78,1,14,20,43,Școala Gimnazială nr. 24 „Ion Jalea”,Str. Griviței nr. 70,Constanța,44.1736,28.6374
+20,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,245,92,119,65,0,33,22,72,248,95,138,62,0,25,22,64,Școala Gimnazială nr. 24 „Ion Jalea”,Str. Griviței nr. 70,Constanța,44.1736,28.6374
+21,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,219,118,146,58,1,51,24,82,225,120,161,57,2,43,23,63,Școala Gimnazială nr. 24 „Ion Jalea”,Str. Griviței nr. 70,Constanța,44.1736,28.6374
+22,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,265,102,115,76,1,40,32,83,267,92,139,72,2,35,34,75,Liceul cu Program Sportiv „Nicolae Rotaru” (Școala nr. 34),Str. Ion Corvin nr. 2,Constanța,44.178,28.6332
+23,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,212,85,95,53,0,24,15,60,213,81,104,52,1,26,11,55,Liceul cu Program Sportiv „Nicolae Rotaru” (Școala nr. 34),Str. Ion Corvin nr. 2,Constanța,44.178,28.6332
+24,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,259,62,108,47,2,32,14,69,262,63,113,51,1,29,18,64,Liceul cu Program Sportiv „Nicolae Rotaru” (Școala nr. 34),Str. Ion Corvin nr. 2,Constanța,44.178,28.6332
+25,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,304,123,158,81,1,28,24,95,311,119,175,73,1,34,29,82,Liceul cu Program Sportiv „Nicolae Rotaru” (Școala nr. 34),Str. Ion Corvin nr. 2,Constanța,44.178,28.6332
+26,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,190,97,69,48,0,29,18,60,183,97,87,52,0,19,23,51,Colegiul Național de Arte „Regina Maria” (Școala nr. 42),Bulevardul Alexandru Lăpușneanu nr. 11,Constanța,44.1832,28.6341
+27,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,134,76,109,57,3,26,19,76,142,77,126,50,3,28,21,56,Colegiul Național de Arte „Regina Maria” (Școala nr. 42),Bulevardul Alexandru Lăpușneanu nr. 11,Constanța,44.1832,28.6341
+28,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,220,42,85,56,0,26,16,71,230,43,87,56,0,26,21,58,Colegiul Național de Arte „Regina Maria” (Școala nr. 42),Bulevardul Alexandru Lăpușneanu nr. 11,Constanța,44.1832,28.6341
+29,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,135,48,45,21,1,21,14,41,133,45,53,18,1,18,17,44,Colegiul Național de Arte „Regina Maria” (Școala nr. 42),Bulevardul Alexandru Lăpușneanu nr. 11,Constanța,44.1832,28.6341
+30,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,236,100,109,75,2,39,17,91,240,107,128,67,3,32,23,78,Liceul Teoretic „Ovidius”,Stradela Basarab nr. 2,Constanța,44.1721,28.6351
+31,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,245,77,118,64,2,33,13,60,237,77,131,63,1,35,18,55,Liceul Teoretic „Ovidius”,Stradela Basarab nr. 2,Constanța,44.1721,28.6351
+32,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,172,49,71,42,0,24,16,65,187,49,74,40,1,22,11,57,Anexă Școala Gimnazială nr. 8,Str. Corbului nr. 3,Constanța,44.174,28.624
+33,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,312,76,114,67,0,40,21,79,306,78,127,66,0,37,20,69,Anexă Școala Gimnazială nr. 8,Str. Corbului nr. 3,Constanța,44.174,28.624
+34,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,284,49,59,30,1,19,13,66,283,50,64,28,2,25,15,52,Anexă Școala Gimnazială nr. 8,Str. Corbului nr. 3,Constanța,44.174,28.624
+35,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,299,59,102,36,0,22,20,78,303,62,106,40,0,22,20,67,Anexă Școala Gimnazială nr. 8,Str. Corbului nr. 3,Constanța,44.174,28.624
+36,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,289,42,83,48,0,32,11,64,294,41,102,51,1,26,9,44,Anexă Școala Gimnazială nr. 8,Str. Corbului nr. 3,Constanța,44.174,28.624
+37,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,337,53,115,45,2,34,14,77,344,60,110,50,3,32,14,59,Anexă Școala Gimnazială nr. 8,Str. Corbului nr. 3,Constanța,44.174,28.624
+38,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,178,89,90,60,1,29,20,83,181,86,110,56,1,19,24,78,Liceul Tehnologic „C.A.Rosetti”,Bulevardul 1 Mai nr. 44,Constanța,44.1625,28.6319
+39,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,205,59,105,47,0,35,12,73,214,57,121,49,2,29,12,53,Liceul Tehnologic „C.A.Rosetti”,Bulevardul 1 Mai nr. 44,Constanța,44.1625,28.6319
+40,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,172,71,113,46,0,25,16,64,173,70,118,46,0,21,18,60,Liceul Tehnologic „C.A.Rosetti”,Bulevardul 1 Mai nr. 44,Constanța,44.1625,28.6319
+41,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,181,58,89,36,0,16,24,50,176,59,95,40,0,12,27,47,Liceul Tehnologic „C.A.Rosetti”,Bulevardul 1 Mai nr. 44,Constanța,44.1625,28.6319
+42,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,313,75,124,82,1,32,20,95,304,76,144,78,2,37,18,82,Școala Gimnazială nr. 16 „Marin Ionescu Dobrogianu”,Șoseaua Mangaliei nr. 89,Constanța,44.1565,28.6289
+43,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,318,72,95,62,0,38,16,83,323,79,101,60,0,35,15,70,Școala Gimnazială nr. 16 „Marin Ionescu Dobrogianu”,Șoseaua Mangaliei nr. 89,Constanța,44.1565,28.6289
+44,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,295,109,130,70,2,44,26,80,304,109,128,69,2,39,30,77,Școala Gimnazială nr. 16 „Marin Ionescu Dobrogianu”,Șoseaua Mangaliei nr. 89,Constanța,44.1565,28.6289
+45,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,254,72,105,60,0,29,18,86,251,75,121,64,0,22,13,65,Școala Gimnazială nr. 16 „Marin Ionescu Dobrogianu”,Șoseaua Mangaliei nr. 89,Constanța,44.1565,28.6289
+46,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,297,89,105,72,5,21,23,85,297,90,119,65,3,27,22,70,Școala Gimnazială nr. 16 „Marin Ionescu Dobrogianu”,Șoseaua Mangaliei nr. 89,Constanța,44.1565,28.6289
+47,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,355,61,113,58,0,40,12,88,355,67,119,56,1,36,14,76,Liceul Teoretic „Lucian Blaga”,Aleea Mărțișorului nr. 35,Constanța,44.1429,28.6286
+48,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,257,87,116,55,1,32,16,62,258,88,119,52,2,32,21,60,Colegiul Tehnic de Marină „Alexandru Ioan Cuza” (Liceul de Marina),Bulevardul 1 Mai nr. 101,Constanța,44.146,28.6303
+49,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,281,77,102,55,0,35,19,75,291,72,114,57,4,28,18,64,Colegiul Tehnic de Marină „Alexandru Ioan Cuza” (Liceul de Marina),Bulevardul 1 Mai nr. 101,Constanța,44.146,28.6303
+50,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,321,79,119,52,0,36,21,89,328,77,125,48,0,37,23,81,Colegiul Tehnic de Marină „Alexandru Ioan Cuza” (Liceul de Marina),Bulevardul 1 Mai nr. 101,Constanța,44.146,28.6303
+51,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,306,99,110,58,1,32,19,82,319,94,113,57,2,26,24,79,Colegiul Tehnic de Marină „Alexandru Ioan Cuza” (Liceul de Marina),Bulevardul 1 Mai nr. 101,Constanța,44.146,28.6303
+52,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,282,93,90,54,0,26,25,81,282,89,104,53,0,24,31,77,Colegiul Tehnic de Marină „Alexandru Ioan Cuza” (Liceul de Marina),Bulevardul 1 Mai nr. 101,Constanța,44.146,28.6303
+53,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,260,77,117,52,2,32,16,73,264,77,113,51,12,35,12,60,Colegiul Tehnic de Marină „Alexandru Ioan Cuza” (Liceul de Marina),Bulevardul 1 Mai nr. 101,Constanța,44.146,28.6303
+54,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,258,57,90,77,0,34,19,113,260,57,108,74,1,33,20,104,Școala Gimnazială „Grigore Antipa” (Școala nr. 15),Șoseaua Mangaliei nr. 128,Constanța,44.1393,28.6209
+55,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,271,58,121,70,0,34,13,89,278,59,137,64,0,29,17,74,Școala Gimnazială „Grigore Antipa” (Școala nr. 15),Șoseaua Mangaliei nr. 128,Constanța,44.1393,28.6209
+56,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,145,23,59,37,0,10,2,33,147,21,57,39,0,14,1,32,Școala Gimnazială „Grigore Antipa” (Școala nr. 15),Șoseaua Mangaliei nr. 128,Constanța,44.1393,28.6209
+57,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,299,82,117,89,1,34,26,93,299,87,127,89,4,29,20,74,Școala Gimnazială nr. 17 „Ion Minulescu”,Str. Meșterul Manole nr. 18,Constanța,44.1434,28.6132
+58,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,265,70,131,104,0,29,35,114,261,70,157,95,0,18,38,106,Școala Gimnazială nr. 17 „Ion Minulescu”,Str. Meșterul Manole nr. 18,Constanța,44.1434,28.6132
+59,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,280,77,131,62,1,40,11,85,276,76,137,68,1,46,15,68,Școala Gimnazială nr. 17 „Ion Minulescu”,Str. Meșterul Manole nr. 18,Constanța,44.1434,28.6132
+60,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,255,97,170,70,1,53,28,99,263,88,193,72,2,44,23,85,Școala Gimnazială nr. 17 „Ion Minulescu”,Str. Meșterul Manole nr. 18,Constanța,44.1434,28.6132
+61,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,275,31,103,32,0,22,9,55,265,28,128,32,4,22,13,41,Școala Gimnazială nr. 33 „Anghel Saligny”,Str. Narciselor (Aleea Narciselor) (D) nr. 2,Constanța,44.1471,28.619
+62,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,369,48,130,77,0,39,25,88,384,51,146,65,0,32,24,73,Școala Gimnazială nr. 33 „Anghel Saligny”,Str. Narciselor (Aleea Narciselor) (D) nr. 2,Constanța,44.1471,28.619
+63,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,210,27,77,52,1,21,9,42,207,28,78,48,3,14,16,44,Școala Gimnazială nr. 33 „Anghel Saligny”,Str. Narciselor (Aleea Narciselor) (D) nr. 2,Constanța,44.1471,28.619
+64,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,246,60,79,58,0,23,6,46,242,63,86,54,0,26,11,42,Școala Gimnazială nr. 33 „Anghel Saligny”,Str. Narciselor (Aleea Narciselor) (D) nr. 2,Constanța,44.1471,28.619
+65,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,257,43,104,40,0,29,12,68,246,43,101,39,2,45,14,66,Școala Gimnazială nr. 37,Str. Arcului nr. 8,Constanța,44.1479,28.6225
+66,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,273,60,103,63,2,31,25,73,278,54,114,62,1,27,28,62,Școala Gimnazială nr. 37,Str. Arcului nr. 8,Constanța,44.1479,28.6225
+67,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,274,60,76,44,2,22,23,80,266,57,84,47,2,25,28,79,Școala Gimnazială nr. 37,Str. Arcului nr. 8,Constanța,44.1479,28.6225
+68,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,225,42,99,45,0,46,19,69,224,41,115,50,0,38,25,61,Școala Gimnazială nr. 18 „Jean Bart”,Str. Ioan Ursu nr. 51A,Constanța,44.1549,28.614
+69,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,328,55,128,72,1,16,11,88,337,54,124,79,2,20,14,75,Școala Gimnazială nr. 18 „Jean Bart”,Str. Ioan Ursu nr. 51A,Constanța,44.1549,28.614
+70,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,227,78,85,53,2,25,24,72,224,79,96,49,2,25,27,65,Școala Gimnazială nr. 18 „Jean Bart”,Str. Ioan Ursu nr. 51A,Constanța,44.1549,28.614
+71,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,180,34,113,57,1,14,20,60,185,33,124,52,0,15,16,48,Școala Gimnazială nr. 18 „Jean Bart”,Str. Ioan Ursu nr. 51A,Constanța,44.1549,28.614
+72,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,205,50,107,49,1,20,18,70,215,51,112,42,0,17,20,65,Liceul Tehnologic „Gheorghe Miron Costin” (Industrie Alimentara),Bulevardul Aurel Vlaicu nr. 86,Constanța,44.1577,28.6142
+73,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,278,45,102,58,2,32,14,72,277,46,99,60,2,31,17,68,Liceul Tehnologic „Gheorghe Miron Costin” (Industrie Alimentara),Bulevardul Aurel Vlaicu nr. 86,Constanța,44.1577,28.6142
+74,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,322,86,122,78,1,38,17,94,328,90,126,78,2,35,22,81,Liceul Tehnologic „Dimitrie Leonida”,Aleea Pelicanului nr. 8,Constanța,44.1592,28.6137
+75,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,316,95,134,61,2,28,15,87,318,94,145,59,0,28,14,77,Liceul Tehnologic „Dimitrie Leonida”,Aleea Pelicanului nr. 8,Constanța,44.1592,28.6137
+76,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,283,34,100,43,1,21,24,94,281,32,108,47,1,22,26,86,Școala Gimnazială nr. 40 „Aurel Vlaicu”,Aleea Pelicanului nr. 2A,Constanța,44.1608,28.6123
+77,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,140,33,59,31,1,20,9,32,144,35,61,34,2,18,8,25,Școala Gimnazială nr. 40 „Aurel Vlaicu”,Aleea Pelicanului nr. 2,Constanța,44.1608,28.6123
+78,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,281,53,94,53,0,27,13,73,280,58,100,56,1,29,14,56,Școala Gimnazială nr. 40 „Aurel Vlaicu”,Aleea Pelicanului nr. 2A,Constanța,44.1608,28.6123
+79,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,308,57,103,65,0,26,23,68,314,59,109,61,0,21,26,64,Școala Gimnazială nr. 40 „Aurel Vlaicu”,Aleea Pelicanului nr. 2A,Constanța,44.1608,28.6123
+80,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,170,27,69,34,1,18,16,39,171,27,75,35,1,12,18,37,Școala Gimnazială nr. 40 „Aurel Vlaicu”,Aleea Pelicanului nr. 2A,Constanța,44.1608,28.6123
+81,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,158,22,62,22,0,16,3,43,167,23,68,23,0,20,4,30,Școala Gimnazială nr. 40 „Aurel Vlaicu”,Aleea Pelicanului nr. 2A,Constanța,44.1608,28.6123
+82,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,206,20,35,30,0,8,6,43,206,24,38,28,0,7,8,41,Școala Gimnazială nr. 40 „Aurel Vlaicu”,Aleea Pelicanului nr. 2A,Constanța,44.1608,28.6123
+83,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,277,61,130,53,0,39,12,66,279,60,132,57,0,35,15,62,Școala Gimnazială nr. 19,Str. Medeea nr. 25A,Constanța,44.1648,28.6023
+84,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,252,43,84,40,3,20,9,43,255,45,89,38,2,21,12,39,Școala Gimnazială nr. 19,Str. Medeea nr. 25A,Constanța,44.1648,28.6023
+85,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,279,37,70,42,1,22,14,74,293,40,70,37,1,22,13,65,Școala Gimnazială nr. 31,Bulevardul I. C. Brătianu (Șoseaua Ion C. Brătianu) nr. 143,Constanța,44.169,28.587
+86,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,243,28,45,30,1,16,10,46,252,32,47,24,0,17,12,43,Școala Gimnazială nr. 31,Bulevardul I. C. Brătianu (Șoseaua Ion C. Brătianu) nr. 143,Constanța,44.169,28.587
+87,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,209,21,64,24,3,8,4,44,220,17,71,23,3,11,4,33,Școala Gimnazială nr. 31,Bulevardul I. C. Brătianu (Șoseaua Ion C. Brătianu) nr. 143,Constanța,44.169,28.587
+88,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,323,69,102,55,1,31,15,65,330,69,105,56,3,34,18,51,Liceul Tehnologic „Gheorghe Duca”,Str. Vifor Haiducul (Str. Ștefan Donciu) nr. 34,Constanța,44.1669,28.5811
+89,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,151,16,55,31,0,13,6,47,156,19,59,32,1,17,7,32,Școala Gimnazială „Marin Sorescu” (Școala nr. 20),Str. Mihu Copilu nr. 1,Constanța,44.1669,28.5843
+90,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,362,65,118,60,0,24,12,86,348,69,116,62,0,26,17,81,Școala Gimnazială nr. 22 „I.C.Bratianu”,Str. Răzvan Vodă nr. 6,Constanța,44.1724,28.6021
+91,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,207,63,97,52,4,21,27,95,214,67,101,49,3,24,28,79,Școala Gimnazială nr. 22 „I.C.Bratianu”,Str. Răzvan Vodă nr. 6,Constanța,44.1724,28.6021
+92,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,325,61,100,73,1,23,28,88,322,60,117,70,2,26,29,77,Centrul Scolar Pentru Educatie Incluziva „Maria Montessori” (Școala Ajutatoare nr. 2),Str. Nicolae Măndoi (Str. Nicolae Mandai) (D) nr. 15,Constanța,44.173,28.6027
+93,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,130,49,68,29,0,19,9,44,134,50,78,30,1,10,10,34,Centrul Scolar Pentru Educatie Incluziva „Maria Montessori” (Școala Ajutatoare nr. 2),Str. Nicolae Măndoi (Str. Nicolae Mandai) (D) nr. 15,Constanța,44.173,28.6027
+94,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,149,79,80,43,1,35,13,61,144,72,95,48,2,33,12,54,Centrul Scolar Pentru Educatie Incluziva „Maria Montessori” (Școala Ajutatoare nr. 2),Str. Nicolae Măndoi (Str. Nicolae Mandai) (D) nr. 15,Constanța,44.173,28.6027
+95,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,148,45,52,44,0,19,5,44,148,39,58,46,0,20,2,42,Centrul Scolar Pentru Educatie Incluziva „Maria Montessori” (Școala Ajutatoare nr. 2),Str. Nicolae Măndoi (Str. Nicolae Mandai) (D) nr. 15,Constanța,44.173,28.6027
+96,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,260,94,129,65,1,35,21,86,255,98,139,64,1,35,26,73,Școala Gimnazială nr. 8,Bulevardul I. C. Brătianu (Șoseaua Ion C. Brătianu) nr. 68,Constanța,44.1716,28.6165
+97,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,240,83,126,59,3,38,24,87,260,78,128,59,3,35,23,76,Școala Gimnazială nr. 8,Bulevardul I. C. Brătianu (Șoseaua Ion C. Brătianu) nr. 68,Constanța,44.1716,28.6165
+98,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,291,94,133,66,2,38,20,90,293,92,149,63,3,38,22,85,Școala Gimnazială nr. 8,Bulevardul I. C. Brătianu (Șoseaua Ion C. Brătianu) nr. 68,Constanța,44.1716,28.6165
+99,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,257,107,123,80,2,46,24,89,256,99,131,80,2,42,21,85,Școala Gimnazială nr. 8,Bulevardul I. C. Brătianu (Șoseaua Ion C. Brătianu) nr. 68,Constanța,44.1716,28.6165
+100,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,274,77,122,81,1,25,24,94,272,77,138,69,1,37,25,80,Școala Gimnazială nr. 23 „Constantin Brâncoveanu”,Str. Dezrobirii nr. 82,Constanța,44.181,28.6177
+101,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,201,76,97,53,1,29,17,58,207,79,103,55,3,24,16,51,Școala Gimnazială nr. 23 „Constantin Brâncoveanu”,Str. Dezrobirii nr. 82,Constanța,44.181,28.6177
+102,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,144,138,173,63,3,40,19,63,145,118,198,64,2,34,19,61,Școala Gimnazială nr. 23 „Constantin Brâncoveanu”,Str. Dezrobirii nr. 82,Constanța,44.181,28.6177
+103,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,369,92,150,95,0,28,30,97,378,92,166,89,0,36,28,75,Școala Gimnazială nr. 39 „Nicolae Tonitza”,Aleea Solidarității nr. 8,Constanța,44.178,28.6182
+104,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,290,96,112,83,0,31,15,72,300,89,127,72,0,28,23,70,Școala Gimnazială nr. 39 „Nicolae Tonitza”,Aleea Solidarității nr. 8,Constanța,44.178,28.6182
+105,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,320,101,143,53,0,35,20,88,313,99,171,54,0,33,21,72,Școala Gimnazială nr. 39 „Nicolae Tonitza”,Aleea Solidarității nr. 8,Constanța,44.178,28.6182
+106,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,411,118,157,60,1,55,16,94,410,109,184,60,1,48,26,84,Școala Gimnazială nr. 39 „Nicolae Tonitza”,Aleea Solidarității nr. 8,Constanța,44.178,28.6182
+107,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,264,98,160,95,0,33,19,74,260,102,169,93,0,33,17,66,Centrul de Perfecționare al Marinei Civile,Str. Baba Novac nr. 101,Constanța,44.1852,28.6197
+108,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,360,104,156,91,0,38,17,86,366,101,168,92,0,37,24,71,Centrul de Perfecționare al Marinei Civile,Str. Baba Novac nr. 101,Constanța,44.1852,28.6197
+109,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,162,130,116,33,0,27,9,75,169,124,130,33,1,28,7,61,Centrul de Perfecționare al Marinei Civile,Str. Baba Novac nr. 101,Constanța,44.1852,28.6197
+110,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,259,48,108,56,1,27,21,69,253,45,124,63,3,22,25,64,Școala Gimnazială nr. 10 „Mihail Koiciu”,Str. Izvorului nr. 26,Constanța,44.1862,28.6289
+111,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,247,84,118,72,1,27,13,65,261,86,121,70,1,22,18,51,Școala Gimnazială nr. 10 „Mihail Koiciu”,Str. Izvorului nr. 26,Constanța,44.1862,28.6289
+112,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,362,96,138,93,3,52,30,99,372,92,145,89,3,50,32,96,Școala Gimnazială nr. 10 „Mihail Koiciu”,Str. Izvorului nr. 26,Constanța,44.1862,28.6289
+113,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,273,61,95,74,0,44,19,102,281,59,117,79,1,45,18,71,Școala Gimnazială nr. 10 „Mihail Koiciu”,Str. Izvorului nr. 26,Constanța,44.1862,28.6289
+114,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,262,79,136,71,2,30,24,85,252,75,164,67,2,28,25,69,Școala Gimnazială nr. 10 „Mihail Koiciu”,Str. Izvorului nr. 26,Constanța,44.1862,28.6289
+115,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,187,65,87,53,1,22,27,85,192,63,101,59,1,19,25,67,Centrul Școlar „Albatros”,Str. Barbu Ștefănescu Delavrancea nr. 55,Constanța,44.1905,28.6211
+116,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,281,109,110,76,1,33,37,116,294,109,128,71,2,33,36,95,Centrul Școlar „Albatros”,Str. Barbu Ștefănescu Delavrancea nr. 55,Constanța,44.1905,28.6211
+117,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,218,49,56,31,1,17,14,48,213,51,57,31,1,18,19,50,Centrul Școlar „Albatros”,Str. Barbu Ștefănescu Delavrancea nr. 55,Constanța,44.1905,28.6211
+118,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,175,48,81,44,0,19,9,77,180,48,89,44,0,20,13,61,Centrul Școlar „Albatros”,Str. Barbu Ștefănescu Delavrancea nr. 55,Constanța,44.1905,28.6211
+119,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,138,25,56,20,0,13,14,46,139,29,56,23,0,14,17,38,Centrul Școlar „Albatros”,Str. Barbu Ștefănescu Delavrancea nr. 55,Constanța,44.1905,28.6211
+120,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,269,76,110,62,0,38,18,85,270,78,114,64,1,31,15,76,Centrul Scolar Pentru Educatie Incluziva „Delfinul” (Școala Ajutatoare nr. 1),Str. Semănătorului nr. 8,Constanța,44.1916,28.6311
+121,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,258,70,142,68,1,19,11,83,274,69,137,74,3,15,16,71,Centrul Scolar Pentru Educatie Incluziva „Delfinul” (Școala Ajutatoare nr. 1),Str. Semănătorului nr. 8,Constanța,44.1916,28.6311
+122,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,376,108,136,75,0,58,24,88,370,100,157,81,0,68,20,72,Școala Gimnazială nr. 12 „B. P. Hasdeu”,Str. Bogdan Petriceicu Hașdeu nr. 98,Constanța,44.1951,28.6303
+123,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,248,76,123,64,0,43,15,75,239,73,147,63,0,41,20,62,Școala Gimnazială nr. 12 „B. P. Hasdeu”,Str. Bogdan Petriceicu Hașdeu nr. 98,Constanța,44.1951,28.6303
+124,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,165,85,97,71,1,29,17,54,170,81,118,63,2,25,18,44,Școala Gimnazială „Dimitrie Știubei” (Școala nr. 36),Aleea Fragilor nr. 3,Constanța,44.1998,28.6189
+125,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,255,97,127,81,2,46,14,82,263,92,145,83,3,39,11,70,Școala Gimnazială „Dimitrie Știubei” (Școala nr. 36),Aleea Fragilor nr. 3,Constanța,44.1998,28.6189
+126,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,362,139,152,72,3,56,21,91,365,135,176,72,2,41,22,82,Școala Gimnazială „Dimitrie Știubei” (Școala nr. 36),Aleea Fragilor nr. 3,Constanța,44.1998,28.6189
+127,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,224,74,91,60,5,23,24,65,219,73,104,58,5,21,22,52,Școala Gimnazială „Dimitrie Știubei” (Școala nr. 36),Aleea Fragilor nr. 3,Constanța,44.1998,28.6189
+128,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,328,128,169,79,1,33,25,95,338,128,183,65,0,32,30,85,Școala Gimnazială „Dimitrie Știubei” (Școala nr. 36),Aleea Fragilor nr. 3,Constanța,44.1998,28.6189
+129,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,283,57,96,67,0,43,28,77,284,55,98,62,1,50,26,71,Grădinița cu Program Prelungit „Mugurel” (Grădinița nr. 43),Aleea Fragilor nr. 7,Constanța,44.2002,28.6175
+130,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,321,77,127,68,0,32,22,89,315,77,137,72,1,39,25,77,Grădinița cu Program Prelungit „Mugurel” (Grădinița nr. 43),Aleea Fragilor nr. 7,Constanța,44.2002,28.6175
+131,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,286,86,119,59,2,28,26,92,289,85,123,62,4,35,30,76,Grădinița cu Program Normal nr. 51,Str. Badea Cârțan (Str. Badea Cîrțan) nr. 8,Constanța,44.2029,28.6179
+132,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,294,101,153,81,1,44,26,92,298,99,160,74,0,44,26,89,Grădinița cu Program Normal nr. 51,Str. Badea Cârțan (Str. Badea Cîrțan) nr. 8,Constanța,44.2029,28.6179
+133,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,289,109,161,87,0,43,34,101,294,107,171,80,0,45,29,89,Agenția Fiscală nr. 1-4,Str. Badea Cârțan (Str. Badea Cîrțan) nr. 3,Constanța,44.2035,28.6188
+134,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,275,123,131,75,4,39,30,91,280,123,149,74,5,39,31,73,Agenția Fiscală nr. 1-4,Str. Badea Cârțan (Str. Badea Cîrțan) nr. 3,Constanța,44.2035,28.6188
+135,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,274,58,90,56,2,37,29,74,272,59,101,63,2,37,28,59,Liceul Teoretic „George Călinescu”,Str. Cpt. Dobrilă Eugeniu nr. 6,Constanța,44.2076,28.621
+136,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,243,62,121,79,0,31,17,71,241,67,128,79,0,27,22,62,Liceul Teoretic „George Călinescu”,Str. Cpt. Dobrilă Eugeniu nr. 6,Constanța,44.2076,28.621
+137,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,212,75,108,73,1,38,21,69,215,75,114,70,1,35,19,64,Liceul Teoretic „George Călinescu”,Str. Cpt. Dobrilă Eugeniu nr. 6,Constanța,44.2076,28.621
+138,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,277,78,137,83,0,23,16,80,277,72,150,80,2,34,16,69,Școala Gimnazială nr. 14,Str. Dumbrăveni nr. 2,Constanța,44.2316,28.599
+139,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,269,68,124,86,0,41,12,65,276,70,126,91,0,36,18,59,Școala Gimnazială nr. 14,Str. Dumbrăveni nr. 2,Constanța,44.2316,28.599
+140,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,145,39,28,30,1,13,5,19,149,35,35,32,1,8,5,24,Școala Gimnazială nr. 14,Str. Dumbrăveni nr. 2,Constanța,44.2316,28.599
+141,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,211,65,93,58,1,26,20,60,219,59,104,59,2,26,15,49,Școala Gimnazială nr. 38 „Dimitrie Cantemir”,Str. Cpt. Dobrilă Eugeniu nr. 12,Constanța,44.2094,28.6212
+142,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,235,49,86,43,1,46,18,60,246,50,96,37,1,36,19,55,Școala Gimnazială nr. 38 „Dimitrie Cantemir”,Str. Cpt. Dobrilă Eugeniu nr. 12,Constanța,44.2094,28.6212
+143,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,170,72,89,51,0,29,17,67,180,74,97,51,0,29,13,49,Liceul Teoretic „Decebal”,Str. Horia Agarici (Aleea Grădiniței) nr. 4,Constanța,44.2108,28.627
+144,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,94,32,60,32,1,11,7,37,102,28,63,33,1,13,5,27,Liceul Teoretic „Decebal”,Str. Horia Agarici (Aleea Grădiniței) nr. 4,Constanța,44.2108,28.627
+145,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,119,35,64,26,3,14,9,22,113,35,65,28,3,13,9,22,Liceul Teoretic „Decebal”,Str. Horia Agarici (Aleea Grădiniței) nr. 4,Constanța,44.2108,28.627
+146,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,189,28,51,35,0,16,7,50,190,27,51,40,0,16,13,46,Liceul Teoretic „Decebal”,Str. Horia Agarici (Aleea Grădiniței) nr. 4,Constanța,44.2108,28.627
+147,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,177,42,60,32,1,22,10,53,183,42,74,37,0,22,9,34,Liceul Tehnologic „Virgil Madgearu” (Școala nr. 35),Aleea Melodiei nr. 3,Constanța,44.2136,28.6263
+148,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,193,93,84,67,1,22,19,63,194,96,91,65,1,25,19,52,Liceul Tehnologic „Virgil Madgearu” (Școala nr. 35),Aleea Melodiei nr. 3,Constanța,44.2136,28.6263
+149,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,181,42,59,35,1,24,11,51,179,42,70,32,2,28,13,42,Liceul Tehnologic „Virgil Madgearu” (Școala nr. 35),Aleea Melodiei nr. 3,Constanța,44.2136,28.6263
+150,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,277,60,81,61,3,18,13,49,268,61,83,61,2,19,18,51,Grădinița cu Program Prelungit „Amicii” (Grădinița nr. 12),Str. Cpt. Dobrilă Eugeniu nr. 14,Constanța,44.2102,28.6225
+151,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,142,29,66,35,1,15,10,39,140,35,69,32,1,13,10,36,Școala Gimnazială nr. 29 „Mihai Viteazul”,Str. Cișmelei nr. 13,Constanța,44.2086,28.6242
+152,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,152,56,61,29,1,26,12,41,154,52,68,30,2,21,12,37,Școala Gimnazială nr. 29 „Mihai Viteazul”,Str. Cișmelei nr. 13,Constanța,44.2086,28.6242
+153,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,237,66,86,52,1,27,14,64,233,70,96,50,2,24,17,60,Școala Gimnazială nr. 29 „Mihai Viteazul”,Str. Cișmelei nr. 13,Constanța,44.2086,28.6242
+154,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,159,54,51,35,0,21,14,41,160,54,60,32,2,19,10,31,Școala nr. 29 „Mihai Viteazu”,Str. Cișmelei nr. 13,Constanța,44.2086,28.6242
+155,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,224,113,120,55,0,39,17,63,221,109,134,56,0,36,23,57,Școala Gimnazială nr. 7 „Remus Opreanu”,Str. Adamclisi nr. 4,Constanța,44.2036,28.6274
+156,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,118,66,64,45,0,18,17,44,112,65,75,43,1,21,20,39,Școala Gimnazială nr. 7 „Remus Opreanu”,Str. Adamclisi nr. 4,Constanța,44.2036,28.6274
+157,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,260,93,105,63,1,39,16,72,260,88,126,57,2,41,16,59,Școala Gimnazială nr. 7 „Remus Opreanu”,Str. Adamclisi nr. 4,Constanța,44.2036,28.6274
+158,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,276,101,132,79,0,37,16,73,274,101,134,78,0,39,23,70,Școala Gimnazială nr. 7 „Remus Opreanu”,Str. Adamclisi nr. 4,Constanța,44.2036,28.6274
+159,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,248,132,101,66,1,28,21,71,253,122,112,59,0,33,24,71,Școala Gimnazială nr. 7 „Remus Opreanu”,Str. Adamclisi nr. 4,Constanța,44.2036,28.6274
+160,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,167,84,99,70,0,39,17,53,164,82,117,71,0,38,16,39,Școala Gimnazială nr. 6 „Nicolae Titulescu”,Aleea Cameliei nr. 2,Constanța,44.1975,28.6341
+161,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,195,75,105,66,2,55,29,79,204,84,114,70,3,40,30,65,Școala Gimnazială nr. 6 „Nicolae Titulescu”,Aleea Cameliei nr. 2,Constanța,44.1975,28.6341
+162,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,137,101,108,72,1,34,18,55,143,99,127,62,1,33,18,46,Școala Gimnazială nr. 6 „Nicolae Titulescu”,Aleea Cameliei nr. 2,Constanța,44.1975,28.6341
+163,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,142,107,92,73,1,26,14,49,144,104,106,70,2,22,16,45,Școala Gimnazială nr. 6 „Nicolae Titulescu”,Aleea Cameliei nr. 2,Constanța,44.1975,28.6341
+164,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,201,54,69,46,0,29,16,46,202,54,76,43,0,26,18,47,Grădinița cu Program Prelungit „Norocel” (Grădinița nr. 13),Aleea Iasomiei nr. 3,Constanța,44.2009,28.6328
+165,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,197,108,113,57,0,20,21,67,191,102,122,59,0,25,23,65,Grădinița cu Program Prelungit „Norocel” (Grădinița nr. 13),Aleea Iasomiei nr. 3,Constanța,44.2009,28.6328
+166,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,120,69,78,53,0,23,10,29,121,63,88,50,1,23,13,25,Palatul Copiilor,Str. Soveja nr. 17,Constanța,44.2002,28.6386
+167,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,90,57,42,20,1,15,2,20,91,59,48,18,1,12,5,18,Palatul Copiilor,Str. Soveja nr. 17,Constanța,44.2002,28.6386
+168,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,231,107,136,97,0,57,23,85,246,107,144,96,1,48,22,66,Școala Gimnazială „Spectrum” (Școala nr. 27),Bulevardul Alexandru Lăpușneanu nr. 101,Constanța,44.1928,28.6325
+169,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,175,98,122,65,0,25,14,44,182,89,136,59,0,21,16,42,Colegiul Tehnic „Tomis”,Bulevardul Tomis nr. 153,Constanța,44.1909,28.6396
+170,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,176,70,113,59,1,29,14,57,176,59,135,52,3,27,19,53,Colegiul Tehnic „Tomis”,Bulevardul Tomis nr. 153,Constanța,44.1909,28.6396
+171,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,195,43,96,47,0,32,16,50,195,40,119,51,0,26,13,37,Colegiul Tehnic „Tomis”,Bulevardul Tomis nr. 153,Constanța,44.1909,28.6396
+172,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,169,81,106,84,0,30,25,71,181,77,123,81,0,22,28,57,Colegiul Tehnic „Tomis”,Bulevardul Tomis nr. 153,Constanța,44.1909,28.6396
+173,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,235,124,120,82,1,36,24,73,238,121,139,76,1,32,23,55,Școala Gimnazială „Spectrum” (Școala nr. 27),Bulevardul Alexandru Lăpușneanu nr. 101,Constanța,44.1928,28.6325
+174,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,176,47,118,50,1,37,11,42,176,51,135,55,0,18,12,43,Școala Gimnazială nr. 30 „Gheorghe Țițeica”,Str. Flămînda nr. 13,Constanța,44.1892,28.6383
+175,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,151,89,97,76,2,29,15,92,153,81,118,69,2,26,18,83,Centrul Județean de Resurse și Asistență Educațională,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 179,Constanța,44.1996,28.646
+176,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,147,106,103,42,1,30,17,54,146,100,129,30,1,23,20,50,Centrul Județean de Resurse și Asistență Educațională,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 179,Constanța,44.1996,28.646
+177,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,151,73,101,69,2,27,12,79,179,78,115,61,4,27,16,44,Centrul Județean de Resurse și Asistență Educațională,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 179,Constanța,44.1996,28.646
+178,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,190,93,121,62,1,37,17,68,187,94,132,57,0,35,19,65,Căminul de Pensionari,Str. Unirii nr. 67,Constanța,44.2078,28.6471
+179,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,340,111,154,75,0,39,24,99,352,118,163,74,1,33,27,82,Căminul de Pensionari,Str. Unirii nr. 67,Constanța,44.2078,28.6471
+180,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,172,126,107,59,1,25,21,78,166,119,121,61,2,30,16,69,Colegiul Tehnic Energetic,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 284,Constanța,44.2095,28.6438
+181,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,107,68,63,36,0,15,19,56,105,66,73,34,0,24,17,43,Colegiul Tehnic Energetic,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 284,Constanța,44.2095,28.6438
+182,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,169,90,119,78,0,37,16,66,164,83,144,74,0,39,15,54,Colegiul Tehnic Energetic,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 284,Constanța,44.2095,28.6438
+183,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,284,139,165,107,0,31,33,114,285,129,188,100,0,33,39,107,Colegiul Tehnic Energetic,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 284,Constanța,44.2095,28.6438
+184,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,255,133,153,74,0,43,13,65,261,121,168,73,1,36,22,62,Școala Gimnazială nr. 3 „Ciprian Porumbescu”,Str. Ciprian Porumbescu nr. 3,Constanța,44.2017,28.6508
+185,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,179,72,110,77,1,31,17,76,179,74,118,79,0,44,14,55,Școala Gimnazială nr. 3 „Ciprian Porumbescu”,Str. Ciprian Porumbescu nr. 3,Constanța,44.2017,28.6508
+186,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,141,80,103,48,1,37,20,62,142,80,113,48,1,39,21,54,Școala Gimnazială nr. 3 „Ciprian Porumbescu”,Str. Ciprian Porumbescu nr. 3,Constanța,44.2017,28.6508
+187,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,139,98,84,68,0,16,13,49,148,97,82,66,1,19,11,45,Grădinița cu Program Prelungit nr. 45,Str. Unirii nr. 68,Constanța,44.2022,28.6499
+188,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,239,122,177,103,1,48,17,97,236,120,208,95,2,57,19,74,Universitatea „Ovidius”,Str. Ion Vodă nr. 58,Constanța,44.194,28.6462
+189,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,152,79,89,64,3,35,13,51,154,78,110,60,3,32,10,36,Universitatea „Ovidius”,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 124,Constanța,44.194,28.6462
+190,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,154,59,103,69,0,29,19,70,156,60,115,71,0,41,20,46,Universitatea „Ovidius”,Bulevardul Mamaia (Bulevardul V. I. Lenin) nr. 124,Constanța,44.194,28.6462
+191,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,13,20,15,3,0,2,2,11,13,16,19,3,0,3,2,10,Universitatea „Ovidius”,Aleea Universității nr. 1,Constanța,44.2169,28.6236
+192,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,86,64,82,55,0,14,15,41,88,64,86,50,0,16,19,39,Școala Gimnazială nr. 43 „Ferdinand”,Str. Unirii nr. 22,Constanța,44.196,28.6525
+193,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,160,113,160,113,8,45,18,61,159,116,180,107,6,33,26,61,Școala Gimnazială nr. 5 „Nicolae Iorga”,Str. Nicolae Iorga (Str. 30 Decembrie) nr. 16,Constanța,44.1899,28.6471
+194,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,117,57,59,49,1,21,19,46,117,54,69,46,2,22,20,41,Școala Gimnazială nr. 5 „Nicolae Iorga”,Str. Nicolae Iorga (Str. 30 Decembrie) nr. 16,Constanța,44.1899,28.6471
+195,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,82,28,50,29,0,21,11,32,89,30,52,28,0,12,11,31,Școala Gimnazială nr. 5 „Nicolae Iorga”,Str. Nicolae Iorga (Str. 30 Decembrie) nr. 16,Constanța,44.1899,28.6471
+196,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,131,47,77,29,0,15,13,35,136,42,87,30,1,14,12,27,Anexă La Colegiul Național „Mircea Cel Bătrân”,Str. Nicolae Iorga (Str. 30 Decembrie) nr. 16,Constanța,44.1902,28.6478
+197,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,71,54,59,39,1,19,4,30,70,52,72,37,2,16,6,27,Anexă La Colegiul Național „Mircea Cel Bătrân”,Str. Nicolae Iorga (Str. 30 Decembrie) nr. 16,Constanța,44.1902,28.6478
+198,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,169,82,68,40,1,29,11,50,167,85,67,38,1,27,15,52,Grădinița cu Program Prelungit nr. 8 (Tomis Ii),Aleea Lăcrămioarelor nr. 2,Constanța,44.1894,28.6444
+199,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,143,54,81,45,1,16,12,43,139,53,88,48,1,17,14,37,Atelier Școală,Str. Petru Vulcan nr. 100,Constanța,44.1924,28.6414
+200,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,144,49,72,32,1,28,21,61,158,49,72,34,2,21,20,49,Grădinița cu Program Prelungit nr. 6,Aleea Mălinului nr. 5,Constanța,44.1886,28.6394
+201,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,139,69,109,54,0,30,11,52,142,69,124,52,0,26,15,39,Școala Gimnazială nr. 30 „Gheorghe Țițeica”,Str. Flămînda nr. 13,Constanța,44.1892,28.6383
+202,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,155,74,84,41,0,25,11,49,160,73,100,47,0,20,12,34,Școala Gimnazială nr. 30 „Gheorghe Țițeica”,Str. Flămînda nr. 13,Constanța,44.1892,28.6383
+203,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,184,104,145,72,0,52,23,77,191,99,178,68,0,47,26,49,Școala Gimnazială nr. 11 „Dr.Constantin Angelescu”,Str. Călărași nr. 48,Constanța,44.1815,28.6388
+204,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,275,120,122,71,2,56,22,105,282,115,150,69,2,58,23,74,Școala Gimnazială nr. 11 „Dr.Constantin Angelescu”,Str. Călărași nr. 48,Constanța,44.1815,28.6388
+205,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,194,106,133,78,2,43,23,85,213,92,147,80,1,39,23,68,Liceul Tehnologic de Electrotehnica și Telecomunicații,Bulevardul Alexandru Lăpușneanu nr. 15,Constanța,44.1843,28.635
+206,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,146,58,66,39,1,22,15,51,144,57,78,40,1,16,16,47,Universitatea „Andrei Șaguna”,Bulevardul Alexandru Lăpușneanu nr. 13,Constanța,44.1838,28.6348
+207,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,132,159,183,67,0,22,20,64,135,139,217,62,0,19,20,57,Cartier Tomis Plus,Bulevardul Tomis nr. 395,Constanța,44.2199,28.5993
+209,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,197,58,86,50,1,24,24,72,188,63,105,49,1,22,29,61,Școala Gimnazială nr. 23 „Constantin Brâncoveanu”,Str. Dezrobirii nr. 82,Constanța,44.181,28.6177
+210,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,494,16,52,17,3,17,19,78,492,16,54,20,4,27,24,69,Campus Social „Henr. Coandă”,Aleea Umanității nr. 15,Constanța,44.1983,28.6213
+408,14,CONSTANȚA,CORBU,184,21,140,65,2,15,14,40,188,25,146,59,1,21,15,30,Școala Gimnazială „Gheorghe Lazăr”,Str. Principală nr. 27,Corbu,44.3824,28.6622
+409,14,CONSTANȚA,CORBU,161,22,118,28,0,16,16,36,160,21,118,29,0,18,18,36,Grădinița cu Program Normal nr. 1,Str. Principală,Corbu,44.3892,28.6628
+410,14,CONSTANȚA,CORBU,216,18,165,52,0,8,36,67,216,23,167,46,0,13,34,61,Cămin Cultural Corbu de Sus,Str. Principală nr. 304,Corbu,44.4122,28.6616
+370,14,CONSTANȚA,ALBEŞTI,37,0,12,0,0,2,1,4,37,0,13,0,0,2,0,3,Școala Primară Coroana,Str. Frunzelor nr. 10,Coroana,43.7608,28.3863
+465,14,CONSTANȚA,LIPNIŢA,91,2,20,11,0,9,1,5,98,2,19,11,0,9,2,5,Școala cu Clasele I-VIII Coslugea,,Coslugea,44.1214,27.5799
+412,14,CONSTANȚA,COSTINEŞTI,154,26,89,55,0,21,24,54,154,24,103,60,0,23,13,35,Școala Gimnazială „Mihai Eminescu” Costinești,Str. Gării nr. 1,Costinești,43.9498,28.6321
+369,14,CONSTANȚA,ALBEŞTI,138,0,101,8,0,6,1,12,141,0,99,11,0,11,1,9,Școala Gimnazială nr. 1 Cotu-Vaii,Str. Negru Vodă nr. 109,Cotu Văii,43.8236,28.3445
+389,14,CONSTANȚA,CHIRNOGENI,32,1,30,9,0,1,0,5,30,1,34,5,0,2,1,6,Școala Primară nr. 3 Credința,Str. Școlii nr. 3,Credința,43.9799,28.2401
+417,14,CONSTANȚA,CRUCEA,43,1,46,2,1,3,1,7,46,1,48,1,0,3,1,6,Școala Primară nr. 2 Crișan,Str. Amurgului nr. 1,Crișan,44.6031,28.1764
+414,14,CONSTANȚA,CRUCEA,142,2,105,10,0,2,7,17,144,3,106,8,0,3,8,18,Camin Cultural Crucea,Șoseaua Constanței nr. 46,Crucea,44.5294,28.232
+457,14,CONSTANȚA,ION CORVIN,42,0,2,3,0,2,2,4,45,0,2,4,0,2,2,3,Școala Crîngu,,Crângu,44.0938,27.8544
+470,14,CONSTANȚA,LIPNIŢA,31,0,17,0,1,2,2,13,35,0,25,0,1,2,1,3,Școala Generală cu Clasele I-IV Cuiugiuc,,Cuiugiuc,44.0447,27.5268
+348,14,CONSTANȚA,ORAŞ OVIDIU,169,0,119,15,0,9,3,17,172,1,119,16,0,9,4,15,Școala Generală din Satul Culmea,,Culmea,44.2579,28.4645
+420,14,CONSTANȚA,CUMPĂNA,319,54,88,54,1,10,6,50,325,57,101,52,2,9,5,30,Liceul Tehnologic „Nicolae Dumitrescu”,Șoseaua Constanței nr. 136,Cumpăna,44.1122,28.5534
+421,14,CONSTANȚA,CUMPĂNA,369,60,98,53,1,13,20,73,365,56,109,50,1,17,21,63,Liceul Tehnologic „Nicolae Dumitrescu”,Șoseaua Constanței nr. 136,Cumpăna,44.1123,28.5534
+422,14,CONSTANȚA,CUMPĂNA,332,41,77,60,0,12,13,54,330,40,83,64,0,13,19,51,Liceul Tehnologic „Nicolae Dumitrescu”,Șoseaua Constanței nr. 136,Cumpăna,44.1122,28.5535
+423,14,CONSTANȚA,CUMPĂNA,324,41,95,60,2,31,9,70,324,42,97,71,1,30,14,59,Sala de Sport 1,Str. Dacia nr. 1A,Cumpăna,44.1109,28.5565
+424,14,CONSTANȚA,CUMPĂNA,381,35,84,61,1,17,8,64,372,36,93,67,1,18,11,47,Sala de Sport 1,Str. Dacia nr. 1A,Cumpăna,44.1109,28.5565
+425,14,CONSTANȚA,CUMPĂNA,345,31,80,44,0,14,3,44,369,26,86,41,0,8,7,33,Grădinița „Florilor”,Șoseaua Constanței nr. 100,Cumpăna,44.1145,28.5583
+426,14,CONSTANȚA,CUMPĂNA,340,56,96,85,2,20,10,78,346,59,103,80,0,25,14,62,Anexa Liceului Tehnologic „Nicolae Dumitrescu”,Șoseaua Constanței nr. 50,Cumpăna,44.1168,28.563
+427,14,CONSTANȚA,CUZA VODA,245,10,51,11,0,5,2,18,244,10,57,12,1,4,4,16,Școala Gimnazială nr. 1,Str. Medgidiei nr. 55,Cuza Vodă,44.2884,28.3111
+428,14,CONSTANȚA,CUZA VODA,313,7,47,9,0,6,6,25,324,5,48,9,0,5,8,20,Școala Gimnazială nr. 1,Str. Medgidiei nr. 55,Cuza Vodă,44.2884,28.3111
+384,14,CONSTANȚA,CERCHEZU,99,1,21,3,0,2,0,4,102,1,21,2,0,1,1,3,Căminul Cultural Căscioarele,Calea Dobrogei nr. 33,Căscioarele,43.8579,28.1011
+339,14,CONSTANȚA,ORAŞ NEGRU VODĂ,91,1,28,3,2,7,22,29,95,1,29,4,2,6,22,32,Sediu Administrativ al Primariei,Str. Școlii nr. 31A,Darabani,43.7873,28.2977
+429,14,CONSTANȚA,DELENI,107,2,19,11,0,8,7,22,109,3,20,12,0,6,6,18,Liceul Nicolae Istratoiu,Str. Școlii nr. 120,Deleni,44.0898,28.0081
+433,14,CONSTANȚA,DOBROMIR,205,1,30,66,0,2,1,21,210,1,33,80,1,1,2,9,Căminul Cultural Dobromir,,Dobromir,44.0211,27.7814
+434,14,CONSTANȚA,DOBROMIR,39,1,52,13,1,2,2,3,39,0,51,13,1,4,2,4,Școala Generalăcu Clasele I-IV Dobromir Deal,,Dobromiru din Deal,43.9894,27.7952
+497,14,CONSTANȚA,NICOLAE BĂLCESCU,282,7,91,17,2,8,19,47,282,8,95,18,2,8,13,35,Școala Generală Dorobanțu,,Dorobanțu,44.4077,28.3308
+355,14,CONSTANȚA,23 AUGUST,125,7,168,26,1,40,3,25,126,3,177,34,1,35,7,20,"Școala cu Clasele I-VIII, Localitatea Dulcești",,Dulcești,43.9068,28.5471
+528,14,CONSTANȚA,SARAIU,146,0,40,11,0,2,1,6,142,0,42,11,1,4,2,5,Școala Primară nr. 1 Dulgheru,Nr. 7,Dulgheru,44.7053,28.2338
+439,14,CONSTANȚA,DUMBRĂVENI,126,2,33,4,0,3,1,12,130,2,33,3,0,2,1,11,Căminul Cultural Dumbrăveni,Str. Principală nr. 39,Dumbrăveni,43.9291,27.9829
+532,14,CONSTANȚA,SEIMENI,164,4,43,5,1,5,3,7,162,2,47,5,1,8,2,4,Grădinița Sat Dunărea,,Dunărea,44.4399,28.1178
+373,14,CONSTANȚA,ALIMAN,134,2,131,13,1,10,1,9,142,2,128,14,1,7,2,7,Școala Gimnazială nr. 1 Dunareni,Str. Școlii nr. 9,Dunăreni,44.2068,27.7906
+292,14,CONSTANȚA,ORAŞ EFORIE,144,22,315,58,0,31,13,52,150,25,308,58,0,30,18,53,Hotel „Traian” Eforie Nord,,Eforie Nord,44.0591,28.6315
+293,14,CONSTANȚA,ORAŞ EFORIE,167,57,301,91,3,32,13,76,169,64,305,85,2,37,20,67,Sala de Sport Eforie Nord,,Eforie Nord,44.065,28.6323
+294,14,CONSTANȚA,ORAŞ EFORIE,184,53,345,82,3,25,12,86,182,61,330,85,3,27,12,84,Școala Generală Eforie Nord,Nr. 25,Eforie Nord,44.0666,28.6316
+295,14,CONSTANȚA,ORAŞ EFORIE,72,12,102,46,1,18,4,35,72,12,111,38,0,20,7,30,Școala Generală Eforie Nord,Nr. 25,Eforie Nord,44.0666,28.6316
+289,14,CONSTANȚA,ORAŞ EFORIE,192,53,255,64,0,39,16,79,208,50,262,61,0,46,16,58,Liceul Carmen Silva Eforie Sud,Nr. 102,Eforie Sud,44.0202,28.6528
+290,14,CONSTANȚA,ORAŞ EFORIE,196,24,275,55,3,38,27,79,213,26,258,58,2,48,29,64,Sediul Politiei Locale Eforie Sud,Nr. 11,Eforie Sud,44.0302,28.6508
+291,14,CONSTANȚA,ORAŞ EFORIE,148,46,168,47,0,32,9,33,144,47,154,48,0,53,9,31,Grădinița de Copii Eforie Sud,Nr. 2,Eforie Sud,44.0327,28.6474
+504,14,CONSTANȚA,OSTROV,86,0,4,1,0,2,0,4,84,0,7,1,0,2,1,5,Școala Generală Esechioi,,Esechioi,44.0326,27.421
+440,14,CONSTANȚA,DUMBRĂVENI,36,1,3,1,0,1,2,4,35,1,3,1,0,1,1,4,Grădinița de Copii Furnica,Str. Școlii nr. 16,Furnica,43.9599,28.0012
+453,14,CONSTANȚA,INDEPENDENŢA,47,1,21,1,0,5,0,37,66,1,50,1,0,4,0,5,Școala Generală,Str. Școlii nr. 2,Fântâna Mare,43.9795,28.0558
+441,14,CONSTANȚA,FÎNTÎNELE,202,1,137,10,1,46,4,17,198,1,146,14,1,48,4,18,Școala Gimnazială nr. 1 Fântânele,Nr. 83,Fântânele,44.6119,28.5748
+524,14,CONSTANȚA,SALIGNY,142,4,22,19,0,3,4,19,147,4,24,18,0,3,4,14,Școala Primară nr. 2 Faclia,,Făclia,44.2816,28.1056
+277,14,CONSTANȚA,ORAŞ BĂNEASA,134,0,23,25,5,120,1,25,141,0,22,24,2,122,2,16,Școala Generală Făurei,,Făurei,44.0409,27.6975
+506,14,CONSTANȚA,OSTROV,154,2,22,1,1,4,2,12,158,1,21,2,0,4,3,11,Cămin Cultural Galița,,Galița,44.1012,27.4884
+376,14,CONSTANȚA,AMZACEA,147,0,32,4,0,7,2,10,151,1,30,6,0,6,1,6,Școala Generală General Scărișoreanu,,General Scărișoreanu,43.9524,28.3027
+443,14,CONSTANȚA,GHINDĂREŞTI,69,4,39,5,1,32,7,107,110,7,74,10,2,46,24,35,Școala Gimnazială „Sa Esenin” Ghindaresti,Str. Școlii nr. 438,Ghindărești,44.6358,28.0305
+444,14,CONSTANȚA,GHINDĂREŞTI,88,9,52,2,0,29,3,87,120,13,75,6,1,42,16,25,Școala Gimnazială „Sa Esenin” Ghindaresti,Str. Școlii nr. 438,Ghindărești,44.6358,28.0305
+469,14,CONSTANȚA,LIPNIŢA,23,0,4,0,0,1,1,3,23,0,5,0,0,1,1,2,Școala Generală cu Clasele I-IV Goruni,,Goruni,44.0465,27.612
+445,14,CONSTANȚA,GRĂDINA,286,5,52,6,1,2,1,13,284,4,55,6,1,2,2,16,Școala Gimnazială nr. 1 Grădina,,Grădina,44.5543,28.4327
+442,14,CONSTANȚA,GÂRLICIU,340,2,92,23,2,4,2,9,341,3,93,24,1,3,2,8,Centrul Cultural Dunărea Veche din Comuna Gârliciu,Str. 1 Decembrie 1918 nr. 35,Gârliciu,44.7774,28.0888
+505,14,CONSTANȚA,OSTROV,138,1,9,4,0,3,0,5,141,1,7,7,0,2,0,5,Cămin Cultural Gîrlița,,Gârlița,44.068,27.4623
+415,14,CONSTANȚA,CRUCEA,33,3,77,9,0,1,1,3,33,3,77,8,0,1,1,4,Camin Culturalgălbiori,Șoseaua Națională nr. 11,Gălbiori,44.4928,28.26
+447,14,CONSTANȚA,HORIA,162,1,42,1,0,2,11,18,160,1,43,1,0,2,16,20,Cămin Cultural Horia,,Horia,44.6337,28.1241
+296,14,CONSTANȚA,ORAŞ HÂRŞOVA,147,18,53,15,0,61,9,35,151,18,55,17,0,60,10,28,Casa de Cultura,Piața 1 Decembrie 1918 nr. 2,Hârșova,44.6863,27.9507
+297,14,CONSTANȚA,ORAŞ HÂRŞOVA,261,15,45,20,0,93,8,40,267,15,46,25,0,86,11,40,Liceul Teoretic „Ioan Cotovu”,Șoseaua Constanței nr. 24,Hârșova,44.6871,27.9525
+298,14,CONSTANȚA,ORAŞ HÂRŞOVA,184,15,44,30,1,80,2,43,211,15,51,29,1,77,5,18,Centrul Permanent Pentru Persoane Abuzate,,Hârșova,44.6844,27.9503
+299,14,CONSTANȚA,ORAŞ HÂRŞOVA,196,5,35,12,1,53,6,43,212,5,34,13,1,55,6,26,Școala Port Hârșova,Str. Mircea cel Bătrân (Str. Mircea cel Bătrîn) (D) nr. 5,Hârșova,44.6814,27.9486
+300,14,CONSTANȚA,ORAŞ HÂRŞOVA,206,9,39,17,0,59,5,28,207,8,40,18,0,61,5,25,Școala Gimnazială nr. 1,Str. Revoluției (Str. 23 August) nr. 5,Hârșova,44.6875,27.9424
+301,14,CONSTANȚA,ORAŞ HÂRŞOVA,333,11,59,15,2,67,4,30,353,13,64,15,3,69,5,19,R.A. Romsilva - Ocolul Silvic Hîrșova,Str. Vadului nr. 87,Hârșova,44.6918,27.9518
+302,14,CONSTANȚA,ORAŞ HÂRŞOVA,231,4,25,25,0,67,10,34,252,4,28,27,0,65,6,15,Gradinița Varoș,,Hârșova,44.6864,27.9386
+449,14,CONSTANȚA,INDEPENDENŢA,114,6,92,6,0,72,1,48,121,9,100,8,0,64,0,37,Liceul Tehnologic,Str. Constanței nr. 39,Independența,43.9507,28.0832
+454,14,CONSTANȚA,ION CORVIN,124,5,34,9,1,20,4,11,126,6,35,8,1,20,4,9,"Școala Gimnazială nr. 1 Ion Corvin, Loc. Ion Corvin",,Ion Corvin,44.1126,27.8056
+458,14,CONSTANȚA,ISTRIA,207,4,155,17,0,6,10,26,215,5,153,16,0,6,7,21,Școala Gimnazială nr. 1 Istria,Str. Primăriei nr. 15,Istria,44.5728,28.7118
+515,14,CONSTANȚA,PEŞTERA,99,0,49,4,0,58,2,11,101,1,49,2,0,53,1,10,Camin Cultural Ivrinezu Mare,,Ivrinezu Mare,44.2295,28.0612
+468,14,CONSTANȚA,LIPNIŢA,13,0,7,3,0,1,0,4,16,0,9,0,0,1,3,4,Școala Generală cu Clasele I-IV Izvoarele,,Izvoarele,44.1659,27.5424
+516,14,CONSTANȚA,PEŞTERA,69,2,8,4,1,40,0,5,69,3,6,4,2,39,1,6,Școala Primară nr. 3,Str. Cișmelei nr. 20,Izvoru Mare,44.1533,28.1644
+379,14,CONSTANȚA,BĂRĂGANU,100,11,33,13,2,9,8,32,103,11,35,13,2,7,6,27,Școala Gimnazială „Emil Gârleanu” Bărăganu - Școala Primară nr. 1 Lanurile,,Lanurile,44.0671,28.3765
+366,14,CONSTANȚA,AGIGEA,260,103,174,62,1,39,18,108,276,104,185,65,0,43,20,79,Grădinița Lazu,,Lazu,44.1177,28.6097
+435,14,CONSTANȚA,DOBROMIR,104,2,46,22,0,1,1,16,123,1,51,23,0,1,1,4,Școala Generalăcu Clasele I-IV Lespezi,,Lespezi,44.0191,27.8294
+460,14,CONSTANȚA,LIMANU,308,21,65,37,0,27,13,39,301,21,65,37,0,29,12,42,Școala Generală cu Clasele I-VIII Limanu,Str. Căminului nr. 58,Limanu,43.8013,28.531
+461,14,CONSTANȚA,LIMANU,340,15,70,37,0,29,23,55,342,16,75,35,2,26,22,49,Școala Generală cu Clasele I-VIII Limanu,Str. Căminului nr. 58,Limanu,43.8013,28.531
+464,14,CONSTANȚA,LIPNIŢA,115,9,60,13,1,17,2,20,118,8,61,14,1,19,1,11,Camin Cultural Lipnita,,Lipnița,44.0928,27.6048
+471,14,CONSTANȚA,LUMINA,278,47,214,46,1,32,18,56,273,49,219,45,2,27,21,53,Școala Veche Lumina,Str. Mare nr. 158,Lumina,44.2926,28.5671
+472,14,CONSTANȚA,LUMINA,236,58,179,66,0,28,12,70,232,62,179,69,1,35,11,53,Școala Nouă Lumina,Str. Pelican nr. 10,Lumina,44.2935,28.5643
+473,14,CONSTANȚA,LUMINA,229,45,180,51,1,35,11,70,236,44,192,53,2,36,11,52,Grădinița Lumina,Str. Pelican nr. 10,Lumina,44.2942,28.5648
+474,14,CONSTANȚA,LUMINA,268,48,164,72,2,66,22,70,276,47,168,76,2,71,23,59,Căminul Cultural Lumina,Str. Mare nr. 173,Lumina,44.2938,28.5657
+208,14,CONSTANȚA,MUNICIPIUL CONSTANŢA,28,15,26,4,0,10,5,13,33,14,24,6,0,9,6,11,Hotel Venus,,Mamaia,44.2377,28.6247
+211,14,CONSTANȚA,MUNICIPIUL MANGALIA,392,55,98,75,3,66,45,99,393,54,113,72,2,62,46,85,Casa Municipală de Cultură,Șoseaua Constanței (Str. Oltului) nr. 5,Mangalia,43.8113,28.5831
+212,14,CONSTANȚA,MUNICIPIUL MANGALIA,221,61,102,49,1,40,21,75,233,55,108,58,1,37,24,63,Grup Școlar Economic,Str. Oituz nr. 18-20,Mangalia,43.812,28.5806
+213,14,CONSTANȚA,MUNICIPIUL MANGALIA,147,23,79,32,0,41,10,55,152,21,86,31,0,38,11,50,Grup Școlar Industrial „Ion Bănescu”,Str. Portului nr. 19,Mangalia,43.8041,28.5754
+214,14,CONSTANȚA,MUNICIPIUL MANGALIA,232,39,91,44,0,39,24,76,228,36,90,48,0,44,30,77,Grup Școlar Industrial „Ion Bănescu”,Str. Portului nr. 19,Mangalia,43.8041,28.5754
+215,14,CONSTANȚA,MUNICIPIUL MANGALIA,261,31,74,52,0,28,25,74,257,35,76,53,1,34,24,58,Baza Spotivă Pescăruș,Str. Negru Vodă nr. 41,Mangalia,43.8067,28.5779
+216,14,CONSTANȚA,MUNICIPIUL MANGALIA,335,50,88,52,1,28,28,87,333,55,90,48,2,33,23,73,Școala Generală nr. 3,Str. Albatros nr. 10,Mangalia,43.8095,28.5747
+217,14,CONSTANȚA,MUNICIPIUL MANGALIA,325,31,88,35,3,30,23,63,324,33,96,33,3,34,24,56,Școala Generală nr. 3,Str. Albatros nr. 10,Mangalia,43.8095,28.5747
+218,14,CONSTANȚA,MUNICIPIUL MANGALIA,345,36,85,53,2,36,31,79,348,33,89,50,3,43,35,71,Grădinița nr. 3,Bulevardul 1 Decembrie 1918 (Bulevardul 30 Decembrie) nr. 62,Mangalia,43.8091,28.5739
+219,14,CONSTANȚA,MUNICIPIUL MANGALIA,165,31,71,23,1,44,8,37,186,32,70,22,1,35,11,30,Școala Generală nr. 1,Str. Matei Basarab nr. 42,Mangalia,43.819,28.5723
+220,14,CONSTANȚA,MUNICIPIUL MANGALIA,228,18,66,51,3,34,16,52,238,19,75,51,2,32,14,42,Școala Generală nr. 1,Str. Matei Basarab nr. 42,Mangalia,43.819,28.5723
+221,14,CONSTANȚA,MUNICIPIUL MANGALIA,268,28,86,35,1,48,20,63,271,31,86,35,3,47,23,62,Școala Generală nr. 2,Str. Teofil Sauciuc-Săveanu (Str. 23 August) nr. 22,Mangalia,43.8111,28.5765
+222,14,CONSTANȚA,MUNICIPIUL MANGALIA,284,25,132,51,0,47,26,84,288,26,133,46,2,50,31,78,Școala Generală nr. 2,Str. Teofil Sauciuc-Săveanu (Str. 23 August) nr. 22,Mangalia,43.8111,28.5765
+223,14,CONSTANȚA,MUNICIPIUL MANGALIA,325,55,151,75,0,54,39,108,315,57,154,74,1,68,41,96,Sediu S.C. Eco Gold S.A.,Str. Gheorghe Asachi nr. 2,Mangalia,43.8142,28.568
+224,14,CONSTANȚA,MUNICIPIUL MANGALIA,211,11,88,45,1,37,14,51,217,12,97,47,2,42,11,34,Grădinița nr. 4,Str. Matei Basarab nr. 44,Mangalia,43.819,28.5723
+225,14,CONSTANȚA,MUNICIPIUL MANGALIA,98,5,52,8,0,19,6,22,100,5,53,7,0,24,5,17,Fundația Pentru Tineret Mangalia,Șoseaua Constanței (Str. Oltului) nr. 43,Mangalia,43.8175,28.5825
+226,14,CONSTANȚA,MUNICIPIUL MANGALIA,228,46,119,69,1,57,20,71,241,49,130,67,1,49,21,49,Fundatia Pentru Tineret,Șoseaua Constanței (Str. Oltului) nr. 29B,Mangalia,43.8175,28.5825
+227,14,CONSTANȚA,MUNICIPIUL MANGALIA,201,55,98,56,1,55,10,42,205,54,101,52,2,48,17,46,Școala Generală nr. 5,Șoseaua Constanței (Str. Oltului) nr. 27,Mangalia,43.8158,28.5825
+228,14,CONSTANȚA,MUNICIPIUL MANGALIA,264,32,126,43,1,50,32,61,255,36,135,43,1,55,33,54,Școala Generală nr. 5,Șoseaua Constanței (Str. Oltului) nr. 27,Mangalia,43.8158,28.5825
+229,14,CONSTANȚA,MUNICIPIUL MANGALIA,233,42,89,43,0,50,20,64,235,48,93,46,1,49,22,49,Fundația Pentru Tineret,Șoseaua Constanței (Str. Oltului) nr. 29B,Mangalia,43.8175,28.5825
+230,14,CONSTANȚA,MUNICIPIUL MANGALIA,281,52,80,66,1,39,26,72,285,44,86,65,4,43,25,64,Hotel Mangalia,Str. Matei Basarab nr. 3A,Mangalia,43.8164,28.5866
+231,14,CONSTANȚA,MUNICIPIUL MANGALIA,163,46,74,65,2,45,24,65,166,41,83,70,6,42,23,52,Club Spital Mangalia,Str. George Emil Palade nr. 30,Mangalia,43.8175,28.5863
+232,14,CONSTANȚA,MUNICIPIUL MANGALIA,176,24,68,45,0,43,19,64,170,30,73,48,0,48,19,48,Grădinița Callatis,Str. Rozelor nr. 42A,Mangalia,43.825,28.5834
+233,14,CONSTANȚA,MUNICIPIUL MANGALIA,250,30,83,46,1,48,29,80,257,27,87,56,1,45,33,71,Liceul Callatis,Str. Rozelor nr. 42,Mangalia,43.8243,28.5842
+234,14,CONSTANȚA,MUNICIPIUL MANGALIA,165,25,81,26,0,20,22,70,174,28,82,26,0,24,19,53,Liceul Callatis,Str. Rozelor nr. 42,Mangalia,43.8243,28.5842
+237,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,176,43,40,11,0,82,11,42,180,39,45,13,0,82,13,36,Casa de Cultură „I.N.Roman”,Str. Republicii nr. 36,Medgidia,44.2476,28.27
+238,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,170,17,27,13,0,51,5,28,173,18,32,11,1,59,6,16,Grădinița nr. 1 -Bilingvă Romano-Turca,Str. Mărgăritarului nr. 16,Medgidia,44.2441,28.2736
+239,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,133,16,29,6,0,59,5,23,138,17,29,8,0,63,5,15,Grădinița nr. 1,Str. Mărgăritarului,Medgidia,44.2441,28.2736
+240,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,110,14,28,8,0,49,7,29,122,16,29,8,0,49,8,16,Școala „Mihail Sadoveanu”,Str. Siretului nr. 94,Medgidia,44.2438,28.2819
+241,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,111,9,10,7,1,22,5,28,142,12,10,5,0,20,4,13,Școala „Mihail Sadoveanu”,Str. Siretului nr. 94,Medgidia,44.2438,28.2819
+242,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,87,5,9,8,1,44,4,22,100,5,10,7,1,42,4,16,Sala de Sport -Școala „Mihail Sadoveanu”,Str. Jiului nr. FN,Medgidia,44.2438,28.2819
+243,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,184,28,35,19,0,90,7,30,199,26,39,21,1,82,6,24,Grădinița nr. 8,Str. Poporului nr. FN,Medgidia,44.2446,28.2927
+244,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,163,20,27,13,1,83,3,28,170,17,24,11,1,91,2,25,Liceul Tehnologic „Dragomir Hurmuzescu”,Str. Poporului nr. 1,Medgidia,44.2432,28.2955
+245,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,161,20,48,13,2,131,3,39,193,21,56,13,0,116,4,15,Școala „Constantin Brâncuși”,Str. Kemal Agi Amet nr. 26,Medgidia,44.244,28.2713
+246,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,195,0,42,16,1,71,12,57,206,22,51,15,3,68,10,27,Școala „Constantin Brâncuși”,Str. Kemal Agi Amet nr. 26,Medgidia,44.244,28.2713
+247,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,137,13,31,6,1,75,1,24,145,16,41,3,0,73,1,14,Liceul Teoretic „Nicolae Bălcescu”,Nr. 2,Medgidia,44.2409,28.2705
+248,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,159,15,38,17,2,54,2,14,156,16,40,18,2,52,5,12,Liceul Teoretic „Nicolae Bălcescu”,Nr. 2,Medgidia,44.2409,28.2705
+249,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,211,9,30,23,0,62,13,34,213,9,34,20,1,61,12,31,Școala „Mircea Dragomirescu”,,Medgidia,44.2401,28.2739
+250,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,210,16,23,2,0,39,4,25,212,15,26,3,1,40,5,16,Școala „Mircea Dragomirescu”,Str. Ion Creangă (Str. Bordei) nr. 15,Medgidia,44.2401,28.2739
+251,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,218,28,46,23,1,94,5,43,214,25,55,29,2,91,10,37,Grădinița „Tuna”,Str. Republicii nr. 64,Medgidia,44.2372,28.2716
+252,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,225,20,44,27,0,60,8,34,232,23,54,22,0,56,10,26,Grădinița nr. 2,Aleea Spitalului nr. 10,Medgidia,44.2407,28.2689
+253,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,183,27,35,19,0,75,9,33,195,24,37,23,0,71,12,24,Grădinița nr. 11,Str. Republicii nr. 74,Medgidia,44.2407,28.2688
+254,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,160,26,61,20,0,66,11,28,164,26,62,20,0,64,11,27,Colegiul „Kemal Ataturk”,Str. Română nr. 2,Medgidia,44.2462,28.266
+255,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,174,17,39,16,0,51,6,26,173,17,38,18,0,59,5,15,Hotel „Stadion”,Str. Podgoriilor nr. 1A,Medgidia,44.2482,28.2568
+256,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,215,26,21,10,1,55,15,41,218,24,25,11,0,58,16,36,Hotel „Stadion”,Str. Podgoriilor nr. 1A,Medgidia,44.2482,28.2568
+257,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,249,25,23,10,0,81,10,29,252,24,28,12,0,78,8,21,Hotel „Stadion”,Str. Podgoriilor nr. 1A,Medgidia,44.2482,28.2568
+258,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,200,19,23,5,0,59,5,15,211,18,25,7,1,48,5,15,Anexa - Colegiul „Kemal Ataturk”,Str. Lupeni nr. 18,Medgidia,44.2454,28.2623
+259,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,170,16,31,10,0,45,15,43,170,16,32,16,0,42,14,37,Anexa - Colegiul „Kemal Ataturk”,Str. Lupeni nr. 18,Medgidia,44.2454,28.2623
+260,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,250,28,34,16,1,62,7,43,250,26,39,19,1,66,6,38,Școala „Lucian Grigorescu”,Aleea Trandafirilor nr. 24,Medgidia,44.2471,28.2677
+261,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,149,23,29,15,1,49,11,33,160,20,27,14,1,49,13,31,Școala „Lucian Grigorescu”,Aleea Trandafirilor nr. 24,Medgidia,44.2471,28.2677
+262,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,123,13,26,14,0,57,4,22,123,12,28,12,0,60,3,22,Pf Agiomer Muzechir,Str. Vasile Lupu nr. 23,Medgidia,44.2517,28.2713
+263,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,222,26,46,22,2,61,10,38,225,25,48,23,2,67,6,27,Școala „I.L.Caragiale”,Nr. 65A,Medgidia,44.2594,28.2617
+264,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,173,19,22,8,0,81,5,31,181,17,28,5,1,84,5,20,Școala „I.L.Caragiale”,Str. Independenței (Bulevardul Independenței) (D) nr. 65A,Medgidia,44.2594,28.2617
+265,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,216,13,23,15,0,77,5,22,220,12,21,15,0,73,7,24,Școala „I.L.Caragiale”,Str. Independenței (Bulevardul Independenței) (D) nr. 65A,Medgidia,44.2594,28.2617
+266,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,196,14,27,10,0,91,7,26,184,15,26,10,1,100,6,24,Colegiul Tehnic „Nicolae Titulescu”,Str. Dezrobirii nr. 1,Medgidia,44.2607,28.265
+267,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,254,43,39,38,1,123,8,38,253,34,53,35,1,130,13,32,Colegiul Tehnic „Nicolae Titulescu”,Str. Dezrobirii nr. 1,Medgidia,44.2607,28.265
+268,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,227,11,22,23,0,81,3,31,233,12,27,21,2,80,4,25,Școala „Spiru Haret”,Nr. 44,Medgidia,44.2594,28.268
+269,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,239,6,41,8,1,50,10,32,245,4,42,11,1,53,7,19,Școala „Spiru Haret”,Nr. 44,Medgidia,44.2594,28.268
+270,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,180,32,50,13,0,85,11,44,189,32,52,12,0,86,11,34,Școala „Spiru Haret”,Nr. 44,Medgidia,44.2594,28.268
+271,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,261,35,59,23,0,110,15,54,268,33,62,27,0,116,14,38,Gradinița nr. 7,Str. Alexandru cel Bun nr. 22,Medgidia,44.2548,28.2667
+477,14,CONSTANȚA,MERENI,359,12,65,22,1,11,3,33,359,11,68,23,1,10,5,26,Școala Gimnazială Nichita Stanescu,,Mereni,44.0319,28.3831
+480,14,CONSTANȚA,MIHAI VITEAZU,207,1,162,38,1,4,10,25,211,3,162,41,1,4,10,21,Liceul Tehnologic „Mihai Viteazul”,Str. Principală nr. 41,Mihai Viteazu,44.643,28.6781
+482,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,196,9,204,39,0,40,15,34,192,6,211,42,1,39,14,30,Grădinița Domino,Str. Panduri nr. 2A,Mihail Kogălniceanu,44.3734,28.4653
+483,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,161,15,222,36,1,38,5,23,158,12,228,34,1,38,8,25,Grădinița Pinochio,Str. Tudor Vladimirescu nr. 80,Mihail Kogălniceanu,44.3694,28.4632
+484,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,226,24,183,36,0,56,9,27,225,26,189,35,0,51,10,27,Școala Generală nr. 2,Str. Tudor Vladimirescu nr. 63,Mihail Kogălniceanu,44.3664,28.4617
+485,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,206,18,161,23,1,62,12,41,208,19,174,27,2,52,11,31,Liceul Teoretic Mihail Kogălniceanu,Str. Kara-Murat (Str. Dobrogei) nr. 37,Mihail Kogălniceanu,44.3635,28.4608
+486,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,85,10,62,17,0,21,4,25,90,13,62,20,0,18,5,19,Grădinița Piticot,Str. Vasile Lupu (D) nr. 4,Mihail Kogălniceanu,44.3592,28.4651
+487,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,174,21,86,19,0,36,5,29,174,24,92,20,1,33,8,25,Grădinița Piticot,Str. Vasile Lupu (D) nr. 4,Mihail Kogălniceanu,44.3592,28.4651
+488,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,39,4,54,9,0,24,7,16,42,5,56,9,0,21,8,14,Școala Generală Ceres,,Mihail Kogălniceanu,44.3184,28.5074
+392,14,CONSTANȚA,CIOBANU,66,5,16,4,1,2,0,3,65,4,18,4,0,2,0,5,Școala Generală Miorița,Str. Viitorului nr. 21,Miorița,44.682,28.0768
+492,14,CONSTANȚA,MIRCEA VODĂ,324,8,48,20,0,10,11,46,328,8,50,17,1,13,15,40,Școala Gimnazială nr. 1 Mircea Vodă,Str. Primăriei nr. 45,Mircea Vodă,44.2813,28.1748
+536,14,CONSTANȚA,TÂRGUŞOR,77,6,20,6,0,3,1,7,76,5,20,7,0,5,1,5,Școala Primară nr. 2 Mireasa,,Mireasa,44.4944,28.3608
+450,14,CONSTANȚA,INDEPENDENŢA,85,8,83,3,0,1,2,8,91,6,86,3,0,0,2,5,Școala Generală,Str. Școlii nr. 3,Movila Verde,43.9636,28.1409
+541,14,CONSTANȚA,TOPRAISAR,137,9,48,32,1,7,2,24,137,8,49,37,0,10,4,18,Școala I-VIII Movilița,,Movilița,44.0435,28.5118
+356,14,CONSTANȚA,23 AUGUST,84,13,129,11,0,14,9,23,90,13,128,13,0,13,10,23,"Școala cu Clasele I-VIII, Localitatea Moșneni",,Moșneni,43.9352,28.5278
+304,14,CONSTANȚA,ORAŞ MURFATLAR,276,22,84,39,0,22,13,46,281,24,85,35,1,20,13,43,Liceul Teoretic Murfatlar,Str. Mihai Eminescu nr. 50,Murfatlar,44.1755,28.4195
+305,14,CONSTANȚA,ORAŞ MURFATLAR,256,18,70,24,1,21,14,41,262,18,75,25,2,17,12,34,Liceul Teoretic Murfatlar,Str. Mihai Eminescu nr. 50,Murfatlar,44.1755,28.4195
+306,14,CONSTANȚA,ORAŞ MURFATLAR,256,23,85,44,0,17,7,35,250,21,96,43,0,18,9,31,Sala de Sport,Str. G-ral Vasile Milea nr. 2B,Murfatlar,44.1778,28.4191
+307,14,CONSTANȚA,ORAŞ MURFATLAR,286,34,143,51,1,45,16,58,308,37,139,50,1,46,19,43,Școala Generală nr. 2 Murfatlar,Str. Ion Creangă nr. 25,Murfatlar,44.1785,28.4074
+308,14,CONSTANȚA,ORAŞ MURFATLAR,285,43,87,58,1,57,8,63,286,44,102,61,0,49,11,45,Club Tineret Murfatlar,Aleea Mărgăritarelor nr. 9A,Murfatlar,44.174,28.4077
+309,14,CONSTANȚA,ORAŞ MURFATLAR,215,18,53,16,0,14,7,28,217,16,57,20,1,15,7,20,S.C.U.G S.A. Murfatlar,Str. Ciocârliei (Str. Ciocîrliei) nr. 1,Murfatlar,44.173,28.4007
+386,14,CONSTANȚA,CERCHEZU,36,0,10,1,0,1,0,3,36,0,11,1,0,1,1,7,Casa Agronomului Măgura,Str. Izvor nr. 26,Măgura,43.8463,28.0443
+520,14,CONSTANȚA,POARTA ALBĂ,47,3,104,10,0,5,0,4,48,3,106,9,0,5,0,3,Școala Primară,Calea Ovidiu nr. 20,Nazarcea,44.2267,28.4313
+399,14,CONSTANȚA,COBADIN,72,3,14,2,0,1,2,7,73,4,15,2,0,0,2,7,Cămin Cultural Negrești,Șoseaua Constanței nr. 48,Negrești,44.0003,28.1363
+335,14,CONSTANȚA,ORAŞ NEGRU VODĂ,217,10,126,18,0,6,14,42,211,14,130,19,0,8,16,35,Casa de Cultură,Str. Recoltei nr. 25,Negru Vodă,43.8164,28.213
+336,14,CONSTANȚA,ORAŞ NEGRU VODĂ,184,8,96,15,1,17,9,25,190,7,99,15,2,17,8,21,Școala Generală,Str. Silozului nr. 9,Negru Vodă,43.8178,28.2224
+337,14,CONSTANȚA,ORAŞ NEGRU VODĂ,180,10,102,22,1,15,9,42,186,11,102,28,0,18,13,33,Cămin Cultural,Șoseaua Constanței nr. 34A,Negru Vodă,43.8191,28.2152
+338,14,CONSTANȚA,ORAŞ NEGRU VODĂ,27,0,32,1,1,1,1,4,30,0,28,2,2,1,1,3,Grădinița cu Program Normal,Nr. 27,Negru Vodă,43.7862,28.2969
+276,14,CONSTANȚA,ORAŞ BĂNEASA,188,2,30,12,2,32,7,16,190,2,28,13,1,37,5,12,Școala Generală Negureni,,Negureni,44.0977,27.7552
+235,14,CONSTANȚA,MUNICIPIUL MANGALIA,208,32,121,60,0,45,18,49,208,36,119,60,0,53,18,38,Grădinița nr. 5 Neptun,Str. Plopilor nr. 12 A,Neptun,43.8633,28.5954
+236,14,CONSTANȚA,MUNICIPIUL MANGALIA,46,5,43,9,0,24,2,14,40,6,55,9,1,23,2,14,Grădinița nr. 5 Neptun,Str. Plopilor nr. 12 A,Neptun,43.8633,28.5954
+495,14,CONSTANȚA,NICOLAE BĂLCESCU,283,11,76,44,1,17,9,29,286,7,77,46,1,14,10,27,Liceul „I.C. Brătianu” Nicolae Bălcescu,,Nicolae Bălcescu,44.3883,28.3807
+496,14,CONSTANȚA,NICOLAE BĂLCESCU,294,8,68,53,1,24,17,36,289,9,72,52,2,23,17,30,Liceul „I.C. Brătianu” Nicolae Bălcescu,,Nicolae Bălcescu,44.3883,28.3807
+382,14,CONSTANȚA,CASTELU,189,8,33,255,0,8,8,34,187,7,36,265,0,4,8,30,Cămin Cultural,Str. Speranței nr. 7,Nisipari,44.2591,28.3951
+511,14,CONSTANȚA,PANTELIMON,59,2,18,8,0,0,1,2,58,2,19,7,0,0,1,2,Școala cu Clasele I-IV Nistorești,Nr. 68,Nistorești,44.6232,28.379
+459,14,CONSTANȚA,ISTRIA,131,4,179,11,0,5,2,17,137,2,178,10,1,7,2,12,Școala Gimnazială nr. 2 Nuntași,Str. Albatrosului nr. 17,Nuntași,44.5357,28.6477
+311,14,CONSTANȚA,ORAŞ NĂVODARI,275,48,116,45,0,35,18,61,287,50,120,42,0,33,22,48,Grădinița „Peștișorul de Aur”,Str. Cabanei nr. 14,Năvodari,44.3187,28.6129
+312,14,CONSTANȚA,ORAŞ NĂVODARI,235,45,94,52,2,19,20,61,233,45,102,55,1,21,21,53,Liceul Tehnologic „Lazăr Edeleanu”,Str. Sănătații nr. 2,Năvodari,44.3196,28.6107
+313,14,CONSTANȚA,ORAŞ NĂVODARI,169,44,84,48,1,24,18,68,170,43,82,47,1,26,18,69,Liceul Tehnologic „Lazăr Edeleanu”,Str. Sănătații nr. 2,Năvodari,44.3196,28.6107
+314,14,CONSTANȚA,ORAŞ NĂVODARI,281,51,95,46,2,17,21,82,285,51,93,51,3,18,23,73,Liceul Tehnologic „Lazăr Edeleanu”,Str. Sănătații nr. 2,Năvodari,44.3196,28.6107
+315,14,CONSTANȚA,ORAŞ NĂVODARI,223,46,96,59,1,22,23,82,231,39,103,56,0,25,25,74,Liceul Tehnologic „Lazăr Edeleanu”,Str. Sănătații nr. 2,Năvodari,44.3196,28.6107
+316,14,CONSTANȚA,ORAŞ NĂVODARI,247,69,102,63,0,32,28,98,252,69,101,69,0,34,31,80,Școala Gimnazială „George Enescu”,Str. Culturii nr. 25,Năvodari,44.3203,28.6101
+317,14,CONSTANȚA,ORAŞ NĂVODARI,242,76,130,62,0,31,18,91,239,83,136,62,0,33,19,82,Școala Gimnazială „George Enescu”,Str. Culturii nr. 25,Năvodari,44.3203,28.6101
+318,14,CONSTANȚA,ORAŞ NĂVODARI,289,57,101,45,2,31,22,75,295,58,103,51,1,33,21,62,Școala Gimnazială „George Enescu”,Str. Culturii nr. 25,Năvodari,44.3203,28.6101
+319,14,CONSTANȚA,ORAŞ NĂVODARI,232,20,97,25,0,14,23,101,237,27,104,27,0,23,24,64,Școala Gimnazială „Grigore Moisil”,Str. Plopilor nr. 14,Năvodari,44.3214,28.6066
+320,14,CONSTANȚA,ORAŞ NĂVODARI,135,35,54,30,0,16,15,52,136,34,61,28,0,20,16,43,Școala Gimnazială „Grigore Moisil”,Str. Plopilor nr. 14,Năvodari,44.3214,28.6066
+321,14,CONSTANȚA,ORAŞ NĂVODARI,216,36,64,18,1,20,16,61,218,36,69,22,0,18,15,53,Școala Gimnazială „Grigore Moisil”,Str. Plopilor nr. 14,Năvodari,44.3214,28.6066
+322,14,CONSTANȚA,ORAŞ NĂVODARI,233,27,77,48,1,23,17,87,240,35,91,54,1,21,17,49,Grădinița „Albatros”,Str. Plopilor nr. 16,Năvodari,44.3215,28.6067
+323,14,CONSTANȚA,ORAŞ NĂVODARI,198,46,65,60,0,24,17,61,194,50,72,59,0,27,20,55,Clubul Sindicatului „Petrochimistul”,Str. Tineretului nr. 2,Năvodari,44.3215,28.6117
+324,14,CONSTANȚA,ORAŞ NĂVODARI,130,46,62,31,0,21,10,48,133,44,69,28,1,23,9,42,Școala Gimnazială „Tudor Arghezi”,Str. Cabanei nr. 14,Năvodari,44.3191,28.6129
+325,14,CONSTANȚA,ORAŞ NĂVODARI,147,25,64,27,0,11,5,35,136,31,62,30,1,13,6,35,Școala Gimnazială „Tudor Arghezi”,Str. Cabanei nr. 14,Năvodari,44.3191,28.6129
+326,14,CONSTANȚA,ORAŞ NĂVODARI,239,26,99,44,1,20,17,84,247,33,102,47,0,27,14,63,Casa Căsătoriilor,"Str. Albinelor , Bloc B2",Năvodari,44.3231,28.6086
+327,14,CONSTANȚA,ORAŞ NĂVODARI,247,49,91,78,0,25,34,105,250,59,91,72,1,29,33,89,Casa de Cultură,Str. Constanței nr. 14,Năvodari,44.3222,28.6089
+328,14,CONSTANȚA,ORAŞ NĂVODARI,278,55,94,59,0,35,19,77,276,53,105,56,0,31,29,78,Casa de Cultură,Str. Constanței nr. 14,Năvodari,44.3222,28.6089
+329,14,CONSTANȚA,ORAŞ NĂVODARI,244,39,94,30,1,27,27,71,248,37,94,36,1,28,23,59,Creșa nr. 20 Năvodari,Str. Cabanei nr. 2,Năvodari,44.3223,28.616
+330,14,CONSTANȚA,ORAŞ NĂVODARI,75,22,30,11,0,8,3,21,76,17,35,10,0,6,5,23,Clubul Pensionarilor,"Str. Constanței , Bloc H3",Năvodari,44.3237,28.6133
+331,14,CONSTANȚA,ORAŞ NĂVODARI,254,66,130,45,0,38,22,73,255,66,128,43,0,39,29,75,Clădire Sediu Administrativ „Coloana Auto”,Str. Constanței,Năvodari,44.3182,28.5992
+332,14,CONSTANȚA,ORAŞ NĂVODARI,74,7,43,5,0,3,4,13,73,6,41,7,1,3,4,16,Școala Primară nr. 1 Peninsula Năvodari,Str. Principală nr. 7,Năvodari,44.2739,28.5833
+333,14,CONSTANȚA,ORAŞ NĂVODARI,181,17,57,20,1,11,6,54,187,23,62,21,1,11,5,37,Dispensarul nr. 2,"Str. Nuferilor , Bloc 36 Est",Năvodari,44.3262,28.6101
+334,14,CONSTANȚA,ORAŞ NĂVODARI,340,79,124,81,2,48,20,87,336,91,130,81,2,50,17,69,Dispensarul nr. 1,"Str. Rândunelelor , Bloc R4",Năvodari,44.3173,28.6122
+475,14,CONSTANȚA,LUMINA,40,11,177,19,0,7,12,27,42,10,177,18,0,7,13,26,Școala Oituz,,Oituz,44.3302,28.5242
+451,14,CONSTANȚA,INDEPENDENŢA,66,0,46,6,0,2,0,10,68,1,46,6,0,2,1,10,Școala Generală,Str. Principală nr. 6,Olteni,43.9171,28.0229
+498,14,CONSTANȚA,OLTINA,340,7,154,52,2,5,2,18,346,5,161,49,2,6,2,10,Școala Gimnazială nr. 1 Oltina,,Oltina,44.1657,27.6654
+478,14,CONSTANȚA,MERENI,211,2,11,7,0,17,1,15,219,2,15,7,0,15,1,7,Școala cu Clasele I-VIII,,Osmancea,44.0143,28.3215
+501,14,CONSTANȚA,OSTROV,187,7,46,17,0,10,7,31,198,7,46,20,0,8,7,22,Cămin Cultural Ostrov,,Ostrov,44.1078,27.3674
+502,14,CONSTANȚA,OSTROV,251,9,69,20,1,16,5,31,262,10,67,13,1,13,6,26,Cămin Cultural Ostrov,Str. 1 Mai,Ostrov,44.1078,27.3674
+341,14,CONSTANȚA,ORAŞ OVIDIU,276,30,198,37,2,28,23,70,286,26,199,35,1,32,22,56,Liceul Teoretic Ovidiu,,Ovidiu,44.2575,28.5604
+342,14,CONSTANȚA,ORAŞ OVIDIU,256,28,171,63,1,29,19,70,277,25,177,64,0,29,17,53,Liceul Teoretic Ovidiu,,Ovidiu,44.2575,28.5604
+343,14,CONSTANȚA,ORAŞ OVIDIU,243,41,184,65,3,54,21,71,248,45,196,66,2,55,17,58,Școala nr. 2 Ovidiu,,Ovidiu,44.2512,28.5678
+344,14,CONSTANȚA,ORAŞ OVIDIU,212,33,152,52,0,26,24,67,215,36,166,50,0,26,24,50,Școala nr. 2 Ovidiu,,Ovidiu,44.2512,28.5678
+345,14,CONSTANȚA,ORAŞ OVIDIU,196,103,197,64,1,56,15,62,201,105,213,63,2,48,13,48,Școala nr. 2 Ovidiu,Str. Primăverii nr. 2A,Ovidiu,44.2512,28.5678
+346,14,CONSTANȚA,ORAŞ OVIDIU,314,43,205,64,0,49,23,62,325,45,207,58,0,48,18,51,Centrul Cultural Ovidiu,,Ovidiu,44.2522,28.5657
+491,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,101,3,41,3,1,6,2,7,103,3,46,2,1,8,2,3,Școala Generală,,Palazu Mic,44.4397,28.5304
+508,14,CONSTANȚA,PANTELIMON,174,4,81,13,0,1,0,10,173,5,83,15,1,1,0,9,Școala Gimnazială nr. 1 Pantelimon,Str. Principală nr. 219,Pantelimon,44.5451,28.3292
+509,14,CONSTANȚA,PANTELIMON,73,0,22,0,0,0,0,3,74,0,18,0,0,0,0,3,Școala cu Clasele I-IV Pantelimon de Jos,Str. Principală nr. 48,Pantelimon de Jos,44.5733,28.3873
+512,14,CONSTANȚA,PECINEAGA,191,12,107,11,1,23,10,46,195,14,110,14,1,25,9,34,Cămin Cultural Pecineaga,Șoseaua Ștefan cel Mare nr. 66,Pecineaga,43.895,28.497
+513,14,CONSTANȚA,PECINEAGA,219,4,103,10,0,7,2,18,217,6,103,10,0,9,3,17,Școala Gimnazială nr. 1 Pecineaga,Șoseaua Ștefan cel Mare nr. 55,Pecineaga,43.8954,28.4986
+407,14,CONSTANȚA,COMANA,68,0,30,2,0,1,0,2,71,0,32,1,0,1,0,0,Școala cu Clasele I-IV Pelinu,Str. Principală nr. 29,Pelinu,43.9248,28.3846
+432,14,CONSTANȚA,DELENI,132,3,45,12,0,4,2,9,130,3,48,12,0,2,2,7,Fost Sediu C.A.P. Petroșani,Nr. 71,Petroșani,44.0122,28.051
+514,14,CONSTANȚA,PEŞTERA,234,4,46,8,0,143,6,21,239,4,45,8,0,143,7,21,Camin Cultural Pestera,,Peștera,44.185,28.1263
+489,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,44,0,116,3,1,15,0,3,44,2,118,4,1,12,0,1,"Unitatea Agricolă Sibioara, Centrul Pentru Tineret",,Piatra,44.3891,28.5348
+490,14,CONSTANȚA,MIHAIL KOGĂLNICEANU,88,4,159,30,0,22,4,19,92,5,160,38,0,21,4,11,Căminul Cultural,Str. Tașaul (D) nr. 64,Piatra,44.4043,28.559
+430,14,CONSTANȚA,DELENI,250,3,50,7,0,1,3,11,263,2,46,6,0,1,3,9,Fost Sediu C.A.P. Pietreni,Nr. 130,Pietreni,44.0962,28.0668
+388,14,CONSTANȚA,CHIRNOGENI,125,1,36,9,0,3,5,12,127,1,36,8,0,3,5,12,Școala Gimnazială nr. 2 Plopeni,Șoseaua Constanței nr. 36B,Plopeni,43.9517,28.1946
+517,14,CONSTANȚA,POARTA ALBĂ,330,30,219,42,2,11,7,39,337,32,221,41,3,11,9,31,Școala Publica nr. 1 Clasa Ib,Calea București nr. 19,Poarta Albă,44.2092,28.395
+518,14,CONSTANȚA,POARTA ALBĂ,351,15,184,31,3,17,9,40,358,15,188,32,2,13,11,36,Școala Publica nr. 1 Clasa Ia,Calea București nr. 19,Poarta Albă,44.2092,28.395
+519,14,CONSTANȚA,POARTA ALBĂ,345,7,165,15,0,20,9,40,341,7,171,16,0,22,12,35,Colegiul Agricol Poarta Albă Corp B Clasa a Iv A,Str. Căminului nr. 2,Poarta Albă,44.2296,28.4123
+347,14,CONSTANȚA,ORAŞ OVIDIU,88,15,121,24,1,28,14,29,91,17,122,21,1,30,13,23,Școala Generală din Satul Poiana,,Poiana,44.2218,28.4991
+542,14,CONSTANȚA,TOPRAISAR,98,3,19,6,0,7,1,19,99,3,21,7,0,5,2,16,Școala I-IV Potârnichea,,Potârnichea,44.0674,28.4784
+437,14,CONSTANȚA,DOBROMIR,51,0,17,1,0,2,0,7,53,1,20,1,0,2,0,2,Școala Generalăcu Clasele I-IV Pădureni,,Pădureni,44.051,27.8649
+456,14,CONSTANȚA,ION CORVIN,76,0,7,6,0,4,1,6,77,0,7,6,0,3,1,6,"Grădinița cu Program Normal Rariștea, Loc. Rariștea",,Rariștea,44.0756,27.8015
+521,14,CONSTANȚA,RASOVA,145,1,9,13,0,10,1,12,145,1,9,14,0,11,1,8,Școala Gimnazială nr. 2 Rasova,,Rasova,44.2451,27.9313
+522,14,CONSTANȚA,RASOVA,156,1,19,1,0,14,1,12,152,1,18,4,0,11,2,16,Școala Gimnazială nr. 2 Rasova,,Rasova,44.2451,27.9313
+273,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,36,0,4,7,0,36,2,7,37,0,3,7,0,37,2,6,S.C. „Maxicomp” S.R.L.,Str. Patriei nr. 8,Remus Opreanu,44.2402,28.2134
+510,14,CONSTANȚA,PANTELIMON,116,1,32,5,0,0,0,3,114,2,30,5,0,1,1,3,Școala cu Clasele I-IV Runcu,Str. Principală nr. 41,Runcu,44.5976,28.3304
+404,14,CONSTANȚA,COGEALAC,100,2,32,36,0,3,4,15,99,2,31,38,1,6,4,11,Școala Gimnazială Numarul 1 Râmnicu de Jos,Str. Fabricii nr. 25 B,Râmnicu de Jos,44.6295,28.4557
+499,14,CONSTANȚA,OLTINA,109,1,52,13,0,0,1,7,111,1,52,13,0,0,1,7,Școala Gimnazială nr. 2 Răzoarele,,Răzoarele,44.1002,27.6774
+525,14,CONSTANȚA,SALIGNY,233,11,26,25,0,5,3,16,235,10,29,24,0,6,2,12,Școala Gimnazială nr. 1 Saligny,,Saligny,44.2822,28.0889
+527,14,CONSTANȚA,SARAIU,386,5,28,16,0,2,4,11,396,5,27,13,1,2,4,11,Școala Gimnazială „Nicolae Maraloi” Saraiu,Str. Nicolae Maraloi nr. 2,Saraiu,44.7189,28.1573
+493,14,CONSTANȚA,MIRCEA VODĂ,227,4,21,6,0,10,1,19,235,5,25,7,0,7,1,13,Școala Gimnazială nr. 2 Satu Nou,Str. Școlii nr. 26,Satu Nou,44.2692,28.2279
+494,14,CONSTANȚA,MIRCEA VODĂ,288,10,30,9,0,15,4,17,295,8,27,10,0,15,4,18,Școala Gimnazială nr. 2 Satu Nou,Str. Școlii nr. 26,Satu Nou,44.2692,28.2279
+500,14,CONSTANȚA,OLTINA,49,1,23,3,0,1,2,7,49,1,24,4,0,1,6,8,Școala cu Clasele I-IV Satu Nou,,Satu Nou,44.1603,27.6042
+413,14,CONSTANȚA,COSTINEŞTI,265,34,181,68,1,25,30,86,270,36,185,60,0,31,19,74,Școala Primară „Ion Creanga” Schitu,Str. Școlii nr. 20,Schitu,43.943,28.6265
+531,14,CONSTANȚA,SEIMENI,123,10,28,1,0,5,2,9,123,10,28,2,0,6,2,9,Școala cu Clasele I-VIII Seimeni,,Seimeni,44.3945,28.0714
+530,14,CONSTANȚA,SEIMENI,238,6,15,6,0,5,6,16,239,4,19,5,1,6,7,15,Școala cu Clasele I-IV Seimenii Mici,,Seimenii Mici,44.3736,28.0646
+476,14,CONSTANȚA,LUMINA,49,6,83,1,0,1,1,8,50,5,84,2,0,2,0,6,Școala Sibioara,,Sibioara,44.3632,28.5514
+533,14,CONSTANȚA,SILIŞTEA,145,12,93,4,0,4,1,5,151,9,92,4,0,2,2,4,Școala Gimnazială nr. 1,Str. Mare nr. 134 A,Siliștea,44.401,28.1777
+310,14,CONSTANȚA,ORAŞ MURFATLAR,190,19,94,23,0,21,7,23,186,18,96,21,0,22,10,24,Cămin Cultural Siminoc,Str. Murfatlar nr. 8,Siminoc,44.17,28.3531
+481,14,CONSTANȚA,MIHAI VITEAZU,124,3,298,4,0,4,6,9,120,3,298,6,1,6,4,9,Școala cu Clasele I-Vii Sinoe,Str. Mihai Viteazu nr. 87,Sinoie,44.6291,28.7327
+418,14,CONSTANȚA,CRUCEA,108,5,25,3,0,6,2,9,107,4,24,3,0,4,3,11,Școala Primară nr. 4 Stupina,Str. Școlii nr. 1,Stupina,44.5639,28.1767
+529,14,CONSTANȚA,SĂCELE,360,13,329,31,0,7,16,36,366,13,326,29,0,9,18,34,Școala Gimnazială „A.Ghencea”,Str. Cetatea Histriei nr. 21,Săcele,44.4876,28.6446
+403,14,CONSTANȚA,COGEALAC,160,6,40,22,1,8,0,11,161,3,44,20,1,11,0,7,Școala Gimnazială Numarul 2 Tariverde,Str. Tudor Vladimirescu nr. 55,Tariverde,44.5633,28.5985
+349,14,CONSTANȚA,ORAŞ TECHIRGHIOL,239,70,224,72,1,53,17,75,260,73,249,65,0,43,17,52,Sala de Sport,Bulevardul Victoriei (Bulevardul 23 August) nr. 15,Techirghiol,44.0522,28.597
+350,14,CONSTANȚA,ORAŞ TECHIRGHIOL,189,55,215,30,1,88,13,83,214,55,240,35,0,76,12,50,Grădinița nr. 1,Str. Nicolae Bălcescu nr. 27,Techirghiol,44.0547,28.5958
+351,14,CONSTANȚA,ORAŞ TECHIRGHIOL,222,40,169,47,0,39,10,77,224,42,182,43,1,29,13,75,Grădinița nr. 2,Str. Nicolae Bălcescu nr. 65,Techirghiol,44.0534,28.5853
+352,14,CONSTANȚA,ORAŞ TECHIRGHIOL,161,35,198,54,0,34,7,78,159,37,214,55,0,30,8,66,Liceul „Emil Racoviță”,Str. Nicolae Bălcescu nr. 14,Techirghiol,44.0553,28.5949
+534,14,CONSTANȚA,SILIŞTEA,130,10,43,4,1,4,5,22,131,9,49,5,1,3,5,19,Camin Cultural,Str. Siliștei nr. 56 A,Tepeș Vodă,44.4447,28.237
+448,14,CONSTANȚA,HORIA,76,0,32,5,0,0,1,10,74,0,29,6,0,0,3,12,Caminul Cultural Tichhilesti,Str. Principală nr. 28,Tichilești,44.6007,28.0875
+537,14,CONSTANȚA,TOPALU,279,2,405,12,0,5,12,23,285,3,395,10,0,8,19,25,Școala Generală Topalu,,Topalu,44.5441,28.0471
+538,14,CONSTANȚA,TOPRAISAR,293,21,55,26,0,20,12,44,302,22,57,25,1,17,17,39,Liceul Tehnologic Topraisar,Nr. 32B,Topraisar,44.0168,28.4552
+539,14,CONSTANȚA,TOPRAISAR,299,27,68,30,0,22,6,36,307,25,66,27,0,18,11,36,Școala Veche Topraisar,Nr. 16,Topraisar,44.0104,28.4509
+543,14,CONSTANȚA,TORTOMAN,295,161,18,7,0,13,2,21,307,143,19,8,2,11,5,23,Căminul Cultural Tortoman,,Tortoman,44.3451,28.2217
+452,14,CONSTANȚA,INDEPENDENŢA,54,1,36,2,0,1,1,9,53,0,37,1,0,2,0,9,Școala Generală,Str. Principală nr. 37,Tufani,43.9913,28.0082
+544,14,CONSTANȚA,TUZLA,172,39,87,21,0,80,8,68,197,37,105,25,0,61,8,42,Grădinița Veche,,Tuzla,44.0062,28.6388
+545,14,CONSTANȚA,TUZLA,229,51,93,22,2,77,14,78,256,51,95,30,2,74,18,54,Școala Mică Tuzla,,Tuzla,44.001,28.635
+546,14,CONSTANȚA,TUZLA,248,38,93,54,0,91,9,39,258,40,98,54,0,94,8,29,Școala Mare Tuzla,,Tuzla,44.0002,28.6344
+547,14,CONSTANȚA,TUZLA,172,22,95,72,0,76,11,39,180,24,100,65,0,73,11,33,Grădiniță Nouă,,Tuzla,43.9968,28.6322
+535,14,CONSTANȚA,TÂRGUŞOR,334,13,59,45,2,8,2,29,334,13,63,44,1,12,5,25,Consiliului Local Tîrgușor,,Târgușor,44.4617,28.4175
+406,14,CONSTANȚA,COMANA,67,2,21,11,1,9,0,5,64,2,23,12,2,10,2,3,Școala Generală „Negip Hagi Fazal” Tătaru,Intrarea Azaplar nr. 18,Tătaru,43.8802,28.3577
+359,14,CONSTANȚA,ADAMCLISI,41,4,73,4,0,1,2,8,43,5,74,4,0,1,2,5,Școala Generală Urluia,Str. Libertății nr. 8,Urluia,44.1011,27.9149
+411,14,CONSTANȚA,CORBU,64,11,69,17,0,7,2,8,59,12,69,17,0,7,3,10,Școala Primară Vadu,,Vadu,44.4483,28.7374
+303,14,CONSTANȚA,ORAŞ HÂRŞOVA,49,0,12,1,1,21,6,10,50,0,12,1,1,25,5,6,Școala Primară Vadu Oii,,Vadu Oii,44.7403,27.886
+272,14,CONSTANȚA,MUNICIPIUL MEDGIDIA,162,19,32,19,0,94,5,24,174,19,36,20,0,87,5,16,Școala „Iuliu Prodan”,Nr. 33,Valea Dacilor,44.1961,28.316
+548,14,CONSTANȚA,VALU LUI TRAIAN,208,19,245,27,2,75,15,98,221,22,266,27,1,65,15,76,Sala de Sport,Str. Stadion nr. 3,Valu lui Traian,44.1641,28.4898
+549,14,CONSTANȚA,VALU LUI TRAIAN,239,47,224,61,0,107,28,133,261,55,252,67,3,104,25,74,Școala Gimnazială nr. 1,Str. Calea Dobrogei nr. 47,Valu lui Traian,44.1644,28.4807
+550,14,CONSTANȚA,VALU LUI TRAIAN,152,60,255,52,1,49,17,73,156,60,272,55,1,45,24,64,Grădinița cu Program Prelungit nr. 3,Str. Socului nr. 2,Valu lui Traian,44.1571,28.4831
+551,14,CONSTANȚA,VALU LUI TRAIAN,264,30,283,70,1,27,17,67,270,33,298,62,2,25,16,50,Complex,Str. Calea Dobrogei nr. 260 B,Valu lui Traian,44.1664,28.4626
+552,14,CONSTANȚA,VALU LUI TRAIAN,123,18,220,49,1,5,9,37,127,18,220,45,0,6,12,40,Clădire Vestiare Teren Fotbal (Stadion),Prelungirea Hasancea nr. 12,Valu lui Traian,44.1651,28.4504
+553,14,CONSTANȚA,VALU LUI TRAIAN,228,22,186,54,1,20,17,45,220,21,192,56,2,20,14,42,Școala Gimnazială „Viceamiral Ioan Murgescu”,Str. Mihai Eminescu (Str. Mihail Eminescu) nr. 157,Valu lui Traian,44.1648,28.4513
+554,14,CONSTANȚA,VALU LUI TRAIAN,257,51,217,45,4,65,28,82,272,49,233,47,5,53,28,65,Grădinița cu Program Normal nr. 2,Str. Mihai Eminescu (Str. Mihail Eminescu) nr. 148 B,Valu lui Traian,44.1664,28.4474
+555,14,CONSTANȚA,VALU LUI TRAIAN,144,27,191,25,1,31,7,36,149,26,201,28,1,27,8,35,Centru de Tineret,Str. Bisericii nr. 2 B,Valu lui Traian,44.1589,28.4721
+455,14,CONSTANȚA,ION CORVIN,234,3,65,18,2,41,3,20,236,5,58,24,3,44,0,12,"Școala Gimnazială nr. 2 Viile, Loc. Viile",,Viile,44.1623,27.7536
+400,14,CONSTANȚA,COBADIN,168,1,60,11,1,5,11,25,168,4,64,10,0,4,10,25,Grădinița Viișoara,Str. Crângului nr. 242,Viișoara,44.0772,28.1946
+385,14,CONSTANȚA,CERCHEZU,70,11,77,3,1,3,1,11,70,12,78,2,1,5,3,9,Căminul Cultural Viroaga,Str. Orizontului nr. 9,Viroaga,43.8719,28.0868
+374,14,CONSTANȚA,ALIMAN,62,1,51,11,1,3,3,7,61,1,51,12,1,4,2,5,Școala Primară nr. 2 Vlahii,Str. Bisericii nr. 4,Vlahii,44.2028,27.863
+556,14,CONSTANȚA,VULTURU,197,2,11,8,1,2,6,15,196,2,11,6,1,4,13,19,Camin Cultural Vulturu,Str. Cartal nr. 1,Vulturu,44.6493,28.2684
+340,14,CONSTANȚA,ORAŞ NEGRU VODĂ,30,1,13,0,0,1,4,6,32,1,14,0,0,1,4,4,Școala Generală Clasele I-IV,Str. Principală nr. 37,Vâlcelele,43.7834,28.3389
+371,14,CONSTANȚA,ALBEŞTI,20,1,49,6,1,13,3,6,23,0,50,6,2,10,5,8,Școala Primară nr. 3 Vîrtop,Str. Calul Bălan nr. 20,Vârtop,43.8191,28.3837
+436,14,CONSTANȚA,DOBROMIR,148,0,10,27,1,0,4,62,166,0,22,67,2,2,4,8,Școala Generalăcu Clasele I-IV Văleni,,Văleni,44.0192,27.8762
+358,14,CONSTANȚA,ADAMCLISI,97,0,75,8,2,2,4,9,99,0,77,7,1,3,4,8,Cămin Cultural Zorile,Str. Năzălaru nr. 1,Zorile,44.0763,27.9376
+431,14,CONSTANȚA,DELENI,205,4,30,14,1,4,3,17,206,4,28,13,1,3,3,17,Școala Generală Șipotele,Str. Traian nr. 93,Șipotele,44.0437,27.958
+419,14,CONSTANȚA,CRUCEA,30,0,31,1,0,1,0,1,27,0,32,1,0,1,0,2,Școala Primară nr. 3 Șiriu,Str. Moldovei nr. 4,Șiriu,44.6289,28.184
+526,14,CONSTANȚA,SALIGNY,147,3,26,7,0,5,3,12,146,4,26,7,0,6,3,10,Școala Primară nr. 3 Ștefan Cel Mare,,Ștefan cel Mare,44.3009,28.0755

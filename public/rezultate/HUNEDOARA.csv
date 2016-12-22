@@ -1,0 +1,525 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+522,22,HUNEDOARA,ZAM,14,4,29,1,1,12,0,5,14,4,32,0,1,10,0,5,Căminul Cultural Almaș Săliște,Nr. 29,Almaș-Săliște,46.0595,22.52
+410,22,HUNEDOARA,PESTIŞU MIC,10,1,30,5,2,1,2,7,9,1,33,4,3,1,2,5,Căminul Cultural Almașu Mic,Nr. 45,Almașu Mic,45.8173,22.8934
+264,22,HUNEDOARA,BALŞA,22,0,14,3,0,1,0,3,18,1,16,3,0,5,0,1,"Almașu Mic de Munte, Școala Generală",,Almașu Mic de Munte,46.0555,23.0801
+338,22,HUNEDOARA,CÂRJIŢI,41,8,47,1,2,2,1,7,40,7,48,2,2,2,2,8,Căminul Cultural Almașu Sec,Nr. 101,Almașu Sec,45.8485,22.8607
+295,22,HUNEDOARA,BOŞOROD,14,1,22,2,1,1,0,5,15,1,22,2,1,2,0,3,Căminul Cultural Alun,Nr. 6,Alun,45.6077,23.1601
+185,22,HUNEDOARA,ORAŞ ANINOASA,417,11,43,29,4,8,10,43,405,12,57,26,4,15,9,33,Școala Gimnazială „Sf. Varvara” Aninoasa,Str. Școlii nr. 1,Aninoasa,45.4104,23.3134
+186,22,HUNEDOARA,ORAŞ ANINOASA,227,4,56,24,9,20,2,11,222,3,69,23,7,23,2,9,Stadionul „Minerul Aninoasa”,"Str. Libertății (Str. 7 Noiembrie, Str. Avram Iancu) nr. 10",Aninoasa,45.3926,23.318
+260,22,HUNEDOARA,BALŞA,11,0,37,0,0,2,1,4,12,0,35,0,0,1,1,6,"Ardeu, Căminul Cultural",,Ardeu,46.0224,23.1427
+206,22,HUNEDOARA,ORAŞ GEOAGIU,131,20,94,11,1,97,4,15,128,18,92,11,1,102,5,13,Căminul Cultural Aurel Vlaicu,Nr. 70,Aurel Vlaicu,45.9124,23.2776
+384,22,HUNEDOARA,ILIA,51,3,69,5,0,7,6,14,51,3,75,4,0,6,3,11,Căminul Cultural din Bacea,,Bacea,45.9606,22.6679
+253,22,HUNEDOARA,BAIA DE CRIŞ,136,7,85,11,2,21,4,20,147,11,69,10,2,23,5,19,Școala Gimnazială „Avram Iancu” Baia de Criș,Str. Tribunului nr. 18,Baia de Criș,46.1761,22.7124
+469,22,HUNEDOARA,SÂNTĂMĂRIA-ORLEA,132,6,16,2,1,3,8,17,131,3,17,5,2,3,9,16,Căminul Cultural Balomir,Nr. 6,Balomir,45.5863,22.9969
+259,22,HUNEDOARA,BALŞA,28,0,51,4,0,11,4,12,31,0,49,5,0,12,4,10,"Balșa, Sediul Primăriei Comunei",,Balșa,46.0272,23.1012
+377,22,HUNEDOARA,HĂRĂU,100,6,37,9,1,19,2,18,103,8,37,11,2,19,1,12,Căminul Cultural Banpotoc,,Banpotoc,45.8958,23.0115
+267,22,HUNEDOARA,BARU,317,8,475,16,11,11,23,40,315,8,480,16,11,13,19,35,Școala Primară Baru,,Baru,45.4708,23.1636
+199,22,HUNEDOARA,ORAŞ CĂLAN,81,2,70,6,5,10,2,8,82,3,74,5,4,5,3,9,Școala Primară,,Batiz,45.7837,23.0014
+281,22,HUNEDOARA,BERIU,79,5,103,14,1,13,6,17,90,9,93,12,1,19,4,13,Caminul Cultural,,Beriu,45.79,23.1942
+502,22,HUNEDOARA,VAŢA DE JOS,47,2,23,7,0,6,9,20,54,1,21,7,0,5,9,18,Școala Primară,Nr.         85B,Birtin,46.1734,22.6405
+287,22,HUNEDOARA,BLĂJENI,114,4,105,0,0,18,3,8,118,6,95,2,0,20,2,10,Caminul Cultural Blajeni,,Blăjeni,46.2202,22.9092
+289,22,HUNEDOARA,BLĂJENI,10,0,30,0,0,1,3,5,11,0,26,1,0,1,3,8,Școala Primară Blajeni Vulcan,Nr. 62,Blăjeni-Vulcan,46.2383,22.9361
+429,22,HUNEDOARA,RAPOLTU MARE,75,3,46,8,0,7,7,14,74,3,43,8,0,4,10,16,Camin Cultural,Nr. 213,Bobâlna,45.8733,23.125
+346,22,HUNEDOARA,CERTEJU DE SUS,17,0,27,1,0,1,1,2,17,0,27,1,0,1,1,2,Spațiu Administrativ Bocșa Mică,Nr. 54,Bocșa Mică,45.985,23.0116
+476,22,HUNEDOARA,ŞOIMUŞ,60,3,69,4,2,17,5,12,65,3,67,3,2,14,7,13,Cămin Cultural Sat Boholt nr. 39,,Boholț,45.9482,22.9228
+428,22,HUNEDOARA,RAPOLTU MARE,30,3,18,2,0,12,1,5,29,2,19,2,0,14,1,4,Camin Cultural,Nr. 79,Boiu,45.8975,23.1479
+374,22,HUNEDOARA,GURASADA,53,1,2,0,1,1,0,2,52,1,3,1,1,1,0,2,Cămin Cultural Boiu de Sus,Nr. 74,Boiu de Sus,46.0195,22.5887
+434,22,HUNEDOARA,RĂCHITOVA,126,1,110,1,1,11,3,7,127,1,111,1,1,13,3,8,Școala Primară Boița,Nr. 42,Boița,45.6105,22.8179
+298,22,HUNEDOARA,BRĂNIŞCA,97,7,14,11,1,2,12,19,94,9,14,13,2,2,10,19,Cămin Cultural Boz,,Boz,45.9478,22.7551
+207,22,HUNEDOARA,ORAŞ GEOAGIU,36,6,19,4,0,39,2,4,36,6,14,5,0,42,2,3,Căminul Cultural Bozes,Nr. 30,Bozeș,45.9745,23.1728
+108,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,81,22,39,11,4,6,8,22,77,18,46,8,4,12,8,23,Cămin Cultural Boș (Grădinița),,Boș,45.7542,22.837
+291,22,HUNEDOARA,BOŞOROD,206,13,288,7,1,53,0,16,216,7,290,12,4,52,3,13,Căminul Cultural Bosorod,Nr. 59,Boșorod,45.6838,23.0908
+47,22,HUNEDOARA,MUNICIPIUL BRAD,200,35,98,21,5,17,6,27,196,42,88,25,6,16,9,28,Casa de Cultura,Str. Independenței nr. 7,Brad,46.1286,22.7907
+48,22,HUNEDOARA,MUNICIPIUL BRAD,239,28,74,12,4,17,9,28,239,28,66,16,3,24,12,26,Casa de Cultura,Str. Independenței,Brad,46.1286,22.7907
+49,22,HUNEDOARA,MUNICIPIUL BRAD,334,36,136,30,6,29,16,60,334,43,130,35,6,34,19,54,Școala Gimnazială „Mircea Sântimbreanu”,Str. Libertății nr. 23,Brad,46.1224,22.7908
+50,22,HUNEDOARA,MUNICIPIUL BRAD,307,22,112,19,2,15,13,38,308,26,107,17,2,20,13,33,Școala Gimnazială „Mircea Sântimbreanu”,Str. Libertății nr. 23,Brad,46.1224,22.7908
+51,22,HUNEDOARA,MUNICIPIUL BRAD,258,20,94,15,5,16,9,26,259,21,89,19,5,16,6,23,Școala Gimnazială „Mircea Sântimbreanu”,Str. Victoriei nr. 3,Brad,46.1215,22.7927
+52,22,HUNEDOARA,MUNICIPIUL BRAD,293,16,74,25,3,19,11,32,300,0,59,26,22,25,11,29,Școala Gimnazială „Mircea Sântimbreanu”,Str. Victoriei nr. 3,Brad,46.1215,22.7927
+53,22,HUNEDOARA,MUNICIPIUL BRAD,197,20,64,14,1,25,16,36,214,20,46,17,3,27,15,31,Colegiul Național „Avram Iancu”,Str. Liceului (Str. Timișoara) nr. 18,Brad,46.1291,22.7854
+54,22,HUNEDOARA,MUNICIPIUL BRAD,201,24,61,20,2,28,9,46,206,27,52,25,2,27,10,42,Colegiul Național „Avram Iancu”,Str. Liceului (Str. Timișoara) nr. 18,Brad,46.1291,22.7854
+55,22,HUNEDOARA,MUNICIPIUL BRAD,265,23,112,14,6,15,15,59,269,26,84,28,8,20,18,56,Grădinița P.P. „Floare de Colț”,Str. Horea (D) nr. 25,Brad,46.1327,22.7927
+56,22,HUNEDOARA,MUNICIPIUL BRAD,205,15,95,15,3,18,13,30,206,16,88,17,4,19,14,31,Școala Gimnazială „Horea Cloșca și Crișan”,Str. Liceului (Str. Timișoara) nr. 1,Brad,46.129,22.7898
+452,22,HUNEDOARA,SARMIZEGETUSA,81,1,22,6,6,8,4,5,81,0,23,7,7,9,3,3,Școala Primară Breazova,Nr. 10 B,Breazova,45.5305,22.7963
+381,22,HUNEDOARA,ILIA,134,6,115,4,0,17,9,23,130,7,117,2,0,28,5,18,Căminul Cultural din Bretea Mureșană,,Bretea Mureșană,45.938,22.712
+303,22,HUNEDOARA,BRETEA ROMÂNĂ,76,1,24,0,1,10,1,9,79,2,22,3,1,11,3,6,Școala Gimnazială Bretea Romana,Nr. 15A,Bretea Română,45.6603,23.017
+304,22,HUNEDOARA,BRETEA ROMÂNĂ,66,1,21,6,1,5,2,6,69,0,22,6,1,4,1,4,Cămin Cultural,Nr. 83,Bretea Streiului,45.6593,22.999
+385,22,HUNEDOARA,ILIA,52,0,79,5,0,3,1,5,51,1,78,6,0,5,1,4,Căminul Cultural din Brîznic,,Brâznic,45.9194,22.6514
+334,22,HUNEDOARA,BURJUC,45,3,6,1,0,2,0,3,44,2,7,2,0,2,0,3,Școala Primară Brădățel,Nr. 60,Brădățel,45.988,22.5299
+297,22,HUNEDOARA,BRĂNIŞCA,155,10,32,9,1,14,10,16,149,11,30,10,2,17,9,15,Cămin Cultural Brănișca,,Brănișca,45.9162,22.7711
+314,22,HUNEDOARA,BUCEŞ,65,0,11,1,1,1,5,9,64,1,6,0,1,1,8,15,Camin Cultural Buces,,Buceș,46.1896,22.9356
+315,22,HUNEDOARA,BUCEŞ,55,2,11,3,0,3,3,10,58,2,9,5,0,3,2,7,Școala Primară Buces-Vulcan,,Buceș-Vulcan,46.2172,22.9623
+404,22,HUNEDOARA,ORĂŞTIOARA DE SUS,58,2,138,5,1,14,2,7,59,0,138,3,2,15,3,7,Camin Cultural Bucium,Nr. 110,Bucium,45.7416,23.1805
+468,22,HUNEDOARA,SÂNTĂMĂRIA-ORLEA,75,0,17,2,0,2,4,12,76,1,9,7,1,3,5,12,Căminul Cultural Bucium,Nr. 39,Bucium-Orlea,45.6005,23.0077
+320,22,HUNEDOARA,BUCUREŞCI,167,3,124,5,1,12,3,14,160,6,127,5,1,16,3,12,Caminul Cultural,Nr. 25,Bucureșci,46.1278,22.8982
+326,22,HUNEDOARA,BULZEŞTII DE SUS,34,1,29,4,0,4,1,4,33,0,32,4,0,2,1,3,Școala Primară Bulzestii de Jos,,Bulzeștii de Jos,46.2619,22.7436
+325,22,HUNEDOARA,BULZEŞTII DE SUS,57,2,16,1,0,4,2,10,55,2,14,3,0,5,2,12,Primăria Bulzestii de Sus Sala de Sedinta,Nr. 35,Bulzeștii de Sus,46.3029,22.7612
+327,22,HUNEDOARA,BUNILA,13,0,18,0,1,1,1,1,15,0,18,0,0,1,1,1,Căminul Cultural Bunila,,Bunila,45.6931,22.6731
+330,22,HUNEDOARA,BURJUC,64,2,11,1,1,4,3,7,66,3,10,2,1,2,2,5,Camin Cultural Burjuc,Nr. 92,Burjuc,45.949,22.4903
+378,22,HUNEDOARA,HĂRĂU,70,31,45,9,0,6,8,24,75,29,46,8,1,8,5,16,Școala Primară Bîrsău,Nr. 231,Bârsău,45.9295,22.9593
+270,22,HUNEDOARA,BĂCIA,238,8,89,10,21,7,12,20,222,10,98,9,22,11,16,23,Căminul Cultural Băcia nr. 235,,Băcia,45.8032,23.0071
+418,22,HUNEDOARA,PUI,26,6,58,3,2,7,3,12,30,5,58,5,2,4,3,10,Școala Primară Băiești,,Băiești,45.5343,23.0115
+273,22,HUNEDOARA,BĂIŢA,329,12,42,20,4,15,9,27,329,16,41,17,1,21,11,25,Căminul Cultural Băița,,Băița,46.0312,22.89
+475,22,HUNEDOARA,ŞOIMUŞ,69,3,102,4,2,11,6,15,67,4,100,3,2,14,8,17,"Cămin Cultural, Sat Bălata nr. 37",,Bălata,45.9176,22.9293
+279,22,HUNEDOARA,BĂNIŢA,186,12,263,25,3,25,21,48,192,13,260,25,5,28,20,38,Cămin Cultural Bănița,Nr. 200,Bănița,45.4446,23.2617
+471,22,HUNEDOARA,SÂNTĂMĂRIA-ORLEA,92,6,48,9,1,2,6,13,92,4,44,12,3,2,7,14,Școala Primară Bărăștii-Hațegului,Nr. 47,Bărăștii Hațegului,45.5709,22.9429
+302,22,HUNEDOARA,BRĂNIŞCA,6,0,3,1,0,1,1,3,6,0,3,1,0,1,1,3,Cămin Cultural Furcșoara,,Bărăștii Iliei,46.0102,22.7546
+280,22,HUNEDOARA,BĂTRÎNA,17,0,32,1,2,9,2,9,17,0,33,1,1,9,2,9,Primăria Comunei Bătrîna,Nr. 55,Bătrâna,45.793,22.584
+306,22,HUNEDOARA,BRETEA ROMÂNĂ,64,1,25,1,2,1,3,9,68,0,24,1,2,2,1,7,Școala Primară,Nr. 84,Bățălar,45.6968,23.0159
+340,22,HUNEDOARA,CERBĂL,170,1,16,5,0,5,3,7,166,4,17,5,0,4,3,6,Casa Comunală Cerbăl-Sala de Ședință a Consiliului Local Cerbăl,"Nr. 7A, Bloc 5",Cerbăl,45.7814,22.7162
+391,22,HUNEDOARA,LELESE,54,1,1,0,1,2,1,5,57,1,2,0,1,0,1,4,Căminul Cultural Cerișor,Nr. 89,Cerișor,45.7453,22.7463
+328,22,HUNEDOARA,BUNILA,35,1,52,11,2,11,2,3,38,1,48,11,2,9,3,6,Cladire Dispensar Medical Cernisoara Florese,Nr. 54,Cernișoara Florese,45.6771,22.6812
+343,22,HUNEDOARA,CERTEJU DE SUS,281,32,186,13,4,11,14,26,280,33,184,11,3,17,17,26,Caminul Cultural,,Certeju de Sus,45.9742,22.9701
+336,22,HUNEDOARA,CÂRJIŢI,13,0,12,2,1,9,2,4,12,0,13,2,1,12,0,3,Căminul Cultural Chergheș,Nr. 51,Chergheș,45.8453,22.7908
+379,22,HUNEDOARA,HĂRĂU,130,2,15,2,0,4,4,14,127,3,16,2,0,6,6,12,Școala Primară Chimindia,Nr. 112,Chimindia,45.8933,22.9919
+292,22,HUNEDOARA,BOŞOROD,93,12,115,5,4,8,5,19,86,9,120,7,5,9,7,18,Căminul Cultural Chitid,Nr. 131,Chitid,45.7048,23.067
+480,22,HUNEDOARA,ŞOIMUŞ,74,5,117,3,1,12,1,7,77,3,118,2,1,11,2,7,Cămin Cultural Sat ChiȘcădaganr. 94,,Chișcădaga,45.9577,22.8757
+208,22,HUNEDOARA,ORAŞ GEOAGIU,32,0,9,3,0,6,1,4,33,0,9,4,0,6,1,3,Școala Primară Cigmau,Nr. 37,Cigmău,45.8974,23.161
+235,22,HUNEDOARA,ORAŞ PETRILA,502,10,55,22,2,32,12,38,513,12,47,23,2,39,13,29,Școala Primară nr. 3 Cimpa,Nr. 50,Cimpa,45.4575,23.4435
+482,22,HUNEDOARA,TELIUCU INFERIOR,153,4,107,3,2,10,18,35,152,6,110,2,0,14,18,32,Școala Primară Cinciș-Cerna,Nr. 31,Cinciș-Cerna,45.7015,22.8905
+470,22,HUNEDOARA,SÂNTĂMĂRIA-ORLEA,125,2,17,2,1,0,0,5,126,3,13,3,1,0,2,5,Școala Primară Ciopeia,Nr. 65,Ciopeia,45.5605,22.9759
+411,22,HUNEDOARA,PESTIŞU MIC,22,0,40,0,1,2,3,5,20,0,44,0,2,0,3,4,Căminul Cultural Ciulpăz,Nr. 29,Ciulpăz,45.7944,22.7806
+504,22,HUNEDOARA,VAŢA DE JOS,61,0,13,1,0,1,1,6,59,0,12,1,0,1,1,8,Școala Primară,Nr.         62A,Ciungani,46.1849,22.4976
+437,22,HUNEDOARA,RÂU DE MORI,132,12,167,17,0,12,3,7,143,12,154,18,1,16,2,6,Școala Primară Clopotiva,,Clopotiva,45.4963,22.8222
+519,22,HUNEDOARA,VORŢA,18,1,52,0,0,2,3,6,20,1,48,0,0,2,3,6,Imobilul nr. 9 din Satul Coaja,,Coaja,46.0019,22.6646
+460,22,HUNEDOARA,SĂLAŞU DE SUS,56,1,40,1,1,8,2,8,56,1,39,1,2,7,2,6,Cămin Cultural Coroiești,Nr. 92,Coroiești,45.4831,23.0002
+406,22,HUNEDOARA,ORĂŞTIOARA DE SUS,106,0,124,4,1,14,7,14,110,1,111,8,1,16,5,12,Camin Cultural Costesti,Nr. 12,Costești,45.7004,23.1633
+308,22,HUNEDOARA,BRETEA ROMÂNĂ,62,0,24,1,1,1,1,6,62,0,25,1,1,1,1,5,Cămin Cultural Covragiu,Nr. 79,Covragiu,45.6247,23.0212
+339,22,HUNEDOARA,CÂRJIŢI,16,1,25,3,1,3,3,8,15,1,26,4,1,3,3,8,Căminul Cultural Cozia,Nr. 64,Cozia,45.8688,22.8413
+42,22,HUNEDOARA,MUNICIPIUL DEVA,234,13,102,14,179,25,12,33,233,14,106,16,179,30,12,29,Școala Primară Cristur,Str. Ulița Mare,Cristur,45.8267,22.9418
+288,22,HUNEDOARA,BLĂJENI,43,0,44,0,1,23,2,4,43,0,46,0,1,23,1,3,Școala Primară Cris,,Criș,46.2579,22.8992
+443,22,HUNEDOARA,RIBIŢA,143,1,52,0,1,19,1,14,147,1,45,2,1,19,1,14,Căminul Cultural Crișancladire Parter,Nr. 39,Crișan,46.1705,22.7972
+352,22,HUNEDOARA,CRIŞCIOR,261,9,266,24,3,29,19,46,277,13,246,28,2,34,16,38,Școala Generală nr. 1 Crișcior,Nr. 1696,Crișcior,46.1212,22.8617
+353,22,HUNEDOARA,CRIŞCIOR,268,6,164,19,3,28,8,32,263,8,155,17,4,34,15,36,Liceul Tehnologic Crișan Crișcior,Str. Bunei nr. 2,Crișcior,46.1194,22.8503
+283,22,HUNEDOARA,BERIU,19,1,22,3,2,4,2,6,16,2,21,2,2,7,1,7,Școala Primară,,Cucuiș,45.771,23.2812
+321,22,HUNEDOARA,BUCUREŞCI,81,1,81,3,0,7,2,7,82,6,71,2,0,7,2,9,Caminul Cultural,Nr. 92,Curechiu,46.0964,22.9705
+252,22,HUNEDOARA,ORAŞ URICANI,90,10,46,15,6,11,5,9,87,8,49,13,6,8,10,15,Școala Primară Cîmpu Lui Neag,Str. Câmpu lui Neag nr. 42,Câmpu lui Neag,45.3043,23.035
+373,22,HUNEDOARA,GURASADA,136,1,27,2,1,4,4,14,136,1,29,1,1,3,7,15,Cămin Cultural Cîmpuri-Surduc,Nr. 25,Câmpuri-Surduc,45.9391,22.5504
+335,22,HUNEDOARA,CÂRJIŢI,21,2,20,0,2,4,3,9,24,4,18,0,2,7,2,4,Căminul Cultural Cîrjiți,Nr.         1C,Cârjiți,45.8439,22.8295
+494,22,HUNEDOARA,TOTEŞTI,186,9,36,2,1,17,6,14,185,9,39,2,1,15,4,15,Caminul Cultural Cirnesti,Nr. 36,Cârnești,45.5473,22.8653
+275,22,HUNEDOARA,BĂIŢA,102,0,25,6,0,11,7,14,102,2,23,6,0,9,8,14,Căminul Cultural Căinelu de Sus,,Căinelu de Sus,46.0483,22.8925
+188,22,HUNEDOARA,ORAŞ CĂLAN,173,15,127,18,7,13,24,40,164,15,122,19,10,16,23,45,Consiliul Local Călan,Str. Gării nr. 1,Călan,45.7349,22.9912
+189,22,HUNEDOARA,ORAŞ CĂLAN,204,9,89,14,12,26,10,29,203,10,92,16,15,24,11,23,Școala Gimnazială,Str. Florilor nr. 14 A,Călan,45.7308,23.0213
+190,22,HUNEDOARA,ORAŞ CĂLAN,205,21,129,17,15,23,17,37,209,21,125,19,15,19,15,35,Școala Gimnazială,Str. Independenței nr. 8,Călan,45.7301,23.0247
+191,22,HUNEDOARA,ORAŞ CĂLAN,254,17,120,11,16,22,23,50,249,19,123,12,18,26,25,49,Liceulu Tehnologic Ovid Densușianu,Str. Ovid Densușianu (Str. Dr. Petru Groza) nr. 5,Călan,45.7322,23.0291
+192,22,HUNEDOARA,ORAŞ CĂLAN,212,45,146,17,17,22,31,55,213,44,152,15,18,26,27,49,Centrul de Sănătate Multifuncțional,Str. Independenței nr. 1,Călan,45.7332,23.0263
+193,22,HUNEDOARA,ORAŞ CĂLAN,259,26,108,15,9,29,21,46,263,28,105,15,9,29,19,42,Casa Căsătoriilor,Str. Independenței nr. 14,Călan,45.7317,23.0251
+375,22,HUNEDOARA,GURASADA,32,0,4,1,1,4,1,4,31,0,6,3,1,3,0,1,Școala Generală Cărmăzănești,Nr. 75,Cărmăzănești,46.019,22.6145
+255,22,HUNEDOARA,BAIA DE CRIŞ,44,1,28,1,1,1,1,6,46,2,21,5,1,1,2,5,Școala Primară Carastau,Nr. 89,Cărăstău,46.1748,22.6593
+282,22,HUNEDOARA,BERIU,149,5,189,10,1,13,8,10,151,7,179,8,1,15,13,20,Școala Primară,,Căstău,45.8134,23.2106
+501,22,HUNEDOARA,VAŢA DE JOS,34,0,12,2,0,1,3,11,36,0,12,2,0,1,3,10,Școala Primară,Nr. 48,Căzănești,46.1428,22.5067
+509,22,HUNEDOARA,VĂLIŞOARA,69,0,25,0,0,2,3,8,67,0,25,0,0,3,3,7,Căminul Cultural Dealu Mare,Nr. 87,Dealu Mare,46.0412,22.7944
+491,22,HUNEDOARA,TOPLIŢA,8,0,11,0,1,3,2,4,6,0,12,0,1,3,2,5,Caminul Cultural Dealu Mic,,Dealu Mic,45.6833,22.8205
+354,22,HUNEDOARA,DENSUŞ,243,11,54,8,0,6,3,9,240,11,57,8,0,4,3,11,Școala Gimnazială Densus,Nr. 33,Densuș,45.5788,22.8034
+1,22,HUNEDOARA,MUNICIPIUL DEVA,321,117,153,28,63,51,23,89,312,117,151,31,61,67,26,78,Casa de Cultură Drăgan Muntean,Piața Victoriei nr. 4,Deva,45.8783,22.9016
+2,22,HUNEDOARA,MUNICIPIUL DEVA,243,72,129,27,19,29,22,50,251,65,112,33,21,39,27,48,Casa de Cultură Drăgan Muntean,Piața Victoriei nr. 4,Deva,45.8783,22.9016
+3,22,HUNEDOARA,MUNICIPIUL DEVA,295,92,135,44,26,43,23,72,295,95,126,43,30,44,25,71,Casa de Cultură Drăgan Muntean,Piața Victoriei nr. 4,Deva,45.8783,22.9016
+4,22,HUNEDOARA,MUNICIPIUL DEVA,254,65,122,39,46,28,11,50,245,68,112,41,48,40,12,52,Școala Gimnazială „Andrei Șaguna”,Aleea Viitorului nr. 9,Deva,45.8757,22.9117
+5,22,HUNEDOARA,MUNICIPIUL DEVA,228,67,119,23,36,28,26,62,228,64,116,26,44,36,19,49,Școala Gimnazială „Andrei Șaguna”,Aleea Viitorului nr. 9,Deva,45.8757,22.9117
+6,22,HUNEDOARA,MUNICIPIUL DEVA,256,58,121,28,30,31,22,47,255,66,109,28,31,38,23,41,Școala Gimnazială „Andrei Șaguna”,Aleea Viitorului nr. 9,Deva,45.8757,22.9117
+7,22,HUNEDOARA,MUNICIPIUL DEVA,247,60,108,26,25,39,21,61,250,56,103,26,26,43,18,59,Grădinița cu Program Prelungit nr. 7,Aleea Patriei nr. 6,Deva,45.8795,22.9008
+8,22,HUNEDOARA,MUNICIPIUL DEVA,216,76,127,40,33,32,12,53,215,78,122,37,34,40,15,48,Colegiul Național Pedagogic „Regina Maria”,Str. Gheorghe Barițiu nr. 2,Deva,45.881,22.8975
+9,22,HUNEDOARA,MUNICIPIUL DEVA,270,60,99,23,31,42,10,49,273,61,106,21,31,40,10,45,Liceul de Arte Sigismund Toduta (fosta Școala Generală „Lucian Blaga” nr. 2),Str. Avram Iancu nr. 21,Deva,45.8859,22.905
+10,22,HUNEDOARA,MUNICIPIUL DEVA,265,84,130,34,23,35,17,64,263,85,120,39,25,38,19,66,Galeria Forma,"Bulevardul Decebal (Str. Corvin Ion) , Bloc 8",Deva,45.8816,22.9084
+11,22,HUNEDOARA,MUNICIPIUL DEVA,238,81,109,25,42,31,10,48,228,88,114,25,42,40,10,41,Colegiul Național „Decebal”,Str. Andrei Șaguna (Str. Mitropolit Andrei Șaguna) nr. 14,Deva,45.8833,22.9006
+12,22,HUNEDOARA,MUNICIPIUL DEVA,217,103,158,28,42,63,15,61,213,107,149,31,46,68,12,49,Colegiul Național Sportiv Cetate Deva,Str. Axente Sever (Str. Nicolae Iorga) nr. 3,Deva,45.8868,22.9013
+13,22,HUNEDOARA,MUNICIPIUL DEVA,180,47,75,17,4,17,8,25,168,44,73,22,4,23,10,27,Școală Primară Viile Noi,Str. 16 Februarie nr. 1,Deva,45.8928,22.8989
+14,22,HUNEDOARA,MUNICIPIUL DEVA,238,69,98,28,41,43,23,53,237,67,94,28,43,49,23,47,Liceul de Arte Sigismund Toduța (fosta Școala Generală „Lucian Blaga” nr. 2),Str. Avram Iancu nr. 21,Deva,45.8859,22.905
+15,22,HUNEDOARA,MUNICIPIUL DEVA,235,64,89,28,21,36,12,38,233,68,89,24,22,38,14,36,Direcția Generală de Asistență Socială și Protecția Copilului,Bulevardul Iuliu Maniu (Bulevardul Libertății) nr. 18,Deva,45.883,22.9086
+16,22,HUNEDOARA,MUNICIPIUL DEVA,263,63,111,29,36,41,14,42,262,62,109,31,33,43,18,46,Direcția Silvică Deva,Str. Mihai Viteazu nr. 10,Deva,45.881,22.91
+17,22,HUNEDOARA,MUNICIPIUL DEVA,293,73,145,40,28,59,18,62,297,80,129,38,34,70,21,52,Spital Județean Deva,Bulevardul 22 Decembrie nr. 58,Deva,45.8758,22.9049
+18,22,HUNEDOARA,MUNICIPIUL DEVA,263,52,105,36,23,31,16,34,261,49,93,40,27,39,18,37,Școala Gimnazială „Andrei Șaguna”,Aleea Viitorului nr. 9,Deva,45.8757,22.9117
+19,22,HUNEDOARA,MUNICIPIUL DEVA,272,67,133,38,34,37,12,42,267,60,132,37,39,40,19,46,Școala Gimnazială „Andrei Șaguna”,Aleea Viitorului nr. 9,Deva,45.8757,22.9117
+20,22,HUNEDOARA,MUNICIPIUL DEVA,213,40,106,17,31,29,17,46,218,39,109,18,31,27,18,39,Sala Sporturilor,Str. Mărăști nr. 30,Deva,45.8738,22.9162
+21,22,HUNEDOARA,MUNICIPIUL DEVA,167,21,89,17,25,20,8,26,160,24,87,13,26,27,10,29,Colegiul Tehnic „Transilvania”,Bulevardul 22 Decembrie nr. 116,Deva,45.8715,22.9097
+22,22,HUNEDOARA,MUNICIPIUL DEVA,274,49,113,34,23,34,12,46,280,44,109,32,25,40,15,43,Colegiul Tehnic „Transilvania”,Bulevardul 22 Decembrie nr. 116,Deva,45.8715,22.9097
+23,22,HUNEDOARA,MUNICIPIUL DEVA,99,45,61,17,19,14,6,29,95,48,56,19,18,22,7,27,Colegiul Tehnic „Transilvania”,Bulevardul 22 Decembrie nr. 116,Deva,45.8715,22.9097
+24,22,HUNEDOARA,MUNICIPIUL DEVA,245,63,113,22,37,42,22,53,246,70,99,22,33,54,18,46,Liceul de Arte „Sigismund Toduță”,Str. Ciprian Porumbescu (Str. Liliacului) nr. 1,Deva,45.873,22.9069
+25,22,HUNEDOARA,MUNICIPIUL DEVA,269,61,90,22,42,43,19,57,267,61,93,26,43,45,22,49,Colegiul Tehnic „Transilvania” (fosta Școală Generală),Bulevardul Dacia nr. 8,Deva,45.869,22.9086
+26,22,HUNEDOARA,MUNICIPIUL DEVA,242,45,89,15,34,24,9,50,239,47,78,17,37,33,9,49,Colegiul Tehnic „Transilvania” (fosta Școală Generală),Bulevardul Dacia nr. 8,Deva,45.869,22.9086
+27,22,HUNEDOARA,MUNICIPIUL DEVA,295,45,146,24,38,27,16,52,290,45,139,27,41,35,16,45,Colegiul Tehnic „Transilvania” (fosta Școală Generală),Bulevardul Dacia nr. 8,Deva,45.869,22.9086
+28,22,HUNEDOARA,MUNICIPIUL DEVA,284,72,101,35,39,41,25,69,284,74,106,35,45,41,19,56,Colegiul Tehnic „Transilvania”,Bulevardul 22 Decembrie nr. 116,Deva,45.8715,22.9097
+29,22,HUNEDOARA,MUNICIPIUL DEVA,259,84,139,36,42,42,19,53,250,94,131,36,35,50,22,58,Club Școlar Sportiv,Str. Carpați nr. 3,Deva,45.8711,22.909
+30,22,HUNEDOARA,MUNICIPIUL DEVA,200,33,73,20,113,34,5,22,204,40,67,21,113,33,6,17,Casa Maghiară Deva (fosta Casa Armatei),Bulevardul 22 Decembrie nr. 164,Deva,45.8671,22.9138
+31,22,HUNEDOARA,MUNICIPIUL DEVA,194,71,117,33,20,19,17,52,186,76,112,33,23,24,19,52,Casa Maghiară Deva (fosta Casa Armatei),Bulevardul 22 Decembrie nr. 164,Deva,45.8671,22.9138
+32,22,HUNEDOARA,MUNICIPIUL DEVA,174,22,104,17,11,7,6,32,168,24,107,18,10,11,7,28,Colegiul Tehnic Energetic Dragomir Hurmuzescu (fosta Școală Generală „Octavian Goga”),Str. Bejan nr. 8,Deva,45.8667,22.9011
+33,22,HUNEDOARA,MUNICIPIUL DEVA,242,34,155,22,31,25,10,32,239,36,151,22,29,30,16,39,Colegiul Tehnic Energetic Dragomir Hurmuzescu (fosta Școală Generală „Octavian Goga”),Str. Bejan nr. 8,Deva,45.8667,22.9011
+34,22,HUNEDOARA,MUNICIPIUL DEVA,221,24,84,10,18,21,5,28,230,20,83,8,20,21,3,27,Colegiul Tehnic Energetic Dragomir Hurmuzescu (fosta Școală Generală „Octavian Goga”),Str. Bejan nr. 8,Deva,45.8667,22.9011
+35,22,HUNEDOARA,MUNICIPIUL DEVA,237,27,112,20,21,30,16,46,233,32,104,22,20,32,13,46,Gradinița P.N. nr. 3,Aleea Teilor (Str. Teilor),Deva,45.8609,22.9054
+36,22,HUNEDOARA,MUNICIPIUL DEVA,269,37,100,24,29,18,16,51,263,42,100,26,33,24,14,44,Gradinița P.N. nr. 3,Aleea Teilor (Str. Teilor),Deva,45.8609,22.9054
+37,22,HUNEDOARA,MUNICIPIUL DEVA,258,68,121,24,33,50,22,51,254,71,112,21,37,51,25,58,Colegiul Tehnic Energetic Dragomir Hurmuzescu (Fostul Grup Scolar de Constructii),Str. Titu Maiorescu (Str. Minerului) nr. 30,Deva,45.8666,22.9011
+38,22,HUNEDOARA,MUNICIPIUL DEVA,152,42,83,15,33,23,9,33,151,45,80,15,31,19,12,37,Liceul Tehnologic „Grigore Moisil” (Fostul Liceu Minier),Str. Titu Maiorescu (Str. Minerului) nr. 24,Deva,45.8685,22.9004
+39,22,HUNEDOARA,MUNICIPIUL DEVA,229,35,100,16,21,20,4,25,218,34,100,14,20,24,7,36,Colegiul Tehnic Energetic Dragomir Hurmuzescu (fosta Școală Generală. nr. 5),Str. Scărișoara nr. 4,Deva,45.8641,22.9063
+40,22,HUNEDOARA,MUNICIPIUL DEVA,154,37,78,14,12,19,8,34,150,37,78,16,13,21,14,34,Colegiul Tehnic Energetic Dragomir Hurmuzescu (fosta Școală Generală. nr. 5),Str. Scărișoara nr. 4,Deva,45.8641,22.9063
+41,22,HUNEDOARA,MUNICIPIUL DEVA,183,32,71,15,13,23,12,39,176,35,64,17,16,33,15,37,Colegiul Tehnic Energetic Dragomir Hurmuzescu (fosta Școală Generală. nr. 5),Str. Scărișoara nr. 4,Deva,45.8641,22.9063
+44,22,HUNEDOARA,MUNICIPIUL DEVA,156,23,64,12,18,19,9,24,151,22,68,15,18,20,7,17,Școală Primară Viile Noi,Str. 16 Februarie nr. 1,Deva,45.8928,22.899
+45,22,HUNEDOARA,MUNICIPIUL DEVA,141,14,58,11,8,13,1,13,146,13,58,9,6,12,6,15,Adăpostul de Urgență Pe Timp de Noapte,Str. Nicolae Grigorescu (Str. Pictor Nicolae Grigorescu) nr. 8 BIS,Deva,45.8842,22.9134
+46,22,HUNEDOARA,MUNICIPIUL DEVA,186,48,115,22,18,24,19,47,178,56,105,20,22,32,20,46,Cantina de Ajutor Social (fosta Cantina Liceu Miner),Str. Titu Maiorescu (Str. Minerului) nr. 24,Deva,45.8676,22.9008
+359,22,HUNEDOARA,DOBRA,360,17,121,23,1,32,18,41,365,18,117,23,1,37,13,36,Căminul Cultural Dobra,Piața Victoriei nr. 5,Dobra,45.9137,22.5702
+487,22,HUNEDOARA,TOMEŞTI,71,2,66,5,2,10,9,18,78,2,61,6,2,8,10,15,Cămin Cultural Dobroț,Nr. 50,Dobroț,46.2473,22.6792
+444,22,HUNEDOARA,RIBIŢA,85,0,7,0,1,4,1,11,88,0,7,0,1,4,1,8,Școala Primară Dumbrava de Jos,Nr. 64,Dumbrava de Jos,46.2251,22.8233
+445,22,HUNEDOARA,RIBIŢA,48,0,3,0,1,1,1,3,47,0,3,0,1,1,1,4,Școala Primară Dumbrava de Sus,Nr. 81,Dumbrava de Sus,46.2449,22.8465
+316,22,HUNEDOARA,BUCEŞ,81,2,16,6,0,28,3,10,78,1,17,4,0,32,2,9,Școala Primară Dupapiatra,,Dupăpiatră,46.1827,23.0393
+399,22,HUNEDOARA,MĂRTINEŞTI,120,1,13,7,2,8,3,8,122,1,10,8,2,8,3,7,Cămin Cultural Dîncu Mare,Nr. 162,Dâncu Mare,45.7598,23.1144
+400,22,HUNEDOARA,MĂRTINEŞTI,53,2,20,2,1,1,1,3,59,2,15,2,1,2,1,3,Camin Cultural Dâncu Mic,Nr. 25,Dâncu Mic,45.7757,23.1423
+490,22,HUNEDOARA,TOPLIŢA,27,1,33,3,1,15,5,10,27,4,32,2,1,14,5,11,Caminul Cultural Dabica,,Dăbâca,45.6546,22.7461
+427,22,HUNEDOARA,PUI,12,0,57,0,3,4,1,2,12,0,56,0,3,3,1,2,Școala Primară Federi,Nr. 81,Federi,45.542,23.1446
+341,22,HUNEDOARA,CERBĂL,76,2,6,0,0,11,2,3,75,1,6,0,0,8,2,9,Școala Primară Feregi,Nr. 39,Feregi,45.7905,22.6476
+277,22,HUNEDOARA,BĂIŢA,136,4,18,2,0,5,2,8,137,4,20,3,0,3,3,6,Căminul Cultural Fizeș,,Fizeș,45.9955,22.877
+420,22,HUNEDOARA,PUI,63,0,60,2,1,7,1,8,55,0,66,5,1,7,2,9,Școala Primară Fizești,Nr. 6,Fizești,45.5378,23.0791
+430,22,HUNEDOARA,RAPOLTU MARE,32,2,16,1,0,8,2,4,31,2,16,1,0,9,2,5,Camin Cultural,Nr. 91,Folt,45.8755,23.1581
+477,22,HUNEDOARA,ŞOIMUŞ,51,5,47,1,1,9,3,8,49,5,46,1,1,12,2,8,Cămin Cultural Sat Fornădia nr. 71,,Fornădia,45.9694,22.8346
+419,22,HUNEDOARA,PUI,74,1,108,10,2,6,6,13,76,0,104,11,2,6,5,15,Școala Primară Galați,,Galați,45.5224,23.0662
+210,22,HUNEDOARA,ORAŞ GEOAGIU,98,4,18,7,1,37,5,9,95,4,18,8,1,41,5,8,Școala Primară Gelmar,Nr. 20,Gelmar,45.9011,23.2236
+365,22,HUNEDOARA,GENERAL BERTHELOT,83,17,94,1,0,27,7,15,91,18,84,2,0,24,8,16,Sala de Sedinte Consiliul Local,,General Berthelot,45.6134,22.8868
+204,22,HUNEDOARA,ORAŞ GEOAGIU,256,23,116,30,3,150,6,34,259,22,106,30,4,172,6,28,Sediul Primariei Geoagiu,Str. Calea Romanilor nr. 141,Geoagiu,45.9183,23.2004
+205,22,HUNEDOARA,ORAŞ GEOAGIU,238,9,90,5,2,186,0,17,239,7,89,6,2,184,2,17,Grădinița cu Program Normal nr. 1 Geoagiu,Str. Calea Romanilor nr. 140,Geoagiu,45.9162,23.2003
+209,22,HUNEDOARA,ORAŞ GEOAGIU,76,4,32,35,3,52,12,27,69,6,38,28,3,57,12,29,Școala Primară Geoagiu Bai,Str. Școlii nr. 1,Geoagiu-Băi,45.9375,23.1645
+367,22,HUNEDOARA,GHELARI,186,16,33,19,1,33,5,25,185,19,36,16,3,36,5,16,Primăria Ghelari,Str. Rusca nr. 5,Ghelari,45.7089,22.782
+368,22,HUNEDOARA,GHELARI,203,5,38,13,7,15,4,8,195,5,42,13,7,15,7,10,Club Minerul,Nr. FN,Ghelari,45.7089,22.782
+333,22,HUNEDOARA,BURJUC,67,1,10,3,0,4,0,4,69,1,10,3,0,3,0,3,Școala Primară Glodghilești,Nr. 58,Glodghilești,45.9815,22.4756
+523,22,HUNEDOARA,ZAM,18,2,31,0,0,2,1,5,16,0,33,0,1,2,2,6,Căminul Cultural Godinești,Nr. 7,Godinești,46.0244,22.5325
+371,22,HUNEDOARA,GHELARI,16,4,3,1,4,4,2,8,15,4,3,2,5,4,2,7,Dispensar,,Govăjdia,45.7407,22.7912
+200,22,HUNEDOARA,ORAŞ CĂLAN,52,0,49,1,2,6,6,10,46,0,51,1,2,5,6,12,Școala Primară,,Grid,45.7331,23.1033
+317,22,HUNEDOARA,BUCEŞ,61,0,7,2,0,1,0,4,60,0,6,3,0,2,0,5,Școala Primară Grohotele,,Grohoțele,46.1873,23.0006
+407,22,HUNEDOARA,ORĂŞTIOARA DE SUS,30,0,44,0,1,7,2,4,33,0,46,0,1,3,1,3,Școala Primară Gradiste,Nr. 1,Grădiștea de Munte,45.6325,23.2151
+372,22,HUNEDOARA,GURASADA,185,9,18,7,5,17,3,17,183,9,20,8,5,18,4,19,Sală de Ședințe Primăria Comunei Gurasada,Nr. 193,Gurasada,45.9524,22.5909
+309,22,HUNEDOARA,BRETEA ROMÂNĂ,75,7,28,1,1,1,1,8,78,7,29,1,1,1,1,4,Școală Primară,Nr. 14,Gânțaga,45.6336,23.0335
+214,22,HUNEDOARA,ORAŞ HAŢEG,341,20,266,25,7,35,26,50,367,30,234,29,7,37,21,42,Primăria Orașului Hațeg,Piața Unirii nr. 6,Hațeg,45.6106,22.9488
+215,22,HUNEDOARA,ORAŞ HAŢEG,369,41,230,33,11,15,22,47,386,41,198,35,15,21,23,48,"Școala Gimnazială „Ovid Densușianu”, Hațeg",Piața Unirii nr. 1,Hațeg,45.6108,22.9494
+216,22,HUNEDOARA,ORAŞ HAŢEG,287,59,253,19,11,13,36,56,311,67,216,27,11,17,36,51,"Școala Gimnazială „Aron Densușianu”, Hațeg",Str. Independenței nr. 2,Hațeg,45.6102,22.9542
+217,22,HUNEDOARA,ORAŞ HAŢEG,306,55,270,30,12,20,28,35,331,74,206,37,15,26,27,43,Colegiul Național „I.C.Brătianu” Hațeg,Str. Munții Retezat nr. 3,Hațeg,45.609,22.9492
+218,22,HUNEDOARA,ORAŞ HAŢEG,388,32,354,24,16,12,35,58,404,39,310,30,16,21,38,68,Cantina Socială Hațeg,Str. Horea nr. 3,Hațeg,45.6071,22.9478
+423,22,HUNEDOARA,PUI,23,6,60,4,1,1,2,6,26,6,60,3,1,1,2,5,Școala Primară Hobița,Nr. 24,Hobița,45.4717,23.0792
+453,22,HUNEDOARA,SARMIZEGETUSA,50,2,52,1,1,1,1,3,48,1,52,3,1,2,1,3,Școala Primară Hobita-Gradiste,Nr. 10,Hobița-Grădiște,45.4974,22.788
+211,22,HUNEDOARA,ORAŞ GEOAGIU,52,6,11,4,0,28,1,7,51,5,9,2,0,30,2,11,Căminul Cultural Homorod,Nr. 18,Homorod,45.9373,23.2479
+344,22,HUNEDOARA,CERTEJU DE SUS,112,5,57,5,0,6,2,8,110,2,55,7,0,11,2,7,Caminul Cultural,,Hondol,45.989,22.9897
+61,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,287,17,103,34,1,11,8,37,269,17,116,34,4,9,6,40,Școala Gimnazială nr. 1 (fosta Școală Generală nr. 12),Str. Prutului nr. 9,Hunedoara,45.7631,22.9186
+62,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,228,10,101,19,7,6,12,49,214,9,109,22,10,9,17,46,Școala Gimnazială nr. 1 (fosta Școală Generală nr. 12),Str. Prutului nr. 9,Hunedoara,45.7631,22.9186
+63,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,195,6,100,9,5,11,12,47,193,10,118,9,6,14,10,28,Școala Gimnazială nr. 1 (fosta Școală Generală nr. 12),Str. Prutului nr. 9,Hunedoara,45.7631,22.9186
+64,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,278,33,61,17,12,18,7,42,272,28,69,22,15,25,5,40,Școala Gimnazială nr. 1 (fosta Școală Generală nr. 9),Str. Trandafirilor nr. 10,Hunedoara,45.7558,22.92
+65,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,276,22,91,12,6,13,7,32,271,20,95,15,5,19,6,31,Școala Gimnazială nr. 1 (fosta Școală Generală nr. 9),Str. Trandafirilor nr. 10,Hunedoara,45.7558,22.92
+66,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,263,15,73,14,6,15,7,34,261,20,74,12,10,19,6,29,Școala Gimnazială nr. 1 (fosta Școală Generală nr. 9),Str. Trandafirilor nr. 10,Hunedoara,45.7558,22.92
+67,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,263,19,104,23,17,14,7,37,249,22,106,23,20,21,4,37,Școala Gimnazială nr. 1 (fosta Școală Generală nr. 9),Str. Trandafirilor nr. 10,Hunedoara,45.7558,22.92
+68,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,259,27,61,20,8,22,10,47,252,28,71,16,11,26,11,41,Școala Gimnazială nr. 1 (fosta Școală Generală nr. 9),Str. Trandafirilor nr. 10,Hunedoara,45.7558,22.92
+69,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,235,10,60,23,8,8,9,31,229,9,64,23,7,9,9,32,Grădinița cu Program Normal Micro Vii Pn6,Str. Trandafirilor nr. 20,Hunedoara,45.7543,22.9199
+70,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,266,46,81,19,30,22,16,55,259,41,82,19,36,26,18,54,Colegiul Economic „Emanuil Gojdu” (Fostul Liceu nr. 2),Str. Alexandru Vlahuță nr. 1 bis,Hunedoara,45.7582,22.9138
+71,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,265,24,70,40,38,31,12,54,245,27,76,41,38,38,9,54,Liceul Tehnologic „Constantin Bursan” (Fostul Liceu nr. 3),Str. Turnătorului nr. 1,Hunedoara,45.7561,22.9097
+72,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,323,59,95,37,31,39,19,84,302,65,92,35,29,52,22,93,Colegiul Național de Informatică „Traian Lalescu” (Clădirea Nouă),Str. Victoriei (Str. 23 August) nr. 23,Hunedoara,45.7503,22.9094
+73,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,281,58,86,42,30,26,13,60,259,58,102,47,35,30,16,55,Colegiul Național de Informatică „Traian Lalescu” (fosta Școală Generală nr. 4),Str. Victoriei (Str. 23 August) nr. 23,Hunedoara,45.7503,22.9094
+74,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,277,36,96,22,29,23,23,60,275,34,99,23,30,26,23,56,Colegiul Național de Informatică „Traian Lalescu” (fosta Școală Generală nr. 4),Str. Victoriei (Str. 23 August) nr. 23,Hunedoara,45.7503,22.9094
+75,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,302,28,97,27,19,23,11,55,291,23,105,32,22,24,18,61,Colegiul Național „Iancu de Hunedoara” (fosta Școală Generală nr. 5),Bulevardul Decebal nr. 11,Hunedoara,45.7489,22.8992
+76,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,152,22,56,19,22,24,17,52,146,25,53,23,26,22,18,52,Colegiul Național „Iancu de Hunedoara” (fosta Școală Generală nr. 5),Bulevardul Decebal nr. 11,Hunedoara,45.7489,22.8992
+77,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,247,45,65,18,60,19,11,47,228,49,64,19,61,26,23,56,Colegiul Național „Iancu de Hunedoara” (fosta Școală Generală nr. 5),Bulevardul Decebal nr. 11,Hunedoara,45.7489,22.8992
+79,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,353,50,98,34,46,24,16,57,329,52,117,39,47,29,18,48,Școala Gimnazială nr. 6 (fosta Școală Generală nr. 6),Piața Florilor nr. 1,Hunedoara,45.7562,22.9029
+80,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,317,37,96,29,24,24,10,53,297,37,93,32,29,27,15,59,Școala Gimnazială nr. 6 (fosta Școală Generală nr. 6),Piața Florilor nr. 1,Hunedoara,45.7562,22.9029
+81,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,284,18,73,21,32,20,12,42,271,19,79,23,30,23,20,47,Colegiul Tehnic „Matei Corvin” (Fostul Liceu nr. 1),Str. Victoriei (Str. 23 August) nr. 12,Hunedoara,45.7531,22.9057
+82,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,353,25,88,45,24,25,11,65,334,28,97,41,23,28,15,69,Grădinița cu Program Normal nr. 4 Micro I (Lângă fosta Școală Generală nr. 3),Str. Laminatorului nr. 1,Hunedoara,45.7566,22.9077
+83,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,220,17,48,22,21,19,7,37,219,19,52,17,20,20,10,36,Grădinița cu Program Prelungit „Piticot”,"Str. 1 Decembrie 1918 (Str. Moldovei, Str. Moldova) (D) nr. 2",Hunedoara,45.761,22.9066
+84,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,250,25,54,32,21,20,13,47,236,26,74,29,18,25,12,40,Grădinița cu Program Prelungit „Piticot”,"Str. 1 Decembrie 1918 (Str. Moldovei, Str. Moldova) (D) nr. 2",Hunedoara,45.761,22.9066
+85,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,309,53,81,34,23,27,19,56,281,59,81,31,30,38,23,64,Colegiul Economic „Emanuil Gojdu” (fosta Școală Generală nr. 3),Str. Laminatorului nr. 10,Hunedoara,45.757,22.9094
+86,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,330,51,101,38,13,23,20,76,300,51,107,44,19,30,25,83,Colegiul Economic „Emanuil Gojdu” (fosta Școală Generală nr. 3),Str. Laminatorului nr. 10,Hunedoara,45.757,22.9094
+87,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,241,25,72,29,20,20,15,54,228,31,75,32,20,32,16,47,Școala Gimnazială nr. 7 (fosta Școală Generală nr. 7),"Str. 1 Decembrie 1918 (Str. Moldovei, Str. Moldova) (D) nr. 2",Hunedoara,45.7631,22.9061
+88,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,256,39,63,26,16,23,11,46,240,33,74,25,24,34,10,44,Școala Gimnazială nr. 7 (fosta Școală Generală nr. 7),"Str. 1 Decembrie 1918 (Str. Moldovei, Str. Moldova) (D) nr. 2",Hunedoara,45.7631,22.9061
+89,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,262,51,73,23,11,16,17,54,256,44,78,22,13,22,22,56,Școala Gimnazială nr. 7 (fosta Școală Generală nr. 7),"Str. 1 Decembrie 1918 (Str. Moldovei, Str. Moldova) (D) nr. 2",Hunedoara,45.7631,22.9061
+90,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,248,22,52,24,18,22,13,49,249,20,45,26,19,24,15,50,Colegiul Economic „Emanuil Gojdu” (fosta Școală Generală nr. 8),Str. Cerbului nr. 2,Hunedoara,45.7654,22.9073
+91,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,226,22,66,18,19,11,4,32,215,18,69,20,21,18,6,32,Colegiul Economic „Emanuil Gojdu” (fosta Școală Generală nr. 8),Str. Cerbului nr. 2,Hunedoara,45.7654,22.9073
+92,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,223,17,66,24,17,25,12,28,217,18,68,25,19,29,10,24,Grădinița cu Program Prelungit Pp4 „Floarea Soarelui”,Str. Cerbului nr. 3,Hunedoara,45.7661,22.9083
+93,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,290,38,80,19,25,18,11,53,285,40,81,19,25,21,13,55,Grădinița cu Orar Normal Micro Iii PN 2 „Zori de Zi”,Str. Cerbului nr. 3 bis,Hunedoara,45.7666,22.9083
+94,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,388,43,82,37,37,21,11,42,369,40,84,38,37,37,16,49,Școala Gimnazială nr. 2 (fosta Școală Generală nr. 2),Str. Luncii nr. 1,Hunedoara,45.7644,22.913
+95,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,311,51,96,41,22,24,13,49,305,45,113,34,22,30,13,50,Școala Gimnazială nr. 2 (fosta Școală Generală nr. 2),Str. Luncii nr. 1,Hunedoara,45.7644,22.913
+96,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,312,38,73,35,17,11,10,52,305,37,72,33,17,18,15,62,Școala Gimnazială nr. 2 (fosta Școală Generală nr. 2),Str. Luncii nr. 1,Hunedoara,45.7644,22.913
+97,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,337,31,86,27,31,16,14,71,337,32,89,30,33,20,18,59,Școala Gimnazială nr. 2 (fosta Școală Generală nr. 2),Str. Luncii nr. 1,Hunedoara,45.7644,22.913
+98,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,228,19,50,18,5,14,7,25,213,19,57,19,8,19,6,27,Centrul Școlar Pentru Educație Incluzivă „Rudolf Steiner” (Fostul Centru de Zi),Str. Rândunicii (Str. Rîndunicii) nr. 1,Hunedoara,45.7684,22.9152
+99,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,204,18,60,23,14,11,14,29,199,20,59,20,13,12,15,33,Centrul Școlar Pentru Educație Incluzivă „Rudolf Steiner” (Fostul Centru de Zi),Str. Rândunicii (Str. Rîndunicii) nr. 1,Hunedoara,45.7684,22.9152
+100,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,291,39,60,31,9,21,18,59,272,42,62,34,10,31,29,63,Școala Gimnazială nr. 2 (fosta Școală Generală nr. 11),Str. Rândunicii (Str. Rîndunicii) nr. 3,Hunedoara,45.7693,22.9134
+101,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,318,40,92,25,14,31,8,37,289,39,95,31,20,43,10,37,Școala Gimnazială nr. 2 (fosta Școală Generală nr. 11),Str. Rândunicii (Str. Rîndunicii) nr. 3,Hunedoara,45.7693,22.9134
+102,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,260,18,84,19,12,19,10,40,254,22,89,20,12,17,12,39,Școala Gimnazială nr. 2 (fosta Școală Generală nr. 11),Str. Rândunicii (Str. Rîndunicii) nr. 3,Hunedoara,45.7693,22.9134
+103,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,246,58,77,28,45,18,10,41,237,66,72,28,47,19,17,45,Școala Gimnazială nr. 2 (fosta Școală Generală nr. 11),Str. Rândunicii (Str. Rîndunicii) nr. 3,Hunedoara,45.7693,22.9134
+104,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,146,23,40,10,10,19,16,32,140,24,47,12,11,22,12,28,Cămin Cultural Buituri,Str. Lătureni nr. 31,Hunedoara,45.7715,22.921
+105,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,303,54,117,45,52,21,21,77,293,58,123,44,50,39,20,62,Sediul Primăriei Municipiului Hunedoara (fosta B.R.D.),Bulevardul Libertății nr. 26,Hunedoara,45.7524,22.8958
+107,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,113,5,34,10,6,7,4,20,109,2,37,13,9,7,5,19,Colegiul Național „Iancu de Hunedoara” (fosta Școală Generală Zlaști),Str. Zlasti nr. 16,Hunedoara,45.7447,22.8593
+376,22,HUNEDOARA,HĂRĂU,138,12,44,8,13,7,6,17,141,12,46,11,12,6,6,15,Dispensar Medical Hărău,Nr. 64,Hărău,45.9009,22.9551
+274,22,HUNEDOARA,BĂIŢA,154,9,20,6,1,7,9,19,147,9,21,6,4,7,9,21,Școala Primară Hărțăgani,,Hărțăgani,46.0491,22.9208
+78,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,63,8,18,1,12,10,4,19,61,7,19,1,11,15,3,19,Școala Primară Hășdat,Nr. 141,Hășdat,45.7344,22.9225
+489,22,HUNEDOARA,TOPLIŢA,43,4,43,6,5,14,9,22,42,4,43,7,5,15,9,21,Școala Primară Hasdau,,Hășdău,45.6569,22.7154
+380,22,HUNEDOARA,ILIA,332,13,291,21,10,27,20,67,323,22,315,25,7,31,16,37,Căminul Cultural din Ilia,,Ilia,45.9312,22.6609
+187,22,HUNEDOARA,ORAŞ ANINOASA,242,5,81,33,4,42,10,41,238,5,103,34,5,40,12,28,Școala Gimnazială Iscroni,Nr. 50,Iscroni,45.3771,23.3413
+483,22,HUNEDOARA,TELIUCU INFERIOR,26,0,22,2,0,3,1,6,28,0,22,2,1,3,2,4,Camin Cultural,,Izvoarele,45.667,22.858
+401,22,HUNEDOARA,MĂRTINEŞTI,49,0,13,2,32,2,1,5,48,0,16,1,31,5,1,3,Camin Cultural Jeledinți,Nr. 78,Jeledinți,45.8033,23.0747
+237,22,HUNEDOARA,ORAŞ PETRILA,189,8,31,2,2,15,5,15,199,8,30,1,1,13,6,13,"Școala Primară nr. 4, F.N., Jiet",Nr. fn,Jieț,45.4274,23.4273
+412,22,HUNEDOARA,PESTIŞU MIC,58,1,30,1,3,4,1,8,55,1,31,1,1,6,1,9,Școala Primară Josani,Nr. 29,Josani,45.8002,22.8553
+390,22,HUNEDOARA,LELESE,65,1,20,0,1,5,2,6,63,1,20,0,1,6,2,6,"Primăria Comunei Lelese, Sala Biblionet",Nr. 20,Lelese,45.7343,22.6967
+513,22,HUNEDOARA,VEŢEL,119,9,21,4,4,17,12,18,125,8,16,8,3,15,13,19,Școala Primară Leșnic,Nr. 156 A,Leșnic,45.915,22.7403
+485,22,HUNEDOARA,TOMEŞTI,23,0,8,0,0,3,1,4,23,0,7,0,0,3,2,6,Cămin Cultural,Nr. 39,Livada,46.2196,22.6301
+268,22,HUNEDOARA,BARU,114,6,190,9,10,14,8,19,115,5,190,12,9,10,9,20,Școala Primară Livadia,,Livadia,45.4919,23.1288
+405,22,HUNEDOARA,ORĂŞTIOARA DE SUS,63,2,70,8,2,9,1,4,62,2,73,7,1,9,1,4,Școala Primară Ludestii de Jos,,Ludeștii de Jos,45.719,23.1712
+254,22,HUNEDOARA,BAIA DE CRIŞ,60,11,26,4,1,6,1,5,60,11,21,5,1,8,1,7,Școala Primară Lunca,Nr. 91,Lunca,46.1685,22.6773
+278,22,HUNEDOARA,BĂIŢA,111,2,4,3,3,5,4,13,116,2,4,3,3,3,4,12,Căminul Cultural Lunca,,Lunca,45.974,22.87
+393,22,HUNEDOARA,LUNCA CERNII DE JOS,57,1,134,0,0,10,1,7,57,1,139,1,0,4,1,5,Școala Gimnazială Lunca Cernii de Jos,Nr. 19,Lunca Cernii de Jos,45.636,22.6013
+293,22,HUNEDOARA,BOŞOROD,12,0,50,0,1,3,3,7,14,0,51,0,1,3,1,5,Căminul Cultural Luncani,Nr. 24,Luncani,45.6205,23.1193
+396,22,HUNEDOARA,LUNCOIU DE JOS,203,3,150,14,0,18,14,27,203,3,143,15,1,16,12,31,Camin Ul Cultural Luncoiu de Jos,,Luncoiu de Jos,46.0804,22.7748
+397,22,HUNEDOARA,LUNCOIU DE JOS,140,8,125,6,0,10,11,24,136,8,130,7,1,9,9,21,Caminul Cultural Luncoiu de Sus,,Luncoiu de Sus,46.0668,22.8105
+110,22,HUNEDOARA,MUNICIPIUL LUPENI,446,19,38,30,16,18,11,53,476,19,36,36,15,15,4,34,"Școala Gimnazială nr. 1, Lupeni",Str. Revoluției (Str. 23 August) nr. 4,Lupeni,45.3564,23.2248
+111,22,HUNEDOARA,MUNICIPIUL LUPENI,305,23,48,24,21,38,17,49,330,18,51,21,18,34,12,39,Școala Gimnazială nr. 1,Str. Tudor Vladimirescu nr. 3,Lupeni,45.3557,23.2201
+112,22,HUNEDOARA,MUNICIPIUL LUPENI,304,6,30,20,27,24,11,39,324,7,25,24,22,21,11,26,Școala Gimnazială nr. 1,Str. Tudor Vladimirescu nr. 3,Lupeni,45.3557,23.2201
+113,22,HUNEDOARA,MUNICIPIUL LUPENI,203,5,15,6,10,21,10,24,215,5,11,5,11,14,9,19,Școala Gimnazială nr. 1,Str. Tudor Vladimirescu nr. 3,Lupeni,45.3557,23.2201
+114,22,HUNEDOARA,MUNICIPIUL LUPENI,398,29,78,36,43,36,16,78,433,34,67,35,47,27,19,58,Spclep Lupeni,Aleea Liliacului nr. 8,Lupeni,45.3525,23.2083
+115,22,HUNEDOARA,MUNICIPIUL LUPENI,264,17,39,20,42,24,12,38,286,21,38,12,35,25,11,27,Școala Gimnazială nr. 3,Calea Brăii (D) nr. 7,Lupeni,45.351,23.2075
+116,22,HUNEDOARA,MUNICIPIUL LUPENI,268,17,44,22,30,26,5,35,277,20,47,18,25,26,7,28,Școala Gimnazială nr. 3,Calea Brăii (D) nr. 7,Lupeni,45.351,23.2075
+117,22,HUNEDOARA,MUNICIPIUL LUPENI,302,18,42,23,37,35,13,50,323,22,41,21,35,26,13,40,Grădinița cu Program Normal nr. 1 Lupeni,Aleea Liliacului nr. 8,Lupeni,45.3526,23.2082
+118,22,HUNEDOARA,MUNICIPIUL LUPENI,399,3,44,28,15,28,9,37,417,4,45,27,13,21,13,31,Grădinița cu Program Normal nr. 1 Lupeni,Str. Tineretului (Str. 7 Noiembrie),Lupeni,45.3475,23.2027
+119,22,HUNEDOARA,MUNICIPIUL LUPENI,453,20,66,24,45,50,10,61,480,23,56,24,37,53,10,45,Școala Autocom Amicii Glc S.R.L. (fosta Tesma),Bulevardul Păcii nr. 2 bis,Lupeni,45.3511,23.2023
+120,22,HUNEDOARA,MUNICIPIUL LUPENI,384,12,35,31,12,32,20,53,396,10,34,30,13,31,21,46,Liceul Teoretic „Mircea Eliade” Lupeni,Str. Viitorului nr. 2,Lupeni,45.3469,23.2
+121,22,HUNEDOARA,MUNICIPIUL LUPENI,205,3,12,5,6,10,3,33,213,4,13,5,6,13,1,24,Liceul Teoretic „Mircea Eliade” Lupeni,Str. Viitorului nr. 2,Lupeni,45.3469,23.2
+122,22,HUNEDOARA,MUNICIPIUL LUPENI,385,8,41,17,10,19,11,48,390,7,42,14,12,21,16,40,Școala Gimnazială nr. 2 Lupeni,Aleea Trandafirilor,Lupeni,45.3499,23.1962
+123,22,HUNEDOARA,MUNICIPIUL LUPENI,311,10,59,10,17,33,14,43,331,14,53,12,16,25,15,33,Școala Gimnazială nr. 2 Lupeni,Aleea Trandafirilor,Lupeni,45.3499,23.1962
+124,22,HUNEDOARA,MUNICIPIUL LUPENI,238,7,23,10,9,18,7,37,246,7,23,9,9,15,9,29,Grădinița cu Program Normal nr. 2 Lupeni,Str. Bărbăteni,Lupeni,45.3472,23.1926
+125,22,HUNEDOARA,MUNICIPIUL LUPENI,233,11,24,30,3,20,14,48,268,10,19,22,3,14,14,39,Grădinița cu Program Normal nr. 2 Lupeni,Str. Bărbăteni,Lupeni,45.3472,23.1926
+126,22,HUNEDOARA,MUNICIPIUL LUPENI,302,12,28,23,11,20,10,54,330,11,24,25,8,19,10,38,Grădinița cu Program Normal nr. 2 Lupeni,Str. Bărbăteni,Lupeni,45.3472,23.1926
+127,22,HUNEDOARA,MUNICIPIUL LUPENI,166,6,37,22,3,31,8,34,189,10,39,11,2,24,5,25,Școala Universal Edil Sa,Str. Bărbăteni,Lupeni,45.344,23.1794
+387,22,HUNEDOARA,LĂPUGIU DE JOS,99,6,79,7,1,24,9,16,94,6,81,6,1,29,10,16,Căminul Cultural Lăpugiu de Jos,,Lăpugiu de Jos,45.887,22.4812
+389,22,HUNEDOARA,LĂPUGIU DE JOS,42,5,28,11,1,58,1,12,42,6,27,12,1,57,1,11,Căminul Cultural Lăpugiu de Sus,,Lăpugiu de Sus,45.8469,22.48
+360,22,HUNEDOARA,DOBRA,83,3,68,6,1,11,6,10,85,5,60,7,1,12,9,15,Căminul Cultural Lapusnic,Nr. 14,Lăpușnic,45.9161,22.621
+261,22,HUNEDOARA,BALŞA,15,0,17,1,1,10,1,2,13,0,19,1,0,10,1,3,"Mada, Căminul Cultural",,Mada,46.0004,23.1278
+395,22,HUNEDOARA,LUNCA CERNII DE JOS,16,1,60,7,0,15,2,10,17,1,63,7,0,14,2,8,Cămin Cultural Meria,Nr. 17,Meria,45.6601,22.6321
+323,22,HUNEDOARA,BUCUREŞCI,27,0,15,0,1,4,1,4,28,0,16,0,1,4,1,3,Caminul Cultural,,Merișor,46.1423,22.93
+59,22,HUNEDOARA,MUNICIPIUL BRAD,98,4,41,1,1,6,4,13,101,6,36,0,1,4,5,16,Căminul Cultural Mesteacăn,Nr. 162,Mesteacăn,46.1468,22.7574
+318,22,HUNEDOARA,BUCEŞ,86,0,63,1,1,5,8,18,87,1,59,7,2,10,10,16,Școala Primară Mihaileni,,Mihăileni,46.1836,22.8923
+512,22,HUNEDOARA,VEŢEL,123,13,84,12,5,14,9,31,123,14,82,13,4,20,10,23,Căminul Cultural Mintia,Nr. 118 A,Mintia,45.9232,22.8492
+515,22,HUNEDOARA,VEŢEL,25,0,5,0,0,2,0,0,25,0,4,0,0,2,0,1,Cămin Cultural Muncelu Mare,Nr. 9,Muncelu Mare,45.8264,22.6837
+514,22,HUNEDOARA,VEŢEL,36,0,3,1,0,6,1,6,33,0,4,1,0,10,1,3,Școala Primară Muncelu Mic,Nr. 10 B,Muncelu Mic,45.845,22.7307
+310,22,HUNEDOARA,BRETEA ROMÂNĂ,118,0,23,5,1,4,3,7,122,0,18,5,2,3,4,7,Școală Primară,Nr. 125,Măceu,45.6713,22.9804
+347,22,HUNEDOARA,CERTEJU DE SUS,22,0,19,0,1,14,1,3,20,0,21,0,0,14,1,3,Căminul Cultural,Nr. 24 A,Măgura-Toplița,45.979,22.9372
+463,22,HUNEDOARA,SĂLAŞU DE SUS,42,0,28,2,5,2,2,6,37,0,29,1,6,2,2,8,Cămin Cultural Mălăiești,Nr. 74,Mălăiești,45.4881,22.945
+413,22,HUNEDOARA,PESTIŞU MIC,92,3,21,3,3,5,3,8,71,2,51,3,3,3,1,3,Școala Primară Mănerău,Nr. 11,Mănerău,45.7889,22.8857
+398,22,HUNEDOARA,MĂRTINEŞTI,72,1,25,4,2,18,6,8,75,1,24,4,2,18,5,7,Școala Primară Mărtinești,Nr. 80,Mărtinești,45.8137,23.129
+414,22,HUNEDOARA,PESTIŞU MIC,47,2,42,3,1,2,4,11,52,1,44,3,1,1,4,7,Școala Primară Nandru,Nr. 1,Nandru,45.8035,22.8254
+394,22,HUNEDOARA,LUNCA CERNII DE JOS,24,1,34,2,0,5,0,6,24,1,37,2,0,6,0,6,Cămin Cultural Negoiu,Nr. 82,Negoiu,45.6111,22.5645
+349,22,HUNEDOARA,CERTEJU DE SUS,46,2,27,3,0,10,2,6,42,1,29,5,0,11,1,4,Școala Primară Nojag,,Nojag,45.9545,22.9956
+462,22,HUNEDOARA,SĂLAŞU DE SUS,55,1,24,1,7,5,1,5,57,1,23,1,7,5,3,8,Școala Primară Nucșoara,Nr. 64,Nucșoara,45.4816,22.9182
+194,22,HUNEDOARA,ORAŞ CĂLAN,48,2,45,12,1,6,7,13,47,3,49,12,1,7,6,11,Căminul Cultural,,Nădăștia de Jos,45.7202,22.9583
+195,22,HUNEDOARA,ORAŞ CĂLAN,58,1,50,7,1,4,2,6,55,1,48,8,1,5,2,6,Căminul Cultural,,Nădăștia de Sus,45.7106,22.9337
+219,22,HUNEDOARA,ORAŞ HAŢEG,75,5,61,6,4,2,3,9,81,5,54,10,5,3,3,6,Școala Primară Nălațvad,,Nălațvad,45.5916,22.931
+507,22,HUNEDOARA,VAŢA DE JOS,78,8,33,6,1,7,3,9,77,9,29,3,1,7,2,16,Școala Primară Ociu,Nr. 63,Ociu,46.2095,22.5712
+307,22,HUNEDOARA,BRETEA ROMÂNĂ,114,1,28,1,1,4,2,8,123,1,25,1,1,4,3,6,Școala Primară,Nr. 76,Ocolișu Mare,45.6875,22.9409
+408,22,HUNEDOARA,ORĂŞTIOARA DE SUS,86,5,80,5,2,19,3,5,82,6,81,5,1,23,3,5,Școala Primară Ocolisu Mic,Nr. 105,Ocolișu Mic,45.711,23.1264
+388,22,HUNEDOARA,LĂPUGIU DE JOS,56,35,61,10,2,98,5,14,58,40,56,10,1,98,7,13,Căminul Cultural Ohaba,,Ohaba,45.8877,22.451
+458,22,HUNEDOARA,SĂLAŞU DE SUS,68,2,11,3,7,5,1,6,65,2,13,2,7,6,3,8,Școala Generală Ohaba de Sub Piatră,Nr. 108,Ohaba de sub Piatră,45.546,22.9886
+426,22,HUNEDOARA,PUI,32,0,32,6,1,12,3,5,32,0,31,7,1,12,3,5,Școala Primară Ohaba Ponor,Nr. 90,Ohaba-Ponor,45.5173,23.1369
+276,22,HUNEDOARA,BĂIŢA,134,8,20,7,6,5,6,10,131,7,20,8,6,9,7,9,Școala Primară Ormindea,,Ormindea,46.0506,22.8624
+128,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,363,40,164,18,14,25,12,36,361,45,133,18,17,37,13,40,Casa de Cultură,Str. Victoriei (Piața Republicii) nr. 20,Orăștie,45.8373,23.1921
+129,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,279,31,147,28,2,21,14,30,278,30,129,27,3,33,16,35,Creșa Municipală,Str. Pricazului nr. 46,Orăștie,45.8424,23.1901
+130,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,257,11,127,21,9,23,11,35,265,15,115,14,10,26,13,34,Grădinița cu Program Normal „Scufița Roșie”,Str. Pricazului nr. 48,Orăștie,45.8424,23.1896
+131,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,218,29,109,21,5,17,11,34,223,31,98,26,6,16,8,31,Școala Gim. „D.Stanca”,Str. Eroilor nr. 21,Orăștie,45.8415,23.1928
+132,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,319,23,168,26,6,17,6,34,318,26,153,23,11,25,7,31,Complex Servicii Pentru Vârstnici,Șoseaua Unirii nr. 4,Orăștie,45.8423,23.1979
+133,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,264,34,124,20,8,20,10,36,266,39,111,15,10,26,13,33,Școala Gim. „Dr. Aurel Vlad”,Str. Luminii (Str. Erou Moraru Călin Gabriel) nr. 10,Orăștie,45.8388,23.2009
+134,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,307,19,97,23,3,13,10,29,304,24,87,27,1,15,11,35,Școala Gim. I-IV Gară,Str. Tîrgului nr. 2,Orăștie,45.8548,23.2094
+135,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,365,50,197,27,3,41,9,32,370,58,160,33,5,48,10,30,Oficiul de Gospodărire a Apelor,Str. Progresului nr. 2,Orăștie,45.8463,23.2062
+136,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,284,23,128,25,8,20,10,36,277,31,115,32,12,25,13,33,LiceulTehnologic „N.Olahus”,Str. Octavian Goga (Str. V. I. Lenin) nr. 25,Orăștie,45.8389,23.1971
+137,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,183,10,132,16,6,11,3,31,196,13,113,17,7,15,2,24,Colegiul Național „Aurel Vlaicu”,Str. Lazăr Gheorghe nr. 8,Orăștie,45.8377,23.1987
+138,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,286,27,193,28,5,17,13,35,286,40,153,32,8,24,12,45,Primăria Municipiului Orăștie,Piața Aurel Vlaicu nr. 3,Orăștie,45.8366,23.1947
+139,22,HUNEDOARA,MUNICIPIUL ORĂŞTIE,298,30,172,30,7,28,11,33,300,38,143,35,7,45,11,33,Serviciul Public de Asistență Socială,Str. Eroilor nr. 40,Orăștie,45.8409,23.1953
+284,22,HUNEDOARA,BERIU,59,5,31,4,0,6,3,19,58,6,34,3,1,6,2,17,Școala Primară,,Orăștioara de Jos,45.7623,23.1826
+403,22,HUNEDOARA,ORĂŞTIOARA DE SUS,104,3,120,17,5,9,2,10,107,4,120,11,2,12,4,14,Camin Cultural Orastioara de Sus,Nr. 45,Orăștioara de Sus,45.7317,23.1704
+438,22,HUNEDOARA,RÂU DE MORI,68,6,78,4,1,39,39,44,73,7,84,6,0,37,26,32,Școala Primară Ostrov,,Ostrov,45.5273,22.8464
+364,22,HUNEDOARA,DOBRA,40,0,10,0,1,5,3,7,41,0,11,0,0,4,4,8,Căminul Cultural Panc,Nr. 84,Panc,45.8586,22.5228
+461,22,HUNEDOARA,SĂLAŞU DE SUS,83,1,31,4,33,4,3,8,81,1,32,4,35,7,0,5,Școala Generală Paroș,Nr. 6,Paroș,45.4977,22.9695
+409,22,HUNEDOARA,PESTIŞU MIC,51,3,53,8,1,9,3,8,56,4,50,8,1,6,2,7,Școala Primară Pestișu Mic,Nr. 64 A,Pestișu Mic,45.7966,22.8865
+222,22,HUNEDOARA,ORAŞ PETRILA,378,24,36,27,28,18,12,53,386,20,37,18,29,29,13,48,Casa de Cultura „Ladislau Schmidt”,Str. Republicii nr. 51,Petrila,45.4439,23.3763
+223,22,HUNEDOARA,ORAŞ PETRILA,286,16,58,15,16,20,14,49,294,15,51,14,15,27,18,44,Școala Edil Urban Serv Sa,Str. Privighetorilor nr. 14,Petrila,45.4431,23.3778
+224,22,HUNEDOARA,ORAŞ PETRILA,329,18,52,15,12,12,18,52,334,18,50,14,14,13,17,44,Grădinița cu Program Normal nr. 1,Str. Privighetorilor nr. 16,Petrila,45.4428,23.378
+225,22,HUNEDOARA,ORAŞ PETRILA,335,20,51,18,10,19,6,33,348,20,52,18,8,16,6,24,Școala Gimnazială I.D. Sarbu,Str. Tudor Vladimirescu nr. 3,Petrila,45.4432,23.3791
+226,22,HUNEDOARA,ORAŞ PETRILA,333,11,47,20,7,27,9,36,341,12,50,15,8,29,10,29,Clubul Copiilor,Str. Tudor Vladimirescu nr. 3,Petrila,45.4435,23.3793
+227,22,HUNEDOARA,ORAŞ PETRILA,360,13,41,24,11,24,12,37,360,15,48,19,11,27,12,31,Școala Gimnazială nr. 6 Sectia 1,Str. 8 Martie nr. 68,Petrila,45.4471,23.3829
+228,22,HUNEDOARA,ORAŞ PETRILA,221,16,30,13,9,11,6,21,224,21,33,6,9,12,8,20,Școala Gimnazială nr. 6 Sectia 2,Str. 8 Martie nr. 68,Petrila,45.4471,23.3829
+229,22,HUNEDOARA,ORAŞ PETRILA,342,14,30,17,13,26,7,43,340,13,29,15,14,31,6,39,Școala Gimnazială nr. 5 Sectia 1,Str. 8 Martie nr. 15,Petrila,45.4498,23.3887
+230,22,HUNEDOARA,ORAŞ PETRILA,324,9,41,11,12,12,6,33,319,8,42,9,10,20,6,32,Școala Gimnazială nr. 5 Sectia 2,Str. 8 Martie nr. 15,Petrila,45.4498,23.3887
+231,22,HUNEDOARA,ORAŞ PETRILA,299,7,33,11,9,24,13,43,305,9,32,12,7,20,11,37,Grădinița Pn,Str. 8 Martie nr. 40,Petrila,45.4519,23.3928
+232,22,HUNEDOARA,ORAŞ PETRILA,262,7,70,16,8,12,7,33,274,7,72,13,8,12,8,18,Colegiul Constantin Brancusi,Str. Republicii nr. 196,Petrila,45.4511,23.4035
+233,22,HUNEDOARA,ORAŞ PETRILA,360,7,54,15,15,19,8,27,363,4,54,12,16,14,12,29,Casa Pensionarilor Lonea,Str. Tineretului nr. 1,Petrila,45.4469,23.4172
+234,22,HUNEDOARA,ORAŞ PETRILA,442,3,38,25,26,17,6,37,451,4,37,20,26,18,5,25,Școala Gimnazială Ana Colda,Str. Republicii nr. 293,Petrila,45.4475,23.42
+236,22,HUNEDOARA,ORAŞ PETRILA,339,18,54,13,17,25,18,43,349,16,55,15,22,19,18,42,Grădinița cu Program Normal Ana Colda,Str. Parcului nr. 12,Petrila,45.4445,23.4122
+140,22,HUNEDOARA,MUNICIPIUL PETROŞANI,313,50,87,41,38,71,29,71,312,47,94,35,40,66,32,78,Școala Gimnazială „I. G. Duca” (Școala Generală nr. 1) Sediul Vechi,Str. 1 Decembrie 1918 (Bulevardul Republicii) nr. 98,Petroșani,45.4151,23.3735
+141,22,HUNEDOARA,MUNICIPIUL PETROŞANI,322,63,102,25,35,63,27,58,316,59,109,21,33,72,32,59,Școala Gimnazială I.G.Duca (Școala Generală nr. 1 - Sediul Vechi),Str. 1 Decembrie 1918 (Bulevardul Republicii) nr. 98,Petroșani,45.4151,23.3735
+142,22,HUNEDOARA,MUNICIPIUL PETROŞANI,302,46,79,23,29,67,24,60,303,50,76,24,30,69,26,56,Școala Gimnazială I.G. Duca (Școala Generală nr. 1 - Sediul Nou),Str. Ștefan Octavian Iosif nr. 4,Petroșani,45.4146,23.3761
+143,22,HUNEDOARA,MUNICIPIUL PETROŞANI,290,35,87,18,23,41,19,37,280,34,89,20,27,48,20,38,Amfiteatrul Universității,Str. Universității (Str. Institutului) nr. 20,Petroșani,45.4182,23.3739
+144,22,HUNEDOARA,MUNICIPIUL PETROŞANI,219,18,69,21,10,40,8,36,217,15,63,21,14,42,15,36,Club Sportiv Școlar,Str. 1 Decembrie 1918 (Bulevardul Republicii) nr. 79,Petroșani,45.4178,23.3724
+145,22,HUNEDOARA,MUNICIPIUL PETROŞANI,219,39,70,28,28,37,15,36,219,33,83,28,21,40,14,33,Școala Gimnazială Avram Stanca (Școala Generală nr. 4),Str. 1 Decembrie 1918 (Bulevardul Republicii) nr. 73,Petroșani,45.42,23.373
+146,22,HUNEDOARA,MUNICIPIUL PETROŞANI,329,52,112,32,17,58,30,67,326,60,113,26,17,57,35,71,Școala Gimnazială Avram Stanca (Școala Generală nr. 4),Str. 1 Decembrie 1918 (Bulevardul Republicii) nr. 73,Petroșani,45.42,23.373
+147,22,HUNEDOARA,MUNICIPIUL PETROŞANI,349,25,70,25,25,41,25,66,354,22,72,18,26,41,31,69,Colegiul Național „Mihai Eminescu” (Liceul Teoretic),Str. 1 Decembrie 1918 (Bulevardul Republicii) nr. 7,Petroșani,45.4251,23.3683
+148,22,HUNEDOARA,MUNICIPIUL PETROŞANI,199,35,70,18,26,43,17,38,195,33,74,16,23,58,17,32,Grădinița nr. 3 cu Program Prelungit,Str. Carpați nr. 3,Petroșani,45.4118,23.3729
+149,22,HUNEDOARA,MUNICIPIUL PETROŞANI,312,40,101,13,16,46,18,57,307,39,106,18,18,55,19,52,Colegiul Național de Informatică Carmen Sylva (Liceul de Informatică),Str. Slătinioara nr. 10,Petroșani,45.4121,23.3794
+150,22,HUNEDOARA,MUNICIPIUL PETROŞANI,361,34,67,20,18,52,23,62,371,36,73,15,18,64,19,46,Colegiul Economic „Hermes”,Str. Independenței nr. 1A,Petroșani,45.4075,23.3746
+151,22,HUNEDOARA,MUNICIPIUL PETROŞANI,351,41,71,20,32,27,26,50,352,35,69,12,32,41,26,55,Școala Gimnazială I.G.Duca (Școala Generală nr. 5),Str. Oituz nr. 7,Petroșani,45.4026,23.3745
+152,22,HUNEDOARA,MUNICIPIUL PETROŞANI,291,37,72,9,29,52,13,52,297,41,68,9,32,48,18,52,Școala Gimnazială „I.G. Duca” (Școala Generală nr. 5),Str. Oituz nr. 7,Petroșani,45.4026,23.3745
+153,22,HUNEDOARA,MUNICIPIUL PETROŞANI,367,34,75,17,38,76,26,52,359,32,75,14,38,98,24,48,Școala Gimnazială Carmen Sylva (Școala Generală nr. 6),Str. Independenței nr. 37,Petroșani,45.3983,23.3774
+154,22,HUNEDOARA,MUNICIPIUL PETROŞANI,320,12,44,21,12,36,9,38,318,15,47,18,12,40,12,33,Școala Gimnazială Carmen Sylva (Școala Generală nr. 6),Str. Independenței nr. 37,Petroșani,45.3983,23.3774
+155,22,HUNEDOARA,MUNICIPIUL PETROŞANI,183,14,37,10,2,18,8,19,180,12,44,7,1,19,9,21,Grădinița cu Program Prelungit Aeroport,Str. Aviatorilor nr. 3,Petroșani,45.3955,23.3761
+156,22,HUNEDOARA,MUNICIPIUL PETROŞANI,333,10,47,27,12,30,14,38,324,10,56,20,13,32,17,42,Grădinița cu Program Normal nr. 2 Aeroport,Str. Aviatorilor nr. 30,Petroșani,45.3935,23.3746
+157,22,HUNEDOARA,MUNICIPIUL PETROŞANI,344,34,35,9,9,53,14,37,343,32,42,8,9,51,14,38,Grădinița cu Program Normal nr. 2 Aeroport,Str. Aviatorilor nr. 30,Petroșani,45.3935,23.3746
+158,22,HUNEDOARA,MUNICIPIUL PETROŞANI,363,19,63,15,8,34,16,35,349,15,67,13,10,47,14,35,Școala Gimnazială nr. 7,Str. Venus nr. 9,Petroșani,45.3929,23.3769
+159,22,HUNEDOARA,MUNICIPIUL PETROŞANI,373,20,80,15,9,30,25,53,375,26,81,10,10,41,24,48,Școala Gimnazială nr. 7,Str. Venus nr. 9,Petroșani,45.3929,23.3769
+160,22,HUNEDOARA,MUNICIPIUL PETROŞANI,116,2,33,6,1,5,9,22,117,2,30,6,1,7,8,20,S.C. General Trans S.A.,Str. Livezeni nr. 12,Petroșani,45.3832,23.3719
+161,22,HUNEDOARA,MUNICIPIUL PETROŞANI,248,18,51,31,25,22,14,40,253,19,54,24,29,19,12,38,Casa Pensionarilor,Str. Anton Pann nr. 98,Petroșani,45.4145,23.3668
+162,22,HUNEDOARA,MUNICIPIUL PETROŞANI,202,12,47,16,13,19,7,16,201,11,47,12,14,20,8,21,Casa Pensionarilor,Str. Anton Pann nr. 98,Petroșani,45.4145,23.3668
+163,22,HUNEDOARA,MUNICIPIUL PETROŞANI,264,11,30,6,17,17,9,29,259,12,36,5,17,15,11,27,Școala Gimnazială nr. 2,Str. Gheorghe Barițiu nr. 9,Petroșani,45.4224,23.363
+164,22,HUNEDOARA,MUNICIPIUL PETROŞANI,207,7,47,7,12,21,8,38,209,8,45,8,14,22,10,34,Sediul S.C. Termoficare,Str. Mihail Eminescu nr. 15-17,Petroșani,45.4229,23.3653
+165,22,HUNEDOARA,MUNICIPIUL PETROŞANI,70,0,9,0,2,4,4,12,67,0,10,1,1,4,4,14,Colegiul Național „Mihai Eminescu” (Școala Gimnazială Dâlja Mare),Str. Dîlja Mare,Petroșani,45.4141,23.3385
+355,22,HUNEDOARA,DENSUŞ,110,12,35,7,1,8,1,7,117,12,34,7,1,7,1,5,Școala Primară Peșteana,Nr. 87,Peșteana,45.5487,22.8233
+356,22,HUNEDOARA,DENSUŞ,55,0,42,7,0,1,1,6,58,0,35,9,0,2,1,8,Școala Primară Pestenita,Nr. 25,Peștenița,45.5533,22.8042
+109,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,249,24,70,29,36,11,17,38,233,21,72,26,38,14,20,51,Școala Primară Peștișul Mare,,Peștișu Mare,45.8025,22.9252
+450,22,HUNEDOARA,ROMOS,36,4,31,4,1,4,1,8,36,3,33,3,2,5,2,5,Școala Primară Pischinti,Nr. 84,Pișchinți,45.878,23.3095
+370,22,HUNEDOARA,GHELARI,23,0,3,0,0,1,2,4,24,0,3,0,0,1,1,3,Magazin Abc,,Plop,45.7193,22.7649
+311,22,HUNEDOARA,BRETEA ROMÂNĂ,84,2,16,7,1,4,3,10,82,1,17,5,1,7,3,10,Școală Primară,Nr. 18,Plopi,45.6364,23.0042
+521,22,HUNEDOARA,ZAM,47,3,20,3,0,5,3,7,48,3,22,2,0,3,3,6,Școala Primară Pogănești,Nr. 37,Pogănești,46.0598,22.4583
+265,22,HUNEDOARA,BALŞA,24,4,21,0,0,1,2,4,24,4,19,1,0,2,2,4,"Poiana, Căminul Cultural",,Poiana,46.088,23.0542
+342,22,HUNEDOARA,CERBĂL,83,0,5,1,1,5,3,4,80,0,6,1,1,5,6,6,Școala Primară Poiana Răchițelii,Nr. 8,Poiana Răchițelii,45.7333,22.5623
+358,22,HUNEDOARA,DENSUŞ,38,0,23,3,0,0,2,4,38,1,23,2,0,1,2,3,Școala Primară Poieni,Nr. 16,Poieni,45.5442,22.723
+266,22,HUNEDOARA,BALŞA,16,1,21,0,0,1,2,6,17,1,19,1,0,1,3,5,"Poienița, Căminul Cultural",,Poienița,46.0964,23.0281
+329,22,HUNEDOARA,BUNILA,22,1,35,1,1,3,1,3,25,1,36,1,1,3,1,1,Caminul Cultural Poienita Voinii,Nr. 4,Poienița Voinii,45.6956,22.7056
+425,22,HUNEDOARA,PUI,65,1,94,2,2,8,16,20,63,3,95,4,1,6,15,17,Școala Primară Ponor,,Ponor,45.5067,23.1278
+337,22,HUNEDOARA,CÂRJIŢI,45,1,10,0,1,7,1,5,44,1,10,1,1,7,1,4,Căminul Cultural Popești,Nr. 16,Popești,45.8275,22.8458
+498,22,HUNEDOARA,TURDAŞ,214,12,93,25,2,21,10,31,222,14,85,26,2,25,9,26,Căminul Cultural Pricaz,Nr. FN,Pricaz,45.8596,23.1703
+505,22,HUNEDOARA,VAŢA DE JOS,120,2,13,8,1,1,4,18,120,1,10,7,1,2,5,22,Școala Primară Prihodiște,Nr. 86,Prihodiște,46.1692,22.6031
+503,22,HUNEDOARA,VAŢA DE JOS,71,0,42,1,0,2,0,7,71,0,35,2,1,1,2,13,Școala Primară,Nr. 102,Prăvăleni,46.1915,22.5578
+416,22,HUNEDOARA,PUI,161,16,136,16,5,13,7,17,155,15,133,18,5,14,8,23,Școala Gimnazială Pui,Str. Republicii,Pui,45.5127,23.0971
+495,22,HUNEDOARA,TOTEŞTI,242,5,54,4,0,13,5,11,259,7,38,6,1,8,6,13,Școala Primară Paclisa,Nr. 93A,Păclișa,45.5632,22.881
+454,22,HUNEDOARA,SARMIZEGETUSA,91,1,33,2,0,0,2,3,92,1,32,2,0,1,2,4,Caminul Cultural Paucinesti,Nr. 76,Păucinești,45.5067,22.7554
+479,22,HUNEDOARA,ŞOIMUŞ,159,11,90,6,1,21,6,18,148,10,89,7,1,29,6,16,"Cămin Cultural, Sat Păuliș nr. 61",,Păuliș,45.9405,22.8632
+432,22,HUNEDOARA,RAPOLTU MARE,125,11,74,4,2,37,13,45,135,17,75,5,2,39,12,28,Primăria Rapoltu Mare,Nr. 67,Rapoltu Mare,45.8648,23.0782
+431,22,HUNEDOARA,RAPOLTU MARE,33,2,30,5,1,6,4,7,34,2,33,4,2,5,3,5,Camin Cultural,Nr. 17,Rapolțel,45.8802,23.0607
+496,22,HUNEDOARA,TOTEŞTI,166,0,32,7,0,7,2,8,175,0,18,11,0,8,1,4,Școala Primară Reea,Nr. 84,Reea,45.5776,22.9088
+212,22,HUNEDOARA,ORAŞ GEOAGIU,33,1,10,7,1,17,2,4,32,0,12,9,1,16,2,3,Școală Primară Renghet,Nr. 42,Renghet,45.9553,23.141
+290,22,HUNEDOARA,BLĂJENI,12,0,25,1,0,3,0,3,13,0,23,2,0,2,0,3,Școala Primară Ret,,Reț,46.2618,22.8832
+442,22,HUNEDOARA,RIBIŢA,123,2,148,4,2,13,6,23,129,3,138,5,2,14,8,22,Căminul Cultural Ribița,Nr. 22,Ribița,46.1752,22.7655
+256,22,HUNEDOARA,BAIA DE CRIŞ,53,2,32,15,1,6,1,3,62,3,21,18,1,6,1,3,Camin Cultural Risca,Nr. 62,Rișca,46.1871,22.7074
+257,22,HUNEDOARA,BAIA DE CRIŞ,167,4,49,8,1,1,7,9,173,4,34,7,1,1,10,15,Școala Primară Risculita,Nr. 177,Rișculița,46.2251,22.7165
+447,22,HUNEDOARA,ROMOS,119,17,177,13,3,25,14,22,110,14,172,12,7,30,17,31,Școala Primară Romos,Nr. 317,Romos,45.8415,23.275
+448,22,HUNEDOARA,ROMOS,42,8,152,3,1,10,2,11,42,10,151,6,1,8,4,9,Școala Primară Romosel,Nr. 30,Romoșel,45.8042,23.3121
+299,22,HUNEDOARA,BRĂNIŞCA,49,0,13,2,2,6,2,8,45,0,14,4,1,5,3,10,Școala Primară Rovina,,Rovina,45.9248,22.7866
+322,22,HUNEDOARA,BUCUREŞCI,30,0,24,2,0,5,4,8,32,0,22,3,0,4,3,8,Caminul Cultural,,Rovina,46.1547,22.9214
+363,22,HUNEDOARA,DOBRA,163,5,55,4,0,28,4,11,163,6,47,6,0,32,4,12,Școala Primară Roscani,Nr. 92,Roșcani,45.8697,22.555
+369,22,HUNEDOARA,GHELARI,40,2,12,1,0,3,2,6,41,1,11,2,0,2,3,7,Camin Cultural,,Ruda,45.6962,22.7515
+60,22,HUNEDOARA,MUNICIPIUL BRAD,41,0,13,3,1,1,1,9,46,0,13,3,1,1,1,7,Căminul Cultural Ruda-Brad,Nr. 20,Ruda-Brad,46.0979,22.8208
+392,22,HUNEDOARA,LELESE,40,2,8,0,1,4,1,3,40,2,8,0,1,4,1,3,Camin Cultural Runcu Mare,Nr. 25,Runcu Mare,45.7426,22.6374
+305,22,HUNEDOARA,BRETEA ROMÂNĂ,72,2,56,2,1,3,2,4,81,1,47,2,1,4,3,5,Cămin Cultural,Nr. 74,Ruși,45.6954,22.9915
+417,22,HUNEDOARA,PUI,52,5,98,8,0,3,7,12,52,3,101,8,0,4,7,10,Școala Primară Rușor,,Rușor,45.5286,23.0261
+459,22,HUNEDOARA,SĂLAŞU DE SUS,53,2,14,1,0,10,6,9,49,2,16,0,1,12,6,9,Școala Primară Rîu Alb,Nr. 109,Râu Alb,45.5204,23.0048
+422,22,HUNEDOARA,PUI,20,0,81,2,3,2,5,9,20,1,80,3,2,2,5,10,Cămin Cultural Rîu-Bărbat,,Râu Bărbat,45.484,23.0902
+465,22,HUNEDOARA,SĂLAŞU DE SUS,39,2,25,5,1,4,1,5,40,3,26,5,2,3,1,3,Școala Primară Rîu Mic,Nr. 44,Râu Mic,45.4922,23.0082
+436,22,HUNEDOARA,RÂU DE MORI,158,19,212,9,1,22,15,33,152,19,217,10,1,24,15,34,Școala Generală Rîu de Mori,,Râu de Mori,45.4957,22.8538
+433,22,HUNEDOARA,RĂCHITOVA,337,3,90,1,0,4,4,7,343,3,77,1,3,7,4,6,Caminul Cultural Răchitova,Nr. 29,Răchitova,45.6038,22.7485
+106,22,HUNEDOARA,MUNICIPIUL HUNEDOARA,62,5,32,16,51,6,2,23,57,5,32,18,54,6,4,23,Școala Primară Răcăștia,Nr. 201,Răcăștia,45.763,22.8792
+361,22,HUNEDOARA,DOBRA,52,0,18,4,2,3,2,6,52,1,18,3,1,3,1,6,Caminul Cultural Radulesti,Nr. 14,Rădulești,45.8823,22.6246
+451,22,HUNEDOARA,SARMIZEGETUSA,260,7,76,1,7,12,8,11,260,7,70,4,7,17,6,10,Caminul Cultural Sarmizegetusa,Nr. 36,Sarmizegetusa,45.5154,22.7804
+285,22,HUNEDOARA,BERIU,39,3,28,4,0,15,2,6,45,4,25,2,0,14,2,4,Școala Primară,,Sereca,45.779,23.1793
+286,22,HUNEDOARA,BERIU,93,4,92,5,1,5,4,12,96,2,95,6,2,3,4,13,Școala Primară Sibișel,,Sibișel,45.7583,23.2451
+441,22,HUNEDOARA,RÂU DE MORI,63,2,108,1,1,6,1,9,63,3,108,1,1,3,0,6,Școala Primară Sibișel,,Sibișel,45.5035,22.9008
+220,22,HUNEDOARA,ORAŞ HAŢEG,82,3,81,8,3,2,6,16,98,2,70,9,3,2,5,9,Școala Primară Sivașu de Jos,,Silvașu de Jos,45.6536,22.9241
+221,22,HUNEDOARA,ORAŞ HAŢEG,66,9,59,3,0,3,4,13,69,9,52,3,1,2,5,18,Școala Primară Silvașu de Sus,Nr. 46,Silvașu de Sus,45.6483,22.8822
+238,22,HUNEDOARA,ORAŞ SIMERIA,411,59,132,30,15,34,14,46,415,64,126,34,13,36,12,37,Școala Gimnazială „Sigismund Toduta” Simeria,Str. Avram Iancu (Str. 23 August) nr. 17,Simeria,45.8488,23.0143
+239,22,HUNEDOARA,ORAŞ SIMERIA,353,51,126,24,18,46,20,54,359,67,117,17,19,43,19,50,Școala Gimnazială „Sigismund Toduta” Simeria,Str. Decebal nr. 20,Simeria,45.854,23.0147
+240,22,HUNEDOARA,ORAŞ SIMERIA,318,31,115,16,16,43,11,45,325,34,116,15,14,37,17,44,Grădinița cu Program Normal nr. 1 Simeria,Str. 1 Decembrie (Str. 30 Decembrie) nr. 2,Simeria,45.8521,23.0091
+241,22,HUNEDOARA,ORAŞ SIMERIA,307,53,124,27,18,39,16,48,315,48,120,23,20,46,19,46,Grădinița P.P.1,Str. Cuza Vodă nr. 2,Simeria,45.8508,23.0095
+242,22,HUNEDOARA,ORAŞ SIMERIA,285,43,115,20,10,26,27,54,293,47,102,25,11,30,21,44,Ocolul Silvic Simeria,Str. Preot Nistor Socaciu (Str. Cîmpului) nr. 3,Simeria,45.856,23.0102
+243,22,HUNEDOARA,ORAŞ SIMERIA,262,23,89,35,7,26,17,50,265,26,76,35,8,30,23,50,Colegiul Tehnic de Transport Feroviar „Anghel Saligny” Simeria,Șoseaua Națională nr. 136,Simeria,45.8388,23.0219
+244,22,HUNEDOARA,ORAŞ SIMERIA,234,31,87,17,8,21,17,47,237,30,87,21,8,23,14,36,Statia C.F.R. Simeria,Str. Victoriei nr. 10,Simeria,45.8462,23.0138
+245,22,HUNEDOARA,ORAŞ SIMERIA,133,4,19,7,2,13,1,14,134,4,20,6,1,15,1,13,Școala Generală Simeria Veche,,Simeria Veche,45.8349,23.0524
+499,22,HUNEDOARA,TURDAŞ,45,3,24,7,2,8,2,9,47,3,23,9,1,8,3,7,Școala Primară Spini,Nr. 44,Spini,45.8342,23.0912
+196,22,HUNEDOARA,ORAŞ CĂLAN,37,1,55,7,1,2,9,18,39,1,56,6,1,4,9,15,Căminul Cultural,,Strei,45.7169,22.9948
+197,22,HUNEDOARA,ORAŞ CĂLAN,22,3,42,2,1,5,1,10,22,1,44,3,1,5,2,10,Căminul Cultural,,Strei-Săcel,45.7449,23.023
+203,22,HUNEDOARA,ORAŞ CĂLAN,129,9,68,13,23,17,10,25,127,10,67,16,22,20,9,21,Căminul Cultural Streisîngeorgiu,,Streisângeorgiu,45.7279,23.0192
+362,22,HUNEDOARA,DOBRA,36,0,13,2,1,4,1,3,41,0,9,0,1,3,1,5,Căminul Cultural Stancesti,Nr. 45,Stâncești,45.8787,22.6489
+319,22,HUNEDOARA,BUCEŞ,112,1,11,0,0,5,2,10,108,1,10,1,1,6,3,12,Școala Primară Stanija,,Stănija,46.172,22.9872
+467,22,HUNEDOARA,SÂNTĂMĂRIA-ORLEA,167,3,35,7,0,12,8,14,165,4,32,13,1,10,6,14,Școala Primară Subcetate,Nr. 109,Subcetate,45.5992,22.9957
+478,22,HUNEDOARA,ŞOIMUŞ,41,2,83,4,2,3,1,5,38,2,83,3,2,3,1,6,Școala Primară Sat Sulighete nr. 88,,Sulighete,45.9766,22.8031
+201,22,HUNEDOARA,ORAŞ CĂLAN,44,1,28,2,2,11,8,15,46,0,28,3,2,11,7,15,Școala Primară Sîncrai,,Sâncrai,45.753,22.9771
+473,22,HUNEDOARA,SÂNTĂMĂRIA-ORLEA,82,8,29,0,0,2,4,5,81,6,23,5,0,4,4,8,Căminul Cultural Sînpetru,Nr. 23,Sânpetru,45.555,22.9138
+247,22,HUNEDOARA,ORAŞ SIMERIA,204,17,78,13,3,33,13,28,208,21,78,17,3,31,12,22,Școala Generală Sîntandrei,,Sântandrei,45.8488,22.9637
+43,22,HUNEDOARA,MUNICIPIUL DEVA,134,16,73,12,16,19,4,19,132,16,68,12,18,24,2,14,Căminul Cultural Sîntuhalm,Str. Sântuhalm,Sântuhalm,45.856,22.9534
+202,22,HUNEDOARA,ORAŞ CĂLAN,40,3,25,3,1,2,3,9,37,1,24,4,2,5,3,7,Casa Parohială,Nr. 22,Sântămăria de Piatră,45.7686,23.0193
+466,22,HUNEDOARA,SÂNTĂMĂRIA-ORLEA,175,18,72,23,9,3,13,27,178,17,62,28,8,10,12,22,Căminul Cultural Sîntămăria-Orlea,Nr. 128,Sântămăria-Orlea,45.5885,22.9689
+382,22,HUNEDOARA,ILIA,64,1,144,0,1,4,4,19,61,1,149,2,2,5,4,9,Căminul Cultural din Sîrbi,,Sârbi,45.9612,22.7056
+472,22,HUNEDOARA,SÂNTĂMĂRIA-ORLEA,60,4,36,0,2,2,5,9,60,6,29,3,1,4,6,10,Școala Săcel,Nr. 114,Săcel,45.5619,22.9276
+386,22,HUNEDOARA,ILIA,49,1,53,0,0,1,2,10,47,1,56,1,0,1,3,7,Căminul Cultural din Săcămaș,,Săcămaș,45.9202,22.6725
+345,22,HUNEDOARA,CERTEJU DE SUS,28,5,19,1,1,11,4,7,23,5,15,1,1,23,3,3,Caminul Cultural,,Săcărâmb,45.9749,23.0335
+457,22,HUNEDOARA,SĂLAŞU DE SUS,81,1,21,3,2,9,1,8,75,3,18,3,2,13,2,9,Școala Primară Sălașu de Jos,Nr. 30,Sălașu de Jos,45.5333,22.9703
+456,22,HUNEDOARA,SĂLAŞU DE SUS,124,8,98,9,4,9,4,9,125,8,93,9,4,9,6,11,Căminul Cultural,Nr. 115,Sălașu de Sus,45.5106,22.9548
+524,22,HUNEDOARA,ZAM,87,5,37,0,2,6,4,39,88,7,50,1,2,9,4,15,Căminul Cultural Sălciva,Nr. 7,Sălciva,45.9945,22.4134
+510,22,HUNEDOARA,VĂLIŞOARA,68,1,61,2,0,2,2,5,68,1,58,1,0,1,2,8,Căminul Cultural Săliștioara,Nr. 49,Săliștioara,46.0029,22.8245
+481,22,HUNEDOARA,TELIUCU INFERIOR,221,13,235,13,1,40,30,57,221,13,221,13,3,35,53,73,Primăria Comunei Teliucu Inferior,Str. Minei nr. 2,Teliucu Inferior,45.715,22.8881
+484,22,HUNEDOARA,TELIUCU INFERIOR,64,5,50,3,0,1,4,9,62,4,50,3,0,2,5,10,Camin Cultural și Recreativ Plosca,,Teliucu Superior,45.705,22.8779
+332,22,HUNEDOARA,BURJUC,50,3,44,5,1,2,1,4,48,4,45,3,2,3,2,5,Camin Cultural Tisa,Nr. 123,Tisa,45.9512,22.47
+486,22,HUNEDOARA,TOMEŞTI,91,1,80,4,1,8,4,9,85,1,75,7,1,11,3,11,Căminul Cultural Tomești,Nr. 51,Tomești,46.2141,22.6648
+488,22,HUNEDOARA,TOPLIŢA,40,2,39,3,1,7,6,8,34,2,40,15,1,4,5,6,Caminul Cultural Toplita,,Toplița,45.6867,22.7852
+348,22,HUNEDOARA,CERTEJU DE SUS,8,3,25,0,0,2,1,8,8,2,27,0,0,2,1,7,Căminul Cultural,Nr. 30,Toplița Mureșului,45.9766,22.9186
+493,22,HUNEDOARA,TOTEŞTI,162,1,37,6,0,17,3,8,165,3,27,9,0,23,2,4,Camin Cultural Totesti,Nr. 14,Totești,45.5748,22.8858
+271,22,HUNEDOARA,BĂCIA,26,2,8,2,1,1,3,9,25,2,8,2,1,3,3,8,Școala Primară Totia nr. 3,,Totia,45.8122,23.0412
+497,22,HUNEDOARA,TURDAŞ,73,5,91,5,3,10,4,15,80,5,86,7,6,9,6,11,Căminul Cultural Turdaș,Nr. 44B,Turdaș,45.8519,23.1261
+366,22,HUNEDOARA,GENERAL BERTHELOT,40,6,47,6,1,8,6,10,41,9,44,5,1,7,6,9,Școala Primară Tustea,,Tuștea,45.5998,22.8442
+272,22,HUNEDOARA,BĂCIA,232,5,43,12,6,11,7,20,232,9,39,11,6,7,8,27,Școala Primară Tîmpa nr. 28,,Tâmpa,45.8228,23.0119
+300,22,HUNEDOARA,BRĂNIŞCA,32,1,7,1,0,3,4,9,31,2,6,2,0,4,4,7,Cămin Cultural Tîrnava,,Târnava,45.9672,22.781
+506,22,HUNEDOARA,VAŢA DE JOS,124,6,106,14,1,29,4,37,110,7,95,9,1,19,4,76,Școala Primară Tîrnava de Criș,Nr. 26,Târnava de Criș,46.1913,22.6146
+301,22,HUNEDOARA,BRĂNIŞCA,37,2,8,1,1,11,3,8,36,1,7,0,1,14,3,9,Cămin Cultural Tîrnăvița,,Târnăvița,45.9494,22.7702
+296,22,HUNEDOARA,BOŞOROD,48,0,53,0,0,9,0,3,47,1,54,1,0,9,0,3,Căminul Cultural Tirsa,Nr. 33,Târsa,45.6331,23.1569
+402,22,HUNEDOARA,MĂRTINEŞTI,31,0,7,7,1,5,3,5,30,1,6,7,1,7,3,5,Camin Cultural Tămășasa,Nr. 55,Tămășasa,45.7974,23.1555
+331,22,HUNEDOARA,BURJUC,53,2,18,6,0,1,0,7,52,2,19,5,0,3,0,6,Camin Cultural Tătărăști,Nr. 20,Tătărăști,45.9438,22.5098
+446,22,HUNEDOARA,RIBIŢA,23,1,7,0,1,3,2,8,23,1,6,0,1,3,2,8,Căminul Cultural Uibărești,Nr. 28,Uibărești,46.2085,22.7611
+440,22,HUNEDOARA,RÂU DE MORI,32,2,80,1,1,9,1,5,38,3,72,1,1,7,2,5,Școala Primară Unciuc,,Unciuc,45.5433,22.8796
+424,22,HUNEDOARA,PUI,73,1,53,4,0,10,7,8,73,2,52,4,0,10,8,11,Școala Primară Uric,Nr. 98,Uric,45.4662,23.0846
+248,22,HUNEDOARA,ORAŞ URICANI,433,27,116,13,5,25,23,58,439,26,122,13,5,20,26,49,Centrul Național de Informare și Promovare Turistică,Str. Muncii (Str. Ghiocelului) nr. 1,Uricani,45.332,23.126
+249,22,HUNEDOARA,ORAŞ URICANI,400,21,38,23,1,19,12,34,407,24,38,20,1,16,9,26,Școala Gimnazială „Bucura”,Str. Muncii (Str. Ghiocelului) (D) nr. 14,Uricani,45.3314,23.1262
+250,22,HUNEDOARA,ORAŞ URICANI,435,32,62,18,15,15,17,54,444,29,58,16,16,19,22,47,Liceul Tehnologic „Retezat”,Str. Republicii nr. 16,Uricani,45.3316,23.1196
+251,22,HUNEDOARA,ORAŞ URICANI,433,32,45,8,5,19,10,30,441,31,46,9,6,16,10,27,"Casa de Cultura, Uricani, Sala Parter",Str. Republicii nr. 1,Uricani,45.3303,23.1178
+246,22,HUNEDOARA,ORAŞ SIMERIA,95,11,54,9,2,6,1,17,99,13,51,10,3,7,4,9,Casa Satului Uroi,,Uroi,45.862,23.0341
+294,22,HUNEDOARA,BOŞOROD,6,0,20,0,0,4,0,4,6,0,22,0,0,3,0,3,Căminul Cultural Ursici,Nr. 33,Ursici,45.6039,23.0843
+449,22,HUNEDOARA,ROMOS,68,4,57,2,0,13,6,20,73,3,55,3,0,11,6,18,Școala Primară Vaidei,Nr. 27,Vaidei,45.867,23.2988
+57,22,HUNEDOARA,MUNICIPIUL BRAD,127,0,46,4,1,8,10,34,133,2,39,4,1,5,11,37,Școala Generală Valea Bradului,Nr. 68,Valea Bradului,46.1521,22.8285
+439,22,HUNEDOARA,RÂU DE MORI,36,2,60,4,0,2,12,18,40,2,59,5,0,2,10,15,Școala Primară Valea Dîljii,,Valea Dâljii,45.5119,22.8846
+383,22,HUNEDOARA,ILIA,31,1,34,0,0,2,0,7,34,0,31,4,0,1,0,4,Căminul Cultural din Valea Lungă,,Valea Lungă,45.9849,22.6838
+269,22,HUNEDOARA,BARU,25,1,96,0,9,3,2,8,25,1,98,0,9,2,2,7,Școala Primară Valea Lupului,,Valea Lupului,45.4723,23.1234
+415,22,HUNEDOARA,PESTIŞU MIC,31,1,62,1,1,1,1,5,29,1,60,1,1,2,3,7,Școala Primară Valea Nandrului,Nr. 20,Valea Nandrului,45.7973,22.8372
+518,22,HUNEDOARA,VORŢA,45,1,43,0,1,2,2,6,44,0,42,0,1,2,3,9,Școala Primară Valea Poienii,,Valea Poienii,46.0702,22.6343
+198,22,HUNEDOARA,ORAŞ CĂLAN,59,2,29,2,2,2,2,11,60,1,30,3,2,1,1,11,Căminul Cultural,,Valea Sângeorgiului,45.7446,23.0616
+500,22,HUNEDOARA,VAŢA DE JOS,216,2,86,13,5,9,5,34,225,2,58,12,5,10,4,52,Școala Gimnazială Vața de Jos,Nr. 22,Vața de Jos,46.1778,22.5962
+511,22,HUNEDOARA,VEŢEL,223,26,59,12,0,28,9,28,224,28,54,12,1,28,11,29,Căminul Cultural Vețel,Str. Mihai Eminescu nr. 19 B,Vețel,45.9029,22.8018
+517,22,HUNEDOARA,VORŢA,58,1,119,2,1,12,2,7,54,2,124,3,1,11,1,5,Caminul Cultural Visca,Nr. 63,Visca,46.0695,22.6669
+262,22,HUNEDOARA,BALŞA,18,1,30,0,0,2,1,6,20,1,24,0,0,4,1,8,"Voia, Căminul Cultural",,Voia,46.0364,23.045
+516,22,HUNEDOARA,VORŢA,33,3,57,1,1,3,2,8,32,3,60,1,1,3,1,9,Centrul de Informare Turistica Vorta,Nr. 103,Vorța,46.0195,22.6733
+166,22,HUNEDOARA,MUNICIPIUL VULCAN,272,22,48,10,9,34,10,26,276,22,50,5,9,37,11,27,Grădinița Pn+Pp nr. 1,Str. Nicolae Titulescu (Str. Republicii) nr. 22,Vulcan,45.3762,23.29
+167,22,HUNEDOARA,MUNICIPIUL VULCAN,292,6,48,13,14,24,6,28,292,4,51,12,12,25,7,25,Școală Gimnazială nr. 4,Str. Nicolae Titulescu (Str. Republicii) nr. 31,Vulcan,45.3769,23.2911
+168,22,HUNEDOARA,MUNICIPIUL VULCAN,294,5,40,12,12,15,6,20,294,6,39,10,11,19,8,17,Școala Gimnazială nr. 4,Str. Nicolae Titulescu (Str. Republicii) nr. 31,Vulcan,45.3769,23.2911
+169,22,HUNEDOARA,MUNICIPIUL VULCAN,305,4,63,8,12,36,8,33,298,5,67,6,12,40,9,31,Cantina de Ajutor Social,Str. Jiului (Str. V. I. Lenin) nr. 7,Vulcan,45.3784,23.2917
+170,22,HUNEDOARA,MUNICIPIUL VULCAN,263,14,41,9,10,23,20,42,258,16,38,8,10,30,19,39,Colegiul Tehnic Mihai Viteazu,Str. Nicolae Titulescu (Str. Republicii) nr. 43,Vulcan,45.377,23.2948
+171,22,HUNEDOARA,MUNICIPIUL VULCAN,267,10,41,9,10,36,14,24,266,11,47,10,8,29,15,25,Colegiul Tehnic Mihai Viteazu,Str. Nicolae Titulescu (Str. Republicii) nr. 43,Vulcan,45.377,23.2948
+172,22,HUNEDOARA,MUNICIPIUL VULCAN,346,14,47,13,19,21,13,38,342,12,51,11,20,29,15,33,Școala Gimnazială nr. 5,Str. Nicolae Titulescu (Str. Republicii) nr. 63,Vulcan,45.3767,23.2979
+173,22,HUNEDOARA,MUNICIPIUL VULCAN,419,10,54,10,19,27,14,43,423,13,53,9,17,28,11,36,Școala Gimnazială nr. 5,Str. Nicolae Titulescu (Str. Republicii) nr. 63,Vulcan,45.3767,23.2979
+174,22,HUNEDOARA,MUNICIPIUL VULCAN,333,12,60,9,12,30,16,35,327,10,70,6,16,30,16,32,Stadionul Central,Str. Coroești nr. 17,Vulcan,45.3765,23.306
+175,22,HUNEDOARA,MUNICIPIUL VULCAN,357,22,66,14,4,16,17,40,362,18,70,13,5,14,20,36,Sala de Sport,Str. Vasile Alecsandri nr. 3,Vulcan,45.3722,23.2907
+176,22,HUNEDOARA,MUNICIPIUL VULCAN,219,3,28,18,3,13,7,30,222,3,28,17,5,16,7,23,Școala Gimnazială nr. 6,Str. Traian (Aleea Viitorului) nr. 2A,Vulcan,45.3721,23.2958
+177,22,HUNEDOARA,MUNICIPIUL VULCAN,283,5,35,11,5,22,4,19,283,2,41,11,4,25,6,17,Școala Gimnazială nr. 6,Str. Traian (Aleea Viitorului) nr. 2A,Vulcan,45.3721,23.2958
+178,22,HUNEDOARA,MUNICIPIUL VULCAN,325,6,36,12,4,21,20,36,324,8,34,12,3,26,19,32,Școala Gimnazială nr. 6,Str. Traian (Aleea Viitorului) nr. 2A,Vulcan,45.3721,23.2958
+179,22,HUNEDOARA,MUNICIPIUL VULCAN,246,6,38,6,4,14,4,26,243,6,38,9,4,12,6,26,Grădinița cu Program Normal din Cadrul Școlii Gimnaziale nr. 6,Str. Traian (Aleea Viitorului) nr. 2A,Vulcan,45.3721,23.296
+180,22,HUNEDOARA,MUNICIPIUL VULCAN,286,8,36,7,14,20,13,34,280,6,42,7,13,24,11,31,Școala Gimnazială Teodora Lucaciu,Str. Nicolae Titulescu (Str. Republicii) nr. 12,Vulcan,45.3761,23.2845
+181,22,HUNEDOARA,MUNICIPIUL VULCAN,259,20,49,7,7,33,7,22,255,18,52,4,10,33,10,25,Școala Gimnazială Teodora Lucaciu,Str. Nicolae Titulescu (Str. Republicii) nr. 12,Vulcan,45.3761,23.2845
+182,22,HUNEDOARA,MUNICIPIUL VULCAN,203,12,35,14,8,25,6,17,198,13,37,9,7,29,10,26,Clubul Copiilor și Elevilor,Str. Decebal nr. 8,Vulcan,45.3758,23.2821
+183,22,HUNEDOARA,MUNICIPIUL VULCAN,169,6,18,13,4,13,13,24,179,5,18,9,4,17,13,19,Școala nr. 2,Str. Crividia nr. 64,Vulcan,45.3938,23.2727
+184,22,HUNEDOARA,MUNICIPIUL VULCAN,359,18,105,24,9,33,10,53,363,19,105,23,8,36,9,44,Școala Gimnazială nr. 3,Aleea Salcâmilor (Aleea Salcîmilor) (D) nr. 11,Vulcan,45.3593,23.2463
+313,22,HUNEDOARA,BRETEA ROMÂNĂ,142,1,10,1,1,6,2,4,144,1,9,1,1,7,2,4,Școală Primară Vîlcele,Nr. 21,Vâlcele,45.6701,23.0548
+312,22,HUNEDOARA,BRETEA ROMÂNĂ,82,2,76,6,1,4,2,13,89,2,68,6,2,4,4,12,Școală Primară,Nr. 130,Vâlcelele Bune,45.6581,23.0492
+492,22,HUNEDOARA,TOPLIŢA,3,0,11,1,2,8,2,6,4,0,11,1,2,10,1,3,Cămin Cultural Vălari,Nr. 16,Vălari,45.6835,22.7369
+213,22,HUNEDOARA,ORAŞ GEOAGIU,11,0,6,1,0,3,1,1,12,0,5,1,0,4,1,1,Școala Primară Văleni,Nr. 32,Văleni,45.9868,23.2179
+435,22,HUNEDOARA,RĂCHITOVA,61,4,62,2,1,1,2,9,70,5,50,4,1,3,3,7,Școala Primară Vălioara,Nr. 23,Vălioara,45.6158,22.792
+263,22,HUNEDOARA,BALŞA,3,0,14,0,0,1,0,1,3,0,12,0,1,2,0,1,"Vălișoara, Școala Generală",,Vălișoara,46.0587,22.9955
+508,22,HUNEDOARA,VĂLIŞOARA,186,11,85,2,2,3,8,19,191,13,83,5,1,4,7,14,Căminul Cultural Vălișoara,Nr. 193,Vălișoara,46.046,22.8326
+350,22,HUNEDOARA,CERTEJU DE SUS,61,3,38,6,0,5,3,9,63,2,38,6,0,5,3,6,Școala Primară Vărmaga,,Vărmaga,45.9418,23.0105
+520,22,HUNEDOARA,ZAM,167,0,107,11,3,15,8,38,175,9,107,12,3,15,9,25,Căminul Cultural Zam,Nr. 283,Zam,46.0035,22.4424
+351,22,HUNEDOARA,CRIŞCIOR,165,5,131,11,1,13,7,27,173,5,125,11,1,15,8,24,Caminul Cultural,Nr. 881,Zdrapți,46.1593,22.8675
+455,22,HUNEDOARA,SARMIZEGETUSA,54,1,21,0,0,1,5,6,55,1,19,1,0,1,5,6,Caminul Cultural Zeicani,Nr. 75,Zeicani,45.5025,22.7265
+464,22,HUNEDOARA,SĂLAŞU DE SUS,35,0,25,3,5,5,1,3,32,1,22,6,5,5,1,4,Cămin Cultural Zăvoi,Nr. 42,Zăvoi,45.5191,22.9805
+421,22,HUNEDOARA,PUI,59,1,91,10,2,2,3,8,59,1,88,10,2,3,5,10,Școala Primară Șerel,Nr. 20,Șerel,45.4838,23.051
+324,22,HUNEDOARA,BUCUREŞCI,71,0,140,1,0,11,0,6,66,0,142,0,0,15,0,4,Caminul Cultural,,Șesuri,46.1042,22.9236
+474,22,HUNEDOARA,ŞOIMUŞ,226,26,277,8,5,19,10,30,232,26,275,9,5,20,13,29,"Cămin Cultural, Sat Șoimuș nr. 310",,Șoimuș,45.915,22.8808
+357,22,HUNEDOARA,DENSUŞ,112,1,10,0,0,2,1,4,112,2,9,0,0,1,1,4,Caminul Cultural Stei,Nr. 24,Ștei,45.5787,22.7412
+258,22,HUNEDOARA,BAIA DE CRIŞ,185,9,64,11,3,5,4,23,189,8,47,15,5,13,1,17,Școala Primară Tebea,Nr. 219,Țebea,46.1666,22.732
+58,22,HUNEDOARA,MUNICIPIUL BRAD,98,4,63,12,7,11,6,15,99,4,61,11,7,12,8,16,Căminul Cultural Țărățel,Nr. 283,Țărățel,46.1226,22.8323

@@ -1,0 +1,380 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+236,30,OLT,IZVOARELE,487,3,84,5,1,8,4,17,487,3,88,4,2,8,4,20,Școala Generală cu Clasele I-VIII Alimanesti,Str. Biserica Sf. Nicolae nr. 84,Alimănești,44.258,24.5361
+307,30,OLT,SPINENI,160,0,7,8,0,4,12,15,156,0,8,8,0,3,12,15,Școala Generală Alunisu,Str. Principală Alunișu nr. 85,Alunișu,44.7419,24.5328
+253,30,OLT,MOVILENI,490,4,43,4,0,14,5,10,489,4,46,6,1,15,4,9,Școala Bacea,Str. Principală nr. 58,Bacea,44.3978,24.6404
+122,30,OLT,BALDOVINEŞTI,239,4,83,11,1,9,2,7,238,4,81,12,1,10,2,10,Școala Generală cu Clasele I-VIII Baldovinești,Str. Plopului nr. 65,Baldovinești,44.3868,24.0504
+66,30,OLT,ORAŞ BALŞ,272,3,50,29,0,7,3,13,265,5,53,26,0,10,3,15,Școala Gimnazială nr. 3 Romana,Str. Crinilor nr. 1,Balș,44.3876,24.1067
+67,30,OLT,ORAŞ BALŞ,266,16,86,14,0,16,2,15,265,16,90,14,0,16,4,14,Școala Gimnazială nr. 2 Virtina,Str. Tudor Vladimirescu nr. 140,Balș,44.3671,24.0794
+68,30,OLT,ORAŞ BALŞ,263,16,56,35,0,17,10,18,262,17,56,31,0,18,9,18,Școala Gimnazială nr. 1 Bals,Str. Cireșului nr. 26,Balș,44.3535,24.0993
+69,30,OLT,ORAŞ BALŞ,379,16,93,48,0,26,9,30,369,20,103,40,1,25,12,32,Școala Gimnazială Specială,Str. Plopului nr. 16,Balș,44.3532,24.0959
+70,30,OLT,ORAŞ BALŞ,328,43,90,54,1,32,19,43,342,44,93,44,1,29,20,43,Liceul Teoretic Petre Pandrea,Str. Nicolae Bălcescu nr. 25,Balș,44.3501,24.1055
+71,30,OLT,ORAŞ BALŞ,350,25,72,32,0,21,7,21,340,22,88,25,0,21,9,22,Liceul Teoretic Petre Pandrea,Str. Nicolae Bălcescu nr. 25,Balș,44.3501,24.1055
+72,30,OLT,ORAŞ BALŞ,313,20,99,40,0,34,6,20,321,18,111,31,0,33,6,19,Școala Gimnazială „Mihail Drumes”,Str. Nicolae Bălcescu nr. 51,Balș,44.3492,24.108
+73,30,OLT,ORAŞ BALŞ,297,32,131,36,3,24,8,22,298,34,124,35,2,30,10,21,Școala Gimnazială „Mihail Drumes”,Str. Nicolae Bălcescu nr. 51,Balș,44.3492,24.108
+74,30,OLT,ORAŞ BALŞ,194,14,45,10,0,17,1,11,186,14,50,10,0,14,1,14,Grădinița cu Program Normal nr. 1,Str. Nicolae Bălcescu nr. 181,Balș,44.3465,24.1233
+75,30,OLT,ORAŞ BALŞ,283,27,95,19,0,23,8,19,268,30,94,20,0,29,10,22,Grădinița cu Program Normal nr. 1,Str. Nicolae Bălcescu nr. 181,Balș,44.3465,24.1233
+76,30,OLT,ORAŞ BALŞ,355,13,77,21,0,16,13,26,343,15,84,19,0,20,15,27,Colegiul Tehnic,Str. Nicolae Bălcescu nr. 213,Balș,44.3439,24.1273
+77,30,OLT,ORAŞ BALŞ,227,17,84,26,0,21,4,13,228,18,86,25,0,16,6,13,Colegiul Tehnic,Str. Nicolae Bălcescu nr. 213,Balș,44.3439,24.1273
+78,30,OLT,ORAŞ BALŞ,188,16,34,14,0,27,6,11,198,15,36,12,0,24,5,10,Școala Gimnazială Teis,Str. Teiș nr. 163,Balș,44.339,24.1367
+134,30,OLT,BOBICEŞTI,85,0,7,6,0,94,0,9,83,1,5,7,0,99,1,9,Școala Generală Bechet,Str. Bechet nr. 47,Bechet,44.3949,24.1744
+174,30,OLT,DĂNEASA,217,2,33,4,1,2,4,6,217,0,37,4,0,2,4,6,Școala Berindei,Str. Oltului nr. 46,Berindei,44.1088,24.5624
+115,30,OLT,ORAŞ SCORNICEŞTI,216,7,333,10,3,311,6,12,227,8,323,10,3,296,9,18,Școala Generla Bircii,Str. Bircii nr. 110,Bircii,44.5173,24.5998
+102,30,OLT,ORAŞ PIATRA-OLT,228,1,50,2,1,18,1,5,224,2,49,2,1,18,1,5,Școala Generală cu Clasele I-IV,Str. Pădurea Sarului nr. 15,Bistrița Nouă,44.399,24.2269
+133,30,OLT,BOBICEŞTI,232,6,35,18,0,11,2,5,230,5,35,17,0,12,3,6,Caminul Cultural Bobicesti,Str. Bobicești nr. 52,Bobicești,44.3948,24.1402
+149,30,OLT,CEZIENI,86,1,29,2,0,3,1,2,87,0,27,2,0,3,1,2,Camin Cultural,Str. Elias nr. 37,Bondrea,44.1928,24.2294
+132,30,OLT,BÎRZA,301,2,35,8,0,144,8,17,296,3,34,9,0,147,7,20,Școala Gimnazială Braneț,Str. Canton nr. 5,Braneț,44.3293,24.179
+137,30,OLT,BRASTAVĂŢU,412,21,79,21,0,14,4,13,406,23,75,23,1,13,5,17,Școala Generală cu Clasele I-VIII Brastavățu,Str. Mihai  Viteazul nr. 1,Brastavățu,43.9074,24.4083
+138,30,OLT,BRASTAVĂŢU,383,10,78,21,0,23,8,28,376,14,75,28,1,23,10,21,Școala Generală cu Clasele I-VIII Brastavățu,Str. Mihai  Viteazul nr. 1,Brastavățu,43.9074,24.4083
+140,30,OLT,BREBENI,218,11,57,14,0,33,3,9,216,11,52,12,1,39,3,11,Școala cu Clasele I-IV Brebeni,Str. Principală nr. 439,Brebeni,44.3757,24.4493
+141,30,OLT,BREBENI,391,14,43,13,0,86,10,25,387,15,46,11,0,85,7,22,Școala Gimnazială Brebeni,Str. Principală nr. 228A,Brebeni,44.3603,24.4458
+205,30,OLT,GĂVĂNEŞTI,199,0,7,2,0,2,0,6,195,1,9,2,0,2,1,6,Școala cu Clasele I-IV Brosteni,Str. Crizantemelor nr. 4A,Broșteni,44.4331,24.0005
+142,30,OLT,BRÎNCOVENI,378,7,74,6,0,44,3,9,381,6,69,7,2,43,6,10,Grădinița cu Program Normal Brîncoveni,Str. Constantin Brîncoveanu nr. 59,Brâncoveni,44.3126,24.3081
+145,30,OLT,BUCINIŞU,489,7,177,22,0,33,3,11,494,7,172,22,0,32,3,17,Școala Generală Bucinișu,Nr. 1,Bucinișu,43.9474,24.2493
+363,30,OLT,VITOMIREŞTI,105,3,14,1,0,1,1,5,100,4,14,1,0,3,1,6,Școala cu Clasele I-IV Bulimanu,Str. Libertății nr. 22,Bulimanu,44.887,24.4139
+166,30,OLT,CRÎMPOIA,129,3,168,1,0,13,0,9,104,4,191,0,0,12,1,7,Școala cu Clasele I-IV Buta,Str. Principală nr. 63,Buta,44.3087,24.7082
+160,30,OLT,CORBU,258,8,21,11,0,9,5,11,256,6,24,11,0,8,6,13,Școala Gimnazială Buzești,Str. Principală nr. 121,Buzești,44.4428,24.7208
+245,30,OLT,MIHĂEŞTI,123,3,168,3,0,9,2,9,119,3,182,3,0,6,4,6,Școala Busca,Str. Principală nr. 29 A,Bușca,44.1074,24.8037
+348,30,OLT,VALEA MARE,220,2,43,5,0,30,2,6,211,5,40,4,0,38,4,9,Caminul Cultural,Nr. 191,Bârca,44.4609,24.4496
+311,30,OLT,SPRÎNCENATA,124,0,17,9,1,9,2,3,123,1,17,10,1,8,2,4,Gpn Birsestii de Sus,Str. Ghiocelului nr. 5,Bârseștii de Sus,44.038,24.6557
+131,30,OLT,BÎRZA,316,2,49,15,0,16,10,13,311,3,48,14,0,17,11,18,Școala Gimnazială Bîrza,Str. Teilor nr. 83,Bârza,44.3293,24.1396
+125,30,OLT,BĂBICIU,418,16,34,10,0,6,6,12,418,17,32,10,0,8,6,12,Căminul Cultural Băbiciu,Str. Caracal nr. 95,Băbiciu,44.0335,24.5621
+126,30,OLT,BĂBICIU,542,16,35,16,0,16,3,12,549,15,35,15,0,13,6,16,Căminul Cultural Băbiciu,Str. Caracal nr. 95,Băbiciu,44.0335,24.5621
+204,30,OLT,GĂVĂNEŞTI,416,5,21,8,0,6,0,4,421,5,21,9,0,5,0,3,Școala cu Clasele I-VIII Baleasa,Str. Primăverii nr. 46,Băleasa,44.3989,24.0158
+127,30,OLT,BĂLTENI,540,14,75,17,2,32,2,15,544,16,76,18,1,31,2,12,Școala Gimnazială „Ion I.Graure” Bălteni,Str. Gării nr. 37,Bălteni,44.4487,24.5306
+242,30,OLT,MĂRUNŢEI,355,7,15,8,0,5,2,14,351,6,16,8,0,6,6,15,Școala cu Clasele I-VIII Bălănești,Str. Seculești nr. 80,Bălănești,44.2502,24.4816
+329,30,OLT,TĂTULEŞTI,113,1,8,28,0,8,8,9,114,1,7,27,0,7,9,11,Școala Bărbălai,Str. Principală nr. 29,Bărbălăi,44.6557,24.6014
+368,30,OLT,VÎLCELE,281,10,43,10,0,18,4,13,279,11,45,13,1,21,2,7,Școala Generală,Str. Bărcăneștilor nr. 47,Bărcănești,44.3004,24.5463
+250,30,OLT,MORUNGLAV,117,9,17,10,0,3,0,3,117,7,19,8,0,4,0,2,Școala Generală Barasti,Str. Dealului nr. 80,Bărăști,44.4487,24.1393
+129,30,OLT,BĂRĂŞTI,224,2,36,10,0,4,5,11,229,3,33,12,0,5,4,8,Școala Generală Clasele I-IV,Str. Principală Bărăștii de Cepturi nr. 111,Bărăștii de Cepturi,44.7065,24.6308
+128,30,OLT,BĂRĂŞTI,416,3,51,27,1,8,8,17,416,3,56,25,1,10,7,14,Școala Generală Clasele I-VIII,Str. Principală Bărăștii de Vede nr. 35,Bărăștii de Vede,44.7081,24.6607
+156,30,OLT,COLONEŞTI,171,2,5,0,0,1,2,4,167,2,7,1,0,1,1,4,Grădinița cu Program Normal Batareni,Nr. 53,Bătăreni,44.6101,24.6823
+49,30,OLT,MUNICIPIUL CARACAL,558,20,74,29,1,30,20,50,559,20,72,32,2,29,22,50,Colegiul Național Ioniță Asan,Bulevardul Nicolae Titulescu (Str. Ioniță Asan) nr. 39,Caracal,44.1174,24.3536
+50,30,OLT,MUNICIPIUL CARACAL,458,18,85,43,1,35,19,39,456,21,87,39,2,36,16,33,Grădinița cu Program Prelungit nr. 1,Bulevardul Nicolae Titulescu (Str. Ioniță Asan) nr. 2,Caracal,44.1156,24.3503
+51,30,OLT,MUNICIPIUL CARACAL,420,40,82,42,1,31,20,43,422,37,84,40,2,29,24,43,Grădinița cu Program Normal nr. 4,Bulevardul Nicolae Titulescu (Str. Ioniță Asan) nr. 46,Caracal,44.1173,24.3558
+52,30,OLT,MUNICIPIUL CARACAL,400,37,100,31,0,46,34,69,397,37,100,32,2,51,34,62,Liceul Tehnologic Constantin Filipescu,Str. Vasile Alecsandri nr. 11,Caracal,44.1159,24.3577
+53,30,OLT,MUNICIPIUL CARACAL,349,61,77,28,0,44,30,53,356,60,75,28,2,42,29,48,Liceul Mihai Viteazul,Str. Bicaz nr. 1B,Caracal,44.1151,24.3457
+54,30,OLT,MUNICIPIUL CARACAL,370,27,92,21,0,32,18,30,371,27,91,19,0,35,20,29,Colegiul Tehnic Matei Basarab,Aleea 1 Decembrie 1918 (Aleea Olt) nr. 9,Caracal,44.1074,24.3655
+55,30,OLT,MUNICIPIUL CARACAL,398,38,77,31,1,47,16,33,401,37,78,28,1,51,19,30,Grădinița cu Program Prelungit nr. 3,"Aleea Creșei (Str. Horia,Cloșca și Crișan) nr. 6",Caracal,44.1093,24.3562
+56,30,OLT,MUNICIPIUL CARACAL,412,43,87,26,0,32,25,45,413,44,89,27,1,24,26,45,Școala Gimnazială Nicolae Titulescu,Str. General Magheru (Str. G-ral Gheorghe Magheru) nr. 13,Caracal,44.1094,24.3537
+57,30,OLT,MUNICIPIUL CARACAL,381,45,89,35,0,31,18,37,379,43,95,33,0,27,20,44,Școala Gimnazială Nicolae Titulescu,Str. General Magheru (Str. G-ral Gheorghe Magheru) nr. 13,Caracal,44.1094,24.3537
+58,30,OLT,MUNICIPIUL CARACAL,431,63,98,62,2,37,28,54,435,58,97,60,1,38,27,55,Școala Gimnazială nr. 2,Str. Ion Heliade Rădulescu nr. 2,Caracal,44.1105,24.3504
+59,30,OLT,MUNICIPIUL CARACAL,467,34,111,27,0,37,19,44,471,30,110,34,0,34,22,42,Biblioteca Municipală Caracal,Str. Iancu Jianu (Str. Libertății) nr. 18A,Caracal,44.1106,24.3492
+60,30,OLT,MUNICIPIUL CARACAL,418,38,72,25,1,28,36,56,423,39,70,25,2,30,32,55,Biblioteca Municipală Caracal,Str. Iancu Jianu (Str. Libertății) nr. 18A,Caracal,44.1106,24.3492
+61,30,OLT,MUNICIPIUL CARACAL,352,58,99,30,0,43,27,55,356,56,95,33,0,42,27,51,Centrul Cultural Municipal Caracal,Str. Cuza Vodă nr. 8,Caracal,44.1135,24.3457
+62,30,OLT,MUNICIPIUL CARACAL,516,22,103,16,0,44,20,53,519,20,105,19,0,44,22,50,Școala Gimnazială Gheorghe Magheru,Str. Radu Calomfirescu nr. 7,Caracal,44.109,24.342
+63,30,OLT,MUNICIPIUL CARACAL,443,40,79,40,1,40,13,34,436,41,75,37,1,46,13,33,Școala Gimnazială nr. 4,Str. Gheorghe Doja nr. 62,Caracal,44.1092,24.3342
+64,30,OLT,MUNICIPIUL CARACAL,570,21,68,25,3,44,10,39,575,24,73,20,1,44,12,36,Școala Gimnazială nr. 3,Str. Gheorghe Doja nr. 91,Caracal,44.1072,24.3288
+65,30,OLT,MUNICIPIUL CARACAL,494,35,90,24,0,35,18,48,491,34,90,23,0,39,22,47,Școala Gimnazială nr. 1,Str. Mihai Viteazul (Str. Mihai Viteazu) (D) nr. 2,Caracal,44.1145,24.3442
+154,30,OLT,CÎRLOGANI,249,1,16,4,1,102,3,11,253,2,17,2,2,96,3,14,Școala Gimnazială Cepari,Str. Cepari nr. 242,Cepari,44.501,24.1627
+168,30,OLT,CUNGREA,201,6,172,5,1,31,6,10,202,6,174,6,0,30,3,6,Școala Gimnazială Cepești,Str. Principală nr. 99,Cepești,44.7116,24.3839
+148,30,OLT,CEZIENI,438,8,73,5,0,12,8,16,433,11,75,3,0,13,6,11,Școala Gimanziala Nicolae Marineanu,Str. Dumitru Cezianu nr. 73,Cezieni,44.1863,24.2686
+331,30,OLT,TESLUI,559,22,107,15,2,56,9,24,555,21,104,17,1,57,10,25,Școala Generală,Str. Principală nr. 30,Cherleștii din Deal,44.5184,24.3352
+192,30,OLT,FĂGEŢELU,119,5,28,4,0,29,2,2,124,3,24,3,0,26,4,7,Școala cu Clasele I-VIII Chilia,Str. Chilia nr. 8,Chilia,44.7817,24.5511
+135,30,OLT,BOBICEŞTI,92,1,7,2,1,6,2,4,90,0,6,2,0,7,2,6,Școala Generală Chintesti,Str. Chintești nr. 76,Chintești,44.4061,24.1135
+121,30,OLT,ORAŞ SCORNICEŞTI,150,2,131,8,0,34,4,8,158,2,124,8,0,32,3,10,Școala Generală Chițeasca,Str. Chițeasca nr. 116,Chițeasca,44.5353,24.5927
+151,30,OLT,CILIENI,291,22,90,15,1,15,10,24,297,19,85,18,1,14,7,18,Liceul Tehnologic Ion Popescu Cilieni,Str. General Marcel Olteanu nr. 91,Cilieni,43.9027,24.6178
+152,30,OLT,CILIENI,363,47,69,15,2,29,3,12,359,46,72,14,1,29,4,14,Liceul Tehnologic Ion Popescu Cilieni,Str. General Marcel Olteanu nr. 91,Cilieni,43.9027,24.6178
+175,30,OLT,DĂNEASA,184,3,23,2,0,4,1,4,182,3,23,1,0,3,2,3,Grădinița Cioflanu,Str. Oltului nr. 84,Cioflanu,44.0939,24.5612
+195,30,OLT,FĂLCOIU,319,5,47,32,1,7,2,9,323,4,45,31,0,8,4,9,Școala cu Clasele I-VIII Cioroiu,Str. Școlii nr. 8,Cioroiașu,44.2387,24.3663
+338,30,OLT,TOPANA,62,0,8,2,0,8,0,3,61,0,5,4,0,11,0,1,Școala Gojgarei,Str. Gojgărei nr. 52,Cojgărei,44.8308,24.5345
+318,30,OLT,STREJEŞTI,110,3,114,2,0,5,1,7,113,2,110,4,0,5,2,9,Camin C Ultural,Str. Victoriei nr. 55,Colibași,44.5064,24.2736
+155,30,OLT,COLONEŞTI,365,15,34,10,0,11,4,11,368,18,32,7,0,9,4,14,Caminul Cultural Ilie Martin,Str. Principală nr. 13,Colonești,44.6293,24.6724
+179,30,OLT,DEVESELU,405,7,30,8,0,12,9,17,400,8,33,8,0,13,6,14,Căminul Cultural,Str. Nichita Stănescu nr. 150,Comanca,44.0786,24.3513
+98,30,OLT,ORAŞ DRĂGĂNEŞTI-OLT,343,12,47,14,0,7,9,18,338,11,48,13,0,8,10,19,Școala Gimnazială Comani,Str. Vadul Cumanilor nr. 102,Comani,44.1857,24.4834
+99,30,OLT,ORAŞ DRĂGĂNEŞTI-OLT,367,8,66,5,0,4,8,13,371,10,63,5,0,2,6,13,Școala Gimnazială Comani,Str. Vadul Cumanilor nr. 102,Comani,44.1857,24.4834
+332,30,OLT,TESLUI,423,4,40,4,0,18,5,14,407,4,45,9,0,22,7,11,Școala Generală Comănița,Str. Școlii nr. 1,Comănița,44.5618,24.3466
+117,30,OLT,ORAŞ SCORNICEŞTI,196,1,173,6,0,8,2,6,208,1,162,11,0,10,2,4,Grădinița Constantinesti,Str. Constantinești nr. 160,Constantinești,44.5946,24.5002
+79,30,OLT,ORAŞ CORABIA,366,30,47,18,2,37,10,30,359,25,51,25,2,40,13,28,Școala Gimnazială nr. 1,Bulevardul Nicolae Titulescu (Bulevardul V. I. Lenin) nr. 68A,Corabia,43.7822,24.5085
+80,30,OLT,ORAŞ CORABIA,434,27,63,24,3,19,14,33,434,29,63,27,3,20,16,30,Școala Gimnazială Dumitru Buzdun,Str. Dumitru Buzdun nr. 1,Corabia,43.774,24.513
+81,30,OLT,ORAŞ CORABIA,239,26,40,23,0,22,9,23,236,29,43,27,0,21,11,21,Școala Gimnazialăvirgil Mazilescu,Str. Cuza Vodă nr. 71,Corabia,43.7757,24.5035
+82,30,OLT,ORAŞ CORABIA,248,29,51,30,0,37,9,23,246,24,52,31,1,39,14,27,Școala Gimnazială Virgil Mazilescu,Str. Cuza Vodă nr. 71,Corabia,43.7757,24.5035
+83,30,OLT,ORAŞ CORABIA,203,40,54,21,0,31,10,25,202,36,57,27,1,31,9,23,Școala Gimnazială Virgil Mazilescu,Str. Tudor Vladimirescu nr. 63,Corabia,43.7765,24.5031
+84,30,OLT,ORAŞ CORABIA,203,18,44,8,1,24,9,16,205,21,41,14,2,17,8,12,Colegiul Naționalal I.Cuza,Bulevardul 1 Mai nr. 5,Corabia,43.7757,24.501
+85,30,OLT,ORAŞ CORABIA,320,38,64,29,0,37,16,31,324,35,63,30,0,35,15,30,Colegiul Naționalal I.Cuza,Bulevardul 1 Mai nr. 5,Corabia,43.7757,24.501
+86,30,OLT,ORAŞ CORABIA,265,12,44,12,0,24,4,20,275,12,39,16,0,14,6,19,Școala Gimnazială Mihail Eminescu,Str. Ștefan cel Mare nr. 49,Corabia,43.7841,24.4994
+87,30,OLT,ORAŞ CORABIA,237,19,43,25,1,27,11,27,238,17,36,24,1,29,10,23,Școala Gimnazialămihail Eminescu,Str. Ștefan cel Mare nr. 49,Corabia,43.7841,24.4994
+88,30,OLT,ORAŞ CORABIA,353,23,63,22,1,33,11,29,353,22,71,23,0,28,11,26,Școala Corabia Veche,Bulevardul Carpați nr. 2,Corabia,43.7718,24.4886
+89,30,OLT,ORAŞ CORABIA,576,16,73,23,0,11,10,31,574,17,73,30,0,5,11,32,Școala Gimnazială Celeiu,Str. Libertății nr. 22,Corabia,43.7653,24.4563
+92,30,OLT,ORAŞ CORABIA,123,8,30,12,0,18,3,5,122,7,30,13,0,15,3,4,Școala Cartier Siliștioara,Str. Plopilor nr. 2,Corabia,43.7741,24.5499
+159,30,OLT,CORBU,306,4,60,9,0,14,5,13,300,6,60,9,0,16,5,12,Școala Gimnazială Corbu,Str. Principală nr. 223,Corbu,44.4918,24.712
+150,30,OLT,CEZIENI,128,0,23,2,0,6,1,7,126,1,23,2,0,6,1,8,Centrul Social,Str. Radu cel Mare nr. 54,Corlătești,44.1856,24.2466
+279,30,OLT,POBORU,328,2,67,20,1,7,7,11,320,3,69,18,1,7,9,18,Școala Gimnazială,Str. Cornățelu nr. 70,Cornățelu,44.6892,24.4584
+162,30,OLT,COTEANA,382,4,220,2,0,15,3,6,379,4,217,2,0,15,4,10,Școala Gimnazială Coteana,Str. Ion Conea nr. 2,Coteana,44.3003,24.4645
+163,30,OLT,COTEANA,492,6,215,8,0,10,4,12,480,6,226,8,0,9,3,13,Școala Gimnazială Coteana,Str. Ion Conea nr. 2,Coteana,44.3003,24.4645
+259,30,OLT,OBÎRŞIA,91,1,14,5,0,10,0,0,86,1,13,5,0,13,1,2,Școala cu Clasele I-IV Coteni,Str. Libertății nr. 28,Coteni,43.8792,24.3389
+103,30,OLT,ORAŞ PIATRA-OLT,375,8,296,5,2,10,4,13,385,7,290,7,2,11,4,10,Grădinița cu Program Normal,Șoseaua Argeșanu nr. 6,Criva de Sus,44.3732,24.3156
+139,30,OLT,BRASTAVĂŢU,317,18,32,17,0,12,8,21,319,18,33,16,0,11,6,19,Școala Generală Crușovu,Str. Înv. Alexandru Predețeanu nr. 22,Crușovu,43.9241,24.4117
+164,30,OLT,CRÎMPOIA,269,6,317,0,1,8,1,9,231,5,349,3,0,11,1,6,Liceul Tehnologic Crîmpoia,Str. Principală nr. 111,Crâmpoia,44.3016,24.7443
+165,30,OLT,CRÎMPOIA,217,1,335,7,0,17,0,10,182,1,383,7,0,12,0,4,Liceul Tehnologic Crîmpoia,Str. Principală nr. 111,Crâmpoia,44.3016,24.7443
+283,30,OLT,RADOMIREŞTI,162,0,34,10,0,6,2,9,159,0,34,10,0,5,3,9,Școală Veche,Str. Libertății nr. 68,Crăciunei,44.1452,24.6617
+167,30,OLT,CUNGREA,146,4,216,3,0,17,5,11,157,4,209,4,0,14,6,14,Primărie,Str. Primăriei nr. 8,Cungrea,44.6632,24.3827
+170,30,OLT,CURTIŞOARA,495,2,53,16,0,42,6,12,487,3,55,15,1,43,6,10,Școala cu Clasele I-VIII Curtișoara,Str. Eroilor nr. 19,Curtișoara,44.4941,24.3304
+181,30,OLT,DOBREŢU,200,2,77,8,1,6,0,2,201,2,76,9,1,6,1,3,Căminul Cultural Curtișoara,Str. Principală nr. 3,Curtișoara,44.5033,23.9469
+257,30,OLT,OBÎRŞIA,130,3,11,9,0,6,1,3,127,3,12,8,0,4,2,7,Școala cu Clasele I-IV Cîmpu Părului,Str. Unirii nr. 20,Câmpu Părului,43.9002,24.2897
+337,30,OLT,TOPANA,49,0,3,3,0,2,1,2,49,3,2,3,0,2,1,1,Școala Candelesti,Str. Căndelești nr. 50,Cândelești,44.8474,24.5261
+153,30,OLT,CÎRLOGANI,490,4,24,9,2,73,11,23,481,6,21,14,1,73,14,20,Școala Gimnazială Cîrlogani,Str. Centrală nr. 111,Cârlogani,44.5234,24.1483
+284,30,OLT,RADOMIREŞTI,310,2,4,8,0,4,6,11,306,2,5,6,0,4,6,12,Școală Veche,Str. Școlii nr. 1,Călinești,44.0775,24.6862
+146,30,OLT,CĂLUI,283,4,49,12,1,37,6,17,287,7,49,15,1,27,5,13,Școala Gimnazială Calui,Str. Monumentul Eroilor nr. 2,Călui,44.4526,24.0624
+357,30,OLT,VERGULEASA,237,1,34,13,0,76,3,10,272,1,34,14,0,36,4,13,Școala cu Clasele I-IV Cazanesti,Str. Plopilor nr. 6,Căzănești,44.6178,24.3475
+364,30,OLT,VITOMIREŞTI,304,0,30,2,0,8,10,14,308,2,32,1,0,7,10,13,Grădinița cu Program Normal Dejesti,Str. Libertății nr. 55,Dejești,44.8301,24.3551
+178,30,OLT,DEVESELU,593,21,52,27,0,32,1,21,591,22,52,31,0,29,5,23,Căminul Cultural,Str. Maria Coloni nr. 61,Deveselu,44.0559,24.3826
+180,30,OLT,DEVESELU,63,9,13,4,0,2,3,5,62,8,15,4,0,1,4,6,Asociația Locatari nr. 5,Str. Aviatorilor nr. FN,Deveselu,44.0691,24.3794
+379,30,OLT,VULTUREŞTI,265,9,44,26,0,33,7,12,264,8,47,27,0,34,7,14,Fost Sediu Cap Dienci,Str. Principală nr. 80,Dienci,44.7459,24.3606
+335,30,OLT,TIA MARE,429,12,46,18,3,14,4,15,424,14,44,27,4,12,7,14,Școala Gimnazială,Str. Mihai Viteazul nr. 45,Doanca,43.8481,24.6475
+277,30,OLT,PLEŞOIU,317,17,191,16,1,28,2,11,317,17,190,16,1,28,1,8,Școala Gimnazială Doba,Str. Școlii nr. 8,Doba,44.4854,24.2416
+227,30,OLT,IANCU JIANU,131,1,186,11,1,7,1,13,137,1,177,12,0,7,3,12,Școala Gimnazială Dobriceni,Str. Sabin Bălașa nr. 71,Dobriceni,44.5274,24.0087
+183,30,OLT,DOBROSLOVENI,298,25,38,15,1,69,12,15,294,21,48,13,1,73,14,19,Școala Gimnazială Dobrosloveni,Str. Mihai Viteazul nr. 12,Dobrosloveni,44.1751,24.3563
+187,30,OLT,DOBROTEASA,519,7,33,10,1,99,8,14,513,9,29,11,1,99,8,19,Caminul Cultural,Str. Principală nr. 97,Dobroteasa,44.7747,24.3241
+171,30,OLT,CURTIŞOARA,603,11,69,14,0,21,5,14,595,12,69,14,0,20,6,12,Școala cu Clasele I-VIII Dobrotinet,Str. Unirii nr. 4,Dobrotinet,44.4845,24.346
+188,30,OLT,DOBRUN,357,4,10,20,0,12,1,5,359,3,10,21,0,13,1,3,Școala Dobrun,Str. Principală nr. 131,Dobrun,44.2595,24.2205
+365,30,OLT,VITOMIREŞTI,68,0,22,2,0,5,4,6,69,0,23,2,0,5,3,5,Școala cu Clasele I-IV Donesti,Str. Libertății nr. 28,Donești,44.8063,24.3333
+201,30,OLT,GĂNEASA,460,10,34,36,1,5,5,18,456,12,33,36,0,5,4,14,Școala Gimnazială Dranovățu,Str. Principală nr. 176,Dranovățu,44.44,24.2748
+190,30,OLT,DRĂGHICENI,536,2,111,19,0,75,5,13,534,2,108,21,0,72,7,14,Școala Generală cu Clasele I-VIII Drăghiceni,Str. Principală nr. 147,Drăghiceni,44.1256,24.2567
+93,30,OLT,ORAŞ DRĂGĂNEŞTI-OLT,391,13,79,31,0,11,10,29,386,14,80,30,0,13,12,28,Liceul T.Vladimirescu Drăgănești-Olt,Str. Nicolae Titulescu (Calea Progresului) nr. 129,Drăgănești-Olt,44.1697,24.5236
+94,30,OLT,ORAŞ DRĂGĂNEŞTI-OLT,359,41,95,21,0,29,15,34,353,44,102,18,0,31,15,29,Liceul T.Vladimirescu Drăgănești-Olt,Str. Nicolae Titulescu (Calea Progresului) nr. 129,Drăgănești-Olt,44.1697,24.5236
+95,30,OLT,ORAŞ DRĂGĂNEŞTI-OLT,260,11,56,5,0,10,8,20,264,14,52,6,0,12,10,19,Liceul Tehnologic Drăgănești-Olt,Str. Nicolae Titulescu (Calea Progresului) nr. 308,Drăgănești-Olt,44.1609,24.5338
+96,30,OLT,ORAŞ DRĂGĂNEŞTI-OLT,167,8,31,14,0,7,4,10,168,7,36,12,0,5,5,12,Liceul Tehnologic Drăgănești-Olt,Str. Nicolae Titulescu (Calea Progresului) nr. 308,Drăgănești-Olt,44.1609,24.5338
+97,30,OLT,ORAŞ DRĂGĂNEŞTI-OLT,496,16,75,13,0,11,8,27,502,18,82,14,0,12,9,21,Compania de Apă Olt Slatina,Str. Nicolae Titulescu (Calea Progresului) nr. 58A,Drăgănești-Olt,44.1706,24.5152
+358,30,OLT,VERGULEASA,197,3,17,4,0,18,5,73,206,2,20,6,0,7,6,70,Școala Generală I-IV,Str. Principală nr. 46,Dumitrești,44.6828,24.3148
+173,30,OLT,DĂNEASA,451,14,44,11,0,9,5,18,433,10,73,11,0,8,6,11,Caminul Cultural Daneasa,Str. Mihai Viteazul nr. 159,Dăneasa,44.1374,24.5649
+104,30,OLT,ORAŞ PIATRA-OLT,140,1,37,1,0,9,0,3,139,1,38,1,0,9,0,3,Grădinița cu Program Normal,Str. Nițulești nr. 49,Enoșești,44.3752,24.2852
+229,30,OLT,ICOANA,178,0,25,0,0,3,2,5,184,1,24,0,0,2,1,1,Caminul Cultural Floru,Str. Principală nr. 68,Floru,44.3759,24.7494
+312,30,OLT,SPRÎNCENATA,138,5,31,11,0,26,6,10,138,4,40,8,0,23,6,9,Școala Veche Frunzaru,Str. Stejarului nr. 69,Frunzaru,44.0425,24.5896
+184,30,OLT,DOBROSLOVENI,115,6,27,19,3,12,2,10,116,7,27,21,2,12,1,9,Grădinița cu Program Normal Frasinetu,Str. Amiral P.Bărbuneanu nr. 58,Frăsinetu,44.1568,24.3217
+191,30,OLT,FĂGEŢELU,159,2,21,23,0,39,10,13,163,2,21,27,0,38,9,11,Școala Gimnazială Făgețelu,Str. Primăriei nr. 40,Făgețelu,44.7816,24.5334
+193,30,OLT,FĂLCOIU,425,13,28,4,2,15,2,8,425,13,28,5,2,16,4,9,Școala cu Clasele I-VIII Fălcoiu,Str. Principală nr. 295,Fălcoiu,44.23,24.3779
+194,30,OLT,FĂLCOIU,448,5,13,16,0,5,2,9,446,6,18,13,0,6,2,7,Școala cu Clasele I-VIII Fălcoiu,Str. Principală nr. 295,Fălcoiu,44.23,24.3779
+196,30,OLT,FĂRCAŞELE,266,4,41,9,0,13,24,30,266,4,44,10,0,9,29,35,Grădinița Farcasele,Str. Principală nr. 1,Fărcașele,44.1484,24.4349
+197,30,OLT,FĂRCAŞELE,574,2,54,13,0,4,21,28,573,1,49,9,0,6,27,35,Grădinița Farcasu de Jos,Str. Principală nr. 58,Fărcașu de Jos,44.1348,24.4549
+198,30,OLT,FĂRCAŞELE,242,1,22,15,2,7,16,24,236,0,22,13,2,6,20,28,Școala Gimnazială Farcasele,Str. Principală nr. 13,Ghimpați,44.1492,24.4331
+207,30,OLT,GHIMPEŢENI,342,8,46,9,0,16,3,11,338,9,57,10,0,12,6,11,Școala Gimnazială Ghimpețeni,Str. Înv. Ion Nicolescu nr. 121,Ghimpețeni,44.2791,24.7701
+206,30,OLT,GHIMPEŢENI,170,2,24,9,0,23,2,7,169,3,28,9,0,19,3,4,Grădinița cu Program Normal,Str. Înv. Angelescu Nicolae nr. 38,Ghimpețenii Noi,44.298,24.7896
+208,30,OLT,GIUVĂRĂŞTI,291,10,74,16,0,14,9,16,295,9,68,19,0,10,11,18,Școala cu Clasele I-VIII Giuvărăști,Str. Principală nr. 93,Giuvărăști,43.7969,24.6908
+209,30,OLT,GIUVĂRĂŞTI,375,8,50,15,0,10,7,15,372,8,46,21,1,10,9,19,Școala cu Clasele I-VIII Giuvărăști,Str. Principală nr. 93,Giuvărăști,43.7969,24.6908
+212,30,OLT,GOSTAVĂŢU,592,9,28,31,1,23,7,13,593,11,27,26,0,26,6,11,Școala Generală Gostavățu,Str. Principală nr. 100,Gostavățu,44.0708,24.542
+271,30,OLT,OSICA DE SUS,293,1,98,8,0,5,4,8,293,2,99,9,0,6,3,7,Școala Generală Greci,Str. Școlii nr. 3,Greci,44.2804,24.3501
+301,30,OLT,SCHITU,361,1,38,6,0,13,3,3,365,0,23,13,0,11,5,9,Școala Gimnazială Greci,Str. Grecilor nr. 97,Greci,44.3324,24.5592
+218,30,OLT,GROJDIBODU,349,2,63,13,0,24,0,5,346,2,67,13,0,20,0,5,Grădinița cu Program Normal,Str. Cristache Sălcianu nr. 100,Grojdibodu,43.7575,24.268
+219,30,OLT,GROJDIBODU,277,8,73,3,0,19,0,3,276,8,71,4,0,21,1,5,Grădinița cu Program Normal,Str. Cristache Sălcianu nr. 100,Grojdibodu,43.7575,24.268
+374,30,OLT,VULPENI,180,2,75,7,0,5,3,5,176,2,76,7,0,2,4,9,Școala Gimnazială Vulpeni-Structura Gropsani,Str. Balșului nr. 44,Gropșani,44.4401,23.9671
+214,30,OLT,GRĂDINARI,270,11,60,4,2,4,5,8,257,10,65,3,3,6,8,11,Școala Gimnazială Grădinari,Str. Traian nr. 13,Grădinari,44.5652,24.2683
+217,30,OLT,GRĂDINILE,645,4,52,21,0,20,8,18,629,4,52,21,0,24,10,20,Centrul Social Grădinile,Str. Neda Marinescu nr. 44,Grădinile,43.946,24.3948
+124,30,OLT,BALDOVINEŞTI,66,0,8,1,0,1,0,3,64,0,8,2,0,1,0,1,Școala Generală cu Clasele I-IV Gubandru,Str. Progresul nr. 40,Gubandru,44.3849,24.018
+147,30,OLT,CĂLUI,196,0,32,5,0,7,1,2,198,1,38,8,0,4,3,5,Grădinița cu Program Normal Gura Caluiu,Str. Frații Buzești nr. 133,Gura Căluiu,44.4559,24.0389
+221,30,OLT,GURA PADINII,710,9,85,17,2,37,4,27,702,13,90,20,2,36,4,27,Cămin Cultural,Str. Spiru Haret nr. 30,Gura Padinii,43.7555,24.3124
+210,30,OLT,GÎRCOV,484,3,36,21,1,20,6,20,482,4,33,22,2,21,5,17,Grădinița cu Program Normal Gîrcov,Str. Școlii nr. 15,Gârcov,43.7584,24.6157
+200,30,OLT,GĂNEASA,637,22,73,39,1,32,8,16,627,24,70,35,0,34,6,22,Școala Giimnazială Găneasa,Str. Gabera nr. 25,Găneasa,44.4014,24.2814
+203,30,OLT,GĂVĂNEŞTI,341,3,13,37,1,10,2,6,344,3,11,39,2,9,2,7,Camin Cultural,Str. Decindea nr. 1,Găvănești,44.4087,24.0148
+182,30,OLT,DOBREŢU,258,0,25,2,0,3,1,3,258,0,23,2,0,3,0,1,Căminul Cultural Horezu,Str. Principală nr. 31,Horezu,44.4735,23.9555
+220,30,OLT,GROJDIBODU,257,3,51,8,0,28,3,8,247,3,56,6,0,29,3,6,Grădinița Hotaru,Str. Marinescu Florian nr. 33,Hotaru,43.753,24.2502
+199,30,OLT,FĂRCAŞELE,240,7,21,5,2,6,13,22,244,5,22,4,1,8,13,20,Școala Gimnazială Hotarani,Str. Principală nr. 16,Hotărani,44.1599,24.4172
+222,30,OLT,IANCA,212,5,45,3,1,3,1,6,210,5,44,3,1,4,2,5,Școala Gimnazială Ada Umbra Ianca,Str. Intrarea Iencii nr. 14,Ianca,43.7833,24.1778
+223,30,OLT,IANCA,561,9,123,9,0,7,16,32,561,13,120,9,0,9,15,29,Școala Gimnazială Ada Umbra Ianca,Str. Intrarea Iencii nr. 14,Ianca,43.7833,24.1778
+327,30,OLT,ŞTEFAN CEL MARE,208,9,45,9,0,21,2,7,204,10,48,10,0,19,2,8,Grădinița Ianca Nouă,Str. Întemeierii nr. 4,Ianca Nouă,43.8204,24.212
+225,30,OLT,IANCU JIANU,247,1,354,18,0,18,8,43,248,2,362,23,0,21,14,25,Școala Generală nr. 1 Iancu Jianu,Str. Frații Buzești nr. 3,Iancu Jianu,44.4897,24.0331
+226,30,OLT,IANCU JIANU,241,9,324,19,1,19,5,25,239,6,321,20,0,17,7,28,Liceul Iancu Jianu,Str. Barbu Știrbei nr. 187,Iancu Jianu,44.4968,24.0305
+228,30,OLT,ICOANA,222,0,36,2,0,2,6,11,221,0,33,2,0,3,7,12,Școala Gimnazială Icoana,Str. Principală nr. 128,Icoana,44.4091,24.723
+231,30,OLT,IPOTESTI,469,7,90,6,0,73,5,9,470,4,98,7,0,66,4,10,Baza Sportivă,Str. Principală nr. 97,Ipotești,44.3209,24.4019
+232,30,OLT,IZBICENI,221,8,107,79,0,2,6,17,186,6,83,141,0,6,7,11,Școala Veche,Bulevardul Mihai Viteazul nr. 112A,Izbiceni,43.8241,24.6616
+233,30,OLT,IZBICENI,310,13,167,146,0,12,4,22,276,9,121,237,0,11,1,12,Grădinița cu Program Normal Izbiceni,Bulevardul Mihai Viteazul nr. 105A,Izbiceni,43.8246,24.6624
+234,30,OLT,IZBICENI,277,15,203,91,0,21,5,14,263,17,133,186,0,10,7,11,Școala Noua,Bulevardul Mihai Viteazul nr. 115,Izbiceni,43.8234,24.663
+235,30,OLT,IZVOARELE,293,5,32,1,0,7,5,9,289,6,35,1,0,5,5,14,Liceul Tehnologic Izvoarele,Str. Tănase Constantin nr. 82,Izvoarele,44.2627,24.5253
+202,30,OLT,GĂNEASA,298,5,21,12,0,11,11,21,298,6,21,11,1,7,12,21,Școala Primară Izvoru,Str. Izvorului nr. 22,Izvoru,44.4272,24.2534
+294,30,OLT,RUSĂNEŞTI,266,5,158,9,1,12,3,13,255,6,164,11,2,8,2,11,Școala Jieni,Str. Jieni Principală nr. 34,Jieni,43.952,24.5958
+120,30,OLT,ORAŞ SCORNICEŞTI,272,1,410,10,0,13,4,17,297,3,385,12,1,12,7,14,Jitaru,,Jitaru,44.5457,24.5474
+237,30,OLT,LELEASCA,160,1,84,12,0,24,2,6,155,1,84,12,0,23,4,10,Camin Cultural Leleasca,Str. Principală nr. 16A,Leleasca,44.7916,24.4687
+136,30,OLT,BOBICEŞTI,300,4,29,116,0,27,9,26,297,6,29,114,0,31,14,25,Caminul Cultural Leotesti,Str. Leotești nr. 52,Leotești,44.3662,24.1497
+302,30,OLT,SCHITU,147,0,11,1,0,12,4,5,144,0,14,0,0,12,5,9,Școala Primară Lisa,Str. Bisericii nr. 44,Lisa,44.3323,24.5591
+243,30,OLT,MĂRUNŢEI,50,0,9,0,0,1,0,2,49,0,10,0,0,1,0,4,Școala Primară Malu-Roșu,Str. Colonel Tărtășescu nr. 2,Malu Roșu,44.2513,24.4381
+355,30,OLT,VĂLENI,126,3,50,9,0,11,2,4,129,4,60,7,0,6,3,4,Școala Generală Mandra,Nr. 140,Mandra,44.2156,24.806
+275,30,OLT,PERIEŢI,502,15,134,33,0,57,13,28,505,18,129,33,0,61,15,25,Cămin Cultural,Str. Înv. Alexandru Toma nr. 138,Mierleștii de Sus,44.4129,24.5532
+244,30,OLT,MIHĂEŞTI,195,6,127,3,0,6,3,4,186,6,134,5,0,3,4,8,Școala Mihăești,Str. Principală nr. 47 A,Mihăești,44.1248,24.787
+161,30,OLT,CORBU,207,1,14,4,0,4,0,3,211,1,11,4,0,3,1,6,Grădinița Milcoveni,Str. Principală nr. 148,Milcoveni,44.426,24.7209
+248,30,OLT,MILCOV,202,19,12,4,0,27,5,19,206,19,10,4,0,27,5,17,Școala Generală cu Clasele I-VIII,Str. Principală nr. 77,Milcovu din Deal,44.3943,24.3885
+246,30,OLT,MILCOV,165,6,8,8,0,1,4,5,171,5,9,7,0,1,2,2,Școala Generală,Str. Principală nr. 4,Milcovu din Vale,44.3878,24.367
+330,30,OLT,TĂTULEŞTI,74,3,7,12,0,20,1,1,72,4,5,13,0,20,1,3,Școala Mircești,Str. Principală nr. 32,Mircești,44.6819,24.6129
+116,30,OLT,ORAŞ SCORNICEŞTI,172,4,117,7,0,5,4,8,179,5,109,6,0,6,7,10,Grădinița Mogosesti,Str. Mogoșești nr. 210,Mogoșești,44.5642,24.51
+251,30,OLT,MORUNGLAV,251,1,20,6,0,9,1,5,255,1,21,5,0,6,2,4,Școala Generală Morunesti,Str. Principală nr. 7,Morunești,44.4772,24.1252
+249,30,OLT,MORUNGLAV,341,7,88,25,1,64,2,10,354,5,89,22,1,52,3,6,Caminul Cultural,Str. Principală nr. 282,Morunglav,44.4583,24.1107
+252,30,OLT,MOVILENI,532,3,36,2,1,18,11,19,535,2,41,1,1,15,12,14,Școala Movileni,Str. Principală nr. 178,Movileni,44.3695,24.6413
+254,30,OLT,MOVILENI,275,2,12,6,0,3,0,4,273,1,11,6,0,5,1,3,Școala Generală Movileni (Grădinița),Str. Principală nr. 178,Movileni,44.3695,24.6413
+130,30,OLT,BĂRĂŞTI,45,2,4,1,0,1,1,3,45,1,4,1,0,1,2,4,Sediu fostă Brigadă Agricolă,Str. Principală Moțoiești nr. 77,Moțoești,44.7226,24.698
+113,30,OLT,ORAŞ SCORNICEŞTI,311,8,698,11,0,77,6,13,349,8,610,12,0,87,5,12,Școala Generală Mărgineni,Str. Slobozia nr. 2,Mărgineni Slobozia,44.5221,24.5619
+372,30,OLT,VOINEASA,318,2,40,3,1,53,2,8,328,2,36,4,1,51,1,3,Școala cu Clasele I-VIII Margaritesti,Str. Petre Pandrea nr. 87,Mărgăritești,44.2975,24.1459
+157,30,OLT,COLONEŞTI,186,2,17,4,2,3,0,0,183,2,15,3,2,2,3,5,Școala Generală Maria Tudorache,Str. Școlii nr. 122,Mărunței,44.5956,24.6861
+240,30,OLT,MĂRUNŢEI,142,1,28,12,1,14,0,7,140,1,25,14,1,14,2,9,Școala Primară Viișoara,Str. Mihnea Turcitu nr. 29,Mărunței,44.2219,24.4618
+241,30,OLT,MĂRUNŢEI,191,4,36,10,0,13,5,13,188,3,37,12,2,12,6,15,Școala cu Clasele I-VIII Mărunței,Str. Mihnea Turcitu nr. 90,Mărunței,44.2143,24.4692
+114,30,OLT,ORAŞ SCORNICEŞTI,213,11,280,9,1,27,4,10,217,11,275,9,0,32,3,9,Școala Generală Negreni,Str. Ion Popescu Negreni nr. 12,Negreni,44.5665,24.5937
+255,30,OLT,NICOLAE TITULESCU,552,8,58,12,2,12,7,11,539,10,71,10,0,17,7,11,Școala Gimnazială,Str. Principală nr. 189,Nicolae Titulescu,44.2739,24.7547
+261,30,OLT,OBOGA,500,7,46,8,0,7,5,11,500,8,47,7,0,6,7,14,Școala Gimnazială Oboga,Str. Principală nr. 321,Oboga,44.4197,24.0896
+262,30,OLT,OBOGA,231,1,7,2,0,1,0,3,229,1,7,2,0,1,0,3,Școala Oboga de Jos,Str. Principală nr. 58,Oboga,44.4004,24.0994
+256,30,OLT,OBÎRŞIA,212,0,44,36,0,5,3,13,211,2,43,38,0,6,3,13,Școala cu Clasele I-IV Obîrșia,Str. Iancu Jianu nr. 90,Obârșia,43.887,24.3328
+260,30,OLT,OBÎRŞIA,260,5,116,15,0,9,11,19,261,9,114,14,0,11,12,18,Școala cu Clasele I-VIII Obarsia Noua,Str. Mihai Eminescu nr. 39,Obârșia Nouă,43.8873,24.3136
+143,30,OLT,BRÎNCOVENI,435,0,56,6,1,94,5,16,450,1,54,7,1,85,5,11,Școala Gimnazială Matei Basarab,Str. Matei Basarab nr. 151,Ociogi,44.3217,24.3536
+273,30,OLT,PÂRŞCOVENI,350,4,58,8,1,10,8,14,343,5,58,8,2,8,7,16,Școala Gimnazială Olari,Nr. 138,Olari,44.2964,24.2069
+263,30,OLT,OPORELU,445,5,101,6,0,14,7,21,456,5,95,6,0,10,9,21,Căminul Cultural Oporelu,Str. Principală nr. 237,Oporelu,44.582,24.43
+264,30,OLT,OPTAŞI-MĂGURA,497,0,37,3,0,6,5,8,492,2,36,3,0,7,6,10,Școala Gimnazială Optași Măgura,Str. Principală nr. 325,Optași,44.5736,24.6571
+265,30,OLT,ORLEA,418,9,35,23,2,50,3,9,420,9,41,20,2,46,3,9,Căminul Cultural,Str. Culturii nr. 102,Orlea,43.7538,24.3695
+266,30,OLT,ORLEA,274,6,20,18,0,13,1,5,270,8,22,21,0,11,2,5,Căminul Cultural,Str. Culturii nr. 102,Orlea,43.7538,24.3695
+267,30,OLT,OSICA DE JOS,384,5,329,16,0,18,2,8,381,4,325,20,0,21,5,10,Școala Gimnazială Osica de Jos,Str. Dealul Mic nr. 3,Osica de Jos,44.2434,24.2811
+269,30,OLT,OSICA DE SUS,298,13,91,6,0,10,6,9,299,13,94,6,0,5,7,8,Spatiul Comercial Dude Gheorghe,Str. Păcii nr. 1,Osica de Sus,44.2538,24.3228
+270,30,OLT,OSICA DE SUS,420,8,140,17,0,19,3,17,415,9,148,17,0,15,3,15,Școala Generală nr. 2,Str. Școlii nr. 2,Osica de Sus,44.2528,24.3111
+176,30,OLT,DĂNEASA,116,4,64,4,0,4,15,19,105,4,77,3,0,4,15,17,Caminul Cultural,Str. General Ion Georgescu nr. 34,Pestra,44.123,24.5316
+215,30,OLT,GRĂDINARI,266,1,13,3,0,4,1,5,271,1,11,1,0,1,3,4,Școala Primară Petculești,Str. Decebal nr. 3,Petculești,44.5791,24.2676
+105,30,OLT,ORAŞ PIATRA-OLT,273,9,69,5,3,32,1,14,282,8,71,5,3,30,3,8,Grădinița cu Program Normal Piatra,Str. Traian nr. 154,Piatra,44.3605,24.294
+106,30,OLT,ORAŞ PIATRA-OLT,313,11,175,1,2,35,8,22,325,5,169,10,2,28,11,18,Grădinița Piatra,Str. Traian nr. 154,Piatra,44.3605,24.294
+100,30,OLT,ORAŞ PIATRA-OLT,231,5,132,6,2,25,4,17,247,7,129,7,1,20,5,13,Muzeu Piatra Olt,Aleea Tineretului nr. 1,Piatra-Olt,44.3678,24.2568
+101,30,OLT,ORAŞ PIATRA-OLT,305,8,111,15,0,30,12,26,312,10,100,18,2,29,12,22,Muzeul Piatra Olt,Aleea Tineretului nr. 1,Piatra-Olt,44.3678,24.2568
+123,30,OLT,BALDOVINEŞTI,146,0,17,4,0,7,1,3,148,0,17,4,1,5,1,3,Grădiniță,Str. Primăverii nr. 21,Pietriș,44.4039,24.0488
+276,30,OLT,PLEŞOIU,340,10,206,30,1,13,7,18,347,8,206,31,1,15,8,17,Școala Gimnazială Pleșoiu,Str. Mihai Eminescu nr. 86,Pleșoiu,44.4667,24.2653
+299,30,OLT,SCĂRIŞOARA,182,5,27,3,0,5,0,2,184,4,27,3,0,5,0,3,Grădinița cu Program Normal Plăviceni,Nr. 4,Plăviceni,43.9744,24.5771
+278,30,OLT,POBORU,277,3,76,42,1,11,5,13,276,3,78,42,1,11,6,12,Școala Gimnazială,Str. Duzilor nr. 1,Poboru,44.6655,24.4986
+356,30,OLT,VERGULEASA,257,12,43,20,0,80,3,10,313,13,40,18,0,25,3,10,Școala Gimnazială Corp B,Str. Principală nr. 66,Poganu,44.6605,24.3166
+285,30,OLT,RADOMIREŞTI,113,1,8,3,0,9,4,8,111,1,6,3,0,8,8,10,Școala Poiana,Str. Unirii nr. 27,Poiana,44.0993,24.6855
+107,30,OLT,ORAŞ POTCOAVA,352,11,50,10,0,20,6,12,353,12,47,8,0,20,5,12,Școala cu Clasele. I-IV Fălcoieni,Str. Principală nr. 3,Potcoava,44.4893,24.6115
+108,30,OLT,ORAŞ POTCOAVA,442,15,63,17,0,39,2,11,439,19,63,16,0,33,3,10,Liceul „Ștefan Diaconescu” Potcoava,Str. Principală nr. 226,Potcoava,44.4742,24.6311
+109,30,OLT,ORAŞ POTCOAVA,530,5,45,9,0,18,8,9,526,5,45,11,0,19,8,11,Liceul „Ștefan Diaconescu” Potcoava,Str. Principală nr. 226,Potcoava,44.4742,24.6311
+224,30,OLT,IANCA,475,5,90,10,0,10,4,9,464,8,88,12,0,8,6,15,Școala Gimnazială George Visan Potelu,Str. Valea Dunării nr. 1,Potelu,43.7628,24.203
+333,30,OLT,TIA MARE,524,10,35,17,1,14,4,15,518,11,36,17,1,12,3,16,Grădinița,Str. Mihai Viteazul nr. 23,Potlogeni,43.8804,24.6305
+185,30,OLT,DOBROSLOVENI,151,0,9,3,1,18,9,13,150,1,7,3,1,20,10,17,Grădinița cu Program Normal Potopinu,Str. Matei Basarab nr. 52,Potopinu,44.1869,24.3548
+375,30,OLT,VULPENI,120,1,21,16,0,4,2,3,119,1,18,16,0,3,3,5,Fosta Sc. cu Clasele I-IV Prisaca,Str. Teilor nr. 1,Prisaca,44.4711,23.9101
+281,30,OLT,PRISEACA,367,14,152,69,1,85,4,9,373,12,154,59,1,87,3,12,Școala Generală cu Clasele I-IV Priseaca,Str. Școlii nr. 1,Priseaca,44.5153,24.4488
+172,30,OLT,CURTIŞOARA,384,10,32,7,0,7,7,19,375,7,38,9,0,9,7,17,Școala cu Clasele I-IV Proaspeți,Str. Tudor Vladimirescu nr. 83,Proaspeți,44.4596,24.3356
+308,30,OLT,SPINENI,134,1,40,22,0,3,5,10,138,1,40,19,0,2,8,10,Școala Generală Profa,Str. Profa Deal nr. 123,Profa,44.7483,24.5798
+274,30,OLT,PÂRŞCOVENI,475,3,44,12,2,34,5,16,479,4,48,12,1,30,7,18,Școala Gimnazială Pirscoveni,Str. Dealu Morii nr. 118,Pârșcoveni,44.2903,24.2308
+373,30,OLT,VOINEASA,194,0,52,33,1,16,1,4,198,1,48,36,0,13,1,3,Școala cu Clasele I-IV Racovita,Str. Florilor nr. 30,Racovița,44.3149,24.1189
+282,30,OLT,RADOMIREŞTI,358,2,45,19,3,27,21,30,357,2,43,19,4,26,23,34,Cămin Cultural,Str. Pieței nr. 1,Radomirești,44.1188,24.6765
+347,30,OLT,VALEA MARE,222,5,49,7,1,27,3,5,216,4,48,7,1,29,3,5,Școala Gimnazială,Str. Școlii nr. 6,Recea,44.4266,24.4617
+286,30,OLT,REDEA,257,16,50,8,0,9,6,20,258,16,50,8,2,10,7,18,Grădinița cu Program Normal Redea,Str. Trandafirilor nr. 23,Redea,44.053,24.2991
+287,30,OLT,REDEA,258,7,39,12,1,34,3,6,259,9,40,11,1,33,3,6,Grădinița cu Program Normal Redea,Str. Trandafirilor nr. 23,Redea,44.053,24.2991
+288,30,OLT,REDEA,230,4,11,5,0,3,0,5,227,4,13,6,0,3,2,5,Căminul Cultural Redișoara,Str. Soarelui nr. 43,Redișoara,44.0432,24.3464
+186,30,OLT,DOBROSLOVENI,345,2,29,6,1,12,9,19,342,1,31,8,1,14,13,16,Școala cu Clasele I-VIII Resca,Str. Ștefan cel Mare nr. 30,Reșca,44.1707,24.3895
+290,30,OLT,ROTUNDA,374,8,15,13,1,111,3,14,369,9,17,13,2,112,4,15,Sediul Fostei C.A.P.,Str. Principală nr. 56,Rotunda,43.984,24.3149
+291,30,OLT,ROTUNDA,434,0,51,16,1,90,9,17,427,2,53,16,2,91,8,10,Sediul Fostei C.A.P.,Str. Principală nr. 56,Rotunda,43.984,24.3149
+189,30,OLT,DOBRUN,345,1,20,11,0,21,1,4,344,0,20,9,0,21,3,6,Școala Roșienii Mari,Str. Principală nr. 77,Roșienii Mari,44.2443,24.2361
+292,30,OLT,RUSĂNEŞTI,441,8,81,11,0,63,6,10,443,8,84,12,0,57,8,14,Școala Generală nr. 1,Str. Rusănești Principală nr. 88,Rusănești,43.9322,24.5995
+293,30,OLT,RUSĂNEŞTI,505,5,107,13,0,39,4,11,495,7,116,13,0,36,4,15,Școala Generală nr. 2,Str. Rusănești Principală nr. 22,Rusănești,43.9426,24.5951
+216,30,OLT,GRĂDINARI,125,7,26,2,1,3,0,4,124,6,29,3,1,3,0,5,Școala Generală I-IV Satu Nou,Str. Nouă nr. 63,Satu Nou,44.5509,24.3025
+300,30,OLT,SCHITU,401,3,66,9,1,49,2,10,397,7,71,6,1,46,3,10,Școala Gimnazială Schitu,Str. Pr. Dumitru Brumușescu nr. 1,Schitu,44.3581,24.5721
+111,30,OLT,ORAŞ SCORNICEŞTI,504,15,227,20,0,24,12,27,506,15,217,22,1,27,17,27,Grupul Scolar Agricol Scornicești,Str. Pompierilor nr. 33,Scornicești,44.6001,24.5451
+112,30,OLT,ORAŞ SCORNICEŞTI,450,22,255,46,1,30,16,26,490,27,218,35,1,39,16,24,Școala Gen.Clasele I-VIII Scornicesti,Bulevardul Muncii nr. 54,Scornicești,44.6005,24.5427
+297,30,OLT,SCĂRIŞOARA,171,2,46,11,2,7,4,9,166,2,45,12,2,11,4,9,Școala Gimnazială Scărișoara,Str. Romanați nr. 73,Scărișoara,43.9933,24.5767
+298,30,OLT,SCĂRIŞOARA,171,3,49,11,1,32,3,8,178,3,48,10,1,30,3,7,Școala Gimnazială Scărișoara,Str. Romanați nr. 73,Scărișoara,43.9933,24.5767
+280,30,OLT,POBORU,90,0,18,8,0,0,1,3,91,0,14,9,0,0,1,3,Școala Primară,Str. Seaca nr. 39,Seaca,44.7114,24.4493
+303,30,OLT,SEACA,517,4,58,27,0,11,9,28,514,5,59,29,0,11,10,23,Grădinița cu Program Normal Seaca,Nr. 15,Seaca,44.1523,24.7615
+110,30,OLT,ORAŞ POTCOAVA,632,3,98,11,1,25,4,18,640,2,88,11,1,23,7,18,Școala Generală Sinești,Str. Principală nr. 10,Sinești,44.4675,24.6638
+1,30,OLT,MUNICIPIUL SLATINA,243,72,65,31,0,63,14,41,252,67,86,30,0,47,15,36,Colegiul Național Radu Greceanu,Str. Nicolae Bălcescu nr. 8,Slatina,44.4317,24.3513
+2,30,OLT,MUNICIPIUL SLATINA,369,49,85,27,3,46,14,55,379,54,86,30,1,41,14,39,Colegiul Național Radu Greceanu,Str. Nicolae Bălcescu nr. 8,Slatina,44.4317,24.3513
+3,30,OLT,MUNICIPIUL SLATINA,634,0,30,5,1,40,2,24,638,1,30,8,1,37,5,29,Colegiul Național Radu Greceanu,Str. Nicolae Bălcescu nr. 8,Slatina,44.4317,24.3513
+4,30,OLT,MUNICIPIUL SLATINA,320,47,73,37,3,64,22,56,322,57,75,36,2,57,17,47,Școala Generală nr. 1,Str. Ion Moroșanu (Str. Lupeni) nr. 2,Slatina,44.4292,24.3553
+5,30,OLT,MUNICIPIUL SLATINA,236,36,48,16,1,25,5,23,234,34,50,16,0,25,8,25,Școala Generală nr. 1,Str. Ion Moroșanu (Str. Lupeni) nr. 2,Slatina,44.4292,24.3553
+6,30,OLT,MUNICIPIUL SLATINA,329,53,79,40,0,55,18,44,332,49,84,42,0,46,20,47,Colegiul Național Ion Minulescu,Str. Basarabilor (Str. Progresului) nr. 37,Slatina,44.4244,24.3626
+7,30,OLT,MUNICIPIUL SLATINA,311,62,78,25,1,42,31,56,327,54,86,25,1,37,25,47,Colegiul Național Ion Minulescu,Str. Basarabilor (Str. Progresului) nr. 37,Slatina,44.4244,24.3626
+8,30,OLT,MUNICIPIUL SLATINA,330,71,105,40,1,58,21,44,341,70,114,38,0,49,21,40,Colegiul Național Ion Minulescu,Str. Basarabilor (Str. Progresului) nr. 37,Slatina,44.4244,24.3626
+9,30,OLT,MUNICIPIUL SLATINA,330,52,69,36,1,58,17,46,335,52,79,34,1,45,19,51,Colegiul Național Ion Minulescu,Str. Basarabilor (Str. Progresului) nr. 37,Slatina,44.4244,24.3626
+10,30,OLT,MUNICIPIUL SLATINA,429,59,98,29,0,59,15,57,452,53,113,26,0,42,16,47,Școala Generală Ștefan Protopopescu,Str. Arinului nr. 1,Slatina,44.4263,24.3657
+11,30,OLT,MUNICIPIUL SLATINA,380,37,98,33,0,32,15,43,384,37,103,33,0,25,13,39,Școala Generală Ștefan Protopopescu,Str. Arinului nr. 1,Slatina,44.4263,24.3657
+12,30,OLT,MUNICIPIUL SLATINA,376,53,96,28,0,48,16,44,369,52,115,27,0,42,19,41,Colegiul Național Vocațional Nicolae Titulescu,Aleea Rozelor nr. 5,Slatina,44.4288,24.3713
+13,30,OLT,MUNICIPIUL SLATINA,354,62,86,35,0,51,26,51,356,59,91,35,0,44,23,49,Colegiul Național Vocațional Nicolae Titulescu,Aleea Rozelor nr. 5,Slatina,44.4268,24.3699
+14,30,OLT,MUNICIPIUL SLATINA,351,62,85,32,1,33,10,29,347,60,93,29,3,35,11,27,Colegiul Național Vocațional Nicolae Titulescu,Aleea Rozelor nr. 5,Slatina,44.4268,24.3699
+15,30,OLT,MUNICIPIUL SLATINA,240,44,88,26,1,31,12,32,252,40,97,21,1,26,11,27,Colegiul Național Vocațional Nicolae Titulescu,Aleea Muncii nr. 4,Slatina,44.4288,24.3713
+16,30,OLT,MUNICIPIUL SLATINA,308,44,90,27,0,30,16,35,328,42,86,22,0,24,11,29,Colegiul Național Vocațional Nicolae Titulescu,Aleea Muncii nr. 4,Slatina,44.4268,24.3699
+17,30,OLT,MUNICIPIUL SLATINA,393,63,107,47,1,59,25,48,392,64,118,38,0,54,27,56,Școala Generală Nicolae Iorga,Str. Libertății nr. 5A,Slatina,44.43,24.3678
+18,30,OLT,MUNICIPIUL SLATINA,389,63,97,33,2,56,15,50,391,61,103,30,1,52,13,48,Școala Generală Nicolae Iorga,Str. Libertății nr. 5A,Slatina,44.43,24.3678
+19,30,OLT,MUNICIPIUL SLATINA,382,36,81,22,0,46,18,34,380,36,84,24,0,38,21,37,Școala cu Clasele I-VIII Eugen Ionescu,Str. Unirii nr. 1,Slatina,44.4299,24.3701
+20,30,OLT,MUNICIPIUL SLATINA,334,31,91,36,2,39,15,31,341,32,93,33,2,34,14,30,Școala cu Clasele I-VIII Eugen Ionescu,Str. Unirii nr. 1,Slatina,44.4299,24.3701
+21,30,OLT,MUNICIPIUL SLATINA,319,29,73,14,0,20,12,26,312,31,82,15,0,20,12,26,Școala cu Clasele I-VIII Eugen Ionescu,Str. Unirii nr. 1,Slatina,44.4299,24.3701
+22,30,OLT,MUNICIPIUL SLATINA,339,46,57,20,1,25,5,21,339,47,61,18,0,20,9,25,Școala Generală nr. 7,Aleea Înfrățirii nr. 6,Slatina,44.4338,24.3705
+23,30,OLT,MUNICIPIUL SLATINA,316,50,82,35,0,56,29,57,306,46,90,39,0,67,30,53,Școala Generală nr. 7,Aleea Înfrățirii nr. 6,Slatina,44.4338,24.3705
+24,30,OLT,MUNICIPIUL SLATINA,376,52,92,27,3,43,14,46,372,54,96,28,3,37,15,49,Școala Generală nr. 7,Aleea Înfrățirii nr. 6,Slatina,44.4338,24.3705
+25,30,OLT,MUNICIPIUL SLATINA,332,42,69,25,0,42,13,29,337,43,63,21,0,42,14,32,Colegiul Economic P.S. Aurelian,Str. Primăverii nr. 5,Slatina,44.4342,24.3727
+26,30,OLT,MUNICIPIUL SLATINA,355,38,84,27,1,34,21,43,348,36,92,24,0,41,22,37,Colegiul Economic P.S. Aurelian,Str. Primăverii nr. 5,Slatina,44.4342,24.3727
+27,30,OLT,MUNICIPIUL SLATINA,420,56,89,39,1,48,12,59,425,59,90,37,1,47,10,51,Liceul cu Program Sportiv,Str. Toamnei nr. 10,Slatina,44.4304,24.3741
+28,30,OLT,MUNICIPIUL SLATINA,378,58,127,36,1,42,21,53,377,64,135,37,2,32,20,50,Liceul cu Program Sportiv,Str. Toamnei nr. 10,Slatina,44.4304,24.3741
+29,30,OLT,MUNICIPIUL SLATINA,304,37,83,22,0,39,16,49,320,33,91,25,1,28,18,39,Liceul cu Program Sportiv,Str. Toamnei nr. 10,Slatina,44.4304,24.3741
+30,30,OLT,MUNICIPIUL SLATINA,309,40,75,19,2,44,11,34,304,41,80,17,2,45,12,37,Școala Generală nr. 3,Str. Ecaterina Teodoroiu nr. 1B,Slatina,44.4253,24.378
+31,30,OLT,MUNICIPIUL SLATINA,324,62,66,25,1,58,28,42,319,60,76,23,1,52,27,45,Școala Generală nr. 3,Str. Ecaterina Teodoroiu nr. 1B,Slatina,44.4253,24.378
+32,30,OLT,MUNICIPIUL SLATINA,148,40,59,16,0,23,18,24,156,38,64,12,0,17,17,26,Școala Generală nr. 3,Str. Ecaterina Teodoroiu nr. 1B,Slatina,44.4253,24.378
+33,30,OLT,MUNICIPIUL SLATINA,342,36,89,32,1,36,20,47,336,36,102,31,1,36,20,42,Școala Generală nr. 3,Str. Ecaterina Teodoroiu nr. 1B,Slatina,44.4253,24.378
+34,30,OLT,MUNICIPIUL SLATINA,309,39,69,20,2,29,19,34,318,38,74,19,1,31,14,28,Grupul Școlar Metalurgic,Str. Ecaterina Teodoroiu nr. 8A,Slatina,44.4235,24.3792
+35,30,OLT,MUNICIPIUL SLATINA,257,51,86,18,2,48,19,30,264,44,100,17,1,42,16,25,Grupul Școlar Metalurgic,Str. Ecaterina Teodoroiu nr. 8A,Slatina,44.4235,24.3792
+36,30,OLT,MUNICIPIUL SLATINA,185,30,56,12,0,42,12,19,181,30,68,10,1,38,12,20,Grupul Școlar Metalurgic,Str. Ecaterina Teodoroiu nr. 8A,Slatina,44.4235,24.3792
+37,30,OLT,MUNICIPIUL SLATINA,229,35,73,19,2,26,12,26,228,35,77,22,2,25,12,24,Școala Generală Constantin Brâncoveanu,Str. Drăgănești nr. 11,Slatina,44.4188,24.3831
+38,30,OLT,MUNICIPIUL SLATINA,264,39,67,27,0,41,12,40,271,39,73,29,1,32,14,34,Școala Generală Constantin Brâncoveanu,Str. Drăgănești nr. 11,Slatina,44.4234,24.3833
+39,30,OLT,MUNICIPIUL SLATINA,290,55,73,22,1,32,11,37,284,48,80,19,0,30,15,46,Școala Generală Constantin Brâncoveanu,Str. Plevnei nr. 4,Slatina,44.4188,24.3831
+40,30,OLT,MUNICIPIUL SLATINA,312,44,73,34,1,49,9,29,307,43,85,32,1,40,9,31,Școala Generală Constantin Brâncoveanu,Str. Plevnei nr. 4,Slatina,44.4188,24.3831
+41,30,OLT,MUNICIPIUL SLATINA,333,40,90,26,1,31,14,35,326,43,92,28,0,33,13,34,Școala Generală Constantin Brâncoveanu,Str. Plevnei nr. 4,Slatina,44.4188,24.3831
+42,30,OLT,MUNICIPIUL SLATINA,401,44,107,25,1,62,20,55,407,42,106,25,1,58,19,52,Școala Generală nr. 6,Str. Mînăstirii nr. 39,Slatina,44.4166,24.3719
+43,30,OLT,MUNICIPIUL SLATINA,323,50,67,18,1,31,18,38,324,46,73,18,1,24,23,45,Grupul Școlar Industrial Construcții Mașini,Str. Cireașov nr. 10,Slatina,44.4312,24.3869
+44,30,OLT,MUNICIPIUL SLATINA,229,52,66,16,2,35,13,38,232,56,68,14,2,36,13,35,Grupul Școlar Industrial Construcții Mașini,Str. Cireașov nr. 10,Slatina,44.4312,24.3869
+45,30,OLT,MUNICIPIUL SLATINA,340,51,117,37,2,38,16,42,338,47,128,36,2,34,18,38,Grupul Școlar Industrial Construcții Mașini,Str. Cireașov nr. 10,Slatina,44.4312,24.3869
+46,30,OLT,MUNICIPIUL SLATINA,335,19,54,14,0,30,12,29,335,22,54,12,0,30,14,32,Școala Cireașov,Str. Eroilor nr. 39,Slatina,44.4542,24.3714
+47,30,OLT,MUNICIPIUL SLATINA,314,40,92,20,1,32,17,42,304,40,99,23,2,32,19,41,Școala Generală George Poboran,Prelungirea Tunari nr. 4,Slatina,44.4279,24.3802
+48,30,OLT,MUNICIPIUL SLATINA,240,23,70,10,0,33,10,25,240,24,71,10,2,31,10,21,Școala Generală George Poboran,Prelungirea Tunari nr. 4,Slatina,44.4279,24.3802
+305,30,OLT,SLĂTIOARA,368,26,213,25,1,62,2,17,368,26,215,27,0,57,3,16,Grădinița Slătioara,Str. Revoluției nr. 31,Slătioara,44.4027,24.322
+306,30,OLT,SLĂTIOARA,231,8,176,26,1,26,6,15,232,8,178,26,0,23,5,16,Grădinița Slătioara,Str. Revoluției nr. 31,Slătioara,44.4027,24.322
+213,30,OLT,GOSTAVĂŢU,493,4,41,15,1,18,8,15,488,7,42,11,1,16,6,16,Căminul Cultural Slăveni,Str. Principală nr. 103,Slăveni,44.0843,24.5245
+309,30,OLT,SPINENI,209,7,28,40,0,14,10,13,205,7,30,36,1,9,14,23,Caminul Cultural Spineni,Str. Principală Spineni nr. 71,Spineni,44.6987,24.5638
+310,30,OLT,SPRÎNCENATA,235,5,25,34,1,47,8,16,236,5,26,36,1,43,9,17,Caminul Cultural Viespesti,Str. Sudului nr. 291,Sprâncenata,44.0531,24.6459
+169,30,OLT,CUNGREA,38,0,139,0,0,8,1,2,37,0,139,0,0,9,1,2,Școala Gimnazială Spătaru,Str. Principală nr. 82 A,Spătaru,44.6877,24.4132
+343,30,OLT,TUFENI,261,6,61,6,0,5,3,13,255,7,64,8,0,5,6,12,Școala Stoborăști,Str. Învățător Urseanu nr. 1,Stoborăști,44.3312,24.7865
+313,30,OLT,STOENEŞTI,383,9,55,35,1,14,7,19,382,6,64,32,1,15,5,16,Căminul Cultural Stoenești,Str. Primăriei nr. 2,Stoenești,44.1178,24.4959
+314,30,OLT,STOENEŞTI,333,10,25,15,0,3,10,32,339,11,27,9,1,3,12,29,Școala Gimnazială Didu,Str. Vlad Stoeneșteanu nr. 92,Stoenești,44.1089,24.4967
+315,30,OLT,STOICĂNEŞTI,419,6,39,5,0,13,7,15,420,9,37,6,0,10,9,14,Școala Generală,"Str. Școlii nr. 14, Bloc -",Stoicănești,44.1839,24.6445
+316,30,OLT,STOICĂNEŞTI,299,6,26,3,0,6,4,11,305,4,22,3,0,6,5,11,Școala Generală,"Str. Școlii nr. 14, Bloc -",Stoicănești,44.1839,24.6445
+317,30,OLT,STREJEŞTI,357,7,40,14,0,16,8,16,357,9,35,14,1,20,8,17,Casa Fratii Buzesti,Str. Libertății nr. 118,Strejești,44.5277,24.2696
+319,30,OLT,STREJEŞTI,619,10,83,8,0,22,7,17,614,7,86,9,0,17,5,15,Școala Gimnazială,Nr. 234,Strejeștii de Sus,44.5431,24.2266
+320,30,OLT,STUDINA,208,8,189,24,0,21,5,48,208,6,168,19,0,18,3,78,Camin Cultural Studina,Str. I. L. Caragiale nr. 14,Studina,43.9578,24.4147
+321,30,OLT,STUDINA,184,3,104,8,0,45,12,27,177,5,108,8,0,42,10,25,Camin Cultural Studinița,Str. 1 Decembrie nr. 7,Studinița,43.9739,24.4239
+345,30,OLT,URZICA,115,2,204,6,0,14,6,9,112,3,206,6,0,10,6,10,Sediul Fostei Ferme nr. 3 Stavaru,Str. Principală nr. 34,Stăvaru,43.8638,24.2549
+304,30,OLT,SÎMBUREŞTI,593,6,59,7,1,23,4,8,596,9,60,6,2,15,6,13,Școala Gimnazială Sîmburești,Str. Principală nr. 25A,Sâmburești,44.8098,24.3988
+258,30,OLT,OBÎRŞIA,82,0,8,1,0,1,1,4,82,0,9,1,0,1,2,4,Școala cu Clasele I-IV Tabonu,Str. Iancu Jianu nr. 6,Tabonu,43.9001,24.3294
+118,30,OLT,ORAŞ SCORNICEŞTI,176,5,72,3,0,13,4,7,181,6,71,3,0,11,3,7,Grădinița Teius,Str. Teiuș nr. 8,Teiuș,44.629,24.522
+334,30,OLT,TIA MARE,504,19,48,27,0,12,6,24,494,15,43,43,1,12,7,27,Grădinița,Str. Mihai Viteazul nr. 94,Tia Mare,43.8621,24.6378
+272,30,OLT,OSICA DE SUS,96,0,22,1,0,3,1,3,93,0,26,1,0,3,1,5,Școala Primară Tomeni,Str. Școlii nr. 10,Tomeni,44.2805,24.3505
+238,30,OLT,LELEASCA,53,1,83,10,0,99,1,3,52,0,85,10,0,102,0,1,Școala Generală Tonesti,Str. Cuptorului nr. 19B,Tonești,44.7864,24.4255
+336,30,OLT,TOPANA,134,4,9,6,0,5,7,10,130,4,10,7,0,4,8,12,Școala Gimnazială Topana,Str. Topana nr. 106,Topana,44.8247,24.4999
+340,30,OLT,TRAIAN,265,2,128,9,0,56,4,11,257,2,134,7,0,57,7,14,Școala Gimnazială Traian,Str. Calea Traian nr. 144,Traian,44.0227,24.4562
+341,30,OLT,TRAIAN,296,6,160,7,0,93,10,18,292,7,159,8,0,89,14,18,Școala Gimnazială Traian,Str. Calea Traian nr. 144,Traian,44.0227,24.4562
+366,30,OLT,VITOMIREŞTI,118,0,27,0,0,4,0,3,116,0,28,0,0,4,0,2,Școala cu Clasele I-IV Trepteni,Str. Taberei nr. 57,Trepteni,44.8643,24.351
+91,30,OLT,ORAŞ CORABIA,130,16,21,6,0,9,4,7,129,11,22,7,0,8,7,10,Școala Gimnazială Sat Tudor Vladimirescu,,Tudor Vladimirescu,43.8262,24.4925
+342,30,OLT,TUFENI,379,10,123,14,0,11,0,16,384,8,122,12,0,11,10,16,Liceul Tehnologic Tufeni,Str. Piteștiului nr. 120,Tufeni,44.3723,24.7946
+349,30,OLT,VALEA MARE,174,2,65,8,1,42,1,4,176,2,61,8,1,47,3,10,Grădinița,Str. Constantin Turianu nr. 8,Turia,44.4404,24.4753
+328,30,OLT,TĂTULEŞTI,218,4,71,30,3,7,4,9,218,4,63,35,1,6,4,12,Școala Gimnazială Tătulești,Str. Principală nr. 226,Tătulești,44.6374,24.6139
+247,30,OLT,MILCOV,145,2,62,0,0,42,5,12,151,3,61,0,0,34,6,12,Căminul Cultural Ulmi,Str. Principală nr. 15,Ulmi,44.3625,24.377
+339,30,OLT,TOPANA,46,2,4,2,0,3,2,2,44,1,2,2,0,4,2,5,Școala Ungureni,Str. Ungureni nr. 80,Ungureni,44.8822,24.5211
+211,30,OLT,GÎRCOV,215,5,34,7,0,6,4,14,209,6,30,8,1,7,6,15,Școala Generală Ursa,Str. Principală nr. 14,Ursa,43.7879,24.6355
+230,30,OLT,ICOANA,199,2,59,5,0,7,3,12,201,3,56,8,0,9,2,8,Școala Gimnazială Ursoaia,Str. Principală nr. 95,Ursoaia,44.4341,24.6937
+344,30,OLT,URZICA,180,10,493,3,0,11,7,14,169,7,506,4,0,8,10,15,Școala Noua cu Clasele I- VIII Urzica,Str. Primăriei nr. 32,Urzica,43.8559,24.2915
+239,30,OLT,LELEASCA,115,1,101,9,2,19,2,9,124,2,89,8,2,20,2,10,Caminul Cultural Ursi,Str. Valea Urșilor nr. 29A,Urși,44.7555,24.4433
+346,30,OLT,VALEA MARE,398,10,78,22,0,81,1,7,394,11,76,18,1,93,4,8,Școala Gimnazială,Str. Unirii nr. 189,Valea Mare,44.4612,24.4492
+376,30,OLT,VULPENI,185,6,97,38,0,9,3,10,187,6,95,40,0,7,4,12,Școala Gimnazială Vulpeni,Str. Craiovei nr. 3,Valea Satului,44.4552,23.9202
+289,30,OLT,REDEA,105,2,14,3,0,2,2,4,104,2,14,3,0,2,1,3,Căminul Cultural Valea Soarelui,Nr. 21,Valea Soarelui,44.0286,24.2729
+378,30,OLT,VULTUREŞTI,121,2,9,6,0,20,3,7,130,2,8,6,0,19,2,8,Școala cu Clasele I-IV Valea Lui Alb,Str. Principală nr. 124,Valea lui Alb,44.7063,24.3139
+362,30,OLT,VITOMIREŞTI,173,2,41,6,1,7,1,4,173,3,43,6,1,7,2,4,Liceul Tehnologic Vitomiresti,Str. Libertății nr. 61,Vitomirești,44.8641,24.39
+295,30,OLT,SÂRBII - MĂGURA,341,4,81,4,0,15,7,21,339,4,71,6,0,20,8,25,Școala Gimnazială Florian Dițuleasa Vitănești,Str. Coșereni nr. 3,Vitănești,44.5383,24.687
+296,30,OLT,SÂRBII - MĂGURA,284,5,34,1,0,7,4,12,277,6,36,2,0,8,4,12,Școala Primară Braniște,Str. Sârbi nr. 6,Vitănești,44.5474,24.7119
+359,30,OLT,VIŞINA,501,9,68,32,1,29,3,16,502,11,68,31,1,26,4,14,Grădinița de Copii,Str. Renașterii nr. 59,Vișina,43.867,24.4542
+360,30,OLT,VIŞINA,553,30,115,55,0,26,10,25,572,30,114,58,1,20,9,22,Grădinița de Copii,Str. Renașterii nr. 59,Vișina,43.867,24.4542
+361,30,OLT,VIŞINA NOUĂ,539,15,90,40,0,24,8,16,535,15,89,44,0,26,8,11,Biblioteca Comunală,Str. Intrarea Europei nr. 40,Vișina Nouă,43.8713,24.4151
+158,30,OLT,COLONEŞTI,189,5,10,2,0,7,2,4,186,7,10,1,0,8,2,5,Grădinița cu Program Normal Vlaici,Str. Libertății nr. 20,Vlaici,44.6701,24.6564
+369,30,OLT,VLĂDILA,338,3,46,5,0,10,1,18,340,4,45,5,0,10,4,16,Grădinița cu Program Normal Vlădila (Clasa Pregătitoare),Str. Cozia nr. 182,Vlădila,43.9996,24.401
+370,30,OLT,VLĂDILA,244,6,64,13,0,8,6,11,246,5,63,11,1,9,7,14,Grădinița cu Program Normal Vlădila (Grupa Mare),Str. Cozia nr. 182,Vlădila,44.0026,24.407
+268,30,OLT,OSICA DE SUS,142,7,36,3,0,17,0,4,143,8,36,3,0,13,3,7,Centru de Promovare a Sănătății,Str. Republicii nr. 70,Vlăduleni,44.2577,24.3254
+371,30,OLT,VOINEASA,271,2,46,4,1,91,1,3,270,1,43,3,0,92,0,6,Școala cu Clasele I-VIII Voineasa,Str. Principală nr. 78,Voineasa,44.2781,24.1665
+377,30,OLT,VULTUREŞTI,170,3,13,4,0,13,3,10,169,2,16,3,0,14,4,10,Școala cu Clasele I-VIII Vulturești,Str. Principală nr. 21,Vulturești,44.7204,24.3133
+367,30,OLT,VÎLCELE,628,4,101,13,1,78,5,15,623,5,102,12,1,75,10,17,Școala Vîlcele,Str. Fântâna Naltă nr. 28,Vâlcele,44.2821,24.5445
+90,30,OLT,ORAŞ CORABIA,104,3,18,4,0,10,1,3,107,1,21,3,1,7,2,4,Gradinița Sat Vîrtopu,,Vârtopu,43.8064,24.4103
+350,30,OLT,VĂDASTRA,566,13,68,57,0,14,3,11,569,12,69,58,0,14,5,9,Căminul Cultural,Str. Mihai Viteazul nr. 77A,Vădastra,43.8677,24.378
+351,30,OLT,VĂDĂSTRIŢA,219,4,185,64,0,17,8,13,216,5,176,68,0,18,13,17,Căminul Cultural,Str. Marin Preda nr. 1,Vădăstrița,43.8479,24.3393
+352,30,OLT,VĂDĂSTRIŢA,336,13,195,73,0,22,11,20,325,14,203,69,0,19,11,23,Căminul Cultural,Str. Marin Preda nr. 1,Vădăstrița,43.8479,24.3393
+144,30,OLT,BRÎNCOVENI,187,0,38,3,1,22,9,10,188,0,39,3,2,16,10,11,Grădinița cu Program Normal Domnița Bălașa,Str. Domnița Bălașa nr. 6,Văleni,44.2959,24.3062
+353,30,OLT,VĂLENI,219,3,40,17,0,12,5,10,213,3,49,15,0,10,4,8,Școala Generală Văleni,Str. Nicolae Titulescu nr. 181,Văleni,44.2347,24.7889
+354,30,OLT,VĂLENI,208,7,46,15,0,19,6,11,215,5,56,11,0,13,7,10,Școala Generală Văleni,Str. Nicolae Titulescu nr. 181,Văleni,44.2347,24.7889
+177,30,OLT,DĂNEASA,169,6,10,1,0,4,4,5,159,6,17,1,0,4,3,4,Școala Zanoaga,Str. Tineretului nr. 2,Zănoaga,44.1037,24.6099
+322,30,OLT,ŞERBĂNEŞTI,329,3,84,19,0,11,9,16,323,4,91,19,0,13,6,18,Școala Dumitru Popovici,Str. Dumitru Popovici nr. 127,Șerbănești,44.3301,24.6914
+323,30,OLT,ŞERBĂNEŞTI,311,1,47,2,1,18,4,12,289,2,57,3,1,24,4,13,Școala Dumitru Popovici,Str. Dumitru Popovici nr. 127,Șerbănești,44.3301,24.6914
+324,30,OLT,ŞERBĂNEŞTI,241,1,54,9,2,9,1,10,236,2,54,10,2,11,1,10,Grădinița Șerbăneștii de Sus,Str. Dumitru Caracostea nr. 13,Șerbăneștii de Sus,44.3367,24.6819
+325,30,OLT,ŞOPÂRLIŢA,483,3,83,5,2,13,5,11,490,2,81,5,2,11,5,9,Școala cu Clasele I-VIII,Str. Principală nr. 122,Șopârlița,44.2764,24.2764
+326,30,OLT,ŞTEFAN CEL MARE,494,6,87,8,0,16,10,16,493,7,87,9,0,14,9,17,Cămin Cultural,Str. Principală nr. 39,Ștefan cel Mare,43.8108,24.2208
+119,30,OLT,ORAŞ SCORNICEŞTI,46,2,47,1,0,2,2,4,52,1,43,1,0,2,1,3,Grădinița Șuica,Str. Șuica nr. 68,Șuica,44.618,24.5676

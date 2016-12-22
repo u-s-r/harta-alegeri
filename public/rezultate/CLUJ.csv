@@ -1,0 +1,657 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+288,13,CLUJ,AGHIREŞU,81,16,94,10,23,14,6,12,85,14,101,10,23,11,4,7,Școala Generală Aghiresu,,Aghireșu,46.8699,23.2396
+289,13,CLUJ,AGHIREŞU,117,10,121,4,60,14,5,12,114,14,119,4,57,18,8,15,Sediu Consiliu Local,,Aghireșu-Fabrici,46.8654,23.2717
+290,13,CLUJ,AGHIREŞU,67,20,98,9,31,20,3,19,65,20,105,10,32,21,3,12,Școala Generală Aghiresu-Fabrici,,Aghireșu-Fabrici,46.8657,23.2733
+477,13,CLUJ,IARA,14,2,51,1,1,9,1,10,16,2,52,2,1,9,1,9,Școala,,Agriș,46.5941,23.5209
+375,13,CLUJ,CĂPUŞU MARE,49,2,159,25,3,2,6,15,45,4,160,23,3,1,6,15,Căminul Cultural,Nr. 201 A,Agârbiciu,46.7704,23.2766
+300,13,CLUJ,AITON,122,17,29,7,29,2,4,17,130,14,29,8,32,2,5,14,Camin Cultural Aiton,,Aiton,46.682,23.736
+302,13,CLUJ,ALUNIŞ,36,3,64,1,1,14,2,17,35,2,64,1,1,16,2,16,Camin Cultural Alunis,,Aluniș,47.0398,23.7466
+601,13,CLUJ,SÂNCRAIU,10,0,1,0,49,2,3,6,9,0,1,1,50,2,2,5,Alunisu nr. 74 Caminul Cultural,Nr. 74,Alunișu,46.8291,22.9415
+306,13,CLUJ,APAHIDA,180,52,182,26,6,13,15,34,174,54,181,26,4,17,18,36,Sala Sport Liceu Tehnologic „Ștefan Pascu”,Str. Libertății nr. 114,Apahida,46.8043,23.754
+307,13,CLUJ,APAHIDA,149,55,147,12,12,13,7,30,145,59,146,13,12,12,10,32,Sala Sport Liceu Tehnologic „Ștefan Pascu”,Str. Libertății nr. 114,Apahida,46.8043,23.754
+308,13,CLUJ,APAHIDA,171,72,222,18,4,13,16,46,167,73,226,17,7,12,15,42,Sala Sport Liceu Tehnologic „Ștefan Pascu”,Str. Libertății nr. 114,Apahida,46.8043,23.754
+309,13,CLUJ,APAHIDA,141,59,117,13,14,14,16,31,138,57,119,15,14,11,21,35,Sala Sport Liceu Tehnologic „Ștefan Pascu”,Str. Libertății nr. 114,Apahida,46.8043,23.754
+291,13,CLUJ,AGHIREŞU,9,1,29,1,1,2,4,9,10,1,32,1,1,1,3,6,Camin Cultural Arghisu,,Arghișu,46.9376,23.2406
+619,13,CLUJ,SUATU,34,3,16,0,1,5,5,10,31,4,17,0,1,5,6,13,Sediul Administrativ din Aruncuta,Nr. 201A,Aruncuta,46.7322,23.9659
+315,13,CLUJ,AŞCHILEU,99,7,36,5,1,5,4,12,97,8,37,3,1,6,4,9,Grădinița Așchileu Mare,Nr. 180,Așchileu Mare,46.9818,23.4888
+316,13,CLUJ,AŞCHILEU,81,0,16,4,2,12,2,4,81,0,17,4,2,13,3,7,Grădinița Așchileu Mic,Nr. 158,Așchileu Mic,46.985,23.4371
+319,13,CLUJ,BACIU,73,180,174,8,69,27,7,32,74,186,172,7,66,26,8,32,Spațiu Comercial,"Str. Jupiter nr. 3, Bloc G",Baciu,46.7846,23.5422
+320,13,CLUJ,BACIU,138,97,165,7,225,18,12,27,138,96,160,10,219,22,12,28,Casa de Cultură Baciu,Str. Transilvaniei nr. 269,Baciu,46.7956,23.5194
+321,13,CLUJ,BACIU,165,94,180,15,169,14,9,41,160,95,181,16,170,15,13,42,Casa de Cultură Baciu,Str. Transilvaniei nr. 269,Baciu,46.7956,23.5194
+322,13,CLUJ,BACIU,66,13,69,3,155,14,2,11,66,15,71,3,155,9,5,11,Casa de Cultură Baciu,Str. Transilvaniei nr. 269,Baciu,46.7956,23.5194
+637,13,CLUJ,UNGURAŞ,77,5,60,3,10,6,3,13,84,6,62,2,10,6,4,7,Școala Gimnazială Batin,Nr. 53,Batin,47.0712,24.0578
+515,13,CLUJ,MĂNĂSTIRENI,110,7,51,2,2,29,5,19,110,8,55,2,2,25,5,19,Școala Generală,,Bedeciu,46.7946,23.1319
+334,13,CLUJ,BELIŞ,97,23,74,6,3,12,23,31,98,23,68,6,3,11,29,37,Primăria Beliș,Nr. 105 A,Beliș,46.6815,23.0299
+458,13,CLUJ,FRATA,48,4,50,2,3,1,7,13,48,5,51,3,4,1,7,13,Caminul Cultural Berchiesu,,Berchieșu,46.728,24.0391
+615,13,CLUJ,SÎNPAUL,46,2,80,1,0,2,4,8,49,4,80,1,0,3,4,6,Sediul Școlii Gen Berindu,Nr. 56,Berindu,46.932,23.4383
+287,13,CLUJ,ORAŞ HUEDIN,5,0,14,1,100,2,1,3,3,1,19,0,96,2,1,2,Camin Cultural,Nr. FN,Bicălatu,46.8809,23.0509
+341,13,CLUJ,BOBÎLNA,118,2,19,4,1,2,6,11,118,2,19,6,0,2,7,11,Școala Generală Bobîlna,Nr. 36,Bobâlna,47.1437,23.643
+362,13,CLUJ,CĂLĂRAŞI,119,9,61,18,24,4,0,13,115,12,61,15,24,8,1,8,Căminul Cultural Bogata,Nr. 79/A,Bogata,46.5137,23.8151
+641,13,CLUJ,VAD,34,0,76,1,0,5,5,19,42,0,78,2,2,4,5,6,Centru de Zi Pentru Copii,Nr. 21,Bogata de Jos,47.2037,23.704
+643,13,CLUJ,VAD,30,0,131,2,0,3,1,8,27,0,136,1,1,1,1,6,Școala Bogata de Sus,Nr. 138,Bogata de Sus,47.1966,23.6675
+390,13,CLUJ,CEANU MARE,93,8,126,5,0,5,3,9,91,5,128,4,2,8,3,10,Grădinița Boian,Nr. 149,Boian,46.636,23.9939
+416,13,CLUJ,COJOCNA,23,0,20,3,3,2,0,3,25,0,14,4,3,2,2,3,Magazin Cooperatist Boju Catun (Fostul),Nr. FN,Boj-Cătun,46.6978,23.8389
+415,13,CLUJ,COJOCNA,57,0,98,0,2,2,4,10,56,0,100,2,2,2,4,9,Școala Boju,Nr. 1A,Boju,46.714,23.7839
+391,13,CLUJ,CEANU MARE,151,1,96,1,1,5,4,8,154,2,94,4,1,5,5,8,Camin Cultural Boldut,Nr. 54,Bolduț,46.6223,23.9506
+572,13,CLUJ,POIENI,111,10,51,3,0,10,11,24,113,11,54,1,0,9,9,21,Școala Primară Bologa,Nr. 204 /A,Bologa,46.8825,22.879
+439,13,CLUJ,FIZEŞU GHERLII,27,0,18,6,1,2,2,7,28,0,18,6,2,2,3,7,Școala Clasele I-IV Bont,,Bonț,46.9904,23.9247
+348,13,CLUJ,BONŢIDA,89,15,102,7,81,12,21,35,91,17,112,9,74,12,23,29,Camin Cultural Bontida,Str. Mihai Eminescu nr. 175,Bonțida,46.9111,23.8129
+349,13,CLUJ,BONŢIDA,70,28,88,11,29,5,4,11,71,29,84,10,32,6,4,11,Clubul Tineretului,Str. Mihai Eminescu nr. 135,Bonțida,46.9176,23.8136
+486,13,CLUJ,IARA,10,1,6,1,0,3,1,5,9,2,5,2,0,3,1,6,Casa Proprietate Particulara,Nr. 146,Borzești,46.5403,23.6115
+353,13,CLUJ,BORŞA,69,11,402,4,14,49,9,20,75,10,407,4,10,49,9,19,Consiliul Local Borsa,Nr. 262,Borșa,46.932,23.6596
+543,13,CLUJ,MOCIU,12,1,11,0,3,2,0,3,12,0,11,0,3,2,0,2,Sală Multifuncțională,Nr. 104,Boteni,46.7656,24.0244
+553,13,CLUJ,NEGRENI,80,17,92,4,1,14,25,39,83,17,92,2,2,11,27,42,Casa de Cultură,Nr. 50,Bucea,46.9492,22.6939
+533,13,CLUJ,MINTIU GHERLII,86,4,73,3,1,6,2,14,88,2,75,5,1,4,4,12,Școala Generală,Nr. 228,Bunești,47.0591,23.8817
+487,13,CLUJ,IARA,18,3,16,1,6,2,4,13,17,3,19,3,6,3,4,9,Casa Proprietate Particulară,Nr. 90,Buru,46.5063,23.6007
+517,13,CLUJ,MĂRGĂU,26,5,25,6,0,9,5,14,26,5,30,7,0,7,4,12,Cămin Cultural,Nr. 18,Buteni,46.7875,22.9809
+356,13,CLUJ,BUZA,56,5,103,0,228,12,6,22,66,4,104,1,216,10,8,18,Caminul Cultural Buza,,Buza,46.9094,24.1481
+426,13,CLUJ,CORNEŞTI,38,0,13,0,0,8,2,5,39,0,12,0,0,7,2,5,Cămin Cultural Bîrlea,Nr. 135,Bârlea,46.9921,23.7213
+340,13,CLUJ,BOBÎLNA,38,7,7,0,1,9,3,7,39,7,9,1,1,8,3,6,Școala Generală Babdiu,Nr. 162,Băbdiu,47.1273,23.6994
+652,13,CLUJ,VULTURENI,37,3,17,1,1,4,23,26,37,2,18,0,1,4,28,29,Școala Babutiu,Nr. 68,Băbuțiu,46.9402,23.5245
+548,13,CLUJ,MOLDOVENEŞTI,23,5,15,4,135,1,4,9,22,7,12,7,134,1,4,8,Casa Satului,,Bădeni,46.487,23.7359
+653,13,CLUJ,VULTURENI,10,2,48,2,4,1,3,7,10,3,48,1,4,1,3,6,Caminul Cultural Badesti,Nr. 107,Bădești,46.9698,23.6367
+292,13,CLUJ,AGHIREŞU,7,0,8,0,96,1,0,2,7,1,9,0,93,1,0,2,Școala Generală Bagara,,Băgara,46.8665,23.3019
+328,13,CLUJ,BĂIŞOARA,130,18,168,1,1,30,16,37,143,23,163,1,1,23,23,35,Școala Generală Băișoara,Nr. 34,Băișoara,46.5771,23.463
+335,13,CLUJ,BELIŞ,12,1,42,0,0,4,7,15,14,1,41,1,0,2,8,14,Școala Primară Bălcești,Nr. FN,Bălcești,46.6743,23.0019
+358,13,CLUJ,CĂIANU,17,0,51,2,1,4,4,6,16,1,52,3,1,4,3,4,Caminul Cultural Bărăi,Nr. 98,Bărăi,46.847,23.907
+478,13,CLUJ,IARA,34,6,29,4,1,6,4,8,34,8,26,4,1,7,6,7,Școala,,Cacova Ierii,46.5439,23.4778
+645,13,CLUJ,VAD,20,1,42,2,0,11,1,7,20,0,41,2,0,13,1,8,Cămin Cultural Calna,Nr. 68,Calna,47.1763,23.6456
+417,13,CLUJ,COJOCNA,29,8,51,6,15,11,3,16,28,7,53,6,15,13,3,13,Biroul Primăriei Cara,Nr. 29,Cara,46.7555,23.78
+604,13,CLUJ,SÂNMĂRTIN,87,1,14,0,1,2,2,7,88,1,13,0,1,2,4,7,Școala Prim. Ceaba,Nr. 70,Ceaba,47.0502,24.0982
+389,13,CLUJ,CEANU MARE,112,6,77,6,18,21,7,18,114,9,77,4,14,21,6,15,Camin Cultural Ceanu Mare,Nr. 376,Ceanu Mare,46.6663,23.9546
+627,13,CLUJ,TURENI,26,10,35,0,1,3,2,7,27,9,35,0,2,4,3,5,Caminul Cultural Ceanu Mic nr. 184,Nr. 184,Ceanu Mic,46.6419,23.7086
+640,13,CLUJ,VAD,78,1,141,2,2,15,3,9,75,0,146,4,1,17,3,6,Școala Cetan,Nr. 67,Cetan,47.1924,23.8014
+528,13,CLUJ,MIHAI VITEAZU,31,2,25,10,30,7,9,14,30,3,24,10,30,6,11,15,Școala Generală,Nr. 222,Cheia,46.5417,23.7082
+539,13,CLUJ,MOCIU,4,1,9,0,94,6,1,2,5,0,9,0,92,6,1,2,Școala Elementara,Nr. 139,Chesău,46.819,24.0087
+654,13,CLUJ,VULTURENI,8,0,4,0,46,0,1,2,7,1,4,0,47,0,1,2,Fundatia Kide,Nr. 166,Chidea,46.9801,23.5987
+394,13,CLUJ,CHINTENI,266,81,116,14,110,6,6,14,264,81,116,12,114,7,6,14,Primăria Comunei Chinteni,Nr. 144,Chinteni,46.863,23.5389
+465,13,CLUJ,GEACA,8,4,16,0,2,1,4,6,8,4,17,0,1,1,4,6,Școala Chiris,,Chiriș,46.8841,24.0403
+398,13,CLUJ,CHIUIEŞTI,125,3,378,7,1,34,18,40,124,5,376,9,1,36,18,33,Școala Gimnaz. Chiuiesti,,Chiuiești,47.296,23.8749
+583,13,CLUJ,RECEA-CRISTUR,18,0,27,0,1,1,1,4,19,0,30,0,1,1,1,3,Caminul Cultural Ciubanca,Nr. 81,Ciubanca,47.1628,23.5724
+582,13,CLUJ,RECEA-CRISTUR,19,0,46,2,1,0,1,10,19,0,51,2,1,0,3,11,Școala,,Ciubăncuța,47.1438,23.5532
+402,13,CLUJ,CIUCEA,130,14,115,6,1,12,9,70,131,15,118,7,1,11,14,67,"Școala cu Cl. I-VIII, Ciucea",Nr. 121,Ciucea,46.9532,22.8125
+403,13,CLUJ,CIUCEA,12,1,35,0,0,4,1,6,9,1,35,0,0,5,3,8,Școala Clasele I-IV Calea Lata,Nr. 442,Ciucea,46.9716,22.8321
+355,13,CLUJ,BORŞA,19,0,33,1,3,3,1,1,19,0,36,1,3,3,1,1,Școala Generală Ciumăfaia,Nr. 81,Ciumăfaia,46.9424,23.6217
+405,13,CLUJ,CIURILA,24,4,44,1,2,2,8,12,24,3,44,1,3,3,10,12,Consiliul Local Ciurila,Nr. 7,Ciurila,46.6483,23.5428
+625,13,CLUJ,TRITENII DE JOS,19,0,4,0,1,1,1,2,19,0,4,0,1,1,1,3,Casă Particulară,Nr. 30,Clapa,46.5667,24.0164
+1,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,6,13,15,1,11,2,0,2,6,19,15,0,7,2,0,0,Colegiul Economic „Iulian Pop”,Str. Emil Isac (Str. 1 Mai) nr. 19,Cluj-Napoca,46.7706,23.5848
+2,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,73,121,97,13,122,37,14,46,71,123,102,13,122,34,17,45,Colegiul Economic „Iulian Pop”,Str. Emil Isac (Str. 1 Mai) nr. 19,Cluj-Napoca,46.7706,23.5848
+3,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,123,181,176,25,152,40,21,51,131,178,172,30,151,46,14,41,Colegiul Tehnic de Telecomunicatii „Augustin Maior”,Calea Moților (Str. Moților) (D) nr. 78-80,Cluj-Napoca,46.7655,23.5773
+4,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,102,206,135,19,174,44,18,49,98,201,139,23,173,52,19,43,Colegiul Tehnic de Telecomunicatii „Augustin Maior”,Calea Moților (Str. Moților) (D) nr. 78-80,Cluj-Napoca,46.7655,23.5773
+5,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,122,99,134,10,63,60,17,43,129,104,134,10,63,47,25,45,Școala „Ion Creangă”,Aleea Peana nr. 4,Cluj-Napoca,46.7559,23.5539
+6,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,219,105,199,12,117,33,28,48,218,106,204,14,115,35,22,41,Școala „Ion Creangă”,Aleea Peana nr. 4,Cluj-Napoca,46.7559,23.5539
+7,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,115,82,159,17,63,34,18,41,112,87,163,18,61,30,14,40,Școala „Ion Creangă”,Aleea Peana nr. 4,Cluj-Napoca,46.7559,23.5539
+8,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,109,114,134,14,93,20,13,40,111,111,134,11,101,18,17,40,Grădinița Dumbrava Minunata,Str. Poet Grigore Alexandrescu nr. 47,Cluj-Napoca,46.7548,23.5456
+9,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,186,146,186,23,119,53,35,68,192,139,199,27,120,44,33,63,Grădinița „Dumbrava Minunată”,Str. Poet Grigore Alexandrescu nr. 47,Cluj-Napoca,46.7548,23.5456
+10,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,125,102,176,27,112,30,28,68,132,96,183,28,116,24,26,60,Grădinița „Dumbrava Minunată” (fosta 66),Str. Poet Grigore Alexandrescu nr. 47,Cluj-Napoca,46.7548,23.5456
+11,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,90,60,112,17,42,19,13,25,92,59,114,19,42,16,12,23,Școala „Iuliu Hațieganu” (fostă nr. 21),Str. Poet Grigore Alexandrescu nr. 16,Cluj-Napoca,46.757,23.5512
+12,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,104,76,104,8,48,15,13,29,114,71,105,8,48,12,15,25,Școala „Iuliu Hațieganu” (fostă nr. 21),Str. Poet Grigore Alexandrescu nr. 16,Cluj-Napoca,46.757,23.5512
+13,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,161,138,188,18,129,43,22,46,169,141,182,14,133,36,22,47,"Grădinița „Albinuța” (fostă Căsuța Poveștilor), Str. Grigore Alexandrescu nr. 21/A",Str. Poet Grigore Alexandrescu nr. 21/A,Cluj-Napoca,46.7559,23.5518
+14,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,112,141,167,17,84,26,23,47,123,148,168,16,85,21,23,37,Școala „Iuliu Hațieganu” (fostă nr. 21),Str. Poet Grigore Alexandrescu nr. 16,Cluj-Napoca,46.757,23.5512
+15,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,173,169,203,31,102,55,33,61,165,162,203,31,109,58,34,64,Școala „Iuliu Hațieganu” (fostă nr. 21),Str. Poet Grigore Alexandrescu nr. 16,Cluj-Napoca,46.757,23.5512
+16,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,124,127,165,6,72,35,19,50,135,129,164,9,70,24,23,48,Școala „Iuliu Hațieganu” (fostă nr. 21),Str. Poet Grigore Alexandrescu nr. 16,Cluj-Napoca,46.757,23.5512
+17,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,157,151,218,26,37,41,34,74,165,146,221,29,38,37,32,64,Colegiul Tehnic Napoca,Str. Taberei nr. 3,Cluj-Napoca,46.762,23.5524
+18,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,145,185,226,29,72,65,33,74,162,192,224,34,71,49,33,65,Liceul cu Program Sportiv (fosta Școala nr. 20),Str. Arinilor nr. 9,Cluj-Napoca,46.7624,23.5508
+19,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,112,162,247,22,63,33,28,60,123,171,234,25,62,25,28,63,Liceul cu Program Sportiv (fosta Școala nr. 20),Str. Arinilor nr. 9,Cluj-Napoca,46.7624,23.5508
+20,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,159,137,184,23,65,36,31,68,161,136,200,28,66,25,21,57,Liceul cu Program Sportiv (fosta Școala nr. 20),Str. Arinilor nr. 9,Cluj-Napoca,46.7624,23.5508
+21,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,182,154,205,31,60,47,25,67,185,150,216,35,61,37,26,60,Liceul Teoretic „Eugen Pora”,Str. Mogoșoaia nr. 6,Cluj-Napoca,46.7583,23.5608
+22,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,179,112,240,23,92,28,26,73,177,119,252,25,81,27,28,65,Liceul Teoretic „Eugen Pora”,Str. Mogoșoaia nr. 6,Cluj-Napoca,46.7583,23.5608
+23,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,99,72,132,8,22,26,20,42,100,75,128,8,23,25,22,42,Liceul Teoretic „Eugen Pora”,Str. Mogoșoaia nr. 6,Cluj-Napoca,46.7583,23.5608
+24,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,220,142,157,16,64,37,35,72,219,145,167,18,63,35,30,61,Liceul Teoretic „Eugen Pora”,Str. Mogoșoaia nr. 6,Cluj-Napoca,46.7583,23.5608
+25,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,126,270,209,20,39,44,28,61,126,275,205,24,39,39,25,58,Școala Internationala „Spectrum”,Calea Mănăștur nr. 22-24,Cluj-Napoca,46.7621,23.5687
+26,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,106,144,168,28,75,42,48,82,106,149,176,27,74,36,40,80,Școala Internationala „Spectrum”,Calea Mănăștur nr. 22-24,Cluj-Napoca,46.7621,23.5687
+27,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,101,183,173,17,69,51,22,52,116,196,169,18,65,40,21,41,Școala Internationala „Spectrum”,Calea Mănăștur nr. 22-24,Cluj-Napoca,46.7621,23.5687
+28,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,133,148,144,28,74,60,25,41,135,146,145,33,74,49,30,48,Școala Internationala „Spectrum”,Calea Mănăștur nr. 22-24,Cluj-Napoca,46.7621,23.5687
+29,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,195,125,176,17,51,42,23,52,197,116,184,19,54,37,26,52,"Liceul Teoretic „Eugen Pora”, Str.Mogoșoaia nr. 6",Str. Mogoșoaia nr. 6,Cluj-Napoca,46.7583,23.5608
+30,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,87,135,75,17,85,37,19,41,87,120,88,17,88,37,18,38,Sala Sporturilor „Horea Demian”,Splaiul Independenței (Aleea Tineretului) nr. 6,Cluj-Napoca,46.7656,23.5646
+31,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,88,116,148,15,82,27,15,36,86,113,146,16,86,30,15,34,Sala Sporturilor „Horea Demian”,Splaiul Independenței (Aleea Tineretului) nr. 6,Cluj-Napoca,46.7656,23.5646
+32,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,111,165,183,31,67,25,17,50,111,162,189,31,68,24,19,49,Sala Sporturilor „Horea Demian”,Splaiul Independenței (Aleea Tineretului) nr. 6,Cluj-Napoca,46.7656,23.5646
+33,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,131,209,171,22,181,74,13,48,130,214,160,25,185,67,20,56,Centrul Regional de Excelență,Str. Octavian Goga (Str. Józsa Béla) nr. 23,Cluj-Napoca,46.7712,23.5728
+34,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,185,235,197,29,178,80,42,89,191,235,200,35,179,71,42,77,Liceul Teoretic „Onisifor Ghibu”,Str. Alexandru Vlahuță nr. 12-14,Cluj-Napoca,46.7709,23.564
+35,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,157,132,167,23,109,46,27,61,158,144,159,21,106,48,27,59,Liceul Teoretic „Onisifor Ghibu”,Str. Alexandru Vlahuță nr. 12-14,Cluj-Napoca,46.7709,23.564
+36,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,114,165,159,20,144,39,13,43,116,172,152,14,144,45,12,42,Liceul Teoretic „Onisifor Ghibu”,Str. Alexandru Vlahuță nr. 12-14,Cluj-Napoca,46.7709,23.564
+37,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,172,222,217,34,138,75,28,71,172,219,218,38,142,65,31,73,Liceul Teoretic „Onisifor Ghibu”,Str. Alexandru Vlahuță nr. 44-48,Cluj-Napoca,46.7701,23.5573
+38,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,161,140,146,21,93,40,18,40,161,140,150,19,91,32,18,49,Liceul Teoretic „Onisifor Ghibu”,Str. Alexandru Vlahuță nr. 44-48,Cluj-Napoca,46.7701,23.5573
+39,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,141,193,212,19,124,53,30,62,140,195,200,21,129,50,31,60,Gradinița „Mica Sirena” (fostă 64),Str. Alexandru Vlahuță nr. 59,Cluj-Napoca,46.7692,23.5568
+40,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,154,134,157,23,138,43,10,35,162,144,153,17,137,39,17,36,"Gradinița „Licurici” (fosta Steluța Fermecată), Str.Fântânele nr. 46",Str. Fântânele (Str. Fîntînele) nr. 46,Cluj-Napoca,46.7653,23.5464
+41,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,133,207,236,17,116,56,26,66,141,204,238,17,119,50,29,61,"Gradinița „Licurici” (fosta Steluța Fermecată), Str.Fântânele nr. 46",Str. Fântânele (Str. Fîntînele) nr. 46,Cluj-Napoca,46.7653,23.5464
+42,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,136,187,222,30,143,49,27,59,136,188,220,29,155,41,27,56,Institutul de Cercetari În Chimie „Raluca Ripan”,Str. Fântânele (Str. Fîntînele) nr. 30,Cluj-Napoca,46.7681,23.5509
+43,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,154,148,165,21,158,55,24,53,159,151,169,18,157,46,29,54,Grădinița Mica Sirena (fosta 12),Str. Donath nr. 150,Cluj-Napoca,46.7691,23.5475
+44,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,125,198,214,22,163,57,26,55,121,195,219,29,164,55,22,51,Institutul de Cercetari În Chimie „Raluca Ripan”,Str. Fântânele (Str. Fîntînele) nr. 30,Cluj-Napoca,46.7681,23.5509
+45,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,185,181,198,21,174,50,16,62,180,185,197,22,176,52,20,64,Institutul de Cercetari În Chimie „Raluca Ripan”,Str. Fântânele (Str. Fîntînele) nr. 30,Cluj-Napoca,46.7681,23.5509
+46,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,76,189,146,12,32,22,15,39,77,194,138,10,34,25,11,38,Colegiul Tehnic „Edmond Nicolau”,Str. Câmpului (Str. Cîmpului) nr. II/2,Cluj-Napoca,46.75,23.5642
+47,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,129,155,242,20,95,41,20,49,125,161,253,18,95,31,28,47,Liceul de Informatică „Tiberiu Popoviciu”,Str. Zorilor nr. 27,Cluj-Napoca,46.7562,23.5789
+48,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,148,186,269,16,75,46,26,49,139,189,259,16,77,45,35,61,Liceul de Informatică „Tiberiu Popoviciu”,Str. Zorilor nr. 27,Cluj-Napoca,46.7562,23.5789
+49,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,139,202,277,22,77,71,21,53,141,198,294,20,80,53,24,54,Liceul de Informatică „Tiberiu Popoviciu”,Str. Zorilor nr. 27,Cluj-Napoca,46.7562,23.5789
+50,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,86,173,215,18,99,36,17,45,93,172,215,13,104,26,16,40,Liceul de Informatică „Tiberiu Popoviciu”,Str. Zorilor nr. 27,Cluj-Napoca,46.7562,23.5789
+51,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,92,126,138,30,101,38,22,57,96,130,143,29,102,28,22,53,Liceul de Informatică „Tiberiu Popoviciu”,Str. Zorilor nr. 27,Cluj-Napoca,46.7562,23.5789
+52,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,118,441,353,28,56,58,30,75,124,438,348,28,54,62,25,68,Asociația „Caritatea”,Str. Mircea Eliade nr. 22,Cluj-Napoca,46.7512,23.584
+53,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,149,244,243,31,115,65,36,78,152,245,252,33,116,57,26,64,"Gradinița „Zîna Zorilor”, Str.L.Pasteur nr. 12",Str. Dr. Louis Pasteur nr. 12,Cluj-Napoca,46.7604,23.5846
+54,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,115,173,207,28,73,31,17,53,116,179,211,27,74,22,19,54,"Facultatea de Arhitectură și Urbanism, Str.Observatorului nr. 72",Str. Observatorului nr. 72,Cluj-Napoca,46.7553,23.5873
+55,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,107,190,252,13,67,37,18,49,115,185,260,14,68,26,22,46,"Facultatea de Arhitectură și Urbanism, Str.Observatorului nr. 72",Str. Observatorului nr. 72,Cluj-Napoca,46.7553,23.5873
+56,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,67,146,137,14,46,15,22,41,78,145,138,13,45,13,21,37,"Facultatea de Arhitectură și Urbanism, Str.Observatorului nr. 72",Str. Observatorului nr. 72,Cluj-Napoca,46.7553,23.5873
+57,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,87,217,165,23,70,30,20,52,84,215,166,25,70,28,20,55,"Facultatea de Arhitectură și Urbanism, Str.Observatorului nr. 72",Str. Observatorului nr. 72,Cluj-Napoca,46.7553,23.5873
+58,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,132,343,274,29,78,46,8,53,138,342,278,30,79,40,12,45,Liceul Informatica „T.Popoviciu”,Calea Turzii nr. 140,Cluj-Napoca,46.7539,23.5949
+59,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,97,558,307,36,56,48,15,54,99,557,307,44,59,42,16,48,Liceul Informatica „T.Popoviciu”,Calea Turzii nr. 140,Cluj-Napoca,46.7539,23.5949
+60,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,106,290,288,21,59,38,30,62,110,288,280,20,63,44,23,58,Liceul Informatica „T.Popoviciu”,Calea Turzii nr. 140,Cluj-Napoca,46.7539,23.5949
+61,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,147,211,170,38,157,52,28,60,148,212,165,36,159,52,31,61,Palatul Copiilor,Str. Republicii (Str. Dr. Gheorghe Bilascu) nr. 23,Cluj-Napoca,46.765,23.5874
+62,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,108,171,111,21,162,42,26,52,111,177,110,19,160,39,25,50,Școala „Ioan Bob”,Str. Episcop Ioan Bob (Str. Prahovei) nr. 10,Cluj-Napoca,46.7686,23.5872
+63,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,98,173,163,32,56,47,21,65,102,175,161,34,59,45,20,56,Colegiul Național „G.Coșbuc”,Str. Avram Iancu (Str. Petőfi Sándor) nr. 70-72,Cluj-Napoca,46.7673,23.5968
+64,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,123,262,202,31,94,66,18,63,125,262,213,32,96,53,23,60,Liceul Teoretic „Gh. Sincai”,Str. Avram Iancu (Str. Petőfi Sándor) nr. 33,Cluj-Napoca,46.7676,23.5968
+65,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,155,275,217,33,76,74,29,72,159,277,218,35,77,74,23,62,Liceul Teoretic „Gh. Sincai”,Str. Avram Iancu (Str. Petőfi Sándor) nr. 33,Cluj-Napoca,46.7676,23.5968
+66,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,206,217,229,28,64,62,34,83,210,222,225,29,65,49,33,80,Liceul Teoretic „Gh. Sincai”,Calea Dorobanților (Str. Antal Nagy Budai) nr. 72,Cluj-Napoca,46.7734,23.6075
+67,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,140,152,196,23,30,56,15,49,142,161,193,20,30,50,17,50,Liceul Teoretic „Gh. Sincai”,Calea Dorobanților (Str. Antal Nagy Budai) nr. 72,Cluj-Napoca,46.7734,23.6075
+68,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,125,158,175,24,44,65,37,66,141,161,182,26,45,45,35,61,Liceul Teoretic „Gh. Sincai”,Calea Dorobanților (Str. Antal Nagy Budai) nr. 72,Cluj-Napoca,46.7734,23.6075
+69,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,103,194,156,18,62,50,25,52,118,198,160,17,57,35,24,50,Liceul Teoretic „Gh. Sincai”,Calea Dorobanților (Str. Antal Nagy Budai) nr. 72,Cluj-Napoca,46.7734,23.6075
+70,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,76,391,253,9,54,32,12,49,81,368,267,13,56,29,11,47,Colegiul Tehnic „Edmond Nicolau”,Str. Câmpului (Str. Cîmpului) nr. II/2,Cluj-Napoca,46.75,23.5642
+71,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,130,126,160,16,108,31,27,52,126,117,165,13,117,43,19,41,Colegiul Tehnic „Edmond Nicolau”,Str. Câmpului (Str. Cîmpului) nr. II/2,Cluj-Napoca,46.75,23.5642
+72,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,166,120,208,23,87,45,12,37,173,120,203,24,90,36,18,38,Colegiul Tehnic „Edmond Nicolau”,Str. Câmpului (Str. Cîmpului) nr. II/2,Cluj-Napoca,46.75,23.5642
+73,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,145,156,174,10,94,31,29,58,147,147,184,15,98,27,26,54,Colegiul Tehnic „Edmond Nicolau”,Str. Câmpului (Str. Cîmpului) nr. II/2,Cluj-Napoca,46.75,23.5642
+74,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,161,132,178,15,104,44,36,60,169,127,179,18,109,37,28,54,Școala „Liviu Rebreanu”,Aleea Moldoveanu nr. 1,Cluj-Napoca,46.7536,23.5617
+75,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,155,117,177,18,82,40,23,51,157,117,193,11,80,37,17,42,Școala „Liviu Rebreanu”,Aleea Moldoveanu nr. 1,Cluj-Napoca,46.7536,23.5617
+76,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,159,97,151,21,67,29,20,41,167,92,154,22,68,22,18,41,Școala „Liviu Rebreanu”,Aleea Moldoveanu nr. 1,Cluj-Napoca,46.7536,23.5617
+77,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,167,101,189,7,96,40,22,46,171,102,191,9,96,36,20,40,Gradinița „Universul Copiilor” (fostă nr. 71),Aleea Moldoveanu nr. 5-7,Cluj-Napoca,46.7534,23.5628
+78,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,150,74,193,21,57,30,23,53,146,71,207,22,60,27,22,44,"Școala „Liviu Rebreanu” (fosta Constantin Brâncoveanu), Aleea Retezat nr. 4",Aleea Retezat nr. 4,Cluj-Napoca,46.7518,23.5579
+79,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,103,83,145,16,48,28,24,46,112,73,152,17,47,26,19,41,"Școala „Liviu Rebreanu” (fosta Constantin Brâncoveanu), Aleea Retezat nr. 4",Aleea Retezat nr. 4,Cluj-Napoca,46.7518,23.5579
+80,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,134,98,166,11,90,29,16,41,132,103,162,14,88,29,16,40,"Școala „Liviu Rebreanu” (fosta Constantin Brâncoveanu), Aleea Retezat nr. 4",Aleea Retezat nr. 4,Cluj-Napoca,46.7518,23.5579
+81,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,78,55,127,9,37,14,20,46,76,51,132,12,46,16,17,34,"Școala „Liviu Rebreanu” (fosta Constantin Brâncoveanu), Aleea Retezat nr. 4",Aleea Retezat nr. 4,Cluj-Napoca,46.7518,23.5579
+82,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,113,73,134,15,44,23,10,26,118,67,142,15,45,20,8,22,Gradinița „Buburuza” (fostă nr. 70),Str. Mehedinți nr. 19,Cluj-Napoca,46.7529,23.5575
+83,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,158,148,193,18,60,27,26,57,157,151,199,17,64,22,27,50,Gradinița „Buburuza” (fostă nr. 70),Str. Mehedinți nr. 19,Cluj-Napoca,46.7529,23.5575
+84,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,211,135,235,22,88,45,36,63,221,132,243,21,87,35,33,58,Gradinița „Academia Piticilor” (fostă nr. 72),Aleea Tazlău nr. 11,Cluj-Napoca,46.7518,23.553
+85,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,124,119,180,18,101,38,19,54,126,121,186,15,101,33,21,52,Gradinița „Academia Piticilor” (fostă nr. 72),Aleea Tazlău nr. 11,Cluj-Napoca,46.7518,23.553
+86,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,113,113,152,12,76,19,12,28,114,109,154,12,76,18,14,30,Fosta Școală nr. 6,Aleea Meziad nr. 4,Cluj-Napoca,46.7506,23.5472
+87,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,164,133,194,31,122,34,25,63,157,125,201,24,124,39,32,65,Fosta Școală nr. 6,Aleea Meziad nr. 4,Cluj-Napoca,46.7506,23.5472
+88,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,173,97,192,14,73,33,20,54,174,95,195,16,77,28,20,49,Fosta Școală nr. 6,Aleea Meziad nr. 4,Cluj-Napoca,46.7506,23.5472
+89,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,145,126,153,23,78,38,20,47,142,106,167,20,92,43,20,39,Fosta Școală nr. 6,Aleea Meziad nr. 4,Cluj-Napoca,46.7506,23.5472
+90,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,124,106,184,4,105,51,34,73,134,109,176,8,109,45,35,61,Școala „Octavian Goga”,Aleea Peana nr. 16,Cluj-Napoca,46.7547,23.5496
+91,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,123,69,174,17,69,21,20,51,126,75,178,14,71,21,17,39,Școala „Octavian Goga”,Aleea Peana nr. 16,Cluj-Napoca,46.7547,23.5496
+92,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,102,124,182,18,61,25,14,47,104,120,184,22,62,30,16,37,Școala „Octavian Goga”,Aleea Peana nr. 16,Cluj-Napoca,46.7547,23.5496
+93,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,106,160,161,15,74,44,22,48,106,164,160,15,76,41,23,49,Colegiul Național „George Coșbuc”,Str. Avram Iancu (Str. Petőfi Sándor) (D) nr. 70-72,Cluj-Napoca,46.7673,23.5968
+94,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,76,127,113,26,67,42,10,30,75,129,115,30,67,33,17,34,Colegiul Național „George Coșbuc”,Str. Avram Iancu (Str. Petőfi Sándor) (D) nr. 70-72,Cluj-Napoca,46.7673,23.5968
+95,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,136,239,233,38,132,76,26,74,143,242,223,38,136,73,29,68,Gradinița „Poienița”,Str. Brașov nr. 27,Cluj-Napoca,46.7629,23.6045
+96,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,106,380,278,29,88,78,14,51,99,389,278,32,93,78,16,44,Gradinița „Poiența”,Str. Alverna nr. 63,Cluj-Napoca,46.7569,23.6145
+97,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,132,270,227,20,106,49,23,67,144,279,217,19,108,42,21,61,Gradinița „Poiența”,Str. Alverna nr. 63,Cluj-Napoca,46.7569,23.6145
+98,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,124,230,230,38,93,32,25,74,119,237,224,39,96,31,27,70,Școala „Constantin Brâncuși”,Str. Horticultorilor nr. 1,Cluj-Napoca,46.7603,23.6159
+99,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,172,204,192,26,163,34,19,64,175,210,192,28,158,33,17,56,Școala „Constantin Brâncuși”,Str. Horticultorilor nr. 1,Cluj-Napoca,46.7603,23.6159
+100,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,72,96,106,11,73,25,9,36,76,89,107,13,76,24,9,36,Școala „Constantin Brâncuși”,Str. Horticultorilor nr. 1,Cluj-Napoca,46.7603,23.6159
+101,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,152,173,190,18,81,41,25,60,159,183,179,20,82,37,30,57,Școala „Constantin Brâncuși”,Str. Horticultorilor nr. 1,Cluj-Napoca,46.7603,23.6159
+102,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,66,116,127,10,138,42,10,28,74,116,122,11,139,38,8,25,"Grădinița „Lumea Copiilor”, Str.Septimiu Albini nr. 53",Str. Septimiu Albini nr. 53,Cluj-Napoca,46.7673,23.6098
+103,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,147,155,149,16,185,49,26,55,148,162,154,17,183,42,23,50,"Creșa „Castelul Fermecat”, Str.Septimiu Albini nr. 91",Str. Septimiu Albini nr. 91,Cluj-Napoca,46.7642,23.6127
+104,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,137,150,174,18,170,41,17,49,130,148,175,14,174,41,20,50,"Creșa „Castelul Fermecat”, Str.Septimiu Albini nr. 91",Str. Septimiu Albini nr. 91,Cluj-Napoca,46.7642,23.6127
+105,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,113,137,180,17,138,29,32,65,118,143,183,20,138,22,31,58,Grădinița „Lumea Copiilor” (fostă nr. 20),Str. Septimiu Albini nr. 91,Cluj-Napoca,46.7642,23.6131
+106,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,125,131,171,18,134,23,22,54,124,138,158,21,137,21,28,56,Grădinița „Lumea Copiilor” (fostă nr. 20),Str. Septimiu Albini nr. 91,Cluj-Napoca,46.7642,23.6131
+107,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,145,175,170,19,168,38,30,79,146,172,183,18,169,38,23,66,Liceul Teoretic „Lucian Blaga”,Aleea Băișoara nr. 2-4,Cluj-Napoca,46.7658,23.6247
+108,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,165,138,130,18,135,59,25,59,170,147,138,17,128,48,27,57,Liceul Teoretic „Lucian Blaga”,Aleea Băișoara nr. 2-4,Cluj-Napoca,46.7658,23.6247
+109,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,111,163,132,9,125,39,21,42,119,161,138,8,126,36,18,36,Liceul Teoretic „Lucian Blaga”,Aleea Băișoara nr. 2-4,Cluj-Napoca,46.7658,23.6247
+110,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,145,158,153,22,110,43,23,49,139,156,159,21,107,49,22,48,Liceul Teoretic „Lucian Blaga”,Aleea Băișoara nr. 2-4,Cluj-Napoca,46.7658,23.6247
+111,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,165,181,187,24,124,63,25,62,165,180,187,25,129,62,26,60,Școala „N.Titulescu”,Aleea Herculane nr. 7,Cluj-Napoca,46.7704,23.6229
+112,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,182,137,195,15,114,48,12,55,175,147,193,17,113,47,11,52,Școala „N.Titulescu”,Aleea Herculane nr. 7,Cluj-Napoca,46.7704,23.6229
+113,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,131,232,168,12,102,43,11,51,132,229,164,13,103,50,14,48,Liceul Tehnologic „Al. Borza”,Str. Alexandru Vaida Voevod (Str. Tineretului) nr. 57,Cluj-Napoca,46.7703,23.6286
+114,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,99,131,117,16,60,44,9,27,99,136,118,13,63,39,11,26,Liceul Tehnologic „Al. Borza”,Str. Alexandru Vaida Voevod (Str. Tineretului) nr. 57,Cluj-Napoca,46.7703,23.6286
+115,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,148,182,166,31,165,41,16,48,139,187,172,36,166,38,14,44,Colegiul Tehnic de Transporturi „Transilvania”,Str. Bistriței nr. 21,Cluj-Napoca,46.7734,23.6186
+116,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,179,242,264,36,124,66,28,71,182,249,265,36,121,58,25,71,Colegiul Tehnic de Transporturi „Transilvania”,Str. Bistriței nr. 21,Cluj-Napoca,46.7734,23.6186
+117,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,163,207,194,18,81,67,23,62,172,203,189,19,85,56,26,66,Colegiul Tehnic „Energetic”,Str. Nicolae Pascaly nr. 2,Cluj-Napoca,46.7711,23.6191
+118,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,155,199,219,18,83,39,26,67,151,203,220,21,84,37,28,63,Universitatea „Babes-Bolyai” - Facultatea de Științe Economice și Gestiunea Afacerilor,Str. Teodor Mihali (Str. Cehoslovaciei) nr. 58-60,Cluj-Napoca,46.7732,23.6212
+119,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,119,119,153,19,79,33,13,30,126,119,155,21,79,27,11,26,Universitatea „Babes-Bolyai” - Facultatea de Științe Economice și Gestiunea Afacerilor,Str. Teodor Mihali (Str. Cehoslovaciei) nr. 58-60,Cluj-Napoca,46.7732,23.6212
+120,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,136,114,150,10,89,22,24,41,138,113,152,8,90,21,22,39,Școala „Ion Agârbiceanu”,Str. Grădinarilor nr. 1,Cluj-Napoca,46.783,23.614
+121,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,137,89,211,17,122,22,19,41,130,91,219,18,120,19,24,44,Școala „Ion Agârbiceanu”,Str. Grădinarilor nr. 1,Cluj-Napoca,46.783,23.614
+122,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,118,92,217,36,111,31,24,44,122,96,205,33,112,30,20,48,Școala „Ion Agârbiceanu”,Str. Grădinarilor nr. 1,Cluj-Napoca,46.783,23.614
+123,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,137,111,185,25,89,47,20,38,142,102,189,25,90,37,22,45,Școala „Ion Agârbiceanu”,Str. Grădinarilor nr. 1,Cluj-Napoca,46.783,23.614
+124,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,121,109,178,16,82,39,23,49,121,112,178,14,84,37,25,48,Școala „Ion Agârbiceanu”,Str. Grădinarilor nr. 1,Cluj-Napoca,46.783,23.614
+125,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,106,134,178,24,88,27,27,46,103,136,169,26,90,32,22,44,Școala „Ion Agârbiceanu”,Str. Grădinarilor nr. 1,Cluj-Napoca,46.783,23.614
+126,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,86,64,123,5,48,26,17,32,90,66,121,5,47,20,19,36,Școala „Ion Agârbiceanu”,Str. Grădinarilor nr. 1,Cluj-Napoca,46.783,23.614
+127,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,167,161,214,24,108,49,22,54,165,160,222,27,108,35,29,61,Grădința „Mămaruța” (fostă nr. 42),Bulevardul 21 Decembrie (Bulevardul 22 Decembrie) (D) nr. 124,Cluj-Napoca,46.776,23.6057
+128,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,164,122,206,19,82,37,37,68,163,119,214,17,91,35,35,58,Colegiul Tehnic „Anghel Saligny”,Bulevardul 21 Decembrie (Bulevardul 22 Decembrie) (D) nr. 128-130,Cluj-Napoca,46.776,23.6065
+129,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,161,114,151,29,80,35,18,51,160,106,155,23,80,31,27,61,Colegiul Tehnic „Anghel Saligny”,Bulevardul 21 Decembrie (Bulevardul 22 Decembrie) (D) nr. 128-130,Cluj-Napoca,46.776,23.6065
+130,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,160,137,210,25,91,62,31,83,149,142,217,27,91,60,32,78,Colegiul Tehnic „Anghel Saligny”,Bulevardul 21 Decembrie (Bulevardul 22 Decembrie) (D) nr. 128-130,Cluj-Napoca,46.776,23.6065
+131,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,124,170,175,13,116,46,25,55,125,178,180,12,107,42,22,52,Colegiul Tehnic „Anghel Saligny”,Bulevardul 21 Decembrie (Bulevardul 22 Decembrie) (D) nr. 128-130,Cluj-Napoca,46.776,23.6065
+132,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,151,164,205,14,91,56,22,53,141,165,208,14,93,52,26,57,Colegiul de Muzică „Sigismund Toduță” (Fostul Grup Scolar de Material Rulant- Unirea),Str. Paris nr. 60,Cluj-Napoca,46.7799,23.5993
+133,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,80,80,82,11,76,20,17,36,84,80,79,10,76,22,17,34,Colegiul de Muzică „Sigismund Toduță” (Fostul Grup Scolar de Material Rulant- Unirea),Str. Paris nr. 60,Cluj-Napoca,46.7799,23.5993
+134,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,131,182,174,19,114,32,22,52,128,170,182,18,119,26,26,59,Liceul Teoretic „A. Iancu”,Str. Onisifor Ghibu (Str. Galați) nr. 25,Cluj-Napoca,46.7774,23.6014
+135,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,86,72,158,25,189,21,19,49,93,71,157,27,185,19,26,51,Liceul Teoretic „Victor Babeș” (fosta Școala „David Prodan”),Str. Meseriilor nr. 20,Cluj-Napoca,46.7836,23.6022
+136,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,104,143,167,15,200,28,15,35,101,148,160,16,204,23,18,40,Seminarul Teologic Ortodox (fostă Școala „David Prodan”),Str. Meseriilor nr. 20,Cluj-Napoca,46.7832,23.6024
+137,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,157,133,137,17,120,47,24,46,154,146,129,20,114,49,22,41,Școala „Horea”,Str. Horea nr. 19/A,Cluj-Napoca,46.7769,23.586
+138,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,128,161,126,20,184,42,27,64,139,165,124,20,183,30,32,63,Liceul Teoretic „N. Balcescu”,Str. Constanța nr. 6,Cluj-Napoca,46.7745,23.5956
+139,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,100,125,148,11,196,36,25,55,97,130,138,15,197,39,22,51,Liceul Teoretic Unitarian „Janos Zsigmond”,Bulevardul 21 Decembrie (Bulevardul 22 Decembrie) (D) nr. 9,Cluj-Napoca,46.772,23.5924
+140,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,158,154,226,33,91,44,19,66,163,163,229,35,90,37,19,55,Pavilionul „Expo Transilvania”,Str. Aurel Vlaicu nr. FN,Cluj-Napoca,46.7817,23.6297
+141,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,99,85,150,16,39,17,14,47,99,85,160,15,39,15,14,40,Pavilionul „Expo Transilvania”,Str. Aurel Vlaicu nr. FN,Cluj-Napoca,46.7817,23.6297
+142,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,183,125,189,29,118,30,17,46,177,125,195,29,115,29,21,50,Pavilionul „Expo Transilvania”,Str. Aurel Vlaicu nr. FN,Cluj-Napoca,46.7817,23.6297
+143,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,136,91,197,23,59,30,20,55,139,86,203,23,57,27,25,54,Pavilionul „Expo Transilvania”,Str. Aurel Vlaicu nr. FN,Cluj-Napoca,46.7817,23.6297
+144,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,81,61,169,18,53,21,18,53,79,60,176,18,51,22,21,51,Pavilionul „Expo Transilvania”,Str. Aurel Vlaicu nr. FN,Cluj-Napoca,46.7817,23.6297
+145,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,133,76,195,18,59,24,24,43,127,68,202,15,63,28,28,46,Pavilionul „Expo Transilvania”,Str. Aurel Vlaicu nr. FN,Cluj-Napoca,46.7817,23.6297
+146,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,131,74,192,19,104,27,26,49,132,75,196,21,104,27,22,43,Pavilionul „Expo Transilvania”,Str. Aurel Vlaicu nr. FN,Cluj-Napoca,46.7817,23.6297
+147,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,131,147,214,19,66,36,29,50,127,137,220,20,71,27,32,58,Grădinița „Degețica” (fostă nr. 53),Str. Târnavelor (Str. Tîrnavelor) nr. 22,Cluj-Napoca,46.7788,23.6255
+148,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,108,104,209,20,69,15,20,55,115,102,212,23,68,15,16,48,Grădinița „Degețica” (fostă nr. 53),Str. Târnavelor (Str. Tîrnavelor) nr. 22,Cluj-Napoca,46.7788,23.6255
+149,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,135,110,229,26,66,25,7,30,127,111,236,23,68,23,14,35,Școala „Al.Vaida Voevod”,Str. Oltului nr. 83,Cluj-Napoca,46.778,23.6341
+150,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,106,130,255,28,106,31,20,74,108,129,263,28,107,24,17,67,Școala „Al.Vaida Voevod”,Str. Oltului nr. 83,Cluj-Napoca,46.778,23.6341
+151,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,111,111,199,23,68,30,8,32,106,103,209,18,72,27,8,33,Școala „Al.Vaida Voevod”,Str. Oltului nr. 83,Cluj-Napoca,46.778,23.6341
+152,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,98,113,140,11,61,22,17,37,101,102,143,11,68,19,19,35,Școala „Al.Vaida Voevod”,Str. Oltului nr. 83,Cluj-Napoca,46.778,23.6341
+153,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,87,107,157,18,88,23,16,36,84,108,157,20,89,26,18,33,Școala „Al.Vaida Voevod”,Str. Oltului nr. 83,Cluj-Napoca,46.778,23.6341
+154,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,160,152,191,19,108,44,31,60,159,154,198,20,108,38,27,55,Grup Școlar „Samus”,Str. Ialomița nr. 17,Cluj-Napoca,46.7831,23.6189
+155,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,127,136,196,18,98,19,17,51,127,131,203,16,96,24,15,47,Grup Școlar „Samus”,Str. Ialomița nr. 17,Cluj-Napoca,46.7831,23.6189
+156,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,186,105,197,14,67,39,31,61,193,109,193,16,64,33,31,58,Grup Școlar „Samus”,Str. Ialomița nr. 17,Cluj-Napoca,46.7831,23.6189
+157,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,124,99,155,12,119,24,20,46,119,105,163,14,111,24,18,43,Colegiul Tehnic „Ana Aslan” (Fostul Grup Sc. Chimie Ind „Terapia”),Str. Decebal (Str. Marx Karl) nr. 41,Cluj-Napoca,46.7798,23.5888
+158,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,117,161,149,18,146,44,21,54,123,153,153,18,144,40,22,54,Colegiul Tehnic „Ana Aslan” (Fostul Grup Sc. Chimie Ind „Terapia”),Str. Decebal (Str. Marx Karl) nr. 41,Cluj-Napoca,46.7798,23.5888
+159,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,106,130,125,24,107,30,15,40,113,123,131,21,108,26,16,40,"Eparhia Reformată din Ardeal, Str.Horea nr. 51",Str. Horea nr. 51,Cluj-Napoca,46.7804,23.587
+160,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,105,159,166,33,222,55,16,49,107,166,163,36,223,46,17,47,Școala „Horea” (fostă nr. 27),Str. 11 Octombrie nr. 3,Cluj-Napoca,46.7784,23.5768
+161,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,113,200,179,19,136,62,23,56,114,197,191,17,144,52,22,43,Liceul Teologic „Emanuel”,Str. 11 Octombrie nr. 3,Cluj-Napoca,46.7784,23.5768
+162,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,98,140,181,15,209,69,13,43,103,148,171,16,207,62,18,46,Liceul Teologic „Emanuel”,Str. 11 Octombrie nr. 3,Cluj-Napoca,46.7784,23.5768
+163,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,126,97,188,27,91,45,16,45,125,102,187,27,90,44,17,42,Grădinița „Neghiniță”,Calea Baciului nr. 56,Cluj-Napoca,46.7877,23.5776
+164,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,109,80,181,17,34,27,12,27,106,78,184,15,34,28,16,31,Grădinița „Neghiniță”,Calea Baciului nr. 56,Cluj-Napoca,46.7859,23.5532
+165,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,125,105,179,20,136,37,39,79,131,104,175,26,137,32,36,75,Grădinița „Neghiniță”,Str. Corneliu Coposu (Str. Maxim Gorki) nr. 20,Cluj-Napoca,46.7877,23.5776
+166,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,138,121,216,34,168,33,21,55,140,112,219,29,175,42,24,53,Grădinița „Neghiniță”,Str. Corneliu Coposu (Str. Maxim Gorki) nr. 20,Cluj-Napoca,46.7877,23.5776
+167,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,106,110,184,13,190,44,11,46,108,113,174,12,196,49,10,38,Școala „Emil Isac”,Str. Giordano Bruno nr. 46,Cluj-Napoca,46.7894,23.5774
+168,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,96,56,70,16,76,13,19,38,94,63,70,16,74,12,18,33,Școala „Emil Isac”,Str. Giordano Bruno nr. 46,Cluj-Napoca,46.7894,23.5774
+169,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,126,82,170,19,144,25,19,37,131,88,167,21,141,19,15,35,Școala „Nicolae Iorga”,Str. Războieni nr. 67,Cluj-Napoca,46.7921,23.5975
+170,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,111,86,203,12,52,19,18,53,115,89,199,14,54,16,18,49,Școala „Nicolae Iorga”,Str. Războieni nr. 67,Cluj-Napoca,46.7921,23.5975
+171,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,139,105,209,26,205,25,25,61,138,110,213,30,210,27,17,45,Școala „Nicolae Iorga”,Str. Războieni nr. 67,Cluj-Napoca,46.7921,23.5975
+172,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,79,155,186,19,110,30,24,49,82,156,188,20,109,26,28,47,Școala „Nicolae Iorga”,Str. Războieni nr. 67,Cluj-Napoca,46.7921,23.5975
+173,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,57,43,156,15,84,9,11,35,56,38,158,14,88,11,10,33,"Liceul Tehnologic nr. 1 (Fostul Grup Școlar Tehnofrig), Str.Maramureșului nr. 165/A",Str. Maramureșului nr. 165/A,Cluj-Napoca,46.7934,23.5954
+174,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,82,123,213,12,58,29,12,33,80,125,209,13,61,30,7,30,"Liceul Tehnologic nr. 1 (Fostul Grup Școlar Tehnofrig), Str.Maramureșului nr. 165/A",Str. Maramureșului nr. 165/A,Cluj-Napoca,46.7934,23.5954
+175,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,95,67,165,10,38,23,9,25,91,67,167,12,37,17,16,32,Liceul Tehnologic „Aurel Vlaicu”,Bulevardul Muncii (Str. Podgoriei) nr. 199-201,Cluj-Napoca,46.7962,23.6313
+176,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,81,73,170,15,44,20,23,48,83,66,177,16,43,19,21,46,Liceul Tehnologic „Aurel Vlaicu”,Bulevardul Muncii (Str. Podgoriei) nr. 199-201,Cluj-Napoca,46.7962,23.6313
+177,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,102,91,176,8,324,28,8,41,114,90,174,10,325,22,4,32,Garaje Compania de Transport Public Cluj-Napoca S.A.,Str. Plevnei nr. 12,Cluj-Napoca,46.7873,23.6288
+178,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,132,99,261,21,50,45,13,33,144,93,257,19,51,44,11,35,Școala „Traian Darjan”,Str. Traian Vuia nr. 76,Cluj-Napoca,46.7841,23.6547
+179,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,123,122,206,25,64,28,13,43,118,128,203,27,69,27,14,42,Școala „Traian Darjan”,Str. Traian Vuia nr. 76,Cluj-Napoca,46.7841,23.6547
+180,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,98,107,251,23,76,33,15,41,100,107,261,22,75,32,16,34,Școala „Traian Darjan”,Str. Traian Vuia nr. 76,Cluj-Napoca,46.7841,23.6547
+181,13,CLUJ,MUNICIPIUL CLUJ-NAPOCA,109,75,180,23,99,26,18,41,105,77,172,25,101,30,19,42,Școala „Traian Darjan”,Str. Traian Vuia nr. 76,Cluj-Napoca,46.7841,23.6547
+351,13,CLUJ,BONŢIDA,20,1,24,2,1,1,1,2,17,1,26,2,1,1,2,3,Școala Generală Coasta,Nr. 120,Coasta,46.884,23.8985
+498,13,CLUJ,JICHIŞU DE JOS,71,4,19,1,1,11,3,15,75,3,25,1,1,10,3,8,Căminul Cultural,Nr. 40,Codor,47.1236,23.8151
+413,13,CLUJ,COJOCNA,34,18,22,1,128,7,4,19,36,19,28,1,125,8,4,11,Școala Gimnazială Cojocna Sala nr. 4,Str. Mihail Eminescu nr. 2,Cojocna,46.7503,23.8362
+414,13,CLUJ,COJOCNA,28,18,45,2,57,11,9,24,31,19,51,2,57,11,10,17,Școala Gimnazială Cojocna Sala nr. 7,Str. Mihail Eminescu nr. 2,Cojocna,46.7503,23.8362
+622,13,CLUJ,TRITENII DE JOS,31,3,21,6,64,2,3,14,34,2,22,6,62,3,7,11,Școala Primară,Nr. 124,Colonia,46.5948,23.9718
+628,13,CLUJ,TURENI,9,12,18,2,8,5,2,5,10,11,19,3,8,5,1,5,Școala cu Clasele I-IV Comsesti nr. 111,Nr. 111,Comșești,46.6334,23.6698
+380,13,CLUJ,CĂŞEIU,53,1,48,4,5,6,2,29,59,2,56,7,5,7,2,9,Școala Coplean,Nr. 53,Coplean,47.1972,23.8289
+388,13,CLUJ,CĂTINA,26,1,20,0,2,3,1,4,21,0,24,0,2,3,1,3,Căminul Cultural Copru,Nr. 25,Copru,46.872,24.2007
+591,13,CLUJ,SĂNDULEŞTI,116,38,70,31,7,40,11,25,122,40,67,32,6,38,12,24,Școala Simion Balint,Nr. 178,Copăceni,46.5962,23.738
+303,13,CLUJ,ALUNIŞ,18,0,16,0,2,2,0,3,18,1,17,0,2,2,0,1,Camin Cultural Corneni,,Corneni,47.0745,23.7409
+422,13,CLUJ,CORNEŞTI,23,1,13,5,4,8,7,14,22,0,15,4,4,6,8,15,Școala Gimnazială Lia Manoliu Cornești,Nr. 38,Cornești,47.0338,23.6801
+476,13,CLUJ,GÎRBĂU,12,2,55,1,1,2,5,13,16,3,50,1,1,2,6,14,Caminul Cultural Cornesti,Nr. 74,Cornești,46.8882,23.3276
+529,13,CLUJ,MIHAI VITEAZU,49,9,21,43,83,7,7,16,50,9,20,48,83,5,4,11,Școala Generală,Nr. 161,Cornești,46.5211,23.6862
+313,13,CLUJ,APAHIDA,58,6,48,3,1,0,2,6,63,6,44,4,1,1,1,7,Cămin Cultural Corpadea,Str. Crișan nr. 8,Corpadea,46.7922,23.8295
+323,13,CLUJ,BACIU,89,19,69,7,3,3,4,16,88,19,67,10,3,3,4,16,Școala Corusu,Nr. 219,Corușu,46.8475,23.5057
+317,13,CLUJ,AŞCHILEU,53,1,18,1,10,1,2,5,48,0,21,1,10,1,3,5,Grădinița Cristorel,Nr. 31,Cristorel,46.9656,23.4591
+540,13,CLUJ,MOCIU,21,0,51,0,5,17,0,8,18,0,48,0,5,17,1,10,Școala Generală,Nr. 132,Crișeni,46.7521,24.048
+565,13,CLUJ,PETREŞTII DE JOS,11,1,49,5,3,4,2,9,10,1,49,6,3,4,1,9,Școala Generală,Nr. 121,Crăești,46.6153,23.586
+557,13,CLUJ,PANTICEU,68,2,16,7,8,2,0,3,67,2,15,7,9,1,0,4,Școala Clasele I-IV,Nr. 250A,Cubleșu Someșan,47.0513,23.6274
+642,13,CLUJ,VAD,17,0,78,0,0,2,0,1,15,0,78,0,0,2,1,2,Școala Curtuiuș,Nr. 110,Curtuiușu Dejului,47.2167,23.6798
+605,13,CLUJ,SÂNMĂRTIN,241,1,9,7,1,3,3,7,238,3,10,7,4,3,3,6,Școala Gimnazială Cutca,Nr. 163,Cutca,47.0337,24.0801
+428,13,CLUJ,CUZDRIOARA,157,20,75,4,14,45,6,25,164,20,79,2,16,40,10,14,Căminul Cultural,Nr. 107,Cuzdrioara,47.1678,23.9177
+429,13,CLUJ,CUZDRIOARA,132,11,50,9,10,20,2,20,129,11,49,9,9,21,6,20,Căminul Cultural,Nr. 107,Cuzdrioara,47.1678,23.9177
+314,13,CLUJ,APAHIDA,15,3,14,1,1,3,1,7,13,4,15,1,1,3,1,6,Sediu Sector Piscicola,Str. Salcâmilor nr. 148,Câmpenești,46.8405,23.7151
+182,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,100,9,99,13,13,9,20,64,126,11,91,19,17,11,24,32,Colegiul Tehnic „Victor Ungureanu”,Str. Laminoriștilor nr. 115,Câmpia Turzii,46.5531,23.8784
+183,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,153,22,143,24,31,15,22,43,159,23,139,22,30,14,27,41,Colegiul Tehnic „Victor Ungureanu”,Str. Laminoriștilor nr. 115,Câmpia Turzii,46.5531,23.8784
+184,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,124,10,111,24,24,14,11,25,141,9,109,20,26,8,11,21,Colegiul Tehnic „Victor Ungureanu”,Str. Laminoriștilor nr. 115,Câmpia Turzii,46.5531,23.8784
+185,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,94,16,121,16,11,8,14,30,92,22,119,15,12,9,15,25,Liceul Teoretic „Pavel Dan”,Str. Lazăr Gheorghe nr. 14,Câmpia Turzii,46.5437,23.8748
+186,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,107,31,148,19,20,15,15,32,121,39,138,17,19,14,18,30,Liceul Teoretic „Pavel Dan”,Str. Lazăr Gheorghe nr. 14,Câmpia Turzii,46.5437,23.8748
+187,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,135,20,121,20,6,10,17,34,130,19,121,19,6,10,29,42,Liceul Teoretic „Pavel Dan”,Str. Tudor Vladimirescu nr. 33,Câmpia Turzii,46.5389,23.8937
+188,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,150,29,126,36,20,18,18,52,160,29,131,29,24,21,18,37,Liceul Teoretic „Pavel Dan”,Str. 1 Decembrie 1918 (Str. 6 Martie) nr. 17,Câmpia Turzii,46.5423,23.889
+189,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,155,31,104,8,24,15,15,38,159,27,97,7,28,17,19,39,Liceul Teoretic „Pavel Dan”,Str. 1 Decembrie 1918 (Str. 6 Martie) nr. 17,Câmpia Turzii,46.5423,23.889
+190,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,154,46,149,17,23,11,22,51,147,47,151,14,25,13,29,49,Liceul Teoretic „Pavel Dan”,Str. 1 Decembrie 1918 (Str. 6 Martie) nr. 17,Câmpia Turzii,46.5423,23.889
+191,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,180,52,144,18,23,26,25,42,180,51,148,16,21,25,34,47,Școala Gimnazială „Avram Iancu”,Str. Nouă nr. 8,Câmpia Turzii,46.5461,23.8835
+192,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,167,36,160,21,88,23,22,45,172,35,152,24,87,20,26,50,Școala Gimnazială „Avram Iancu”,Str. Nouă nr. 8,Câmpia Turzii,46.5461,23.8835
+193,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,116,21,102,13,90,29,16,38,127,17,107,13,88,21,18,34,Școala Gimnazială „Avram Iancu”,Str. Nouă nr. 8,Câmpia Turzii,46.5461,23.8835
+194,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,182,27,156,24,43,22,21,40,182,29,152,26,41,21,23,41,Grădinița „Pinocchio”,Str. Retezatului nr. 6A,Câmpia Turzii,46.5372,23.8835
+195,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,146,17,139,22,13,23,14,31,145,19,137,21,15,23,17,30,Grădinița „Pinocchio”,Str. Retezatului nr. 6A,Câmpia Turzii,46.5372,23.8835
+196,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,168,24,159,23,25,12,16,46,171,26,157,20,26,15,23,43,Grădinița „Pinocchio”,Str. Retezatului nr. 6A,Câmpia Turzii,46.5372,23.8835
+197,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,145,25,131,32,22,12,17,36,146,26,126,31,23,13,20,36,Școala Gimnazială „Mihai Viteazu”,Str. Gheorghe Barițiu nr. 57,Câmpia Turzii,46.5368,23.8867
+198,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,210,17,187,11,17,15,23,53,212,21,186,15,18,14,25,43,Școala Gimnazială „Mihai Viteazu”,Str. Gheorghe Barițiu nr. 57,Câmpia Turzii,46.5368,23.8867
+199,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,192,28,138,22,27,21,28,47,192,26,143,25,25,18,35,46,Școala Gimnazială „Mihai Viteazu”,Str. Gheorghe Barițiu nr. 57,Câmpia Turzii,46.5368,23.8867
+200,13,CLUJ,MUNICIPIUL CÂMPIA TURZII,140,11,107,16,15,5,7,36,138,10,117,19,16,4,10,25,Școala Gimnazială „Mihai Viteazu”,Str. Gheorghe Barițiu nr. 57,Câmpia Turzii,46.5368,23.8867
+410,13,CLUJ,CÎŢCĂU,165,19,391,4,6,14,18,40,162,18,404,6,8,20,16,24,Școala Gimnazială Cîțcău,Nr. 101,Câțcău,47.2178,23.7898
+357,13,CLUJ,CĂIANU,46,8,74,2,5,6,1,5,48,11,69,1,5,6,2,5,Școala Gimnazială Caianu Mic,Nr. 18,Căianu Mic,46.7965,23.917
+359,13,CLUJ,CĂIANU,26,3,33,6,6,1,1,5,24,4,32,6,6,1,1,5,Școala Generală Căianu Vamă,Nr. 40,Căianu-Vamă,46.7991,23.8779
+366,13,CLUJ,CĂLĂŢELE,50,6,40,3,3,5,8,13,52,6,42,2,3,3,7,14,Școala Călata,,Călata,46.8002,23.0002
+361,13,CLUJ,CĂLĂRAŞI,28,7,48,2,154,5,4,9,30,9,45,3,160,3,5,8,Camin Cultural Calarasi,Nr. 8,Călărași,46.484,23.8534
+363,13,CLUJ,CĂLĂRAŞI,41,3,46,1,9,3,1,8,43,3,46,1,8,3,1,8,Caminul Cultural Calarasi -Gara,Nr. 107,Călărași-Gară,46.4853,23.8874
+364,13,CLUJ,CĂLĂŢELE,81,10,64,12,2,48,11,15,80,11,64,11,2,47,12,15,Școala din Călățele,,Călățele,46.7677,23.0081
+365,13,CLUJ,CĂLĂŢELE,38,0,15,3,1,4,15,25,40,1,14,3,1,5,14,23,Caminul Cultural Călățele Pădure,,Călățele,46.7133,23.0135
+370,13,CLUJ,CĂMĂRAŞU,190,8,84,5,14,7,2,24,197,6,89,6,14,6,2,12,Camin Cultural Camarasu,Nr. 32,Cămărașu,46.7885,24.1295
+373,13,CLUJ,CĂPUŞU MARE,17,10,23,12,252,3,2,10,18,9,23,12,252,3,2,9,Căminul Cultural Căpușu Mare,Nr. 59,Căpușu Mare,46.7914,23.291
+374,13,CLUJ,CĂPUŞU MARE,35,10,30,11,153,5,6,17,35,8,30,12,153,6,7,15,Căminul Cultural,Nr. 86,Căpușu Mic,46.7984,23.2555
+386,13,CLUJ,CĂTINA,120,4,132,8,11,6,5,24,121,5,133,11,13,5,4,17,Primăria Com.Cătina,Nr. 154,Cătina,46.8451,24.1623
+559,13,CLUJ,PANTICEU,28,1,17,1,1,2,1,1,29,1,18,1,1,1,2,2,Camin Cultural,Nr. 51,Cătălina,47.0364,23.505
+379,13,CLUJ,CĂŞEIU,175,20,139,4,3,22,12,24,171,21,135,4,1,22,17,29,Căminul Cultural,Nr. 247,Cășeiu,47.1961,23.8548
+336,13,CLUJ,BELIŞ,15,0,10,2,0,2,1,1,14,0,10,2,0,3,1,1,Școala Primară Dealu Botii,Nr. FN,Dealu Botii,46.6727,22.9221
+585,13,CLUJ,RÎŞCA,20,2,45,2,0,8,32,42,31,1,47,5,1,6,26,34,Școala Primară cu Clasele I-IV,Nr. 84,Dealu Mare,46.717,23.1396
+369,13,CLUJ,CĂLĂŢELE,42,2,89,8,1,4,32,38,48,2,91,12,1,2,26,32,Școala din Dealu Negru,,Dealu Negru,46.7173,23.0598
+201,13,CLUJ,MUNICIPIUL DEJ,160,18,107,11,6,26,28,79,159,19,113,10,5,25,36,76,S.C. Vasrom S.R.L Dej,Str. Bistriței nr. 2,Dej,47.1543,23.8776
+202,13,CLUJ,MUNICIPIUL DEJ,183,71,164,12,61,47,11,64,187,70,173,16,62,47,20,46,Școala Generală nr. 1 Dej,Str. Mărășești nr. 2,Dej,47.1433,23.8757
+203,13,CLUJ,MUNICIPIUL DEJ,124,11,74,13,11,24,5,29,134,10,78,12,12,22,6,21,Școala Mihai Eminescu Dej,Str. Regina Maria (Str. Republicii) nr. 22,Dej,47.1406,23.8796
+204,13,CLUJ,MUNICIPIUL DEJ,138,34,104,14,37,24,16,37,140,37,107,14,40,22,19,29,Școala Mihai Eminescu Dej,Str. Regina Maria (Str. Republicii) nr. 22,Dej,47.1406,23.8796
+205,13,CLUJ,MUNICIPIUL DEJ,273,69,148,34,59,86,28,76,275,75,152,34,57,88,33,65,Școala Mihai Eminescu Dej,Str. Avram Iancu nr. 2,Dej,47.1414,23.8774
+206,13,CLUJ,MUNICIPIUL DEJ,212,30,125,15,88,32,11,44,216,34,122,15,87,42,11,29,Liceul Al.P.Ilarian din Dej,Piața Lupeni nr. 2,Dej,47.1416,23.8729
+207,13,CLUJ,MUNICIPIUL DEJ,228,38,169,12,66,53,10,61,239,40,171,24,64,48,19,41,Grădinița Junior Dej,Str. Înfrățirii nr. 30,Dej,47.1392,23.8728
+208,13,CLUJ,MUNICIPIUL DEJ,183,58,117,16,58,37,21,66,186,60,120,19,58,37,21,57,Ocolul Silvic Dej,Str. Nicolae Iorga nr. 5,Dej,47.1437,23.8717
+209,13,CLUJ,MUNICIPIUL DEJ,231,39,148,20,51,45,13,63,219,48,153,26,54,45,21,53,Clubul Copiilor Dej,Str. Nicolae Titulescu (Str. Dr. Petru Groza) nr. 4,Dej,47.147,23.875
+210,13,CLUJ,MUNICIPIUL DEJ,127,7,51,14,2,24,5,70,148,9,69,15,4,27,14,23,Caminul Cultural Dej,Str. Valea Codorului nr. 72,Dej,47.1366,23.8457
+211,13,CLUJ,MUNICIPIUL DEJ,222,21,109,16,31,50,13,38,218,30,107,20,32,42,19,36,Școala Generală Avram Iancu Dej,Str. Mărăști nr. 5A,Dej,47.1346,23.8817
+212,13,CLUJ,MUNICIPIUL DEJ,227,44,111,27,31,36,13,44,225,48,116,30,31,31,17,39,Școala Generală Avram Iancu Dej,Str. Mărăști nr. 5A,Dej,47.1346,23.8817
+213,13,CLUJ,MUNICIPIUL DEJ,254,49,149,9,52,38,16,54,250,52,152,10,56,44,22,41,Serviciul de Administrare al Domeniului Public Dej,Str. Crângului (Str. Crîngului) nr. FN,Dej,47.1254,23.8865
+214,13,CLUJ,MUNICIPIUL DEJ,237,34,106,14,35,32,13,38,233,33,108,13,39,37,21,36,Școala Generală nr. 5 Dej,Str. Pepineriei nr. 6,Dej,47.128,23.8869
+215,13,CLUJ,MUNICIPIUL DEJ,285,31,95,10,46,38,16,60,290,28,99,14,49,35,21,49,Școala Generală nr. 5 Dej,Str. Pepineriei nr. 6,Dej,47.128,23.8869
+216,13,CLUJ,MUNICIPIUL DEJ,176,15,80,5,45,30,6,24,175,16,81,7,47,30,9,21,Grădinița Piticot Dej,Aleea Tomis nr. 4,Dej,47.1337,23.886
+217,13,CLUJ,MUNICIPIUL DEJ,191,19,79,13,39,26,10,39,204,16,85,9,41,25,12,28,Grădinița Piticot Dej,Aleea Tomis nr. 4,Dej,47.1337,23.886
+218,13,CLUJ,MUNICIPIUL DEJ,213,41,102,17,42,28,18,51,218,46,110,17,46,26,20,33,Grădinița Piticot Dej,Aleea Tomis nr. 4,Dej,47.1337,23.886
+219,13,CLUJ,MUNICIPIUL DEJ,189,28,99,10,44,38,14,40,197,29,95,11,49,38,14,31,Grădinița Paradisul Piticilor Dej,Str. Unirii nr. 1,Dej,47.1311,23.8858
+220,13,CLUJ,MUNICIPIUL DEJ,197,20,71,11,30,24,17,40,204,23,70,11,32,25,13,28,Școala Generală Avram Iancu Dej - Corp B,Str. Aurora nr. 5,Dej,47.132,23.8888
+221,13,CLUJ,MUNICIPIUL DEJ,231,20,103,14,48,30,21,59,240,21,102,11,47,33,22,48,Școala Generală Avram Iancu Dej - Corp B,Str. Aurora nr. 5,Dej,47.132,23.8888
+222,13,CLUJ,MUNICIPIUL DEJ,122,14,50,13,31,78,5,27,127,12,61,12,34,68,7,25,Școala Generală Ocna Dej,Str. Mixandrelor nr. 2/A,Dej,47.1169,23.8612
+223,13,CLUJ,MUNICIPIUL DEJ,128,11,41,7,28,105,10,38,143,12,49,5,29,96,8,24,Școala Generală Ocna Dej,Str. Mixandrelor nr. 2/A,Dej,47.1169,23.8612
+224,13,CLUJ,MUNICIPIUL DEJ,120,20,56,11,134,34,7,51,132,21,72,11,140,26,12,21,Grădinița de Copii Lumea Piticilor,Str. Dealul Viilor nr. 14,Dej,47.1326,23.8887
+564,13,CLUJ,PETREŞTII DE JOS,17,2,36,0,1,15,3,5,16,2,36,0,0,17,2,5,Școala Generală,Nr. 67,Deleni,46.6054,23.6414
+395,13,CLUJ,CHINTENI,121,9,76,14,22,2,7,17,119,8,80,12,21,1,10,21,Școala Clasele I-IV Deușu,,Deușu,46.8982,23.5179
+311,13,CLUJ,APAHIDA,199,78,152,22,7,13,6,35,201,85,152,22,7,12,6,29,Sediu Primărie Dezmir,Str. Viilor nr. 15,Dezmir,46.7664,23.7203
+609,13,CLUJ,SÂNMĂRTIN,104,2,8,0,1,3,1,4,104,1,10,0,1,2,1,4,Școala Prim. Div-Mari,Nr. 148,Diviciorii Mari,46.9878,24.0707
+610,13,CLUJ,SÂNMĂRTIN,42,2,1,0,1,1,2,3,42,2,1,0,1,1,2,3,Școala Prim. Div-Mici,Nr. 71,Diviciorii Mici,46.9732,24.098
+602,13,CLUJ,SÂNCRAIU,6,0,3,2,189,3,1,6,6,0,2,3,189,4,2,6,Domosu nr. 22 Caminul Cultural,Nr. 22,Domoșu,46.831,23.0232
+294,13,CLUJ,AGHIREŞU,3,0,3,0,43,1,1,3,4,0,3,2,40,1,1,3,Camin Cultural Doroltu,,Dorolțu,46.8554,23.2918
+393,13,CLUJ,CEANU MARE,28,1,5,0,2,4,1,3,27,1,6,0,2,4,2,3,Școala Dosu Napului,Nr. 76,Dosu Napului,46.6655,23.9045
+376,13,CLUJ,CĂPUŞU MARE,23,2,18,6,55,2,0,5,25,3,16,6,56,2,0,6,Fostul Sediu Cap,Nr. 74,Dumbrava,46.8252,23.2155
+293,13,CLUJ,AGHIREŞU,16,0,11,1,1,3,0,3,16,0,11,1,1,3,1,3,Școala Generală Dancu,,Dâncu,46.9099,23.2248
+378,13,CLUJ,CĂPUŞU MARE,49,2,78,19,1,8,5,12,51,2,84,19,2,5,4,8,Școala cu Clasele I-IV Dîngăul Mare,Nr. 115,Dângău Mare,46.7542,23.1964
+558,13,CLUJ,PANTICEU,46,1,11,2,3,2,1,3,45,1,10,2,3,3,0,3,Cladire Școala,Nr. NR.40,Dârja,47.0158,23.5925
+431,13,CLUJ,DĂBÎCA,64,11,89,0,1,7,8,24,65,10,92,0,1,5,7,23,Școala Gimnazială cu Clasele I-VIII „Gelu Românul”,Nr. 340,Dăbâca,46.9687,23.6756
+579,13,CLUJ,RECEA-CRISTUR,9,2,63,1,1,1,2,7,13,2,63,1,1,1,1,4,Școala,,Elciu,47.079,23.5669
+397,13,CLUJ,CHINTENI,163,7,12,2,5,5,3,7,161,7,16,1,5,2,3,8,Punct Lucru Feiurdeni al Primăriei Comunei Chinteni,,Feiurdeni,46.8811,23.6259
+387,13,CLUJ,CĂTINA,46,1,12,2,44,5,5,12,48,1,12,2,47,4,7,11,Școala cu Clasele I-IV Feldioara,Nr. 119,Feldioara,46.8848,24.1538
+434,13,CLUJ,FELEACU,187,134,111,12,7,15,15,40,187,134,112,12,7,14,23,42,Caminul Cultural Feleacu din Localitatea Feleacu,Nr. 141,Feleacu,46.7151,23.6153
+406,13,CLUJ,CIURILA,48,2,42,1,0,3,3,7,50,2,43,1,0,3,2,4,Școala Gimnazială,Nr. 81,Filea de Jos,46.619,23.5045
+368,13,CLUJ,CĂLĂŢELE,12,0,37,8,1,3,3,5,13,0,37,6,1,2,4,6,Căminul Cultural Finciu,,Finciu,46.7536,23.0373
+597,13,CLUJ,SĂVĂDISLA,69,9,46,5,1,12,43,59,68,9,58,5,1,10,34,50,Școala cu Clasele I-VIII,Nr. 103,Finișel,46.6782,23.4288
+437,13,CLUJ,FIZEŞU GHERLII,34,5,41,0,112,16,1,9,32,2,47,2,111,17,1,6,Caminul Cult.Fizesu Gherlii,,Fizeșu Gherlii,47.0226,23.9876
+441,13,CLUJ,FLOREŞTI,66,172,182,32,43,23,13,35,70,168,192,31,43,24,12,29,Primăria Comunei Floresti,Str. Avram Iancu (Str. Colonia Vanea) nr. 170,Florești,46.7434,23.4856
+442,13,CLUJ,FLOREŞTI,92,210,246,21,59,23,9,40,91,201,259,24,62,23,10,34,Primăria Comunei Floresti,Str. Avram Iancu (Str. Colonia Vanea) nr. 170,Florești,46.7434,23.4856
+443,13,CLUJ,FLOREŞTI,70,59,196,13,62,18,16,40,76,73,215,16,64,27,14,36,Primăria Comunei Floresti,Str. Avram Iancu (Str. Colonia Vanea) nr. 170,Florești,46.7434,23.4856
+444,13,CLUJ,FLOREŞTI,140,236,271,34,56,35,17,44,128,242,271,37,54,42,16,38,Școala „Gheorghe Șincai”,Str. Avram Iancu (Str. Colonia Vanea) nr. 221,Florești,46.7448,23.4879
+445,13,CLUJ,FLOREŞTI,101,194,195,17,68,31,10,37,105,192,190,22,71,27,9,37,Școala Gh. Sincai,Str. Avram Iancu (Str. Colonia Vanea) nr. 221,Florești,46.7448,23.4879
+446,13,CLUJ,FLOREŞTI,88,84,116,12,43,17,22,49,91,80,122,12,46,22,14,38,Grădinița nr. 1,Str. Avram Iancu (Str. Colonia Vanea) nr. 132,Florești,46.7436,23.4788
+447,13,CLUJ,FLOREŞTI,98,204,216,19,48,33,8,35,88,207,216,20,48,36,12,37,Grădinița nr. 1,Str. Avram Iancu (Str. Colonia Vanea) nr. 132,Florești,46.7436,23.4788
+448,13,CLUJ,FLOREŞTI,109,227,326,23,67,36,36,74,113,219,329,20,68,34,31,73,Grădinița nr. 2,Str. Horea nr. 55,Florești,46.7476,23.4956
+449,13,CLUJ,FLOREŞTI,119,302,293,36,53,42,23,67,120,307,291,37,60,37,23,59,Grădinița nr. 2,Str. Horea nr. 55,Florești,46.7476,23.4956
+450,13,CLUJ,FLOREŞTI,64,126,165,15,46,23,15,45,63,127,164,14,47,26,15,43,Sala de Sport Cetatea Fetei,,Florești,46.7289,23.4836
+451,13,CLUJ,FLOREŞTI,49,172,204,9,46,18,17,42,50,165,203,15,49,18,20,40,Sala de Sport Cetatea Fetei,,Florești,46.7289,23.4836
+452,13,CLUJ,FLOREŞTI,97,199,200,25,53,35,20,57,91,206,202,29,52,37,16,46,Sala de Sport Cetatea Fetei,,Florești,46.7289,23.4836
+453,13,CLUJ,FLOREŞTI,63,259,273,36,55,29,17,53,70,256,272,43,55,27,16,47,Sala de Sport Cetatea Fetei,,Florești,46.7289,23.4836
+318,13,CLUJ,AŞCHILEU,50,1,16,5,12,1,6,12,50,2,17,5,12,1,4,8,Școala Primară Fodora,Nr. 34,Fodora,46.9765,23.5242
+457,13,CLUJ,FRATA,92,10,157,26,10,12,12,24,91,6,172,25,8,12,10,20,Caminul Cultural Frata,,Frata,46.7018,24.0557
+491,13,CLUJ,ICLOD,75,12,39,8,2,8,7,10,73,15,32,10,2,9,7,13,Școala din Fundatura,,Fundătura,46.9555,23.7853
+479,13,CLUJ,IARA,26,1,33,1,1,7,2,10,24,1,33,0,1,7,4,11,Școala,,Făgetu Ierii,46.5395,23.5227
+655,13,CLUJ,VULTURENI,12,0,34,0,1,1,15,15,12,0,32,0,1,1,16,16,Caminul Cultural Faureni,Nr. 21,Făureni,46.9291,23.5445
+461,13,CLUJ,GEACA,45,2,110,17,3,6,4,12,47,3,113,17,3,3,4,9,Camin Cultural Geaca,Nr. 183,Geaca,46.8569,24.089
+435,13,CLUJ,FELEACU,19,13,18,1,342,7,2,8,19,15,17,1,341,7,3,9,Caminul Cultural din Localitatea Gheorgheni,Nr. 270/A,Gheorghieni,46.7109,23.6954
+227,13,CLUJ,MUNICIPIUL GHERLA,299,17,152,28,48,20,29,65,290,20,150,22,50,27,33,68,Liceul Teoretic Petru Maior Gherla,Str. Bobîlna nr. NR.36,Gherla,47.0329,23.9096
+228,13,CLUJ,MUNICIPIUL GHERLA,233,39,119,26,101,29,14,41,229,43,131,29,96,23,17,35,Liceul Teoretic Petru Maior Gherla,Str. Bobîlna nr. NR.36,Gherla,47.0329,23.9096
+229,13,CLUJ,MUNICIPIUL GHERLA,212,47,114,22,94,33,28,55,204,48,115,27,100,35,29,47,Școala Gimnazială nr. 2,Str. Bobîlna nr. 14,Gherla,47.0309,23.9084
+230,13,CLUJ,MUNICIPIUL GHERLA,181,25,95,10,73,8,17,32,176,26,98,8,72,11,18,35,Școala Gimnazială nr. 1,Str. Liviu Rebreanu (Str. Armata Roșie) nr. NR.27.,Gherla,47.0313,23.9151
+231,13,CLUJ,MUNICIPIUL GHERLA,199,10,83,22,74,21,16,35,206,8,88,16,76,21,15,31,Școala Gimnazială nr. 1,Str. Liviu Rebreanu (Str. Armata Roșie) nr. 27,Gherla,47.0313,23.9151
+232,13,CLUJ,MUNICIPIUL GHERLA,181,32,97,18,108,19,13,31,176,40,91,20,106,22,18,32,Școala Gimnazială nr. 1,Str. Liviu Rebreanu (Str. Armata Roșie) nr. 27,Gherla,47.0313,23.9151
+233,13,CLUJ,MUNICIPIUL GHERLA,200,59,128,32,104,32,7,28,188,63,130,35,104,31,10,30,Școala Gimnazială nr. 2,Str. Dragoș Vodă nr. NR.3,Gherla,47.0278,23.9096
+234,13,CLUJ,MUNICIPIUL GHERLA,146,24,73,10,41,23,6,28,144,28,72,10,43,19,9,26,Școala Gimnazială nr. 2,Str. Dragoș Vodă nr. NR.3,Gherla,47.0278,23.9096
+235,13,CLUJ,MUNICIPIUL GHERLA,243,47,158,23,63,21,13,32,249,53,154,20,65,22,13,27,Liceul Teoretic Ana Ipătescu,Str. 1 Decembrie 1918 (Str. 23 August) nr. NR.20,Gherla,47.0265,23.9043
+236,13,CLUJ,MUNICIPIUL GHERLA,203,21,86,20,59,22,9,27,195,23,86,20,61,21,11,33,Liceul Teoretic Ana Ipătescu,Str. 1 Decembrie 1918 (Str. 23 August) nr. NR.20,Gherla,47.0265,23.9043
+237,13,CLUJ,MUNICIPIUL GHERLA,222,26,131,24,52,16,12,27,214,27,137,23,55,19,13,25,Liceul Teoretic Ana Ipatescu,Str. 1 Decembrie 1918 (Str. 23 August) nr. 20,Gherla,47.0265,23.9043
+238,13,CLUJ,MUNICIPIUL GHERLA,188,24,111,24,94,19,14,38,183,24,118,23,101,19,12,28,Liceul Teoretic Ana Ipatescu,Str. 1 Decembrie 1918 (Str. 23 August) nr. 20,Gherla,47.0265,23.9043
+239,13,CLUJ,MUNICIPIUL GHERLA,204,31,107,19,53,23,10,32,196,40,101,27,53,25,12,27,Clubul Copiilor Gherla,Str. 1 Decembrie 1918 (Str. 23 August) nr. 12,Gherla,47.0272,23.9058
+240,13,CLUJ,MUNICIPIUL GHERLA,49,4,34,2,22,5,2,8,44,2,34,5,24,6,3,5,Școala Clasele I-IV Baita,Cartierul Băița nr. 69,Gherla,47.0316,23.8641
+541,13,CLUJ,MOCIU,23,0,79,0,5,8,3,13,26,1,80,1,5,7,5,9,Cladire Multifunctionala,Nr. 75,Ghirișu Român,46.8045,23.9754
+304,13,CLUJ,ALUNIŞ,19,1,43,1,2,1,2,5,19,1,39,2,2,3,3,4,Sediu Administrativ Ghirolt,,Ghirolt,47.0355,23.7832
+467,13,CLUJ,GILĂU,196,70,280,27,106,27,18,46,195,71,283,28,107,26,20,41,Casa de Cultură „Dumitru Sopon”,Str. Principală nr. 723,Gilău,46.7554,23.3861
+468,13,CLUJ,GILĂU,153,64,228,28,110,34,15,37,150,65,232,25,112,29,19,40,Căminul Cultural Vechi Gilău,Str. Principală nr. 723,Gilău,46.7558,23.386
+469,13,CLUJ,GILĂU,134,60,227,19,109,27,12,27,136,58,226,18,109,21,19,31,"Liceul Teoretic „Gelu Voievod”, Clădirea Internat",Str. Principală nr. 721,Gilău,46.7554,23.3856
+354,13,CLUJ,BORŞA,15,3,55,1,3,3,2,5,16,4,51,1,4,2,2,4,Caminul Cultural Giula,Nr. 38,Giula,46.9291,23.6153
+338,13,CLUJ,BELIŞ,49,1,5,2,1,3,4,6,52,1,6,2,0,3,1,4,Magazinul Sătesc,Nr. FN,Giurcuța de Sus,46.6498,22.9173
+510,13,CLUJ,LUNA,58,8,46,7,0,2,7,12,57,7,47,4,0,3,8,13,Grădinița Gligoresti,Nr. 136,Gligorești,46.4446,23.9783
+382,13,CLUJ,CĂŞEIU,41,4,12,5,1,2,7,16,47,4,15,5,1,2,6,6,Școala Guga,Nr. 91,Guga,47.2747,23.8294
+472,13,CLUJ,GÎRBĂU,82,12,102,6,2,8,7,14,78,12,105,5,4,7,8,17,Caminul Cultural Garbau,Nr. 82,Gârbău,46.8331,23.3515
+383,13,CLUJ,CĂŞEIU,27,0,12,2,1,2,3,6,27,0,11,1,1,1,2,9,Școala Garbăul Dejului,Nr. 153 A,Gârbău Dejului,47.237,23.9088
+504,13,CLUJ,JUCU,158,12,43,8,3,7,8,19,159,12,39,10,2,6,7,20,Școala Primară,Nr. 272,Gădălin,46.8409,23.8466
+574,13,CLUJ,POIENI,39,3,53,3,0,6,2,5,40,4,50,3,0,7,2,5,Școala Hodișu,Nr. 176/A,Hodișu,46.9076,22.9094
+281,13,CLUJ,ORAŞ HUEDIN,92,36,108,10,94,20,16,36,88,38,111,9,96,19,15,33,Școala Noua cu 16 Sali de Clasa,Nr. 42,Huedin,46.8633,23.0284
+282,13,CLUJ,ORAŞ HUEDIN,110,14,111,4,186,17,14,36,107,18,114,5,186,11,19,31,Grupul Scolar Huedin,Nr. 78,Huedin,46.8647,23.018
+283,13,CLUJ,ORAŞ HUEDIN,164,46,210,21,149,49,27,44,166,44,211,22,156,41,28,44,Casa de Copii,Nr. 39,Huedin,46.8576,23.0254
+284,13,CLUJ,ORAŞ HUEDIN,128,17,136,21,109,27,15,38,134,18,147,19,107,24,10,29,Primăria Oras Huedin,Nr. 1,Huedin,46.8645,23.0253
+285,13,CLUJ,ORAŞ HUEDIN,135,38,151,17,126,25,18,38,132,38,158,19,127,23,20,31,Liceul Teoretic Octavian Goga,Nr. 11,Huedin,46.8639,23.0312
+286,13,CLUJ,ORAŞ HUEDIN,15,1,23,0,2,7,3,7,14,0,25,1,2,7,4,7,Camin Cultural,Nr. FN,Huedin,46.8829,23.0024
+401,13,CLUJ,CHIUIEŞTI,15,4,35,0,1,5,2,8,16,4,37,0,1,5,2,5,Școala Primară Huta,,Huta,47.332,24.0096
+241,13,CLUJ,MUNICIPIUL GHERLA,38,4,18,7,2,4,1,8,38,4,22,6,3,4,1,7,Școala Clasele I-IV Hășdate,Nr. NR. 16,Hășdate,47.0084,23.8779
+596,13,CLUJ,SĂVĂDISLA,36,4,41,3,2,8,4,8,33,3,43,3,2,7,7,11,Școala cu Clasele I-VIII,Nr. 41/A,Hășdate,46.6444,23.4307
+392,13,CLUJ,CEANU MARE,83,1,40,5,2,1,3,11,83,1,40,5,2,1,5,11,Camin Cultural Iacobeni,Nr. 112 A,Iacobeni,46.6665,24.0289
+480,13,CLUJ,IARA,79,3,46,1,12,10,24,29,75,4,47,1,12,14,24,27,Școala,,Iara,46.555,23.5163
+481,13,CLUJ,IARA,80,10,65,5,6,12,16,21,76,11,64,5,5,14,16,25,Școala,,Iara,46.555,23.5163
+490,13,CLUJ,ICLOD,194,21,130,9,7,28,10,31,198,13,136,9,9,27,15,31,Asezamantul Cultural din Iclod,,Iclod,46.9785,23.8102
+419,13,CLUJ,CORNEŞTI,20,0,9,0,1,3,5,5,20,0,8,0,1,3,5,6,Cămin Cultural Igriția,Nr. 10,Igriția,47.0916,23.6332
+295,13,CLUJ,AGHIREŞU,7,0,6,0,142,3,0,5,8,1,8,0,140,4,0,1,Școala Generală Inucu,,Inucu,46.8481,23.2467
+418,13,CLUJ,COJOCNA,48,3,19,0,2,7,2,3,49,3,17,0,3,7,2,4,Căminul Cultural Iuriu de Cîmpie,Nr. fn,Iuriu de Câmpie,46.6987,23.9127
+495,13,CLUJ,IZVORU CRIŞULUI,7,3,14,1,332,3,1,7,8,2,16,1,333,4,2,3,Primăria Comunei,,Izvoru Crișului,46.8405,23.1023
+497,13,CLUJ,JICHIŞU DE JOS,102,13,27,2,2,13,4,14,96,11,31,6,2,15,3,11,Căminul Cultural,Nr. 145,Jichișu de Jos,47.1294,23.7926
+499,13,CLUJ,JICHIŞU DE JOS,70,0,21,0,0,1,0,0,68,0,19,0,0,1,1,2,Școala Generală,Nr. 138,Jichișu de Sus,47.0999,23.7499
+506,13,CLUJ,JUCU,72,4,25,1,9,3,1,7,64,4,29,2,11,5,1,6,Grădinița cu Program Normal,Nr. 42,Juc-Herghelie,46.8627,23.7626
+503,13,CLUJ,JUCU,97,30,156,5,9,4,5,15,91,31,154,6,8,4,3,17,Școala Primară,Nr. 152,Jucu de Mijloc,46.8441,23.7755
+502,13,CLUJ,JUCU,139,28,143,5,5,16,7,18,131,30,150,6,3,17,6,17,Primăria Comunei,Nr. 112,Jucu de Sus,46.8556,23.7919
+463,13,CLUJ,GEACA,22,1,24,2,81,1,2,5,20,0,26,2,78,1,2,4,Caminul Cultural Lacu,,Lacu,46.8842,24.1098
+296,13,CLUJ,AGHIREŞU,8,1,10,0,182,1,1,6,7,1,11,0,183,1,0,3,Școala Generală Leghia,,Leghia,46.85,23.1905
+464,13,CLUJ,GEACA,30,1,30,1,1,2,1,4,29,1,29,1,2,2,2,4,Caminul Cultural Legii,,Legii,46.8542,24.0469
+593,13,CLUJ,SĂVĂDISLA,32,5,46,2,1,3,6,13,34,5,45,2,1,2,9,14,Căminul Cultural,Nr. 78,Lita,46.6305,23.4663
+598,13,CLUJ,SĂVĂDISLA,4,0,10,2,119,2,1,3,4,1,10,2,117,2,1,2,Școala cu Clasele I-IV,Nr. 177,Liteni,46.6189,23.454
+492,13,CLUJ,ICLOD,97,7,78,7,1,11,14,26,92,8,73,7,3,14,17,29,Școala din Livada,,Livada,47.0011,23.845
+567,13,CLUJ,PETREŞTII DE JOS,18,3,32,0,0,4,8,11,19,3,30,0,0,5,9,11,Camin Cultural Livada,Nr. FN,Livada,46.5712,23.5908
+425,13,CLUJ,CORNEŞTI,51,5,35,4,1,5,4,6,49,5,32,4,2,7,5,7,Centrul de Informare și Promovare Turistică Lujerdiu,Nr. 54,Lujerdiu,46.969,23.7182
+507,13,CLUJ,LUNA,89,21,113,10,2,14,14,21,88,19,111,10,2,14,12,20,Căminul Cultural „Prof. Nicolae Mazare” Luna,Nr. 752,Luna,46.507,23.9197
+508,13,CLUJ,LUNA,151,5,41,13,1,8,13,28,161,5,48,10,2,5,13,22,Căminul Cultural „Prof. Nicolae Mazare” Luna,Nr. 752,Luna,46.507,23.9197
+432,13,CLUJ,DĂBÎCA,60,12,74,11,14,8,6,19,65,12,74,11,13,6,6,14,Școala cu Clasele I-IV Luna de Jos,Nr. 173,Luna de Jos,46.9366,23.7589
+454,13,CLUJ,FLOREŞTI,28,20,44,9,158,4,3,19,21,16,49,10,157,6,3,19,Școala Luna de Sus,Nr. 369,Luna de Sus,46.7425,23.4325
+455,13,CLUJ,FLOREŞTI,31,23,73,3,251,7,6,13,31,19,75,4,249,8,6,11,Școala Luna de Sus,Nr. 369,Luna de Sus,46.7425,23.4325
+577,13,CLUJ,POIENI,30,2,15,0,0,2,5,13,32,1,16,0,0,1,6,12,Școala Lunca Vișagului,Nr. 42,Lunca Vișagului,46.8275,22.766
+509,13,CLUJ,LUNA,135,17,44,9,68,5,17,27,136,17,43,10,67,5,17,26,Caminul Cultural Luncani,Nr. 399,Luncani,46.4712,23.9514
+488,13,CLUJ,IARA,18,0,5,0,1,5,2,3,16,0,6,0,1,4,3,5,Casa Proprietate Particulară,Nr. 17 A,Lungești,46.4997,23.5367
+297,13,CLUJ,AGHIREŞU,2,4,10,0,253,6,1,4,3,3,10,0,255,6,1,1,Imobil Consiliu nr. 7,,Macău,46.8336,23.2999
+342,13,CLUJ,BOBÎLNA,41,3,21,1,1,4,2,13,42,3,21,1,1,4,2,13,Școala Generală Maia,Nr. 14,Maia,47.15,23.7258
+482,13,CLUJ,IARA,12,3,13,0,1,5,4,6,12,3,13,0,1,5,4,6,Școala,,Mașca,46.5521,23.4552
+324,13,CLUJ,BACIU,65,12,31,1,285,4,3,10,61,12,30,1,287,5,4,13,Școala Mera,Nr. 180,Mera,46.8154,23.453
+523,13,CLUJ,MICA,164,7,38,5,2,24,4,12,164,9,39,4,3,21,6,10,Căminul Cultural,,Mica,47.1475,23.924
+630,13,CLUJ,TURENI,28,3,38,0,2,5,1,6,26,5,37,0,3,7,4,5,Școala cu Clasele I-IV Micesti nr. 57,Nr. 57,Micești,46.6404,23.6198
+527,13,CLUJ,MIHAI VITEAZU,111,29,70,11,122,15,16,32,101,29,69,13,122,12,25,43,Școala Generală,Nr. 474,Mihai Viteazu,46.5405,23.7451
+530,13,CLUJ,MIHAI VITEAZU,110,50,49,13,72,26,12,44,103,48,58,14,73,23,18,44,Caminul Cultural,Nr. 1127,Mihai Viteazu,46.5401,23.7548
+531,13,CLUJ,MIHAI VITEAZU,91,17,34,12,83,14,20,36,85,14,30,14,83,15,24,47,Sala de Sport,Nr. 1014,Mihai Viteazu,46.5399,23.7462
+616,13,CLUJ,SÎNPAUL,38,11,39,2,3,1,1,6,38,12,39,1,3,1,1,7,Caminul Cultural Mihaiesti,Nr. 29,Mihăiești,46.9029,23.4196
+532,13,CLUJ,MINTIU GHERLII,206,8,85,7,2,29,7,19,198,11,91,7,3,25,10,20,Primăria Comunei,Nr. 184,Mintiu Gherlii,47.0546,23.9444
+333,13,CLUJ,BĂIŞOARA,21,0,34,1,0,4,5,7,17,0,33,2,0,4,8,11,"Gospodăria D-Nei. PașcaTodorica, Sat Moara de Pădure nr. 24",Nr. 24,Moara de Pădure,46.6069,23.415
+538,13,CLUJ,MOCIU,127,12,134,8,10,41,10,30,138,10,147,4,11,36,14,23,Camin Cultural Mociu - Sala Mica,Nr. 105,Mociu,46.7985,24.0319
+545,13,CLUJ,MOLDOVENEŞTI,39,2,13,0,124,2,5,7,39,3,12,0,121,2,6,9,Primăria Comunei,,Moldovenești,46.5011,23.6638
+546,13,CLUJ,MOLDOVENEŞTI,19,3,8,2,103,2,1,2,18,2,8,2,105,2,1,3,Școala cu Clasele I-VIII,,Moldovenești,46.499,23.6738
+573,13,CLUJ,POIENI,63,2,70,3,0,25,3,15,63,5,74,4,0,23,2,11,Școala Primară Morlaca,Nr. 110 / A,Morlaca,46.8576,22.9183
+424,13,CLUJ,CORNEŞTI,16,0,7,2,1,8,2,3,14,1,7,1,1,8,3,5,Cămin Cultural Morău,Nr. 70,Morău,46.9975,23.6911
+411,13,CLUJ,CÎŢCĂU,18,0,66,0,1,5,1,3,21,0,60,0,1,5,1,1,Școala Gen. Muncel,Nr. 35,Muncel,47.2551,23.7654
+330,13,CLUJ,BĂIŞOARA,35,2,66,4,3,5,4,12,35,2,66,4,3,4,4,14,Școala Primară Muntele Băișorii,Nr. 44A,Muntele Băișorii,46.5624,23.349
+331,13,CLUJ,BĂIŞOARA,17,1,18,0,0,3,1,1,16,1,18,0,0,2,1,2,Școala Primară Muntele Cacovei,Nr. 49,Muntele Cacovei,46.5407,23.3389
+511,13,CLUJ,MĂGURI-RĂCĂTĂU,67,2,29,4,0,26,5,6,65,2,29,6,0,24,5,5,Căminul Cultural,,Muntele Rece,46.6683,23.3133
+332,13,CLUJ,BĂIŞOARA,8,2,17,0,1,0,3,6,8,1,17,0,1,0,3,6,Școala Primară Muntele Săcelului,Nr. 11,Muntele Săcelului,46.5978,23.3844
+396,13,CLUJ,CHINTENI,112,6,23,3,16,2,1,5,107,5,24,5,17,4,3,6,Școala Clasele I-IV Măcicașu,Nr. 24,Măcicașu,46.8953,23.5653
+399,13,CLUJ,CHIUIEŞTI,57,2,60,0,2,2,8,21,54,1,61,1,1,1,10,23,Școala Primară Magoaja,,Măgoaja,47.3479,23.862
+489,13,CLUJ,IARA,4,1,5,0,2,3,3,4,5,1,6,0,2,2,3,4,Casa Proprietate Particulară,Nr. 44,Măgura Ierii,46.5437,23.5841
+513,13,CLUJ,MĂGURI-RĂCĂTĂU,36,7,68,5,0,33,8,18,35,7,73,5,0,36,5,14,Școala Generală,,Măguri,46.6284,23.1232
+512,13,CLUJ,MĂGURI-RĂCĂTĂU,44,8,70,3,2,26,11,21,45,6,69,3,2,24,12,24,Primăria Comunei,,Măguri-Răcătău,46.6477,23.1967
+608,13,CLUJ,SÂNMĂRTIN,36,0,13,0,3,2,1,4,37,0,14,0,3,2,1,3,Școala Prim. Mahal,Nr. 47,Măhal,46.9746,24.0446
+524,13,CLUJ,MICA,115,7,61,3,2,12,9,29,125,7,67,3,4,12,10,14,Căminul Cultural,,Mănăstirea,47.12,23.9208
+514,13,CLUJ,MĂNĂSTIRENI,89,8,92,11,72,31,5,22,83,7,98,12,73,28,5,23,Primăria Comunei,,Mănăstireni,46.7784,23.0845
+430,13,CLUJ,CUZDRIOARA,60,5,33,2,3,12,4,5,58,5,34,2,3,10,5,6,Căminul Cultural,Nr. 102,Mănășturel,47.1713,23.9497
+586,13,CLUJ,RÎŞCA,24,0,39,0,0,1,6,12,22,0,40,1,0,1,6,10,Școala Primară cu Clasele I-IV,Nr. 28,Mărcești,46.7472,23.1561
+518,13,CLUJ,MĂRGĂU,77,1,41,21,0,7,6,19,79,1,43,24,0,6,5,14,Primăria Comunei Mărgău,Nr. 204,Mărgău,46.752,22.9592
+520,13,CLUJ,MĂRIŞEL,7,5,48,9,0,3,4,8,7,6,50,9,0,2,4,6,Școala Generală,,Mărișel,46.6956,23.1615
+521,13,CLUJ,MĂRIŞEL,124,8,133,10,1,29,13,21,130,7,142,11,1,24,10,15,Școala Generală,,Mărișel,46.6616,23.1278
+522,13,CLUJ,MĂRIŞEL,24,4,25,0,0,2,4,6,22,4,28,0,0,1,3,6,Școala Generală,,Mărișel,46.6646,23.1879
+629,13,CLUJ,TURENI,17,8,56,2,9,1,2,9,20,7,57,2,10,3,4,6,"Școala cu Clasele I-IV Mărtinești, nr. 60",Nr. 60,Mărtinești,46.6564,23.68
+494,13,CLUJ,IZVORU CRIŞULUI,37,0,24,0,2,2,10,16,33,1,25,2,2,3,11,15,Căminul Cultural,,Nadășu,46.854,23.1525
+552,13,CLUJ,NEGRENI,138,26,225,12,4,23,26,44,139,32,220,14,4,19,30,45,Căminul Cultural,Nr. 57,Negreni,46.9549,22.7568
+438,13,CLUJ,FIZEŞU GHERLII,61,6,36,1,2,4,5,11,56,6,37,2,3,8,7,12,Școala Clasele I-IV,,Nicula,47.0086,23.9393
+534,13,CLUJ,MINTIU GHERLII,135,6,43,2,2,3,4,7,134,5,42,2,2,4,3,6,Școala Generală,Nr. 186,Nima,47.0764,23.8673
+525,13,CLUJ,MICA,174,9,31,1,107,5,5,17,174,9,26,5,107,8,8,13,Fostul Sediu Cap,,Nireș,47.1137,23.9808
+475,13,CLUJ,GÎRBĂU,34,9,38,4,2,2,3,9,34,12,34,4,2,2,4,8,Căminul Cultural Nădășelu,Nr. 3,Nădășelu,46.8263,23.4154
+371,13,CLUJ,CĂMĂRAŞU,101,1,27,4,1,8,3,5,95,1,27,4,1,5,8,10,Camin Cultural Naoiu,Nr. 129,Năoiu,46.7631,24.0978
+633,13,CLUJ,ŢAGA,42,1,24,0,11,5,6,7,47,1,23,0,9,4,6,7,Fosta Școala I-IV Năsal,Nr. 276,Năsal,46.9457,24.1091
+483,13,CLUJ,IARA,14,3,8,1,1,5,5,7,16,3,9,0,2,5,4,5,Școala,,Ocolișel,46.5166,23.4813
+493,13,CLUJ,ICLOD,32,0,31,2,1,1,12,16,31,0,32,3,1,1,10,14,Școala din Orman,,Orman,47.0483,23.8177
+581,13,CLUJ,RECEA-CRISTUR,14,0,69,1,2,1,2,7,16,0,70,1,1,1,2,5,Școala,,Osoi,47.1476,23.5212
+343,13,CLUJ,BOBÎLNA,23,4,10,1,1,6,5,8,25,3,11,2,1,4,5,9,Școala Generală Osorhel,Nr. 14,Oșorhel,47.1298,23.6046
+556,13,CLUJ,PANTICEU,99,2,59,5,1,1,2,14,99,3,58,7,1,1,3,11,Primăria Comunei Sediul Vechi,Nr. 93,Panticeu,47.0425,23.5572
+312,13,CLUJ,APAHIDA,128,8,34,1,29,8,7,15,124,8,38,1,28,8,8,17,Sediu Primărie Pata,Str. George Coșbuc nr. 88,Pata,46.7254,23.7488
+536,13,CLUJ,MINTIU GHERLII,65,4,16,2,1,5,1,5,61,4,16,2,1,5,2,7,Școala Generală,Nr. 77,Petrești,47.0781,23.9362
+566,13,CLUJ,PETREŞTII DE JOS,44,7,127,20,1,31,7,16,40,6,132,16,1,33,6,17,Cămin Cultural,Nr. 76,Petreștii de Jos,46.5792,23.6563
+563,13,CLUJ,PETREŞTII DE JOS,19,1,19,0,1,7,1,3,19,1,17,0,1,9,1,4,Școala Generală,Nr. 10,Petreștii de Mijloc,46.5668,23.6545
+568,13,CLUJ,PETREŞTII DE JOS,18,1,20,2,0,3,0,3,17,0,22,1,0,3,1,5,Caminul Cultural,Nr. FN,Petreștii de Sus,46.5471,23.6487
+550,13,CLUJ,MOLDOVENEŞTI,9,2,9,0,9,2,4,6,7,3,9,0,9,3,4,6,Căminul Cultural,,Pietroasa,46.462,23.6337
+226,13,CLUJ,MUNICIPIUL DEJ,35,1,8,1,1,3,2,8,35,1,9,1,2,2,2,7,Școala Generală Pintic,Nr. FN,Pintic,47.0794,23.7869
+562,13,CLUJ,PETREŞTII DE JOS,19,1,21,0,0,7,0,3,22,1,20,1,1,4,1,4,Căminul Cultural,Nr. 42,Plaiuri,46.5877,23.5704
+569,13,CLUJ,PLOSCOŞ,15,3,49,8,1,8,4,9,15,4,45,10,1,10,3,7,Căminul Cultural,Nr. 50,Ploscoș,46.6458,23.8435
+547,13,CLUJ,MOLDOVENEŞTI,21,3,6,0,134,2,2,5,20,2,7,0,132,1,2,5,Școala cu Clasele I-IV,,Plăiești,46.4977,23.7089
+551,13,CLUJ,MOLDOVENEŞTI,44,0,54,0,5,8,10,13,40,1,58,1,5,7,13,14,Școala cu Clasele I-IV,,Podeni,46.427,23.6415
+459,13,CLUJ,FRATA,14,0,32,3,1,1,1,3,14,0,32,3,1,1,3,5,Caminul Cultural Poiana Fratii,,Poiana Frății,46.6665,24.0849
+339,13,CLUJ,BELIŞ,72,3,31,2,2,1,4,8,75,3,28,2,2,1,4,8,Școala Primară Poiana Horea,Nr. FN,Poiana Horea,46.5898,22.9135
+571,13,CLUJ,POIENI,142,10,78,14,5,50,10,28,138,8,83,10,7,56,12,23,Primăria Comunei Poieni,Nr. 268,Poieni,46.9164,22.8599
+325,13,CLUJ,BACIU,78,18,57,9,3,7,7,21,81,18,58,10,3,6,9,20,Școala Popesti,Nr. 73,Popești,46.8235,23.5338
+554,13,CLUJ,NEGRENI,12,4,15,1,0,2,2,14,13,4,18,1,0,2,1,10,Școala cu Clasele I-IV,Nr. 20,Prelucele,46.9361,22.7799
+344,13,CLUJ,BOBÎLNA,8,0,7,3,1,1,1,4,9,0,6,3,1,1,1,4,Caminul Cultural Pruni,Nr. 40,Pruni,47.1623,23.6068
+466,13,CLUJ,GEACA,13,1,11,0,3,2,4,6,14,0,13,0,3,2,3,4,Caminul Cultural Puini,,Puini,46.9084,24.0132
+580,13,CLUJ,RECEA-CRISTUR,10,0,51,0,1,0,1,4,12,0,54,0,2,0,1,1,Școala,,Pustuța,47.1232,23.5637
+433,13,CLUJ,DĂBÎCA,16,1,20,1,1,3,4,10,14,1,19,2,1,3,5,10,Căminul Cultural Pîglișa,Nr. 83,Pâglișa,47.0027,23.6448
+623,13,CLUJ,TRITENII DE JOS,177,3,44,1,2,1,4,58,182,3,56,2,1,3,4,39,Camin Cultural,Nr. 257,Pădureni,46.5942,24.0242
+535,13,CLUJ,MINTIU GHERLII,27,1,13,0,1,1,1,3,25,1,13,0,1,1,1,3,Școala Generală,Nr. 28,Pădurenii,47.068,24.0008
+560,13,CLUJ,PĂLATCA,47,1,63,5,54,9,13,21,46,2,67,4,53,8,11,16,Căminul Cultural Pălatca,Nr. 449,Pălatca,46.8407,23.9875
+377,13,CLUJ,CĂPUŞU MARE,22,8,22,6,1,9,2,12,20,7,21,6,1,9,2,12,Școala cu Clasele I-IV,Nr. 164,Păniceni,46.8086,23.1888
+578,13,CLUJ,RECEA-CRISTUR,82,4,230,4,1,9,6,14,81,4,238,7,1,6,4,11,Sediul Primăriei Sala de Sedințe,,Recea-Cristur,47.0788,23.5208
+301,13,CLUJ,AITON,52,4,99,3,1,3,1,6,51,6,96,3,1,3,3,8,Camin Cultural Rediu,,Rediu,46.6821,23.6942
+588,13,CLUJ,SĂCUIEU,17,1,19,4,1,100,4,10,19,2,23,6,1,98,3,5,Căminul Cultural,Nr. 187/a,Rogojel,46.7867,22.8393
+544,13,CLUJ,MOCIU,14,4,21,0,2,11,1,4,15,3,19,1,2,12,1,2,Cladire Multifuncțională,Nr. 19,Roșieni,46.8142,24.0658
+381,13,CLUJ,CĂŞEIU,159,13,67,1,1,2,3,26,163,13,74,3,1,2,4,15,Școala Gimnazială Rugășești,Nr. 15,Rugășești,47.2323,23.8734
+584,13,CLUJ,RÎŞCA,84,9,100,6,0,4,58,79,89,11,111,7,0,5,48,60,Școala Gimnazială cu Clasele I-VIII,Nr. 317,Râșca,46.7299,23.1116
+519,13,CLUJ,MĂRGĂU,96,6,94,16,1,13,4,11,93,5,101,19,2,8,4,10,Cămin Cultural,Nr. 166,Răchițele,46.7064,22.8925
+350,13,CLUJ,BONŢIDA,59,14,104,23,60,5,14,30,55,15,107,23,61,3,16,31,Școala Generală Rascruci,Nr. 109,Răscruci,46.904,23.7735
+345,13,CLUJ,BOBÎLNA,72,3,13,1,6,5,2,10,74,5,14,1,6,4,3,7,Școala Generală Razbuneni,Nr. 103,Răzbuneni,47.1475,23.7017
+537,13,CLUJ,MINTIU GHERLII,55,0,18,1,2,6,0,3,55,1,20,1,1,8,1,3,Școala Generală,Nr. 49,Salatiu,47.101,23.9281
+561,13,CLUJ,PĂLATCA,27,1,62,0,1,5,5,11,25,1,61,1,1,6,7,13,Căminul Cultural Sava,Nr. 98,Sava,46.8809,23.9653
+516,13,CLUJ,MĂRGĂU,31,9,23,4,1,7,2,5,32,7,24,4,1,3,3,7,Cămin Cultural,Nr. 48,Scrind-Frăsinet,46.7469,22.9018
+611,13,CLUJ,SIC,4,0,3,0,243,2,1,4,2,0,3,0,243,2,0,4,Camin Cultural Sic,Str. Str. III,Sic,46.9307,23.8987
+612,13,CLUJ,SIC,4,4,10,0,398,2,1,7,6,2,9,0,394,1,1,4,Camin Cultural Sic,Str. Str. III nr. 360,Sic,46.9307,23.8987
+242,13,CLUJ,MUNICIPIUL GHERLA,19,2,9,0,2,4,1,4,22,2,7,1,1,3,1,2,Școala Clasele I-IV Silivaș,Nr. NR. 25,Silivaș,46.987,23.8657
+337,13,CLUJ,BELIŞ,18,1,10,1,0,0,2,3,19,1,9,2,0,0,2,2,Școala Primară Smida,Nr. 20 A,Smida,46.641,22.876
+470,13,CLUJ,GILĂU,134,32,139,13,4,9,14,29,130,33,137,10,4,11,12,28,Căminul Cultural Someșu Rece,Nr. 115,Someșu Rece,46.7268,23.3639
+471,13,CLUJ,GILĂU,52,4,62,1,1,5,5,9,54,2,62,2,2,6,4,6,Grădinița - Uzina Electrică,Nr. FN,Someșu Rece,46.6856,23.2872
+460,13,CLUJ,FRATA,78,3,83,9,3,4,10,20,82,6,77,10,3,3,10,19,Caminul Cultural Soporul de Campie,,Soporu de Câmpie,46.6953,24.0033
+549,13,CLUJ,MOLDOVENEŞTI,16,4,6,1,26,3,2,2,15,4,7,3,22,3,2,4,Clădirea Primăriei,Nr. 131,Stejeriș,46.4655,23.7365
+423,13,CLUJ,CORNEŞTI,32,2,8,1,7,11,2,11,34,2,8,1,7,12,1,8,Cooperativa Veche- Stoiana,Nr. 109,Stoiana,47.0176,23.6868
+599,13,CLUJ,SĂVĂDISLA,24,10,38,5,3,6,4,13,26,11,42,6,3,4,7,9,Școala cu Clasele I-IV,Nr. 19,Stolna,46.7118,23.3999
+400,13,CLUJ,CHIUIEŞTI,46,2,54,1,1,2,3,19,47,2,58,2,1,3,5,15,Școala Primară Strambu,,Strâmbu,47.3388,23.9524
+346,13,CLUJ,BOBÎLNA,37,0,8,0,0,13,2,5,36,0,7,0,0,13,2,6,Caminul Cultural Suarăș,Nr. 45,Suarăș,47.1358,23.71
+618,13,CLUJ,SUATU,35,8,23,5,318,6,6,18,41,8,23,5,324,5,5,12,Sediul Administrativ al Primariei Suatu,Nr. 685,Suatu,46.7718,23.969
+327,13,CLUJ,BACIU,81,8,61,6,125,1,10,34,81,5,67,8,126,3,13,27,Școala Suceagu,Nr. 98,Suceagu,46.7845,23.4613
+462,13,CLUJ,GEACA,31,4,43,8,1,2,22,30,27,3,45,5,1,2,25,32,Caminul Cultural Sucutard,,Sucutard,46.8959,24.0668
+484,13,CLUJ,IARA,31,6,24,0,1,7,2,11,32,6,23,1,2,7,3,10,Școala,,Surduc,46.5404,23.5453
+606,13,CLUJ,SÂNMĂRTIN,122,0,5,0,1,1,0,1,122,0,5,0,1,1,0,1,Camin Cult. Samboieni,Nr. 35,Sâmboieni,47.03,24.0604
+372,13,CLUJ,CĂMĂRAŞU,98,1,34,1,1,1,3,7,98,0,32,1,1,2,4,7,Camin Cultural Simboleni,Nr. 59,Sâmboleni,46.8064,24.1079
+600,13,CLUJ,SÂNCRAIU,45,10,22,3,587,2,5,17,44,13,21,3,590,3,5,11,Sancraiu nr. 330 Caminul Cultural,Nr. 330,Sâncraiu,46.8304,22.9857
+526,13,CLUJ,MICA,77,11,70,5,60,6,8,16,77,10,71,5,63,9,7,14,Școala Generală,,Sânmărghita,47.1581,23.9933
+603,13,CLUJ,SÂNMĂRTIN,52,0,4,2,32,2,1,2,54,1,2,2,29,2,1,5,Primăria Sanmartin,Nr. 207,Sânmărtin,47.01,24.0692
+310,13,CLUJ,APAHIDA,198,97,248,29,10,23,12,41,196,99,247,29,11,26,14,35,Cămin Cultural Sînnicoară,Str. 1 Mai nr. 14,Sânnicoară,46.7889,23.7192
+613,13,CLUJ,SÎNPAUL,67,3,162,12,2,3,3,19,71,6,162,14,2,3,3,14,Sediul Primariei,Nr. 195,Sânpaul,46.8743,23.4161
+634,13,CLUJ,ŢAGA,31,10,40,0,1,2,5,8,32,10,40,0,1,1,6,7,Căminul Cultural Sîntejude,Nr. 150,Sântejude,46.9256,23.9891
+632,13,CLUJ,ŢAGA,51,4,51,4,1,12,5,17,48,4,58,4,2,11,6,12,Școala I-IV Sîntioara,Nr. 65,Sântioana,46.971,24.0107
+329,13,CLUJ,BĂIŞOARA,32,4,105,0,1,4,4,7,34,5,97,0,0,2,4,9,Școala Primară Săcel,Nr. 9A,Săcel,46.6006,23.4602
+587,13,CLUJ,SĂCUIEU,33,9,107,13,0,21,10,26,38,9,129,13,1,16,6,12,Căminul Cultural,Nr. 128,Săcuieu,46.822,22.8876
+440,13,CLUJ,FIZEŞU GHERLII,36,0,57,3,3,8,3,4,36,1,57,2,4,9,3,3,Școala Clasele I-IV Sacalaia,,Săcălaia,46.9658,23.9166
+408,13,CLUJ,CIURILA,29,40,129,10,3,4,5,19,30,42,123,9,3,3,7,22,Căminul Cultural Sălicea,Nr. 45,Sălicea,46.6752,23.5239
+412,13,CLUJ,CÎŢCĂU,30,2,294,1,6,5,3,17,28,2,301,0,5,4,4,16,Școala Gen. Sălișca,Nr. 181,Sălișca,47.2214,23.8235
+409,13,CLUJ,CIURILA,8,1,30,0,0,1,0,6,10,1,25,1,0,2,1,8,Parohia Ortodoxa Saliste,Nr. 75,Săliște,46.6519,23.5833
+326,13,CLUJ,BACIU,16,4,36,6,1,2,1,7,17,4,37,6,1,1,1,6,Școala Salistea Noua,Nr. 53,Săliștea Nouă,46.8728,23.4904
+384,13,CLUJ,CĂŞEIU,19,1,4,0,1,3,0,6,18,1,4,0,1,2,0,6,Școala Sălătruc,Nr. 20,Sălătruc,47.2619,23.8801
+590,13,CLUJ,SĂNDULEŞTI,109,7,36,3,3,20,5,21,120,8,37,2,4,19,6,12,Școala,Nr. 162,Săndulești,46.5804,23.7228
+555,13,CLUJ,PANTICEU,20,0,14,27,1,2,2,8,19,0,14,30,2,3,2,7,Școala Primară,Nr. 216 A,Sărata,47.0539,23.4951
+592,13,CLUJ,SĂVĂDISLA,18,11,11,3,389,3,6,11,17,12,14,2,392,3,2,5,Căminul Cultural,Nr. 368,Săvădisla,46.6753,23.4568
+298,13,CLUJ,AGHIREŞU,6,2,14,0,1,1,1,3,7,2,15,0,1,1,1,4,Școala Generală Ticu,,Ticu,46.9069,23.2431
+299,13,CLUJ,AGHIREŞU,14,1,11,0,3,3,1,5,13,1,13,0,3,2,1,4,Școala Generală Ticu-Colonie,,Ticu-Colonie,46.9205,23.2333
+421,13,CLUJ,CORNEŞTI,17,1,10,2,16,5,1,5,19,1,10,2,13,5,1,3,Cămin Cultural Tiocu de Jos,Nr. 88,Tiocu de Jos,47.0592,23.6593
+420,13,CLUJ,CORNEŞTI,23,2,5,1,8,2,2,3,21,2,5,1,7,2,3,4,Cămin Cultural Tiocu de Sus,Nr. 75,Tiocu de Sus,47.0766,23.6462
+427,13,CLUJ,CORNEŞTI,34,1,16,5,1,1,2,6,36,0,16,2,1,5,2,6,Cămin Cultural Tioltiur,Nr. 154,Tioltiur,47.0115,23.7184
+617,13,CLUJ,SÎNPAUL,20,1,35,2,2,1,4,5,20,1,35,2,2,1,4,6,Magazinul Cooperației,Nr. 19,Topa Mică,46.9341,23.394
+576,13,CLUJ,POIENI,36,1,28,1,1,3,2,8,40,1,26,1,2,2,2,7,Școala Tranișu,Nr. 173,Tranișu,46.8628,22.8079
+620,13,CLUJ,TRITENII DE JOS,165,8,88,11,3,15,9,39,163,9,95,10,5,14,12,34,Școala Pavel Dan,Nr. 390,Tritenii de Jos,46.5887,24.0004
+621,13,CLUJ,TRITENII DE JOS,128,2,62,18,1,5,4,18,128,2,64,20,1,5,5,15,Școala Primară,Nr. 84,Tritenii de Sus,46.6019,23.9981
+624,13,CLUJ,TRITENII DE JOS,37,0,17,5,1,1,1,6,38,0,16,4,1,1,2,7,Școala cu Clasele I-IV,Nr. 102,Tritenii-Hotar,46.5598,24.0074
+243,13,CLUJ,MUNICIPIUL TURDA,104,64,65,12,44,33,15,40,108,67,66,12,45,27,22,39,Liceul Teoretic „Josika Miklos”,Str. Bogdan Petriceicu Hașdeu nr. 4,Turda,46.5715,23.7845
+244,13,CLUJ,MUNICIPIUL TURDA,175,84,121,21,61,31,21,53,170,88,115,23,62,30,31,56,Liceul Teoretic „Josika Miklos”,Str. Bogdan Petriceicu Hașdeu nr. 4,Turda,46.5715,23.7845
+245,13,CLUJ,MUNICIPIUL TURDA,148,78,88,23,63,29,25,47,150,73,85,25,66,26,26,46,Școala Gimnazială „Teodor Murășanu”,Str. Dr. Ioan Rațiu nr. 53,Turda,46.571,23.7819
+246,13,CLUJ,MUNICIPIUL TURDA,117,88,82,17,36,22,17,41,117,83,86,18,37,24,17,38,Colegiul Tehnic „Dr.Ioan Rațiu”,Str. Ștefan cel Mare (Str. Bihorului) nr. 6,Turda,46.5635,23.7835
+247,13,CLUJ,MUNICIPIUL TURDA,128,18,36,7,9,10,74,96,127,21,33,9,9,8,80,93,Colegiul Tehnic „Dr.Ioan Rațiu”,Str. Ștefan cel Mare (Str. Bihorului) nr. 6,Turda,46.5635,23.7835
+248,13,CLUJ,MUNICIPIUL TURDA,125,24,36,5,10,22,32,54,128,26,43,6,8,21,35,45,Colegiul Tehnic „Dr.Ioan Rațiu”,Str. Ștefan cel Mare (Str. Bihorului) nr. 6,Turda,46.5635,23.7835
+249,13,CLUJ,MUNICIPIUL TURDA,152,94,120,31,75,26,24,64,150,94,120,31,75,25,31,64,Școala Gimnazială „Teodor Murășanu”,Str. Dr. Ioan Rațiu nr. 53,Turda,46.5768,23.7708
+250,13,CLUJ,MUNICIPIUL TURDA,128,89,96,19,61,51,14,45,134,95,85,24,67,37,18,50,Școala Gimnazială „Teodor Murășanu”,Str. Constantin Brâncoveanu nr. 4,Turda,46.571,23.7819
+251,13,CLUJ,MUNICIPIUL TURDA,127,74,86,13,2,28,17,48,132,66,93,13,4,20,27,53,Școala Gimnazială „Teodor Murășanu”,Str. Constantin Brâncoveanu nr. 4,Turda,46.571,23.7819
+252,13,CLUJ,MUNICIPIUL TURDA,151,72,98,18,59,26,25,43,145,72,97,17,56,28,35,48,Colegiul Tehnic,Str. Basarabiei (Str. Maior Velicicov) nr. 48,Turda,46.5805,23.7703
+253,13,CLUJ,MUNICIPIUL TURDA,148,71,76,30,68,18,30,63,144,73,75,31,68,21,37,66,Colegiul Tehnic,Str. Basarabiei (Str. Maior Velicicov) nr. 48,Turda,46.5805,23.7703
+254,13,CLUJ,MUNICIPIUL TURDA,123,86,96,15,66,11,17,32,123,95,85,18,67,15,15,25,Colegiul Național „Mihai Viteazu”,Str. Dr. Ioan Rațiu nr. 111,Turda,46.5752,23.7783
+255,13,CLUJ,MUNICIPIUL TURDA,150,65,117,45,13,20,21,53,146,71,118,45,14,15,30,56,Colegiul „Emil Negruțiu”,Str. Agriculturii nr. 27,Turda,46.5809,23.7862
+256,13,CLUJ,MUNICIPIUL TURDA,122,34,76,28,19,21,19,50,125,35,79,28,17,19,23,49,Școala Gimnazială „Andrei Șaguna”,Str. Axente Sever nr. 4,Turda,46.5733,23.7884
+257,13,CLUJ,MUNICIPIUL TURDA,135,59,87,15,30,31,14,38,133,57,89,18,30,27,17,42,Școala Gimnazială „Andrei Șaguna”,Str. Axente Sever nr. 4,Turda,46.5733,23.7884
+258,13,CLUJ,MUNICIPIUL TURDA,108,56,59,18,32,26,14,29,102,51,59,18,32,28,20,36,Școala Gimnazială „Andrei Șaguna”,Str. Axente Sever nr. 4,Turda,46.5733,23.7884
+259,13,CLUJ,MUNICIPIUL TURDA,142,52,84,18,12,26,16,33,146,53,76,20,15,27,18,33,Școala Gimnazială „Avram Iancu”,Str. Rapsodiei nr. 1B,Turda,46.5585,23.8003
+260,13,CLUJ,MUNICIPIUL TURDA,149,61,80,26,17,34,14,47,150,65,75,31,17,34,19,43,Școala Gimnazială „Avram Iancu”,Str. Rapsodiei nr. 1B,Turda,46.5585,23.8003
+261,13,CLUJ,MUNICIPIUL TURDA,153,81,88,37,23,30,24,42,156,72,90,47,21,25,26,40,Școala Gimnazială „Avram Iancu”,Str. Rapsodiei nr. 1B,Turda,46.5585,23.8003
+262,13,CLUJ,MUNICIPIUL TURDA,150,55,68,33,12,25,24,48,154,53,69,35,15,22,24,46,Școala Gimnazială „Avram Iancu”,Str. Rapsodiei nr. 1B,Turda,46.5585,23.8003
+263,13,CLUJ,MUNICIPIUL TURDA,181,94,108,13,10,37,25,51,172,89,114,16,13,37,34,53,Școala Gimnazială „Ion Opriș”,Str. Aviatorilor nr. 1,Turda,46.5598,23.8108
+264,13,CLUJ,MUNICIPIUL TURDA,156,60,70,24,22,31,28,63,151,58,80,21,22,27,34,68,Școala Gimnazială „Ion Opriș”,Str. Aviatorilor nr. 1,Turda,46.5598,23.8108
+265,13,CLUJ,MUNICIPIUL TURDA,242,59,112,11,33,35,32,63,240,55,109,19,34,40,35,56,Școala Gimnazială „Ion Opriș”,Str. Aviatorilor nr. 1,Turda,46.5598,23.8108
+266,13,CLUJ,MUNICIPIUL TURDA,193,95,113,35,16,31,28,62,195,97,113,33,17,28,31,61,Liceul Teoretic „Liviu Rebreanu”,Str. Tineretului nr. 6,Turda,46.5556,23.808
+267,13,CLUJ,MUNICIPIUL TURDA,189,38,78,22,14,21,24,53,187,41,85,21,13,26,21,44,Liceul Teoretic „Liviu Rebreanu”,Str. Tineretului nr. 6,Turda,46.5556,23.808
+268,13,CLUJ,MUNICIPIUL TURDA,205,65,73,37,23,27,23,49,210,65,74,39,24,23,26,50,Liceul Teoretic „Liviu Rebreanu”,Str. Tineretului nr. 6,Turda,46.5556,23.808
+269,13,CLUJ,MUNICIPIUL TURDA,176,82,81,29,28,30,6,34,177,83,85,30,28,26,14,36,Liceul Teoretic „Liviu Rebreanu”,Str. Tineretului nr. 6,Turda,46.5556,23.808
+270,13,CLUJ,MUNICIPIUL TURDA,162,72,115,31,22,33,21,48,170,64,121,35,22,26,22,47,Liceul Teoretic „Liviu Rebreanu”,Str. Tineretului nr. 6,Turda,46.5556,23.808
+271,13,CLUJ,MUNICIPIUL TURDA,146,39,52,16,19,20,13,33,135,41,56,14,19,23,19,36,Liceul Teoretic „Liviu Rebreanu”,Str. Tineretului nr. 6,Turda,46.5556,23.808
+272,13,CLUJ,MUNICIPIUL TURDA,162,72,88,20,20,34,14,47,159,70,92,24,21,31,23,45,Școala Gimnazială „Horea Cloșca și Crișan”,Str. Lotus nr. 7,Turda,46.5564,23.8146
+273,13,CLUJ,MUNICIPIUL TURDA,176,34,78,34,17,20,19,60,184,32,78,44,20,18,20,43,Școala Gimnazială „Horea Cloșca și Crișan”,Str. Lotus nr. 7,Turda,46.5564,23.8146
+274,13,CLUJ,MUNICIPIUL TURDA,189,51,80,21,7,18,13,36,185,45,83,25,9,23,18,32,Școala Gimnazială „Horea Cloșca și Crișan”,Str. Lotus nr. 7,Turda,46.5564,23.8146
+275,13,CLUJ,MUNICIPIUL TURDA,199,28,74,34,21,20,21,55,197,33,76,42,22,20,24,43,Școala Gimnazială „Horea Cloșca și Crișan”,Str. Lotus nr. 7,Turda,46.5564,23.8146
+276,13,CLUJ,MUNICIPIUL TURDA,143,42,90,18,11,27,16,33,142,41,85,20,13,20,23,43,Școala Gimnazială „Horea Cloșca și Crișan”,Str. Lotus nr. 7,Turda,46.5564,23.8146
+277,13,CLUJ,MUNICIPIUL TURDA,138,39,76,32,27,28,22,46,136,40,74,33,29,26,28,46,Școala Gimnazială „Horea Cloșca și Crișan”,Str. Lotus nr. 7,Turda,46.5564,23.8146
+278,13,CLUJ,MUNICIPIUL TURDA,129,60,80,30,22,19,28,48,134,57,75,37,22,18,29,47,Școala Gimnazială „Horea Cloșca și Crișan”,Str. Lotus nr. 7,Turda,46.5564,23.8146
+279,13,CLUJ,MUNICIPIUL TURDA,167,69,85,39,66,18,19,52,168,72,83,40,70,17,18,46,Școala Profesională Poiana,Str. Cîmpiei nr. 51,Turda,46.5606,23.8317
+280,13,CLUJ,MUNICIPIUL TURDA,148,35,62,29,55,10,18,153,227,36,74,35,56,10,30,59,Școala Profesională Poiana,Str. Cîmpiei nr. 51,Turda,46.5606,23.8317
+474,13,CLUJ,GÎRBĂU,19,3,19,2,120,1,1,3,17,2,20,2,120,2,1,3,Caminul Cultural Turea,Nr. 161,Turea,46.8508,23.3495
+626,13,CLUJ,TURENI,40,12,75,2,119,5,14,19,40,9,77,2,122,5,13,17,Primăria Comunei Tureni nr. 243,Nr. 243,Tureni,46.6198,23.7013
+607,13,CLUJ,SÂNMĂRTIN,55,0,2,0,3,1,1,1,55,0,2,0,3,1,1,1,Școala Prim. Targusor,Nr. 32,Târgușor,46.9969,24.0443
+500,13,CLUJ,JICHIŞU DE JOS,27,0,10,2,0,2,1,2,23,0,11,2,0,4,2,4,Școala Generală,Nr. 61,Tărpiu,47.1428,23.7576
+352,13,CLUJ,BONŢIDA,15,1,17,0,1,4,1,3,9,1,20,0,1,4,2,5,Caminul Cultural Tauseni,Nr. 119,Tăușeni,46.8749,23.922
+456,13,CLUJ,FLOREŞTI,9,22,52,2,4,2,1,5,9,19,51,1,5,3,1,9,Caminul Cultural Tauti,Nr. 58,Tăuți,46.7104,23.5067
+635,13,CLUJ,UNGURAŞ,14,2,15,2,252,3,3,8,14,2,12,3,256,3,2,2,Grădinița cu Program Normal,Nr. 36,Unguraș,47.1134,24.0497
+636,13,CLUJ,UNGURAŞ,10,1,21,4,239,4,3,7,14,1,20,6,244,1,2,5,Caminul Cultural Unguras,Nr. 154,Unguraș,47.1122,24.0499
+650,13,CLUJ,VIIŞOARA,152,5,73,8,2,6,3,14,155,5,71,10,2,3,5,15,Școala GeneralăClasele I-VIII Urca,,Urca,46.5514,23.9629
+385,13,CLUJ,CĂŞEIU,126,20,75,31,1,12,5,16,125,19,77,32,1,15,10,15,Școala Primară Urișor,Nr. 71 A,Urișor,47.1721,23.8714
+639,13,CLUJ,VAD,54,5,97,2,3,9,4,10,53,0,106,1,2,5,4,12,Cămin Cultural Vad,Nr. 42,Vad,47.22,23.748
+360,13,CLUJ,CĂIANU,15,9,9,1,147,2,3,8,15,11,7,1,144,3,3,8,Școala Gimnazială Vaida Cămăras,Nr. 223A,Vaida-Cămăraș,46.828,23.9478
+305,13,CLUJ,ALUNIŞ,18,1,16,0,1,3,1,9,17,1,19,0,1,2,1,8,Camin Cultural Vale,,Vale,47.0808,23.7213
+575,13,CLUJ,POIENI,198,20,124,5,0,20,29,63,207,18,129,6,0,22,24,54,Școala Gimnazială „Aurel Munteanu” Valea Drăganului,Nr. 417 /A,Valea Drăganului,46.92,22.8378
+570,13,CLUJ,PLOSCOŞ,32,0,20,0,1,7,4,10,29,1,20,2,1,9,4,5,Școala cu Clasele I-IV,Nr. 50,Valea Florilor,46.6672,23.8614
+644,13,CLUJ,VAD,45,0,86,0,1,1,2,8,43,0,88,0,1,1,3,7,Școala Valea Groșilor,Nr. 27,Valea Groșilor,47.2374,23.744
+646,13,CLUJ,VALEA IERII,127,7,227,0,1,4,45,51,125,7,227,0,1,5,51,55,Școala Gimnazială Valea Ierii,Nr. 48,Valea Ierii,46.6474,23.3398
+638,13,CLUJ,UNGURAŞ,20,0,33,0,5,2,2,3,21,0,34,0,5,1,1,1,Gradinița cu Program Normal Valea Ungurașului,Nr. 24,Valea Ungurașului,47.076,24.1133
+485,13,CLUJ,IARA,8,0,11,1,1,1,2,4,8,0,11,1,1,1,1,4,Școala,,Valea Vadului,46.5533,23.4251
+647,13,CLUJ,VIIŞOARA,49,11,48,4,305,6,10,21,52,17,45,5,304,5,8,20,Școala GeneralăClasele I-VIII,,Viișoara,46.5554,23.908
+648,13,CLUJ,VIIŞOARA,203,13,101,24,19,6,15,26,202,15,102,22,18,6,16,24,Școala Gen Clasele I-IV,,Viișoara,46.5594,23.9058
+649,13,CLUJ,VIIŞOARA,227,4,41,8,14,5,8,32,232,6,45,10,15,9,11,22,Școala Gen Clasele I-IV,,Viișoara,46.5594,23.9058
+589,13,CLUJ,SĂCUIEU,35,3,25,0,0,17,1,11,34,2,31,1,0,17,1,7,Școala Generală cu Clasele I-IV,Nr. 112,Vișagu,46.8305,22.8274
+505,13,CLUJ,JUCU,29,1,25,1,102,3,2,5,23,2,23,2,105,3,3,7,Școala Primară,Nr. 16,Vișea,46.857,23.8718
+473,13,CLUJ,GÎRBĂU,9,5,32,0,270,6,3,8,12,6,28,0,272,3,3,7,Școala Primară Vistea,Nr. 34,Viștea,46.8024,23.4019
+595,13,CLUJ,SĂVĂDISLA,6,12,13,6,380,2,2,3,6,12,13,5,380,3,1,2,Căminul Cultural,Nr. 240,Vlaha,46.696,23.456
+651,13,CLUJ,VULTURENI,47,8,54,5,1,8,3,11,46,9,58,4,1,6,4,11,Primăria Comunei Vultureni,Nr. 73,Vultureni,46.9583,23.5579
+436,13,CLUJ,FELEACU,99,25,77,13,0,2,5,13,95,26,82,12,1,4,6,14,Fostul Sediu Cap Vilcele din Localitatea Vilcele,Nr. 158/E,Vâlcele,46.6817,23.6491
+347,13,CLUJ,BOBÎLNA,17,1,8,0,2,1,3,6,16,1,9,0,2,1,3,6,Școala Generală Vîlcelele,Nr. 51,Vâlcelele,47.1033,23.5982
+404,13,CLUJ,CIUCEA,48,1,67,6,1,2,3,18,52,1,66,6,1,2,4,14,Școala Clasele I-IV Vanatori,Nr. 29,Vânători,46.9664,22.8534
+367,13,CLUJ,CĂLĂŢELE,10,0,7,0,88,5,5,9,11,0,5,0,89,5,5,9,Căminul Cultural Văleni,,Văleni,46.7817,23.0306
+594,13,CLUJ,SĂVĂDISLA,3,4,12,1,4,9,2,4,6,4,11,1,3,8,2,4,Căminul Cultural,Nr. 79,Vălișoara,46.6657,23.4942
+542,13,CLUJ,MOCIU,22,1,50,5,2,14,2,6,19,1,55,4,2,12,2,5,Cladire Multifunctionala,Nr. 54,Zorenii de Vale,46.7906,24.0732
+614,13,CLUJ,SÎNPAUL,42,6,90,1,0,2,4,11,43,7,90,1,0,2,5,6,Sediul Școlii Gen Sardu,Nr. 7,Șardu,46.859,23.3935
+496,13,CLUJ,IZVORU CRIŞULUI,9,3,3,2,183,2,3,7,10,2,3,2,185,1,3,6,Școala Generală,,Șaula,46.852,23.0776
+501,13,CLUJ,JICHIŞU DE JOS,16,0,3,0,1,1,1,2,16,0,3,0,1,1,1,3,Școala Generală,Nr. 57,Șigău,47.0995,23.7145
+656,13,CLUJ,VULTURENI,52,5,57,3,2,2,9,13,54,4,54,4,3,2,8,12,Școala Soimeni,Nr. 16,Șoimeni,46.9609,23.5383
+225,13,CLUJ,MUNICIPIUL DEJ,85,2,46,1,1,15,6,22,95,3,48,1,1,15,6,11,Caminul Cultural Somcutu Mic,Nr. FN,Șomcutu Mic,47.1596,23.755
+407,13,CLUJ,CIURILA,31,2,70,10,1,1,11,12,36,0,74,10,2,1,8,9,Școala Gimnazială,Nr. 7,Șutu,46.6205,23.547
+631,13,CLUJ,ŢAGA,75,3,130,5,7,8,5,17,76,3,133,4,9,8,4,14,Primăria Țaga,Nr. 23,Țaga,46.945,24.0492

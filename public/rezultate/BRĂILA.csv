@@ -1,0 +1,282 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+185,9,BRĂILA,FRECĂŢEI,104,0,68,2,0,2,4,4,104,0,66,3,0,2,0,3,Școala cu Clasele I-IV Agaua,,Agaua,44.8339,28.0748
+249,9,BRĂILA,TICHILEŞTI,43,2,67,4,1,4,4,8,43,3,65,5,1,5,3,6,Școala Primară Albina,,Albina,45.1685,27.8687
+229,9,BRĂILA,SALCIA TUDOR,16,0,24,5,0,5,1,9,18,1,30,1,0,6,1,6,Căminul Cultural Ariciu,Str. Fermei nr. 38,Ariciu,45.3688,27.5186
+268,9,BRĂILA,VĂDENI,196,7,33,24,0,7,9,17,193,8,31,26,1,8,9,21,Școala Gimnazială cu Clasele I-VIII Baldovinesti,Str. Școlii nr. 124,Baldovinești,45.3217,27.9082
+179,9,BRĂILA,CIREŞU,84,0,116,11,0,1,2,9,87,0,117,11,0,1,2,8,Școala cu Clasele I-VIII Batogu,,Batogu,44.9982,27.4492
+154,9,BRĂILA,ORAŞ IANCA,95,9,6,3,0,6,1,5,91,12,5,2,0,6,1,4,Școala Primară Berlești,Nr. 164,Berlești,45.0784,27.4469
+163,9,BRĂILA,BERTEŞTII DE JOS,122,1,94,4,1,8,6,15,120,2,92,6,1,9,4,12,Căminul Cultural Berteștii de Jos,,Berteștii de Jos,44.8375,27.7573
+165,9,BRĂILA,BERTEŞTII DE JOS,50,2,34,2,1,5,4,10,51,1,33,2,0,6,4,8,Căminul Cultural Berteștii de Sus,,Berteștii de Sus,44.8136,27.7638
+167,9,BRĂILA,BORDEI VERDE,501,9,39,19,0,14,3,15,517,10,33,20,0,11,3,10,Școala cu Clasele I-VIII Bordei Verde,Str. Principală nr. 35,Bordei Verde,45.0668,27.5673
+1,9,BRĂILA,MUNICIPIUL BRĂILA,275,11,65,31,0,16,9,39,278,9,66,30,0,17,8,36,Școala Gimnazială nr. 31 „Mihai Viteazul”,,Brăila,45.2429,27.9437
+2,9,BRĂILA,MUNICIPIUL BRĂILA,293,20,59,23,0,25,21,43,297,22,62,20,0,24,18,39,Școala Gimnazială nr. 31 „Mihai Viteazul”,,Brăila,45.2429,27.9437
+3,9,BRĂILA,MUNICIPIUL BRĂILA,288,28,46,17,1,14,6,37,285,25,48,20,2,18,11,34,Școala Gimnazială nr. 31 „Mihai Viteazul”,,Brăila,45.2429,27.9437
+4,9,BRĂILA,MUNICIPIUL BRĂILA,310,17,53,30,1,34,11,39,310,19,55,31,1,33,15,37,Școala Gimnazială nr. 31 „Mihai Viteazul”,,Brăila,45.2429,27.9437
+5,9,BRĂILA,MUNICIPIUL BRĂILA,305,25,55,14,1,25,16,52,307,23,57,18,1,22,15,44,Grădinița nr. 61 „Bobocel”,,Brăila,45.2433,27.9434
+6,9,BRĂILA,MUNICIPIUL BRĂILA,322,32,55,31,2,24,30,56,327,29,55,29,2,24,24,56,Grădinița nr. 61 „Bobocel”,,Brăila,45.2433,27.9434
+7,9,BRĂILA,MUNICIPIUL BRĂILA,381,32,65,42,0,38,29,68,387,36,64,44,0,37,25,56,Școala Gimnazială nr. 1 „Vlaicu Vodă”,,Brăila,45.2428,27.94
+8,9,BRĂILA,MUNICIPIUL BRĂILA,395,33,91,36,0,31,22,57,398,34,96,37,0,27,22,51,Școala Gimnazială nr. 1 „Vlaicu Vodă”,,Brăila,45.2428,27.94
+9,9,BRĂILA,MUNICIPIUL BRĂILA,431,35,83,35,0,25,18,56,434,30,77,41,2,24,15,52,Grădinița nr. 12 „Sfântul Nicolae”,,Brăila,45.2432,27.9391
+10,9,BRĂILA,MUNICIPIUL BRĂILA,370,52,90,27,2,25,14,55,369,58,93,29,0,24,15,47,Grădinița nr. 12 „Sfântul Nicolae”,,Brăila,45.2432,27.9391
+11,9,BRĂILA,MUNICIPIUL BRĂILA,274,56,83,32,2,38,14,48,280,58,87,30,3,36,9,42,Școala Gimnazială nr. 27 „Aurel Vlaicu”,,Brăila,45.2449,27.9347
+12,9,BRĂILA,MUNICIPIUL BRĂILA,371,32,81,26,1,22,15,41,370,31,85,27,1,23,14,37,Școala Gimnazială nr. 27 „Aurel Vlaicu”,,Brăila,45.2449,27.9347
+13,9,BRĂILA,MUNICIPIUL BRĂILA,311,52,82,39,0,37,13,49,316,45,82,38,1,37,11,44,Școala Gimnazială nr. 27 „Aurel Vlaicu”,,Brăila,45.2449,27.9347
+14,9,BRĂILA,MUNICIPIUL BRĂILA,275,39,76,34,2,45,14,52,288,38,81,33,3,29,18,49,Școala Gimnazială nr. 27 „Aurel Vlaicu”,,Brăila,45.2449,27.9347
+15,9,BRĂILA,MUNICIPIUL BRĂILA,195,19,33,28,2,22,12,35,195,25,37,25,2,27,13,24,Școala Gimnazială nr. 2 „Fănuș Neagu”,,Brăila,45.2503,27.9394
+16,9,BRĂILA,MUNICIPIUL BRĂILA,290,24,70,22,1,25,11,41,291,28,66,25,1,21,14,34,Școala Gimnazială nr. 2 „Fănuș Neagu”,,Brăila,45.2503,27.9394
+17,9,BRĂILA,MUNICIPIUL BRĂILA,276,44,67,27,4,26,17,49,276,44,73,22,2,31,20,48,Școala Gimnazială nr. 2 „Fănuș Neagu”,,Brăila,45.2503,27.9394
+18,9,BRĂILA,MUNICIPIUL BRĂILA,304,59,82,49,0,31,16,64,290,60,89,50,0,38,14,55,Școala Gimnazială nr. 2 „Fănuș Neagu”,,Brăila,45.2503,27.9394
+19,9,BRĂILA,MUNICIPIUL BRĂILA,267,26,87,31,0,21,10,39,266,25,86,37,0,26,11,35,Școala Gimnazială nr. 2 „Fănuș Neagu”,,Brăila,45.2503,27.9394
+20,9,BRĂILA,MUNICIPIUL BRĂILA,318,31,57,29,0,34,12,49,322,27,60,29,0,36,13,49,Grădinița nr. 39 „Căsuța Fermecată”,,Brăila,45.2456,27.9448
+21,9,BRĂILA,MUNICIPIUL BRĂILA,265,24,50,22,0,35,4,31,267,24,50,21,0,38,4,27,Grădinița nr. 39 „Căsuța Fermecată”,,Brăila,45.2456,27.9448
+22,9,BRĂILA,MUNICIPIUL BRĂILA,236,16,57,45,1,21,15,35,242,15,51,45,1,21,16,35,Grădinița nr. 39 „Căsuța Fermecată”,,Brăila,45.2456,27.9448
+23,9,BRĂILA,MUNICIPIUL BRĂILA,290,19,60,18,0,20,9,34,286,18,60,22,1,20,12,35,Grădinița nr. 39 „Căsuța Fermecată”,,Brăila,45.2456,27.9448
+24,9,BRĂILA,MUNICIPIUL BRĂILA,272,26,61,33,1,28,9,33,274,28,63,32,0,27,7,30,Școala Gimnazială nr. 28 „Vasile Alecsandri”,,Brăila,45.2464,27.9481
+25,9,BRĂILA,MUNICIPIUL BRĂILA,214,15,40,12,1,8,8,31,215,18,43,13,0,8,6,25,Școala Gimnazială nr. 28 „Vasile Alecsandri”,,Brăila,45.2464,27.9481
+26,9,BRĂILA,MUNICIPIUL BRĂILA,223,12,38,12,2,28,6,28,225,11,40,16,1,28,5,25,Școala Gimnazială nr. 28 „Vasile Alecsandri”,,Brăila,45.2464,27.9481
+27,9,BRĂILA,MUNICIPIUL BRĂILA,320,47,97,40,2,27,11,47,316,45,96,43,0,42,11,41,Școala Gimnazială nr. 28 „Vasile Alecsandri”,,Brăila,45.2464,27.9481
+28,9,BRĂILA,MUNICIPIUL BRĂILA,228,8,31,27,2,16,8,24,221,9,35,29,2,18,7,22,Școala Gimnazială nr. 28 „Vasile Alecsandri”,,Brăila,45.2464,27.9481
+29,9,BRĂILA,MUNICIPIUL BRĂILA,337,19,71,25,0,23,14,54,332,17,81,24,0,27,16,47,Grădinița nr. 38 „Izvorașul”,,Brăila,45.2429,27.9489
+30,9,BRĂILA,MUNICIPIUL BRĂILA,164,16,41,18,1,14,8,27,167,16,36,17,1,14,8,30,Școala Gimnazială nr. 29 „Mihail Sadoveanu”,,Brăila,45.2496,27.9513
+31,9,BRĂILA,MUNICIPIUL BRĂILA,247,25,89,21,0,37,15,39,250,25,94,20,0,34,14,36,Școala Gimnazială nr. 29 „Mihail Sadoveanu”,,Brăila,45.2496,27.9513
+32,9,BRĂILA,MUNICIPIUL BRĂILA,329,29,71,29,0,35,19,53,320,28,74,30,1,42,19,48,Școala Gimnazială nr. 29 „Mihail Sadoveanu”,,Brăila,45.2496,27.9513
+33,9,BRĂILA,MUNICIPIUL BRĂILA,364,33,86,28,2,29,18,56,361,34,87,27,1,34,21,51,Grădinița nr. 11 „Brândușa”,,Brăila,45.2516,27.9488
+34,9,BRĂILA,MUNICIPIUL BRĂILA,73,1,19,5,0,6,2,14,73,1,16,4,0,5,4,15,Căminul Pentru Persoane Vârstnice „Lacu Sărat”,,Brăila,45.2159,27.919
+35,9,BRĂILA,MUNICIPIUL BRĂILA,157,19,32,10,0,10,18,43,164,21,37,9,0,7,21,38,Colegiul Național „Ana Aslan”,,Brăila,45.2504,27.9546
+36,9,BRĂILA,MUNICIPIUL BRĂILA,294,40,71,44,2,32,11,46,298,36,71,46,4,39,11,36,Colegiul Național „Ana Aslan”,,Brăila,45.2504,27.9546
+37,9,BRĂILA,MUNICIPIUL BRĂILA,231,22,57,19,0,33,17,38,227,25,56,24,0,26,21,43,Colegiul Național „Ana Aslan”,,Brăila,45.2504,27.9546
+38,9,BRĂILA,MUNICIPIUL BRĂILA,327,42,80,30,0,31,11,44,324,39,87,30,0,33,9,40,Colegiul Național „Ana Aslan”,,Brăila,45.2504,27.9546
+39,9,BRĂILA,MUNICIPIUL BRĂILA,292,19,38,26,0,19,8,45,288,18,49,26,0,21,11,41,Colegiul Național „Ana Aslan”,,Brăila,45.2504,27.9546
+40,9,BRĂILA,MUNICIPIUL BRĂILA,357,30,65,20,1,26,17,56,341,32,72,19,1,34,21,56,Colegiul Tehnic „Edmond Nicolau”,,Brăila,45.2554,27.9573
+41,9,BRĂILA,MUNICIPIUL BRĂILA,276,16,52,36,3,26,20,54,290,15,50,36,3,21,19,45,Colegiul Tehnic „Edmond Nicolau”,,Brăila,45.2554,27.9573
+42,9,BRĂILA,MUNICIPIUL BRĂILA,337,60,81,36,2,31,20,53,347,61,80,30,1,29,22,55,Compania de Utilități Publice „Dunărea” Sa Brăila,,Brăila,45.2552,27.9648
+43,9,BRĂILA,MUNICIPIUL BRĂILA,273,49,96,42,0,35,17,55,278,49,102,46,0,30,18,48,Școala Gimnazială nr. 4 „Alexandru Ioan Cuza”,,Brăila,45.259,27.9609
+44,9,BRĂILA,MUNICIPIUL BRĂILA,336,51,106,29,5,62,23,52,339,51,108,22,3,66,23,49,Școala Gimnazială nr. 4 „Alexandru Ioan Cuza”,,Brăila,45.259,27.9609
+45,9,BRĂILA,MUNICIPIUL BRĂILA,259,69,83,38,2,38,20,56,264,65,92,40,2,34,20,49,Școala Gimnazială nr. 4 „Alexandru Ioan Cuza”,,Brăila,45.259,27.9609
+46,9,BRĂILA,MUNICIPIUL BRĂILA,323,35,86,63,1,46,27,66,325,39,83,64,3,43,30,66,Grădinița cu Program Normal Waldorf,,Brăila,45.2615,27.9652
+47,9,BRĂILA,MUNICIPIUL BRĂILA,253,39,81,30,1,33,19,57,259,43,83,25,1,30,18,50,Grădinița cu Program Normal Waldorf,,Brăila,45.2615,27.9652
+48,9,BRĂILA,MUNICIPIUL BRĂILA,348,41,90,40,1,44,20,72,355,39,89,42,1,39,18,66,Școala Gimnazială nr. 8 „Ion Băncilă”,,Brăila,45.2664,27.9605
+49,9,BRĂILA,MUNICIPIUL BRĂILA,252,59,71,35,1,34,18,57,249,56,68,39,1,38,17,52,Școala Gimnazială nr. 8 „Ion Băncilă”,,Brăila,45.2664,27.9605
+50,9,BRĂILA,MUNICIPIUL BRĂILA,191,17,37,23,1,17,8,33,197,20,33,22,2,16,8,29,Școala Gimnazială nr. 8 „Ion Băncilă”,,Brăila,45.2664,27.9605
+51,9,BRĂILA,MUNICIPIUL BRĂILA,217,41,65,27,1,25,15,34,222,40,66,26,1,20,19,35,Școala Gimnazială nr. 8 „Ion Băncilă”,,Brăila,45.2664,27.9605
+52,9,BRĂILA,MUNICIPIUL BRĂILA,327,53,78,33,2,35,22,70,326,55,75,34,0,44,22,63,Școala Gimnazială nr. 8 „Ion Băncilă”,,Brăila,45.2664,27.9605
+53,9,BRĂILA,MUNICIPIUL BRĂILA,207,30,63,24,0,23,11,37,211,29,63,27,0,24,10,27,Liceul Teoretic „Panait Cerna”,,Brăila,45.2706,27.9558
+54,9,BRĂILA,MUNICIPIUL BRĂILA,254,24,61,26,0,29,14,47,255,23,65,31,0,28,17,38,Liceul Teoretic „Panait Cerna”,,Brăila,45.2706,27.9558
+55,9,BRĂILA,MUNICIPIUL BRĂILA,277,28,56,32,0,28,34,55,300,25,47,35,2,23,31,50,Liceul Teoretic „Panait Cerna”,,Brăila,45.2706,27.9558
+56,9,BRĂILA,MUNICIPIUL BRĂILA,243,40,59,41,2,38,18,47,259,39,60,39,2,33,21,45,Liceul Teoretic „Panait Cerna”,,Brăila,45.2706,27.9558
+57,9,BRĂILA,MUNICIPIUL BRĂILA,294,78,128,46,1,51,42,98,311,77,123,51,2,46,36,86,Colegiul Național „Gheorghe Munteanu Murgoci”,,Brăila,45.2643,27.9695
+58,9,BRĂILA,MUNICIPIUL BRĂILA,218,46,97,47,0,58,22,60,216,52,97,49,3,56,20,53,Colegiul Național „Gheorghe Munteanu Murgoci”,,Brăila,45.2643,27.9695
+59,9,BRĂILA,MUNICIPIUL BRĂILA,236,69,85,51,4,50,21,56,241,67,85,50,6,53,21,46,Școala Gimnazială nr. 7 „Ion Creangă”,,Brăila,45.268,27.9697
+60,9,BRĂILA,MUNICIPIUL BRĂILA,197,45,97,38,0,47,22,69,201,41,101,35,0,57,21,55,Școala Gimnazială nr. 7 „Ion Creangă”,,Brăila,45.268,27.9697
+61,9,BRĂILA,MUNICIPIUL BRĂILA,229,37,76,41,2,38,8,56,239,32,78,41,6,46,8,42,Școala Gimnazială nr. 7 „Ion Creangă”,,Brăila,45.268,27.9697
+62,9,BRĂILA,MUNICIPIUL BRĂILA,165,25,47,19,0,25,14,40,174,23,46,21,1,25,12,28,Liceul Teoretic „Nicolae Iorga”,,Brăila,45.2692,27.9736
+63,9,BRĂILA,MUNICIPIUL BRĂILA,162,47,69,25,3,25,13,44,167,41,69,29,2,22,15,42,Școala Gimnazială nr. 5 „Nikos Kazantzakis”,,Brăila,45.2702,27.9777
+64,9,BRĂILA,MUNICIPIUL BRĂILA,263,44,83,44,1,40,23,72,270,44,85,48,2,42,23,56,Colegiul Național „Nicolae Bălcescu”,,Brăila,45.2748,27.9696
+65,9,BRĂILA,MUNICIPIUL BRĂILA,241,52,110,54,1,27,19,64,249,53,105,52,1,25,21,58,Liceul de Artă „Hariclea Darclee”,,Brăila,45.2754,27.9702
+66,9,BRĂILA,MUNICIPIUL BRĂILA,302,40,115,54,4,47,20,68,313,46,111,55,3,40,20,56,Liceul de Artă „Hariclea Darclee”,,Brăila,45.2754,27.9702
+67,9,BRĂILA,MUNICIPIUL BRĂILA,375,31,130,40,4,40,19,88,379,33,134,43,1,43,21,73,Liceul Tehnologic „Grigore Moisil”,,Brăila,45.2817,27.9773
+68,9,BRĂILA,MUNICIPIUL BRĂILA,276,53,65,37,3,36,22,60,291,48,67,36,1,36,16,52,Școala Gimnazială nr. 17 „Ecaterina Teodoroiu”,,Brăila,45.2823,27.9724
+69,9,BRĂILA,MUNICIPIUL BRĂILA,331,57,82,45,0,59,22,89,337,62,88,47,0,55,19,72,Școala Gimnazială nr. 17 „Ecaterina Teodoroiu”,,Brăila,45.2823,27.9724
+70,9,BRĂILA,MUNICIPIUL BRĂILA,348,46,88,49,0,36,22,61,362,46,78,49,0,38,19,58,Colegiul Tehnic „Panait Istrati”,,Brăila,45.2876,27.9721
+71,9,BRĂILA,MUNICIPIUL BRĂILA,239,24,48,21,2,34,15,42,241,24,54,19,2,34,19,40,Colegiul Tehnic „Panait Istrati”,,Brăila,45.2876,27.9721
+72,9,BRĂILA,MUNICIPIUL BRĂILA,240,42,95,39,4,17,17,70,247,41,93,39,4,24,14,58,Colegiul Tehnic „Panait Istrati”,,Brăila,45.2876,27.9721
+73,9,BRĂILA,MUNICIPIUL BRĂILA,241,18,51,20,2,24,15,46,235,16,49,26,3,26,21,49,Școala Gimnazială nr. 18 „Mihu Dragomir”,,Brăila,45.2867,27.9704
+74,9,BRĂILA,MUNICIPIUL BRĂILA,299,35,59,34,3,22,10,39,305,33,60,32,3,19,15,38,Școala Gimnazială nr. 18 „Mihu Dragomir”,,Brăila,45.2867,27.9704
+75,9,BRĂILA,MUNICIPIUL BRĂILA,296,23,82,39,0,27,11,67,305,25,80,39,0,32,9,53,Grădinița nr. 21 „Pescărușul”,,Brăila,45.285,27.9607
+76,9,BRĂILA,MUNICIPIUL BRĂILA,246,18,52,24,1,17,8,32,235,21,46,26,3,29,8,25,Grădinița nr. 21 „Pescărușul”,,Brăila,45.285,27.9607
+77,9,BRĂILA,MUNICIPIUL BRĂILA,258,25,74,21,3,16,9,42,258,23,75,21,4,16,10,40,Grădinița nr. 21 „Pescărușul”,,Brăila,45.285,27.9607
+78,9,BRĂILA,MUNICIPIUL BRĂILA,305,44,107,50,3,38,13,61,311,46,100,53,5,44,15,50,Școala Gimnazială nr. 6 „Constantin Sandu Aldea”,,Brăila,45.2793,27.9586
+79,9,BRĂILA,MUNICIPIUL BRĂILA,285,62,66,36,0,43,20,59,290,62,63,42,2,40,16,53,Școala Gimnazială nr. 6 „Constantin Sandu Aldea”,,Brăila,45.2793,27.9586
+80,9,BRĂILA,MUNICIPIUL BRĂILA,274,65,75,40,1,42,19,62,263,62,78,40,2,51,22,58,Școala Gimnazială nr. 6 „Constantin Sandu Aldea”,,Brăila,45.2793,27.9586
+81,9,BRĂILA,MUNICIPIUL BRĂILA,281,62,114,49,0,48,19,65,292,61,118,44,0,48,19,56,Școala Gimnazială nr. 6 „Constantin Sandu Aldea”,,Brăila,45.2793,27.9586
+82,9,BRĂILA,MUNICIPIUL BRĂILA,306,58,86,51,1,54,20,66,307,56,83,50,1,60,21,64,Liceul Tehnologic „Anghel Saligny”,,Brăila,45.278,27.963
+83,9,BRĂILA,MUNICIPIUL BRĂILA,222,30,86,34,0,40,13,49,221,33,83,32,0,39,17,55,Liceul Tehnologic „Anghel Saligny”,,Brăila,45.278,27.963
+84,9,BRĂILA,MUNICIPIUL BRĂILA,248,43,110,32,1,47,12,63,260,45,96,36,1,48,18,57,Liceul Tehnologic „Anghel Saligny”,,Brăila,45.278,27.963
+85,9,BRĂILA,MUNICIPIUL BRĂILA,227,58,72,42,0,24,15,44,235,55,69,45,0,23,12,42,Colegiul Economic „Ion Ghica”,Str. Griviței,Brăila,45.2721,27.961
+86,9,BRĂILA,MUNICIPIUL BRĂILA,255,38,99,58,1,43,16,68,266,35,97,60,1,39,24,62,Colegiul Economic „Ion Ghica”,,Brăila,45.2721,27.961
+87,9,BRĂILA,MUNICIPIUL BRĂILA,247,38,75,45,0,42,23,78,255,31,75,51,1,42,28,69,Casa Corpului Didactic,,Brăila,45.2771,27.9628
+88,9,BRĂILA,MUNICIPIUL BRĂILA,264,24,75,29,1,22,20,50,256,23,79,27,1,30,19,45,Școala Gimnazială nr. 32 „Dimitrie Cantemir”,,Brăila,45.2686,27.9522
+89,9,BRĂILA,MUNICIPIUL BRĂILA,348,37,83,19,3,39,13,47,340,36,82,22,3,51,10,44,Școala Gimnazială nr. 32 „Dimitrie Cantemir”,,Brăila,45.2686,27.9522
+90,9,BRĂILA,MUNICIPIUL BRĂILA,227,12,46,17,0,28,15,43,225,12,47,18,0,31,10,35,Școala Gimnazială nr. 32 „Dimitrie Cantemir”,,Brăila,45.2686,27.9522
+91,9,BRĂILA,MUNICIPIUL BRĂILA,324,30,66,20,0,39,21,51,327,31,62,29,0,37,19,46,Școala Gimnazială nr. 32 „Dimitrie Cantemir”,,Brăila,45.2686,27.9522
+92,9,BRĂILA,MUNICIPIUL BRĂILA,345,57,81,34,1,51,29,49,350,52,89,37,2,46,28,45,Școala Gimnazială nr. 32 „Dimitrie Cantemir”,,Brăila,45.2686,27.9522
+93,9,BRĂILA,MUNICIPIUL BRĂILA,330,43,77,34,3,41,26,63,337,35,83,32,1,48,25,54,Grădinița nr. 36 „Furnicuța”,,Brăila,45.2689,27.9528
+94,9,BRĂILA,MUNICIPIUL BRĂILA,323,43,78,54,1,22,21,45,322,37,70,63,1,32,16,45,Grădinița nr. 48 „Luceafărul”,,Brăila,45.2645,27.9558
+95,9,BRĂILA,MUNICIPIUL BRĂILA,327,24,60,39,0,30,22,58,328,26,66,40,0,33,21,55,Grădinița nr. 48 „Luceafărul”,,Brăila,45.2645,27.9558
+96,9,BRĂILA,MUNICIPIUL BRĂILA,332,37,97,26,3,38,17,54,332,40,96,26,5,39,20,52,Grădinița nr. 37 „Dumbrava Minunată”,,Brăila,45.2573,27.9558
+97,9,BRĂILA,MUNICIPIUL BRĂILA,388,64,134,50,2,60,30,90,406,51,138,57,1,60,22,75,Grădinița nr. 37 „Dumbrava Minunată”,,Brăila,45.2573,27.9558
+98,9,BRĂILA,MUNICIPIUL BRĂILA,319,56,88,48,0,32,27,66,333,56,84,54,2,33,27,51,Grădinița nr. 37 „Dumbrava Minunată”,,Brăila,45.2573,27.9558
+99,9,BRĂILA,MUNICIPIUL BRĂILA,237,36,71,20,1,24,14,45,233,43,72,21,1,26,15,40,Liceul Pedagogic „D.P. Perpessicius”,,Brăila,45.2627,27.9565
+100,9,BRĂILA,MUNICIPIUL BRĂILA,369,40,109,31,2,39,33,73,380,46,112,31,2,31,34,69,Liceul Pedagogic „D.P. Perpessicius”,,Brăila,45.2627,27.9565
+101,9,BRĂILA,MUNICIPIUL BRĂILA,379,43,91,53,5,63,28,79,377,38,96,54,2,78,29,71,Liceul Pedagogic „D.P. Perpessicius”,,Brăila,45.2627,27.9565
+102,9,BRĂILA,MUNICIPIUL BRĂILA,197,19,44,21,1,28,4,32,203,20,44,23,1,25,5,26,Școala Gimnazială nr. 23 „Mihai Eminescu”,,Brăila,45.2616,27.9559
+103,9,BRĂILA,MUNICIPIUL BRĂILA,269,24,56,21,2,21,15,45,260,24,58,24,3,23,14,42,Școala Gimnazială nr. 23 „Mihai Eminescu”,,Brăila,45.2616,27.9559
+104,9,BRĂILA,MUNICIPIUL BRĂILA,294,32,69,41,0,41,21,58,303,32,73,36,1,42,17,47,Școala Gimnazială nr. 23 „Mihai Eminescu”,,Brăila,45.2616,27.9559
+105,9,BRĂILA,MUNICIPIUL BRĂILA,236,12,25,15,0,13,10,35,251,11,27,16,0,12,11,28,Școala Gimnazială nr. 9 „Anton Pann”,,Brăila,45.266,27.9486
+106,9,BRĂILA,MUNICIPIUL BRĂILA,226,8,33,19,2,15,5,37,247,8,37,14,2,19,6,26,Școala Gimnazială nr. 9 „Anton Pann”,,Brăila,45.266,27.9486
+107,9,BRĂILA,MUNICIPIUL BRĂILA,234,12,44,22,5,13,17,71,255,13,47,26,3,15,16,43,Școala Gimnazială nr. 9 „Anton Pann”,,Brăila,45.266,27.9486
+108,9,BRĂILA,MUNICIPIUL BRĂILA,230,18,49,34,1,15,10,40,233,21,52,34,1,17,8,30,Școala Gimnazială nr. 9 „Anton Pann”,,Brăila,45.266,27.9486
+109,9,BRĂILA,MUNICIPIUL BRĂILA,249,16,68,45,1,36,16,56,254,18,73,47,2,26,16,49,Școala Gimnazială nr. 13 „Nedelcu Chercea”,,Brăila,45.2758,27.9497
+110,9,BRĂILA,MUNICIPIUL BRĂILA,265,26,63,29,2,40,12,53,276,32,55,28,2,37,15,48,Școala Gimnazială nr. 13 „Nedelcu Chercea”,,Brăila,45.2758,27.9497
+111,9,BRĂILA,MUNICIPIUL BRĂILA,294,14,54,27,1,31,11,42,303,11,54,29,1,29,15,38,Școala Gimnazială nr. 22 „Radu Tudoran”,,Brăila,45.2805,27.9487
+112,9,BRĂILA,MUNICIPIUL BRĂILA,306,20,52,26,4,31,9,41,313,20,54,23,5,31,9,43,Școala Gimnazială nr. 22 „Radu Tudoran”,,Brăila,45.2805,27.9487
+113,9,BRĂILA,MUNICIPIUL BRĂILA,245,15,74,23,0,35,12,45,248,14,72,26,3,28,9,47,Școala Gimnazială nr. 22 „Radu Tudoran”,,Brăila,45.2805,27.9487
+114,9,BRĂILA,MUNICIPIUL BRĂILA,287,24,66,23,2,36,11,36,289,27,63,26,1,30,12,37,Școala Gimnazială nr. 22 „Radu Tudoran”,,Brăila,45.2805,27.9487
+115,9,BRĂILA,MUNICIPIUL BRĂILA,250,23,49,27,1,23,7,23,250,24,48,25,2,27,11,24,Școala Gimnazială nr. 22 „Radu Tudoran”,,Brăila,45.2805,27.9487
+116,9,BRĂILA,MUNICIPIUL BRĂILA,285,12,55,26,0,21,14,61,289,9,60,26,0,25,13,52,Căminul Cultural „Nedelcu Chercea”,,Brăila,45.2821,27.9469
+117,9,BRĂILA,MUNICIPIUL BRĂILA,264,17,52,28,2,20,11,42,277,19,51,29,2,17,10,32,Școala Gimnazială nr. 24 „Gheorghe Naum”,,Brăila,45.2855,27.9519
+118,9,BRĂILA,MUNICIPIUL BRĂILA,320,19,81,35,0,20,9,46,326,21,70,34,1,23,7,45,Școala Gimnazială nr. 24 „Gheorghe Naum”,,Brăila,45.2855,27.9519
+119,9,BRĂILA,MUNICIPIUL BRĂILA,297,26,75,28,0,31,23,56,296,26,75,33,2,31,19,47,Școala Gimnazială nr. 24 „Gheorghe Naum”,,Brăila,45.2855,27.9519
+120,9,BRĂILA,MUNICIPIUL BRĂILA,248,23,47,30,0,14,17,43,247,21,57,28,0,17,17,36,Școala Gimnazială nr. 24 „Gheorghe Naum”,,Brăila,45.2907,27.9512
+121,9,BRĂILA,MUNICIPIUL BRĂILA,292,30,57,24,0,40,16,65,289,29,59,26,1,45,13,57,Grădinița nr. 8 „Scufița Roșie”,,Brăila,45.2945,27.9676
+122,9,BRĂILA,MUNICIPIUL BRĂILA,304,30,42,22,0,30,13,43,307,30,45,18,1,27,12,43,Grădinița nr. 8 „Scufița Roșie”,,Brăila,45.2945,27.9676
+123,9,BRĂILA,MUNICIPIUL BRĂILA,261,28,47,18,1,27,15,48,261,35,56,23,0,22,11,39,Școala Gimnazială nr. 11 „Ion Luca Caragiale”,,Brăila,45.2937,27.9678
+124,9,BRĂILA,MUNICIPIUL BRĂILA,269,24,59,38,1,33,15,46,270,21,55,42,0,35,13,45,Școala Gimnazială nr. 11 „Ion Luca Caragiale”,,Brăila,45.2937,27.9678
+125,9,BRĂILA,MUNICIPIUL BRĂILA,313,34,79,32,1,24,15,69,320,34,81,33,1,21,21,57,Școala Gimnazială nr. 19 „Mihail Kogălniceanu”,,Brăila,45.2963,27.9704
+126,9,BRĂILA,MUNICIPIUL BRĂILA,278,28,43,21,0,25,21,54,277,27,46,22,0,30,20,49,Școala Gimnazială nr. 19 „Mihail Kogălniceanu”,,Brăila,45.2963,27.9704
+127,9,BRĂILA,MUNICIPIUL BRĂILA,312,24,43,24,0,26,10,47,328,23,40,22,1,27,9,41,Școala Gimnazială nr. 19 „Mihail Kogălniceanu”,,Brăila,45.2963,27.9704
+128,9,BRĂILA,MUNICIPIUL BRĂILA,303,17,93,35,3,27,15,55,319,18,90,29,2,24,15,53,Școala Gimnazială nr. 19 „Mihail Kogălniceanu”,,Brăila,45.2963,27.9704
+129,9,BRĂILA,MUNICIPIUL BRĂILA,138,9,41,17,3,18,5,138,186,11,57,23,3,32,10,50,Școala Gimnazială nr. 21 „Alexandr Sergheevici Pușkin”,,Brăila,45.3013,27.9711
+130,9,BRĂILA,MUNICIPIUL BRĂILA,174,18,65,11,2,22,11,160,242,28,83,15,5,27,18,58,Școala Gimnazială nr. 21 „Alexandr Sergheevici Pușkin”,,Brăila,45.3013,27.9711
+131,9,BRĂILA,MUNICIPIUL BRĂILA,346,35,67,24,2,34,18,64,347,35,69,23,1,36,21,62,Școala Gimnazială nr. 20 „George Coșbuc”,,Brăila,45.3026,27.9651
+132,9,BRĂILA,MUNICIPIUL BRĂILA,293,33,68,25,1,27,13,55,310,28,66,28,1,25,14,45,Școala Gimnazială nr. 20 „George Coșbuc”,,Brăila,45.3026,27.9651
+133,9,BRĂILA,MUNICIPIUL BRĂILA,353,32,46,21,1,32,19,55,358,32,59,19,0,27,17,49,Școala Gimnazială nr. 20 „George Coșbuc”,,Brăila,45.3026,27.9651
+134,9,BRĂILA,MUNICIPIUL BRĂILA,243,20,54,22,2,31,19,52,238,22,60,24,4,37,16,44,Liceul Tehnologic „Constantin Brâncoveanu”,,Brăila,45.306,27.9628
+135,9,BRĂILA,MUNICIPIUL BRĂILA,285,17,47,25,1,34,12,60,292,23,52,27,0,32,12,41,Liceul Tehnologic „Constantin Brâncoveanu”,,Brăila,45.306,27.9628
+136,9,BRĂILA,MUNICIPIUL BRĂILA,296,20,71,24,1,35,18,75,304,18,79,31,0,39,17,44,Liceul Tehnologic „Constantin Brâncoveanu”,,Brăila,45.306,27.9628
+137,9,BRĂILA,MUNICIPIUL BRĂILA,320,24,69,21,2,28,9,37,334,27,68,17,1,26,13,33,Liceul Tehnologic „Constantin Brâncoveanu”,,Brăila,45.306,27.9628
+138,9,BRĂILA,MUNICIPIUL BRĂILA,252,15,52,29,1,20,6,26,247,17,45,27,1,26,11,29,Liceul Tehnologic „Constantin Brâncoveanu”,,Brăila,45.306,27.9628
+139,9,BRĂILA,MUNICIPIUL BRĂILA,219,11,78,24,0,19,16,52,222,12,75,30,3,22,20,49,Școala Gimnazială nr. 33 „Sfântul Andrei”,,Brăila,45.3045,27.9621
+140,9,BRĂILA,MUNICIPIUL BRĂILA,297,22,71,36,1,37,12,53,299,24,70,36,1,35,19,55,Școala Gimnazială nr. 33 „Sfântul Andrei”,,Brăila,45.3045,27.9621
+141,9,BRĂILA,MUNICIPIUL BRĂILA,293,27,46,20,1,22,10,26,302,25,42,19,1,20,11,28,Școala Gimnazială nr. 33 „Sfântul Andrei”,,Brăila,45.3045,27.9621
+202,9,BRĂILA,MĂRAŞU,39,1,21,9,1,6,4,8,40,0,27,6,2,6,6,10,Școala Primară Băndoiu,Str. Școlii nr. 5,Băndoiu,44.8665,27.9394
+161,9,BRĂILA,BĂRĂGANUL,200,15,75,13,1,5,7,22,203,13,71,14,1,9,6,20,Școala cu Clasele I-VIII Bărăganul,Str. Doicești nr. 67,Bărăganul,44.8119,27.5149
+162,9,BRĂILA,BĂRĂGANUL,269,9,70,16,3,6,13,28,274,9,66,17,2,4,14,30,Școala cu Clasele I-VIII Bărăganul - Sala de Clasă nr. 1,Str. Doicești nr. 133,Bărăganul,44.8027,27.5135
+170,9,BRĂILA,CAZASU,189,26,133,15,0,20,9,45,191,24,133,17,1,25,9,39,Școala cu Clasele I-IV Cazasu (Satuc),Str. Rîmnicu Sărat nr. 40,Cazasu,45.2693,27.9125
+171,9,BRĂILA,CAZASU,258,22,134,33,0,30,12,48,265,20,135,37,0,28,11,41,Școala Gimnazială Cazasu,Str. Florilor nr. 26-28,Cazasu,45.2714,27.889
+177,9,BRĂILA,CIOCILE,112,2,21,7,4,7,16,24,111,4,27,8,3,6,20,28,Școala Primară Pri Chichinețu,Nr. 16,Chichinețu,44.8053,27.2725
+172,9,BRĂILA,CHIŞCANI,244,13,57,20,1,33,8,37,247,12,56,22,1,32,7,27,Școala Gimnazială Chiscani - Centru,,Chișcani,45.1799,27.9328
+173,9,BRĂILA,CHIŞCANI,272,21,48,25,8,45,19,54,294,20,49,24,9,43,19,43,Școala Gimnazială- Chiscani - Cartier,,Chișcani,45.1944,27.9327
+175,9,BRĂILA,CIOCILE,182,2,21,21,1,12,5,20,188,3,21,23,1,14,5,15,Caminul Cultural Ciocile,Str. Principală nr. 72,Ciocile,44.8227,27.2464
+176,9,BRĂILA,CIOCILE,201,3,40,18,2,16,16,51,199,2,41,21,4,18,18,39,Caminul Cultural Ciocile,Str. Principală nr. 72,Ciocile,44.8227,27.2464
+178,9,BRĂILA,CIREŞU,77,3,129,6,0,5,4,17,81,1,130,7,0,5,6,14,Școala cu Clasele I-VIII Cireșu,,Cireșu,44.9677,27.3632
+224,9,BRĂILA,ROŞIORI,231,0,33,1,0,11,10,23,239,0,34,2,0,10,10,20,Școala cu Clasele I-VIII Colțea,Nr. 1,Colțea,44.8414,27.329
+256,9,BRĂILA,TUDOR VLADIMIRESCU,100,2,7,4,0,2,4,7,102,2,7,3,0,2,1,7,Căminul Cultural Comăneasca,Str. Principală nr. 29,Comăneasca,45.2221,27.6978
+168,9,BRĂILA,BORDEI VERDE,231,3,10,6,0,6,1,14,241,2,10,8,0,4,1,12,Școala cu Clasele I-IV Constantin Gabrielescu,Str. Școlii nr. 22,Constantin Gabrielescu,45.0734,27.6403
+219,9,BRĂILA,RÎMNICELU,62,1,17,0,0,2,3,11,61,1,16,0,0,2,4,10,Școala Primară Constantinești,Str. Sf. Constantin nr. 59,Constantinești,45.2913,27.482
+207,9,BRĂILA,MĂXINENI,107,5,26,12,1,39,5,18,105,5,25,14,0,43,5,14,Căminul Cultural Corbu Nou,Str. Republicii nr. 22,Corbu Nou,45.4102,27.5895
+208,9,BRĂILA,MĂXINENI,28,1,13,7,1,39,4,8,21,1,12,5,2,50,3,6,Căminul Cultural Corbu Vechi,Str. Culturii nr. 16,Corbu Vechi,45.4707,27.6748
+234,9,BRĂILA,SILIŞTEA,122,1,10,3,0,1,5,14,121,1,8,3,0,2,5,19,Grădinița cu Program Normal Cotu-Lung,,Cotu Lung,45.3884,27.8221
+226,9,BRĂILA,SALCIA TUDOR,100,3,68,5,2,4,14,30,104,3,65,7,1,5,16,28,Școala Gimnazială Cuza Vodă,Str. Regele Ferdinand (1914-1927) nr. 50,Cuza Vodă,45.3895,27.4468
+236,9,BRĂILA,STĂNCUŢA,265,2,71,13,0,2,1,27,269,1,64,15,0,3,4,27,Căminul Cultural Cuza Vodă,,Cuza Vodă,44.9224,27.7314
+274,9,BRĂILA,VIŞANI,160,0,21,7,3,0,2,4,159,0,24,7,4,0,1,4,Școala Primară Câineni-Băi,Str. Aleea Trandafirilor nr. 14,Câineni-Băi,45.186,27.3275
+253,9,BRĂILA,TRAIAN,41,0,9,3,1,2,1,8,44,1,8,3,1,2,1,4,Fosta Școală Căldărușa,Nr. 1,Căldărușa,45.1248,27.6026
+212,9,BRĂILA,MIRCEA VODĂ,217,1,55,1,3,6,2,8,211,1,59,4,3,7,4,7,Școala Gimnazială Sat Dedulesti,Str. Principală nr. 89,Dedulești,45.1465,27.3872
+191,9,BRĂILA,GALBENU,176,1,5,9,0,3,3,24,186,1,4,8,0,7,3,17,Școala Gimnazială Drogu,,Drogu,45.1806,27.236
+281,9,BRĂILA,ZĂVOAIA,147,1,141,4,0,2,5,19,147,1,140,4,0,4,4,20,Căminul Cultural Dudescu,Str. Brăilei nr. 74,Dudescu,44.9486,27.4299
+182,9,BRĂILA,DUDEŞTI,319,8,38,24,3,21,20,39,303,11,37,25,3,21,21,39,Școala Gimnazială Dudești,Str. Primăriei nr. 8,Dudești,44.8851,27.4366
+216,9,BRĂILA,MOVILA MIRESII,105,1,2,1,1,1,8,16,111,1,2,1,1,1,6,13,Școala Esna,Str. Rozmarinului,Esna,45.2014,27.5645
+239,9,BRĂILA,SURDILA-GĂISEANCA,143,1,12,14,0,60,7,20,142,2,13,16,0,59,10,23,Fosta Școala Gimnazială Filipesti,Str. Costache Filipescu nr. 30,Filipești,45.1121,27.3402
+186,9,BRĂILA,FRECĂŢEI,47,2,82,3,1,1,1,1,44,2,81,4,1,2,0,0,Școala cu Clasele I-VIII Frecăței,,Frecăței,44.8947,28.1242
+142,9,BRĂILA,ORAŞ FĂUREI,350,34,74,50,3,51,6,47,357,29,78,58,1,57,9,37,"Casa de Cultură Făurei, Sala Mică",Str. Republicii nr. 44,Făurei,45.0841,27.2729
+143,9,BRĂILA,ORAŞ FĂUREI,342,48,82,46,1,40,14,46,352,43,87,55,2,41,10,31,"Școala Gimnazială cu Clasele I-IV Făurei, Sala nr. 2",Str. Republicii nr. 48,Făurei,45.0846,27.2748
+144,9,BRĂILA,ORAŞ FĂUREI,132,10,26,30,0,8,5,16,129,9,24,39,0,12,4,9,"Fosta Școala Generală nr. 2 Făurei, Sala nr. 1",Str. Bărăganului nr. 27,Făurei,45.0796,27.2859
+241,9,BRĂILA,SURDILA-GRECI,50,0,48,6,1,2,3,6,55,0,48,5,0,2,2,5,Școala cu Clasele I-IV Făurei - Sat,,Făurei Sat,45.0604,27.2272
+188,9,BRĂILA,GALBENU,180,3,43,2,0,7,8,46,184,2,42,3,0,5,11,50,Școala Gimnazială „Toma Tampeanu” Galbenu,,Galbenu,45.2117,27.1581
+193,9,BRĂILA,GEMENELE,516,8,54,18,0,8,10,39,524,7,60,21,1,8,10,31,Școala Gimnazială cu Clasele I-VIII,,Gemenele,45.2858,27.6396
+194,9,BRĂILA,GRADIŞTEA,109,3,288,12,1,9,8,38,109,6,296,12,0,6,4,23,Camin Cultural Gradistea,,Gradiștea,45.2666,27.3909
+197,9,BRĂILA,GROPENI,202,8,225,22,1,10,5,39,215,7,227,21,0,11,6,34,Cămin Cultural,Str. Eroilor nr. 115,Gropeni,45.075,27.8814
+198,9,BRĂILA,GROPENI,172,7,182,30,0,10,12,44,182,6,195,34,0,9,10,29,Școala Gimnazială Gropeni,Str. Școlii nr. 115,Gropeni,45.0723,27.8875
+227,9,BRĂILA,SALCIA TUDOR,47,4,14,6,1,4,3,10,48,3,13,6,1,4,3,9,Căminul Cultural Gulianca,Str. Brăilei nr. 20,Gulianca,45.4331,27.5235
+166,9,BRĂILA,BERTEŞTII DE JOS,35,0,63,1,0,1,1,5,39,1,65,0,0,1,1,1,Sediu Multifuncțional Gura Călmățui,,Gura Călmățui,44.8187,27.7816
+242,9,BRĂILA,SURDILA-GRECI,56,0,87,3,2,7,4,7,58,0,91,4,1,7,4,7,Școala cu Clasele I-IV Horia,,Horia,45.1017,27.2912
+145,9,BRĂILA,ORAŞ IANCA,232,12,33,16,0,32,9,23,233,16,30,15,0,36,9,20,Școala Gimnazială Ianca,Str. Sărățeni nr. 28,Ianca,45.1387,27.4796
+146,9,BRĂILA,ORAŞ IANCA,263,28,42,12,0,40,6,16,258,31,39,11,0,47,10,21,Școala Gimnazială Ianca,Str. Sărățeni nr. 28,Ianca,45.1387,27.4796
+147,9,BRĂILA,ORAŞ IANCA,294,22,35,14,0,32,11,31,297,22,33,16,0,26,11,31,Casa de Cultură „Ion Theodorescu Sion”,Calea Brăilei nr. 35,Ianca,45.1354,27.4791
+148,9,BRĂILA,ORAŞ IANCA,217,10,39,22,1,20,4,21,225,9,37,23,1,18,6,20,Liceul Teoretic „Constantin Angelescu”,Calea Brăilei nr. 167,Ianca,45.1333,27.4645
+149,9,BRĂILA,ORAŞ IANCA,279,11,52,14,0,11,9,23,284,11,50,13,0,8,9,24,Liceul Teoretic „Constantin Angelescu”,Calea Brăilei nr. 167,Ianca,45.1333,27.4645
+195,9,BRĂILA,GRADIŞTEA,52,1,117,0,0,7,3,22,57,1,110,2,0,7,1,22,Școala Ibrianu - Corpul Nou,,Ibrianu,45.2468,27.3803
+199,9,BRĂILA,JIRLĂU,373,11,26,9,1,13,10,30,378,9,28,9,1,12,13,31,Școala Gimnazială nr. 2,Str. Rm. Sărat nr. 91,Jirlău,45.1635,27.1875
+200,9,BRĂILA,JIRLĂU,301,2,23,9,1,10,6,21,311,3,25,6,1,11,7,17,Școala Gimnazială nr. 1,Str. Rm. Sărat nr. 104,Jirlău,45.1629,27.1914
+263,9,BRĂILA,ULMU,164,2,91,14,0,7,2,22,168,3,91,13,1,4,1,13,Caminul Cultural Jugureanu,Str. Ștefan Luchian nr. 36,Jugureanu,44.9433,27.2779
+160,9,BRĂILA,ORAŞ ÎNSURĂŢEI,71,0,7,3,0,12,2,8,67,0,6,4,0,14,2,8,Școala Gimnazială „Spiru Haret” Însurăței - Locația din Satul Lacu Rezii,,Lacu Rezii,44.8966,27.672
+174,9,BRĂILA,CHIŞCANI,346,36,85,34,1,28,9,36,352,39,80,31,2,29,8,31,Grădinița cu Program Normal -Lacu Sarat,,Lacu Sărat,45.2176,27.8883
+277,9,BRĂILA,VIZIRU,152,2,85,9,0,8,5,29,167,2,88,7,1,10,4,17,Școala Lanurile,Nr. 21,Lanurile,45.0416,27.7476
+278,9,BRĂILA,VIZIRU,171,3,99,4,1,4,6,28,175,2,104,4,1,3,6,28,Școala Lanurile,Nr. 21,Lanurile,45.0416,27.7476
+209,9,BRĂILA,MĂXINENI,100,2,14,7,0,24,8,15,95,2,14,8,1,32,8,15,Camin Cultural Latinu,Nr. 28,Latinu,45.394,27.6988
+169,9,BRĂILA,BORDEI VERDE,154,2,22,3,0,2,8,17,153,1,25,2,0,3,7,16,Căminul Cultural Lișcoteanca,Str. Căminului Cultural nr. 22,Lișcoteanca,45.0042,27.5526
+196,9,BRĂILA,GRADIŞTEA,62,1,57,4,1,4,4,12,62,1,54,4,1,4,1,8,Școala Maraloiu,,Maraloiu,45.2304,27.3702
+272,9,BRĂILA,VICTORIA,311,0,79,9,1,3,15,25,309,0,81,3,1,3,17,27,Școala Gimnazială Victoria Structura Scolara Gimnazială Mihai Bravu,,Mihai Bravu,44.7825,27.7183
+220,9,BRĂILA,RÎMNICELU,59,2,6,4,0,2,4,11,60,3,6,4,1,2,3,9,Școala Primară Mihail Kogălniceanu,Str. Buzăului nr. 49,Mihail Kogălniceanu,45.3137,27.5197
+246,9,BRĂILA,ŞUŢEŞTI,77,1,17,3,0,2,3,12,79,1,16,1,0,4,5,11,Școala cu Clasele I-IV Mihail Kogălniceanu,,Mihail Kogălniceanu,45.2166,27.5028
+210,9,BRĂILA,MIRCEA VODĂ,178,3,139,4,1,12,4,15,182,3,134,9,1,13,5,12,"Școala Gimnazială Mircea Voda, Județul Braila",Str. Mircea cel Bătrân nr. 40,Mircea Vodă,45.1105,27.3744
+211,9,BRĂILA,MIRCEA VODĂ,153,3,149,9,0,9,4,11,155,4,144,10,0,9,8,12,"Școala Gimnazială Mircea Voda, Judetul Braila",Str. Mircea cel Bătrân nr. 40,Mircea Vodă,45.1105,27.3744
+213,9,BRĂILA,MOVILA MIRESII,363,8,26,12,1,12,8,30,357,7,34,14,1,14,11,32,Școala Veche,Str. Târgului,Movila Miresii,45.2176,27.6215
+214,9,BRĂILA,MOVILA MIRESII,333,8,40,7,0,9,9,32,346,8,41,9,1,9,7,25,Camin Cultural M.Miresii,Str. Orizont,Movila Miresii,45.2146,27.6189
+233,9,BRĂILA,SILIŞTEA,173,7,11,1,2,2,3,14,177,8,11,0,2,3,3,10,Școala Primară Muchea,,Muchea,45.3347,27.8221
+204,9,BRĂILA,MĂRAŞU,59,0,39,4,1,1,2,6,56,1,45,5,1,1,2,5,Căminul Cultural Măgureni,Nr. 15,Măgureni,44.7817,27.9228
+201,9,BRĂILA,MĂRAŞU,86,1,28,11,1,5,5,8,90,2,30,7,1,5,5,10,Căminul Cultural Mărașu,Str. Principală nr. 4,Mărașu,44.8422,27.9647
+206,9,BRĂILA,MĂXINENI,157,13,59,39,1,51,11,52,152,12,55,40,0,64,14,50,Școala Generală cu Clasele I-VIII Măxineni,Str. Preot Ilie Postolache nr. 32,Măxineni,45.4098,27.6295
+222,9,BRĂILA,ROMANU,57,7,7,8,0,17,7,17,61,6,10,9,0,16,7,12,Școala Gimnazială Oancea,,Oancea,45.346,27.7314
+228,9,BRĂILA,SALCIA TUDOR,54,1,17,4,2,8,15,20,54,0,18,4,1,11,14,17,Căminul Cultural Olăneasca,Str. Focșaniului nr. 26,Olăneasca,45.4499,27.5292
+151,9,BRĂILA,ORAŞ IANCA,174,2,32,15,0,9,4,13,175,3,32,13,0,12,3,11,Școala Primară Oprișenești,Nr. 217,Oprișenești,45.1369,27.5479
+152,9,BRĂILA,ORAŞ IANCA,208,5,29,21,0,18,4,17,213,7,32,19,0,20,5,12,Școala Gimnazială Perișoru,Nr. 16,Perișoru,45.1127,27.4965
+269,9,BRĂILA,VĂDENI,116,7,17,7,0,2,2,5,116,6,18,6,0,1,4,7,Școala cu Clasele I-IV Pietroiu,Str. Școlii nr. 30,Pietroiu,45.3208,27.8791
+205,9,BRĂILA,MĂRAŞU,19,3,23,1,1,1,3,4,22,1,22,2,1,1,4,5,Școala Primară Plopi,Str. Școlii nr. 4,Plopi,44.7714,27.9848
+150,9,BRĂILA,ORAŞ IANCA,338,5,23,4,1,13,6,19,343,5,21,6,1,13,7,12,Școala Gimnazială Plopu,Nr. 428,Plopu,45.1486,27.5133
+192,9,BRĂILA,GALBENU,53,0,3,5,0,2,5,19,53,0,3,6,0,2,7,21,Școala Gimnazială Pântecani,,Pântecani,45.1925,27.1731
+217,9,BRĂILA,RACOVIŢĂ,158,2,27,215,3,5,14,36,160,5,21,230,2,2,14,26,Căminul Cultural Racovița,Str. Calea Custura nr. 39,Racoviță,45.2981,27.4669
+221,9,BRĂILA,ROMANU,174,7,83,9,0,21,7,37,182,6,85,11,0,21,7,33,Școala Gimnazială Romanu,,Romanu,45.291,27.7452
+223,9,BRĂILA,ROŞIORI,247,5,39,0,1,14,16,37,248,5,34,2,1,15,17,34,Casa de Cultură Roșiori,Str. Trandafirului nr. 34,Roșiori,44.8068,27.3829
+218,9,BRĂILA,RÎMNICELU,224,7,43,17,1,12,7,23,221,7,38,18,1,12,6,24,Școala Gimnazială Rîmnicelu,Str. Brăilei nr. 27,Râmnicelu,45.2813,27.5349
+225,9,BRĂILA,SALCIA TUDOR,95,4,73,20,1,6,7,17,89,6,73,21,0,10,7,12,Căminul Cultural Salcia Tudor,Str. Principală nr. 36,Salcia Tudor,45.3717,27.493
+230,9,BRĂILA,SCORŢARU NOU,115,6,86,20,0,7,5,12,116,6,82,21,0,6,6,16,Școala Gimnazială Scorțaru Nou,,Scorțaru Nou,45.331,27.616
+255,9,BRĂILA,TUDOR VLADIMIRESCU,277,5,37,14,0,6,18,41,287,6,37,12,0,9,19,35,Căminul Cultural Scorțaru Vechi,Str. Râmnicu Sărat nr. 50,Scorțaru Vechi,45.218,27.753
+180,9,BRĂILA,CIREŞU,79,2,138,6,0,8,1,13,80,3,134,9,0,8,3,11,Școala cu Clasele I-VIII Scărlătești,,Scărlătești,44.9494,27.3909
+231,9,BRĂILA,SCORŢARU NOU,80,1,44,3,0,5,3,15,81,2,43,6,0,6,5,12,Grădinița cu Program Normal Sihleanu,,Sihleanu,45.3492,27.6522
+251,9,BRĂILA,TRAIAN,146,4,27,12,2,2,3,11,145,4,26,10,1,1,3,10,Grădinița Silistraru,Nr. 27,Silistraru,45.1669,27.781
+232,9,BRĂILA,SILIŞTEA,274,3,43,6,0,9,7,26,270,2,41,8,1,13,6,26,Căminul Cultural Siliștea,Str. Principală nr. 34,Siliștea,45.3102,27.834
+164,9,BRĂILA,BERTEŞTII DE JOS,144,8,96,17,3,12,8,30,147,11,97,14,2,13,7,22,Căminul Cultural Spiru Haret,,Spiru Haret,44.8712,27.7459
+237,9,BRĂILA,STĂNCUŢA,115,0,17,5,0,6,2,18,116,2,20,4,0,5,2,13,Școala Stanca,,Stanca,44.8773,27.8162
+235,9,BRĂILA,STĂNCUŢA,411,4,104,20,1,8,1,15,416,4,102,23,0,8,1,10,Școala Gimnazială Stăncuța,,Stăncuța,44.8967,27.8364
+240,9,BRĂILA,SURDILA-GRECI,101,2,87,7,5,6,8,20,99,3,92,9,2,8,7,15,Școala cu Clasele I-VIII Surdila Greci,,Surdila-Greci,45.0632,27.2604
+238,9,BRĂILA,SURDILA-GĂISEANCA,215,13,32,20,1,283,17,44,200,14,30,21,2,290,15,37,Căminul Cultural Surdila Găiseanca,Str. Brăilei nr. 34,Surdila-Găiseanca,45.0828,27.3213
+189,9,BRĂILA,GALBENU,103,0,14,8,0,7,4,39,107,0,12,10,0,5,3,36,Școala Gimnazială Sătuc,,Sătuc,45.1844,27.1558
+247,9,BRĂILA,TICHILEŞTI,173,7,210,11,1,22,4,23,174,6,209,13,1,23,6,17,Școala Gimnazială Tichilesti,,Tichilești,45.1299,27.9073
+248,9,BRĂILA,TICHILEŞTI,163,3,208,8,2,17,6,23,173,5,200,6,2,14,7,27,Școala Gimnazială Tichilesti,,Tichilești,45.1299,27.9073
+187,9,BRĂILA,FRECĂŢEI,67,3,68,3,0,6,1,4,64,2,70,4,0,5,2,7,Școala cu Clasele I-IV Titcov,,Titcov,45.0008,28.1285
+250,9,BRĂILA,TRAIAN,292,6,30,6,1,5,2,35,303,8,29,3,1,5,4,28,Școala cu Clasele I-VIII Traian,Str. Principală nr. 28,Traian,45.1837,27.7323
+254,9,BRĂILA,TUDOR VLADIMIRESCU,174,11,58,12,0,8,5,23,167,11,54,12,3,11,5,31,Școala Gimnazială Tudor Vladimirescu,Str. Brăilei nr. 76,Tudor Vladimirescu,45.2343,27.8039
+257,9,BRĂILA,TUFEŞTI,170,1,45,5,1,9,3,14,169,1,41,5,2,13,3,16,Școala Petre Carp Tufesti,Nr. 76,Tufești,45.0088,27.8111
+258,9,BRĂILA,TUFEŞTI,185,5,47,10,2,4,0,10,176,4,48,10,2,6,0,8,Cladirea Fostei Gradinite Tufesti,Str. Brăilei nr. 182,Tufești,45.0008,27.8096
+259,9,BRĂILA,TUFEŞTI,201,9,104,17,0,9,4,25,208,9,111,13,0,12,5,16,Camin Cultural din Fostul Sat Tibanesti,Str. Primăriei nr. 61,Tufești,44.9872,27.8016
+260,9,BRĂILA,TUFEŞTI,260,3,141,8,1,13,2,16,258,3,138,8,1,17,4,16,Școala Petre Carp din Fostul Sat Tibanesti,Str. Primăriei nr. 64,Tufești,44.9868,27.8008
+153,9,BRĂILA,ORAŞ IANCA,155,2,14,7,2,8,4,16,157,2,16,10,1,7,3,12,Școala Primară Tîrlele Filiu,Nr. 127,Târlele Filiu,45.0448,27.4982
+183,9,BRĂILA,DUDEŞTI,313,1,20,13,2,3,10,31,317,3,20,14,2,2,10,25,Școala cu Clasele V-VIII Tătaru,,Tătaru,44.8443,27.4321
+184,9,BRĂILA,DUDEŞTI,103,1,3,3,2,2,9,17,103,1,2,8,2,3,8,13,Școala cu Clasele I-IV Tataru,,Tătaru,44.8485,27.4295
+261,9,BRĂILA,ULMU,270,10,178,14,0,12,12,32,279,9,176,13,0,16,12,25,Caminul Cultural Ulmu,Str. Liviu Rebreanu nr. 18,Ulmu,44.9586,27.3112
+262,9,BRĂILA,ULMU,369,7,62,5,1,6,1,9,368,4,61,6,1,8,2,13,Caminul Cultural Mohreanu,Str. Unirii nr. 12,Ulmu,44.9526,27.3276
+264,9,BRĂILA,UNIREA,193,9,134,11,0,11,6,17,198,9,138,10,0,9,5,18,Școala Gimnazială Unirea,,Unirea,45.111,27.784
+252,9,BRĂILA,TRAIAN,187,1,27,23,1,6,8,19,188,23,27,2,0,5,1,18,Grădinița Urleasca,Nr. 55,Urleasca,45.1392,27.6446
+265,9,BRĂILA,UNIREA,206,9,100,10,1,16,9,41,217,9,101,11,1,11,12,32,Structura Școala Gimnazială Valea Cinepii,,Valea Cânepii,45.0744,27.8026
+270,9,BRĂILA,VICTORIA,193,1,158,5,0,7,0,10,196,1,153,8,0,6,0,9,Școala Gimnazială Victoria,,Victoria,44.8062,27.6173
+271,9,BRĂILA,VICTORIA,187,2,178,3,0,7,4,16,183,3,179,3,0,7,4,15,Școala Gimnazială Victoria,,Victoria,44.8062,27.6173
+275,9,BRĂILA,VIZIRU,255,14,104,9,1,13,8,38,255,12,90,11,0,14,7,49,Școala cu Clasele I-VIII Viziru,Str. Brăilei nr. 150,Viziru,44.9987,27.7133
+276,9,BRĂILA,VIZIRU,324,5,79,18,1,13,9,33,324,4,74,20,1,13,12,43,Centru Educational Viziru,,Viziru,45.0029,27.7171
+273,9,BRĂILA,VIŞANI,463,2,70,15,3,19,8,20,462,2,71,13,2,18,11,23,Școala Gimnazială Vișani,Str. Școlii nr. 532,Vișani,45.1574,27.2864
+181,9,BRĂILA,CIREŞU,77,1,105,3,0,4,3,9,76,1,104,2,0,4,5,9,Școala cu Clasele I-VIII Vultureni,,Vultureni,44.9406,27.3647
+266,9,BRĂILA,VĂDENI,228,10,26,16,1,15,7,19,231,9,23,26,0,14,6,18,Școala Gimnazială cu Clasele I-VIII Vadeni -Sala A,Str. Emilia Dumitrescu nr. 676,Vădeni,45.3765,27.9291
+267,9,BRĂILA,VĂDENI,228,10,28,19,1,12,7,19,230,10,28,22,1,9,6,21,Școala Gimnazială cu Clasele I-VIII-Vadeni-Sala B,Str. Emilia Dumitrescu nr. 676,Vădeni,45.3765,27.9291
+190,9,BRĂILA,GALBENU,109,0,6,5,0,1,5,14,111,0,7,5,0,1,4,7,Școala Gimnazială Zamfirești,,Zamfirești,45.1915,27.2086
+279,9,BRĂILA,ZĂVOAIA,194,7,152,8,1,3,5,15,201,3,151,12,0,3,5,10,Camin Cultural Zavoaia,Str. Dr. Al. Vechiu nr. 51,Zăvoaia,44.9544,27.4779
+280,9,BRĂILA,ZĂVOAIA,175,4,162,4,0,7,2,14,176,2,165,3,2,8,3,11,Căminul Cultural Zăvoaia,Str. Dr. Al. Vechiu nr. 51,Zăvoaia,44.9544,27.4779
+155,9,BRĂILA,ORAŞ ÎNSURĂŢEI,176,3,22,10,1,12,5,10,176,3,22,8,1,13,6,11,Școala Gimnazială „Spiru Haret” Însurăței - Locația 1,Str. Lacu Rezi nr. 92,Însurăței,44.9093,27.6157
+156,9,BRĂILA,ORAŞ ÎNSURĂŢEI,179,6,31,21,1,14,5,18,186,6,32,17,1,13,6,19,Școala Gimnazială „Spiru Haret” Însurăței - Locația 1,Str. Lacu Rezi nr. 92,Însurăței,44.9093,27.6157
+157,9,BRĂILA,ORAŞ ÎNSURĂŢEI,203,10,25,21,0,19,8,26,207,13,24,19,0,18,5,18,Liceul Tehnologic „Nicolae Titulescu” Însurăței - Școala Anexă,Str. Școala Veche nr. 9,Însurăței,44.9147,27.6031
+158,9,BRĂILA,ORAŞ ÎNSURĂŢEI,171,5,19,13,1,5,5,16,179,4,19,12,2,4,5,16,Liceul Tehnologic „Nicolae Titulescu” Însurăței - Școala Anexă,Str. Școala Veche nr. 9,Însurăței,44.9147,27.6031
+159,9,BRĂILA,ORAŞ ÎNSURĂŢEI,256,4,39,15,0,13,24,41,260,3,38,16,0,13,22,35,Școala Gimnazială „Spiru Haret” Însurăței - Locația 2,Str. Nicolae Bălcescu nr. 5,Însurăței,44.9307,27.5903
+243,9,BRĂILA,ŞUŢEŞTI,193,7,76,18,1,5,6,41,205,6,73,21,0,8,5,30,Căminul Cultural Șuțești,,Șuțești,45.2269,27.4373
+244,9,BRĂILA,ŞUŢEŞTI,225,4,59,14,0,12,12,32,226,4,69,15,1,15,9,20,Școala Gimnazială Șuțești (Școala de Arte și Meserii),,Șuțești,45.2269,27.436
+245,9,BRĂILA,ŞUŢEŞTI,148,7,32,13,0,3,21,38,150,9,34,12,0,5,24,34,Școala Gimnazială Șuțești (Școala de Arte și Meserii),,Șuțești,45.2269,27.436
+215,9,BRĂILA,MOVILA MIRESII,220,3,22,8,2,8,3,11,215,3,20,9,2,7,6,16,Școala Tepes Voda,Str. Violetelor,Țepeș Vodă,45.1715,27.6198
+203,9,BRĂILA,MĂRAŞU,78,0,46,9,1,2,4,12,71,3,49,7,2,2,5,14,Școala Gimnazială Țăcău,Str. Școlii nr. 3,Țăcău,44.9283,27.9455

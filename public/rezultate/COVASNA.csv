@@ -1,0 +1,215 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+90,15,COVASNA,AITA MARE,6,1,6,3,221,1,1,3,9,2,3,4,223,3,0,0,Sediul Primăriei Comunei Aita Mare,Nr. 206,Aita Mare,45.9652,25.5593
+91,15,COVASNA,AITA MARE,3,4,5,4,159,13,4,7,5,3,4,3,149,16,5,8,Căminul Cultural Aita Medie,Nr. 326,Aita Medie,45.9769,25.6095
+100,15,COVASNA,BĂŢANI,5,0,1,3,204,4,2,6,5,0,2,2,203,4,1,8,Sediul de Deplasare al Primariei În Aita Seacă,Nr. 440,Aita Seacă,46.0383,25.6899
+131,15,COVASNA,CERNAT,2,0,4,2,113,1,0,5,2,1,4,1,118,1,0,4,"Clădirea Consiliului Local Cernat, Albiș",Nr. 43,Albiș,45.9367,26.0054
+196,15,COVASNA,TURIA,2,1,1,1,158,1,2,5,3,0,1,1,158,1,3,6,Școala Primară „Reményik Sándor” Alungeni,Nr. 85,Alungeni,46.0169,26.0257
+148,15,COVASNA,GHIDFALĂU,2,4,3,1,183,5,0,5,3,3,3,1,186,4,1,4,"Clădire Aflată În Domeniul Public al Comunei Ghidfalău, Sat Angheluș",Nr. 142A,Angheluș,45.8779,25.8863
+180,15,COVASNA,RECI,18,0,1,2,111,10,2,10,14,1,1,3,117,10,2,5,Școala Primară-Aninoasa,Nr. 26,Aninoasa,45.8173,25.9639
+200,15,COVASNA,VÎLCELE,28,4,14,28,58,1,2,18,37,4,16,27,60,2,2,12,Sediul Primăriei În Satul Araci-Corpul A,Nr. 463,Araci,45.8058,25.6543
+201,15,COVASNA,VÎLCELE,35,0,15,27,33,2,6,19,37,2,12,27,32,2,5,18,Sediul Primăriei În Satul Araci-Corpul B,Nr. 463,Araci,45.8058,25.6543
+92,15,COVASNA,ARCUŞ,12,13,10,0,626,1,1,7,10,10,9,1,628,2,3,9,Sediul Consiliului Local Arcuș,Nr. 1,Arcuș,45.9,25.7777
+202,15,COVASNA,VÎLCELE,29,1,11,22,29,2,6,14,36,4,12,18,31,2,5,10,Școala Primară Ariușd,Nr. 150,Ariușd,45.7768,25.6763
+70,15,COVASNA,ORAŞ BARAOLT,11,9,7,3,315,19,2,6,9,8,8,3,315,18,3,4,Primăria Orașului Baraolt,Piața Libertății (Piața Baraoltului) nr. 2,Baraolt,46.0766,25.598
+71,15,COVASNA,ORAŞ BARAOLT,10,7,3,4,367,5,0,10,7,7,2,2,372,9,2,7,Casa de Cultură Baraolt,Str. Kossuth Lajos nr. 129,Baraolt,46.0751,25.6003
+72,15,COVASNA,ORAŞ BARAOLT,15,3,2,4,307,3,0,4,14,3,3,4,307,3,1,2,Școala Gimnazială Gaál Mózes Baraolt,Calea Trandafirilor nr. 3,Baraolt,45.8682,25.7891
+73,15,COVASNA,ORAŞ BARAOLT,9,7,5,3,353,6,1,4,9,4,5,2,360,5,1,5,Grădinița cu Program Prelungit „Cimbora”,Calea Trandafirilor nr. BL 3A,Baraolt,46.0783,25.6007
+93,15,COVASNA,BARCANI,152,1,53,25,4,17,5,18,157,2,57,22,3,10,3,20,Căminul Cultural Barcani,Nr. 270,Barcani,45.6907,26.081
+94,15,COVASNA,BARCANI,139,3,49,9,1,7,9,27,151,3,46,11,1,3,10,22,Căminul Cultural Barcani,Nr. 270,Barcani,45.6907,26.081
+178,15,COVASNA,POIAN,0,1,4,0,170,2,2,3,0,1,4,1,169,1,2,2,Școala Primară „Tuzson János” Belani,Nr. 10,Belani,46.0842,26.1831
+101,15,COVASNA,BELIN,15,4,7,13,304,8,2,14,15,7,7,13,308,11,3,6,Școala Gimnazială „Bölöni Farkas Sándor”,Nr. 378,Belin,45.9326,25.5687
+102,15,COVASNA,BELIN,23,0,4,16,20,1,0,209,75,1,14,23,45,5,6,19,Centrul Multifuncțional Belin Vale,Nr. 287A,Belin-Vale,45.9338,25.6058
+66,15,COVASNA,ORAŞ BARAOLT,3,2,1,2,222,2,0,5,4,0,1,3,220,3,0,3,Cămin Cultural Biborțeni,Nr. 30,Biborțeni,46.0938,25.6526
+174,15,COVASNA,OZUN,14,1,3,3,106,0,1,4,16,1,4,2,109,0,1,3,Școala Primară Bicfalău,Nr. 34,Bicfalău,45.7595,25.8743
+181,15,COVASNA,RECI,2,0,1,1,96,3,0,3,2,0,1,1,97,3,0,3,Școala Primară Bita,Nr. 157,Bita,45.8363,25.9763
+103,15,COVASNA,BIXAD,15,0,3,3,597,1,1,9,17,3,1,7,588,1,1,5,Căminul Cultural din Bixad,Nr. 558,Bixad,46.1027,25.8562
+104,15,COVASNA,BODOC,11,1,8,5,468,1,1,8,15,1,7,4,476,2,3,6,Căminul Cultural din Bodoc,Nr. 148,Bodoc,45.9554,25.854
+67,15,COVASNA,ORAŞ BARAOLT,2,0,3,3,97,1,1,2,3,1,2,3,97,1,1,3,Cămin Cultural Bodoș,Nr. 106,Bodoș,46.0764,25.6593
+107,15,COVASNA,BOROŞNEU MARE,9,0,3,3,141,93,3,17,9,0,6,7,145,95,3,6,Consiliul Local Borosneu Mare,Nr. 393,Boroșneu Mic,45.8185,26.0096
+108,15,COVASNA,BOROŞNEU MARE,6,0,1,3,82,25,1,6,6,0,1,2,84,27,1,3,Școala Primară Boroșneu Mic,Nr. 122,Boroșneu Mic,45.7852,26.0129
+112,15,COVASNA,BRATEŞ,4,3,1,0,260,2,2,7,3,2,1,2,258,3,2,5,Sala de Festivități a Consiliului Local Brateș,Nr. 31,Brateș,45.8338,26.071
+119,15,COVASNA,BREŢCU,41,1,9,7,442,10,1,14,39,1,9,6,453,10,6,10,Centrul Cultural Brețcu,Nr. 212,Brețcu,46.045,26.3017
+120,15,COVASNA,BREŢCU,54,3,11,7,176,19,6,25,54,2,11,9,181,17,7,25,Centrul Cultural Brețcu,Nr. 212,Brețcu,46.045,26.3017
+88,15,COVASNA,ORAŞ ÎNTORSURA BUZĂULUI,98,4,43,20,1,67,5,20,113,5,41,21,1,58,7,18,Școala Gimnazială „Gheorghe Zaharia” Brădet,Nr. 66,Brădet,45.6516,25.9959
+115,15,COVASNA,BRĂDUŢ,1,0,3,1,291,1,0,3,1,0,1,2,293,1,0,2,Clubul Căminului Cultural Brăduț,Nr. 149,Brăduț,46.1304,25.6105
+134,15,COVASNA,CHICHIŞ,44,4,16,18,4,5,4,10,45,7,15,16,4,4,6,10,Școala Gimnazială Băcel,Nr. 141,Băcel,45.7579,25.8294
+97,15,COVASNA,BĂŢANI,17,3,16,15,560,10,0,15,20,3,16,17,540,10,1,13,Clădire Primariei Căminul Cultural Bațanii Mari,Nr. 474,Bățanii Mari,46.0893,25.6925
+98,15,COVASNA,BĂŢANI,4,0,1,3,158,1,1,3,5,0,0,1,156,1,1,3,Căminul Cultural Bațanii Mici,Nr. 174,Bățanii Mici,46.1044,25.6941
+198,15,COVASNA,VALEA CRIŞULUI,1,3,3,0,200,2,3,4,1,3,1,0,199,2,3,5,Școala Primară „Dr. Bedő Albert” Calnic,Nr. 138,Calnic,45.9287,25.7924
+123,15,COVASNA,CATALINA,8,2,3,1,353,4,0,2,7,2,3,3,359,3,1,2,Căminul Cultural Catalina,Nr. 216,Catalina,45.9658,26.1595
+190,15,COVASNA,SÎNZIENI,4,0,1,1,76,0,1,4,4,0,1,1,78,0,1,2,Căminul Cultural Casinu Mic,Nr. 106,Cașinu Mic,46.0638,26.1351
+128,15,COVASNA,CERNAT,1,1,5,1,228,4,1,2,2,2,4,1,220,4,1,2,Grădinița cu Program Normal nr. 3 Cernat,Nr. 59,Cernat,45.9497,26.033
+129,15,COVASNA,CERNAT,8,1,3,1,421,1,0,6,8,1,3,3,425,1,0,2,Școala Gimnazială „Végh Antal” Cernat,Nr. 455,Cernat,45.9633,26.0262
+130,15,COVASNA,CERNAT,6,2,3,1,390,2,1,10,5,1,2,1,395,2,1,8,Școala Gimnazială „Bod Péter” Cernat,Nr. 1081,Cernat,45.9791,26.0155
+133,15,COVASNA,CHICHIŞ,31,11,12,6,302,20,5,11,27,14,7,6,306,24,4,10,Căminul Cultural Chichiș,Nr. 103,Chichiș,45.7766,25.8027
+49,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,13,3,7,4,223,4,3,8,14,3,4,4,221,3,3,12,Cămin Cultural,,Chilieni,45.8368,25.8008
+75,15,COVASNA,ORAŞ COVASNA,9,1,8,3,135,1,0,5,9,3,9,3,133,1,0,5,Casa de Cultură-Chiuruș,,Chiuruș,45.8224,26.1491
+135,15,COVASNA,COMANDĂU,18,1,5,4,366,1,0,3,17,1,5,7,369,1,0,2,Sediul Primariei Comandău,Nr. 63,Comandău,45.7597,26.2737
+76,15,COVASNA,ORAŞ COVASNA,50,4,13,2,417,4,6,15,51,5,13,4,419,2,8,13,Grădinița cu Program Prelungit nr. 1 Covasna,Str. Gábor Áron nr. 1,Covasna,45.843,26.1639
+77,15,COVASNA,ORAŞ COVASNA,39,6,18,6,402,4,5,15,35,8,24,2,397,7,5,15,Clubul Orășenesc- Covasna,Str. 1 Decembrie 1918 (Str. Gării) nr. 1,Covasna,45.8448,26.1679
+78,15,COVASNA,ORAŞ COVASNA,35,20,19,6,337,15,7,17,36,17,23,5,340,10,7,18,Liceul „Kőrösi Csoma Sándor” -Corp A- Covasna,Str. Ștefan cel Mare nr. 40,Covasna,45.8474,26.1695
+79,15,COVASNA,ORAŞ COVASNA,40,7,16,4,395,5,3,11,40,9,15,4,391,6,3,10,Liceul „Kőrösi Csoma Sándor” -Corp B- Covasna,Str. Ștefan cel Mare nr. 40,Covasna,45.8474,26.1695
+80,15,COVASNA,ORAŞ COVASNA,41,8,20,13,439,7,12,27,40,5,27,13,438,5,14,20,Grădinița cu Program Prelungit nr. 2 Covasna,Str. Ștefan cel Mare nr. 201,Covasna,45.8507,26.1811
+81,15,COVASNA,ORAŞ COVASNA,164,15,49,23,166,15,14,42,157,24,53,17,165,20,16,37,Școala Gimnazială „Avram Iancu”,Str. Mihai Eminescu nr. 15,Covasna,45.8526,26.188
+82,15,COVASNA,ORAŞ COVASNA,213,22,109,15,46,16,19,42,204,33,125,18,44,12,13,28,Școala Gimnazială „Avram Iancu” -Covasna- Gim,Str. Mihai Eminescu nr. 15,Covasna,45.8517,26.1902
+50,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,5,0,7,6,154,1,1,5,3,1,8,6,155,1,1,4,Cămin Cultural,,Coșeni,45.8124,25.7963
+187,15,COVASNA,SITA BUZĂULUI,42,0,15,3,1,18,8,12,41,0,19,3,1,18,6,8,Gradinița cu Program Normal Crasna,Nr. 1227,Crasna,45.5882,26.1473
+68,15,COVASNA,ORAŞ BARAOLT,9,2,1,5,233,5,1,1,9,2,2,3,234,4,2,2,Cămin Cultural Căpeni,Nr. 345,Căpeni,46.0423,25.5776
+136,15,COVASNA,DALNIC,4,0,2,1,289,2,1,6,4,0,2,2,286,2,1,4,Căminul Cultural Dalnic,Nr. 235,Dalnic,45.921,25.9873
+155,15,COVASNA,ILIENI,18,4,12,3,75,3,1,5,17,4,11,4,80,2,2,5,Școala Primară „Boda-Popovici” Dobolii de Jos,Nr. 68,Dobolii de Jos,45.7814,25.7556
+109,15,COVASNA,BOROŞNEU MARE,5,1,2,2,55,23,1,6,6,1,3,1,58,24,0,4,Școala Primară Dobolii de Sus,Nr. 74,Dobolii de Sus,45.7826,26.0339
+117,15,COVASNA,BRĂDUŢ,18,3,7,229,282,3,0,31,40,1,6,229,291,3,1,10,Clubul Căminului Cultural Doboșeni,Nr. 143,Doboșeni,46.1248,25.5919
+137,15,COVASNA,DOBÎRLĂU,173,9,26,22,2,3,19,35,173,11,20,27,2,7,16,30,Căminul Cultural Dobârlău,Nr. 234,Dobârlău,45.738,25.8851
+141,15,COVASNA,ESTELNIC,8,0,2,1,334,1,3,15,8,0,2,2,347,3,5,12,Căminul Cultural Estelnic,Nr. 167,Estelnic,46.1036,26.2084
+118,15,COVASNA,BRĂDUŢ,1,0,3,6,396,1,0,3,2,0,3,5,398,1,1,2,Clubul Căminului Cultural Filia,Nr. 367,Filia,46.1424,25.6199
+89,15,COVASNA,ORAŞ ÎNTORSURA BUZĂULUI,90,6,56,27,2,96,6,23,98,7,59,38,1,80,5,18,Cămin Cultural Floroaia,Nr. 143,Floroaia,45.6935,26.0156
+150,15,COVASNA,GHIDFALĂU,2,0,2,2,93,2,1,5,0,0,1,2,93,1,3,8,Căminul Cultural din Satul Fotoș,Nr. 63A,Fotoș,45.902,25.8682
+143,15,COVASNA,GHELINŢA,8,1,3,3,447,4,0,19,8,3,6,6,449,6,0,5,Școala Gimnazială „Jancsó Benedek” Ghelința,Nr. 739,Ghelința,45.9434,26.2315
+144,15,COVASNA,GHELINŢA,13,2,8,1,271,19,2,76,20,1,11,4,291,20,1,9,Școala Gimnazială „Jancsó Benedek” Ghelința,Nr. 739,Ghelința,45.9434,26.2315
+145,15,COVASNA,GHELINŢA,7,2,3,1,355,3,0,3,7,1,3,3,360,3,0,5,Școala Primară nr. 2 Ghelința,Nr. 1124,Ghelința,45.9424,26.2482
+147,15,COVASNA,GHIDFALĂU,12,2,2,5,277,1,2,13,12,2,3,7,284,1,2,9,Căminul Cultural din Satul Ghidfalău,Nr. 109,Ghidfalău,45.9044,25.8423
+146,15,COVASNA,GHELINŢA,2,1,2,1,84,1,2,6,1,1,2,1,84,2,2,6,Școala Primară Harale,Nr. 14,Harale,45.9274,26.2037
+99,15,COVASNA,BĂŢANI,11,0,5,110,262,1,0,28,17,1,7,121,254,2,2,13,Sediul de Deplasare al Primariei În Satul Herculian,Nr. 58,Herculian,46.1328,25.7095
+203,15,COVASNA,VÎLCELE,20,0,2,55,12,1,0,9,23,1,2,60,15,1,0,3,Școala Primară Hetea,Nr. 5,Hetea,45.8299,25.6883
+169,15,COVASNA,OJDULA,5,0,1,1,91,1,0,2,5,1,1,1,91,1,1,1,Căminul Cultural Hilib,Nr. 5,Hilib,45.9715,26.2329
+151,15,COVASNA,HĂGHIG,206,4,28,16,114,10,4,19,215,4,25,16,116,13,2,12,Căminul Cultural Hăghig,Nr. 259,Hăghig,45.8354,25.5893
+125,15,COVASNA,CATALINA,4,0,3,2,214,1,0,3,3,0,3,2,215,2,1,5,Căminul Cultural Hătiuca,Nr. 111,Hătuica,45.941,26.127
+152,15,COVASNA,HĂGHIG,84,0,8,13,2,4,3,11,90,0,9,12,3,7,3,5,Școala Primară Iarăș,Nr. 171,Iarăș,45.8674,25.5932
+132,15,COVASNA,CERNAT,2,0,3,3,97,1,1,5,1,0,2,4,98,1,1,1,Casa Multifuncțională Icafălău,Nr. 56/A,Icafalău,46.0003,26.0243
+153,15,COVASNA,ILIENI,8,4,2,2,356,1,0,6,8,4,3,3,359,1,1,5,Căminul Cultural Ilieni,Nr. 97,Ilieni,45.794,25.7705
+124,15,COVASNA,CATALINA,4,1,3,2,81,2,1,1,4,2,3,2,79,2,1,2,Școala Primară Imeni,Nr. 58,Imeni,45.9425,26.1697
+156,15,COVASNA,LEMNIA,4,1,1,1,282,2,1,9,3,0,2,1,288,2,1,6,Sediul Primăriei Lemnia,Nr. 170,Lemnia,46.0476,26.2658
+157,15,COVASNA,LEMNIA,8,1,5,10,286,3,0,6,10,1,4,11,290,3,1,4,Școala Primară nr. 2 Lemnia de Sus,Nr. 497,Lemnia,46.0719,26.2716
+110,15,COVASNA,BOROŞNEU MARE,3,0,1,1,107,22,1,9,4,0,1,1,108,22,1,5,Școala Primară Leț,Nr. 83,Leț,45.8549,26.0193
+173,15,COVASNA,OZUN,5,2,4,2,143,1,4,8,4,2,4,2,137,4,1,6,Căminul Cultural Lisnău,Nr. 33,Lisnău,45.7772,25.8805
+140,15,COVASNA,DOBÎRLĂU,36,1,24,7,2,3,5,10,30,1,24,8,2,2,6,14,Școala Primară Lunca Mărcușului,Nr. 120,Lunca Mărcușului,45.7355,25.843
+176,15,COVASNA,OZUN,19,1,19,9,6,1,2,5,17,2,17,10,6,4,1,5,Clădire Administrativă (Fostul Sediu al Școlii) Lunca Ozunului,Nr. 69,Lunca Ozunului,45.7738,25.8313
+64,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,2,1,1,1,112,4,1,3,3,1,2,3,111,4,1,2,Căminul Cultural Tinoasa,Nr. 657,Lunga,45.9983,26.1852
+65,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,9,1,2,2,282,1,0,6,9,1,1,2,290,3,0,4,Căminul Cultural Lunga,Nr. 385,Lunga,46.019,26.213
+162,15,COVASNA,MERENI,4,0,1,1,126,1,1,6,4,0,2,1,130,1,1,6,Căminul Cultural Lutoasa,Nr. 110,Lutoasa,46.0875,26.2262
+95,15,COVASNA,BARCANI,82,2,25,10,1,8,0,9,93,3,23,8,1,9,0,4,Școala Gimnazială Lădăuți,Nr. 53,Lădăuți,45.7165,26.0609
+158,15,COVASNA,MALNAŞ,4,2,0,1,235,8,2,8,4,1,0,1,237,8,3,4,Căminul Cultural Malnaș,,Malnaș,46.0075,25.8413
+159,15,COVASNA,MALNAŞ,8,2,2,0,129,4,2,3,8,1,2,1,130,3,2,2,Școala Primară Malnaș Băi,Nr. 32,Malnaș-Băi,46.0329,25.824
+161,15,COVASNA,MERENI,6,1,4,2,319,2,1,4,4,1,4,4,312,3,1,4,Căminul Cultural Mereni,Nr. 135,Mereni,46.0763,26.2363
+163,15,COVASNA,MICFALĂU,12,1,5,4,578,3,2,17,10,0,8,2,581,3,4,10,Căminul Cultural Micfalău,Nr. 298,Micfalău,46.0558,25.8334
+74,15,COVASNA,ORAŞ BARAOLT,1,1,1,2,108,1,0,1,4,1,1,2,102,1,1,1,Grădinița cu Program Normal Micloșoara,Nr. 90,Micloșoara,46.0087,25.5809
+164,15,COVASNA,MOACŞA,7,0,3,3,237,3,3,9,7,0,3,3,245,2,3,4,Școala Gimnazială „Orban Balazs” Moacșa,Nr. 352,Moacșa,45.873,25.9681
+165,15,COVASNA,MOACŞA,3,0,3,1,69,2,1,4,3,0,3,1,64,2,1,3,Clădirea Fostei Școli Generale cu Clasele I-IV Eresteghin,Nr. 357,Moacșa,45.8629,25.9579
+175,15,COVASNA,OZUN,2,0,1,3,43,1,0,1,1,0,1,2,43,1,0,1,Căminul Cultural Măgheruș,Nr. 45,Măgheruș,45.7889,25.9241
+139,15,COVASNA,DOBÎRLĂU,42,5,27,4,1,2,5,11,40,5,25,5,1,2,7,12,Școala Primară Mărcuș,Nr. 72,Mărcuș,45.7204,25.8612
+127,15,COVASNA,CATALINA,4,1,3,1,188,1,1,5,4,2,2,3,185,1,2,5,Căminul Cultural Mărcușa,Nr. 193,Mărcușa,45.9154,26.0601
+126,15,COVASNA,CATALINA,3,0,1,2,137,1,1,3,0,1,1,3,139,1,1,6,Casa Comunala Mărtineni,Nr. 148,Mărtineni,45.9203,26.0983
+121,15,COVASNA,BREŢCU,17,0,13,10,154,28,2,8,16,4,12,10,156,25,2,8,Școala Primară Mărtănuș,Nr. 154,Mărtănuș,46.0179,26.2894
+122,15,COVASNA,BREŢCU,10,1,6,3,54,10,2,11,10,1,5,2,54,13,3,8,Școala Gimnazială Oituz,Nr. 11,Oituz,46.0724,26.3898
+167,15,COVASNA,OJDULA,8,0,10,10,256,4,0,21,9,1,7,11,270,5,1,6,Căminul Cultural „Zsögön Zoltán” Ojdula Clubul Tineretului,Nr. 179,Ojdula,45.987,26.2557
+168,15,COVASNA,OJDULA,9,2,4,5,472,3,4,13,10,3,4,4,488,3,1,6,Căminul Cultural „Zsögön Zoltán” Ojdula Sala Mare,Nr. 172,Ojdula,45.9873,26.2558
+106,15,COVASNA,BODOC,10,1,2,3,226,0,2,13,9,4,1,2,236,0,2,7,Imobilul Primăriei din Olteni,Nr. 37,Olteni,45.969,25.8478
+170,15,COVASNA,OZUN,13,11,4,3,233,2,3,14,13,11,4,3,231,1,4,12,Căminul Cultural Ozun,Nr. 75,Ozun,45.7996,25.8485
+171,15,COVASNA,OZUN,24,4,26,3,398,13,4,12,24,4,21,3,403,13,7,15,Centrul de Informare Asupra Uniunii Europene Ozun,Nr. 104,Ozun,45.7979,25.8435
+114,15,COVASNA,BRATEŞ,5,1,2,1,152,1,2,5,4,2,2,1,158,1,3,4,Căminul Cultural Pachia,Nr. 35,Pachia,45.8268,26.1152
+214,15,COVASNA,ZĂBALA,6,0,4,3,41,3,1,7,5,1,4,4,40,3,2,5,Căminul Cultural Peteni,Nr. 23,Peteni,45.9203,26.1441
+191,15,COVASNA,SÎNZIENI,6,0,1,1,268,1,1,4,4,0,2,3,265,1,2,8,Căminul Cultural Petriceni,Nr. 315,Petriceni,46.0674,26.0916
+177,15,COVASNA,POIAN,7,2,2,3,420,0,2,11,5,1,4,3,425,0,1,5,Cămin Cultural,Nr. 71,Poian,46.0654,26.1617
+166,15,COVASNA,MOACŞA,6,0,2,1,108,4,2,6,7,0,2,1,103,5,3,7,Căminul Cultural Pădureni,Nr. 2,Pădureni,45.8841,25.9318
+208,15,COVASNA,ZAGON,73,0,48,8,240,3,4,8,67,1,50,7,240,3,6,9,Căminul Cultural Păpăuți,Nr. 41,Păpăuți,45.789,26.1356
+69,15,COVASNA,ORAŞ BARAOLT,9,0,2,3,213,3,0,2,8,0,2,2,210,5,0,4,Cămin Cultural Racoșul de Sus,Nr. 100,Racoșul de Sus,46.08,25.5483
+179,15,COVASNA,RECI,16,3,5,4,491,4,2,9,17,2,5,4,492,7,2,6,Căminul Cultural Reci,Nr. 268,Reci,45.8392,25.9281
+182,15,COVASNA,RECI,5,0,2,1,54,1,3,4,4,0,2,1,54,1,2,3,Căminul Cultural Saciova,Nr. 7,Saciova,45.7859,25.9557
+1,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,26,4,16,13,263,3,4,15,29,3,11,14,268,3,5,13,Casa de Cultură „Kónya Ádám”,Str. Kossuth Lajos nr. 13,Sfântu Gheorghe,45.8679,25.787
+2,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,18,11,10,4,230,7,5,10,19,11,10,4,236,6,4,9,Liceul Tehnologic „Kós Károly”,Str. Gábor Áron nr. 18,Sfântu Gheorghe,45.8652,25.7851
+3,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,38,15,19,3,499,2,5,15,36,16,15,5,506,3,6,12,Liceul Tehnologic „Kós Károly”,Str. Gábor Áron nr. 18,Sfântu Gheorghe,45.8652,25.7851
+4,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,21,21,33,8,227,8,4,12,22,24,28,8,229,5,7,13,Liceul Teoretic „Székely Mikó”,Str. Gróf Mikó Imre (Str. Școlii) nr. 1,Sfântu Gheorghe,45.865,25.7877
+5,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,26,12,12,5,255,4,8,19,27,13,13,4,259,5,6,11,Direcția Finanțe Publice Municipale,Str. Oltului nr. 2,Sfântu Gheorghe,45.8657,25.7901
+6,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,23,12,11,2,188,7,7,14,25,11,12,2,188,7,7,13,"Liceul Tehnologic Economic, Administrativ „Berde Áron”",Str. Crângului (Str. Crîngului) nr. 30,Sfântu Gheorghe,45.8566,25.7929
+7,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,91,31,46,19,406,10,22,41,93,30,44,17,406,16,18,36,"Liceul Tehnologic Economic, Administrativ „Berde Áron”",Str. Crângului (Str. Crîngului) nr. 30,Sfântu Gheorghe,45.8566,25.7929
+8,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,46,21,29,8,272,9,6,15,43,17,27,9,277,11,7,16,"Liceul Tehnologic Economic, Administrativ „Berde Áron”",Str. Crângului (Str. Crîngului) nr. 30,Sfântu Gheorghe,45.8566,25.7929
+9,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,41,11,15,4,185,5,7,11,43,7,16,3,187,5,6,11,Liceul Teoretic „Mikes Kelemen”,Str. Kós Károly (Bulevardul 16 Februarie) nr. 5/A,Sfântu Gheorghe,45.8623,25.7872
+10,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,16,10,13,10,486,6,5,17,19,13,12,6,493,7,6,12,Grădinița cu Program Prelungit „Gulliver”,Str. Kós Károly (Bulevardul 16 Februarie) nr. 78,Sfântu Gheorghe,45.8559,25.7786
+11,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,30,6,14,2,334,7,3,8,28,7,14,3,338,8,3,4,Grădinița cu Program Prelungit „Gulliver”,Str. Dealului nr. 24,Sfântu Gheorghe,45.8585,25.7756
+12,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,19,14,12,2,369,4,3,8,18,11,10,1,383,3,3,5,Grădinița cu Program Prelungit „Gulliver”,Str. Dealului nr. 24,Sfântu Gheorghe,45.8585,25.7756
+13,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,42,15,14,2,461,4,4,13,41,15,14,3,465,1,4,12,Grădinița cu Program Prelungit „Gulliver”,Str. Dealului nr. 24,Sfântu Gheorghe,45.8585,25.7756
+14,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,32,12,12,4,340,3,1,11,35,10,11,1,342,5,2,9,Colegiul Național „Mihai Viteazul”,Str. Kós Károly (Bulevardul 16 Februarie) nr. 22,Sfântu Gheorghe,45.8607,25.784
+15,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,21,5,8,8,224,3,5,9,20,6,8,7,225,4,5,10,Colegiul Național „Mihai Viteazul”,Str. Kós Károly (Bulevardul 16 Februarie) nr. 22,Sfântu Gheorghe,45.8607,25.784
+16,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,19,11,15,5,253,4,10,15,22,12,11,3,252,5,9,14,Colegiul Național „Mihai Viteazul”,Str. Kós Károly (Bulevardul 16 Februarie) nr. 22,Sfântu Gheorghe,45.8607,25.784
+17,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,50,28,25,6,613,8,5,14,51,24,24,7,621,10,5,12,Sala de Sport,Str. Vânătorilor (Str. Vînătorilor) nr. 1,Sfântu Gheorghe,45.8643,25.7767
+18,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,16,9,12,0,311,7,6,7,21,7,9,1,311,5,4,5,Gradinița cu Program Prelungit „Hófehérke”,Aleea Tineretului nr. 2,Sfântu Gheorghe,45.862,25.7811
+19,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,33,14,21,8,258,4,3,15,37,13,16,6,268,3,4,9,Școala Gimnazială „Váradi József”,Str. Benedek Elek (Str. Marx Karl) nr. 20,Sfântu Gheorghe,45.8621,25.7773
+20,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,28,16,13,7,448,15,4,13,31,16,11,7,445,18,4,10,Școala Gimnazială „Váradi József”,Str. Benedek Elek (Str. Marx Karl) nr. 20,Sfântu Gheorghe,45.8621,25.7773
+21,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,22,31,12,5,293,6,8,12,26,30,12,6,295,7,4,7,Liceul de Arte „Plugor Sándor”,Str. Kossuth Lajos nr. 15,Sfântu Gheorghe,45.8693,25.786
+22,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,28,4,13,35,297,3,1,23,34,2,12,35,287,4,3,22,Liceul de Arte „Plugor Sándor”,Str. Kossuth Lajos nr. 15,Sfântu Gheorghe,45.8693,25.786
+23,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,4,6,10,6,290,9,2,4,4,6,8,3,294,11,2,4,Școala Ajutătoare,Piața Kálvin (Piața Veche) (D) nr. 3,Sfântu Gheorghe,45.8713,25.7881
+24,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,50,9,17,1,269,6,10,16,52,9,15,1,268,6,12,14,Grădinița cu Program Prelungit „Árvácska”,Str. Romulus Cioflec (Str. Principală) nr. 14,Sfântu Gheorghe,45.875,25.7907
+25,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,28,4,8,4,144,4,4,15,24,3,9,5,149,4,6,12,Grădinița cu Program Prelungit „Árvácska”,Str. Romulus Cioflec (Str. Principală) nr. 14,Sfântu Gheorghe,45.875,25.7907
+26,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,34,7,12,4,239,4,5,10,37,7,11,8,235,5,4,6,Școala Gimnazială „Gödri Ferenc”,Aleea Elevilor nr. 1,Sfântu Gheorghe,45.8725,25.7945
+27,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,27,0,10,2,213,8,7,14,27,3,6,3,209,11,8,13,Școala Gimnazială „Gödri Ferenc”,Aleea Elevilor nr. 1,Sfântu Gheorghe,45.8725,25.7945
+28,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,28,8,18,5,438,7,2,10,26,9,13,8,441,9,3,7,Căminul „Zathureczky Berta”,Bulevardul Gen. Grigore Bălan nr. 31,Sfântu Gheorghe,45.869,25.7964
+29,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,77,33,39,13,485,13,17,24,78,32,35,13,489,11,16,24,Căminul „Zathureczky Berta”,Bulevardul Gen. Grigore Bălan nr. 31,Sfântu Gheorghe,45.869,25.7964
+30,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,43,13,21,7,165,4,5,11,43,13,17,7,167,5,7,13,Creșa cu Program de Lucru Zilnic,"Str. Daliei nr. nr. 1, Bloc 12",Sfântu Gheorghe,45.8601,25.7976
+31,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,75,18,38,12,299,11,5,14,77,21,34,10,296,13,6,13,Creșa cu Program de Lucru Zilnic,"Str. Daliei nr. 1, Bloc 12",Sfântu Gheorghe,45.8601,25.7976
+32,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,92,19,41,17,388,14,15,28,88,23,32,23,391,16,15,28,Grădinița cu Program Prelungit „Pinocchio”,Str. Lalelei (Str. Nicolae Colan) nr. 1,Sfântu Gheorghe,45.8581,25.8006
+33,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,66,12,28,12,275,9,7,27,66,14,26,13,276,9,8,27,Grădinița cu Program Prelungit „Pinocchio”,Str. Lalelei (Str. Nicolae Colan) nr. 1,Sfântu Gheorghe,45.8581,25.8006
+34,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,71,39,28,14,524,14,19,24,70,32,24,16,528,23,13,24,Grădinița cu Program Prelungit „Benedek Elek”,Str. Oltului nr. 36-38,Sfântu Gheorghe,45.8654,25.7949
+35,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,54,17,24,1,340,14,11,22,55,20,25,1,337,15,12,20,Fostul Centru de Informare Pentru Cetățeni,"Str. 1 Decembrie 1918 (Bulevardul V. I. Lenin) (D) , Bloc 18/O",Sfântu Gheorghe,45.8638,25.7959
+36,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,85,28,37,11,401,6,22,32,92,27,32,11,405,4,20,28,Liceul Tehnologic „Puskás Tivadar”,Str. Pescarilor nr. 35,Sfântu Gheorghe,45.859,25.7951
+37,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,82,31,53,8,291,10,6,24,80,32,44,9,292,16,4,26,Liceul Tehnologic „Puskás Tivadar”,Str. Pescarilor nr. 35,Sfântu Gheorghe,45.859,25.7951
+38,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,69,9,28,0,261,8,15,23,70,11,26,3,262,8,10,16,Școala Gimnazială „Nicolae Colan”,Str. Lalelei (Str. Nicolae Colan) nr. 1,Sfântu Gheorghe,45.8585,25.8005
+39,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,48,8,17,4,263,6,3,8,41,7,17,3,267,8,5,11,Școala Gimnazială „Nicolae Colan”,Str. Lalelei (Str. Nicolae Colan) nr. 1,Sfântu Gheorghe,45.8585,25.8005
+40,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,66,7,16,11,254,10,6,12,60,10,19,9,254,13,8,10,Școala Gimnazială „Nicolae Colan”,Str. Lalelei (Str. Nicolae Colan) nr. 1,Sfântu Gheorghe,45.8585,25.8005
+41,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,91,21,21,8,316,13,23,28,87,20,13,10,320,15,22,33,Ștrand Municipal Sfântu Gheorghe,Str. Sporturilor nr. 2,Sfântu Gheorghe,45.8651,25.7995
+42,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,51,15,20,10,301,12,13,29,55,16,19,11,302,13,12,23,Ștrand Municipal Sfântu Gheorghe,Str. Sporturilor nr. 2,Sfântu Gheorghe,45.8651,25.7995
+43,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,93,5,30,15,128,9,8,17,92,4,30,15,127,6,9,24,Școala Gimnazială „Ady Endre”,Str. Armata Română (Str. Armata Roșie) nr. 25,Sfântu Gheorghe,45.8659,25.8068
+44,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,66,3,31,7,155,12,7,18,62,8,28,7,154,10,7,21,Școala Gimnazială „Ady Endre”,Str. Armata Română (Str. Armata Roșie) nr. 25,Sfântu Gheorghe,45.8659,25.8068
+45,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,81,4,19,15,284,8,11,25,76,2,18,17,289,11,10,26,Școala Gimnazială „Ady Endre”,Str. Armata Română (Str. Armata Roșie) nr. 25,Sfântu Gheorghe,45.8659,25.8068
+46,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,55,9,29,8,271,8,6,17,50,13,27,7,270,5,8,22,Grădinița cu Program Prelungit „Napsugár”,Str. Armata Română (Str. Armata Roșie) nr. 23,Sfântu Gheorghe,45.865,25.8067
+47,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,99,21,41,9,181,14,8,21,96,26,40,9,182,13,8,21,Grădinița cu Program Prelungit „Napsugár”,Str. Armata Română (Str. Armata Roșie) nr. 23,Sfântu Gheorghe,45.865,25.8067
+48,15,COVASNA,MUNICIPIUL SFÎNTU GHEORGHE,23,0,12,3,82,4,2,6,25,0,12,5,77,4,1,4,Fosta Școala Generală Câmpul Frumos,Cartierul Câmpul Frumos (Cartierul Cîmpul Frumos),Sfântu Gheorghe,45.8613,25.8432
+183,15,COVASNA,SITA BUZĂULUI,140,12,94,36,2,41,10,27,135,20,110,37,3,33,10,18,Primăria Sita Buzăului,Nr. 222,Sita Buzăului,45.6595,26.0666
+184,15,COVASNA,SITA BUZĂULUI,100,0,35,11,1,28,3,11,100,2,44,11,1,17,5,12,Școala Gimnazială nr. 2 Sita Buzăului,Nr. 509,Sita Buzăului,45.6408,26.0618
+185,15,COVASNA,SITA BUZĂULUI,106,3,34,24,1,31,4,15,109,6,42,21,1,27,6,13,Școala Gimnazială nr. 3 Sita Buzăului,Nr. 843,Sita Buzăului,45.6445,26.0899
+213,15,COVASNA,ZĂBALA,7,1,2,3,216,1,0,5,8,0,4,3,213,1,0,3,Căminul Cultural Surcea,Nr. 51,Surcea,45.8805,26.0792
+154,15,COVASNA,ILIENI,10,1,3,6,122,1,2,12,11,1,3,9,129,1,2,6,Grădinița cu Program Normal Sâncraiu,Nr. 144,Sâncraiu,45.823,25.7609
+172,15,COVASNA,OZUN,7,2,3,1,188,5,1,2,8,1,1,1,187,6,1,4,Școala Primară „Berde Mozsa” Sîntionlunca,Nr. 247,Sântionlunca,45.8283,25.8757
+188,15,COVASNA,SÎNZIENI,5,2,2,1,558,0,3,9,4,2,3,3,552,2,3,6,Biroul Ifoturism,Nr. 639,Sânzieni,46.0436,26.1288
+189,15,COVASNA,SÎNZIENI,12,2,5,0,414,2,1,11,13,2,6,1,421,2,2,6,Clubul Căminului Cultural Sânzieni,Nr. 342,Sânzieni,46.0437,26.1303
+96,15,COVASNA,BARCANI,84,2,23,32,1,25,6,17,93,4,25,25,2,20,6,16,Școala Gimnazială Sărămaș,Nr. 139,Sărămăș,45.705,26.0414
+212,15,COVASNA,ZĂBALA,3,1,2,1,199,1,1,3,4,0,2,2,196,1,1,3,Căminul Cultural Tamașfalău,Nr. 31,Tamașfalău,45.8854,26.1181
+113,15,COVASNA,BRATEŞ,7,0,2,2,219,1,0,9,8,0,2,2,223,1,1,5,Căminul Cultural Telechia,Nr. 2,Telechia,45.8583,26.0424
+193,15,COVASNA,TURIA,4,0,4,2,410,1,1,7,4,1,3,3,403,1,1,5,Căminul Cultural Turia,Nr. 835,Turia,46.0334,26.0547
+194,15,COVASNA,TURIA,5,1,2,4,290,2,1,5,5,1,2,4,296,2,1,3,Școala Primară „Jókai Mór” Turia,Nr. 97,Turia,46.0248,26.0706
+195,15,COVASNA,TURIA,17,1,5,6,407,1,2,10,16,0,5,9,414,1,2,4,Școala Primară nr. 3 Turia,Nr. 694,Turia,46.0484,26.041
+51,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,11,5,6,5,460,6,3,16,16,6,5,6,451,8,4,12,Casa Municipală de Cultură „Vigadó” Târgu Secuiesc,"Piața Gábor Áron (Piața Aron Gabor, Str. Aron Gabor) nr. 21",Târgu Secuiesc,46.0025,26.138
+52,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,4,4,4,2,324,3,1,2,4,5,3,3,324,2,3,6,Liceul Teoretic „Nagy Mózes” Târgu Secuiesc,Str. Kanta (Str. Cimitirului) nr. 23,Târgu Secuiesc,46.0067,26.1383
+53,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,22,5,19,3,395,6,5,7,22,6,15,3,392,5,5,10,Liceul Pedagogic „Bod Péter” Târgu Secuiesc,Str. Ady Endre nr. 20,Târgu Secuiesc,46.0029,26.1327
+54,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,12,3,12,1,396,4,5,8,12,6,11,2,395,2,4,6,Liceul Vocațional Reformat Târgu Secuiesc,Str. Ady Endre nr. 9,Târgu Secuiesc,46.0007,26.1313
+55,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,25,7,23,2,404,3,5,9,31,4,16,5,404,3,5,10,Grădinița cu Program Normal „Benedek Elek” Târgu Secuiesc,Str. Dózsa Győrgy (Str. Luminei) nr. 8,Târgu Secuiesc,45.9982,26.1308
+56,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,15,5,13,7,429,3,1,6,17,4,10,8,424,2,2,7,Școala Gimnazială „Petőfi Sándor” Târgu Secuiesc,Str. Stadionului,Târgu Secuiesc,46,26.1261
+57,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,18,6,12,1,473,6,2,14,15,5,11,3,478,8,4,10,Grădinița cu Program Prelungit „Csipkerózsika” Târgu Secuiesc,Str. Rozelor nr. 4,Târgu Secuiesc,45.9988,26.1267
+58,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,27,3,14,1,374,3,2,12,24,5,10,1,378,4,5,11,Școala Gimnazială „Turoczi Mózes” Târgu Secuiesc,Str. Nouă nr. 3,Târgu Secuiesc,45.9957,26.1245
+59,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,17,6,14,4,375,3,1,10,17,8,12,3,378,5,2,7,Grădinița cu Program Prelungit „Manócska” Târgu Secuiesc,Str. Grădiniței nr. 1,Târgu Secuiesc,45.995,26.1269
+60,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,15,3,3,2,322,3,1,9,15,3,5,2,326,3,1,4,Grădinița cu Program Normal nr. 3 Târgu Secuiesc,Str. Achim Andrei nr. 14,Târgu Secuiesc,45.9945,26.1321
+61,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,21,5,23,5,343,3,3,12,23,9,21,5,334,3,3,12,Liceul Tehnologic „Gábor Áron” Târgu Secuiesc,Str. Fabricilor nr. 8,Târgu Secuiesc,45.9937,26.133
+62,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,19,1,9,1,508,3,3,12,18,0,6,1,510,4,5,14,Școala Gimnazială „Molnár Jozsiás” Târgu Secuiesc,Str. Nemere nr. 2,Târgu Secuiesc,45.9982,26.139
+63,15,COVASNA,MUNICIPIUL TÂRGU SECUIESC,3,8,3,1,171,4,1,6,4,7,2,2,172,5,1,4,"Școala Primară Ruseni, Târgu Secuiesc",Str. Bem József nr. 83,Târgu Secuiesc,45.9936,26.162
+116,15,COVASNA,BRĂDUŢ,3,5,2,1,273,2,2,6,2,1,1,1,281,3,1,1,Căminul Cultural Tălișoara,Nr. 65,Tălișoara,46.1051,25.5873
+197,15,COVASNA,VALEA CRIŞULUI,15,2,5,4,489,3,3,20,17,4,4,4,491,3,4,14,Primăria Comunei Valea Crișului,Nr. 136,Valea Crișului,45.9166,25.7801
+138,15,COVASNA,DOBÎRLĂU,40,1,11,8,1,3,4,7,37,2,10,9,1,3,4,7,Școala Primară Valea Dobârlăului,Nr. 24,Valea Dobârlăului,45.7298,25.9335
+199,15,COVASNA,VALEA MARE,95,1,47,18,2,24,16,45,101,3,39,20,1,31,16,37,Clădirea Căminului Cultural Valea Mare,Nr. 319,Valea Mare,45.7677,26.0171
+142,15,COVASNA,ESTELNIC,2,0,3,1,130,1,2,5,3,1,3,1,127,1,3,4,Căminul Cultural Valea Scurtă,Nr. 135,Valea Scurtă,46.1014,26.1977
+192,15,COVASNA,SÎNZIENI,3,0,1,1,216,1,1,4,3,1,2,1,215,1,2,4,Grădinița de Copii (Parter),Nr. 19,Valea Seacă,46.0817,26.1233
+160,15,COVASNA,MALNAŞ,2,0,0,3,63,5,0,1,0,0,0,3,63,6,1,3,Școala Primară Valea Zălanului,Nr. 22,Valea Zălanului,46.0121,25.7519
+204,15,COVASNA,VÎLCELE,132,2,26,141,6,8,7,33,136,4,26,129,9,15,10,23,Școala Gimnazială Vâlcele,Nr. 104,Vâlcele,45.8534,25.6824
+205,15,COVASNA,VÎRGHIŞ,6,3,5,3,458,5,2,11,7,2,5,4,461,3,2,10,Căminul Cultural Vîrghiș,Nr. 423,Vârghiș,46.1259,25.5586
+206,15,COVASNA,ZAGON,23,3,8,1,845,7,3,16,24,2,7,3,848,6,4,8,Căminul Cultural nr. 1 Zagon,Nr. 114,Zagon,45.7671,26.1104
+207,15,COVASNA,ZAGON,91,0,91,23,28,36,8,25,82,0,90,29,27,38,8,23,Școala Primară „George Coșbuc” Zagon,Nr. 924,Zagon,45.7701,26.131
+149,15,COVASNA,GHIDFALĂU,5,0,1,3,151,1,1,4,6,1,1,2,145,3,3,6,"Clădire Aflată În Domeniul Privat al Comunei Ghidfalău, Sat Zoltan",Nr. 94,Zoltan,45.9201,25.8525
+209,15,COVASNA,ZĂBALA,12,3,11,5,426,1,1,5,13,4,8,5,425,2,0,4,Căminul Cultural Zăbala,Nr. 829,Zăbala,45.8909,26.1877
+210,15,COVASNA,ZĂBALA,62,4,26,21,78,11,9,22,66,5,23,22,79,9,12,19,Clubul nr. 2 Zăbala,Nr. 358,Zăbala,45.8888,26.1976
+211,15,COVASNA,ZĂBALA,6,2,5,2,143,5,1,11,10,2,3,2,145,5,1,6,Căminul Cultural Zăbala (Pava),Nr. 921,Zăbala,45.8786,26.1849
+186,15,COVASNA,SITA BUZĂULUI,49,4,13,13,1,14,2,9,47,8,15,9,1,15,2,9,Școala Gimnazială Zăbrătău,Nr. 986,Zăbrătău,45.6189,26.1263
+105,15,COVASNA,BODOC,7,3,1,1,203,2,1,3,7,3,2,1,202,2,1,3,Școala Primară „Dávid József” Zălan,Nr. 128,Zălan,45.9589,25.8171
+83,15,COVASNA,ORAŞ ÎNTORSURA BUZĂULUI,115,13,69,34,1,101,16,29,123,21,76,43,1,74,16,26,Școala Gimnazială „Mihail Sadoveanu” Întorsura Buzăului,Str. Mihai Viteazul nr. 188,Întorsura Buzăului,45.6749,26.0336
+84,15,COVASNA,ORAŞ ÎNTORSURA BUZĂULUI,104,11,57,39,1,97,9,30,121,17,65,43,1,65,12,27,Școala Gimnazială „Mihail Sadoveanu” Întorsura Buzăului,Str. Mihai Viteazul nr. 188,Întorsura Buzăului,45.6749,26.0336
+85,15,COVASNA,ORAŞ ÎNTORSURA BUZĂULUI,108,12,46,38,0,65,7,19,115,16,47,37,1,52,8,19,Casa de Cultură Întorsura Buzăului,Str. Mihai Viteazul nr. 169,Întorsura Buzăului,45.672,26.0291
+86,15,COVASNA,ORAŞ ÎNTORSURA BUZĂULUI,129,6,47,46,1,105,6,24,144,8,54,53,1,81,7,19,Districtul Drumuri Naționale Întorsura Buzăului,Str. Mihai Viteazul nr. 223,Întorsura Buzăului,45.6654,26.0201
+87,15,COVASNA,ORAŞ ÎNTORSURA BUZĂULUI,70,4,32,23,2,73,3,22,82,10,32,27,3,70,6,12,Școala Primară Întorsura Buzăului,Str. Aviatorului nr. 11,Întorsura Buzăului,45.6765,26.0128
+111,15,COVASNA,BOROŞNEU MARE,1,0,4,1,63,23,0,4,4,2,3,1,64,21,0,4,Căminul Cultural Țufalau,Nr. 54,Țufalău,45.8348,26.0238

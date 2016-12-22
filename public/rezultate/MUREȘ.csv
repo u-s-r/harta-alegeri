@@ -1,0 +1,569 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+390,28,MUREȘ,GHINDARI,4,0,1,1,59,0,0,0,4,0,1,0,57,0,0,0,Școală Primară Abud,Nr. 48,Abud,46.525,24.9141
+453,28,MUREȘ,MICA,20,1,9,7,27,3,0,5,20,2,10,6,28,4,1,3,Școala Primară,Nr. 140,Abuș,46.3573,24.3795
+210,28,MUREȘ,ACĂŢARI,13,2,4,4,397,3,2,16,15,3,7,5,402,3,2,7,Școala Primară Acățari,Nr. 99,Acățari,46.479,24.6325
+408,28,MUREȘ,GURGHIU,17,3,66,1,1,3,1,4,17,2,72,2,1,2,1,2,Căminul Cultural Adrian,Nr. 72,Adrian,46.7818,24.8316
+376,28,MUREȘ,GĂLEŞTI,3,1,1,1,47,2,0,0,3,0,1,1,48,2,0,1,Școala Primară Adrianu Mare,Nr. 7,Adrianu Mare,46.4942,24.7996
+218,28,MUREȘ,ADĂMUŞ,54,7,13,2,51,2,1,6,53,9,14,4,51,2,2,2,Școala Gimnazială Adămuș,,Adămuș,46.3029,24.2347
+219,28,MUREȘ,ADĂMUŞ,106,10,40,10,29,7,23,34,112,0,41,11,31,6,7,37,Căminul Cultural Adămuș,,Adămuș,46.3052,24.2393
+268,28,MUREȘ,BĂLĂUŞERI,49,2,11,4,94,1,3,24,53,4,10,5,99,2,5,15,Cămin Cultural Agrișteu,Nr. 80,Agrișteu,46.3924,24.6817
+224,28,MUREȘ,ALBEŞTI,184,37,62,22,88,24,23,48,177,39,68,20,89,30,24,40,Școala Gimnazială Albești,Str. Lungă nr. 119,Albești,46.2401,24.8525
+225,28,MUREȘ,ALBEŞTI,168,35,69,23,101,23,24,49,167,36,76,26,106,23,25,37,Școala Gimnazială Albești,Str. Lungă nr. 119,Albești,46.2401,24.8525
+227,28,MUREȘ,ALUNIŞ,67,0,8,5,198,5,4,10,68,2,8,5,198,4,4,9,Căminul Cultural Aluniș-Sala Mare,Nr. 166,Aluniș,46.8938,24.8197
+228,28,MUREȘ,ALUNIŞ,44,0,15,3,293,2,3,16,41,3,20,6,297,4,2,7,Căminul Cultural Aluniș-Sala Mică,Nr. 166,Aluniș,46.8938,24.8197
+231,28,MUREȘ,APOLD,49,4,16,21,1,7,0,3,49,4,17,20,1,6,1,4,Grădinița cu Program Normal Apold,Nr. 134,Apold,46.1248,24.816
+559,28,MUREȘ,VÎNĂTORI,77,4,21,23,1,2,4,13,77,4,21,23,1,2,4,8,Grădinița cu Program Normal Archita,Nr. 225,Archita,46.1808,25.0936
+234,28,MUREȘ,AŢINTIŞ,68,8,68,4,4,17,8,20,77,6,70,7,4,16,9,16,Sediul Primariei Atintis,Nr. 242,Ațintiș,46.4321,24.1059
+238,28,MUREȘ,BAHNEA,46,5,120,12,20,6,7,32,58,6,129,11,21,5,5,21,Căminul Cultural Bahnea,Str. Republicii nr. 43,Bahnea,46.3764,24.4816
+239,28,MUREȘ,BAHNEA,32,0,33,4,97,0,2,7,31,1,31,5,97,1,2,7,Școala Gimnazială Bahnea,Str. Principală nr. 4,Bahnea,46.374,24.4768
+181,28,MUREȘ,ORAŞ SARMAŞU,81,9,91,20,10,8,4,21,86,8,92,20,10,9,5,14,Căminul Cultural Balda,Str. Dezrobirii nr. 24A,Balda,46.7354,24.1434
+246,28,MUREȘ,BAND,42,5,25,9,124,2,6,14,43,7,28,5,127,4,7,12,Liceul Tehnologic Band,Str. Păcii,Band,46.5787,24.37
+247,28,MUREȘ,BAND,20,4,16,1,103,4,2,12,22,4,18,1,103,4,2,6,Liceul Tehnologic Band,Str. Școlii,Band,46.5762,24.3713
+248,28,MUREȘ,BAND,34,4,203,2,47,27,0,17,40,4,203,3,49,21,1,12,Liceul Tehnologic Band,,Band,46.5762,24.3713
+249,28,MUREȘ,BAND,37,3,98,2,109,4,3,12,39,5,103,3,113,3,3,10,Grădinița cu Program Normal Band,Str. Gării,Band,46.5809,24.3693
+259,28,MUREȘ,BATOŞ,92,12,80,16,28,7,7,22,96,14,86,13,28,8,7,17,Școala Gimnazială Batoș,Nr. 440,Batoș,46.8842,24.6538
+377,28,MUREȘ,GĂLEŞTI,2,0,1,0,65,1,1,2,2,0,1,0,66,0,2,2,Căminul Cultural Bedeni,Nr. 15,Bedeni,46.468,24.7813
+273,28,MUREȘ,BEICA DE JOS,61,7,16,5,46,5,3,13,65,7,18,6,49,4,4,9,Căminul Cultural Beica de Jos,Nr. 41,Beica de Jos,46.7345,24.7965
+274,28,MUREȘ,BEICA DE JOS,58,1,9,2,1,1,3,8,58,2,10,1,1,2,3,4,Căminul Cultural Beica de Sus,Nr. 111,Beica de Sus,46.7386,24.8191
+279,28,MUREȘ,BERENI,9,1,2,0,189,1,1,3,9,1,2,0,187,2,2,2,Căminul Cultural Bereni,Nr. 16,Bereni,46.5558,24.8687
+473,28,MUREȘ,PĂNET,25,12,24,4,215,4,11,16,25,10,24,5,218,5,13,18,Căminul Cultural Berghia,Nr. 59,Berghia,46.5397,24.4283
+240,28,MUREȘ,BAHNEA,21,1,15,6,1,1,4,6,23,1,14,6,1,1,3,5,Școala Primară Bernadea,Nr. 49,Bernadea,46.3737,24.4568
+192,28,MUREȘ,ORAŞ SÂNGEORGIU DE PĂDURE,3,1,2,1,215,2,2,5,4,0,1,1,217,2,4,5,Școala Gimnazială Bezid,Nr. 37,Bezid,46.4056,24.9225
+282,28,MUREȘ,BICHIŞ,4,1,0,1,73,1,1,1,4,1,0,2,70,0,1,2,Cămin Cultural Bichiș,Nr. 42,Bichiș,46.3721,24.0877
+346,28,MUREȘ,DEDA,198,15,38,29,5,24,9,21,181,14,44,18,5,47,13,21,Școala Gimnazială Bistra-Mureșului,Nr. 265,Bistra Mureșului,46.9609,24.9047
+151,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,69,6,86,11,1,6,5,15,70,6,86,11,2,6,3,12,Căminul Cultural Bobohalma,,Bobohalma,46.3505,24.2321
+287,28,MUREȘ,BOGATA,109,6,36,13,125,10,8,29,118,9,34,12,124,14,10,18,Primăria Bogata,Nr. 122,Bogata,46.4588,24.117
+226,28,MUREȘ,ALBEŞTI,101,14,55,10,68,41,9,33,107,22,54,11,62,46,12,29,Școala Gimnazială Boiu,Nr. 397,Boiu,46.2654,24.8675
+479,28,MUREȘ,PĂSĂRENI,6,3,4,3,9,11,0,3,7,2,5,2,9,12,0,2,"Cămin Cultural Bolintineni, Sat Bolintineni",Nr. 70,Bolintineni,46.4922,24.7112
+335,28,MUREȘ,CUCERDEA,18,0,26,1,1,9,0,2,19,0,27,1,1,7,1,3,Cămin Cultural Bord,Nr. 45,Bord,46.3939,24.2253
+369,28,MUREȘ,FÎNTÎNELE,11,0,2,0,110,1,1,9,12,0,2,0,116,1,1,3,Școala Primară Bordoșiu,Nr. 148,Bordoșiu,46.3942,24.7844
+235,28,MUREȘ,AŢINTIŞ,22,1,6,2,3,1,0,2,21,2,6,1,3,2,0,2,Școala Primară Botez,Nr. 26,Botez,46.3875,24.0233
+297,28,MUREȘ,CEUAŞU DE CÎMPIE,24,4,6,4,4,1,6,10,32,3,8,4,4,1,4,6,Căminul Cultural Bozed,,Bozed,46.6878,24.4583
+318,28,MUREȘ,CORUNCA,4,0,1,0,57,2,0,2,4,0,1,1,59,3,0,0,Căminul Cultural Bozeni,Nr. 18,Bozeni,46.5311,24.6697
+290,28,MUREȘ,BREAZA,60,13,65,15,212,19,2,12,63,12,65,13,209,24,2,10,Camin Cultural Breaza,Nr. 59,Breaza,46.7628,24.6377
+292,28,MUREȘ,BRÎNCOVENEŞTI,37,7,21,8,255,5,3,17,47,9,22,6,258,5,3,8,Școala Primară,Nr. 149,Brâncovenești,46.857,24.761
+325,28,MUREȘ,CRĂCIUNEŞTI,13,3,3,3,54,11,2,2,13,3,3,1,53,12,2,4,Școala Primară Budiu Mic,Nr. 101,Budiu Mic,46.5092,24.5839
+517,28,MUREȘ,SÎNPETRU DE CÎMPIE,4,2,21,3,1,7,1,3,3,2,24,2,1,6,1,3,Căminul Cultural Bîrlibaș,Nr. 52/A,Bârlibaș,46.6862,24.2384
+263,28,MUREȘ,BĂGACIU,172,4,30,17,8,5,1,17,181,5,34,18,8,4,2,9,Căminul Cultural Băgaciu,Nr. 86,Băgaciu,46.2706,24.3724
+437,28,MUREȘ,LUNCA,106,10,28,21,2,6,2,24,105,14,34,26,1,3,4,13,Școala Gimnazială Băița,Nr. 98,Băița,46.8351,24.5299
+265,28,MUREȘ,BĂLA,71,6,22,16,3,2,11,21,77,5,24,11,4,4,9,17,Cămin Cultural,Nr. 136,Băla,46.7134,24.4968
+267,28,MUREȘ,BĂLĂUŞERI,4,5,9,0,195,4,1,2,6,4,9,0,197,2,1,3,Căminul Cultural Bălăușeri,Nr. 270,Bălăușeri,46.4084,24.6919
+568,28,MUREȘ,ZAU DE CÎMPIE,36,3,42,5,1,2,2,5,35,4,43,5,1,3,2,2,Școala Gimnazială Bărboși,Nr. 90,Bărboși,46.5812,24.1784
+526,28,MUREȘ,SÎNTANA DE MUREŞ,57,12,41,8,4,9,40,54,62,15,43,8,4,8,34,43,Căminul Cultural Bărdești,Nr. 135,Bărdești,46.5938,24.516
+409,28,MUREȘ,GURGHIU,80,7,122,18,2,6,5,16,87,5,126,17,2,6,7,14,Școala Primară Casva,Nr. 177,Cașva,46.7823,24.8791
+236,28,MUREȘ,AŢINTIŞ,33,2,7,11,42,2,2,7,37,0,7,11,42,2,3,4,Școala Primară Cecalaca,Nr. 107,Cecălaca,46.3937,24.0391
+205,28,MUREȘ,ORAŞ UNGHENI,67,14,55,6,1,28,6,11,72,11,56,7,1,31,6,8,Cămin Cultural Cerghid,Nr. 50,Cerghid,46.4147,24.4448
+207,28,MUREȘ,ORAŞ UNGHENI,83,7,80,6,1,12,4,15,84,10,79,6,1,11,3,14,Școala Primară Cerghizel,Nr. 103,Cerghizel,46.4523,24.4484
+449,28,MUREȘ,MICA,30,0,9,2,192,8,2,15,28,1,10,2,188,9,2,15,Cămin Cultural,Nr. 15,Ceuaș,46.341,24.4434
+296,28,MUREȘ,CEUAŞU DE CÎMPIE,76,15,47,10,224,10,23,42,75,17,46,9,222,12,27,43,Căminul Cultural Ceuașu de Cîmpie,,Ceuașu de Câmpie,46.6407,24.5159
+271,28,MUREȘ,BĂLĂUŞERI,9,1,8,1,384,3,1,5,10,3,8,1,384,2,2,4,Școală Gimnazială Samuel Jozsef Chendu,Nr. 358,Chendu,46.3927,24.7274
+305,28,MUREȘ,CHEŢANI,141,17,56,49,1,17,7,25,127,16,57,65,1,15,6,17,Sediul Primariei Chetani,Nr. 51,Chețani,46.463,24.0297
+307,28,MUREȘ,CHIBED,11,1,4,1,508,1,0,6,9,3,3,2,513,1,1,4,Primăria Comunei Chibed,Nr. 452,Chibed,46.5335,24.9627
+308,28,MUREȘ,CHIHERU DE JOS,71,3,48,5,1,34,10,15,75,3,43,6,2,36,8,12,Sediul Primăriei Comunei Chiheru de Jos,Nr. 81,Chiheru de Jos,46.6868,24.8795
+309,28,MUREȘ,CHIHERU DE JOS,62,9,9,5,2,7,11,17,57,7,9,3,1,7,13,19,Școala Primară Chiheru de Sus,Nr. 163,Chiheru de Sus,46.681,24.8977
+525,28,MUREȘ,SÎNTANA DE MUREŞ,53,9,12,6,78,2,15,21,52,12,11,7,73,2,14,18,Grădinița cu Program Normal Chinari,Str. Principală nr. 142 A,Chinari,46.6052,24.59
+512,28,MUREȘ,SÎNPAUL,81,5,47,2,38,11,20,35,87,8,48,0,42,10,24,28,Căminul Cultural,Nr. 146,Chirileu,46.4764,24.3804
+370,28,MUREȘ,FÎNTÎNELE,3,1,1,0,43,2,2,5,3,2,1,0,43,1,2,3,Grădinița cu Program Normal Cibu,Nr. 48,Cibu,46.3773,24.8046
+324,28,MUREȘ,CRĂCIUNEŞTI,8,2,4,0,203,1,2,7,6,3,5,0,217,1,3,3,Școala Primară Cinta,Nr. 130A,Cinta,46.4611,24.5496
+498,28,MUREȘ,SÂNGER,85,4,69,3,2,3,5,12,92,3,67,3,2,2,3,12,Caminul Cultural Cipaieni,Nr. 5E,Cipăieni,46.5311,24.1681
+157,28,MUREȘ,ORAŞ IERNUT,84,10,88,6,25,21,7,19,92,12,80,4,26,28,13,25,Școala Gimnazială Cipău,Nr. 140,Cipău,46.4464,24.2758
+495,28,MUREȘ,SASCHIZ,7,0,35,0,2,3,1,4,7,0,34,1,2,2,1,6,Cămin Cultural Cloașterf,,Cloașterf,46.1462,24.9959
+410,28,MUREȘ,GURGHIU,24,1,33,2,4,1,1,7,24,1,35,2,4,1,1,7,Fosta Școala Primară Comori,Nr. 48,Comori,46.7346,24.8935
+220,28,MUREȘ,ADĂMUŞ,99,21,24,15,71,12,4,17,101,21,28,13,69,13,4,12,Școala Gimnazială Cornești,,Cornești,46.2926,24.2101
+323,28,MUREȘ,CRĂCIUNEŞTI,11,2,1,0,462,1,1,10,13,3,2,0,463,1,1,3,Căminul Cultural Cornești,Nr. 71A,Cornești,46.4567,24.5838
+315,28,MUREȘ,COROISÎNMĂRTIN,13,2,9,8,2,5,1,3,11,3,14,6,2,6,1,2,Școala Primară Coroi,Nr. 75,Coroi,46.4083,24.6345
+312,28,MUREȘ,COROISÎNMĂRTIN,21,3,14,13,16,28,0,5,21,2,14,14,17,28,0,5,Școala Gimnazială Coroisînmărtin,Nr. 46,Coroisânmărtin,46.407,24.6028
+316,28,MUREȘ,CORUNCA,31,24,29,7,250,3,6,19,31,23,29,8,248,6,6,13,Căminul Cultural Corunca,Nr. 184,Corunca,46.5209,24.6179
+317,28,MUREȘ,CORUNCA,104,94,100,37,334,14,32,55,103,97,107,31,333,12,41,56,Căminul Cultural Corunca,Nr. 184,Corunca,46.5209,24.6179
+506,28,MUREȘ,SÎNGEORGIU DE MUREŞ,10,0,1,1,61,1,1,7,14,0,1,1,64,1,1,1,Școala Gimnazială „Sfântul Gheorghe” - Școala Primară Cotuș,Nr. 76,Cotuș,46.5749,24.6703
+320,28,MUREȘ,COZMA,30,6,57,6,2,6,9,17,32,7,65,6,2,5,7,12,Primăria Cozma,Nr. 41,Cozma,46.8085,24.5215
+329,28,MUREȘ,CRISTEŞTI,137,34,53,30,188,13,64,81,130,37,57,24,190,13,71,82,Primăria,Str. Principală nr. 678,Cristești,46.502,24.4923
+330,28,MUREȘ,CRISTEŞTI,135,47,63,21,117,17,64,78,136,48,62,13,117,16,69,85,Primărie,Str. Principală nr. 678,Cristești,46.502,24.4923
+331,28,MUREȘ,CRISTEŞTI,84,20,65,25,171,6,86,111,90,22,69,21,177,5,89,109,Școala Gimnazială Cristești,Str. Școlii nr. 309,Cristești,46.5063,24.4838
+344,28,MUREȘ,DANEŞ,34,8,42,5,1,20,0,2,36,6,42,4,3,21,0,0,Școala Gimnazială Inv. „Stroiescu Ioan” Criș,Nr. 344,Criș,46.1438,24.694
+321,28,MUREȘ,CRĂCIUNEŞTI,6,3,2,1,115,8,1,4,5,3,2,1,116,8,1,3,Cămin Cultural Crăciunești Sala Mică,Nr. 166,Crăciunești,46.4773,24.573
+322,28,MUREȘ,CRĂCIUNEŞTI,9,4,1,1,280,2,1,3,9,8,1,0,278,2,1,1,Căminul Cultural Crăciunești Sala Mare,Nr. 166,Crăciunești,46.4773,24.573
+221,28,MUREȘ,ADĂMUŞ,26,4,20,2,132,4,1,9,26,6,20,2,133,4,2,4,Grădinița de Copii cu Program Normal Crăiești,Nr. 1,Crăiești,46.2956,24.196
+326,28,MUREȘ,CRĂIEŞTI,58,3,60,12,2,4,6,9,56,5,58,8,1,5,9,12,Primăria Comunei Craiesti,Nr. 122/A,Crăiești,46.7553,24.4208
+333,28,MUREȘ,CUCERDEA,88,6,125,12,2,12,3,10,90,9,117,12,1,13,6,10,Primăria Cucerdea,Nr. 329,Cucerdea,46.4047,24.2638
+339,28,MUREȘ,CUCI,137,8,34,14,84,2,9,13,139,6,35,18,87,1,8,10,Primăria Cuci,,Cuci,46.4644,24.1524
+474,28,MUREȘ,PĂNET,26,2,3,4,142,1,0,24,31,5,3,9,138,3,0,14,Școala Primară Cuieșd,Nr. 68,Cuieșd,46.6029,24.4739
+299,28,MUREȘ,CEUAŞU DE CÎMPIE,14,0,3,2,71,4,0,4,14,3,2,1,74,4,0,3,Căminul Cultural Culpiu,,Culpiu,46.6379,24.4297
+245,28,MUREȘ,BAHNEA,8,0,12,2,16,0,1,6,6,0,14,2,16,0,2,6,Școala Primară Cund,Nr. 40,Cund,46.2721,24.5135
+524,28,MUREȘ,SÎNTANA DE MUREŞ,11,3,6,4,351,1,3,5,13,6,5,4,348,1,2,5,Școala Primară Curteni,Str. Principală nr. 123,Curteni,46.5946,24.5725
+152,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,67,6,25,6,4,5,6,13,69,5,25,7,4,4,6,11,Grădinița cu Program Normal nr. 6,Nr. 42,Cuștelnic,46.3383,24.3103
+298,28,MUREȘ,CEUAŞU DE CÎMPIE,8,5,7,1,276,2,1,5,6,6,7,2,275,2,2,5,Căminul Cultural Cîmpenița,,Câmpenița,46.6503,24.4878
+352,28,MUREȘ,EREMITU,9,1,2,2,118,1,1,5,8,3,1,3,127,1,1,1,Școala Primară Cîmpu Cetății,Nr. 42,Câmpu Cetății,46.671,25.0158
+276,28,MUREȘ,BEICA DE JOS,43,5,9,6,1,1,3,6,42,3,10,5,1,2,5,6,Școala Primară Căcuciu,Nr. 26,Căcuciu,46.7253,24.85
+367,28,MUREȘ,FÎNTÎNELE,14,2,2,2,284,1,1,7,13,2,0,3,287,1,1,4,Școala Gimnazială Călimănești,Nr. 143,Călimănești,46.4144,24.7334
+351,28,MUREȘ,EREMITU,5,2,3,4,87,2,2,8,5,5,5,3,85,2,2,5,Școala Primară Călugăreni,Nr. 142,Călugăreni,46.6311,24.8781
+357,28,MUREȘ,ERNEI,8,3,4,2,184,1,2,5,10,4,2,3,184,1,3,5,Căminul Cultural Călușeri,Nr. 85,Călușeri,46.6046,24.7346
+428,28,MUREȘ,ICLĂNZEL,147,6,35,20,3,5,3,12,148,4,30,25,3,7,3,13,Caminul Cultural,Nr. 275,Căpușu de Câmpie,46.5435,24.3132
+232,28,MUREȘ,APOLD,47,3,8,9,1,39,3,3,47,4,11,7,1,38,3,4,Școala Primară Daia,Nr. 44,Daia,46.1448,24.9027
+242,28,MUREȘ,BAHNEA,10,1,5,1,13,1,3,7,11,1,4,1,15,1,2,6,Școala Primară Daia,Nr. 35,Daia,46.304,24.4544
+340,28,MUREȘ,DANEŞ,90,22,116,14,3,12,7,22,83,18,133,12,3,11,7,14,Căminul Cultural Danes,Nr. 159,Daneș,46.2222,24.697
+341,28,MUREȘ,DANEŞ,92,5,106,13,2,7,5,21,93,4,114,9,3,8,6,15,Clubul Tineretului,Nr. 182,Daneș,46.2222,24.697
+158,28,MUREȘ,ORAŞ IERNUT,38,2,15,14,2,4,3,4,42,1,17,11,2,4,3,7,Cămin Cultural,Nr. 115,Deag,46.3917,24.1914
+450,28,MUREȘ,MICA,147,3,14,8,114,5,1,44,175,2,14,9,127,7,3,18,Cămin Cultural,Nr. 127,Deaj,46.3476,24.3983
+349,28,MUREȘ,DEDA,420,11,63,67,1,20,11,35,418,18,74,56,2,21,13,30,Cămin Cultural Deda,Nr. 126,Deda,46.9472,24.8721
+260,28,MUREȘ,BATOŞ,162,15,76,43,5,9,13,33,161,21,80,39,6,11,15,25,Școala Gimnazială Dedrad,Nr. 44,Dedrad,46.8261,24.6579
+264,28,MUREȘ,BĂGACIU,43,10,21,3,187,1,3,6,39,13,22,2,188,2,6,9,Școala Gimnazială,Nr. 426,Delenii,46.2643,24.3391
+513,28,MUREȘ,SÎNPAUL,11,1,1,1,70,3,1,2,12,1,1,1,70,3,1,2,Căminul Cultural,Nr. 28,Dileu Nou,46.4623,24.3318
+466,28,MUREȘ,OGRA,14,2,4,1,20,1,1,4,17,2,3,2,21,1,1,2,Grădinița cu Program Normal Dileu Vechi,Nr. 163,Dileu Vechi,46.4717,24.3059
+256,28,MUREȘ,BAND,9,1,8,1,6,1,2,3,9,2,8,1,6,1,2,2,Școala Primară Drăculea Bandului,,Drăculea Bandului,46.6197,24.3359
+417,28,MUREȘ,HODAC,57,4,22,11,2,5,13,16,62,2,22,10,2,5,10,14,Școala Gimnazială Dubistea de Padure,Nr. 70A,Dubiștea de Pădure,46.7751,24.9622
+426,28,MUREȘ,IBĂNEŞTI,288,13,61,24,2,7,14,28,272,10,74,18,3,7,19,31,Cămin Cultural Dulcea,Nr. 62,Dulcea,46.7634,25.0218
+551,28,MUREȘ,VĂTAVA,144,4,62,19,1,18,7,14,141,3,68,16,2,19,10,14,Școala Primară Dumbrava,Nr. 179,Dumbrava,46.9411,24.8022
+358,28,MUREȘ,ERNEI,26,3,9,3,481,4,2,12,25,3,10,2,491,5,3,8,Căminul Cultural Dumbrăvioara,Nr. 268,Dumbrăvioara,46.6375,24.635
+269,28,MUREȘ,BĂLĂUŞERI,8,0,2,2,137,1,1,5,9,0,2,2,137,1,1,5,Cămin Cultural Dumitreni,Nr. 156,Dumitreni,46.4005,24.7561
+177,28,MUREȘ,ORAŞ MIERCUREA NIRAJULUI,3,0,0,2,153,1,1,5,2,0,0,3,159,1,1,2,Caminul Cultural,Nr. 23/A,Dumitreștii,46.5217,24.7864
+518,28,MUREȘ,SÎNPETRU DE CÎMPIE,72,1,37,6,1,10,11,25,72,2,38,3,1,9,12,21,Căminul Cultural Dîmbu,Nr. 286,Dâmbu,46.7426,24.2662
+222,28,MUREȘ,ADĂMUŞ,54,3,19,4,180,9,5,11,57,3,20,6,181,6,4,8,Grădinița de Copii cu Program Normal Dîmbău,Nr. 72,Dâmbău,46.3206,24.2277
+353,28,MUREȘ,EREMITU,3,1,1,2,62,1,1,4,3,0,2,2,66,1,1,5,Școala Primară Dămieni,Nr. 165,Dămieni,46.6262,24.8591
+338,28,MUREȘ,CUCI,79,3,14,22,1,5,0,9,78,5,16,20,1,5,1,5,Școala Primară,,Dătășeni,46.4739,24.1744
+266,28,MUREȘ,BĂLA,28,2,3,8,1,2,8,13,28,2,4,8,2,2,8,10,Școala Primară,Nr. 125,Ercea,46.7304,24.5086
+280,28,MUREȘ,BERENI,5,1,3,2,108,1,1,1,4,0,3,1,110,1,1,1,Căminul Cultural Eremieni,Nr. 70,Eremieni,46.5359,24.8704
+350,28,MUREȘ,EREMITU,27,2,7,2,480,1,3,31,28,4,8,1,486,1,5,21,Școala Gimnazială „Dr. Nyulas Ferenc” Eremitu,Nr. 551,Eremitu,46.6608,24.9238
+355,28,MUREȘ,ERNEI,11,1,5,7,244,2,2,9,12,2,5,7,248,2,4,7,Căminul Cultural Ernei,Nr. 439,Ernei,46.6119,24.6431
+356,28,MUREȘ,ERNEI,33,13,15,5,285,4,7,15,28,10,19,4,297,2,7,9,Sala de Ședințe - Primăria Comunei Ernei,Nr. 439,Ernei,46.612,24.6432
+560,28,MUREȘ,VÎNĂTORI,46,6,14,2,2,2,1,4,49,5,14,2,2,2,3,5,Școala Primară Feleag,Nr. 175,Feleag,46.2405,25.0116
+347,28,MUREȘ,DEDA,193,7,36,15,1,9,6,17,186,7,40,11,1,12,8,19,Școala Primară Filea,Nr. 231,Filea,46.9424,24.8866
+270,28,MUREȘ,BĂLĂUŞERI,12,2,16,7,9,2,3,5,12,2,14,6,9,4,4,5,Cămin Cultural Filitelnic,Nr. 64,Filitelnic,46.3649,24.6687
+288,28,MUREȘ,BREAZA,32,9,28,9,48,3,3,17,37,10,23,11,45,3,5,18,Școala Primară Filpișu Mare,Nr. 258,Filpișu Mare,46.7522,24.5902
+289,28,MUREȘ,BREAZA,15,1,32,2,86,1,2,3,14,1,28,2,90,1,2,6,Școala Primară Filpișu Mic,Nr. 69,Filpișu Mic,46.7825,24.6002
+229,28,MUREȘ,ALUNIŞ,5,0,3,3,197,1,1,3,6,1,3,2,200,1,1,1,Școala Primară Fițcău,Nr. 36,Fițcău,46.8987,24.8672
+438,28,MUREȘ,LUNCA,73,3,18,6,1,4,4,11,80,3,16,6,1,4,5,8,Școala Primară Frunzeni,Nr. 158,Frunzeni,46.8147,24.568
+253,28,MUREȘ,BAND,56,2,18,3,4,4,2,6,53,1,20,1,4,4,2,7,Școala Gimnazială Fînațe,,Fânațe,46.647,24.3169
+365,28,MUREȘ,FÎNTÎNELE,15,6,10,0,495,2,1,4,14,2,8,0,500,3,2,5,Școala Gimnazială Fîntînele,Nr. 263,Fântânele,46.4207,24.7636
+366,28,MUREȘ,FÎNTÎNELE,18,1,3,3,430,1,1,9,12,2,3,0,442,1,1,5,Școala Gimnazială Fîntînele,Nr. 263,Fântânele,46.4207,24.7636
+362,28,MUREȘ,FĂRĂGĂU,186,16,13,8,1,2,10,23,190,14,12,8,1,4,13,20,Sediu Primarie,Nr. 40,Fărăgău,46.7655,24.5178
+382,28,MUREȘ,GHEORGHE DOJA,6,2,4,0,191,2,0,4,6,1,4,1,196,2,0,1,Căminul Cultural Gheorghe Doja,Nr. 8,Gheorghe Doja,46.4634,24.5078
+387,28,MUREȘ,GHINDARI,24,0,1,5,292,0,1,30,22,0,1,5,304,0,1,30,Cămin Cultural Ghindari,Nr. 78,Ghindari,46.5033,24.9231
+462,28,MUREȘ,NEAUA,5,1,1,0,119,1,1,5,6,1,1,1,122,1,1,1,Școala Primară Ghinești,Nr. 216,Ghinești,46.4968,24.8627
+467,28,MUREȘ,OGRA,11,2,7,1,1,10,7,8,10,3,7,1,1,9,7,8,Fosta Școală Generală Giuluș,Nr. 97,Giuluș,46.4009,24.3097
+391,28,MUREȘ,GLODENI,20,21,2,3,173,2,2,6,25,14,3,3,178,2,2,5,Școala Gimnazială „Adorjani Karoly” Glodeni,Nr. 132,Glodeni,46.654,24.6106
+392,28,MUREȘ,GLODENI,14,0,7,3,397,1,3,7,16,3,5,4,411,2,3,5,Școala Gimnazială „Adorjani Karoly” Glodeni,Nr. 132,Glodeni,46.654,24.6106
+411,28,MUREȘ,GURGHIU,60,2,24,4,400,3,8,22,67,4,24,4,400,4,8,15,Caminul Cultural Glajarie,Nr. 6,Glăjărie,46.8329,24.9328
+244,28,MUREȘ,BAHNEA,4,3,7,1,91,0,0,2,4,3,8,1,94,1,0,2,Școala Gimnazială Gogan,Nr. 320,Gogan,46.3044,24.5153
+261,28,MUREȘ,BATOŞ,62,1,18,23,35,4,5,17,63,4,18,21,37,4,6,18,Grădinița cu Program Normal Goreni,Nr. 68,Goreni,46.8523,24.6564
+401,28,MUREȘ,GORNEŞTI,26,6,29,5,218,2,10,28,29,5,30,9,220,4,7,11,Școala Gimnazială Teleki Domokos,Nr. 432,Gornești,46.6732,24.6446
+402,28,MUREȘ,GORNEŞTI,45,4,15,6,153,1,7,18,45,4,16,8,157,1,8,14,Grădinița cu Program Normal,Nr. 157,Gornești,46.6732,24.6469
+405,28,MUREȘ,GREBENIŞU DE CÎMPIE,299,4,60,7,1,10,70,93,302,4,62,15,2,8,77,85,Cămin Cultural Grebenisu de Cimpie,Nr. 152,Grebenișu de Câmpie,46.6078,24.3064
+304,28,MUREȘ,CHEŢANI,35,2,20,8,45,5,2,5,31,2,23,13,41,5,2,4,Camin Cultural,Nr. 117,Grindeni,46.5002,23.9972
+211,28,MUREȘ,ACĂŢARI,7,1,1,2,125,1,2,9,7,1,1,2,122,1,4,5,Școala Primară Gruișor,Nr. 37,Gruișor,46.4529,24.6165
+547,28,MUREȘ,VĂRGATA,4,0,2,0,35,1,0,1,8,0,1,0,33,1,0,2,Școala Primară Grîușorul,Nr. 16,Grâușorul,46.6005,24.8322
+406,28,MUREȘ,GURGHIU,73,6,87,13,21,5,7,26,80,7,94,13,21,5,10,15,Căminul Cultural Gurghiu,Str. Eroilor nr. 12,Gurghiu,46.7727,24.8581
+407,28,MUREȘ,GURGHIU,74,7,72,11,11,7,5,18,78,8,75,9,15,6,4,12,Caminul Cultural Gurghiu,Str. Eroilor nr. 12,Gurghiu,46.7727,24.8581
+283,28,MUREȘ,BICHIŞ,29,2,6,2,8,1,0,3,35,1,6,2,8,2,0,0,Școala Primară Gîmbuț,Nr. 34,Gâmbuț,46.3527,24.0633
+212,28,MUREȘ,ACĂŢARI,2,2,1,1,145,1,1,2,1,2,1,1,143,1,1,1,Cămin Cultural Găiești,Nr. 116,Găiești,46.4261,24.6696
+372,28,MUREȘ,GĂLEŞTI,15,1,4,0,181,2,1,3,13,1,5,1,184,1,1,2,Școala Gimnazială „Szentivni Mihly” Gălești,Nr. 77,Gălești,46.5134,24.7584
+478,28,MUREȘ,PĂSĂRENI,9,0,2,0,247,2,0,6,7,0,2,1,242,2,1,8,"Cămin Cultural Gălățeni, Sat Gălățeni",Nr. 31,Gălățeni,46.4736,24.705
+378,28,MUREȘ,GĂNEŞTI,26,8,20,7,299,5,3,13,22,7,23,10,307,4,6,14,Grădinița cu Program Normal Gănești,Str. Principală nr. 771,Gănești,46.3345,24.3597
+379,28,MUREȘ,GĂNEŞTI,25,7,12,2,245,5,13,17,23,8,14,2,242,5,11,17,Școala Gimnazială Fogarasi Samuel Gănești,Str. Principală nr. 248,Gănești,46.3343,24.3584
+482,28,MUREȘ,PETELEA,26,4,28,6,3,0,3,10,27,4,31,5,3,0,4,7,Școala Primară Habic,Nr. 84,Habic,46.7083,24.7905
+300,28,MUREȘ,CEUAŞU DE CÎMPIE,35,10,17,5,8,2,7,10,35,9,17,4,8,2,8,10,Căminul Cultural Herghelia,,Herghelia,46.6323,24.4802
+131,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,70,14,50,6,6,7,13,27,67,17,51,8,5,9,13,25,Grădinița cu Program Normal Hetiur,Nr. 100,Hetiur,46.2699,24.7687
+414,28,MUREȘ,HODAC,135,6,26,26,1,1,9,15,132,6,24,28,1,1,11,18,Caminul Cultural Hodac,Nr. 77,Hodac,46.7744,24.9242
+415,28,MUREȘ,HODAC,172,12,56,25,1,5,17,29,179,14,56,27,1,6,15,23,Școala Gimnazială Hodac,Nr. 54,Hodac,46.774,24.9217
+419,28,MUREȘ,HODOŞA,1,1,3,0,95,1,1,2,3,1,3,0,96,1,1,1,Școala Primară Hodoșa,Nr. 136,Hodoșa,46.6368,24.8246
+306,28,MUREȘ,CHEŢANI,49,55,54,13,43,10,21,31,49,61,48,19,43,11,23,27,Camin Cultural Hadareni,Nr. 95,Hădăreni,46.4662,23.9888
+451,28,MUREȘ,MICA,20,3,29,2,114,1,2,17,25,3,33,5,113,3,5,9,Cămin Cultural,Nr. 265,Hărănglab,46.3044,24.4153
+475,28,MUREȘ,PĂNET,27,2,2,2,44,4,4,9,29,3,2,1,44,3,4,9,Căminul Cultural Hărțău,Nr. 42,Hărțău,46.5816,24.4792
+404,28,MUREȘ,GORNEŞTI,9,0,3,1,99,1,1,6,9,3,3,1,104,1,3,4,Școala Primară Iara de Mureș,Nr. 169,Iara de Mureș,46.6612,24.7316
+423,28,MUREȘ,IBĂNEŞTI,426,14,98,45,2,13,12,33,428,18,109,33,2,13,13,33,Grădinița cu Program Normal Ibănești,Nr. 107,Ibănești,46.7704,24.9322
+424,28,MUREȘ,IBĂNEŞTI,131,4,31,10,4,5,4,10,126,4,38,8,4,4,5,12,Sală Manifestări Isticeu,Nr. 467,Ibănești,46.7685,24.9687
+425,28,MUREȘ,IBĂNEŞTI,233,10,52,26,2,2,9,18,219,11,63,26,2,2,8,16,Grădinița cu Program Prelungit Ibănești-Pădure,Nr. 13/A,Ibănești-Pădure,46.7661,24.9937
+359,28,MUREȘ,ERNEI,11,4,4,1,76,1,1,6,11,2,4,1,81,1,2,3,Căminul Cultural Icland,Nr. 117,Icland,46.613,24.6923
+427,28,MUREȘ,ICLĂNZEL,224,9,57,1,1,17,11,19,217,10,59,1,2,17,12,18,Caminul Cultural,Nr. 193,Iclănzel,46.5281,24.2765
+429,28,MUREȘ,IDECIU DE JOS,118,6,109,10,25,11,5,14,118,8,105,7,26,15,6,13,Caminul Cultural Ideciu de Jos,Nr. 234,Ideciu de Jos,46.8119,24.7489
+430,28,MUREȘ,IDECIU DE JOS,64,2,61,9,1,7,5,27,71,2,65,8,1,6,5,15,Grădinița cu Program Normal Ideciu de Sus,Nr. 71,Ideciu de Jos,46.843,24.7722
+431,28,MUREȘ,IDECIU DE JOS,36,8,24,8,1,9,3,8,43,8,31,4,1,7,2,4,Fosta Școala Primară Deleni,Nr. 154,Ideciu de Jos,46.8385,24.8057
+293,28,MUREȘ,BRÎNCOVENEŞTI,29,5,15,6,2,1,40,49,34,2,16,4,2,1,40,48,Școala Primară,Nr. 12,Idicel,46.8559,24.8172
+291,28,MUREȘ,BRÎNCOVENEŞTI,30,4,24,18,3,5,17,23,28,3,26,16,4,5,23,28,Cămin Cultural,Nr. 476,Idicel-Pădure,46.8546,24.8579
+243,28,MUREȘ,BAHNEA,21,1,65,10,2,2,4,17,27,2,69,7,2,2,6,11,Școala Gimnazială Idiciu,Nr. 196,Idiciu,46.2763,24.4563
+531,28,MUREȘ,SUPLAC,15,1,4,9,279,2,1,6,16,1,3,7,287,3,0,4,Școala Gimnazială „Bordi Andrs” Idrifaia,Nr. 168,Idrifaia,46.3874,24.4656
+153,28,MUREȘ,ORAŞ IERNUT,157,41,77,40,76,28,15,42,159,42,80,34,76,36,18,37,Casa de Cultură Iernut,Piața 1 Decembrie 1918 nr. 9,Iernut,46.4499,24.2339
+154,28,MUREȘ,ORAŞ IERNUT,133,32,75,17,80,28,16,33,133,36,69,17,79,39,16,25,Grădinița cu Program Normal Iernut,Str. Gheorghe Doja nr. 8,Iernut,46.4523,24.2369
+155,28,MUREȘ,ORAŞ IERNUT,142,30,99,40,37,22,15,31,135,29,97,38,35,37,15,30,Școala Gimnazială Iernut,Nr. 3,Iernut,46.4496,24.2306
+156,28,MUREȘ,ORAŞ IERNUT,135,22,127,23,45,15,14,38,139,23,124,16,52,28,11,25,Școala Gimnazială Iernut,Str. Mihail Eminescu nr. 3,Iernut,46.4496,24.2306
+420,28,MUREȘ,HODOŞA,0,1,0,0,65,1,1,4,0,1,0,0,68,1,1,2,Școala Primară Ihod,Nr. 12,Ihod,46.632,24.7991
+383,28,MUREȘ,GHEORGHE DOJA,3,1,3,1,162,1,1,3,4,3,3,0,159,1,2,4,Căminul Cultural Ilieni,Nr. 94,Ilieni,46.463,24.5251
+193,28,MUREȘ,ORAŞ SOVATA,1,0,3,1,186,1,2,3,1,0,4,2,187,1,1,2,Căminul Cultural Satul Ilieși,Nr. 50,Ilieși,46.5822,25.1269
+397,28,MUREȘ,GORNEŞTI,2,1,3,1,43,1,1,4,3,1,3,1,44,1,1,2,Camin Cultural,Nr. 11,Ilioara,46.6458,24.7461
+421,28,MUREȘ,HODOŞA,4,1,1,0,83,2,1,1,6,1,0,0,81,1,1,1,Școala Primară Isla,Nr. 55,Isla,46.6272,24.7839
+432,28,MUREȘ,LIVEZENI,27,11,21,4,35,3,2,5,26,11,21,3,35,3,4,6,Camin Cultural,Nr. 41A,Ivănești,46.5436,24.6749
+237,28,MUREȘ,AŢINTIŞ,4,0,1,1,46,1,0,1,3,0,1,1,46,2,0,1,Școala Primară Istihaza,Nr. 52,Iștihaza,46.3905,24.1061
+528,28,MUREȘ,SOLOVĂSTRU,146,22,100,17,2,40,18,36,155,24,95,14,1,38,21,36,Școala Gimnazială Jabenița,Nr. 311,Jabenița,46.7833,24.7935
+554,28,MUREȘ,VEŢCA,7,0,1,0,61,1,0,5,8,1,1,0,63,1,0,1,Căminul Cultural Jacodu,Nr. 189,Jacodu,46.3272,24.8309
+187,28,MUREȘ,ORAŞ SARMAŞU,6,1,19,2,3,1,4,4,7,2,17,2,3,1,3,3,Școala Primară Larga,Nr. 15,Larga,46.7273,24.1829
+412,28,MUREȘ,GURGHIU,11,1,37,2,3,1,3,6,10,1,37,4,3,1,3,4,Școala Primară Larga,Nr. 33A,Larga,46.8277,24.9099
+532,28,MUREȘ,SUPLAC,90,5,16,7,5,1,19,22,85,3,20,6,7,2,18,22,Școala Gimnazială „Sf.Nicolae” Laslău Mare,Nr. 175,Laslău Mare,46.3838,24.5407
+533,28,MUREȘ,SUPLAC,50,4,11,3,5,1,4,17,59,4,11,5,3,2,5,9,Școala Primară Laslău Mic,,Laslău Mic,46.366,24.5564
+539,28,MUREȘ,ŞINCAI,17,2,13,4,1,3,1,1,18,2,14,5,1,2,1,1,Școala Primară Lechincioara,Nr. F N,Lechincioara,46.665,24.4203
+159,28,MUREȘ,ORAŞ IERNUT,57,8,26,7,1,15,3,7,55,9,27,7,1,15,4,8,Școala Gimnazială Lechința,Nr. 62,Lechința,46.473,24.2263
+328,28,MUREȘ,CRĂIEŞTI,11,1,10,1,2,1,1,6,7,1,13,2,2,1,1,5,Cămin Cultural Lefaia,Nr. 24,Lefaia,46.7469,24.4693
+384,28,MUREȘ,GHEORGHE DOJA,7,5,2,1,134,1,3,5,5,5,1,1,137,1,3,6,Căminul Cultural Leordeni,Nr. 26,Leordeni,46.4697,24.4871
+241,28,MUREȘ,BAHNEA,14,0,13,1,1,3,0,4,14,0,13,1,1,2,2,6,Școala Primară Lepindea,Nr. 192,Lepindea,46.3287,24.474
+434,28,MUREȘ,LIVEZENI,78,75,64,23,396,14,9,28,75,69,66,23,411,16,14,25,Cămin Cultural,Nr. 76A,Livezeni,46.5496,24.635
+439,28,MUREȘ,LUNCA,101,0,25,6,7,2,6,18,103,3,25,5,8,4,9,15,Școala Primară Logig,Nr. 159,Logig,46.8819,24.5706
+163,28,MUREȘ,ORAŞ LUDUŞ,367,24,92,24,4,12,15,34,391,27,91,22,3,11,9,20,Căminul Cultural Gheja-Luduș,Str. Păcii,Luduș,46.4447,24.0608
+164,28,MUREȘ,ORAŞ LUDUŞ,77,1,36,3,191,1,5,13,81,4,33,3,193,1,6,10,Căminul Cultural Roșiori-Luduș,Str. Școlii,Luduș,46.5136,24.0958
+165,28,MUREȘ,ORAŞ LUDUŞ,241,24,111,21,78,22,28,57,272,29,103,20,75,17,29,41,Casa de Cultură „Pompeiu Hărășteanu” - Luduș,Bulevardul 1 Decembrie 1918 (Bulevardul 23 August) nr. 26,Luduș,46.4744,24.0948
+166,28,MUREȘ,ORAŞ LUDUŞ,254,39,92,25,89,18,24,43,279,38,85,16,89,15,26,39,Școala Gimnazială „Ioan Vlăduțiu” - Luduș,Str. Crinului nr. 2,Luduș,46.4743,24.0941
+167,28,MUREȘ,ORAŞ LUDUŞ,264,51,120,20,102,27,20,50,288,46,118,17,109,21,22,38,Școala Gimnazială „Ioan Vlăduțiu” - Luduș,Str. Crinului nr. 2,Luduș,46.4743,24.0941
+168,28,MUREȘ,ORAŞ LUDUŞ,291,28,73,27,73,22,16,35,302,25,74,21,73,20,21,31,Liceul Tehnologic nr. 1 - Luduș,Str. Crinului nr. 2,Luduș,46.4741,24.0928
+169,28,MUREȘ,ORAŞ LUDUŞ,271,39,61,26,89,19,36,56,296,38,68,21,86,18,32,34,Grădinița „Căsuța Fermecată” - Luduș,Str. Rîndunelelor nr. 3 bis,Luduș,46.4703,24.0925
+170,28,MUREȘ,ORAŞ LUDUŞ,290,35,82,25,69,19,29,53,319,33,83,19,64,16,25,35,Grădinița cu Program Normal nr. 02 - Luduș,Str. Crinului nr. 38,Luduș,46.4692,24.0903
+171,28,MUREȘ,ORAŞ LUDUŞ,170,15,47,7,55,18,12,35,190,18,43,12,55,13,12,18,Grădinița cu Program Prelungit nr. 01 - Luduș,Str. Vînătorilor nr. 31,Luduș,46.4819,24.0961
+172,28,MUREȘ,ORAŞ LUDUŞ,135,18,45,8,81,11,5,22,148,18,44,7,82,13,4,15,Școala Gimnazială nr. 1 - Luduș,Str. Republicii nr. 55,Luduș,46.4855,24.0956
+173,28,MUREȘ,ORAŞ LUDUŞ,170,28,54,12,97,16,12,29,191,26,49,11,95,14,17,24,Școala Gimnazială nr. 1 - Luduș,Str. Republicii nr. 55,Luduș,46.4855,24.0956
+535,28,MUREȘ,SUSENI,128,4,87,7,1,3,6,10,137,4,86,8,1,3,6,7,Fosta Școală Generală Luieriu,Nr. 82,Luieriu,46.8458,24.7202
+436,28,MUREȘ,LUNCA,133,3,43,10,1,8,4,18,135,3,49,11,1,5,3,14,Sediul Administrativ al Primăriei,Nr. 228,Lunca,46.8495,24.5751
+441,28,MUREȘ,LUNCA BRADULUI,135,16,39,17,22,7,11,24,141,14,44,15,22,8,11,17,Casa de Cultura Lunca Bradului,Nr. 187,Lunca Bradului,46.9556,25.1119
+230,28,MUREȘ,ALUNIŞ,16,0,5,2,222,2,1,11,20,0,5,3,225,2,1,3,Căminul Cultural Lunca- Mureș - Sala Mică,Nr. 199,Lunca Mureșului,46.8726,24.7871
+468,28,MUREȘ,OGRA,14,1,19,1,2,10,3,6,14,1,19,1,2,10,3,6,Școala Primară Lăscud,Nr. 191,Lăscud,46.3921,24.3538
+374,28,MUREȘ,GĂLEŞTI,1,1,3,0,70,1,0,1,1,1,3,0,72,1,0,0,Școala Primară Maiad,Nr. 41,Maiad,46.5223,24.7147
+491,28,MUREȘ,RUŞII-MUNŢI,64,5,37,3,1,3,1,1,57,4,39,2,1,5,3,3,Căminul Cultural,Nr. 75,Maiorești,46.9074,24.8088
+393,28,MUREȘ,GLODENI,28,1,11,3,4,2,3,11,30,1,11,2,4,3,4,8,Școala Primară Merișor,Nr. 120,Merișor,46.6962,24.5482
+448,28,MUREȘ,MICA,28,3,6,6,85,0,3,7,29,2,6,6,82,1,3,6,Cămin Cultural,Nr. 56,Mica,46.369,24.4146
+174,28,MUREȘ,ORAŞ MIERCUREA NIRAJULUI,5,0,2,2,405,5,2,8,6,1,2,2,411,4,2,5,Căminul Cultural,Piața Bocskai István (Str. Teilor) nr. 45,Miercurea Nirajului,46.5332,24.7991
+175,28,MUREȘ,ORAŞ MIERCUREA NIRAJULUI,6,1,4,3,442,0,3,7,8,2,5,4,438,0,3,4,Școala Gimnazială Deák Farkas,Piața Bocskai István (Str. Teilor) nr. 5,Miercurea Nirajului,46.5349,24.8026
+176,28,MUREȘ,ORAŞ MIERCUREA NIRAJULUI,7,0,6,2,456,2,2,5,8,0,7,3,451,1,2,6,Internatul Școlar,Piața Bocskai István (Str. Teilor) nr. 54,Miercurea Nirajului,46.5342,24.7991
+494,28,MUREȘ,SASCHIZ,32,2,43,5,2,2,3,10,35,2,43,5,2,1,4,8,Cămin Cultural Mihai Viteazu,,Mihai Viteazu,46.1568,25.0274
+454,28,MUREȘ,MIHEŞU DE CÎMPIE,98,3,298,3,12,11,9,26,101,3,309,3,13,14,6,13,Căminul Cultural Miheșu de Cîmpie,Nr. 4,Miheșu de Câmpie,46.6811,24.1534
+327,28,MUREȘ,CRĂIEŞTI,14,1,17,2,1,2,5,8,13,1,17,2,2,3,3,6,Cămin Cultural Milașel,Nr. 46,Milășel,46.7409,24.4498
+394,28,MUREȘ,GLODENI,39,6,14,4,1,6,37,42,43,5,16,5,1,5,38,42,Școala Primară Moișa,Nr. 23,Moișa,46.6853,24.526
+206,28,MUREȘ,ORAŞ UNGHENI,76,7,169,2,9,12,8,25,82,4,173,5,8,12,7,16,Cămin Cultural Morești,Nr. 123,Morești,46.491,24.4396
+492,28,MUREȘ,RUŞII-MUNŢI,138,1,19,8,1,1,5,10,129,1,28,8,3,2,5,11,Fosta Școala Primară,Nr. 30,Morăreni,46.9231,24.8284
+180,28,MUREȘ,ORAŞ MIERCUREA NIRAJULUI,15,1,13,14,43,3,3,5,15,1,13,14,45,1,2,5,Școala Primară,Nr. 124,Moșuni,46.5673,24.7378
+561,28,MUREȘ,VÎNĂTORI,18,4,4,1,58,1,0,5,18,6,4,2,58,1,1,2,Școala Primară Mureni,Nr. 48,Mureni,46.2307,24.992
+213,28,MUREȘ,ACĂŢARI,4,0,1,2,212,2,2,3,5,0,1,3,216,3,2,3,Cămin Cultural Murgești,Nr. 127,Murgești,46.4826,24.6574
+443,28,MUREȘ,MĂDĂRAŞ,23,4,4,3,358,2,1,14,19,2,8,3,367,4,3,7,Sediul Primăriei Comunei Mădăraș,Nr. 357,Mădăraș,46.6071,24.4302
+444,28,MUREȘ,MĂDĂRAŞ,3,2,1,2,137,3,1,6,3,2,1,2,141,2,1,5,Școala Primară cu Clasele I-IV Fânațtele Mădărașului,Nr. 615,Mădăraș,46.6185,24.3903
+445,28,MUREȘ,MĂGHERANI,10,0,3,0,292,2,0,4,10,0,3,1,292,2,0,1,Școala Gimnazială Măgherani,Nr. 363,Măgherani,46.5644,24.9021
+457,28,MUREȘ,NADEŞ,22,1,15,3,2,2,0,0,22,1,13,1,2,1,0,2,Școala Primară Măgheruș,Nr. 114,Măgheruș,46.322,24.6877
+281,28,MUREȘ,BERENI,8,2,2,0,178,1,1,4,8,1,1,1,183,3,3,4,Căminul Cultural Mărculeni,Nr. 15,Mărculeni,46.5955,24.8649
+252,28,MUREȘ,BAND,33,2,11,11,4,3,2,4,30,3,11,10,4,3,2,6,Școala Primară Mărășești,,Mărășești,46.5925,24.3513
+354,28,MUREȘ,EREMITU,9,1,1,2,218,1,1,12,10,2,2,3,224,2,2,5,Școala Gimnazială Mătrici,Nr. 279,Mătrici,46.6526,24.8986
+456,28,MUREȘ,NADEŞ,41,8,126,5,18,28,1,10,47,8,135,6,20,24,1,2,Școala Gimnazială Corpul a Nadeș,Nr. 385,Nadeș,46.3199,24.725
+275,28,MUREȘ,BEICA DE JOS,34,4,17,6,2,3,2,3,32,4,17,7,2,2,4,4,Școala Primară Nadășa,Nr. 20,Nadășa,46.7026,24.8154
+284,28,MUREȘ,BICHIŞ,16,1,5,3,1,3,5,8,17,1,6,2,2,2,5,7,Școala Primară Nandra,Nr. 28,Nandra,46.3829,24.0761
+502,28,MUREȘ,SÎNCRAIU DE MUREŞ,157,39,79,31,43,12,39,64,159,42,72,37,41,17,42,57,Căminul Cultural Nazna,Str. Principală nr. 172,Nazna,46.5349,24.4987
+503,28,MUREȘ,SÎNCRAIU DE MUREŞ,145,27,64,23,8,17,26,67,150,29,64,21,8,23,27,58,Școala Gimnazială Nazna,Str. Principală nr. 149,Nazna,46.5351,24.5
+442,28,MUREȘ,LUNCA BRADULUI,57,2,26,12,2,1,4,8,55,3,27,9,2,1,2,7,Școala Primară Sat Neagra,Nr. 512,Neagra,46.972,25.1451
+460,28,MUREȘ,NEAUA,5,2,2,0,154,5,0,3,5,2,2,1,156,5,0,1,Școala Gimnazială Neaua,Nr. 19,Neaua,46.477,24.8296
+257,28,MUREȘ,BAND,7,1,4,0,24,0,1,2,5,1,5,1,24,0,1,4,Sala Sedinta- Parohia Reformata Negrenii de Campie,,Negrenii de Câmpie,46.632,24.3452
+487,28,MUREȘ,RÎCIU,21,3,4,2,1,4,3,4,21,3,5,2,1,4,3,4,Căminul Cultural Nima Rîciului,Nr. 51,Nima Râciului,46.7017,24.4403
+160,28,MUREȘ,ORAŞ IERNUT,5,2,5,13,1,5,1,2,5,2,5,9,1,6,2,4,Cămin Cultural Oarba de Mureș,Nr. FN.,Oarba de Mureș,46.4631,24.291
+314,28,MUREȘ,COROISÎNMĂRTIN,47,3,12,10,28,26,1,10,48,3,12,10,29,30,3,5,Căminul Cultural Odrihei,Nr. 186,Odrihei,46.4046,24.5643
+465,28,MUREȘ,OGRA,81,8,44,16,125,37,17,36,79,8,58,17,126,37,20,33,Club Cămin Cultural Ogra,Nr. 103/A,Ogra,46.4476,24.3138
+557,28,MUREȘ,VIIŞOARA,25,3,18,10,0,2,1,5,26,4,18,12,0,2,1,1,Căminul Cultural Ormeniș,Nr. 140,Ormeniș,46.3276,24.545
+254,28,MUREȘ,BAND,45,5,15,3,2,1,2,4,47,5,14,4,2,1,2,3,Școala Primară Oroiu,,Oroiu,46.5459,24.3559
+336,28,MUREȘ,CUCI,59,1,5,4,2,1,1,3,61,1,5,4,2,1,1,2,Camin Cultural,,Orosia,46.456,24.1391
+413,28,MUREȘ,GURGHIU,76,8,104,5,1,3,4,13,64,8,112,6,1,4,5,14,Caminul Cultural Orsova,Nr. 34,Orșova,46.7507,24.9074
+285,28,MUREȘ,BICHIŞ,2,4,3,5,149,2,2,5,2,4,2,4,148,2,2,4,Căminul Cultural Ozd,Nr. 111A,Ozd,46.3572,24.1154
+470,28,MUREȘ,PAPIU ILARIAN,35,3,18,20,143,2,13,19,37,4,18,18,148,3,13,17,Camin Cultural,,Papiu Ilarian,46.56,24.2006
+403,28,MUREȘ,GORNEŞTI,37,7,15,13,474,4,1,15,38,7,15,15,482,5,3,8,Camin Cultural Peris,Nr. 274,Periș,46.6948,24.6638
+255,28,MUREȘ,BAND,32,3,13,1,4,1,0,0,33,1,12,2,4,1,0,0,Școala Primară Petea,,Petea,46.51,24.3456
+480,28,MUREȘ,PETELEA,62,3,187,9,1,3,2,17,69,2,190,10,3,3,3,12,Fostul Sediu al Postei Romane,Nr. 728,Petelea,46.7282,24.704
+481,28,MUREȘ,PETELEA,120,17,126,8,6,9,14,38,120,21,133,5,4,10,18,32,Sediul Primariei,Nr. 726,Petelea,46.7291,24.7052
+337,28,MUREȘ,CUCI,89,1,30,10,1,7,3,13,90,0,32,7,2,8,3,12,Cămin Cultural,,Petrilaca,46.4103,24.1446
+399,28,MUREȘ,GORNEŞTI,13,2,2,3,150,2,1,7,15,1,4,3,153,1,2,4,Camin Cultural,Nr. 57,Petrilaca de Mureș,46.6898,24.7486
+348,28,MUREȘ,DEDA,109,9,54,5,1,5,5,15,103,8,62,6,1,4,3,12,Școala Primară Pietrș,Nr. 85,Pietriș,46.9375,24.8449
+458,28,MUREȘ,NADEŞ,2,0,5,3,13,1,0,3,2,0,5,5,15,1,1,2,Căminul Cultural Pipea,Nr. 60,Pipea,46.3252,24.7757
+363,28,MUREȘ,FĂRĂGĂU,56,5,8,21,5,1,3,7,62,3,8,21,7,2,1,2,Cladire Fostul Cap,Nr. 121A,Poarta,46.7357,24.5582
+483,28,MUREȘ,POGĂCEAUA,103,7,83,15,3,3,16,27,99,7,92,13,3,3,19,26,Căminul Cultural Pogăceaua,Nr. 44,Pogăceaua,46.674,24.3133
+433,28,MUREȘ,LIVEZENI,18,6,14,9,20,3,3,9,19,6,15,7,21,1,4,9,Camin Cultural,Nr. 54,Poienița,46.5557,24.6701
+301,28,MUREȘ,CEUAŞU DE CÎMPIE,44,5,16,4,92,5,1,17,48,7,13,6,97,6,3,12,Școala Primară Porumbeni,,Porumbeni,46.6365,24.5457
+540,28,MUREȘ,ŞINCAI,39,1,22,3,1,2,1,3,42,1,23,3,1,1,1,1,Școala Primară Pusta,Nr. F N,Pusta,46.6794,24.3564
+395,28,MUREȘ,GLODENI,1,1,5,1,80,0,2,3,1,1,4,1,79,0,3,5,Școala Primară Păcureni,Nr. 36,Păcureni,46.6621,24.5548
+398,28,MUREȘ,GORNEŞTI,2,1,5,2,209,1,3,4,2,1,4,2,215,1,3,4,Camin Cultural,Nr. 136,Pădureni,46.6394,24.716
+396,28,MUREȘ,GLODENI,3,1,4,3,121,1,1,4,4,1,6,1,121,1,1,3,Școala Primară Păingeni,Nr. 126,Păingeni,46.6818,24.5619
+471,28,MUREȘ,PĂNET,3,2,3,2,539,1,0,5,2,4,3,2,541,1,0,5,Grădinița cu Program Normal Pănet,Nr. 672,Pănet,46.555,24.4691
+472,28,MUREȘ,PĂNET,7,2,2,2,431,1,5,8,9,4,3,1,433,1,4,7,Sediul Primăriei Comunei Pănet,Nr. 191,Pănet,46.56,24.4689
+477,28,MUREȘ,PĂSĂRENI,4,2,1,1,378,1,2,6,4,3,0,1,380,4,2,4,Școala Gimnanzială „Kiss Gergely” Păsăreni,Nr. 293A,Păsăreni,46.4918,24.6929
+380,28,MUREȘ,GĂNEŞTI,15,0,6,2,33,1,5,7,13,0,7,2,35,2,4,6,Școala Primară Păucișoara,Nr. 90,Păucișoara,46.3506,24.3506
+286,28,MUREȘ,BOGATA,18,1,49,1,6,1,3,7,19,1,49,2,4,3,4,7,Școala Primară,Nr. 64,Ranta,46.4996,24.1477
+86,28,MUREȘ,MUNICIPIUL REGHIN,201,63,84,26,133,17,20,59,198,62,90,28,133,18,21,48,Școala Gimnazială „Alexandru Ceușianu”,Piața Petru Maior (Piața V. I. Lenin) nr. 11,Reghin,46.7814,24.6998
+87,28,MUREȘ,MUNICIPIUL REGHIN,193,50,118,28,109,14,16,51,201,48,122,27,113,12,19,44,Clubul Copiilor,Str. Mihail Eminescu nr. 10,Reghin,46.7837,24.7005
+88,28,MUREȘ,MUNICIPIUL REGHIN,185,71,148,35,110,14,13,53,186,0,167,72,111,14,31,64,Liceul Tehnologic „Lucian Blaga”,Str. Vînătorilor nr. 27,Reghin,46.7856,24.7036
+89,28,MUREȘ,MUNICIPIUL REGHIN,114,34,60,28,115,9,19,39,116,38,61,30,115,7,25,34,Liceul Tehnologic „Lucian Blaga”,Str. Vînătorilor nr. 27,Reghin,46.7856,24.7036
+90,28,MUREȘ,MUNICIPIUL REGHIN,186,67,144,21,89,16,25,52,190,61,149,16,93,22,22,45,Liceul Tehnologic „Petru Maior”,Str. Gării nr. 20,Reghin,46.7779,24.7118
+91,28,MUREȘ,MUNICIPIUL REGHIN,171,37,104,29,109,11,14,32,174,40,103,24,112,11,12,28,Liceul Tehnologic „Petru Maior”,Str. Gării nr. 20,Reghin,46.7779,24.7118
+92,28,MUREȘ,MUNICIPIUL REGHIN,172,53,116,23,106,18,17,51,179,50,116,25,107,15,21,44,Liceul Tehnologic „Petru Maior”,Str. Gării nr. 20,Reghin,46.7779,24.7118
+93,28,MUREȘ,MUNICIPIUL REGHIN,177,47,111,33,104,25,22,45,189,50,113,22,104,26,29,40,Liceul Tehnologic „Ioan Bojor”,Str. Rîului nr. 16,Reghin,46.7754,24.708
+94,28,MUREȘ,MUNICIPIUL REGHIN,210,58,122,26,127,13,20,45,218,55,127,25,127,15,19,35,Liceul Tehnologic „Ioan Bojor”,Str. Rîului nr. 16,Reghin,46.7754,24.708
+95,28,MUREȘ,MUNICIPIUL REGHIN,123,15,45,15,52,8,10,24,126,15,42,15,56,12,9,18,Grădinița cu Program Prelungit nr. 4,Str. Salcîmilor nr. 1,Reghin,46.777,24.7238
+96,28,MUREȘ,MUNICIPIUL REGHIN,143,16,54,17,51,9,21,35,144,16,53,14,54,11,19,30,Grădinița cu Program Prelungit nr. 4,Str. Salcîmilor nr. 1,Reghin,46.777,24.7238
+97,28,MUREȘ,MUNICIPIUL REGHIN,194,43,121,26,181,11,26,55,195,39,120,26,189,12,33,52,Căminul Cultural „Iernuțeni”,Str. Iernuțeni nr. 140,Reghin,46.7626,24.7131
+98,28,MUREȘ,MUNICIPIUL REGHIN,248,1,13,22,6,25,1,36,262,1,17,30,11,22,0,10,Școala Gimnazială nr. 4,Str. Castelului nr. 35,Reghin,46.7528,24.6934
+99,28,MUREȘ,MUNICIPIUL REGHIN,102,18,73,10,101,8,10,21,102,17,76,9,101,8,12,22,Școala Gimnazială nr. 4,Str. Castelului nr. 35,Reghin,46.7528,24.6934
+100,28,MUREȘ,MUNICIPIUL REGHIN,245,31,101,23,155,15,23,49,241,34,101,21,156,17,28,45,Grădinița cu Program Prelungit nr. 3,Str. Iernuțeni nr. 26,Reghin,46.7736,24.7006
+101,28,MUREȘ,MUNICIPIUL REGHIN,142,41,63,32,139,10,17,41,148,41,67,34,142,13,16,28,Școala Gimnazială „Florea Bogdan”,Str. Pomilor nr. 20,Reghin,46.7714,24.6995
+102,28,MUREȘ,MUNICIPIUL REGHIN,169,41,94,21,111,14,17,46,180,38,102,16,112,9,18,38,Școala Gimnazială „Florea Bogdan”,Str. Pomilor nr. 20,Reghin,46.7714,24.6995
+103,28,MUREȘ,MUNICIPIUL REGHIN,141,15,54,19,134,19,13,32,144,16,53,20,138,17,13,29,Școala Gimnazială „Florea Bogdan”,Str. Pomilor nr. 20,Reghin,46.7714,24.6995
+104,28,MUREȘ,MUNICIPIUL REGHIN,178,47,120,29,97,9,29,50,185,50,119,32,97,9,26,40,Grădinița cu Program Normal nr. 3,Str. Mihai Viteazu nr. 85,Reghin,46.7747,24.6946
+105,28,MUREȘ,MUNICIPIUL REGHIN,122,43,90,29,68,12,20,36,129,37,99,23,70,16,21,32,Grădinița cu Program Normal nr. 3,Str. Mihai Viteazu nr. 85,Reghin,46.7747,24.6946
+106,28,MUREȘ,MUNICIPIUL REGHIN,128,38,69,24,165,10,21,43,137,40,70,20,163,8,25,41,Casa de Cultură a Tineretului „George Enescu”,Str. Republicii nr. 1,Reghin,46.7793,24.7007
+107,28,MUREȘ,MUNICIPIUL REGHIN,94,27,76,23,129,9,16,43,102,27,78,22,128,7,18,31,Școala Gimnazială „Augustin Maior”,Str. Școlii nr. 3,Reghin,46.7796,24.7026
+108,28,MUREȘ,MUNICIPIUL REGHIN,184,46,100,35,115,19,22,48,182,47,101,35,117,18,25,40,Casa de Cultură Dr. „Eugen Nicoara”,Str. Spitalului (Str. Petru Maior) nr. 11,Reghin,46.7813,24.6976
+464,28,MUREȘ,NEAUA,4,0,2,0,124,1,0,4,3,1,1,0,126,1,2,2,Școala Primară Rigmani,Nr. 90/A,Rigmani,46.5085,24.8367
+214,28,MUREȘ,ACĂŢARI,4,0,2,1,377,2,1,7,7,1,3,2,377,2,0,1,Căminul Cultural Roteni,Nr. 246,Roteni,46.4585,24.6798
+371,28,MUREȘ,FÎNTÎNELE,23,2,5,1,66,1,2,5,24,1,3,1,64,1,2,3,Școala Primară Roua,Nr. 189,Roua,46.3841,24.8247
+490,28,MUREȘ,RUŞII-MUNŢI,336,18,50,49,4,30,26,35,322,16,68,48,4,30,32,42,Căminul Cultural,Nr. 141,Rușii-Munți,46.9166,24.8367
+489,28,MUREȘ,RÎCIU,119,30,172,29,3,18,78,117,134,31,169,24,2,18,79,105,Casa de Cultură Vasile Conțiu Rîciu,Nr. 71,Râciu,46.689,24.3963
+552,28,MUREȘ,VĂTAVA,77,2,135,25,1,5,4,9,77,3,134,23,1,3,7,13,Școala „Mihai Tomsa” Rîpa de Jos,Nr. 166,Râpa de Jos,46.9437,24.7637
+485,28,MUREȘ,RĂSTOLIŢA,175,23,64,41,40,53,36,57,180,24,70,32,43,52,36,52,Căminul Cultural Răstolița,Nr. 54,Răstolița,46.9723,24.9926
+455,28,MUREȘ,MIHEŞU DE CÎMPIE,94,2,32,6,1,3,3,12,95,5,28,5,1,6,3,7,Căminul Cultural Răzoare,Nr. 31,Răzoare,46.689,24.1933
+184,28,MUREȘ,ORAŞ SARMAŞU,136,17,87,13,124,7,16,48,141,16,92,11,124,15,16,32,Sală Sport Sărmașu,Str. Dezrobirii (D) nr. 5 C,Sarmașu,46.7537,24.1565
+185,28,MUREȘ,ORAŞ SARMAŞU,33,8,29,12,152,6,3,17,35,11,29,13,152,7,6,12,Casă Cultură Sărmașu,Str. Republicii (D) nr. 94,Sarmașu,46.7528,24.1617
+186,28,MUREȘ,ORAŞ SARMAŞU,100,7,56,12,77,48,5,45,124,5,68,9,78,51,5,13,Liceul Teoretic „Samuil Micu” - Școala Gimnazială Sărmașu,Str. Școlii (D) nr. 8,Sarmașu,46.7517,24.1642
+493,28,MUREȘ,SASCHIZ,118,23,91,14,3,21,5,20,119,24,99,13,3,21,10,15,Școala Gimnazială „Ion Dacian”,,Saschiz,46.1958,24.9621
+385,28,MUREȘ,GHEORGHE DOJA,12,3,4,0,230,1,1,10,12,5,4,1,236,1,1,3,Școala Primară Satu Nou,Nr. 9,Satu Nou,46.4568,24.5055
+519,28,MUREȘ,SÎNPETRU DE CÎMPIE,15,1,17,4,1,3,0,7,17,1,15,3,1,6,1,3,Fosta Școala Primară Satu -Nou,Nr. 40,Satu Nou,46.7618,24.2656
+342,28,MUREȘ,DANEŞ,51,4,95,3,2,11,0,2,53,3,98,5,1,9,1,2,Școala Gimnazială Seleus-Danes,Nr. 208,Seleuș,46.2429,24.6927
+343,28,MUREȘ,DANEŞ,82,13,111,4,1,5,3,21,88,14,120,6,1,6,6,10,Școala Gimnazială Seleus-Danes,Nr. 209,Seleuș,46.2428,24.6924
+272,28,MUREȘ,BĂLĂUŞERI,42,9,132,7,3,4,4,12,39,9,131,6,3,6,6,12,Școală Gimnazială Senereuș,Nr. 75,Senereuș,46.3334,24.6489
+381,28,MUREȘ,GĂNEŞTI,34,5,17,12,217,3,14,23,39,4,20,14,218,3,11,17,Școala Primară Seuca,Nr. 293,Seuca,46.3294,24.3278
+162,28,MUREȘ,ORAŞ IERNUT,20,19,36,4,3,4,3,9,21,18,34,5,3,8,3,9,Școala Primară Sfîntu Gheorghe,Nr. 42,Sfântu Gheorghe,46.4533,24.2606
+109,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,181,55,111,23,53,18,18,42,181,56,104,24,56,21,24,39,Școala Gimnazială „Octavian Goga”,Str. Ana Ipătescu nr. 14,Sighișoara,46.2128,24.7814
+110,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,103,49,74,26,42,8,20,47,109,54,73,25,39,13,22,35,Liceul Tehnologic nr. 2,Str. Tache Ionescu nr. 18,Sighișoara,46.2146,24.7899
+111,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,90,30,89,11,28,18,15,46,90,32,99,14,28,18,14,30,Liceul Tehnologic nr. 2,Str. Tache Ionescu nr. 18,Sighișoara,46.2146,24.7899
+112,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,141,41,53,9,70,22,23,44,140,44,66,10,70,20,23,30,Școala Gimnazială „Miron Neagu”,Str. Horia Teculescu (Str. Gheorghe Gheorghiu Dej) nr. 2,Sighișoara,46.2203,24.7986
+113,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,127,25,58,21,46,8,18,32,133,22,61,20,44,13,20,24,Școala Gimnazială „Miron Neagu”,Str. Horia Teculescu (Str. Gheorghe Gheorghiu Dej) nr. 2,Sighișoara,46.2203,24.7986
+114,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,77,42,58,10,30,17,5,21,74,48,60,10,29,18,9,18,Liceul Teoretic „Joseph Haltrich”,Str. Bastionului nr. 3,Sighișoara,46.2206,24.7925
+115,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,130,45,83,14,70,28,15,34,135,54,80,12,70,29,13,27,Grădinița cu Program Prelungit nr. 2,Str. Plopilor nr. 19,Sighișoara,46.2253,24.8134
+116,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,117,24,46,22,43,12,9,26,114,23,56,19,45,10,10,27,Școala Gimnazială „Nicolae Iorga”,Str. Dumbravei (Str. Submonument) nr. 28,Sighișoara,46.2265,24.8128
+117,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,117,39,66,15,61,16,12,26,121,38,64,16,64,15,15,27,Școala Gimnazială „Nicolae Iorga”,Str. Dumbravei (Str. Submonument) nr. 28,Sighișoara,46.2265,24.8128
+118,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,138,48,53,12,85,16,14,39,134,53,56,13,88,16,16,31,Școala Gimnazială „Nicolae Iorga”,Str. Dumbravei (Str. Submonument) nr. 28,Sighișoara,46.2265,24.8128
+119,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,89,24,50,15,75,12,11,27,90,24,56,15,74,15,11,20,Școala Gimnazială „Nicolae Iorga”,Str. Dumbravei (Str. Submonument) nr. 28,Sighișoara,46.2265,24.8128
+120,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,94,42,74,14,43,17,8,24,101,38,74,15,45,16,11,21,Școala Gimnazială „Zaharia Boiu”,Str. Crizantemelor nr. 20,Sighișoara,46.2327,24.8214
+121,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,138,38,69,23,75,11,10,26,133,43,71,24,74,14,10,19,Școala Gimnazială „Zaharia Boiu”,Str. Crizantemelor nr. 20,Sighișoara,46.2327,24.8214
+122,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,127,36,61,8,74,17,14,29,122,31,68,11,74,17,17,30,Școala Gimnazială „Zaharia Boiu”,Str. Crizantemelor nr. 20,Sighișoara,46.2327,24.8214
+123,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,109,72,97,20,55,14,13,40,112,77,97,21,56,12,13,31,Școala Gimnazială „Zaharia Boiu”,Str. Crizantemelor nr. 20,Sighișoara,46.2327,24.8214
+124,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,137,52,75,19,57,21,15,37,139,58,80,24,55,17,13,33,Școala Gimnazială „Zaharia Boiu”,Str. Crizantemelor nr. 20,Sighișoara,46.2327,24.8214
+125,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,94,48,50,16,53,14,17,44,90,50,58,19,54,18,17,32,Școala Primară „Dealul Viilor”,Str. Viilor (Str. 7 Noiembrie) nr. 121,Sighișoara,46.2404,24.81
+126,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,155,89,79,20,98,17,14,48,155,85,88,16,98,21,20,43,Școala Gimnazială „Aurel Mosora”,Str. Mitropolit Andrei Șaguna (Str. 6 Martie) nr. 6,Sighișoara,46.2222,24.7973
+127,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,118,58,100,17,71,28,13,53,119,63,109,18,72,31,17,34,Școala Gimnazială „Aurel Mosora”,Str. Mitropolit Andrei Șaguna (Str. 6 Martie) nr. 6,Sighișoara,46.2222,24.7973
+128,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,140,53,78,18,59,28,21,50,132,52,89,18,61,31,25,46,Școala Gimnazială „Radu Popa”,Str. Morii nr. 28,Sighișoara,46.222,24.7921
+129,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,146,67,88,41,49,20,21,44,147,73,91,39,47,22,34,42,Școala Gimnazială „Victor Jinga”,Str. Nouă nr. 6,Sighișoara,46.2218,24.7844
+130,28,MUREȘ,MUNICIPIUL SIGHIŞOARA,88,37,55,15,24,12,12,34,84,38,58,15,26,11,18,38,Școala Gimnazială „Victor Jinga”,Str. Nouă nr. 6,Sighișoara,46.2218,24.7844
+319,28,MUREȘ,COZMA,15,2,16,2,1,0,1,2,15,2,17,1,1,1,1,1,Camin Cultural,Nr. 116,Socolu de Câmpie,46.7905,24.5135
+389,28,MUREȘ,GHINDARI,8,0,3,0,98,0,0,3,9,1,2,2,101,0,0,2,Școală Primară Solocma,Nr. 192,Solocma,46.475,24.9935
+527,28,MUREȘ,SOLOVĂSTRU,222,14,90,13,4,51,13,60,226,19,90,16,5,55,14,46,Școala Gimnazială Solovăstru,Nr. 441,Solovăstru,46.7791,24.7708
+195,28,MUREȘ,ORAŞ SOVATA,26,8,15,4,354,1,3,7,24,10,15,4,357,1,2,6,Școala Gimnazială „S.Illyes Lajos” Sovata,Str. Principală nr. 196/A,Sovata,46.5974,25.0696
+196,28,MUREȘ,ORAŞ SOVATA,24,7,10,7,515,5,3,12,21,10,10,9,510,7,4,13,Școala Gimnazială „S.Illyes Lajos” Sovata,Str. Principală nr. 196/A,Sovata,46.5974,25.0696
+197,28,MUREȘ,ORAŞ SOVATA,42,14,14,7,548,4,3,10,44,13,14,7,546,4,4,10,Primăria Oraș Sovata,Str. Principală nr. 155,Sovata,46.5939,25.0726
+198,28,MUREȘ,ORAŞ SOVATA,27,8,9,6,192,2,6,11,26,8,7,6,195,3,6,10,Biblioteca Orășenească Sovata Băi,Str. Trandafirilor nr. 99,Sovata,46.6012,25.0862
+199,28,MUREȘ,ORAŞ SOVATA,20,2,11,3,500,6,5,14,23,2,10,4,497,5,3,8,Centrul Cultural „Domokos Kzmr” Sovata,Str. Principală nr. 30,Sovata,46.5866,25.065
+200,28,MUREȘ,ORAŞ SOVATA,7,1,3,3,368,1,1,7,10,2,4,4,375,1,1,1,Școala Prrimară Sovata nr. 3,Str. Praidului nr. 46,Sovata,46.5805,25.0653
+215,28,MUREȘ,ACĂŢARI,7,0,3,1,101,4,1,3,6,0,3,2,104,2,1,2,Cămin Cultural Stejeriș,Nr. 93,Stejeriș,46.4789,24.6167
+345,28,MUREȘ,DANEŞ,20,0,23,1,2,2,2,3,21,0,22,1,2,3,3,3,Căminul Cultural Stejărenii,Nr. 151,Stejărenii,46.1536,24.7212
+529,28,MUREȘ,STÎNCENI,197,8,87,55,53,5,15,33,205,7,86,51,56,8,17,25,Cămin Cultural Stînceni,Nr. 37,Stânceni,46.9603,25.2279
+530,28,MUREȘ,SUPLAC,28,1,14,10,125,2,4,17,33,4,13,12,127,2,3,9,Școala Primară Suplac,,Suplac,46.3961,24.5189
+534,28,MUREȘ,SUSENI,86,20,170,8,132,2,5,18,86,18,176,10,127,2,8,20,Școala Gimnazială Suseni,Nr. 451,Suseni,46.8133,24.7305
+216,28,MUREȘ,ACĂŢARI,1,0,1,1,80,2,0,4,1,0,1,2,80,2,0,1,Cămin Cultural Suveica,Nr. 153,Suveica,46.4341,24.7147
+422,28,MUREȘ,HODOŞA,4,0,1,0,257,3,0,6,4,0,2,1,258,3,0,5,Școala Gimnazială „Petreș Klmn” Sîmbriaș,Nr. 105,Sâmbriaș,46.6599,24.8263
+499,28,MUREȘ,SÎNCRAIU DE MUREŞ,140,67,84,21,174,21,16,29,131,63,87,18,174,30,23,33,Căminul Cultural Sîncraiu de Mureș,Str. Principală nr. 188,Sâncraiu de Mureș,46.5463,24.5166
+500,28,MUREȘ,SÎNCRAIU DE MUREŞ,146,57,74,26,216,33,30,52,134,60,82,19,217,37,35,48,Primăria Sîncraiu de Mureș,Str. Principală nr. 179/A,Sâncraiu de Mureș,46.5456,24.5177
+501,28,MUREȘ,SÎNCRAIU DE MUREŞ,170,39,59,18,228,27,23,54,169,37,58,17,228,30,27,58,Fostul Cămin Cultural Sîncraiu de Mureș,Str. Principală nr. 54,Sâncraiu de Mureș,46.5524,24.5313
+520,28,MUREȘ,SÎNPETRU DE CÎMPIE,47,5,36,4,1,4,4,7,43,4,36,3,2,6,4,7,Căminul Cultural Sîngeorgiu de Cîmpie,Nr. 31/B,Sângeorgiu de Câmpie,46.7266,24.2957
+504,28,MUREȘ,SÎNGEORGIU DE MUREŞ,103,42,54,19,190,4,30,56,94,51,61,10,184,9,34,49,Căminul Cultural Sîngeorgiu de Mureș,Str. Tofalău nr. 27,Sângeorgiu de Mureș,46.577,24.6082
+505,28,MUREȘ,SÎNGEORGIU DE MUREŞ,128,61,68,36,240,13,33,64,129,65,65,35,241,15,37,66,Căminul Cultural Sîngeorgiu de Mureș,Str. Tofalău nr. 27,Sângeorgiu de Mureș,46.577,24.6082
+507,28,MUREȘ,SÎNGEORGIU DE MUREŞ,76,42,54,27,363,3,13,22,74,37,55,26,358,5,18,26,Grădinița cu Program Prelungit „Bambi” Sîngeorgiu de Mureș,Str. Petki Dávid (Str. Principală) nr. 111,Sângeorgiu de Mureș,46.5715,24.5965
+508,28,MUREȘ,SÎNGEORGIU DE MUREŞ,68,16,27,10,275,5,9,16,63,16,33,4,281,5,10,16,Școala Gimnazială „Sfântul Gheorghe” Sîngeorgiu de Mureș,Piața Sf.  Gheorghe (Str. Principală) nr. 2,Sângeorgiu de Mureș,46.5752,24.6041
+509,28,MUREȘ,SÎNGEORGIU DE MUREŞ,91,20,31,16,207,4,27,44,93,23,33,16,202,4,29,40,Școala Gimnazială „Sfântul Gheorghe” Sîngeorgiu de Mureș,Piața Sf.  Gheorghe (Str. Principală) nr. 2,Sângeorgiu de Mureș,46.5752,24.6041
+510,28,MUREȘ,SÎNGEORGIU DE MUREŞ,66,25,36,19,290,5,15,31,71,25,31,18,292,8,15,30,Școala Gimnazială „Sfântul Gheorghe” Sîngeorgiu de Mureș,Piața Sf.  Gheorghe (Str. Principală) nr. 2,Sângeorgiu de Mureș,46.5752,24.6041
+189,28,MUREȘ,ORAŞ SÂNGEORGIU DE PĂDURE,69,4,3,7,405,0,3,13,56,6,5,6,412,2,4,16,Caminul Cultural Sângeorgiu de Pădure,Str. Nicolae Bălcescu nr. 13,Sângeorgiu de Pădure,46.4302,24.8408
+190,28,MUREȘ,ORAŞ SÂNGEORGIU DE PĂDURE,79,5,11,4,247,5,1,16,73,3,18,4,258,4,6,14,Caminul Cultural Sângeorgiu de Pădure,Str. Nicolae Bălcescu nr. 13,Sângeorgiu de Pădure,46.4302,24.8408
+191,28,MUREȘ,ORAŞ SÂNGEORGIU DE PĂDURE,86,5,4,3,421,2,2,12,74,3,10,5,437,4,2,7,Liceul Tehnologic Rhedey Claudia Sângeorgiu de Pădure,Piața Rhedey Claudia (Piața Unirii) nr. 2,Sângeorgiu de Pădure,46.4317,24.8379
+497,28,MUREȘ,SÂNGER,138,11,138,10,9,9,5,15,141,9,144,9,8,8,9,17,Grădinița cu Program Normal Sanger,Nr. 105C,Sânger,46.5575,24.1419
+361,28,MUREȘ,ERNEI,21,1,18,1,21,0,2,9,21,1,17,3,23,1,2,2,Căminul Cultural Sîngeru de Pădure,Nr. 114,Sângeru de Pădure,46.6405,24.6655
+435,28,MUREȘ,LIVEZENI,3,4,7,3,57,1,1,2,3,5,7,3,57,0,1,3,Cămin Cultural,Nr. 67B,Sânișor,46.5458,24.6966
+278,28,MUREȘ,BEICA DE JOS,29,6,29,4,2,3,3,10,35,4,31,4,2,1,3,6,Școala Primară Sîinmihai de Pădure,Nr. 30,Sânmihai de Pădure,46.7272,24.8726
+514,28,MUREȘ,SÎNPAUL,50,2,12,4,4,1,12,14,53,1,12,2,4,1,11,13,Căminul Cultural,Nr. 111,Sânmărghita,46.4815,24.3703
+486,28,MUREȘ,RÎCIU,85,5,84,28,4,13,2,16,86,7,90,24,3,12,3,12,Căminul Cultural Sînmartinu de Cîmpie,Nr. 15,Sânmărtinu de Câmpie,46.7272,24.4112
+511,28,MUREȘ,SÎNPAUL,143,5,16,9,241,5,16,29,143,5,17,9,242,2,20,27,Căminul Cultural,Nr. 261,Sânpaul,46.4594,24.3471
+516,28,MUREȘ,SÎNPETRU DE CÎMPIE,64,5,84,10,10,39,6,17,67,4,94,9,10,22,7,14,Căminul Cultural Sînpetru de Cîmpie,Nr. 124/B,Sânpetru de Câmpie,46.7175,24.2594
+463,28,MUREȘ,NEAUA,3,1,2,0,46,2,0,0,3,1,2,0,46,2,0,0,Căminul Cultural Sînsimion,Nr. 67/A,Sânsimion,46.4952,24.833
+522,28,MUREȘ,SÎNTANA DE MUREŞ,145,45,62,24,137,10,35,60,144,47,66,18,138,11,43,59,Școala Gimnazială „Ion Chinezu” Sîntana de Mureș,Str. Suseni nr. 81,Sântana de Mureș,46.5765,24.555
+523,28,MUREȘ,SÎNTANA DE MUREŞ,157,61,96,25,134,14,49,69,154,65,96,14,134,15,61,74,Școala Gimnazială „Ion Chinezu” Sîntana de Mureș,Str. Suseni nr. 81,Sântana de Mureș,46.5765,24.555
+556,28,MUREȘ,VIIŞOARA,33,2,22,4,1,3,1,4,31,2,24,7,1,2,1,2,Căminul Cultural Sîntioana,Nr. 140,Sântioana,46.2853,24.5467
+476,28,MUREȘ,PĂNET,22,5,10,2,460,5,1,8,27,4,11,2,461,2,1,6,Căminul Cultural Sintioana de Mureș,Nr. 395,Sântioana de Mureș,46.514,24.4559
+440,28,MUREȘ,LUNCA,64,8,28,7,1,2,5,13,68,5,27,5,1,6,6,11,Școala Primară Sîntu,Nr. 41,Sântu,46.8022,24.6005
+375,28,MUREȘ,GĂLEŞTI,3,1,2,2,71,2,2,6,2,0,2,1,76,1,3,7,Școala Primară Sânvăsii,Nr. 14,Sânvăsii,46.4993,24.7397
+302,28,MUREȘ,CEUAŞU DE CÎMPIE,18,0,3,3,212,1,2,5,18,1,3,2,214,1,2,4,Căminul Cultural Săbed,,Săbed,46.6643,24.4459
+294,28,MUREȘ,BRÎNCOVENEŞTI,51,3,15,3,4,5,6,18,53,5,16,3,4,5,6,16,Școala Primară,Nr. 128,Săcalu de Pădure,46.8839,24.7109
+194,28,MUREȘ,ORAŞ SOVATA,20,16,5,6,299,2,2,6,22,14,7,6,299,3,2,3,Școala Primară Săcădatu de Jos,Nr. 138,Săcădat,46.6148,25.0655
+360,28,MUREȘ,ERNEI,6,1,1,1,77,2,1,2,6,1,1,1,82,2,1,1,Școala Primară Săcăreni,Nr. 72,Săcăreni,46.5993,24.6946
+161,28,MUREȘ,ORAŞ IERNUT,38,7,44,3,1,5,2,12,40,6,45,2,1,6,2,6,Școala Primară Sălcud,Nr. 170,Sălcud,46.4082,24.1694
+188,28,MUREȘ,ORAŞ SARMAŞU,72,5,58,26,3,4,9,26,70,6,66,24,3,6,12,18,Căminul Cultural Sărmășel,Str. 1 Mai nr. 3,Sărmășel,46.7592,24.1772
+182,28,MUREȘ,ORAŞ SARMAŞU,52,8,52,31,11,6,9,24,55,8,52,32,11,5,10,18,Căminul Cultural Sărmășel Gară,Str. Republicii nr. 5B,Sărmășel-Gară,46.7835,24.2043
+496,28,MUREȘ,SĂRĂŢENI,13,3,8,2,450,2,0,10,15,2,9,2,455,2,0,4,Primăria Comunei Sărățeni,Nr. 75/B,Sărățeni,46.5641,25.0194
+400,28,MUREȘ,GORNEŞTI,84,3,27,4,6,2,3,4,86,2,24,4,6,2,5,5,Școala Primară Teleac,Nr. 19,Teleac,46.6714,24.7954
+386,28,MUREȘ,GHEORGHE DOJA,39,11,49,9,38,12,19,25,36,13,53,11,36,12,18,24,Școală Gimnazială Tirimia,Nr. 182,Tirimia,46.4502,24.4915
+416,28,MUREȘ,HODAC,67,5,39,28,1,3,8,19,67,4,38,28,1,5,8,19,Grădinița cu Program Normal Toaca,Nr. 254,Toaca,46.8046,24.9684
+418,28,MUREȘ,HODAC,106,12,55,56,1,3,13,28,108,14,56,53,1,4,18,24,Caminul Cultural Toaca,Nr. 515,Toaca,46.7928,24.9649
+564,28,MUREȘ,VOIVODENI,76,0,5,3,14,0,2,9,70,1,5,6,16,0,4,6,Căminul Cultural Toldal,Nr. 50,Toldal,46.705,24.5811
+364,28,MUREȘ,FĂRĂGĂU,296,2,15,3,19,10,5,37,343,3,14,2,22,11,4,17,Școala Gimnazială Tonciu,Nr. 136B,Tonciu,46.7807,24.5525
+447,28,MUREȘ,MĂGHERANI,4,0,1,0,86,0,0,2,4,0,1,0,91,0,0,0,Grădinița cu Program Normal Torba,Nr. 73,Torba,46.5473,24.8871
+388,28,MUREȘ,GHINDARI,37,5,4,2,211,1,0,5,36,4,6,2,207,1,0,3,Cămin Cultural Trei Sate,Nr. 479,Trei Sate,46.4763,24.896
+373,28,MUREȘ,GĂLEŞTI,5,2,1,0,193,0,1,4,5,2,1,1,194,0,1,3,Școala Gimnazială Troița,Nr. 176,Troița,46.4893,24.7657
+521,28,MUREȘ,SÎNPETRU DE CÎMPIE,41,5,13,8,3,8,15,26,42,6,12,8,4,8,18,26,Căminul Cultural Tușinu,Nr. 29,Tușinu,46.7331,24.2283
+178,28,MUREȘ,ORAŞ MIERCUREA NIRAJULUI,10,0,2,1,102,1,1,2,10,1,2,3,102,2,1,1,Caminul Cultural,Nr. 89,Tâmpa,46.5315,24.7686
+1,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,110,52,57,32,271,6,29,53,109,50,61,30,272,9,31,48,Casa „Apollo” (Școala de Arte),Piața Trandafirilor nr. 5,Târgu Mureș,46.5462,24.5624
+2,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,123,67,58,37,394,23,37,66,120,74,63,27,394,25,44,64,Universitatea „Petru Maior”,Str. Nicolae Iorga nr. 1,Târgu Mureș,46.5478,24.5684
+3,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,149,76,62,33,484,22,37,67,145,79,60,30,489,20,43,72,Liceul Teoretic „Bolyai Farkas”,Str. Bolyai (Str. Janos Bolyai) nr. 3,Târgu Mureș,46.5435,24.5639
+4,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,117,36,56,15,331,23,39,46,109,34,55,14,333,29,35,44,Internat Liceul Tehnologic „Avram Iancu”,Str. Iuliu Maniu (Str. Colentina) nr. 4,Târgu Mureș,46.5418,24.5566
+5,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,129,72,64,32,352,25,43,68,136,78,64,28,355,15,45,68,Școala Gimnazială „Nicolae Bălcescu”,Str. Ialomiței nr. 3,Târgu Mureș,46.5384,24.5459
+6,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,100,30,42,19,157,8,17,34,100,29,44,19,157,6,20,34,Școala Gimnazială „Nicolae Bălcescu”,Str. Ialomiței nr. 3,Târgu Mureș,46.5384,24.5459
+7,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,146,47,40,23,209,6,33,51,143,42,44,22,208,8,36,53,Școala Gimnazială „Nicolae Bălcescu”,Str. Ialomiței nr. 3,Târgu Mureș,46.5384,24.5459
+8,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,84,48,52,36,311,10,16,35,82,48,60,35,305,9,19,30,Școala Gimnazială „Nicolae Bălcescu”,Str. Ialomiței nr. 3,Târgu Mureș,46.5384,24.5459
+9,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,87,43,44,19,524,20,17,30,93,41,50,18,521,21,16,24,Școala Gimnazială „Nicolae Bălcescu”,Str. Libertății nr. 36 A,Târgu Mureș,46.5432,24.5499
+10,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,78,32,46,25,72,19,15,31,81,33,44,23,71,26,16,27,Liceul Tehnologic „Aurel Perșu”,Pasajul Milcovului nr. 5,Târgu Mureș,46.5402,24.5413
+11,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,135,41,51,32,174,16,22,36,127,42,63,24,171,18,20,35,Liceul Tehnologic „Aurel Perșu”,Pasajul Milcovului nr. 5,Târgu Mureș,46.5402,24.5413
+12,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,90,68,60,22,353,16,36,55,96,68,57,18,356,16,40,55,Primăria Municipiului Tg.Mureș,Piața Victoriei (Piața Eroilor Sovietici) nr. 3,Târgu Mureș,46.5423,24.5573
+13,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,140,55,73,23,339,30,19,55,139,57,68,29,343,34,26,47,Colegiul Agricol „Traian Savulescu”,Str. Călărașilor (Str. Kossuth Lajos) nr. 108,Târgu Mureș,46.5522,24.5539
+14,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,190,94,108,44,163,20,46,69,202,93,107,32,166,22,52,71,Școala Gimnazială „Al.I.Cuza”,Str. Bărăganului nr. 2B,Târgu Mureș,46.5593,24.5462
+15,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,154,78,82,35,271,16,48,74,147,74,82,27,277,26,60,77,Școala Gimnazială „Al.I.Cuza”,Str. Bărăganului nr. 2B,Târgu Mureș,46.5593,24.5462
+16,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,172,66,103,42,211,29,44,76,178,75,103,37,209,25,44,66,Școala Gimnazială „Al.I.Cuza”,Str. Bărăganului nr. 2B,Târgu Mureș,46.5593,24.5462
+17,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,204,94,118,52,149,21,40,72,209,98,121,43,148,26,38,62,Școala Gimnazială „Al.I.Cuza”,Str. Bărăganului nr. 2B,Târgu Mureș,46.5593,24.5462
+18,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,121,48,78,38,238,13,26,45,118,54,87,29,236,14,27,44,Școala Gimnazială „Al.I.Cuza”,Str. Bărăganului nr. 2B,Târgu Mureș,46.5593,24.5462
+19,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,189,102,111,57,221,28,44,67,188,112,117,44,217,28,45,68,Școala Gimnazială „Al.I.Cuza”,Str. Bărăganului nr. 2B,Târgu Mureș,46.5593,24.5462
+20,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,57,14,21,5,104,11,7,19,53,15,27,7,105,14,8,17,Școala Gen. nr. 19 Beșa,Str. Remetea nr. 276,Târgu Mureș,46.5767,24.5096
+21,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,97,68,60,20,321,20,21,40,91,73,56,19,320,19,25,42,Școala Gimnazială „Friederich Schiller”,Aleea Carpați nr. 23,Târgu Mureș,46.5542,24.5559
+22,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,125,51,60,24,314,10,21,40,120,54,62,28,310,15,21,37,Școala Gimnazială „Friederich Schiller”,Aleea Carpați nr. 23,Târgu Mureș,46.5542,24.5559
+23,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,83,49,53,25,454,10,18,30,82,54,49,22,454,10,23,33,Liceul cu Program Sportiv „Szasz Adalbert”,Str. Pavel Chinezu nr. 9A,Târgu Mureș,46.551,24.5607
+24,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,159,112,98,43,362,14,51,86,164,122,96,30,362,14,54,86,Școala Gimnazială „Europa”,Str. Dr. Victor Babeș nr. 11,Târgu Mureș,46.552,24.5714
+25,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,121,60,87,29,200,24,32,65,108,58,94,24,209,30,38,62,Grădinița Progr.Prel.nr. 6,Str. Mărăști (Str. Mihaly Vorosmarthy) nr. 1,Târgu Mureș,46.5503,24.5626
+26,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,121,57,62,35,417,21,29,51,119,62,72,27,425,17,31,44,Liceul Tehnologic „C-Tin Brâncuși”,Str. Dr. Victor Babeș nr. 11,Târgu Mureș,46.5519,24.5713
+27,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,177,57,69,28,337,20,42,60,287,58,70,28,221,23,43,59,Școala Gimnazială nr. 7 Corp A,Aleea Constructorilor nr. 49,Târgu Mureș,46.5561,24.5711
+28,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,105,33,52,17,216,13,13,26,101,36,53,14,211,14,17,31,"Școala Gimnazială nr. 7, Corpul B",Str. Secuilor Martiri nr. 14,Târgu Mureș,46.5583,24.5748
+29,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,105,53,53,25,305,7,15,32,101,57,49,24,306,9,22,36,"Școala Gimnazială nr. 7, Corpul B",Str. Secuilor Martiri nr. 14,Târgu Mureș,46.5583,24.5748
+30,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,177,76,69,29,386,15,63,98,189,75,65,27,382,15,64,91,Liceul Tehnologic „Ion Vlasiu”,Str. Prof.dr. Gheorghe Marinescu nr. 62,Târgu Mureș,46.559,24.5787
+31,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,153,83,125,32,344,17,23,47,150,86,128,27,344,17,24,47,Centrul Cultural „Mihai Eminescu”,Str. Pictor Nicolae Grigorescu nr. 19,Târgu Mureș,46.5523,24.5748
+32,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,114,91,114,35,397,29,40,74,115,94,105,32,399,32,45,73,Colegiul Național „Unirea”,Str. Mihai Viteazu nr. 15-17,Târgu Mureș,46.5477,24.5708
+33,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,162,58,69,26,302,17,26,45,166,57,74,19,304,19,27,40,Liceul Vocațional „M. Eminescu”,Str. Alexandru Papiu Ilarian nr. 37,Târgu Mureș,46.5408,24.5752
+34,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,164,75,93,37,189,13,32,55,160,72,91,36,191,21,35,54,Școala Gimnazială „T.Vladimirescu”,Str. Cutezanței nr. 51,Târgu Mureș,46.5387,24.5867
+35,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,228,80,100,35,212,17,54,76,229,87,93,36,210,17,57,79,Școala Gimnazială „T.Vladimirescu”,Str. Cutezanței nr. 51,Târgu Mureș,46.5387,24.5867
+36,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,202,80,72,40,243,20,35,58,201,79,81,33,244,16,38,60,Școala Gimnazială „T.Vladimirescu”,Str. Cutezanței nr. 51,Târgu Mureș,46.5387,24.5867
+37,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,201,49,67,40,246,16,38,58,196,54,62,42,243,18,45,62,Școala Gimnazială „T.Vladimirescu”,Str. Cutezanței nr. 51,Târgu Mureș,46.5387,24.5867
+38,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,165,70,73,31,233,16,40,53,169,70,77,29,229,14,41,53,Școala Gimnazială „T.Vladimirescu”,Str. Cutezanței nr. 51,Târgu Mureș,46.5387,24.5867
+39,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,219,95,102,46,193,16,38,68,218,100,111,40,194,19,38,57,Liceul Tehnologic Electromureș,Str. Livezeni nr. 5,Târgu Mureș,46.5341,24.5897
+40,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,203,73,90,21,209,22,43,65,197,76,93,17,211,25,49,67,Liceul Tehnologic Electromureș,Str. Livezeni nr. 5,Târgu Mureș,46.5341,24.5897
+41,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,217,59,102,30,269,17,32,54,205,56,108,37,269,16,38,58,Liceul Tehnologic Electromureș,Str. Livezeni nr. 5,Târgu Mureș,46.5341,24.5897
+42,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,223,66,56,21,206,17,35,56,220,66,61,19,210,23,39,51,Liceul Tehnologic Electromureș,Str. Livezeni nr. 5,Târgu Mureș,46.5341,24.5897
+43,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,105,64,85,32,143,11,23,47,112,68,87,20,145,11,24,46,Punct Colectare Taxe și Impozite,Str. Cutezanței nr. 19,Târgu Mureș,46.5361,24.5911
+44,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,221,81,77,28,293,18,44,71,222,82,72,27,297,23,49,70,Școala Gimnazială „Mihai Viteazul”,Str. Muncii nr. 17,Târgu Mureș,46.5351,24.5868
+45,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,218,75,89,42,273,17,41,67,231,75,90,31,271,16,45,67,Școala Gimnazială „Mihai Viteazul”,Str. Muncii nr. 17,Târgu Mureș,46.5351,24.5868
+46,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,169,84,112,20,261,19,35,69,170,85,114,15,259,23,40,64,Școala Gimnazială „Mihai Viteazul”,Str. Muncii nr. 17,Târgu Mureș,46.5351,24.5868
+47,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,168,78,81,39,222,21,39,58,170,75,91,27,220,22,48,63,Școala Gimnazială „Mihai Viteazul”,Str. Muncii nr. 17,Târgu Mureș,46.5351,24.5868
+48,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,192,97,69,29,197,25,46,81,187,103,72,19,197,21,57,93,Școala Gimnazială „Romulus Guga”,Str. Cernavodă nr. 2,Târgu Mureș,46.5319,24.5756
+49,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,199,144,121,56,184,33,24,51,197,141,129,43,186,41,30,55,Școala Gimnazială „Romulus Guga”,Str. Cernavodă nr. 2,Târgu Mureș,46.5319,24.5756
+50,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,158,93,111,49,203,14,46,67,162,99,108,34,204,16,53,73,Școala Gimnazială „Romulus Guga”,Str. Cernavodă nr. 2,Târgu Mureș,46.5319,24.5756
+51,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,190,76,80,33,189,21,33,56,197,69,86,33,190,18,35,52,Școala Gimnazială „Romulus Guga”,Str. Cernavodă nr. 2,Târgu Mureș,46.5319,24.5756
+52,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,200,118,121,40,195,21,43,75,195,117,131,29,200,23,51,77,Grădinița cu Progr.Prel. „Codrișor”,Str. Moldovei nr. 1,Târgu Mureș,46.5352,24.5734
+53,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,96,55,66,32,339,13,40,58,97,64,66,23,341,15,37,50,Școala Gimnazială „G.Coșbuc”,Str. Moldovei nr. 30,Târgu Mureș,46.5351,24.5809
+54,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,118,65,55,27,383,13,29,48,120,74,57,22,379,14,33,44,Școala Gimnazială „G.Coșbuc”,Str. Moldovei nr. 30,Târgu Mureș,46.5351,24.5809
+55,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,144,75,62,26,359,19,32,49,140,78,59,23,354,23,40,57,Școala Gimnazială „Dacia” /B,Str. Tudor Vladimirescu nr. 122,Târgu Mureș,46.5365,24.573
+56,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,148,48,90,44,312,25,48,72,147,53,85,44,317,23,49,68,Școala Gimnazială „Dacia” /B,Str. Tudor Vladimirescu nr. 122,Târgu Mureș,46.5365,24.573
+57,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,153,62,82,18,340,8,27,43,156,62,72,10,344,15,36,48,Centrul Școlar Pentru Educație Incluzivă nr. 1,Bulevardul 1 Decembrie 1918 (Str. Corunca) nr. 32,Târgu Mureș,46.5386,24.5664
+58,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,125,18,32,10,104,6,7,24,131,18,33,9,103,8,7,18,Centrul Școlar Pentru Educație Incluzivă nr. 1,Bulevardul 1 Decembrie 1918 (Str. Corunca) nr. 32,Târgu Mureș,46.5386,24.5664
+59,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,173,94,90,43,228,28,56,85,178,93,96,38,230,30,51,75,Școala Gimnazială „Dacia” /A,Pasajul Panseluțelor nr. 6,Târgu Mureș,46.5366,24.5651
+60,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,144,98,59,41,336,29,53,74,141,96,63,30,338,33,58,80,Școala Gimnazială „Dacia” /A,Pasajul Panseluțelor nr. 6,Târgu Mureș,46.5366,24.5651
+61,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,60,43,41,18,226,5,21,35,62,41,40,16,222,7,28,38,Școala Gimnazială „Dacia” /A,Pasajul Panseluțelor nr. 6,Târgu Mureș,46.5366,24.5651
+62,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,109,57,66,23,371,12,24,38,117,50,66,17,375,15,24,35,Liceul Tehnologic „Avram Iancu”,Bulevardul 1848 nr. 7,Târgu Mureș,46.5365,24.5587
+63,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,154,58,81,22,370,12,21,39,156,63,81,17,371,11,23,38,Liceul Tehnologic „Avram Iancu”,Bulevardul 1848 nr. 7,Târgu Mureș,46.5365,24.5587
+64,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,117,47,46,21,288,24,29,52,123,49,44,17,281,23,28,53,Liceul Tehnologic „Avram Iancu”,Bulevardul 1848 nr. 13-15,Târgu Mureș,46.537,24.5574
+65,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,143,63,51,31,248,16,30,44,152,64,55,21,251,15,29,38,Grădinița Prog.Prel. „Albinuța”,Str. Parângului nr. 23,Târgu Mureș,46.5341,24.5616
+66,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,109,31,40,21,311,13,31,36,114,32,41,20,298,12,32,39,Școala Gimnazială „Liviu Rebreanu”,Str. Șurianu nr. 1,Târgu Mureș,46.5315,24.5591
+67,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,159,54,63,24,313,15,46,59,154,63,63,20,311,13,56,66,Școala Gimnazială „Liviu Rebreanu”,Str. Șurianu nr. 1,Târgu Mureș,46.5315,24.5591
+68,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,129,40,48,14,417,12,37,45,128,38,45,14,419,13,37,47,Școala Gimnazială „Liviu Rebreanu”,Str. Șurianu nr. 1,Târgu Mureș,46.5315,24.5591
+69,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,158,55,53,13,362,6,28,39,155,58,57,13,362,9,28,34,Școala Gimnazială „Liviu Rebreanu”,Str. Șurianu nr. 3,Târgu Mureș,46.5315,24.5591
+70,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,155,44,42,20,417,10,28,47,157,38,42,17,422,14,29,48,Grădinița Prog.Prel. „Licurici”,Str. Lămîiței nr. 18,Târgu Mureș,46.531,24.5549
+71,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,129,43,45,38,344,11,37,55,126,46,46,33,347,18,39,53,Grădinița Prog.Prel. „Licurici”,Str. Lămîiței nr. 18,Târgu Mureș,46.531,24.5549
+72,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,157,53,54,22,368,16,20,41,152,54,49,24,371,19,30,43,Liceul Tehnologic „Gh. Șincai”,Bulevardul 1848 nr. 55,Târgu Mureș,46.5289,24.556
+73,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,192,31,51,17,366,11,32,43,185,36,45,22,366,18,35,43,Liceul Tehnologic „Gh. Șincai”,Bulevardul 1848 nr. 55,Târgu Mureș,46.5289,24.556
+74,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,136,35,42,20,384,22,25,44,134,40,47,18,379,18,31,47,Școala Gimnazială Liviu Rebreanu,Str. Șurianu nr. 3,Târgu Mureș,46.5314,24.5593
+75,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,149,41,58,27,243,18,38,69,153,45,59,28,244,19,37,57,Școala Gimnazială Liviu Rebreanu,Str. Șurianu nr. 3,Târgu Mureș,46.5314,24.5593
+76,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,156,35,31,29,329,12,25,36,152,40,34,23,326,14,30,41,Grădinița cu Prog.Prel. „Rândunica”,Str. Buteanu Ion nr. 18,Târgu Mureș,46.5284,24.5572
+77,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,163,34,31,16,338,12,36,56,160,27,35,19,342,13,42,56,Liceul Tehnologic „Gh. Șincai”,Bulevardul 1848 nr. 55,Târgu Mureș,46.5289,24.556
+78,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,136,43,54,27,398,14,36,57,143,39,54,29,403,13,39,50,Școala Gimnazială „Serafim Duicu”,Str. Budiului nr. 50/A,Târgu Mureș,46.5258,24.5493
+79,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,103,19,59,21,164,5,19,32,99,21,59,15,164,6,21,33,Școala Gimnazială „Serafim Duicu”,Str. Hunedoara nr. 38,Târgu Mureș,46.522,24.5382
+80,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,161,33,51,32,227,13,27,44,163,32,52,35,225,11,28,43,Școala Gimnazială „Serafim Duicu”,Str. Hunedoara nr. 38,Târgu Mureș,46.522,24.5382
+81,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,157,41,74,35,199,14,36,62,159,45,80,29,195,15,41,59,Liceul Tehnologic „Traian Vuia”,Str. Gheorghe Doja nr. 102,Târgu Mureș,46.5261,24.538
+82,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,115,31,55,13,135,18,26,46,116,33,52,17,137,19,22,41,Liceul Tehnologic „Traian Vuia”,Str. Gheorghe Doja nr. 102,Târgu Mureș,46.5261,24.538
+83,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,160,57,76,32,200,18,26,44,164,58,72,29,200,23,25,38,Liceul Tehnologic „Traian Vuia”,Str. Gheorghe Doja nr. 102,Târgu Mureș,46.5261,24.538
+84,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,90,19,53,6,130,8,19,45,96,21,52,5,130,9,19,35,Liceul Tehnologic „Emil Dandea”,Str. Gheorghe Doja nr. 250,Târgu Mureș,46.5184,24.5237
+85,28,MUREȘ,MUNICIPIUL TÎRGU MUREŞ,97,32,33,37,62,11,28,40,99,30,37,26,65,10,28,41,Căminul Cultural,Str. Căminului nr. 13,Târgu Mureș,46.526,24.5189
+132,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,132,26,34,13,42,17,12,26,135,26,35,13,39,19,11,25,Grădinița cu Program Prelungit nr. 4,Str. Republicii nr. 34,Târnăveni,46.3335,24.2873
+133,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,112,3,91,12,6,29,3,18,116,8,98,11,7,33,2,13,Școala Gimnazială nr. 3,Str. 1 Iunie (Str. 11 Iunie) nr. 11-12,Târnăveni,46.3239,24.2634
+134,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,84,8,44,21,12,9,7,22,86,10,46,20,15,10,12,18,Școala Gimnazială nr. 3,Str. 1 Iunie (Str. 11 Iunie) nr. 11-12,Târnăveni,46.3239,24.2634
+135,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,117,23,60,18,91,16,23,38,122,21,66,14,91,20,19,29,Grădinița cu Program Prelungit nr. 1,Str. Avram Iancu (Str. 7 Noiembrie) nr. 12,Târnăveni,46.3284,24.279
+136,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,133,23,66,9,74,11,13,25,136,26,62,7,75,11,15,27,Școala Gimnazială Traian,Str. Republicii nr. 92,Târnăveni,46.3297,24.2812
+137,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,184,20,49,8,46,15,8,21,189,21,45,10,46,12,11,18,Liceul Constantin Brâncuși,Piața Trandafirilor nr. 10,Târnăveni,46.3295,24.2844
+138,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,174,30,74,20,40,15,18,39,174,32,78,26,40,15,16,28,Casa de Cultură Mihai Eminescu,Str. Republicii nr. 32,Târnăveni,46.3343,24.2871
+139,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,131,27,51,13,59,16,14,32,133,30,49,13,61,20,13,24,Colegiul Tehnic,Str. Republicii nr. 30,Târnăveni,46.3336,24.2886
+140,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,102,10,35,12,34,12,14,26,110,8,35,14,38,11,11,17,Școala Gimnazială Avram Iancu,Str. Șoimilor nr. 27,Târnăveni,46.331,24.29
+141,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,112,17,47,13,65,13,21,27,110,13,44,20,63,15,19,27,Școala Gimnazială Avram Iancu,Str. Șoimilor nr. 27,Târnăveni,46.331,24.29
+142,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,169,30,68,18,61,21,19,38,168,30,72,22,59,23,15,30,Liceul Teoretic Andrei Bârseanu,Str. Republicii nr. 15,Târnăveni,46.3332,24.2915
+143,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,164,25,75,26,55,5,20,30,166,23,78,22,54,13,16,25,Liceul Teoretic Andrei Bârseanu,Str. Republicii nr. 15,Târnăveni,46.3332,24.2915
+144,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,146,10,57,5,42,10,5,22,151,12,57,5,41,10,6,15,Grădinița cu Program Normal nr. 6,Str. 1 Decembrie 1918 nr. 46 bl. P1 ap.1,Târnăveni,46.3295,24.31
+145,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,154,18,59,5,46,11,12,23,154,19,63,5,47,10,12,20,Clubul Pensionarilor nr. 2,Str. 1 Decembrie 1918 nr. 46 bl. V10,Târnăveni,46.3285,24.3091
+146,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,175,14,74,15,28,21,16,32,181,17,74,17,28,16,13,25,Centrul Social Victoria,Str. Dr. Victor Babeș nr. 2C,Târnăveni,46.3314,24.2945
+147,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,85,20,52,15,41,13,10,27,83,23,59,10,42,12,10,26,Școala Gimnazială Vasile Moldovan,Str. Fabricii nr. 4,Târnăveni,46.3194,24.295
+148,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,214,18,54,24,6,6,8,21,210,20,58,26,9,6,7,19,Școala Gimnazială Vasile Moldovan,Str. Fabricii nr. 4,Târnăveni,46.3194,24.295
+149,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,123,30,62,18,37,9,22,40,115,32,64,20,37,11,19,36,Școala Gimnazială Vasile Moldovan,Str. Fabricii nr. 4,Târnăveni,46.3194,24.295
+150,28,MUREȘ,MUNICIPIUL TÂRNĂVENI,21,6,28,3,5,6,2,12,19,7,32,3,5,3,4,10,Școala Primară Botorca,Calea Mediașului nr. 8A,Târnăveni,46.2821,24.3
+542,28,MUREȘ,TĂURENI,221,6,37,6,1,8,6,16,228,8,33,5,1,7,10,15,Primăria Tăureni,Nr. 256,Tăureni,46.5798,24.0836
+262,28,MUREȘ,BATOŞ,70,2,16,4,23,1,3,7,70,3,16,5,24,1,3,6,Școala Primară Uila,Nr. 115,Uila,46.9321,24.6169
+488,28,MUREȘ,RÎCIU,58,3,62,10,4,3,5,10,57,5,65,6,4,5,6,11,Școala Gimnazială Ulieș,Nr. 124,Ulieș,46.731,24.3322
+201,28,MUREȘ,ORAŞ UNGHENI,118,14,115,19,26,29,16,28,128,13,110,15,28,26,18,32,Școala Gimnazială „Emil Drăgan” Ungheni,Nr. 107,Ungheni,46.4846,24.4579
+202,28,MUREȘ,ORAŞ UNGHENI,101,21,38,14,42,29,16,27,108,20,45,10,45,20,15,23,Școala Gimnazială „Emil Drăgan” Ungheni,Nr. 107,Ungheni,46.4846,24.4579
+203,28,MUREȘ,ORAŞ UNGHENI,102,12,118,5,23,27,13,26,108,12,120,7,22,18,13,28,Cămin Cultural Ungheni,Nr. 110/B,Ungheni,46.4836,24.4573
+204,28,MUREȘ,ORAŞ UNGHENI,76,5,119,1,31,22,6,20,78,7,118,2,33,24,6,17,Cămin Cultural Ungheni,Nr. 110/B,Ungheni,46.4836,24.4573
+310,28,MUREȘ,CHIHERU DE JOS,39,3,50,11,1,8,2,9,38,2,49,9,1,11,4,9,Școala Primară Urisiu de Jos,Nr. 119,Urisiu de Jos,46.7119,24.8953
+311,28,MUREȘ,CHIHERU DE JOS,64,1,33,3,1,2,19,28,66,3,36,2,2,3,16,24,Caminul Cultural Urisiu de Sus,Nr. 233,Urisiu de Sus,46.7062,24.9067
+548,28,MUREȘ,VĂRGATA,4,1,1,1,65,0,1,7,3,2,2,0,66,0,2,5,Școala Gimnazială Vadu,Nr. 107,Vadu,46.6081,24.7778
+469,28,MUREȘ,OGRA,3,1,11,1,3,1,3,4,3,1,11,1,2,1,5,6,Grădinița cu Program Normal Vaideiu,Nr. 138,Vaideiu,46.4951,24.32
+549,28,MUREȘ,VĂRGATA,4,0,2,1,231,2,0,3,4,1,2,2,238,2,0,0,Școala Primară Valea,Nr. 100,Valea,46.5644,24.7973
+545,28,MUREȘ,VALEA LARGĂ,15,5,60,7,2,4,1,2,16,3,60,8,2,5,1,1,Școala Primară Valea Frăției,Nr. 2,Valea Frăției,46.6379,24.0689
+515,28,MUREȘ,SÎNPAUL,41,5,17,4,437,3,7,16,48,6,22,1,439,4,5,9,Căminul Cultural,Nr. 321,Valea Izvoarelor,46.438,24.3773
+543,28,MUREȘ,VALEA LARGĂ,65,7,145,14,3,18,5,9,66,5,151,13,3,21,4,6,Primăria Comunei Valea Larga,Nr. 248,Valea Largă,46.6201,24.0701
+544,28,MUREȘ,VALEA LARGĂ,55,3,93,13,1,13,3,10,58,4,92,14,1,15,3,12,Căminul Cultural Valea Larga,Nr. 252,Valea Largă,46.6197,24.0691
+258,28,MUREȘ,BAND,39,1,4,3,2,2,4,5,39,1,4,3,3,2,3,4,Școala Primară Valea Mare,,Valea Mare,46.6376,24.298
+251,28,MUREȘ,BAND,20,6,9,1,2,1,1,8,22,9,10,4,3,1,1,3,Școala Primară Valea Rece,,Valea Rece,46.5699,24.3332
+553,28,MUREȘ,VEŢCA,2,0,0,0,144,3,0,3,2,0,0,0,154,3,0,0,Căminul Cultural Vețca,Nr. 53,Vețca,46.3528,24.7888
+209,28,MUREȘ,ORAŞ UNGHENI,91,14,328,12,5,56,10,20,104,12,333,9,5,46,12,16,Școala Primară Vidrasău,Nr. 28,Vidrasău,46.4761,24.4141
+368,28,MUREȘ,FÎNTÎNELE,13,1,3,0,325,1,1,6,11,2,5,1,326,1,2,4,Școala Primară Viforoasa,Nr. 28,Viforoasa,46.4315,24.8017
+555,28,MUREȘ,VIIŞOARA,94,6,22,4,0,3,3,7,94,8,22,5,0,2,2,6,Primăria Viișoara,Nr. 111,Viișoara,46.2905,24.6022
+183,28,MUREȘ,ORAŞ SARMAŞU,86,3,91,2,4,4,0,5,78,4,94,7,4,5,1,6,Căminul Cultural Vișinelu,Str. Plopilor nr. 36,Vișinelu,46.7373,24.1003
+303,28,MUREȘ,CEUAŞU DE CÎMPIE,157,26,115,20,5,12,13,35,171,26,98,16,6,15,21,43,Căminul Cultural Voiniceni,,Voiniceni,46.6135,24.5273
+563,28,MUREȘ,VOIVODENI,231,7,21,3,143,2,7,16,225,9,21,7,148,2,10,12,Școala Gimnazială Voivodeni,Nr. 90,Voivodeni,46.7012,24.6261
+558,28,MUREȘ,VÎNĂTORI,209,13,42,23,74,2,5,25,231,9,48,24,74,4,7,22,Școala Gimnazială „Petre N. Popescu” Vînători,Nr. 231,Vânători,46.2415,24.9233
+461,28,MUREȘ,NEAUA,8,1,2,0,132,1,0,5,9,2,2,1,135,1,1,2,Căminul Cultural Vădaș,Nr. 145,Vădaș,46.4541,24.8198
+484,28,MUREȘ,POGĂCEAUA,70,4,10,5,1,4,12,15,65,7,13,4,1,4,13,18,Căminul Cultural Văleni,Nr. 17,Văleni,46.6613,24.2695
+217,28,MUREȘ,ACĂŢARI,6,3,3,2,227,2,1,5,9,3,3,0,226,2,1,1,Școala Primară Vălenii,Nr. 140,Vălenii,46.448,24.6448
+295,28,MUREȘ,BRÎNCOVENEŞTI,27,0,13,5,367,3,1,4,22,1,12,5,371,4,2,3,Club-Cămin Cultural,Nr. 44,Vălenii de Mureș,46.8914,24.7987
+332,28,MUREȘ,CRISTEŞTI,17,7,4,1,205,2,6,12,17,6,6,1,207,2,8,13,Căminul Cultural,Nr. 47,Vălureni,46.502,24.5356
+546,28,MUREȘ,VĂRGATA,5,1,4,2,228,0,0,7,5,1,3,2,235,0,0,2,Școala Gimnazială Vărgata,Nr. 117,Vărgata,46.5783,24.8011
+550,28,MUREȘ,VĂTAVA,72,9,200,28,2,6,10,24,73,8,200,31,1,9,11,24,Căminul Cultural Vătava,Nr. 215,Vătava,46.9617,24.7621
+565,28,MUREȘ,ZAGĂR,75,6,77,20,4,7,7,29,82,9,78,20,4,8,10,23,Primăria Zagar,Nr. 266,Zagăr,46.3498,24.6135
+566,28,MUREȘ,ZAU DE CÎMPIE,104,7,90,16,17,7,3,13,106,6,95,13,18,9,2,8,Cămin Cultural Zau de Cîmpie,Nr. 1,Zau de Câmpie,46.6158,24.125
+567,28,MUREȘ,ZAU DE CÎMPIE,101,8,134,8,14,20,9,18,101,8,137,8,15,19,8,12,Școala Gimnazială Zau de Cîmpie,Str. Republicii nr. 58,Zau de Câmpie,46.612,24.1285
+233,28,MUREȘ,APOLD,132,5,28,11,3,3,4,9,140,4,31,8,3,5,3,6,Școala Gimnazială Șaeș,Nr. 164,Șaeș,46.1566,24.7683
+179,28,MUREȘ,ORAŞ MIERCUREA NIRAJULUI,23,7,12,4,58,2,3,9,24,9,13,5,57,2,4,7,Școala Gimnazială,Nr. 131,Șardu Nirajului,46.5443,24.7513
+277,28,MUREȘ,BEICA DE JOS,82,4,22,3,1,0,2,14,82,5,26,5,1,0,2,6,Căminul Cultural Șerbeni,Nr. 35,Șerbeni,46.7155,24.8636
+334,28,MUREȘ,CUCERDEA,57,8,44,8,1,39,2,15,61,10,51,6,1,39,4,9,Școala Gimnazială Șeulia de Mureș,Nr. 55,Șeulia de Mureș,46.4162,24.2448
+446,28,MUREȘ,MĂGHERANI,0,0,3,0,178,1,0,3,2,0,2,1,181,1,0,0,Școala Primară Șilea Nirajului,Nr. 266,Șilea Nirajului,46.5975,24.9191
+538,28,MUREȘ,ŞINCAI,74,10,59,40,105,3,5,16,67,8,66,38,111,4,7,15,Consiliul Local Șincai,Nr. 156,Șincai,46.6548,24.3886
+541,28,MUREȘ,ŞINCAI,20,1,45,1,1,1,2,4,20,1,46,1,1,1,2,4,Școala Primară Șincai-Fînațe,Nr. F N,Șincai-Fânațe,46.6543,24.3356
+562,28,MUREȘ,VÎNĂTORI,69,3,24,8,10,2,0,11,75,5,26,9,11,2,0,4,Școala Primară Șoard,Nr. 13,Șoard,46.2625,24.9255
+313,28,MUREȘ,COROISÎNMĂRTIN,38,3,62,6,1,7,4,15,41,3,65,7,1,8,4,11,Școala Primară Șoimuș,Nr. 110,Șoimuș,46.3936,24.5856
+452,28,MUREȘ,MICA,28,4,15,3,2,3,0,3,27,3,15,2,2,3,1,4,Cămin Cultural,Nr. 101,Șomoștelnic,46.3923,24.3852
+536,28,MUREȘ,ŞĂULIA,312,11,56,25,3,21,23,47,336,14,59,18,2,21,23,42,Căminul Cultural Șăulia,Nr. 38A,Șăulia,46.6374,24.2204
+537,28,MUREȘ,ŞĂULIA,95,6,11,2,2,1,5,11,99,5,11,2,2,1,4,8,Clubul Tineretului Șăulia,Nr. 39,Șăulia,46.6376,24.2201
+208,28,MUREȘ,ORAŞ UNGHENI,38,3,79,2,1,9,4,9,42,1,76,2,2,7,5,10,Școala Primară Șăușa,Nr. 114,Șăușa,46.5025,24.3956
+459,28,MUREȘ,NADEŞ,43,9,35,5,2,9,1,7,45,11,36,7,4,7,3,4,Școala Gimnazială Țigmandru,Nr. 65,Țigmandru,46.3551,24.716
+250,28,MUREȘ,BAND,20,2,2,2,9,3,1,3,21,2,3,2,9,2,1,1,Consumcoop Societate Cooperativă,,Țiptelnic,46.5869,24.4093
+223,28,MUREȘ,ALBEŞTI,62,8,18,2,5,11,3,8,59,8,18,3,5,9,3,10,Școala Gimnazială Țopa,Nr. 15,Țopa,46.2543,24.8788

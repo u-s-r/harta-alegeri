@@ -1,0 +1,653 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+217,5,BIHOR,ABRAM,80,7,103,16,47,13,5,7,81,7,101,16,45,12,9,11,Primăria Abram,Nr. 35,Abram,47.3223,22.3787
+224,5,BIHOR,ABRĂMUŢ,37,2,22,2,50,2,3,6,36,2,20,2,52,0,6,8,Școala Generală Abrămuț,Nr. 141,Abrămuț,47.3239,22.2546
+600,5,BIHOR,TARCEA,12,1,10,0,257,3,0,0,12,1,9,1,255,2,0,0,Căminul Cultural,Nr. 325,Adoni,47.4306,22.1776
+506,5,BIHOR,RĂBĂGANI,64,1,39,0,1,6,2,6,66,1,39,1,1,5,4,6,Fosta Școală cu Clasele I-IV Albești,Nr. 160,Albești,46.771,22.2495
+283,5,BIHOR,BUDUSLĂU,4,1,3,1,336,1,1,5,7,2,2,1,329,1,1,1,Școala Generală Albiș,Nr. 57,Albiș,47.3929,22.2502
+179,5,BIHOR,ORAŞ ALEŞD,167,26,206,16,161,19,17,47,164,26,232,15,160,20,18,25,Primăria Aleșd- Sala Mare,Str. Bobâlna (Str. Bobîlna) nr. 3,Aleșd,47.0589,22.3982
+180,5,BIHOR,ORAŞ ALEŞD,153,37,204,18,58,17,16,43,150,29,226,18,61,19,16,25,Liceul Teoretic Constantin Șerban,Str. Bobâlna (Str. Bobîlna) nr. 1 BIS,Aleșd,47.0578,22.3975
+181,5,BIHOR,ORAŞ ALEŞD,151,23,197,11,75,14,8,55,149,21,233,13,73,20,11,24,Colegiul Tehnic Alexandru Roman,Str. Ciocârliei (Str. Ciocîrliei) nr. 4,Aleșd,47.0557,22.3953
+182,5,BIHOR,ORAŞ ALEŞD,122,18,218,15,147,10,23,48,120,14,240,14,152,10,25,31,Grădinița cu Program Normal nr. 1,Str. Teiului nr. 11,Aleșd,47.0609,22.3989
+183,5,BIHOR,ORAŞ ALEŞD,156,2,175,13,8,6,1,21,163,1,186,14,8,5,3,14,Centrul Multifuncțional,Str. Oborului,Aleșd,47.0522,22.4016
+240,5,BIHOR,BALC,148,0,64,6,3,6,3,9,147,0,64,5,2,7,4,9,Căminul Cultural Almașu Mare,Nr. 95,Almașu Mare,47.3288,22.5326
+241,5,BIHOR,BALC,43,3,61,1,1,1,5,10,41,3,63,4,3,0,5,8,Căminul Cultural Almașu Mic,Nr. 136,Almașu Mic,47.3166,22.5089
+563,5,BIHOR,SÎRBI,47,0,10,0,1,1,2,3,45,1,11,0,1,2,2,2,Școala Generală,Nr. 56,Almașu Mic,47.1705,22.1326
+470,5,BIHOR,OŞORHEI,159,14,169,7,3,18,3,6,155,17,167,4,3,20,5,8,Școala Primară nr. 1 Alparea,Nr. 23,Alparea,47.0298,22.0472
+237,5,BIHOR,AVRAM IANCU,30,4,11,2,18,3,1,3,33,4,11,2,16,3,1,3,Căminul Cultural,Nr. 184,Ant,46.6662,21.4637
+458,5,BIHOR,NOJORID,37,3,46,1,2,3,3,15,34,3,49,1,3,5,3,13,"Școala cu Clasele I-IV Apateu, Loc. Apateu nr. 41",,Apateu,46.9685,21.9257
+245,5,BIHOR,BATĂR,23,4,7,4,191,3,2,7,22,5,6,5,191,4,3,7,Școala Gimnazială nr. 4 Arpășel,Nr. 451,Arpășel,46.7397,21.7208
+310,5,BIHOR,CEFA,14,0,86,2,2,0,3,5,13,0,90,0,2,1,3,5,Grădinița,Nr. 1,Ateaș,46.9139,21.6149
+233,5,BIHOR,AUŞEU,108,11,198,4,1,14,4,13,86,9,220,4,2,14,5,13,Primăria Comunei Aușeu,Nr. 32,Aușeu,47.0341,22.4956
+236,5,BIHOR,AVRAM IANCU,404,20,152,12,5,43,18,32,408,28,147,13,6,40,17,22,Sala Sport Școala,Nr. 166,Avram Iancu,46.6676,21.5236
+229,5,BIHOR,AŞTILEU,138,21,224,12,5,15,5,42,133,19,250,14,5,17,6,17,Școala Gimnazială nr. 1 Aștileu,Nr. 45,Aștileu,47.0296,22.3875
+239,5,BIHOR,BALC,100,9,41,4,260,4,3,14,95,11,37,4,269,5,3,10,Căminul Cultural Balc,Str. Petőfi Sándor nr. 16,Balc,47.2992,22.5336
+244,5,BIHOR,BATĂR,223,3,60,9,2,28,7,15,216,2,57,13,3,30,7,16,Școala Gimnazială nr. 1 Batăr,Nr. 18,Batăr,46.7099,21.8039
+144,5,BIHOR,MUNICIPIUL BEIUŞ,243,33,170,25,18,42,19,37,240,31,170,27,20,43,19,39,Primăria Municipiului Beiuș,Piața Samuil Vulcan (Piața 23 August) nr. 14 -16,Beiuș,46.6681,22.3506
+145,5,BIHOR,MUNICIPIUL BEIUŞ,240,51,200,34,39,37,22,51,237,48,207,35,36,39,22,50,Liceul Pedagogic,Parcul Mihail Eminescu (Str. Pionierilor) nr. 4,Beiuș,46.6705,22.3463
+146,5,BIHOR,MUNICIPIUL BEIUŞ,264,25,158,19,37,35,26,47,262,27,159,21,39,28,31,47,Grădinița cu Program Prelungit,Str. Română nr. 4/B,Beiuș,46.6688,22.3513
+147,5,BIHOR,MUNICIPIUL BEIUŞ,222,36,115,17,77,23,18,44,213,34,117,21,78,24,25,49,Colegiul Tehnic „Ioan Ciordaș”,Str. Ioan Ciordaș (Str. Crișului Negru) nr. 5,Beiuș,46.6657,22.3479
+148,5,BIHOR,MUNICIPIUL BEIUŞ,317,70,184,18,50,29,36,58,317,73,184,22,52,23,39,60,Școala Gimnazială „Nicolae Popoviciu”,Calea Bihorului nr. 13,Beiuș,46.667,22.355
+149,5,BIHOR,MUNICIPIUL BEIUŞ,272,34,206,26,56,24,11,26,274,38,199,26,56,23,13,27,Grădinița „Floare de Colț”,Aleea Independenței nr. 8,Beiuș,46.6641,22.3535
+150,5,BIHOR,MUNICIPIUL BEIUŞ,246,37,153,15,22,31,11,23,243,36,153,18,25,30,13,26,Bloc Parter,Str. Traian (Str. Mureșului) nr. 14 B,Beiuș,46.6611,22.3544
+356,5,BIHOR,CURĂŢELE,62,1,150,1,1,3,9,13,60,1,154,1,1,3,11,14,Școala Generală cu Clasele I-IV Beiușele,Nr. 160,Beiușele,46.7183,22.4494
+381,5,BIHOR,DRĂGĂNEŞTI,118,2,27,7,1,9,3,4,108,3,31,7,1,15,4,7,Școala Primară Belejeni,Nr. 104/a,Belejeni,46.6258,22.4254
+628,5,BIHOR,TINCA,15,0,97,6,47,1,2,5,16,0,98,5,48,2,2,3,Școala Primară I-IV,Nr. 216,Belfir,46.7403,21.9459
+541,5,BIHOR,SÂNNICOLAU ROMÂN,69,1,74,4,2,9,2,8,67,1,75,4,2,10,2,7,Școala Generală,Nr. 167,Berechiu,46.9495,21.7306
+551,5,BIHOR,SÎNMARTIN,112,3,94,9,1,3,5,10,112,3,95,7,1,2,4,9,Școala cu Clasele I-IV,Nr. FN,Betfia,46.9744,22.0153
+265,5,BIHOR,BRATCA,235,13,138,18,2,27,9,16,220,14,141,20,2,32,14,22,Școala cu Clasele I-VIII,Nr. 157,Beznea,46.9592,22.6176
+400,5,BIHOR,GEPIU,132,3,40,5,32,4,4,9,136,2,41,5,32,2,3,7,Școala cu Clasele I.-Iv Bicaci,Nr. 140,Bicaci,46.902,21.7865
+248,5,BIHOR,BIHARIA,58,15,40,5,578,9,8,13,60,18,37,5,578,9,9,10,Școala Generală cu Clasele V-VIII Gaspar Andras,Str. Cetății nr. 143,Biharia,47.1557,21.921
+249,5,BIHOR,BIHARIA,42,14,39,4,495,9,5,11,41,12,43,4,492,6,5,9,Grădinița de Copii Biharia,Str. Szent Péter (Str. Gării) nr. 53/A,Biharia,47.1529,21.9196
+646,5,BIHOR,VADU CRIŞULUI,41,5,81,6,1,12,23,28,37,6,94,4,1,8,20,25,Cămin Cultural Birtin,Nr. 17,Birtin,46.9906,22.4965
+500,5,BIHOR,POPEŞTI,100,3,124,1,5,7,5,14,106,5,125,2,5,6,3,8,Școala Generală Bistra,Nr. FN,Bistra,47.254,22.4199
+613,5,BIHOR,TĂUTEU,112,1,29,3,0,4,4,15,120,1,31,4,1,2,3,9,Școala Gimnazială,Nr. 246,Bogei,47.2655,22.3587
+251,5,BIHOR,BOIANU MARE,39,4,38,1,8,98,6,7,37,5,36,1,9,98,7,8,"Școala cu Clasele I- Iv, Boianu-Mare",Nr. 51,Boianu Mare,47.3849,22.5207
+334,5,BIHOR,CIUMEGHIU,75,0,18,1,128,8,8,9,76,0,17,1,130,8,9,12,Grădinița din Satul Boiu,,Boiu,46.6869,21.6101
+253,5,BIHOR,BOROD,476,25,175,15,2,18,5,40,481,27,187,15,2,15,4,19,Cămin Cultural Borod,Nr. 72,Borod,46.9912,22.6148
+254,5,BIHOR,BOROD,210,5,59,2,1,6,2,11,206,7,69,2,1,5,1,4,Școala cu Clasele I-VIII,Nr. 15,Borozel,47.0053,22.5621
+574,5,BIHOR,SUPLACU DE BARCĂU,157,2,187,4,4,6,9,74,162,12,197,6,23,6,13,23,Camin Cultural,Nr. 171/A,Borumlaca,47.2163,22.4778
+590,5,BIHOR,ŞOIMI,40,2,16,1,1,3,0,0,40,3,15,1,1,4,0,0,Fosta Școală cu Clasele I-IV,Nr. 18,Borz,46.6731,22.1827
+260,5,BIHOR,BORŞ,46,5,25,2,536,10,3,6,50,5,24,2,533,12,3,4,Căminul Cultural Borș,Nr. 201,Borș,47.1153,21.8108
+528,5,BIHOR,SĂCĂDAT,57,2,16,0,1,4,2,7,56,2,15,0,1,5,2,8,Fosta Școală cu Clasele I-IV,Nr. 28,Borșa,47.0264,22.1805
+424,5,BIHOR,INEU,148,0,28,2,2,2,2,10,147,0,29,2,2,2,5,11,Școala nr. 1 Botean,Nr. 36,Botean,47.098,22.1456
+264,5,BIHOR,BRATCA,360,12,106,17,3,34,5,11,343,12,112,15,4,45,7,11,Clubul Căminului Cultural,Nr. 115,Bratca,46.9275,22.5998
+441,5,BIHOR,LUNCA,43,2,119,2,2,5,3,9,43,2,121,1,2,6,3,8,Căminul Cultural Briheni,Nr. 37,Briheni,46.4997,22.4026
+270,5,BIHOR,BRUSTURI,297,7,80,1,4,18,8,17,302,5,79,3,4,16,9,13,Căminul Cultural Brusturi,Nr. 190 A,Brusturi,47.1563,22.2409
+288,5,BIHOR,BUNTEŞTI,118,2,118,3,0,111,9,15,119,1,127,3,1,95,10,16,Grădiniță,Nr. 151,Brădet,46.5827,22.5303
+510,5,BIHOR,RĂBĂGANI,38,1,27,1,0,2,1,2,38,1,29,2,0,1,1,1,Fosta Grădiniță cu Program Normal,Nr. 263,Brătești,46.7615,22.1908
+313,5,BIHOR,CEICA,69,2,9,0,0,3,3,5,64,1,10,0,1,4,3,4,Școala Bucium,Nr. 37,Bucium,46.8795,22.1519
+345,5,BIHOR,COPĂCEL,42,4,81,1,0,1,0,7,45,2,80,3,1,2,1,6,Școala Gimnazială nr. 2,Nr. 170,Bucuroaia,46.9323,22.183
+501,5,BIHOR,POPEŞTI,43,1,16,0,3,4,1,89,83,5,34,0,16,8,3,7,Liceul „Josef Kozacek” Budoi,Nr. 191B,Budoi,47.207,22.3531
+276,5,BIHOR,BUDUREASA,208,21,51,22,2,30,20,27,201,21,52,27,1,31,22,33,Căminul Cultural,Nr. 38,Budureasa,46.6778,22.4944
+277,5,BIHOR,BUDUREASA,205,0,9,24,0,3,6,9,201,0,12,26,0,2,4,6,Școala I-IV Budureasa,Nr. 154,Budureasa,46.6701,22.5154
+282,5,BIHOR,BUDUSLĂU,6,1,11,2,314,1,1,5,6,1,9,1,322,1,2,2,Primăria Buduslău,Nr. 82,Buduslău,47.4029,22.2608
+284,5,BIHOR,BULZ,272,23,58,8,1,6,23,32,269,22,62,5,0,6,22,34,Primăria Comunei Bulz,Nr. 127,Bulz,46.9139,22.6736
+287,5,BIHOR,BUNTEŞTI,105,0,148,0,0,33,2,10,100,0,155,0,1,33,2,6,Cămin Cultural,Nr. 158,Buntești,46.6129,22.4711
+278,5,BIHOR,BUDUREASA,98,2,34,10,0,6,6,11,97,1,27,13,0,6,10,15,Căminul Cultural,Nr. 126,Burda,46.6942,22.4796
+562,5,BIHOR,SÎRBI,198,2,82,7,1,7,1,5,200,0,78,7,2,8,2,5,Camin Cultural,Nr. 172,Burzuc,47.1544,22.1703
+451,5,BIHOR,MĂGEŞTI,54,7,66,1,1,8,4,6,48,3,76,3,1,9,2,3,Școala Generală,Nr. 28,Butani,47.0139,22.4378
+552,5,BIHOR,SÎNMARTIN,100,17,155,10,11,9,10,19,108,19,148,10,13,10,11,17,Grădinița Baile Felix,Nr. FN,Băile Felix,46.9872,21.984
+188,5,BIHOR,ORAŞ NUCET,200,10,73,2,9,15,9,12,197,9,79,4,8,14,10,15,Căminul Cultural Băița,Nr. 121,Băița,46.4815,22.5846
+618,5,BIHOR,TILEAGD,82,9,68,4,1,3,4,12,83,9,66,5,1,5,4,9,Școala cu Clasele I-IV,Nr. 295,Bălaia,47.1081,22.1704
+429,5,BIHOR,LAZURI DE BEIUŞ,40,0,54,1,0,6,2,4,38,1,51,1,0,7,3,7,Școala cu Clasele I-IV,Nr. 6,Băleni,46.6085,22.3934
+595,5,BIHOR,ŞUNCUIUŞ,140,3,184,4,0,19,9,13,134,3,191,3,0,19,8,9,Școala cu Clasele I-VIII Balnaca,Nr. 265,Bălnaca,46.9392,22.5778
+596,5,BIHOR,ŞUNCUIUŞ,11,0,16,1,1,2,1,3,10,0,16,1,1,3,1,3,Camin Cultural Sat Balnaca Grosi,Nr. 47,Bălnaca-Groși,46.9174,22.5475
+453,5,BIHOR,MĂGEŞTI,23,4,95,3,51,2,0,3,17,4,113,4,38,2,1,1,Școala Generală,Nr. 55,Cacuciu Nou,47.0276,22.474
+189,5,BIHOR,ORAŞ SĂCUENI,24,2,7,1,264,2,4,11,29,3,8,1,272,1,2,7,Școala Generală,Nr. 298,Cadea,47.31,22.0593
+433,5,BIHOR,LĂZĂRENI,167,1,39,5,2,45,1,5,157,3,38,5,3,47,2,10,Cămin Cultural,Nr. 132/A,Calea Mare,46.9095,22.0663
+250,5,BIHOR,BIHARIA,14,0,10,0,251,1,1,8,17,1,9,2,251,1,1,2,Școala Generală cu Clasele I-IV Cauaceu,Nr. 178,Cauaceu,47.1667,21.942
+309,5,BIHOR,CEFA,228,8,253,5,15,7,5,12,225,12,250,4,18,10,7,14,Centrul de Afaceri,Nr. 83,Cefa,46.9176,21.7116
+312,5,BIHOR,CEICA,221,11,82,6,1,12,6,14,221,15,80,7,1,10,7,15,Primăria Comunei Ceica,Nr. 67,Ceica,46.8579,22.1665
+314,5,BIHOR,CEICA,102,1,25,6,0,4,2,6,100,1,25,7,0,7,2,10,Școala Ceișoara,Nr. 56,Ceișoara,46.8561,22.2026
+538,5,BIHOR,SÂNIOB,42,0,9,1,4,4,1,2,38,1,10,1,6,4,1,3,Școala Generală,Nr. 50,Cenaloș,47.2423,22.1556
+321,5,BIHOR,CETARIU,12,4,14,2,351,0,0,5,15,4,14,2,346,1,0,7,Cămin Cultural,Nr. 340,Cetariu,47.1436,21.9982
+255,5,BIHOR,BOROD,130,2,16,1,1,1,4,5,128,1,21,1,1,2,4,6,Grădinița Cetea,Nr. 12,Cetea,47.0164,22.5762
+323,5,BIHOR,CHERECHIU,10,1,1,1,242,0,3,10,12,1,1,1,245,1,4,6,Școala Gimnazială „Bocskai Istvan”,Nr. 1/B,Cherechiu,47.3812,22.1186
+630,5,BIHOR,TOBOLIU,102,4,170,5,4,22,10,16,91,3,176,7,3,23,13,21,Școala Generală Cheresig,Nr. 315,Cheresig,47.0381,21.689
+471,5,BIHOR,OŞORHEI,76,6,135,4,3,30,5,7,78,4,137,5,4,29,7,8,Școala Primară nr. 2 Cheriu,Nr. 154,Cheriu,47.013,22.0204
+342,5,BIHOR,COCIUBA MARE,54,5,218,13,4,3,5,16,57,5,224,15,3,2,5,14,Căminul Cultural,Nr. 303,Cheșa,46.7508,22.0255
+324,5,BIHOR,CHERECHIU,14,0,11,1,375,0,0,0,13,0,8,1,376,0,1,1,Școala Gimnazială „Bocskai Istvan”,Nr. 82,Cheșereu,47.4278,22.1102
+162,5,BIHOR,MUNICIPIUL MARGHITA,70,0,39,2,169,4,2,9,69,3,37,4,173,5,2,2,Școala cu Clasele I-VIII Cheț,Nr. 240,Cheț,47.4183,22.3395
+346,5,BIHOR,COPĂCEL,64,0,69,11,1,4,1,5,67,0,70,9,2,4,1,3,Cămin Cultural,Nr. 36,Chijic,46.9944,22.1543
+564,5,BIHOR,SÎRBI,38,1,16,3,1,3,3,7,37,0,15,2,1,4,4,9,Școala Generală,Nr. 157,Chioag,47.1775,22.1507
+327,5,BIHOR,CHIŞLAZ,77,1,68,1,3,13,4,16,80,1,65,1,5,12,4,15,Școala Primară Chiraleu,Nr. 128,Chiraleu,47.3061,22.2989
+614,5,BIHOR,TĂUTEU,97,9,52,5,3,11,4,15,96,9,52,5,7,12,4,13,Școala Gimnazială,Nr. 66,Chiribiș,47.3109,22.3395
+228,5,BIHOR,AŞTILEU,79,9,120,5,2,9,8,12,83,9,123,4,1,6,7,11,Cămin Cultural,Nr. 40,Chistag,47.0465,22.3561
+480,5,BIHOR,PIETROASA,131,5,40,9,2,23,11,16,132,5,42,9,2,21,11,16,Școala Gimazială nr. 2 Chișcău,Nr. 66/A,Chișcău,46.5591,22.5529
+459,5,BIHOR,NOJORID,58,2,35,1,1,1,2,2,58,2,33,2,1,1,2,3,"Școala cu Cl. I-IV Chișirid, Loc Chișirid nr. 168",,Chișirid,46.9695,21.89
+326,5,BIHOR,CHIŞLAZ,37,6,16,15,1,7,8,21,41,4,19,11,1,8,9,20,Școala Gimnazială Chișlaz,Nr. 33,Chișlaz,47.2775,22.2347
+553,5,BIHOR,SÎNMARTIN,317,25,187,14,3,17,6,21,311,27,193,15,3,16,5,14,Școala Generală cu Clasele I-IV,Nr. FN,Cihei,47.0032,21.9487
+198,5,BIHOR,ORAŞ SĂCUENI,23,0,5,1,334,2,1,5,25,1,7,2,338,1,0,2,Clubul Tineretului,Nr. 72,Ciocaia,47.3379,22.0456
+537,5,BIHOR,SÂNIOB,15,1,23,4,6,4,4,12,16,3,24,2,6,5,4,13,Școala Generală,Nr. 206,Ciuhoi,47.2385,22.1243
+569,5,BIHOR,SPINUŞ,35,1,47,4,1,5,7,11,37,1,50,4,1,5,6,9,Fosta Școala cu Clasele I-IV Ciulești,Nr. 118A,Ciulești,47.2196,22.1911
+333,5,BIHOR,CIUMEGHIU,135,6,193,3,9,15,5,12,132,7,195,3,7,16,6,11,Primăria Comunei Ciumeghiu,Nr. 9,Ciumeghiu,46.7357,21.5786
+610,5,BIHOR,TĂUTEU,129,5,54,3,10,5,6,20,131,5,55,4,11,9,4,12,Camin Cultural,Nr. 3,Ciutelec,47.2602,22.3872
+341,5,BIHOR,COCIUBA MARE,135,4,277,31,1,18,13,17,132,4,277,31,1,19,15,17,Căminul Cultural,Nr. 205,Cociuba Mare,46.74,21.9989
+479,5,BIHOR,PIETROASA,71,0,23,5,1,9,5,10,66,0,25,6,1,10,7,11,Școala Primară nr. 2 Cociuba Mică,Nr. 67/A,Cociuba Mică,46.5976,22.5344
+589,5,BIHOR,ŞOIMI,38,0,18,2,3,4,0,2,39,0,19,1,0,5,1,2,Fosta Școală cu Clasele I- Iv,Nr. 70,Codru,46.6414,22.141
+213,5,BIHOR,ORAŞ VAŞCĂU,48,2,18,3,0,6,4,5,45,2,17,4,0,7,4,4,Căminul Cultural,Nr. 43,Colești,46.4788,22.4246
+348,5,BIHOR,COPĂCEL,86,3,30,66,0,6,8,16,85,3,31,69,1,6,6,12,Grădiniță cu Program Normal nr. 3,Nr. 175,Copăcel,46.9833,22.166
+544,5,BIHOR,SÎMBĂTA,42,0,18,0,5,5,1,5,40,1,17,0,6,5,1,6,Caminul Cultural,Nr. 7,Copăceni,46.7723,22.1882
+315,5,BIHOR,CEICA,80,0,29,2,0,5,2,8,80,0,26,2,1,6,4,9,Școala Corbești,Nr. 57,Corbești,46.8864,22.2347
+556,5,BIHOR,SÎNMARTIN,351,31,101,12,3,12,10,20,354,31,106,11,5,7,12,20,Școala Generală cu Clasele I-VIII,Nr. FN,Cordău,46.9649,21.9752
+377,5,BIHOR,DOBREŞTI,53,0,16,3,0,3,3,6,51,0,18,2,0,4,3,6,Căminul Cultural Cornișești,Nr. 54A,Cornișești,46.8284,22.2339
+256,5,BIHOR,BOROD,180,6,29,0,1,2,7,11,173,6,32,0,1,4,11,17,Școala cu Clasele I-IV,Nr. 144,Cornițel,46.9837,22.6445
+316,5,BIHOR,CEICA,63,1,41,0,1,7,2,5,67,1,41,0,1,7,2,7,Școala Cotiglet,Nr. 39,Cotiglet,46.8892,22.2
+488,5,BIHOR,POMEZEU,121,5,48,1,1,4,7,12,117,4,49,1,1,7,8,11,Cămin Cultural Coșdeni,Nr. 61A,Coșdeni,46.771,22.2861
+225,5,BIHOR,ABRĂMUŢ,16,2,10,1,93,3,2,10,15,2,9,1,104,4,2,5,Căminul Cultural Crestur,Nr. 99,Crestur,47.3477,22.2371
+357,5,BIHOR,CURĂŢELE,91,4,99,5,0,6,7,12,90,7,98,6,0,6,8,12,Școala Generală cu Clasele I-IV Cresuia,Nr. 102/A,Cresuia,46.7076,22.4821
+351,5,BIHOR,CRIŞTIORU DE JOS,61,2,85,1,1,3,10,14,58,1,88,1,1,2,11,14,Căminul Cultural,Nr. 98,Criștioru de Jos,46.4218,22.5333
+352,5,BIHOR,CRIŞTIORU DE JOS,17,0,9,1,1,1,0,3,16,0,10,1,1,1,0,3,Căminul Cultural,Nr. 50,Criștioru de Sus,46.4125,22.5716
+376,5,BIHOR,DOBREŞTI,83,4,20,8,1,13,2,7,89,5,16,6,0,13,3,9,Căminul Cultural Crincești,Nr. 160A,Crâncești,46.8184,22.253
+190,5,BIHOR,ORAŞ SĂCUENI,17,0,6,0,264,2,0,3,19,0,6,0,270,3,0,1,Școala Generală,Nr. 169,Cubulcut,47.3243,22.1828
+271,5,BIHOR,BRUSTURI,107,6,22,2,1,5,4,15,112,6,23,1,1,8,6,10,Școala Cuieșd,Nr. 179,Cuieșd,47.1108,22.2915
+359,5,BIHOR,CURTUIŞENI,75,0,13,2,265,0,1,5,80,0,14,2,261,0,1,2,Școala Generală cu Clasele I-VIII nr. 542,Nr. 542,Curtuișeni,47.5424,22.2056
+360,5,BIHOR,CURTUIŞENI,110,0,23,1,281,0,1,6,113,0,23,1,274,1,0,3,Primăria Curtuișeni,Nr. 13,Curtuișeni,47.5401,22.2052
+355,5,BIHOR,CURĂŢELE,133,8,123,4,0,6,8,19,129,8,128,4,0,5,9,20,Școala Gimnazială nr. 1 Curățele,Nr. 1,Curățele,46.7013,22.4271
+428,5,BIHOR,LAZURI DE BEIUŞ,78,5,69,3,1,6,4,13,72,7,80,2,2,6,1,6,Școala cu Clasele I-IV,Nr. 201,Cusuiuș,46.5813,22.4158
+502,5,BIHOR,POPEŞTI,158,6,84,1,4,3,6,23,157,5,92,2,4,3,7,17,Școala Generală Cuzap,Nr. FN,Cuzap,47.2,22.4135
+212,5,BIHOR,ORAŞ VAŞCĂU,40,1,43,1,1,7,4,7,41,2,44,1,1,6,5,6,Căminul Cultural,Nr. 63,Câmp,46.4672,22.4428
+216,5,BIHOR,ORAŞ VAŞCĂU,16,0,10,1,1,2,2,5,12,1,8,1,1,2,2,8,Școala Generală,Nr. 20 A,Câmp-Moți,46.4606,22.4125
+336,5,BIHOR,CÎMPANI,135,6,240,6,0,14,5,8,134,6,235,9,0,17,5,8,Căminul Cultural Cîmpani,Nr. 4,Câmpani,46.5117,22.5239
+495,5,BIHOR,POMEZEU,55,6,54,0,0,2,7,10,50,7,54,1,0,5,9,10,Școala Primară nr. 2 Cîmpani,Nr. 102,Câmpani de Pomezeu,46.7956,22.3101
+296,5,BIHOR,CĂBEŞTI,157,7,153,5,1,35,4,15,164,6,151,7,2,33,7,13,Căminul Cultural,Nr. 11,Căbești,46.7662,22.3667
+465,5,BIHOR,OLCEA,128,5,133,6,2,19,6,9,122,7,135,4,2,20,6,10,Școala Gimnazială nr. 2 Călacea,Nr. 105,Călacea,46.6753,21.9277
+306,5,BIHOR,CĂRPINET,141,1,44,6,1,23,21,29,144,1,54,2,1,16,16,22,Școala Gimnazială nr. 1 Călugări,Nr. 116,Călugări,46.423,22.4772
+617,5,BIHOR,TILEAGD,35,1,9,4,1,2,1,3,33,1,10,4,1,2,1,3,Școala cu Clasele I-IV,Nr. 3,Călătani,47.0474,22.1954
+230,5,BIHOR,AŞTILEU,63,0,75,7,1,7,5,7,59,0,78,5,1,8,8,11,Școala Gimnazială nr. 2 Călățea,Nr. 144,Călățea,46.987,22.4078
+231,5,BIHOR,AŞTILEU,37,0,69,1,0,1,1,2,38,0,69,1,0,1,1,2,Bloc Cornet,Nr. 253B,Călățea,46.9538,22.4011
+300,5,BIHOR,CĂPÎLNA,144,2,24,3,2,13,6,9,145,2,21,4,3,13,7,9,Primăria Căpîlna,Nr. 115,Căpâlna,46.7354,22.102
+305,5,BIHOR,CĂRPINET,169,7,57,2,2,14,5,15,163,8,63,2,2,11,3,12,Cămin Cultural Cărpinet,Nr. 79,Cărpinet,46.4544,22.4939
+431,5,BIHOR,LĂZĂRENI,71,11,25,11,1,5,1,5,71,12,25,11,1,5,1,4,Școala Primară,Nr. 113,Cărăndeni,46.8561,22.0797
+432,5,BIHOR,LĂZĂRENI,21,2,12,1,2,11,1,6,23,3,12,1,2,12,0,2,Cămin Cultural Cărănzel,Nr. 71,Cărănzel,46.8303,22.0391
+343,5,BIHOR,COCIUBA MARE,72,3,179,6,1,5,1,5,72,4,177,7,1,5,2,5,Căminul Cultural,Nr. 154,Cărăsău,46.7088,22.0535
+633,5,BIHOR,TULCA,57,3,94,2,2,4,5,12,58,3,99,4,2,3,4,8,Căminul Cultural Căuașd,Nr. 113,Căuașd,46.7907,21.8183
+266,5,BIHOR,BRATCA,179,2,48,9,0,4,5,10,174,3,51,9,1,7,3,5,Căminul Cultural,Nr. 242,Damiș,46.8664,22.5493
+151,5,BIHOR,MUNICIPIUL BEIUŞ,82,4,44,4,2,6,4,8,84,4,38,6,2,8,2,6,Căminul Cultural,Nr. 86 / a,Delani,46.693,22.3388
+362,5,BIHOR,DERNA,109,2,70,1,17,14,2,45,127,3,86,2,19,16,1,4,Primăria Derna,Nr. 216,Derna,47.2007,22.3149
+363,5,BIHOR,DERNA,62,6,49,2,2,29,3,8,60,5,51,3,2,31,3,7,Școala Gimnazială nr. 2,Nr. 175,Dernișoara,47.2205,22.2539
+391,5,BIHOR,DRĂGEŞTI,33,0,94,0,1,1,2,5,32,0,94,0,0,1,3,7,Căminul Cultural,Nr. 21,Dicănești,46.8967,22.0981
+218,5,BIHOR,ABRAM,17,0,66,1,2,5,6,9,14,0,65,0,3,5,7,9,Cămin Cultural,Nr. 49,Dijir,47.3483,22.4629
+367,5,BIHOR,DIOSIG,55,4,13,3,298,7,5,6,52,5,15,3,294,6,6,8,Primăria Comunei Diosig,Str. Livezilor nr. 32,Diosig,47.3013,22.0005
+368,5,BIHOR,DIOSIG,36,1,15,1,291,2,3,7,33,1,16,2,292,2,4,7,Școala Gimnazială nr. 1 Diosig,Str. Livezilor nr. 134,Diosig,47.3038,21.9954
+369,5,BIHOR,DIOSIG,33,3,10,3,343,5,2,6,33,2,9,2,345,6,3,6,Școala Gimnazială nr. 1 Diosig,Str. Argeșului nr. 14,Diosig,47.3015,21.9956
+370,5,BIHOR,DIOSIG,204,4,109,10,60,5,8,15,198,6,107,12,60,6,9,15,Școala Gimnazială nr. 1 Diosig,Str. Horea nr. 116,Diosig,47.3137,21.9857
+371,5,BIHOR,DIOSIG,220,3,8,4,108,1,3,54,235,3,10,3,129,1,7,13,Școala Gimnazială nr. 1 Diosig,Str. Mihai Viteazu nr. 113,Diosig,47.3048,22.0168
+372,5,BIHOR,DIOSIG,5,1,4,2,71,3,3,3,6,1,4,2,70,5,1,1,Școala Gimnazială nr. 1 Diosig,Str. Mărășești nr. 15,Diosig,47.2844,21.9892
+373,5,BIHOR,DOBREŞTI,389,5,64,63,4,22,13,28,397,4,61,59,4,28,10,24,Căminul Cultural Dobrești,Nr. 325A,Dobrești,46.8446,22.2772
+456,5,BIHOR,MĂGEŞTI,99,7,108,7,1,11,8,12,86,6,125,6,1,11,8,11,Cămin Cultural,Nr. 98/A,Dobricionești,46.9946,22.4764
+575,5,BIHOR,SUPLACU DE BARCĂU,5,0,2,0,74,1,1,1,5,0,3,0,73,0,1,2,Școala Primară nr. 2,Nr. 16,Dolea,47.2751,22.4856
+390,5,BIHOR,DRĂGEŞTI,52,0,64,1,0,1,3,6,49,0,65,1,0,2,3,8,Primăria Drăgești,Nr. 64,Drăgești,46.8979,22.1278
+513,5,BIHOR,REMETEA,162,1,45,5,1,0,7,11,160,3,45,4,1,2,8,9,Școala Primară nr. 2,Nr. 79/C,Drăgoteni,46.7317,22.3071
+380,5,BIHOR,DRĂGĂNEŞTI,142,4,46,4,1,11,12,14,128,3,56,7,2,13,13,15,Primăria Draganesti,Nr. 37,Drăgănești,46.6292,22.392
+410,5,BIHOR,HOLOD,111,1,34,0,1,60,1,6,114,1,32,0,1,62,2,6,Cămin Cultural,Nr. 199/A,Dumbrava,46.7853,22.0692
+289,5,BIHOR,BUNTEŞTI,26,1,50,0,0,40,3,8,29,1,62,0,0,24,2,7,Cămin Cultural,Nr. 39,Dumbrăvani,46.5859,22.5005
+411,5,BIHOR,HOLOD,67,0,12,0,1,4,2,5,61,3,9,0,1,6,2,4,Cămin Cultural,Nr. 91,Dumbrăvița,46.7949,22.1573
+592,5,BIHOR,ŞOIMI,72,0,24,17,1,1,4,8,71,0,29,16,1,2,3,5,Fosta Școală cu Clasele I-IV,Nr. 200,Dumbrăvița de Codru,46.6553,22.1623
+317,5,BIHOR,CEICA,88,4,46,10,0,17,6,11,88,4,48,7,0,19,8,11,Cămin Cultural Dușești,Nr. 86,Dușești,46.8351,22.1783
+565,5,BIHOR,SÎRBI,65,7,28,4,2,4,2,34,75,7,34,8,7,4,2,9,Școala Generală,Nr. 35,Fegernic,47.2036,22.1293
+472,5,BIHOR,OŞORHEI,75,0,66,0,1,5,2,5,75,1,64,1,1,5,2,4,Cămin Cultural Felcheriu,Nr. 48,Felcheriu,46.9958,22.0777
+485,5,BIHOR,POCOLA,146,3,35,4,0,9,1,5,145,6,35,4,0,8,1,4,Caminul Cultural Feneriș,Nr. 123,Feneriș,46.7112,22.2869
+290,5,BIHOR,BUNTEŞTI,46,1,48,1,0,5,2,4,41,1,56,0,0,5,2,3,Școala Gimnazială Ferice,Nr. 27,Ferice,46.6365,22.5237
+395,5,BIHOR,FINIŞ,276,5,47,3,295,16,5,18,277,4,47,3,294,18,6,17,Primăria Finiș,Nr. 263,Finiș,46.6544,22.3164
+396,5,BIHOR,FINIŞ,68,0,22,4,1,4,0,2,72,1,17,2,1,6,0,2,Grădinița Fiziș,Nr. 32,Fiziș,46.6548,22.2819
+576,5,BIHOR,SUPLACU DE BARCĂU,14,1,27,1,2,0,2,40,28,2,39,1,12,0,1,3,Școala Primară nr. 5,Nr. 14,Foglaș,47.2434,22.4737
+418,5,BIHOR,HUSASĂU DE TINCA,59,0,8,1,1,1,4,8,59,0,8,2,1,1,4,7,Școala cu Clasele I-IV Fonău,Nr. 139/A,Fonău,46.8174,21.9715
+412,5,BIHOR,HOLOD,38,3,14,1,1,15,1,7,33,3,14,2,1,16,1,6,Cămin Cultural,Nr. 119,Forosig,46.819,22.1049
+638,5,BIHOR,UILEACU DE BEIUŞ,220,2,53,10,2,5,11,21,216,2,56,12,2,6,8,20,Școala Primară nr. 1,Nr. 1,Forău,46.7109,22.2009
+473,5,BIHOR,OŞORHEI,61,7,136,5,131,6,6,10,60,7,138,7,131,5,6,13,Cămin Cultural Fughiu,Nr. 77,Fughiu,47.0569,22.0445
+337,5,BIHOR,CÎMPANI,157,7,172,2,1,8,3,6,158,9,171,1,0,7,6,8,Școala Primară Fînațe,Nr. 203,Fânațe,46.5029,22.5395
+651,5,BIHOR,VÎRCIOROG,40,1,150,1,0,0,6,14,38,1,155,1,0,2,7,12,Școala Gimnazială nr. 2,Nr. 96,Fâșca,46.9882,22.3268
+226,5,BIHOR,ABRĂMUŢ,49,1,30,4,4,2,4,7,51,1,30,5,3,1,5,5,Școala Generală Făncica,Nr. 121,Făncica,47.3228,22.2373
+601,5,BIHOR,TARCEA,19,0,8,3,211,0,3,9,19,0,6,3,212,2,4,7,Casa Roth,Nr. 538,Galoșpetreu,47.4826,22.2151
+399,5,BIHOR,GEPIU,534,15,133,14,6,9,9,23,527,17,138,13,6,8,9,21,Școala cu Clasele I.-VIII Gepiu,Nr. 215,Gepiu,46.9284,21.7858
+434,5,BIHOR,LĂZĂRENI,211,0,25,2,1,2,9,17,214,1,27,3,1,3,7,11,Cămin Cultural,Nr. 168,Gepiș,46.8455,22.0187
+163,5,BIHOR,MUNICIPIUL MARGHITA,73,4,41,1,3,3,15,22,74,2,37,1,5,6,18,25,Școala cu Clasele I-VIII Ghenetea,Nr. 129,Ghenetea,47.3888,22.395
+243,5,BIHOR,BALC,24,0,8,1,2,1,3,6,24,0,7,1,3,1,4,8,Căminul Cultural Ghida,Nr. 94,Ghida,47.3107,22.4511
+517,5,BIHOR,RIENI,189,6,91,3,2,67,2,4,191,6,91,1,4,68,2,3,Cămin Cultural Ghighișeni,Nr. 63A,Ghighișeni,46.5529,22.4291
+335,5,BIHOR,CIUMEGHIU,161,4,69,1,147,11,2,12,155,5,72,2,149,12,3,10,Școala Generală Ghiorac,Nr. 493,Ghiorac,46.7154,21.6801
+302,5,BIHOR,CĂPÎLNA,24,3,7,0,83,0,1,3,29,2,7,0,80,1,3,3,Școala Generală,Nr. 155,Ginta,46.7537,22.0863
+626,5,BIHOR,TINCA,131,5,51,8,4,3,6,12,126,3,51,5,4,5,6,17,Școala Primară I-IV,Nr. 84,Girișu Negru,46.7262,21.9085
+401,5,BIHOR,GIRIŞU DE CRIŞ,161,13,165,4,13,41,4,19,160,18,171,4,14,37,5,16,Primăria Girișu de Criș,Nr. 235,Girișu de Criș,47.069,21.7638
+481,5,BIHOR,PIETROASA,26,1,7,0,1,6,1,6,28,1,4,1,1,6,1,3,Școala Primară nr. 4 Giulești,Nr. 29,Giulești,46.547,22.591
+298,5,BIHOR,CĂBEŞTI,41,0,35,0,1,3,1,3,43,1,35,0,1,4,1,3,Căminul Cultural,Nr. 36,Goila,46.7724,22.338
+234,5,BIHOR,AUŞEU,128,1,167,3,0,12,4,25,136,2,172,3,1,12,6,11,Școala Primară,Nr. 42,Groși,47.0446,22.4783
+435,5,BIHOR,LĂZĂRENI,28,0,3,2,2,2,1,2,28,0,3,3,2,1,1,2,Cămin Cultural,Nr. 12,Gruilung,46.879,22.0985
+382,5,BIHOR,DRĂGĂNEŞTI,49,1,29,0,86,2,1,4,39,2,32,1,85,3,2,7,Școala Maghiara Gradinari,Nr. 107,Grădinari,46.6385,22.372
+478,5,BIHOR,PIETROASA,134,1,31,4,2,27,9,24,130,1,34,4,2,23,9,25,Școala Primară nr. 1 Gurani,Nr. 111,Gurani,46.5951,22.5435
+625,5,BIHOR,TINCA,117,5,133,25,13,103,4,14,120,5,133,24,13,108,5,10,Școala Generală,Nr. 394,Gurbediu,46.7937,21.863
+571,5,BIHOR,SPINUŞ,12,1,39,3,1,4,2,3,11,1,40,3,1,4,2,2,Fosta Școala cu Clasele I-IV Gurbești,Nr. 119,Gurbești,47.1935,22.2234
+455,5,BIHOR,MĂGEŞTI,26,1,45,3,2,3,0,0,23,1,47,3,2,4,2,2,Școala Generală,Nr. 23,Gălășeni,46.9877,22.4321
+554,5,BIHOR,SÎNMARTIN,302,21,160,18,14,25,10,21,300,22,162,20,15,21,12,21,Școala Generală cu Clasele I-IV,Nr. FN,Haieu,46.9947,21.9959
+489,5,BIHOR,POMEZEU,81,2,69,9,0,4,6,12,81,2,70,7,0,5,5,11,Cămin Cultural Hidiș,Nr. 4A,Hidiș,46.7774,22.2603
+375,5,BIHOR,DOBREŞTI,119,0,37,5,0,4,2,5,116,0,39,4,0,4,3,8,Căminul Cultural Hidișel,Nr. 62D,Hidișel,46.834,22.2571
+405,5,BIHOR,HIDIŞELU DE SUS,65,6,99,4,0,9,4,6,72,4,98,3,0,9,5,6,Școala Primară Hidișelu de Jos,Nr. 57,Hidișelu de Jos,46.9403,22.0213
+404,5,BIHOR,HIDIŞELU DE SUS,180,15,149,11,1,33,9,16,174,13,153,12,0,39,11,19,Cămin Cultural Hidișelu de Sus,Nr. 167/A,Hidișelu de Sus,46.9359,22.0418
+427,5,BIHOR,LAZURI DE BEIUŞ,59,12,229,4,0,17,7,9,54,11,238,4,0,15,7,10,Cămin Cultural,Nr. 166,Hinchiriș,46.5891,22.3641
+413,5,BIHOR,HOLOD,51,0,13,0,1,8,2,5,50,0,14,0,1,8,0,2,Cămin Cultural Hodiș,Nr. 120,Hodiș,46.8025,22.1035
+466,5,BIHOR,OLCEA,39,2,81,1,1,6,1,3,36,2,80,1,1,7,1,3,Școala Primară nr. 1 Hodișel,Nr. 143,Hodișel,46.6483,22.0474
+534,5,BIHOR,SĂLARD,6,0,1,1,254,1,1,5,4,0,1,1,251,1,2,3,Școala Primară nr. 1,Nr. 137,Hodoș,47.2263,21.9832
+409,5,BIHOR,HOLOD,97,6,33,9,1,35,4,8,96,6,33,9,1,38,5,7,Școala Gimnazială „Iosif Vulcan”,Nr. 227,Holod,46.7846,22.1272
+448,5,BIHOR,MĂDĂRAS,79,5,77,9,1,28,4,10,79,6,76,8,1,27,4,13,Fosta Școală cu Clasele I.-Iv,Nr. 50,Homorog,46.8347,21.7469
+637,5,BIHOR,ŢEŢCHEA,231,0,57,5,2,12,6,14,222,2,62,7,3,15,3,9,Cămin Cultural,Nr. 68/A,Hotar,47.0209,22.2797
+442,5,BIHOR,LUNCA,54,4,60,12,1,15,5,16,58,4,62,10,1,17,3,9,Căminul Cultural Hotărel,Nr. 33,Hotărel,46.5328,22.4387
+425,5,BIHOR,INEU,223,1,61,6,1,3,9,20,221,1,62,8,2,2,8,18,Căminul Cultural Husasău de Criș,Nr. 79,Husasău de Criș,47.0859,22.0705
+417,5,BIHOR,HUSASĂU DE TINCA,223,2,37,0,1,11,3,13,219,4,38,8,2,10,3,6,Grădinița de Copii,Nr. 384,Husasău de Tinca,46.8227,21.9117
+338,5,BIHOR,CÎMPANI,86,1,71,2,0,4,5,5,87,1,69,2,0,4,5,6,Școala Primară Hîrsești,Nr. 37,Hârsești,46.5365,22.5035
+328,5,BIHOR,CHIŞLAZ,6,2,6,0,3,3,4,6,6,0,8,0,3,3,4,6,Fosta Școala Primară,Nr. 48,Hăucești,47.2264,22.2015
+449,5,BIHOR,MĂDĂRAS,144,5,77,9,1,20,5,14,136,8,78,8,1,23,7,16,Școala cu Clasele I-VIII,Nr. 72/A,Ianoșda,46.8392,21.8024
+311,5,BIHOR,CEFA,169,5,108,8,2,3,10,14,156,7,119,6,2,5,12,14,Cămin Cultural,Nr. 1,Inand,46.8944,21.7476
+318,5,BIHOR,CEICA,101,1,46,1,0,2,2,10,98,0,50,2,0,3,2,6,Școala Incești,Nr. 94,Incești,46.8422,22.1276
+422,5,BIHOR,INEU,120,12,55,5,90,11,6,11,115,14,51,7,93,12,7,13,Căminul Cultural Ineu,Nr. 241,Ineu,47.0862,22.1157
+423,5,BIHOR,INEU,230,4,97,5,1,2,3,14,237,6,97,5,2,4,4,7,Grădinița Ineu,Nr. 408,Ineu,47.0869,22.1149
+397,5,BIHOR,FINIŞ,156,3,40,1,60,6,2,7,155,5,40,1,61,8,1,4,Școala Generală Ioaniș,Nr. 30,Ioaniș,46.6697,22.278
+219,5,BIHOR,ABRAM,60,0,46,0,1,1,1,7,61,0,47,1,1,1,2,6,Cămin Cultural,Nr. 119,Iteu,47.3539,22.4168
+221,5,BIHOR,ABRAM,27,1,26,1,2,1,1,3,28,1,25,2,2,1,1,2,Școală Primară,Nr. 34,Iteu Nou,47.3396,22.392
+307,5,BIHOR,CĂRPINET,158,3,43,10,1,26,11,17,161,3,44,9,2,25,9,13,Grădinița cu Program Normal Izbuc,Nr. 110,Izbuc,46.4372,22.4668
+648,5,BIHOR,VIIŞOARA,3,0,10,2,39,3,1,4,3,0,12,1,40,2,1,2,Cămin Cultural,Nr. 81,Izvoarele,47.4002,22.3954
+297,5,BIHOR,CĂBEŞTI,96,2,50,2,1,6,6,16,90,3,54,3,1,8,7,14,Școala cu Clasele. I-IV Josani,Nr. 16,Josani,46.7517,22.3523
+454,5,BIHOR,MĂGEŞTI,61,9,49,10,2,3,3,5,57,7,56,9,2,4,2,5,Școala Generală,Nr. 52,Josani,47.0005,22.46
+494,5,BIHOR,POMEZEU,10,0,9,0,0,1,1,2,10,0,9,0,0,1,1,2,Școala Generală Lacu Sărat,Nr. 1A,Lacu Sărat,46.8021,22.3551
+522,5,BIHOR,ROŞIA,116,1,86,0,0,3,1,11,117,1,86,2,0,4,1,8,Școala cu Clasele I-IV Lazuri,Nr. 86,Lazuri,46.7951,22.4118
+426,5,BIHOR,LAZURI DE BEIUŞ,65,5,120,2,3,4,1,2,53,6,137,0,3,1,2,4,Primăria,Nr. 95,Lazuri de Beiuș,46.5918,22.4007
+308,5,BIHOR,CĂRPINET,103,2,42,4,4,5,6,19,93,3,45,3,3,9,9,21,Cămin Cultural Leheceni,Nr. 20,Leheceni,46.4469,22.5132
+291,5,BIHOR,BUNTEŞTI,99,2,46,0,0,27,5,26,96,2,48,0,0,28,4,25,Grădinița cu Program Normal,Nr. 135,Lelești,46.6192,22.4557
+460,5,BIHOR,NOJORID,80,5,55,8,9,8,3,12,80,6,58,8,9,7,4,10,"Școala Gimnazială nr. 3 Leș, Loc. Leș nr. 36",,Leș,46.9647,21.8389
+383,5,BIHOR,DRĂGĂNEŞTI,46,0,11,0,1,9,2,7,45,0,12,0,1,9,3,7,Școala Primară Livada,Nr. 12/a,Livada Beiușului,46.6489,22.3991
+461,5,BIHOR,NOJORID,151,19,138,10,4,5,13,32,152,18,150,7,2,7,11,25,Grădinița - Livada de Bihor Loc. Livada de Bihor nr. 228,,Livada de Bihor,47.0097,21.8048
+268,5,BIHOR,BRATCA,90,3,33,8,1,8,4,9,90,2,35,10,1,8,5,6,Căminul Cultural,Nr. 62,Lorău,46.9169,22.6291
+437,5,BIHOR,LUGAŞU DE JOS,253,9,118,33,196,14,14,27,239,8,121,37,204,24,11,23,Căminul Cultural Lugașu de Jos,Nr. 182,Lugașu de Jos,47.0634,22.3451
+438,5,BIHOR,LUGAŞU DE JOS,224,0,72,6,14,1,5,23,234,0,72,11,16,0,7,15,Căminul Cultural Lugașu de Sus,Nr. 125,Lugașu de Sus,47.0783,22.357
+440,5,BIHOR,LUNCA,179,14,210,22,0,18,3,14,179,13,219,15,0,19,3,14,Căminul Cultural Lunca,Nr. 2,Lunca,46.5204,22.4638
+374,5,BIHOR,DOBREŞTI,140,1,63,10,1,23,5,15,134,1,62,7,1,21,8,17,Căminul Cultural Luncasprie,Nr. 106B,Luncasprie,46.8448,22.3107
+235,5,BIHOR,AUŞEU,122,5,159,3,1,3,9,16,118,3,162,5,1,2,8,16,Cămin Cultural,Nr. 387,Luncșoara,47.0365,22.5404
+414,5,BIHOR,HOLOD,128,2,14,2,1,4,2,5,121,4,13,5,2,5,2,4,Cămin Cultural,Nr. 4,Lupoaia,46.802,22.1229
+430,5,BIHOR,LĂZĂRENI,305,2,63,5,1,12,4,10,322,4,58,4,1,13,3,7,Cămin Cultural Lăzăreni,Nr. 37,Lăzăreni,46.8729,22.0532
+152,5,BIHOR,MUNICIPIUL MARGHITA,163,39,112,18,378,13,15,25,169,38,113,15,387,9,12,19,Colegiul Național „Octavian Goga”,Piața Independenței nr. 1,Marghita,47.3484,22.3364
+153,5,BIHOR,MUNICIPIUL MARGHITA,150,25,111,10,182,6,6,20,152,24,104,8,184,14,10,17,Colegiul Național „Octavian Goga”,Piața Independenței nr. 1,Marghita,47.3484,22.3364
+154,5,BIHOR,MUNICIPIUL MARGHITA,150,24,78,6,198,13,6,23,149,20,77,7,205,17,10,18,Colegiul Național „Octavian Goga”,Str. Nicolae Bălcescu nr. 80,Marghita,47.3484,22.3364
+155,5,BIHOR,MUNICIPIUL MARGHITA,154,24,109,9,210,12,14,21,157,24,107,9,218,14,11,12,Colegiul Național „Octavian Goga”,Str. Nicolae Bălcescu nr. 80,Marghita,47.3423,22.3332
+156,5,BIHOR,MUNICIPIUL MARGHITA,143,21,88,11,150,10,9,16,149,17,81,10,159,10,11,14,Colegiul Național „Octavian Goga”,Str. Nicolae Bălcescu nr. 80,Marghita,47.3484,22.3364
+157,5,BIHOR,MUNICIPIUL MARGHITA,100,11,79,4,241,9,2,7,90,10,78,4,244,12,11,12,Primăria Municipiului Marghita,Str. Republicii (Calea Republicii) nr. 1,Marghita,47.3461,22.3412
+158,5,BIHOR,MUNICIPIUL MARGHITA,120,13,62,6,205,11,13,17,121,13,57,8,211,10,13,13,Clubul Copiilor,Str. Republicii (Calea Republicii) nr. 9,Marghita,47.3456,22.3387
+159,5,BIHOR,MUNICIPIUL MARGHITA,107,14,74,6,321,5,11,20,114,14,71,6,323,4,7,13,Liceul Teoretic „Horváth János”,Str. 1 Decembrie (Str. 30 Decembrie) nr. 5,Marghita,47.348,22.3425
+160,5,BIHOR,MUNICIPIUL MARGHITA,85,9,57,4,158,12,8,14,83,10,53,3,165,12,11,15,Școala Bihoreana S.R.L.,Str. Vișeului nr. 19,Marghita,47.3531,22.3463
+161,5,BIHOR,MUNICIPIUL MARGHITA,118,27,76,5,333,10,8,18,112,29,76,7,336,5,15,23,Școala Bihoreana S.R.L.,Str. Vișeului nr. 19,Marghita,47.3531,22.3463
+222,5,BIHOR,ABRAM,65,3,65,3,2,17,16,22,53,4,48,5,1,19,47,52,Școală Primară nr. 1,Nr. 41,Margine,47.2945,22.4231
+446,5,BIHOR,MĂDĂRAS,18,3,25,0,1,5,2,10,20,4,23,0,1,5,3,8,Căminul Cultural,Nr. 1,Marțihaz,46.8742,21.6471
+512,5,BIHOR,REMETEA,477,1,59,5,1,5,2,9,454,4,59,8,14,7,4,10,Școala Gimnazială nr. 2,Nr. 434,Meziad,46.7402,22.4284
+609,5,BIHOR,TĂRCAIA,73,1,18,0,1,4,5,7,72,2,19,0,1,3,5,7,Școala cu Clasele I-IV,Nr. 54,Mierag,46.6041,22.3649
+406,5,BIHOR,HIDIŞELU DE SUS,108,3,135,18,0,2,2,7,110,1,140,20,1,3,0,2,Cămin Cultural Mierlău,Nr. 189,Mierlău,46.9175,22.0186
+419,5,BIHOR,HUSASĂU DE TINCA,86,6,25,2,1,2,0,12,83,7,27,2,1,3,3,13,Școala cu Clasele I-IV Miersig,Nr. 4,Miersig,46.8863,21.8421
+524,5,BIHOR,ROŞIORI,122,5,103,15,3,3,5,18,122,4,105,15,4,5,4,16,Școala Gimnazială nr. 1,Nr. 154/A,Mihai Bravu,47.2577,21.9328
+436,5,BIHOR,LĂZĂRENI,66,5,13,1,1,9,3,5,63,5,15,2,1,8,3,7,Cămin Cultural,Nr. 72,Miheleu,46.8236,22.0673
+384,5,BIHOR,DRĂGĂNEŞTI,118,7,59,1,1,3,7,10,112,7,61,2,1,5,9,11,Fostul Sfat Popular Mizies,Nr. 34,Mizieș,46.6632,22.3982
+329,5,BIHOR,CHIŞLAZ,13,2,3,1,476,1,2,6,13,2,1,1,480,1,2,4,Grădinița Mișca,Nr. 226,Mișca,47.2628,22.2571
+483,5,BIHOR,PIETROASA,29,0,12,0,1,7,2,6,27,2,12,0,1,7,1,5,Școala Primară nr. 5 Moțești,Nr. 24,Moțești,46.5618,22.5078
+285,5,BIHOR,BULZ,150,0,71,7,1,2,4,9,146,0,73,8,0,3,4,10,Școala Primară nr. 3 Munteni,Nr. 1,Munteni,46.8941,22.702
+447,5,BIHOR,MĂDĂRAS,91,13,64,3,8,6,3,68,104,19,81,7,13,11,2,18,Școala cu Clasele I.-VIII,Nr. 223,Mădăras,46.8282,21.6776
+450,5,BIHOR,MĂGEŞTI,38,2,56,2,3,8,1,3,35,1,60,2,4,9,1,4,Primăria Măgești,Nr. 9,Măgești,47.0119,22.4457
+482,5,BIHOR,PIETROASA,57,2,20,0,1,12,1,7,55,3,20,0,1,11,1,7,Școala Primară nr. 3 Măgura,Nr. 70,Măgura,46.5547,22.553
+358,5,BIHOR,CURĂŢELE,177,8,120,3,1,9,9,15,170,9,127,2,1,6,11,17,Cămin Cultural Nimăiești,Nr. 16/A,Nimăiești,46.6839,22.3892
+604,5,BIHOR,TĂMĂŞEU,8,0,5,1,83,1,0,3,9,0,4,1,85,1,0,2,Căminul Cultural,Nr. 25,Niuved,47.235,21.8919
+457,5,BIHOR,NOJORID,340,47,228,24,12,29,33,51,335,44,238,26,14,27,31,43,Școala Gimnazială nr. 1 Nojorid Str. Principală nr. 185 Loc. Nojorid,Nr. 107,Nojorid,46.994,21.8824
+187,5,BIHOR,ORAŞ NUCET,493,11,137,9,15,16,8,21,489,13,138,6,15,17,10,24,Școala Gimnazială nr. 1 Nucet,Str. Crișului nr. 19,Nucet,46.4844,22.5612
+568,5,BIHOR,SPINUŞ,22,0,47,28,1,5,4,7,24,0,51,20,1,8,5,6,Fosta Școala cu Clasele I-IV Nădar,Nr. 41,Nădar,47.2071,22.166
+545,5,BIHOR,SÎMBĂTA,63,0,23,0,0,5,1,4,60,0,29,0,0,4,1,2,Caminul Cultural,Nr. 2,Ogești,46.8016,22.2337
+464,5,BIHOR,OLCEA,60,2,79,16,1,20,5,7,65,2,78,17,1,20,4,8,Școala Gimnazială nr. 1 Olcea,Nr. 229,Olcea,46.6834,21.983
+191,5,BIHOR,ORAŞ SĂCUENI,6,0,0,0,114,0,1,3,5,0,1,0,116,0,1,1,Școala Generală,Nr. 14,Olosig,47.3514,22.1768
+1,5,BIHOR,MUNICIPIUL ORADEA,74,33,116,9,67,19,14,32,72,29,118,9,68,23,17,30,Colegiul Economic „Partenie Cosma”,Str. Armatei Române (Calea Armatei Române) nr. 1,Oradea,47.049,21.9218
+2,5,BIHOR,MUNICIPIUL ORADEA,113,25,97,14,124,9,12,30,112,24,97,12,123,13,16,31,Școala Gimnazială „Lucreția Suciu”,Str. Griviței nr. 2,Oradea,47.0503,21.947
+3,5,BIHOR,MUNICIPIUL ORADEA,176,29,132,11,101,20,11,30,173,31,139,10,92,18,13,32,Liceul Tehnologic Sanitar „Vasile Voiculescu”,Calea Clujului nr. 66,Oradea,47.0515,21.9502
+4,5,BIHOR,MUNICIPIUL ORADEA,113,18,122,11,126,11,7,21,108,20,125,11,124,14,8,22,Liceul Tehnologic Sanitar „Vasile Voiculescu”,Calea Clujului nr. 66,Oradea,47.0515,21.9502
+5,5,BIHOR,MUNICIPIUL ORADEA,96,27,146,8,78,12,13,21,94,28,152,7,77,12,14,20,Grădinița cu Program Prelungit nr. 22,Calea Clujului nr. 101,Oradea,47.0492,21.9539
+6,5,BIHOR,MUNICIPIUL ORADEA,213,46,207,14,54,29,24,43,205,47,213,12,55,36,24,37,Grădinița cu Program Prelungit nr. 22,Calea Clujului nr. 101,Oradea,47.0492,21.9539
+7,5,BIHOR,MUNICIPIUL ORADEA,149,19,95,3,59,9,7,13,145,17,102,3,60,10,8,12,Universitatea „Agora”,Piața Tineretului nr. 8,Oradea,47.0487,21.9511
+8,5,BIHOR,MUNICIPIUL ORADEA,111,31,115,7,72,15,7,12,110,25,119,7,73,15,12,15,Universitatea „Agora”,Piața Tineretului nr. 8,Oradea,47.0487,21.9511
+9,5,BIHOR,MUNICIPIUL ORADEA,123,37,148,3,102,14,13,28,119,33,155,4,103,14,14,24,Creșa nr. 2 „Piciorușe Vesele”,Str. Grădinarilor nr. 8,Oradea,47.0495,21.9563
+10,5,BIHOR,MUNICIPIUL ORADEA,229,48,206,9,60,39,18,36,231,43,222,9,58,38,18,28,Școala Gimnazială „Ioan Slavici”,Calea Clujului nr. 188,Oradea,47.0442,21.9706
+11,5,BIHOR,MUNICIPIUL ORADEA,178,50,267,10,79,11,15,42,167,50,288,12,83,16,12,19,Școala Gimnazială „Ioan Slavici”,Calea Clujului nr. 188,Oradea,47.0442,21.9706
+12,5,BIHOR,MUNICIPIUL ORADEA,121,39,181,7,17,15,8,15,113,39,186,4,16,23,11,19,Școala Gimnazială „Ioan Slavici”,Calea Clujului nr. 188,Oradea,47.0442,21.9706
+13,5,BIHOR,MUNICIPIUL ORADEA,115,13,165,8,45,11,9,20,122,13,171,7,45,12,11,17,Școala Gimnazială „Ioan Slavici”,Calea Clujului nr. 188,Oradea,47.0442,21.9706
+14,5,BIHOR,MUNICIPIUL ORADEA,90,10,95,8,34,9,9,18,99,8,96,6,35,9,7,15,Școala Gimnazială „Ioan Slavici”,Calea Clujului nr. 188,Oradea,47.0442,21.9706
+15,5,BIHOR,MUNICIPIUL ORADEA,88,14,66,4,69,10,11,12,78,11,73,3,69,14,14,15,Grădinița cu Program Prelungit nr. 25,Str. Zalăului nr. 11,Oradea,47.0474,21.9459
+16,5,BIHOR,MUNICIPIUL ORADEA,87,29,95,4,86,13,4,15,84,29,94,2,88,15,4,15,Grădinița cu Program Prelungit nr. 25,Str. Zalăului nr. 11,Oradea,47.0474,21.9459
+17,5,BIHOR,MUNICIPIUL ORADEA,97,29,96,9,58,10,15,26,93,25,101,9,61,13,16,25,Școala Gimnazială „Dimitrie Cantemir”,Str. Dimitrie Cantemir nr. 32,Oradea,47.046,21.942
+18,5,BIHOR,MUNICIPIUL ORADEA,123,70,175,11,76,26,24,43,124,62,190,10,73,23,29,48,Școala Gimnazială „Dimitrie Cantemir”,Str. Dimitrie Cantemir nr. 32,Oradea,47.046,21.942
+19,5,BIHOR,MUNICIPIUL ORADEA,161,57,192,12,179,22,13,36,153,67,188,16,174,31,17,30,Școala Gimnazială „Dimitrie Cantemir”,Str. Dimitrie Cantemir nr. 32,Oradea,47.046,21.942
+20,5,BIHOR,MUNICIPIUL ORADEA,209,52,206,10,113,27,25,45,203,52,205,16,111,30,28,46,Grădinița cu Program Prelungit nr. 24,Str. Dimitrie Cantemir nr. 84,Oradea,47.0409,21.9426
+21,5,BIHOR,MUNICIPIUL ORADEA,152,82,202,18,87,32,12,36,155,77,219,16,87,25,13,31,Căminul de Bătrâni „Sfântul Martin”,Str. Bumbacului nr. 1,Oradea,47.0348,21.9565
+22,5,BIHOR,MUNICIPIUL ORADEA,124,36,163,7,33,25,13,24,117,31,169,9,33,25,19,28,Grădinița cu Program Prelungit nr. 56,Str. Liszt Ferenc (Str. Ferenc Liszt) nr. 75,Oradea,47.0309,21.9452
+23,5,BIHOR,MUNICIPIUL ORADEA,265,79,283,22,56,49,31,57,270,73,288,23,58,49,28,53,Grădinița cu Program Prelungit nr. 56,Str. Liszt Ferenc (Str. Ferenc Liszt) nr. 75,Oradea,47.0309,21.9452
+24,5,BIHOR,MUNICIPIUL ORADEA,214,47,245,11,62,37,19,39,206,48,252,17,66,34,19,32,Grădinița cu Program Prelungit nr. 56,Str. Liszt Ferenc (Str. Ferenc Liszt) nr. 75,Oradea,47.0309,21.9452
+25,5,BIHOR,MUNICIPIUL ORADEA,259,68,222,20,79,33,22,43,248,64,231,24,81,37,23,41,Grădinița cu Program Prelungit nr. 56,Str. Liszt Ferenc (Str. Ferenc Liszt) nr. 75,Oradea,47.0309,21.9452
+26,5,BIHOR,MUNICIPIUL ORADEA,264,52,236,20,77,30,20,38,263,49,247,19,74,36,20,33,Grădinița cu Program Prelungit nr. 56,Str. Liszt Ferenc (Str. Ferenc Liszt) nr. 75,Oradea,47.0309,21.9452
+27,5,BIHOR,MUNICIPIUL ORADEA,181,28,176,4,101,18,16,34,171,28,179,7,99,25,24,36,Liceul Teoretic „Onisifor Ghibu”,Aleea Prof. Onisifor Ghibu (Aleea Apelor Calde) nr. 3,Oradea,47.0326,21.9538
+28,5,BIHOR,MUNICIPIUL ORADEA,207,48,161,11,103,19,25,49,205,52,168,14,107,19,25,37,Liceul Teoretic „Onisifor Ghibu”,Aleea Prof. Onisifor Ghibu (Aleea Apelor Calde) nr. 3,Oradea,47.0326,21.9538
+29,5,BIHOR,MUNICIPIUL ORADEA,158,46,234,14,68,17,16,38,160,43,237,14,68,15,16,36,Liceul Teoretic „Onisifor Ghibu”,Aleea Prof. Onisifor Ghibu (Aleea Apelor Calde) nr. 3,Oradea,47.0326,21.9538
+30,5,BIHOR,MUNICIPIUL ORADEA,203,42,190,8,108,20,14,27,197,33,201,12,110,21,12,24,Liceul Teoretic „Onisifor Ghibu”,Aleea Prof. Onisifor Ghibu (Aleea Apelor Calde) nr. 3,Oradea,47.0326,21.9538
+31,5,BIHOR,MUNICIPIUL ORADEA,234,62,232,24,111,26,29,62,238,57,227,23,109,34,30,59,Grădinița cu Program Normal nr. 2,"Str. Ialomiței nr. 3, Bloc AN 7",Oradea,47.0336,21.9504
+32,5,BIHOR,MUNICIPIUL ORADEA,201,43,202,15,97,22,19,35,189,41,208,13,98,24,20,37,Grădinița cu Program Prelungit nr. 28,Aleea Prof. Onisifor Ghibu (Aleea Apelor Calde) nr. 16,Oradea,47.0316,21.9558
+33,5,BIHOR,MUNICIPIUL ORADEA,174,39,220,9,54,22,24,39,171,39,221,8,56,22,24,39,Creșa nr. 3 „Scufița Roșie”,Aleea Prof. Onisifor Ghibu (Aleea Apelor Calde) nr. 16,Oradea,47.0316,21.9558
+34,5,BIHOR,MUNICIPIUL ORADEA,157,48,206,8,56,22,32,46,150,42,212,13,57,21,40,49,Creșa nr. 13 „Lizuca și Patrocle”,"Str. Bumbacului nr. 24, Bloc AN 28 - 30",Oradea,47.033,21.9588
+35,5,BIHOR,MUNICIPIUL ORADEA,208,64,195,15,106,35,14,31,201,58,208,14,105,32,17,34,Creșa nr. 13 „Lizuca și Patrocle”,"Str. Bumbacului nr. 24, Bloc AN 28 - 30",Oradea,47.033,21.9588
+36,5,BIHOR,MUNICIPIUL ORADEA,219,59,188,17,114,17,27,46,219,57,196,18,115,17,23,41,Școala Gimnazială „Dimitrie Cantemir”,Str. Sextil Pușcariu (Str. Triumfului) nr. 2 A,Oradea,47.0405,21.9406
+37,5,BIHOR,MUNICIPIUL ORADEA,169,41,213,12,105,20,16,25,161,38,218,10,107,20,21,30,Școala Gimnazială „Dimitrie Cantemir”,Str. Sextil Pușcariu (Str. Triumfului) nr. 2 A,Oradea,47.0405,21.9406
+38,5,BIHOR,MUNICIPIUL ORADEA,106,30,85,16,53,11,11,22,104,29,85,14,52,13,16,26,Grădinița cu Program Prelungit nr. 46,Str. Feldioarei nr. 17,Oradea,47.0431,21.9306
+39,5,BIHOR,MUNICIPIUL ORADEA,132,15,95,12,71,12,12,25,132,16,97,10,73,15,13,21,Grădinița cu Program Prelungit nr. 46,Str. Feldioarei nr. 17,Oradea,47.0431,21.9306
+40,5,BIHOR,MUNICIPIUL ORADEA,132,76,144,13,131,29,31,45,132,70,144,13,138,36,30,41,Școala Gimnazială „Nicolae Bălcescu”,Str. Erou Marius Cosma (Str. Sextil Pușcariu) nr. 8,Oradea,47.0495,21.9335
+41,5,BIHOR,MUNICIPIUL ORADEA,103,40,67,14,127,26,14,28,101,41,71,16,126,28,12,23,Școala Gimnazială „Nicolae Bălcescu”,Str. Erou Marius Cosma (Str. Sextil Pușcariu) nr. 8,Oradea,47.0519,21.9321
+42,5,BIHOR,MUNICIPIUL ORADEA,46,38,64,3,122,8,11,16,44,40,67,2,120,7,10,15,Școala Gimnazială,Cartierul Podgoria (D),Oradea,47.0616,22.0052
+43,5,BIHOR,MUNICIPIUL ORADEA,86,16,84,4,108,9,11,20,92,13,85,3,109,14,7,14,Grădinița cu Program Prelungit nr. 53,Str. Călugăreni nr. 4 A,Oradea,47.0805,21.9154
+44,5,BIHOR,MUNICIPIUL ORADEA,109,20,103,8,93,11,3,11,104,19,113,6,92,9,7,12,Grădinița cu Program Prelungit nr. 53,Str. Călugăreni nr. 4 A,Oradea,47.0805,21.9154
+45,5,BIHOR,MUNICIPIUL ORADEA,79,13,56,8,58,10,12,20,82,12,54,7,58,12,8,17,Grădinița cu Program Prelungit nr. 52,Str. Călugăreni nr. 8 A,Oradea,47.079,21.913
+46,5,BIHOR,MUNICIPIUL ORADEA,130,33,122,8,135,20,13,25,134,29,124,7,143,19,10,19,Grădinița cu Program Prelungit nr. 52,Str. Călugăreni nr. 8 A,Oradea,47.079,21.913
+47,5,BIHOR,MUNICIPIUL ORADEA,98,20,89,6,107,22,14,17,99,19,91,6,109,19,16,18,Grădinița cu Program Prelungit nr. 52,Str. Călugăreni nr. 8 A,Oradea,47.079,21.913
+48,5,BIHOR,MUNICIPIUL ORADEA,136,47,123,10,114,11,14,30,127,37,142,11,118,14,13,24,Școala Gimnazială nr. 16,Str. Călugăreni nr. 4,Oradea,47.0795,21.9145
+49,5,BIHOR,MUNICIPIUL ORADEA,103,18,105,9,56,14,11,14,97,14,105,10,58,17,12,17,Școala Gimnazială nr. 16,Str. Călugăreni nr. 4,Oradea,47.0795,21.9145
+50,5,BIHOR,MUNICIPIUL ORADEA,128,25,130,4,134,13,22,36,122,26,141,4,134,12,22,31,Școala Gimnazială nr. 16,Str. Călugăreni nr. 4,Oradea,47.0795,21.9145
+51,5,BIHOR,MUNICIPIUL ORADEA,154,43,183,5,128,18,20,40,160,40,189,6,128,19,18,29,Școala Gimnazială nr. 16,Str. Călugăreni nr. 4,Oradea,47.0795,21.9145
+52,5,BIHOR,MUNICIPIUL ORADEA,174,54,147,6,132,25,13,32,166,60,145,9,132,28,16,30,Liceul Teoretic „Lucian Blaga”,Aleea Posada nr. 1,Oradea,47.076,21.9123
+53,5,BIHOR,MUNICIPIUL ORADEA,162,44,191,18,149,27,13,33,162,40,196,17,148,33,14,28,Liceul Teoretic „Lucian Blaga”,Aleea Posada nr. 1,Oradea,47.076,21.9123
+54,5,BIHOR,MUNICIPIUL ORADEA,181,47,181,11,99,26,22,45,179,45,185,9,103,22,26,44,Liceul Teoretic „Lucian Blaga”,Aleea Posada nr. 1,Oradea,47.076,21.9123
+55,5,BIHOR,MUNICIPIUL ORADEA,146,30,157,7,154,27,19,35,151,25,157,12,158,25,15,27,Liceul Teoretic „Lucian Blaga”,Aleea Posada nr. 1,Oradea,47.076,21.9123
+56,5,BIHOR,MUNICIPIUL ORADEA,188,62,221,15,181,32,23,40,188,56,228,12,186,37,21,36,Grădinița cu Program Normal nr. 17,Str. Transilvaniei nr. 21,Oradea,47.0775,21.9187
+57,5,BIHOR,MUNICIPIUL ORADEA,154,39,152,10,114,24,11,23,143,38,161,11,116,29,10,21,Grădinița cu Program Prelungit nr. 20,Aleea Posada nr. 3,Oradea,47.0762,21.9107
+58,5,BIHOR,MUNICIPIUL ORADEA,94,31,100,2,90,12,11,18,91,30,104,3,88,11,12,18,Liceul Ortodox „Episcop Roman Ciorogariu”,Str. Aluminei nr. 88,Oradea,47.0708,21.9112
+59,5,BIHOR,MUNICIPIUL ORADEA,114,26,104,4,112,15,16,31,112,27,104,5,112,17,15,30,Liceul Ortodox „Episcop Roman Ciorogariu”,Str. Aluminei nr. 88,Oradea,47.0708,21.9112
+60,5,BIHOR,MUNICIPIUL ORADEA,83,30,126,8,71,10,11,26,85,26,119,8,72,13,18,31,Liceul Ortodox „Episcop Roman Ciorogariu”,Str. Aluminei nr. 88,Oradea,47.0708,21.9112
+61,5,BIHOR,MUNICIPIUL ORADEA,126,42,167,12,110,20,19,30,121,38,174,14,109,15,21,35,Liceul Ortodox „Episcop Roman Ciorogariu”,Str. Aluminei nr. 88,Oradea,47.0708,21.9112
+62,5,BIHOR,MUNICIPIUL ORADEA,162,37,179,7,113,28,14,27,154,35,181,8,115,30,17,30,Liceul Ortodox „Episcop Roman Ciorogariu”,Str. Aluminei nr. 88,Oradea,47.0708,21.9112
+63,5,BIHOR,MUNICIPIUL ORADEA,133,74,162,12,190,31,18,43,140,67,165,11,190,33,21,35,Liceul Ortodox „Episcop Roman Ciorogariu”,Str. Aluminei nr. 88,Oradea,47.0708,21.9112
+64,5,BIHOR,MUNICIPIUL ORADEA,175,42,145,5,79,29,24,43,169,39,153,7,78,30,24,41,Grădinița cu Program Prelungit nr. 54,Bulevardul Dacia (Șoseaua 6 Martie) nr. 110,Oradea,47.0726,21.9114
+65,5,BIHOR,MUNICIPIUL ORADEA,134,43,145,17,89,15,17,28,135,35,155,15,91,15,17,27,Grădinița cu Program Prelungit nr. 54,Bulevardul Dacia (Șoseaua 6 Martie) nr. 110,Oradea,47.0726,21.9114
+66,5,BIHOR,MUNICIPIUL ORADEA,173,39,163,13,107,24,19,41,171,38,168,12,110,27,22,39,Școala Gimnazială „Dacia”,Bulevardul Dacia (Șoseaua 6 Martie) nr. 25,Oradea,47.0683,21.928
+67,5,BIHOR,MUNICIPIUL ORADEA,189,47,177,17,99,41,14,31,187,48,177,15,101,41,16,33,Școala Gimnazială „Dacia”,Bulevardul Dacia (Șoseaua 6 Martie) nr. 25,Oradea,47.0683,21.928
+68,5,BIHOR,MUNICIPIUL ORADEA,128,56,152,5,102,27,15,27,124,52,151,7,101,31,18,29,Școala Gimnazială „Dacia”,Bulevardul Dacia (Șoseaua 6 Martie) nr. 25,Oradea,47.0683,21.928
+69,5,BIHOR,MUNICIPIUL ORADEA,139,34,150,23,76,12,17,41,133,33,160,22,75,14,21,37,Grădinița cu Program Prelungit nr. 45,Str. Aluminei nr. 100 A,Oradea,47.0721,21.9154
+70,5,BIHOR,MUNICIPIUL ORADEA,181,61,212,9,120,34,16,34,185,54,223,10,118,31,14,30,Grădinița cu Program Prelungit nr. 45,Str. Aluminei nr. 100 A,Oradea,47.0721,21.9154
+71,5,BIHOR,MUNICIPIUL ORADEA,195,44,189,18,115,32,25,44,186,39,197,17,115,39,23,45,Grădinița cu Program Prelungit nr. 45,Str. Aluminei nr. 100 A,Oradea,47.0721,21.9154
+72,5,BIHOR,MUNICIPIUL ORADEA,128,60,158,14,114,14,24,38,126,56,170,10,111,18,22,35,Grădinița cu Program Prelungit nr. 45,Str. Aluminei nr. 100 A,Oradea,47.0721,21.9154
+73,5,BIHOR,MUNICIPIUL ORADEA,162,63,217,23,153,30,19,50,169,65,215,24,154,28,21,51,Colegiul Tehnic „Constantin Brâncuși”,Str. Menumorut (Str. Marx Karl) nr. 33,Oradea,47.0656,21.9261
+74,5,BIHOR,MUNICIPIUL ORADEA,168,91,231,12,108,30,20,41,174,90,229,14,106,29,20,39,Colegiul Tehnic „Constantin Brâncuși”,Str. Menumorut (Str. Marx Karl) nr. 33,Oradea,47.0656,21.9261
+75,5,BIHOR,MUNICIPIUL ORADEA,188,106,213,16,146,29,26,42,194,95,210,19,144,28,31,48,Colegiul Tehnic „Constantin Brâncuși”,Str. Menumorut (Str. Marx Karl) nr. 33,Oradea,47.0656,21.9261
+76,5,BIHOR,MUNICIPIUL ORADEA,156,46,162,11,110,22,11,18,154,48,159,13,111,21,12,17,Colegiul Tehnic „Constantin Brâncuși”,Str. Menumorut (Str. Marx Karl) nr. 33,Oradea,47.0656,21.9261
+77,5,BIHOR,MUNICIPIUL ORADEA,143,41,174,10,174,36,16,28,140,38,183,11,173,34,20,29,Colegiul Tehnic „Constantin Brâncuși”,Str. Menumorut (Str. Marx Karl) nr. 33,Oradea,47.0656,21.9261
+78,5,BIHOR,MUNICIPIUL ORADEA,161,59,204,18,110,29,13,25,166,60,209,9,108,29,12,28,Colegiul Tehnic „Constantin Brâncuși”,Str. Menumorut (Str. Marx Karl) nr. 33,Oradea,47.0656,21.9261
+79,5,BIHOR,MUNICIPIUL ORADEA,223,41,215,12,227,36,35,64,221,39,222,11,226,37,34,56,Orășelul Copiilor,Str. Corneliu Coposu (Str. Ostașilor) nr. 8,Oradea,47.0747,21.9186
+80,5,BIHOR,MUNICIPIUL ORADEA,95,16,104,9,492,5,12,23,86,19,101,9,506,5,13,22,Grădinița cu Program Normal nr. 15,Str. Matei Corvin nr. 231,Oradea,47.1038,21.8883
+81,5,BIHOR,MUNICIPIUL ORADEA,51,18,71,7,232,10,8,18,52,18,69,7,231,13,9,17,Școala Gimnazială „Juhasz Gyula”,Str. Matei Corvin nr. 106 A,Oradea,47.098,21.9014
+82,5,BIHOR,MUNICIPIUL ORADEA,42,8,74,6,246,5,5,11,44,10,67,6,247,7,5,10,Școala Gimnazială „Juhasz Gyula”,Str. Matei Corvin nr. 106 A,Oradea,47.098,21.9014
+83,5,BIHOR,MUNICIPIUL ORADEA,244,63,194,16,130,21,23,43,246,58,193,14,133,23,21,42,Grădinița cu Program Prelungit nr. 42,Str. Salcâmilor (Str. Salcîmilor) (D) nr. 8,Oradea,47.0661,21.905
+84,5,BIHOR,MUNICIPIUL ORADEA,156,26,72,11,79,13,17,19,158,28,74,11,79,12,14,16,Grădinița cu Program Prelungit nr. 42,Str. Salcâmilor (Str. Salcîmilor) (D) nr. 8,Oradea,47.0661,21.905
+85,5,BIHOR,MUNICIPIUL ORADEA,131,54,220,10,116,23,21,35,129,49,234,9,113,25,24,32,Grădinița cu Program Prelungit nr. 42,Str. Salcâmilor (Str. Salcîmilor) (D) nr. 8,Oradea,47.0661,21.905
+86,5,BIHOR,MUNICIPIUL ORADEA,213,54,189,18,106,12,18,37,218,50,190,22,106,11,18,35,Școala Gimnazială „Octavian Goga”,Str. Lăpușului nr. 13,Oradea,47.0655,21.9064
+87,5,BIHOR,MUNICIPIUL ORADEA,198,48,177,7,108,25,22,39,198,48,177,6,111,29,16,33,Școala Gimnazială „Octavian Goga”,Str. Lăpușului nr. 13,Oradea,47.0655,21.9064
+88,5,BIHOR,MUNICIPIUL ORADEA,221,31,170,10,110,27,31,46,228,28,170,10,112,29,26,40,Colegiul Tehnic „Transilvania”,Str. Alexandru Cazaban (Str. A. Cazaban) nr. 48,Oradea,47.067,21.9016
+89,5,BIHOR,MUNICIPIUL ORADEA,190,26,191,11,101,21,19,47,196,23,197,11,104,20,19,37,Colegiul Tehnic „Transilvania”,Str. Alexandru Cazaban (Str. A. Cazaban) nr. 48,Oradea,47.067,21.9016
+90,5,BIHOR,MUNICIPIUL ORADEA,138,25,147,9,69,13,18,30,135,29,149,7,76,9,15,26,Colegiul Tehnic „Traian Vuia”,Str. Constantin Brâncoveanu nr. 12 A,Oradea,47.063,21.9164
+91,5,BIHOR,MUNICIPIUL ORADEA,202,44,207,6,56,21,21,34,198,43,206,5,56,19,25,42,Grădinița cu Program Prelungit nr. 55,Str. Hațegului nr. 32,Oradea,47.0585,21.9
+92,5,BIHOR,MUNICIPIUL ORADEA,133,33,184,6,51,11,19,32,125,30,196,2,51,16,20,29,Fundația de Scleroză Multiplă,Str. Buzăului nr. 2 A,Oradea,47.0525,21.9039
+93,5,BIHOR,MUNICIPIUL ORADEA,136,24,124,6,99,14,5,19,129,21,123,9,99,17,7,20,Fundația de Scleroză Multiplă,Str. Buzăului nr. 2 A,Oradea,47.0525,21.9039
+94,5,BIHOR,MUNICIPIUL ORADEA,112,30,142,15,108,8,15,30,109,30,144,13,111,13,17,28,Grădinița cu Program Prelungit nr. 35,Str. Mihail Sadoveanu nr. 8,Oradea,47.0766,21.9189
+95,5,BIHOR,MUNICIPIUL ORADEA,133,44,121,5,104,28,13,22,128,37,129,4,104,33,12,24,Grădinița cu Program Prelungit nr. 35,Str. Mihail Sadoveanu nr. 8,Oradea,47.0766,21.9189
+96,5,BIHOR,MUNICIPIUL ORADEA,144,51,175,12,101,30,17,30,136,48,180,10,100,38,20,29,Centrul de Îngrijire de Zi,Str. Traian Lalescu (Str. 16 Februarie) nr. 3 C,Oradea,47.0735,21.9309
+97,5,BIHOR,MUNICIPIUL ORADEA,144,49,140,11,124,22,17,34,141,54,145,10,128,23,16,25,Centrul de Îngrijire de Zi,Str. Traian Lalescu (Str. 16 Februarie) nr. 3 C,Oradea,47.0735,21.9309
+98,5,BIHOR,MUNICIPIUL ORADEA,169,24,139,7,116,22,19,36,169,25,139,9,121,24,16,27,Centru Școlar Pentru Educație Incluzivă „Orizont”,Str. Traian Lalescu (Str. 16 Februarie) nr. 3,Oradea,47.0732,21.9307
+99,5,BIHOR,MUNICIPIUL ORADEA,142,28,127,5,126,18,9,21,137,30,126,6,126,21,11,19,Școala Gimnazială nr. 11,Str. Moldovei nr. 55,Oradea,47.076,21.9227
+100,5,BIHOR,MUNICIPIUL ORADEA,176,41,171,18,162,21,21,44,179,39,177,17,161,23,18,38,Școala Gimnazială nr. 11,Str. Moldovei nr. 55,Oradea,47.076,21.9227
+101,5,BIHOR,MUNICIPIUL ORADEA,147,47,144,11,105,17,22,34,154,45,139,12,107,22,18,25,Școala Gimnazială nr. 11,Str. Moldovei nr. 55,Oradea,47.076,21.9227
+102,5,BIHOR,MUNICIPIUL ORADEA,131,23,98,9,88,12,15,29,119,28,103,9,89,21,14,24,Școala Gimnazială nr. 11,Str. Moldovei nr. 55,Oradea,47.076,21.9227
+103,5,BIHOR,MUNICIPIUL ORADEA,217,44,184,10,135,23,18,51,212,45,186,9,138,25,21,47,Școala Gimnazială nr. 11,Str. Moldovei nr. 55,Oradea,47.076,21.9227
+104,5,BIHOR,MUNICIPIUL ORADEA,178,52,200,8,83,25,19,34,181,42,210,9,83,25,21,32,Școala Gimnazială nr. 11,Str. Moldovei nr. 55,Oradea,47.076,21.9227
+105,5,BIHOR,MUNICIPIUL ORADEA,108,31,96,17,51,14,11,19,112,27,104,14,50,10,11,21,Școala Gimnazială nr. 11,Str. Moldovei nr. 55,Oradea,47.076,21.9227
+106,5,BIHOR,MUNICIPIUL ORADEA,171,51,196,6,91,24,17,33,161,45,205,8,92,31,18,33,Școala Gimnazială nr. 11,Str. Moldovei nr. 55,Oradea,47.076,21.9227
+107,5,BIHOR,MUNICIPIUL ORADEA,202,61,194,18,156,19,13,39,203,57,199,16,157,24,18,32,Grădinița cu Program Prelungit nr. 41,Str. Prof. dr. Ioan Cantacuzino (Str. Prof.dr. Ion Cantacuzino) nr. 68,Oradea,47.0759,21.9241
+108,5,BIHOR,MUNICIPIUL ORADEA,200,56,227,14,133,23,20,41,198,55,229,11,139,27,19,38,Grădinița cu Program Prelungit nr. 41,Str. Prof. dr. Ioan Cantacuzino (Str. Prof.dr. Ion Cantacuzino) nr. 68,Oradea,47.0759,21.9241
+109,5,BIHOR,MUNICIPIUL ORADEA,218,103,331,35,143,15,22,47,227,91,327,38,139,14,27,50,Școala Gimnazială „Ion Bogdan”,Str. Ion Bogdan nr. 13 A,Oradea,47.0882,21.9221
+110,5,BIHOR,MUNICIPIUL ORADEA,192,61,278,14,108,33,19,40,180,60,277,17,116,39,22,37,Școala Gimnazială „Ion Bogdan”,Str. Ion Bogdan nr. 13 A,Oradea,47.0882,21.9221
+111,5,BIHOR,MUNICIPIUL ORADEA,150,32,189,13,185,26,19,32,151,37,177,9,180,31,26,38,Grădinița „Waldorf” (fostă Școala Gimnazială „Dacia”),Str. Călimăneștilor nr. 10,Oradea,47.0724,21.9377
+112,5,BIHOR,MUNICIPIUL ORADEA,150,52,163,18,182,32,15,27,160,46,176,17,187,32,26,35,Grădinița „Waldorf” (fostă Școala Gimnazială „Dacia”),Str. Călimăneștilor nr. 10,Oradea,47.0724,21.9377
+113,5,BIHOR,MUNICIPIUL ORADEA,126,50,146,15,145,28,25,50,133,46,152,14,142,28,30,47,Grădinița cu Program Prelungit nr. 23,Str. Republicii nr. 41,Oradea,47.0629,21.9384
+114,5,BIHOR,MUNICIPIUL ORADEA,150,116,272,15,213,49,31,69,146,112,284,15,217,46,41,66,Grădinița cu Program Prelungit nr. 23,Str. Republicii nr. 41,Oradea,47.0629,21.9384
+115,5,BIHOR,MUNICIPIUL ORADEA,171,86,279,26,185,32,32,52,169,80,286,23,189,26,39,58,Grădinița cu Program Normal nr. 16,Str. Gen. Henri Mathias Berthelot (Str. G-ral Henri Mathias Berthelot) nr. 1,Oradea,47.0562,21.9408
+116,5,BIHOR,MUNICIPIUL ORADEA,158,44,127,21,196,17,28,42,155,44,130,16,201,17,33,42,Universitatea din Oradea Facultatea de Textile-Pielărie,Str. Barbu Ștefănescu Delavrancea nr. 4,Oradea,47.0591,21.9418
+117,5,BIHOR,MUNICIPIUL ORADEA,159,80,142,10,98,33,26,42,152,69,144,15,101,33,33,45,Universitatea din Oradea Facultatea de Textile-Pielărie,Str. Barbu Ștefănescu Delavrancea nr. 4,Oradea,47.0591,21.9418
+118,5,BIHOR,MUNICIPIUL ORADEA,111,54,108,10,150,19,22,42,106,55,118,11,151,21,21,32,Liceul de Artă,Parcul Petőfi Sándor nr. 24-26,Oradea,47.0657,21.9334
+119,5,BIHOR,MUNICIPIUL ORADEA,173,62,147,14,169,21,31,50,181,60,150,12,167,16,33,50,Palatul Copiilor și Elevilor,Str. Muzeului nr. 2,Oradea,47.0675,21.9346
+120,5,BIHOR,MUNICIPIUL ORADEA,80,28,102,11,190,15,16,28,69,30,106,13,194,16,18,26,Colegiul Național „Mihai Eminescu”,Str. Episcop Roman Ciorogariu (Str. Porțile de Fier) nr. 18,Oradea,47.0606,21.9306
+121,5,BIHOR,MUNICIPIUL ORADEA,149,62,180,16,165,47,25,50,157,56,183,13,166,41,35,54,Școala Gimnazială „Szacsvay Imre”,Str. Mihai Eminescu (Str. Mihail Eminescu) nr. 28,Oradea,47.0623,21.9314
+122,5,BIHOR,MUNICIPIUL ORADEA,173,59,149,19,166,31,23,47,181,61,147,19,164,33,27,44,Liceul Teoretic „Ady Endre”,Str. Moscovei nr. 1,Oradea,47.0578,21.9319
+123,5,BIHOR,MUNICIPIUL ORADEA,234,75,166,26,154,30,45,70,221,67,169,24,166,38,47,68,Liceul Reformat „Lorantffy Zsuzsanna”,Str. Mitropolit Andrei Șaguna (Str. 1 Decembrie 1918) nr. 1,Oradea,47.0567,21.9352
+124,5,BIHOR,MUNICIPIUL ORADEA,149,72,140,14,131,31,14,29,142,77,139,17,134,33,20,27,Colegiul Național „Emanuil Gojdu”,Str. Spiru Haret nr. 3-5,Oradea,47.0548,21.9375
+125,5,BIHOR,MUNICIPIUL ORADEA,129,39,96,9,78,26,23,40,127,43,102,5,77,30,21,34,Colegiul Național „Emanuil Gojdu”,Str. Spiru Haret nr. 3-5,Oradea,47.0548,21.9375
+126,5,BIHOR,MUNICIPIUL ORADEA,76,32,86,9,77,13,13,22,75,34,87,5,81,15,15,20,Liceul Teoretic „Aurel Lazăr”,Str. Avram Iancu nr. 10,Oradea,47.0519,21.9277
+127,5,BIHOR,MUNICIPIUL ORADEA,64,26,100,6,129,13,10,21,68,26,101,7,129,16,8,13,Liceul Greco-Catolic „Iuliu Maniu”,Str. Iuliu Maniu (Str. Dr. Petru Groza) nr. 5,Oradea,47.0542,21.9266
+128,5,BIHOR,MUNICIPIUL ORADEA,71,27,110,8,93,16,10,25,74,27,106,8,99,17,14,23,Liceul Greco-Catolic „Iuliu Maniu”,Str. Iuliu Maniu (Str. Dr. Petru Groza) nr. 5,Oradea,47.0542,21.9266
+129,5,BIHOR,MUNICIPIUL ORADEA,54,21,87,15,125,13,7,20,56,25,86,12,127,10,8,21,Colegiul Național „Iosif Vulcan”,Str. Jean Calvin (Str. Craiovei) nr. 3,Oradea,47.056,21.9237
+130,5,BIHOR,MUNICIPIUL ORADEA,88,30,54,4,113,10,16,25,88,33,47,4,115,13,15,22,Colegiul Național „Iosif Vulcan”,Str. Jean Calvin (Str. Craiovei) nr. 3,Oradea,47.056,21.9237
+131,5,BIHOR,MUNICIPIUL ORADEA,63,27,92,17,101,17,7,26,63,27,97,18,102,17,5,19,Liceul Teoretic German „Friedrich Schiller”,Piața Cazărmii nr. 7,Oradea,47.0617,21.9217
+132,5,BIHOR,MUNICIPIUL ORADEA,114,61,155,15,186,35,9,31,113,53,152,18,190,40,14,33,Liceul Teoretic German „Friedrich Schiller”,Piața Cazărmii nr. 7,Oradea,47.0617,21.9217
+133,5,BIHOR,MUNICIPIUL ORADEA,81,39,137,16,57,17,9,27,77,37,137,20,61,20,11,24,Liceul Teoretic German „Friedrich Schiller”,Str. William Shakespeare nr. 22,Oradea,47.0637,21.9198
+134,5,BIHOR,MUNICIPIUL ORADEA,123,47,134,7,100,34,10,30,117,43,137,9,106,29,15,35,Liceul Teoretic German „Friedrich Schiller”,Str. William Shakespeare nr. 22,Oradea,47.0637,21.9198
+135,5,BIHOR,MUNICIPIUL ORADEA,191,67,252,19,101,41,23,34,177,70,257,18,106,41,23,35,Colegiul Tehnic „Andrei Șaguna”,Bulevardul Decebal (Str. Decebal) nr. 60,Oradea,47.0575,21.917
+136,5,BIHOR,MUNICIPIUL ORADEA,175,52,185,19,47,30,20,40,173,43,190,22,48,33,21,39,Colegiul Tehnic „Andrei Șaguna”,Bulevardul Decebal (Str. Decebal) nr. 60,Oradea,47.0575,21.917
+137,5,BIHOR,MUNICIPIUL ORADEA,144,39,162,11,47,28,14,26,137,37,164,10,50,34,17,27,Colegiul Tehnic „Andrei Șaguna”,Bulevardul Decebal (Str. Decebal) nr. 60,Oradea,47.0575,21.917
+138,5,BIHOR,MUNICIPIUL ORADEA,130,28,125,20,61,18,10,21,125,32,129,20,61,18,10,18,Colegiul Tehnic „Andrei Șaguna”,Bulevardul Decebal (Str. Decebal) nr. 60,Oradea,47.0575,21.917
+139,5,BIHOR,MUNICIPIUL ORADEA,182,42,176,6,18,21,17,32,175,45,175,8,16,20,25,36,Școala Gimnazială „Avram Iancu”,Str. Gheorghe Pop de Băsești (Str. Cuvîntul Liber) nr. 3-3 A,Oradea,47.0573,21.9006
+140,5,BIHOR,MUNICIPIUL ORADEA,166,41,180,9,39,17,21,39,160,42,172,12,41,26,26,40,Școala Gimnazială „Avram Iancu”,Str. Gheorghe Pop de Băsești (Str. Cuvîntul Liber) nr. 3-3 A,Oradea,47.0573,21.9006
+141,5,BIHOR,MUNICIPIUL ORADEA,273,63,239,19,32,33,29,53,289,54,236,11,37,34,33,54,Grădinița cu Program Prelungit nr. 44,Str. Aviatorilor nr. 2,Oradea,47.052,21.9059
+142,5,BIHOR,MUNICIPIUL ORADEA,271,109,277,18,75,41,41,56,269,116,278,16,80,43,44,53,Grădinița cu Program Prelungit nr. 44,Str. Aviatorilor nr. 2,Oradea,47.052,21.9059
+143,5,BIHOR,MUNICIPIUL ORADEA,260,90,337,23,81,29,33,63,261,89,338,22,79,38,34,57,Imprimeria de Vest,Calea Aradului (Str. Mareșal Ion Antonescu) nr. 105,Oradea,47.0533,21.9082
+452,5,BIHOR,MĂGEŞTI,91,7,57,1,1,7,5,9,80,5,67,1,1,7,7,10,Școala Generală,Nr. 157,Ortiteag,47.032,22.442
+272,5,BIHOR,BRUSTURI,47,2,24,5,1,17,8,12,49,1,26,4,2,14,7,9,Școala Orvișele,Nr. 91,Orvișele,47.1316,22.2282
+529,5,BIHOR,SĂLACEA,8,1,3,0,266,2,1,4,8,1,3,0,265,1,1,7,Căminul Cultural,Nr. 272,Otomani,47.4359,22.2317
+420,5,BIHOR,HUSASĂU DE TINCA,113,0,20,1,2,0,0,7,108,3,21,2,1,0,0,3,Școala cu Clasele I-IV Oșand,Nr. 70,Oșand,46.841,21.9642
+468,5,BIHOR,OŞORHEI,96,23,153,12,146,13,12,25,102,19,152,11,146,14,17,28,Școala Gimnazială „Aurel Pop” Oșorhei,Nr. 109,Oșorhei,47.0413,22.0285
+469,5,BIHOR,OŞORHEI,110,27,173,7,114,11,12,23,121,24,163,8,116,12,8,22,Școala Gimnazială „Aurel Pop” Oșorhei,Nr. 109,Oșorhei,47.0413,22.0285
+474,5,BIHOR,PALEU,79,56,126,9,295,33,9,18,71,55,132,11,293,34,9,16,Școala cu Clasele I-IV,Nr. 20,Paleu,47.115,21.9571
+560,5,BIHOR,SÎNTANDREI,41,11,60,4,53,4,4,27,37,12,71,5,56,3,4,12,Camin Cultural Palota,Nr. 20,Palota,47.0611,21.8217
+605,5,BIHOR,TĂMĂŞEU,32,1,22,4,89,2,3,9,32,2,24,3,89,3,2,7,Școala Generală,Nr. 25,Parhida,47.2342,21.8712
+344,5,BIHOR,COCIUBA MARE,147,0,184,6,1,6,3,5,140,0,189,5,1,5,4,7,Grădinița Petid,Nr. 268,Petid,46.7171,22.0787
+486,5,BIHOR,POCOLA,122,4,37,6,1,10,5,10,130,3,31,6,1,9,5,10,Camin Cultural Petrani,Nr. 156,Petrani,46.6891,22.2682
+514,5,BIHOR,REMETEA,124,5,56,1,1,3,7,9,124,6,58,1,1,3,8,8,Școala Primară nr. 1,Nr. 36,Petreasa,46.7131,22.3467
+227,5,BIHOR,ABRĂMUŢ,57,9,16,7,523,1,7,16,56,7,12,7,538,2,7,10,Grădinița cu Program Normal nr. 1 Petreu,Nr. 287,Petreu,47.3371,22.2945
+519,5,BIHOR,RIENI,75,9,40,2,0,37,1,2,74,8,39,1,0,37,2,3,Cămin Cultural Petrileni,Nr. 32A,Petrileni,46.5555,22.4463
+232,5,BIHOR,AŞTILEU,155,5,142,4,0,10,5,10,155,6,143,5,1,10,7,12,Școala Primară nr. 2 Peștere,Nr. 181,Peștere,47.0253,22.3776
+184,5,BIHOR,ORAŞ ALEŞD,147,12,182,14,1,11,10,43,156,11,185,19,1,16,11,24,Școala Gimnazială nr. 1,Nr. 24,Peștiș,47.0724,22.4107
+274,5,BIHOR,BRUSTURI,248,5,38,11,2,7,4,34,254,5,49,13,3,9,3,14,Căminul Cultural Picleu,Nr. 65,Picleu,47.1437,22.2601
+477,5,BIHOR,PIETROASA,188,4,62,1,2,16,14,34,179,4,66,2,4,18,16,33,Școala Gimnazială nr. 1 Pietroasa,Nr. 217,Pietroasa,46.591,22.5563
+330,5,BIHOR,CHIŞLAZ,16,1,10,2,66,3,3,4,12,1,9,3,69,4,3,4,Școala Poclușa de Barcău,Nr. 153,Poclușa de Barcău,47.2565,22.1968
+588,5,BIHOR,ŞOIMI,25,0,15,2,1,1,2,5,26,0,17,2,1,1,1,1,Fosta Școală cu Clasele I-IV,Nr. 61,Poclușa de Beiuș,46.6509,22.0893
+484,5,BIHOR,POCOLA,175,11,43,4,0,10,8,10,168,13,47,5,0,12,7,7,Caminul Cultural Pocola,Nr. 65,Pocola,46.6946,22.2932
+353,5,BIHOR,CRIŞTIORU DE JOS,103,4,82,2,0,1,16,21,101,5,86,1,0,3,14,19,Căminul Cultural,Nr. 106,Poiana,46.4485,22.581
+611,5,BIHOR,TĂUTEU,23,3,14,1,11,11,3,6,24,2,17,1,11,8,2,4,Școala Primară,Nr. 74,Poiana,47.2926,22.3465
+349,5,BIHOR,COPĂCEL,40,0,18,9,0,3,1,3,43,0,18,9,0,2,1,3,Școala Primară nr. 4,Nr. 78,Poiana Tășad,46.9539,22.1691
+292,5,BIHOR,BUNTEŞTI,107,9,130,4,1,18,6,16,101,9,125,5,1,27,6,16,Școala cu Clasele I-VIII,Nr. 74,Poienii de Jos,46.6064,22.5045
+293,5,BIHOR,BUNTEŞTI,86,9,92,2,1,29,8,12,85,12,98,3,1,22,10,12,Cămin Cultural,Nr. 114,Poienii de Sus,46.6076,22.5162
+493,5,BIHOR,POMEZEU,30,2,38,0,3,1,1,4,31,3,37,0,3,1,1,4,Școala Gimnazială nr. 1 Pomezeu,Nr. 80,Pomezeu,46.7936,22.2882
+267,5,BIHOR,BRATCA,84,1,70,53,1,12,0,6,90,2,68,52,1,11,0,5,Căminul Cultural,Nr. 198,Ponoară,46.8851,22.6548
+496,5,BIHOR,POPEŞTI,130,6,68,0,42,8,9,29,135,8,73,0,46,9,8,12,Liceul Tehnologic nr. 1 Popesti,Nr. 191A,Popești,47.237,22.4193
+497,5,BIHOR,POPEŞTI,193,8,119,3,59,17,9,21,195,11,120,3,55,19,10,13,Liceul Tehnologic nr. 1 Popesti,Nr. 191A,Popești,47.237,22.4193
+620,5,BIHOR,TILEAGD,21,2,14,4,65,1,0,2,19,3,14,4,64,1,0,2,Cămin Cultural,Nr. 124,Poșoloaca,47.0625,22.239
+640,5,BIHOR,UILEACU DE BEIUŞ,214,2,33,0,1,0,7,7,219,2,30,0,1,2,5,6,Grădinița cu Program Normal nr. 3,Nr. 112,Prisaca,46.7098,22.2257
+389,5,BIHOR,DRĂGĂNEŞTI,53,1,18,0,1,20,5,11,44,0,22,0,1,23,9,15,Caminul Cultural Pacalesti,Nr. 37,Păcălești,46.6234,22.4057
+186,5,BIHOR,ORAŞ ALEŞD,35,0,49,1,82,2,3,24,40,0,61,2,83,2,2,6,Școala Primară nr. 2,Nr. fara numar,Pădurea Neagră,47.1604,22.4242
+252,5,BIHOR,BOIANU MARE,62,1,58,2,4,86,10,19,65,1,58,2,6,86,10,16,Școala cu Clasele I- VIII „Învățător Gâlgău Iosif” Păgaia,Nr. 61,Păgaia,47.4074,22.4975
+385,5,BIHOR,DRĂGĂNEŞTI,47,1,20,3,1,8,5,8,43,1,21,2,1,8,8,12,Caminul Cultural Pantasesti,Nr. 1,Păntășești,46.6184,22.3995
+273,5,BIHOR,BRUSTURI,55,4,12,1,3,46,9,12,53,4,13,1,3,46,10,12,Căminul Cultural Păulești,Nr. 126,Păulești,47.1746,22.2178
+462,5,BIHOR,NOJORID,102,0,19,4,1,3,4,5,102,0,21,3,1,4,3,4,Școala cu Cl. I-IV Păușa nr. 37/B,,Păușa,46.9476,21.8691
+649,5,BIHOR,VIIŞOARA,10,0,7,0,6,2,3,4,10,0,7,0,6,2,3,4,Cămin Cultural,Nr. 77,Reghea,47.3778,22.4812
+511,5,BIHOR,REMETEA,163,3,54,3,190,6,2,8,165,2,54,1,194,7,1,6,Școala Gimnazială nr. 1,Nr. 298,Remetea,46.7389,22.3471
+286,5,BIHOR,BULZ,177,14,144,7,0,5,10,31,171,16,151,8,1,8,9,26,Școala Gimnazială nr. 2 Remeți,Nr. 130,Remeți,46.8439,22.6523
+516,5,BIHOR,RIENI,68,5,98,2,0,22,1,7,70,7,94,1,0,23,1,8,Cămin Cultural Rieni,Nr. 151,Rieni,46.5753,22.4461
+547,5,BIHOR,SÎMBĂTA,88,0,23,1,0,24,3,4,87,1,25,1,0,23,3,4,Caminul Cultural,Nr. 21/A,Rogoz,46.7947,22.1708
+301,5,BIHOR,CĂPÎLNA,35,1,19,0,4,4,1,4,37,0,20,0,4,3,1,2,Școala Generală,Nr. 23,Rohani,46.7494,22.0941
+542,5,BIHOR,SÂNNICOLAU ROMÂN,112,1,107,3,3,12,2,6,110,2,114,2,3,14,0,4,Grădinița,Nr. 93,Roit,46.9816,21.7077
+555,5,BIHOR,SÎNMARTIN,308,14,82,26,1,7,8,14,305,14,81,27,4,9,9,14,Școala Generală cu Clasele I-IV,Nr. FN,Rontău,47.004,21.9948
+546,5,BIHOR,SÎMBĂTA,53,0,25,3,2,5,2,5,52,1,26,4,2,5,2,2,Caminul Cultural,Nr. 107,Rotărești,46.7961,22.2289
+521,5,BIHOR,ROŞIA,457,11,305,5,1,22,15,47,461,9,318,2,0,20,17,42,Căminul Cultural Roșia,Nr. 40,Roșia,46.8072,22.398
+523,5,BIHOR,ROŞIORI,20,6,21,4,556,3,6,13,22,4,24,4,566,3,4,9,Școala Gimnazială „Jako Zsigmond”,Nr. 265,Roșiori,47.2585,21.9591
+627,5,BIHOR,TINCA,72,5,71,10,3,6,15,30,71,8,69,9,3,6,15,29,Școala Generală,Nr. 344,Râpa,46.7819,22.0284
+505,5,BIHOR,RĂBĂGANI,105,2,99,5,1,4,4,10,106,4,99,7,1,4,1,8,Căminul Cultural,Nr. 163,Răbăgani,46.7476,22.2331
+279,5,BIHOR,BUDUREASA,51,1,16,8,0,2,2,5,49,2,15,7,0,4,2,7,Căminul Cultural,Nr. 88,Saca,46.6615,22.4676
+364,5,BIHOR,DERNA,60,3,42,0,1,6,4,13,61,2,40,0,1,11,3,11,Școala Primară nr. 1,Nr. 109,Sacalasău,47.1969,22.285
+365,5,BIHOR,DERNA,13,1,6,1,1,1,1,35,35,3,10,1,1,2,3,10,Școala Primară nr. 2,Nr. 20,Sacalasău Nou,47.186,22.3221
+507,5,BIHOR,RĂBĂGANI,32,0,24,1,0,1,1,2,31,0,24,2,0,1,1,2,Căminul Cultural,Nr. 21,Saliște de Pomezeu,46.7467,22.2889
+164,5,BIHOR,MUNICIPIUL SALONTA,72,11,49,4,430,3,13,22,79,12,46,3,430,5,12,16,Fostul Magazin Wagner,Str. Tincii nr. 22A,Salonta,46.7962,21.6731
+165,5,BIHOR,MUNICIPIUL SALONTA,72,16,33,8,433,7,2,10,72,14,35,8,435,5,3,9,Grădinița Floarea Soarelui,Str. Kulin György (Str. Muncii) nr. 62,Salonta,46.7973,21.6649
+166,5,BIHOR,MUNICIPIUL SALONTA,52,23,38,5,427,6,7,12,53,22,40,5,427,5,9,14,Liceul Teoretic Arany Janos,Str. Jean Calvin (Str. Înfrățirii) nr. 2,Salonta,46.8008,21.6604
+167,5,BIHOR,MUNICIPIUL SALONTA,43,10,15,3,250,2,1,6,45,9,16,3,253,1,1,5,Grădinița Curcubeu,"Str. Batthyány Lajos (Str. Batthyanyi Lajos, Str. Porțile de Fier) nr. 30",Salonta,46.7973,21.6538
+168,5,BIHOR,MUNICIPIUL SALONTA,106,30,43,6,316,14,6,17,101,31,48,6,315,17,7,16,Casa de Cultură Zilahy Lajos,Str. Iuliu Maniu (Str. 1 Mai) nr. 10,Salonta,46.8037,21.6608
+169,5,BIHOR,MUNICIPIUL SALONTA,86,44,38,0,222,14,8,22,84,41,43,1,223,13,9,20,Grădinița Toldi,Str. Republicii (Aleea Zona Gării) nr. 2,Salonta,46.8021,21.6596
+170,5,BIHOR,MUNICIPIUL SALONTA,49,16,37,3,161,1,9,18,44,15,41,3,163,2,11,17,Colegiul Național Teodor Neș,Str. Republicii (Aleea Zona Gării) nr. 90,Salonta,46.8059,21.6469
+171,5,BIHOR,MUNICIPIUL SALONTA,169,27,65,11,192,21,13,23,172,27,69,12,187,19,16,24,Grădinița Ursuleț,Str. Republicii (Aleea Zona Gării) (D) nr. 113,Salonta,46.8074,21.6456
+172,5,BIHOR,MUNICIPIUL SALONTA,63,23,17,4,40,6,8,16,62,23,19,3,40,11,6,13,Grădinița Ursuleț,Str. Republicii (Aleea Zona Gării) nr. 113,Salonta,46.8074,21.6456
+173,5,BIHOR,MUNICIPIUL SALONTA,27,3,26,1,171,5,7,11,23,3,27,1,172,6,7,10,Casa Sfântul Anton,Str. Republicii (Aleea Zona Gării) nr. 72,Salonta,46.8047,21.6511
+174,5,BIHOR,MUNICIPIUL SALONTA,100,7,47,9,171,6,11,37,109,9,46,9,168,8,10,19,Școala Generală,Str. Ion Creangă nr. 1,Salonta,46.8114,21.6491
+175,5,BIHOR,MUNICIPIUL SALONTA,112,32,73,9,443,8,15,28,111,32,71,10,443,8,18,27,Grădinița Fluierașul Fermecat,Str. Bihorului nr. 49,Salonta,46.8059,21.6563
+176,5,BIHOR,MUNICIPIUL SALONTA,111,22,67,4,115,1,10,20,114,19,71,5,113,3,5,13,Liceul Tehnologic nr. 1,Str. Șarcadului nr. 1,Salonta,46.7995,21.6401
+177,5,BIHOR,MUNICIPIUL SALONTA,66,4,37,6,258,3,3,11,63,4,40,6,262,4,5,10,Grădinița Prichindel,Str. Olimpiadei (Str. Steagul Roșu) nr. 32,Salonta,46.799,21.6466
+178,5,BIHOR,MUNICIPIUL SALONTA,102,8,49,5,97,6,8,19,97,10,50,4,94,9,11,21,Școala Generală Füveskert,Str. Andrei Mureșanu (Str. Crîngului) nr. 1,Salonta,46.807,21.6306
+262,5,BIHOR,BORŞ,6,4,15,2,140,2,1,2,6,6,12,3,139,2,1,3,Școala Generală Santăul Mare,Nr. 68,Santăul Mare,47.1688,21.8353
+263,5,BIHOR,BORŞ,13,3,11,1,225,1,2,5,12,4,11,1,225,1,2,5,Căminul Cultural Santăul Mic,Nr. 156,Santăul Mic,47.1414,21.8347
+566,5,BIHOR,SÎRBI,21,0,2,0,1,2,1,3,21,0,2,0,1,2,1,2,Școala Generală,Nr. 107,Sarcău,47.2113,22.1531
+220,5,BIHOR,ABRAM,46,0,22,6,1,4,9,11,43,0,23,5,1,3,13,14,Cămin Cultural,Nr. 74,Satu Barbă,47.2993,22.4454
+602,5,BIHOR,TĂMĂŞEU,12,2,1,1,96,1,1,2,11,3,1,1,95,1,1,2,Căminul Cultural,Nr. 42,Satu Nou,47.1977,21.9199
+443,5,BIHOR,LUNCA,90,6,228,4,1,13,5,7,82,5,232,5,1,14,5,9,Căminul Cultural Seghiște,Nr. 69,Seghiște,46.5388,22.4879
+539,5,BIHOR,SÂNIOB,23,8,22,6,1,3,7,9,21,8,22,6,2,3,8,11,Școala Generală,Nr. 17,Sfârnaș,47.2358,22.0877
+339,5,BIHOR,CÎMPANI,68,1,85,0,0,6,0,2,62,1,85,0,0,7,2,5,Școala Primară Sighiștel,Nr. 29/A,Sighiștel,46.5191,22.5419
+492,5,BIHOR,POMEZEU,84,0,66,2,1,2,6,13,88,0,70,2,0,3,3,8,Grădinița cu Program Normal nr. 2 Sitani,Nr. 153,Sitani,46.813,22.3006
+421,5,BIHOR,HUSASĂU DE TINCA,87,0,20,3,1,2,2,7,84,0,23,2,1,1,3,7,Școala cu Clasele I-IV Sititelec,Nr. 311,Sititelec,46.876,21.8986
+299,5,BIHOR,CĂBEŞTI,80,1,29,1,1,4,1,5,78,2,31,1,1,2,2,6,Căminul Cultural,Nr. 136,Sohodol,46.7806,22.4278
+515,5,BIHOR,REMETEA,28,3,41,1,1,2,1,2,26,4,43,1,1,3,2,2,Căminul Cultural Șoimuș,Nr. 55,Soimuș,46.7174,22.3296
+567,5,BIHOR,SPINUŞ,52,0,69,5,6,11,6,8,48,0,68,8,7,12,5,8,Școala Gimnazială nr. 1 Spinus,Nr. 1P,Spinuș,47.1996,22.189
+490,5,BIHOR,POMEZEU,31,0,71,1,0,1,1,3,28,0,77,0,0,1,2,3,Cămin Cultural Spinuș de Pomezeu,Nr. 86B,Spinuș de Pomezeu,46.7864,22.2723
+392,5,BIHOR,DRĂGEŞTI,39,1,70,0,2,1,4,9,40,1,71,0,1,1,6,9,Școala cu Clasele I-IV,Nr. 8,Stracoș,46.9097,22.1433
+295,5,BIHOR,BUNTEŞTI,39,3,109,0,0,42,1,2,39,3,113,0,0,39,1,1,Școala Gimnazială nr. 3,Nr. 53,Stâncești,46.5884,22.5171
+635,5,BIHOR,ŢEŢCHEA,122,0,64,6,1,2,5,8,118,1,66,7,1,2,4,9,Cămin Cultural,Nr. 79,Subpiatră,47.0254,22.3064
+520,5,BIHOR,RIENI,59,3,70,4,0,9,2,9,54,2,86,6,0,6,1,4,Cămin Cultural Sudrigiu,Nr. 55,Sudrigiu,46.5918,22.4299
+223,5,BIHOR,ABRAM,48,3,107,4,2,19,10,14,51,2,107,4,2,17,11,13,Școală Primară nr. 3,Nr. 52,Suiug,47.3195,22.4301
+572,5,BIHOR,SUPLACU DE BARCĂU,53,3,144,2,154,4,1,29,55,4,150,1,162,8,2,7,Liceul Tehnologic nr. 1 Suplacu de Barcau,Piața Republicii nr. 1,Suplacu de Barcău,47.2596,22.5277
+573,5,BIHOR,SUPLACU DE BARCĂU,88,17,116,2,141,13,11,26,91,16,115,1,144,16,14,24,Fost Sediu Primarie,Str. Minerilor nr. 2,Suplacu de Barcău,47.2571,22.5306
+303,5,BIHOR,CĂPÎLNA,94,4,41,2,3,12,4,8,96,1,43,3,3,12,3,7,Școala Generală,Nr. 202,Suplacu de Tinca,46.7048,22.1117
+347,5,BIHOR,COPĂCEL,131,0,67,6,1,6,1,5,130,0,70,6,1,4,1,4,Cămin Cultural,Nr. 79,Surduc,46.9741,22.2002
+543,5,BIHOR,SÎMBĂTA,102,1,40,7,0,10,9,19,96,1,42,7,0,13,10,21,Caminul Cultural,Nr. 103,Sâmbăta,46.8022,22.2008
+536,5,BIHOR,SÂNIOB,15,2,44,2,546,1,3,10,16,2,39,2,558,1,4,7,Casa de Nuntă,Nr. 559,Sâniob,47.2632,22.1286
+332,5,BIHOR,CHIŞLAZ,56,5,35,0,1,9,5,13,57,6,35,1,1,11,3,11,Fosta Școală Primară Sînlazăr,Nr. 167,Sânlazăr,47.2918,22.2495
+549,5,BIHOR,SÎNMARTIN,400,45,254,28,31,26,25,44,396,40,263,25,34,30,29,44,Grădinița Sânmartin,Str. Ioan Slavici,Sânmartin,47.0036,21.9762
+550,5,BIHOR,SÎNMARTIN,330,81,344,42,37,32,15,42,327,74,351,43,38,44,20,36,Școala cu Clasele I-VIII,Nr. 1,Sânmartin,47.0066,21.9727
+487,5,BIHOR,POCOLA,74,2,44,5,1,4,3,5,70,2,45,4,1,5,6,6,Camin Cultural Sinmartin de Beiuș,Nr. 35,Sânmartin de Beiuș,46.69,22.3211
+540,5,BIHOR,SÂNNICOLAU ROMÂN,134,4,278,15,11,29,4,19,130,4,286,13,9,36,6,13,Camin Cultural,Nr. 1.00,Sânnicolau Român,46.9603,21.7127
+586,5,BIHOR,ŞOIMI,35,2,17,1,1,3,5,7,36,3,15,1,1,3,5,7,Fosta Școală cu Clasele I-IV,Nr. 85,Sânnicolau de Beiuș,46.692,22.1139
+192,5,BIHOR,ORAŞ SĂCUENI,36,0,3,0,257,2,1,6,32,0,3,0,260,2,1,2,Școala Generală,Nr. 26,Sânnicolau de Munte,47.3044,22.1328
+557,5,BIHOR,SÎNTANDREI,161,47,324,6,10,25,20,35,157,50,324,7,12,27,24,33,Școala Gimnazială nr. 1 Sintandrei,Nr. 310,Sântandrei,47.067,21.8532
+558,5,BIHOR,SÎNTANDREI,158,42,329,9,12,20,15,32,159,45,338,7,13,20,17,20,Școala Gimnazială nr. 1 Sintandrei,Nr. 310,Sântandrei,47.067,21.8532
+559,5,BIHOR,SÎNTANDREI,218,34,380,6,22,17,33,49,215,34,378,5,20,21,37,50,Școala Gimnazială nr. 1 Sintandrei,Nr. 310,Sântandrei,47.067,21.8532
+407,5,BIHOR,HIDIŞELU DE SUS,58,1,35,6,4,13,5,7,59,0,41,5,4,12,4,6,Școala Primară Sîntelec,Nr. 65,Sântelec,46.9572,22.0632
+535,5,BIHOR,SĂLARD,10,1,3,0,175,3,0,0,9,1,4,0,176,2,0,2,Școala Primară nr. 2,Nr. 282,Sântimreu,47.2492,22.0463
+261,5,BIHOR,BORŞ,25,17,43,2,680,3,4,16,27,14,49,3,674,1,3,11,Grădinița Sîntion,Nr. 33,Sântion,47.0955,21.8349
+444,5,BIHOR,LUNCA,57,0,90,6,1,8,2,4,56,1,89,4,1,11,3,4,Caminul Cultural Sirbesti,Nr. 81,Sârbești,46.5016,22.4847
+561,5,BIHOR,SÎRBI,303,2,104,7,2,26,5,8,292,2,105,6,2,28,7,14,Camin Cultural,Nr. 242,Sârbi,47.1929,22.1202
+527,5,BIHOR,SĂCĂDAT,82,1,58,1,3,48,2,8,79,3,56,2,3,48,1,6,Cămin Cultural,Nr. 22/A,Săbolciu,47.0734,22.1544
+193,5,BIHOR,ORAŞ SĂCUENI,28,1,30,0,244,5,4,12,30,3,37,0,239,4,5,7,Școala cu Clasele I-IV,Str. Petőfi Sándor nr. 19,Săcueni,47.349,22.0962
+194,5,BIHOR,ORAŞ SĂCUENI,108,0,12,0,505,3,1,17,104,0,14,8,521,2,2,7,Grădinița și Școala cu Clasele I-IV,Calea Janos Irinyi nr. 25,Săcueni,47.3524,22.1083
+195,5,BIHOR,ORAŞ SĂCUENI,27,0,15,4,386,6,3,6,30,1,12,3,387,4,4,7,Grădiniță cu Program Prelungit,Str. Morii nr. 58,Săcueni,47.3531,22.0907
+196,5,BIHOR,ORAŞ SĂCUENI,57,4,12,1,189,7,3,8,60,3,12,1,189,6,4,6,Grădinița de La Locul de Casă,Str. Înfrățirii nr. 4,Săcueni,47.3591,22.0829
+197,5,BIHOR,ORAŞ SĂCUENI,59,4,20,3,389,13,5,6,65,3,20,1,390,10,6,7,Clădirea Muzeului,Str. Libertății nr. 4,Săcueni,47.353,22.0985
+526,5,BIHOR,SĂCĂDAT,174,10,67,10,1,14,20,31,178,10,65,11,1,16,22,29,Cămin Cultural,Nr. 202,Săcădat,47.042,22.1404
+530,5,BIHOR,SĂLACEA,22,1,8,1,414,1,0,3,24,1,7,1,417,2,1,3,Cămin Cultutral,Nr. 47,Sălacea,47.4604,22.3032
+531,5,BIHOR,SĂLACEA,23,2,6,0,437,1,4,4,24,2,4,0,440,1,4,4,Școală Generală,Nr. 31,Sălacea,47.459,22.304
+532,5,BIHOR,SĂLARD,76,9,60,1,229,14,7,12,74,7,60,0,231,19,7,13,Liceul Tehnologic Szalardi Janos,Nr. 430,Sălard,47.2241,22.0286
+533,5,BIHOR,SĂLARD,58,5,30,2,348,8,3,11,58,3,30,2,351,11,5,11,Liceul Tehnologic Szalardi Janos,Nr. 430,Sălard,47.2241,22.0286
+304,5,BIHOR,CĂPÎLNA,114,0,53,0,2,12,5,5,116,1,47,0,2,12,3,3,Grădinița Săldăbagiu Mic,Nr. 317,Săldăbagiu Mic,46.7389,22.1531
+242,5,BIHOR,BALC,98,3,52,4,3,3,8,12,98,3,50,5,2,5,12,14,Căminul Cultural Săldăbagiu de Barcău,Nr. 21,Săldăbagiu de Barcău,47.3007,22.4647
+476,5,BIHOR,PALEU,20,18,25,1,306,10,2,3,21,18,26,1,308,9,3,3,Școala cu Clasele I-IV,Nr. 80,Săldăbagiu de Munte,47.0905,21.9795
+570,5,BIHOR,SPINUŞ,43,2,99,4,12,3,4,5,49,2,100,0,11,4,4,5,Școala Primară nr. 1 Săliște,Nr. 191B,Săliște,47.1874,22.2258
+280,5,BIHOR,BUDUREASA,57,3,46,2,1,1,1,6,51,3,51,1,0,2,2,6,Căminul Cultural,Nr. 27,Săliște de Beiuș,46.6507,22.4455
+354,5,BIHOR,CRIŞTIORU DE JOS,97,4,59,5,5,17,11,14,97,4,62,3,4,14,13,16,Școala Gimnazială nr. 1 Săliște de Vașcău,Nr. 60,Săliște de Vașcău,46.4322,22.5401
+350,5,BIHOR,COPĂCEL,106,1,79,13,1,4,4,12,105,2,83,13,1,5,4,14,Școala Primară nr. 1,Nr. 191,Sărand,46.9987,22.1193
+331,5,BIHOR,CHIŞLAZ,43,1,20,4,14,9,1,5,44,1,22,6,13,8,1,5,Căminul Cultural Sărsig,Nr. 111,Sărsig,47.2385,22.1869
+508,5,BIHOR,RĂBĂGANI,87,2,55,0,1,3,6,8,89,1,55,0,1,5,5,5,Căminul Cultural,Nr. 136,Săucani,46.7335,22.2633
+294,5,BIHOR,BUNTEŞTI,71,6,87,5,0,18,5,9,76,8,83,5,0,14,6,8,Grădinița cu Program Normal,Nr. 100,Săud,46.6201,22.4945
+387,5,BIHOR,DRĂGĂNEŞTI,70,0,28,2,1,3,0,6,65,0,28,4,1,6,0,5,Școala Primară Talpe,Nr. 34,Talpe,46.6503,22.4203
+246,5,BIHOR,BATĂR,347,5,30,21,2,9,5,8,352,5,30,22,1,11,5,11,Grădinița Talpoș,Nr. 171,Talpoș,46.6916,21.7982
+599,5,BIHOR,TARCEA,51,3,16,7,149,2,6,9,48,2,20,6,152,1,6,12,Căminul Cultural,Nr. 245,Tarcea,47.4571,22.1745
+281,5,BIHOR,BUDUREASA,38,0,30,0,0,1,3,9,37,0,28,1,0,2,3,10,Căminul Cultural,Nr. 50,Teleac,46.6614,22.4289
+636,5,BIHOR,ŢEŢCHEA,99,1,34,2,166,37,2,7,93,2,34,4,170,34,0,6,Cămin Cultural,Nr. 121,Telechiu,47.0543,22.2773
+615,5,BIHOR,TILEAGD,190,29,145,40,140,21,13,27,183,31,138,40,141,24,19,33,Centrul Cultural Multifunctional,Nr. 1099,Tileagd,47.0718,22.198
+616,5,BIHOR,TILEAGD,119,13,73,39,46,19,12,27,121,15,78,35,47,17,15,23,Școala cu Clasele I-IV,Nr. 950,Tileagd,47.0552,22.2091
+619,5,BIHOR,TILEAGD,121,5,102,7,1,16,10,16,121,5,103,8,1,15,8,15,Cămin Cultural,Nr. 280,Tilecuș,47.0229,22.2164
+622,5,BIHOR,TINCA,135,2,226,8,13,7,4,24,141,2,241,13,17,10,7,17,Liceul Teoretic N.Jiga,Str. Republicii nr. 36/A,Tinca,46.7768,21.9289
+623,5,BIHOR,TINCA,178,8,181,19,76,23,10,18,180,11,176,18,78,26,10,18,Școala Primară I-IV,Str. Republicii nr. 73,Tinca,46.7755,21.9319
+624,5,BIHOR,TINCA,110,4,142,7,140,15,9,20,105,6,141,8,141,18,9,18,Grădinița cu Program Prelungit,Str. Horea nr. 2,Tinca,46.7732,21.9379
+185,5,BIHOR,ORAŞ ALEŞD,93,5,129,17,2,22,8,18,95,6,133,17,2,21,8,16,Grădinița cu Program Normal nr. 4,Nr. 76,Tinăud,47.0522,22.4355
+629,5,BIHOR,TOBOLIU,111,3,116,25,3,9,4,7,107,3,121,25,3,6,4,10,Școala Gimnazială Toboliu,Nr. 94,Toboliu,47.043,21.7232
+644,5,BIHOR,VADU CRIŞULUI,29,0,18,0,3,6,8,11,27,0,19,1,3,6,9,12,Școala Generală Tomnatic,Nr. 75,Tomnatic,46.9404,22.4404
+645,5,BIHOR,VADU CRIŞULUI,59,3,52,6,2,7,7,14,55,6,53,5,2,8,9,11,Școala Generală Topa de Criș,Nr. 160/A,Topa de Criș,47.0019,22.531
+378,5,BIHOR,DOBREŞTI,49,0,11,2,0,4,4,4,48,1,10,2,0,5,4,5,Școala S04 Topa de Jos,Nr. 74A,Topa de Jos,46.8443,22.2323
+379,5,BIHOR,DOBREŞTI,135,2,26,4,2,15,3,5,129,2,30,4,2,19,2,5,Căminul Cultural Topa de Sus,Nr. 156A,Topa de Sus,46.8642,22.2479
+394,5,BIHOR,DRĂGEŞTI,33,0,29,0,0,2,8,12,35,0,28,0,0,2,7,12,Căminul Cultural Topești,Nr. 9A,Topești,46.8752,22.1226
+608,5,BIHOR,TĂRCAIA,80,3,47,3,2,9,2,7,80,1,51,3,1,9,2,7,Camin Cultural,Nr. 102,Totoreni,46.6143,22.3864
+366,5,BIHOR,DERNA,71,0,35,2,3,8,1,3,67,0,37,2,3,8,1,3,Grădinița cu Program Normal nr. 3,Nr. 118,Tria,47.2318,22.2621
+631,5,BIHOR,TULCA,335,22,221,13,1,14,14,23,343,26,212,16,1,15,13,18,Căminul Cultural Tulca,Nr. 231,Tulca,46.7868,21.7723
+632,5,BIHOR,TULCA,68,2,37,1,1,2,2,6,67,3,37,1,1,1,3,7,Școala cu Clasele I-IV Tulca Nouă,Nr. 777,Tulca,46.7941,21.7438
+325,5,BIHOR,CHERECHIU,14,1,7,1,180,1,0,4,15,1,7,1,183,1,0,3,Școala Gimnazială „Bocskai Istvan”,Nr. 31,Târgușor,47.3879,22.1677
+238,5,BIHOR,AVRAM IANCU,154,1,161,1,27,5,3,11,148,1,165,2,29,7,4,8,Școala Nouă Tămașda,Nr. 181,Tămașda,46.6413,21.5546
+603,5,BIHOR,TĂMĂŞEU,17,0,10,2,450,7,1,3,15,1,10,2,451,7,1,2,Căminul Cultural,Nr. 149A,Tămășeu,47.2198,21.9226
+606,5,BIHOR,TĂRCAIA,39,2,14,1,503,3,2,9,40,2,12,1,507,5,2,6,Primăria Tarcaia,Nr. 88,Tărcaia,46.6346,22.3634
+607,5,BIHOR,TĂRCAIA,174,0,15,1,1,4,1,6,174,1,14,2,1,3,1,6,Camin Cultural,Nr. 143,Tărcăița,46.5884,22.3338
+402,5,BIHOR,GIRIŞU DE CRIŞ,60,7,71,13,219,8,3,6,58,7,70,12,224,9,4,5,Grădinița Tărian,Nr. 210,Tărian,47.0732,21.7806
+403,5,BIHOR,GIRIŞU DE CRIŞ,67,9,136,5,18,14,3,12,73,8,140,5,16,16,2,9,Cămin Cultural Tărian,Nr. 210/A,Tărian,47.0735,21.7803
+247,5,BIHOR,BATĂR,192,2,53,6,2,4,4,5,198,2,50,5,1,5,3,6,Grădinița cu Program Normal Tăut,Nr. 77,Tăut,46.7197,21.8368
+322,5,BIHOR,CETARIU,3,1,6,0,91,0,0,2,4,2,6,0,87,0,0,2,Cămin Cultural,Nr. 87,Tăutelec,47.1557,22.0323
+612,5,BIHOR,TĂUTEU,11,1,2,1,553,3,1,7,11,1,4,1,552,3,1,5,Școala Gimnazială,Nr. 209,Tăuteu,47.2709,22.3374
+393,5,BIHOR,DRĂGEŞTI,151,3,221,2,1,9,4,13,156,3,221,1,1,10,9,12,Școala cu Clasele I-VIII,Nr. 291,Tășad,46.9375,22.1228
+467,5,BIHOR,OLCEA,51,1,71,1,1,9,6,10,49,2,73,1,1,8,7,11,Grădinița cu Program Normal nr. 4 Ucuriș,Nr. 258,Ucuriș,46.6394,21.9561
+639,5,BIHOR,UILEACU DE BEIUŞ,77,6,42,3,159,4,6,14,74,5,45,4,159,4,7,12,Școala Gimnazială nr. 1,Nr. 72,Uileacu de Beiuș,46.6849,22.2212
+621,5,BIHOR,TILEAGD,60,3,59,3,90,4,1,1,62,2,56,5,90,4,1,1,Cămin Cultural,Nr. 40,Uileacu de Criș,47.0811,22.2122
+475,5,BIHOR,PALEU,12,0,3,0,208,4,1,4,11,1,3,0,210,4,1,2,Școala cu Clasele I-IV,Nr. 60,Uileacu de Munte,47.1188,21.9958
+587,5,BIHOR,ŞOIMI,31,1,17,5,1,8,1,4,28,1,19,4,1,9,1,5,Fosta Școală cu Clasele I-VIII,Nr. 101,Ursad,46.6816,22.0905
+439,5,BIHOR,LUGAŞU DE JOS,25,0,19,2,521,3,0,21,30,0,20,2,528,1,1,5,Căminul Cultural Urvind,Nr. 209,Urvind,47.0677,22.2806
+591,5,BIHOR,ŞOIMI,111,5,65,2,3,4,2,6,110,5,65,1,3,5,2,7,Școala cu Clasele I-VIII,Nr. 112,Urviș de Beiuș,46.6904,22.157
+642,5,BIHOR,VADU CRIŞULUI,145,21,174,16,200,15,12,23,143,26,174,14,198,14,14,21,Cămin Cultural Vadu Crișului,Nr. 2,Vadu Crișului,46.9854,22.5146
+643,5,BIHOR,VADU CRIŞULUI,71,16,113,5,8,33,9,13,70,15,120,6,9,29,10,14,Școala Generală Vadu Crișului,Nr. 859,Vadu Crișului,46.9872,22.513
+525,5,BIHOR,ROŞIORI,8,0,2,1,226,0,1,4,9,0,2,1,227,0,2,2,Școala Primară nr. 1,Nr. 178,Vaida,47.253,21.9924
+577,5,BIHOR,SUPLACU DE BARCĂU,8,6,14,3,0,1,1,146,38,8,74,3,38,3,2,12,Școala Primară nr. 3,Nr. 76,Valea Cerului,47.237,22.4962
+269,5,BIHOR,BRATCA,63,10,49,3,1,14,3,4,70,10,45,1,0,14,4,5,Căminul Cultural,Nr. 179,Valea Crișului,46.9462,22.6379
+415,5,BIHOR,HOLOD,42,3,6,0,0,14,3,6,40,3,9,1,1,11,3,4,Școala cu Clasele I-IV,Nr. 24,Valea Mare de Codru,46.8082,22.0774
+257,5,BIHOR,BOROD,166,6,58,7,1,7,3,6,166,6,61,7,1,5,3,6,Școala cu Clasele I-IV,Nr. 64,Valea Mare de Criș,46.9927,22.5722
+518,5,BIHOR,RIENI,133,13,63,4,1,40,4,6,132,12,64,3,1,39,5,8,Școala Primară nr. 1 Valea de Jos,Nr. 36A,Valea de Jos,46.5718,22.4838
+340,5,BIHOR,CÎMPANI,92,4,70,1,0,3,7,9,93,4,69,1,0,4,8,11,Școala Primară Valea de Sus,Nr. 80,Valea de Sus,46.5463,22.5289
+204,5,BIHOR,ORAŞ VALEA LUI MIHAI,41,8,18,0,442,3,6,8,39,8,20,0,443,2,7,9,Școala Gimnazială Valea Lui Mihai,Str. Márton Áron (Str. Mureșului) nr. 28,Valea lui Mihai,47.5158,22.1326
+205,5,BIHOR,ORAŞ VALEA LUI MIHAI,51,8,16,4,429,4,3,8,56,7,16,1,427,4,4,7,Școala Gimnazială Valea Lui Mihai,Str. Kálvin János (Str. 17 Octombrie) nr. 5,Valea lui Mihai,47.5181,22.1337
+206,5,BIHOR,ORAŞ VALEA LUI MIHAI,73,5,34,1,397,5,3,11,74,4,34,1,400,4,4,7,Școala Gimnazială Valea Lui Mihai,Str. Republicii nr. 47,Valea lui Mihai,47.5214,22.132
+207,5,BIHOR,ORAŞ VALEA LUI MIHAI,29,6,9,1,338,1,4,13,26,6,8,2,334,2,4,9,Școala Gimnazială Valea Lui Mihai,Str. Apáczai Csere János (Str. Codrului) nr. 2/a,Valea lui Mihai,47.5288,22.1512
+208,5,BIHOR,ORAŞ VALEA LUI MIHAI,21,2,6,0,383,1,1,6,22,4,9,0,391,1,2,3,Școala Gimnazială Valea Lui Mihai,"Str. II. Rákóczi Ferenc (Str. Vulturului) nr. 32, Bloc sala nr.1",Valea lui Mihai,47.5206,22.1209
+209,5,BIHOR,ORAŞ VALEA LUI MIHAI,45,3,23,2,308,1,1,1,45,3,25,2,300,2,1,2,Școala Gimnazială Valea Lui Mihai,"Str. II. Rákóczi Ferenc (Str. Vulturului) nr. 32, Bloc sala nr.2",Valea lui Mihai,47.5206,22.1209
+210,5,BIHOR,ORAŞ VALEA LUI MIHAI,27,1,13,1,432,5,3,7,27,0,15,1,430,7,4,6,Școala Gimnazială Valea Lui Mihai (Grădiniță),Str. Erkel Ferenc (Str. Mică) nr. 2,Valea lui Mihai,47.514,22.1366
+503,5,BIHOR,POPEŞTI,62,4,64,5,1,13,9,19,59,1,68,5,2,13,9,17,Școala Generală Varviz,Nr. FN,Varviz,47.2234,22.4366
+211,5,BIHOR,ORAŞ VAŞCĂU,327,15,327,13,5,57,30,66,308,15,344,13,6,59,34,64,Casa de Cultură,Str. Unirii nr. 75,Vașcău,46.4704,22.4746
+647,5,BIHOR,VIIŞOARA,31,5,10,0,483,5,3,6,31,6,9,0,490,5,3,5,Cămin Cultural,Nr. 321,Viișoara,47.387,22.4443
+416,5,BIHOR,HOLOD,206,3,48,2,0,34,1,9,211,3,45,2,0,33,1,7,Grădinița,Nr. 385/A,Vintere,46.7684,22.1417
+498,5,BIHOR,POPEŞTI,146,1,104,2,2,18,6,21,151,0,109,3,2,18,7,14,Școala Generală Voivozi,Nr. FN,Voivozi,47.2162,22.389
+499,5,BIHOR,POPEŞTI,95,3,68,1,1,14,7,36,97,3,82,2,9,16,6,10,Școala Generală Voivozi,Nr. FN,Voivozi,47.2162,22.389
+583,5,BIHOR,ŞIMIAN,28,1,26,2,12,2,1,1,27,1,27,2,12,2,1,1,Școala Primară nr. 2,Nr. 318,Voivozi,47.4711,22.0431
+578,5,BIHOR,SUPLACU DE BARCĂU,22,3,51,1,2,2,1,31,28,4,67,1,6,2,1,4,Școala Primară nr. 4,Nr. 10/A,Vâlcelele,47.2299,22.4802
+650,5,BIHOR,VÎRCIOROG,144,7,241,4,4,4,7,14,142,5,242,4,4,3,9,17,Căminul Cultural,Nr. 103,Vârciorog,46.9721,22.2812
+491,5,BIHOR,POMEZEU,84,5,74,1,0,2,1,5,87,3,74,2,0,2,1,2,Cămin Cultural Vălani de Pomezeu,Nr. 20,Vălani de Pomezeu,46.7858,22.3216
+641,5,BIHOR,UILEACU DE BEIUŞ,105,2,15,3,2,2,2,3,103,3,15,2,2,3,3,4,Grădinița cu Program Normal nr. 4,Nr. 79/A,Vălanii de Beiuș,46.7021,22.2436
+504,5,BIHOR,POPEŞTI,19,0,26,0,1,4,1,52,28,2,44,0,13,7,2,5,Școala Generală Vărzari,Nr. FN,Vărzari,47.2021,22.46
+214,5,BIHOR,ORAŞ VAŞCĂU,73,2,37,2,2,5,3,6,71,4,35,3,2,3,6,9,Căminul Cultural,Nr. 123,Vărzarii de Jos,46.4885,22.4997
+215,5,BIHOR,ORAŞ VAŞCĂU,35,0,60,0,1,3,2,5,33,0,57,0,1,5,2,5,Căminul Cultural,Nr. 19,Vărzarii de Sus,46.4735,22.5151
+509,5,BIHOR,RĂBĂGANI,101,3,42,1,1,5,5,7,98,2,45,1,1,6,5,10,Căminul Cultural,Nr. 150,Vărășeni,46.7675,22.2107
+361,5,BIHOR,CURTUIŞENI,224,0,117,1,6,4,2,10,231,1,123,2,6,4,2,5,Școala Generală cu Clasele I-VIII nr. 24,,Vășad,47.5174,22.2546
+597,5,BIHOR,ŞUNCUIUŞ,11,0,19,1,1,9,5,9,7,0,18,1,1,14,8,9,Camin Cultural Catun Carmazan,Nr. 1,Zece Hotare,46.8907,22.4718
+598,5,BIHOR,ŞUNCUIUŞ,17,0,19,0,2,33,3,4,17,0,17,0,2,38,1,3,Școala cu Clasele I-VIII Zecehotare,Nr. 87/A,Zece Hotare,46.913,22.4673
+548,5,BIHOR,SÎMBĂTA,105,0,89,1,0,2,4,9,107,0,90,1,0,2,4,5,Caminul Cultural,Nr. 17/A,Zăvoiu,46.8233,22.1938
+463,5,BIHOR,NOJORID,27,1,28,2,15,1,5,8,27,2,26,2,16,3,4,6,"Școala cu Cl. I-IV Șauaieu, Loc. Șauaieu nr. 101",,Șauaieu,46.9374,21.9176
+386,5,BIHOR,DRĂGĂNEŞTI,74,1,34,8,1,7,2,12,67,2,36,7,1,8,5,15,Școala Sebis,Nr. 121,Șebiș,46.6188,22.4312
+258,5,BIHOR,BOROD,15,0,9,1,0,1,1,23,22,0,17,0,0,1,1,8,Școala cu Clasele I-IV,Nr. 82,Șerani,47.0383,22.6792
+259,5,BIHOR,BOROD,40,0,4,0,0,1,1,43,69,0,14,1,0,1,1,9,Școala cu Clasele. I-VIII,Nr. 168,Șerani,47.0563,22.6293
+652,5,BIHOR,VÎRCIOROG,74,0,144,0,4,5,3,10,71,2,146,0,5,4,3,10,Grădinița de Copii cu Program Normal,Nr. 125,Șerghiș,46.9782,22.2373
+582,5,BIHOR,ŞIMIAN,50,2,12,0,276,3,0,6,53,4,14,0,277,2,0,4,Școala Primară cu nr. 1,Nr. 86,Șilindru,47.437,22.0459
+579,5,BIHOR,ŞIMIAN,5,0,2,1,83,1,1,3,6,0,2,1,85,2,1,2,Grădinița cu Program Normal nr. 3,Nr. 906,Șimian,47.4941,22.0645
+580,5,BIHOR,ŞIMIAN,30,0,9,0,785,1,3,6,32,1,10,0,773,2,3,6,Școala Gimnazială „Kazinczy Ferenc” Șimian,Nr. 602,Șimian,47.4946,22.0893
+581,5,BIHOR,ŞIMIAN,4,0,3,0,79,0,0,2,4,0,3,0,81,0,0,1,Fosta Școală Primară cu Clasele I-IV,Nr. 743,Șimian,47.5381,22.0949
+584,5,BIHOR,ŞINTEU,29,7,16,5,7,2,1,149,51,11,69,3,52,6,1,20,Primăria Comunei Sinteu,Nr. 2,Șinteu,47.1424,22.5173
+319,5,BIHOR,CETARIU,8,6,7,1,145,1,0,3,9,6,7,1,146,2,0,1,Școala Generală,Nr. 304,Șișterea,47.1578,22.0727
+585,5,BIHOR,ŞOIMI,70,1,56,0,1,4,5,7,71,1,58,0,1,3,5,6,Sediul Primăriei Șoimi,Nr. 39,Șoimi,46.6832,22.1185
+199,5,BIHOR,ORAŞ ŞTEI,262,12,194,4,5,22,8,17,250,13,211,2,4,23,7,14,Casa de Cultură „Miron Pompiliu” Ștei,Str. Cuza Vodă (Str. Codrului) nr. 11,Ștei,46.535,22.4573
+200,5,BIHOR,ORAŞ ŞTEI,215,8,169,10,6,24,7,15,205,9,178,7,7,28,9,14,Școala Gimnazială cu Clasele I-VIII „Miron Pompiliu” Ștei - Școala Mică,Str. Tineretului nr. 2,Ștei,46.5364,22.4596
+201,5,BIHOR,ORAŞ ŞTEI,233,22,182,9,6,29,16,26,221,22,189,3,8,35,22,29,Colegiul Tehnic „Unirea” Ștei,Str. Independenței (Str. Fruntașilor) nr. 19 A,Ștei,46.538,22.4538
+202,5,BIHOR,ORAŞ ŞTEI,216,18,262,5,3,20,8,14,199,17,267,5,3,26,8,14,Colegiul Tehnic „Unirea” Ștei - Școala de Șoferi,Str. Independenței (Str. Fruntașilor) nr. 31,Ștei,46.5409,22.453
+203,5,BIHOR,ORAŞ ŞTEI,263,30,211,15,4,30,23,35,260,23,218,13,4,27,22,34,Școala Gimnazială cu Clasele I-VIII „Miron Pompiliu” Ștei,Str. Nicolae Iorga (Str. 23 August) nr. 28,Ștei,46.5393,22.4568
+408,5,BIHOR,HIDIŞELU DE SUS,50,1,72,0,1,4,4,4,54,2,67,1,1,3,4,4,Cămin Cultural Șumugiu,Nr. 27,Șumugiu,46.8905,21.9707
+593,5,BIHOR,ŞUNCUIUŞ,214,18,166,6,18,22,14,22,203,19,160,6,20,39,11,20,Liceul Tehnologic nr. 1 - Șuncuiuș,Str. Avram Iancu nr. 425,Șuncuiuș,46.9448,22.5366
+594,5,BIHOR,ŞUNCUIUŞ,12,0,26,0,0,7,4,4,10,1,27,0,0,6,5,5,Școala cu Clasele I-IV „Pojorata”,Nr. 363/A,Șuncuiuș,46.9376,22.5002
+398,5,BIHOR,FINIŞ,135,5,37,2,56,2,3,5,134,5,42,2,56,3,3,4,Grădinița Șuncuiș,Nr. 29,Șuncuiș,46.6741,22.2633
+445,5,BIHOR,LUNCA,70,5,120,18,0,33,10,17,71,5,121,8,0,34,11,20,Căminul Cultural Șuștiu,Nr. 42,Șuștiu,46.4999,22.4562
+320,5,BIHOR,CETARIU,28,2,15,4,8,0,1,2,30,2,18,2,9,0,1,1,Școala Generală,Nr. 22,Șușturogi,47.1398,22.1108
+634,5,BIHOR,ŢEŢCHEA,167,7,46,8,1,45,7,16,163,8,46,18,2,45,8,13,Cămin Cultural,Nr. 90,Țețchea,47.0453,22.3201
+388,5,BIHOR,DRĂGĂNEŞTI,43,0,18,1,0,3,1,6,33,1,22,2,0,3,3,9,Caminul Cultural Tiganesti,Nr. 44,Țigăneștii de Beiuș,46.6273,22.4128
+275,5,BIHOR,BRUSTURI,100,1,14,1,0,3,2,9,94,1,14,2,3,5,2,5,Școala Țigăneștii de Criș,Nr. 42,Țigăneștii de Criș,47.1277,22.2803

@@ -1,0 +1,246 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+64,19,GIURGIU,ADUNAŢII-COPĂCENI,378,33,59,14,0,60,7,18,375,37,64,13,3,60,6,16,Școala Gimnazială nr. 1 Adunații Copăceni,Str. Școlii nr. 14,Adunații-Copăceni,44.2539,26.05
+65,19,GIURGIU,ADUNAŢII-COPĂCENI,352,21,46,8,0,11,4,14,356,22,47,10,0,10,4,15,Școala Gimnazială nr. 1 Adunații Copăceni,Șoseaua Victoriei nr. 67,Adunații-Copăceni,44.2605,26.0619
+206,19,GIURGIU,SCHITU,117,4,6,1,1,29,0,10,125,3,8,3,0,27,0,6,Școala Primară Florin Niculescu Bila,Nr. 42,Bila,44.162,25.8512
+75,19,GIURGIU,BOLINTIN-DEAL,138,11,194,9,0,25,8,33,134,12,190,8,0,26,10,35,Căminul Cultural Bolintin - Deal,Bulevardul Republicii nr. 26,Bolintin-Deal,44.4521,25.8251
+76,19,GIURGIU,BOLINTIN-DEAL,99,17,123,17,0,12,4,17,97,14,128,15,0,8,4,19,Școala Gimnazială Banu Baleanu,Bulevardul Muncii nr. 9,Bolintin-Deal,44.4558,25.8199
+77,19,GIURGIU,BOLINTIN-DEAL,77,4,93,8,1,9,1,13,81,4,89,8,1,9,2,13,Grădinița de Copii Bolintin - Deal,Bulevardul Muncii nr. 9,Bolintin-Deal,44.4558,25.8199
+49,19,GIURGIU,ORAŞ BOLINTIN-VALE,250,38,71,26,2,20,8,68,238,37,73,29,2,29,9,68,Școala Gimnazială nr. 1 Bolintin-Vale,Nr. 5,Bolintin-Vale,44.4468,25.7576
+50,19,GIURGIU,ORAŞ BOLINTIN-VALE,216,15,31,2,0,8,0,15,212,15,33,3,0,8,0,13,Școala Gimnazială nr. 1 Bolintin-Vale,Nr. 5,Bolintin-Vale,44.4468,25.7576
+51,19,GIURGIU,ORAŞ BOLINTIN-VALE,160,1,16,3,1,5,1,17,166,3,15,5,0,8,1,13,Școala Gimnazială nr. 1 Bolintin-Vale,Nr. 5,Bolintin-Vale,44.4468,25.7576
+52,19,GIURGIU,ORAŞ BOLINTIN-VALE,199,32,39,15,1,17,5,25,194,34,42,16,1,22,7,23,Liceulu Tehnologic „Dimitrie Bolintineanu”,Nr. 2L,Bolintin-Vale,44.4461,25.7567
+53,19,GIURGIU,ORAŞ BOLINTIN-VALE,275,30,72,26,0,14,5,44,276,25,79,24,0,17,7,46,Primărie,Str. Libertății nr. 1,Bolintin-Vale,44.445,25.7572
+185,19,GIURGIU,OINACU,261,16,49,6,1,31,1,8,258,21,49,9,0,32,2,11,Grădinița nr. 2 Branistea,Str. Școlii nr. 2,Braniștea,43.9633,26.0365
+91,19,GIURGIU,CĂLUGĂRENI,170,5,26,5,1,7,3,15,167,5,28,5,1,7,2,12,Grădinița Brăniștari,Șoseaua Călugăreni-Comana nr. 243,Brăniștari,44.1823,26.0409
+79,19,GIURGIU,BUCŞANI,142,10,38,12,0,20,4,17,149,13,35,13,0,16,3,13,Școala Gimnazială nr. 1,Str. Principală nr. 222,Bucșani,44.3696,25.6589
+101,19,GIURGIU,COMANA,328,8,26,12,3,5,2,13,329,8,30,9,3,5,3,11,Grădinița cu Program Normal nr. 1 Budeni,Str. Neajlovului nr. 122,Budeni,44.1918,26.1136
+85,19,GIURGIU,BULBUCATA,492,8,103,15,1,24,2,7,484,8,103,15,1,24,2,10,Căminul Cultural Bulbucata,,Bulbucata,44.2846,25.8067
+86,19,GIURGIU,BUTURUGENI,315,7,99,9,0,11,8,25,313,11,96,11,0,14,8,20,Școala Gimnazială nr. 1 Buturugeni,,Buturugeni,44.3676,25.8338
+87,19,GIURGIU,BUTURUGENI,204,6,41,8,0,7,6,17,202,5,49,7,0,9,6,13,Școala Primară nr. 3 Prisiceni,,Buturugeni,44.3599,25.8492
+170,19,GIURGIU,JOIŢA,254,30,48,22,0,19,10,23,253,31,48,27,0,16,11,26,Școala Gimnazială nr. 2 Bîcu,Str. Școlii,Bâcu,44.4837,25.8914
+216,19,GIURGIU,STĂNEŞTI,121,0,39,3,0,17,6,12,123,1,37,2,0,17,7,12,Grădinița cu Program Normal nr. 4 Bălanu,Str. Principală nr. 15,Bălanu,43.9195,25.9217
+69,19,GIURGIU,BĂNEASA,279,11,25,9,1,24,6,19,276,13,29,7,1,23,11,19,Școala Gimnazială „Marin M. Țiculescu” Băneasa,Str. Principală nr. 76,Băneasa,44.0404,26.0481
+70,19,GIURGIU,BĂNEASA,146,1,30,3,0,22,5,12,142,2,33,3,1,21,3,11,Școala Pimară nr. 5 Băneasa,Str. Principală nr. 212,Băneasa,44.0471,26.0655
+71,19,GIURGIU,BĂNEASA,246,5,14,2,2,25,4,10,243,5,16,4,2,25,3,10,Școala Primară nr. 2 Băneasa,Str. Lăcurele nr. 23,Băneasa,44.0503,26.0886
+198,19,GIURGIU,ROATA DE JOS,84,4,35,3,0,14,4,8,87,4,33,5,1,12,4,6,Grădinița cu Program Normal Cartojani,Str. Republicii nr. 86,Cartojani,44.4343,25.4834
+201,19,GIURGIU,ROATA DE JOS,125,4,41,5,0,11,2,11,121,3,40,4,0,14,2,10,Școala Gimnazială nr. 2 Cartojani,Str. Republicii nr. 86,Cartojani,44.4342,25.4836
+202,19,GIURGIU,ROATA DE JOS,146,4,71,2,0,4,1,8,146,5,69,2,0,4,2,9,Școala Gimnazială nr. 2 Cartojani,Str. Republicii nr. 86,Cartojani,44.4342,25.4836
+123,19,GIURGIU,FRĂTEŞTI,108,5,25,9,2,80,2,11,108,3,27,6,2,80,7,14,Grădinița cu Program Normal nr. 3 Cetatea,Str. Gării nr. 49,Cetatea,43.9475,25.9527
+124,19,GIURGIU,FRĂTEŞTI,61,1,15,5,0,6,2,5,61,1,14,4,0,7,1,8,Grădinița cu Program Normal nr. 4 Cetatea (Bălănoaia),Str. Bălănoaiei nr. 40,Cetatea,43.9511,25.9335
+131,19,GIURGIU,GĂUJANI,54,1,3,2,0,21,1,5,55,2,5,1,0,17,1,5,Școala din Cetătuia,Str. Școlii nr. 1,Cetățuia,43.7586,25.7437
+164,19,GIURGIU,IZVOARELE,359,4,29,18,3,35,6,16,360,4,31,19,2,36,6,14,Școala Gimnazială nr. 2 Chiriacu,,Chiriacu,44.049,25.7728
+94,19,GIURGIU,CLEJANI,524,8,161,25,1,7,1,9,513,9,177,20,0,11,4,17,Căminul Cultural Clejani,Nr. 62,Clejani,44.3191,25.6987
+96,19,GIURGIU,COLIBAŞI,347,9,48,12,0,27,1,5,337,9,46,12,0,32,5,7,Școala Gimnazială nr. 1 Colibași,Str. Căminului nr. 2,Colibași,44.2138,26.188
+97,19,GIURGIU,COLIBAŞI,317,7,60,6,2,38,1,3,317,8,63,7,0,38,1,2,Școala Primară nr. 3 Colibași,Nr. 279,Colibași,44.2019,26.1961
+99,19,GIURGIU,COMANA,515,7,16,9,1,3,1,8,519,7,19,8,1,2,1,7,Liceul Tehnologic nr. 1 Comana,Nr. 361,Comana,44.1726,26.1456
+100,19,GIURGIU,COMANA,516,10,29,7,0,21,3,13,508,10,32,8,0,22,2,12,Liceul Tehnologic nr. 1 Comana,Nr. 361,Comana,44.1726,26.1456
+186,19,GIURGIU,OINACU,158,3,27,2,0,14,2,8,159,5,26,2,1,11,3,7,Grădinița nr. 3 Comasca,Str. Principală nr. 27,Comasca,43.9514,26.0468
+136,19,GIURGIU,GHIMPAŢI,518,0,13,23,0,25,5,5,575,0,13,0,0,0,0,0,Grădinița cu Program Normal nr. 5 Copaciu,Str. Școlii nr. 7,Copaciu,44.1843,25.7695
+244,19,GIURGIU,VÎNĂTORII MICI,67,0,3,5,3,65,1,7,63,0,4,6,1,63,1,6,Școala Primară nr. 6 Corbeanca,Str. Orhideei nr. 1,Corbeanca,44.4783,25.5681
+105,19,GIURGIU,COSOBA,131,7,102,2,0,17,4,19,132,8,108,1,0,19,5,14,Grădinița de Copii Cosoba,Str. Principală nr. 598,Cosoba,44.5213,25.8175
+106,19,GIURGIU,COSOBA,123,16,104,6,0,24,1,3,122,15,102,6,0,27,1,3,Grădinița de Copii Cosoba,Str. Principală nr. 598,Cosoba,44.5213,25.8175
+107,19,GIURGIU,CREVEDIA MARE,320,10,70,15,0,54,4,31,328,13,68,12,1,59,7,26,Școala Gimnazială Nicolae Crevedia,Str. Principală nr. 80,Crevedia Mare,44.4311,25.6234
+109,19,GIURGIU,CREVEDIA MARE,434,10,115,12,2,48,3,15,436,13,113,10,2,47,5,17,Școala Gimnazială Dumitru Pătrașcu,Str. Principală nr. 19,Crevedia Mică,44.4407,25.6085
+56,19,GIURGIU,ORAŞ BOLINTIN-VALE,145,5,21,7,0,8,2,19,143,6,21,8,0,10,1,16,Grădinița Crivina,,Crivina,44.4307,25.7848
+210,19,GIURGIU,SINGURENI,264,6,16,4,1,8,3,15,259,4,17,3,0,7,6,15,Școala Primară nr. 2 Crînguri,,Crânguri,44.2064,25.9806
+195,19,GIURGIU,RĂSUCENI,312,3,10,3,0,38,1,12,313,3,18,4,0,40,0,3,Școala Gimnazială nr. 1 Cucuruzu,,Cucuruzu,44.0793,25.727
+245,19,GIURGIU,VÎNĂTORII MICI,57,0,5,2,0,52,5,12,61,0,5,1,0,51,6,11,Școala Primară nr. 7 Cupele,Str. Principală nr. 52,Cupele,44.5035,25.5256
+98,19,GIURGIU,COLIBAŞI,418,6,21,19,0,34,4,16,413,6,24,17,0,37,4,15,Școala Gimnazială nr. 2 Câmpurelu,Str. Școlii nr. 1,Câmpurelu,44.2336,26.1844
+90,19,GIURGIU,CĂLUGĂRENI,335,11,46,16,1,110,8,27,333,13,52,16,1,100,9,24,Școala Veche Călugăreni (Muzeu),Șoseaua București-Giurgiu nr. 218,Călugăreni,44.1722,25.996
+207,19,GIURGIU,SCHITU,252,0,8,2,1,4,1,5,258,0,5,3,1,4,1,2,Școala Primară nr. 1 Camineasca,Nr. 25,Cămineasca,44.1641,25.8199
+129,19,GIURGIU,GĂISENI,211,2,17,2,0,13,5,9,205,2,17,3,0,18,7,11,"Școala Primară nr. 3 Sat Cărpenișu, Com Găiseni",Str. Principală nr. 160,Cărpenișu,44.5328,25.633
+127,19,GIURGIU,GĂISENI,213,2,9,4,0,14,3,7,215,2,12,6,0,16,3,6,"Școala Gimnazială nr. 2, Sat Căscioarele Com Găiseni",Str. Monumentului nr. 27,Căscioarele,44.5017,25.6312
+128,19,GIURGIU,GĂISENI,179,4,24,7,0,23,0,4,183,4,26,8,0,21,1,2,"Școala Gimnazială nr. 2 Sat Căscioarele, Com Găiseni",Str. Monumentului nr. 27,Căscioarele,44.5017,25.6312
+110,19,GIURGIU,DAIA,94,2,8,4,0,145,4,9,98,1,8,4,0,143,1,10,Camin Cultural,Șoseaua București nr. 65,Daia,43.9872,25.9895
+111,19,GIURGIU,DAIA,68,2,13,7,1,42,1,7,64,3,10,8,1,46,1,5,Școala Gimnazială nr. 1 Daia,Șoseaua București nr. 176,Daia,43.9941,25.993
+108,19,GIURGIU,CREVEDIA MARE,295,1,50,3,0,13,1,9,291,3,56,5,0,12,2,9,Școala Primară nr. 1 Dealu,Str. Principală nr. 76,Dealu,44.3991,25.6474
+167,19,GIURGIU,IZVOARELE,76,0,2,1,1,5,1,2,72,0,3,1,1,6,1,3,Sediul Fostei Secții de Mecanizare a Satului Dimitrie Cantemir,,Dimitrie Cantemir,44.0255,25.8223
+236,19,GIURGIU,VĂRĂŞTI,445,5,51,7,1,17,4,27,454,6,58,10,1,18,3,15,Școala Gimnazială nr. 2 Dobreni,Str. Constantin Șerban Cârnu nr. 3,Dobreni,44.2541,26.2143
+141,19,GIURGIU,GOGOŞARI,70,0,2,5,0,7,2,4,70,0,2,3,1,7,3,6,Fosta Primărie,,Drăghiceanu,43.8646,25.676
+228,19,GIURGIU,ULMI,252,5,17,6,0,5,1,5,252,4,16,5,0,3,2,8,Grădinița „Marin Mogescu”,,Drăgăneasca,44.5285,25.7406
+66,19,GIURGIU,ADUNAŢII-COPĂCENI,435,9,78,4,2,13,3,14,435,10,77,4,1,10,3,12,Școala Gimnazială nr. 2 Dărăști Vlașca,Str. Principală nr. 203,Dărăști-Vlașca,44.2867,26.0121
+102,19,GIURGIU,COMANA,181,4,56,8,0,5,5,20,189,3,60,8,0,4,6,18,Școala Gimnazială nr. 3 Falastoaca,Nr. 350,Falaștoaca,44.2032,26.1788
+115,19,GIURGIU,FLOREŞTI-STOENEŞTI,199,9,33,16,0,8,3,16,195,12,33,15,0,10,4,17,Școala Gimnazială nr. 1 Florești,Str. Mihai Viteazul nr. 138,Florești,44.5126,25.6941
+116,19,GIURGIU,FLOREŞTI-STOENEŞTI,166,15,26,5,0,8,4,17,162,16,26,7,0,10,5,15,Școala Gimnazială nr. 1 Florești,Str. Mihai Viteazul nr. 138,Florești,44.5126,25.6941
+117,19,GIURGIU,FLOREŞTI-STOENEŞTI,236,10,38,9,0,13,8,31,234,10,43,13,1,11,10,27,Școala Gimnazială nr. 1 Florești,Str. Mihai Viteazul nr. 138,Florești,44.5126,25.6941
+73,19,GIURGIU,BĂNEASA,86,6,8,4,1,17,3,7,88,8,7,5,1,18,2,5,Școala Primară nr. 3 Frasinu,Str. Principală nr. 37,Frasinu,44.026,26.0187
+120,19,GIURGIU,FRĂTEŞTI,357,5,53,34,1,30,14,32,360,6,58,21,3,30,17,32,Căminul Cultural Frătești,Str. Sf. Ecaterina nr. 53,Frătești,43.9695,25.9651
+121,19,GIURGIU,FRĂTEŞTI,186,5,55,9,0,21,8,15,184,6,55,7,0,19,9,16,Școala Gimnazială nr. 2 Lunca Frătești,Str. Gării nr. 36,Frătești,43.9668,25.9724
+134,19,GIURGIU,GHIMPAŢI,666,0,45,9,0,14,0,0,638,0,51,13,0,14,6,12,Școala Gimnazială nr. 1ghimpati,Aleea Parcului nr. 2,Ghimpați,44.1904,25.7822
+135,19,GIURGIU,GHIMPAŢI,465,1,14,19,0,15,13,17,464,0,11,21,0,17,11,18,Cladirea Primariei Ghimpati,Nr. 162,Ghimpați,44.1902,25.7751
+230,19,GIURGIU,ULMI,79,1,31,9,1,3,1,8,77,4,32,7,1,4,1,3,Grădinița nr. 4 Ghionea,,Ghionea,44.4831,25.8011
+215,19,GIURGIU,STĂNEŞTI,115,0,56,2,1,47,11,12,114,0,52,2,1,47,13,16,Școala Primară nr. 2 Ghizdaru,Str. Principală nr. 16,Ghizdaru,43.9341,25.8862
+1,19,GIURGIU,MUNICIPIUL GIURGIU,261,51,57,16,0,70,23,53,270,40,73,20,0,57,20,50,Școala Gimnazială Sfântul Gheorghe,Piața Sf.  Gheorghe (Piața 6 Martie) nr. 1,Giurgiu,43.8895,25.9592
+2,19,GIURGIU,MUNICIPIUL GIURGIU,270,47,56,28,2,73,13,37,274,43,66,30,2,70,14,30,Galeriile de Artă,"Str. Mircea cel Bătrîn (Str. Republicii) , Bloc 92",Giurgiu,43.8902,25.9646
+3,19,GIURGIU,MUNICIPIUL GIURGIU,260,45,42,26,2,49,17,54,259,50,52,16,2,49,15,50,S.C. Eurotehnogrup S.R.L.,Bulevardul Mihai Viteazu (Str. Abatorului) nr. 4,Giurgiu,43.8964,25.9624
+4,19,GIURGIU,MUNICIPIUL GIURGIU,285,25,46,21,0,57,27,52,279,28,56,19,0,52,23,51,Liceul „Tudor Vianu”,Str. Tudor Vianu (Str. 23 August) nr. 38,Giurgiu,43.8912,25.9566
+5,19,GIURGIU,MUNICIPIUL GIURGIU,363,44,61,25,0,62,21,58,375,31,69,27,1,58,19,53,Școala Gimnazială Mircea Cel Bătrân,Str. Nicolae Iorga (Str. 6 Martie) nr. 34,Giurgiu,43.8873,25.9577
+6,19,GIURGIU,MUNICIPIUL GIURGIU,199,11,46,14,0,56,5,12,199,9,56,13,0,58,2,7,Liceul Tehnologic Miron Nicolescu,Șoseaua Sloboziei nr. 1,Giurgiu,43.8831,25.9467
+7,19,GIURGIU,MUNICIPIUL GIURGIU,210,16,21,13,1,40,8,20,205,15,23,13,1,42,6,21,Cantina Seminarului Teologic Teoctist Patriarhul,Șoseaua Sloboziei nr. 1,Giurgiu,43.8859,25.9496
+8,19,GIURGIU,MUNICIPIUL GIURGIU,200,19,31,4,0,43,24,40,198,17,38,6,1,37,28,43,Colegiul Tehnic Viceamiral Ioan Bălănescu,Str. Uzinei nr. 30 B,Giurgiu,43.891,25.9524
+9,19,GIURGIU,MUNICIPIUL GIURGIU,280,22,36,15,0,47,15,28,292,22,36,14,0,37,16,32,Liceul „Nicolae Cartojan”,Str. 23 August nr. 9,Giurgiu,43.8924,25.9533
+10,19,GIURGIU,MUNICIPIUL GIURGIU,261,23,29,12,0,61,11,25,258,22,36,7,0,59,12,25,Liceul „Nicolae Cartojan”,Str. 23 August nr. 9,Giurgiu,43.8924,25.9533
+11,19,GIURGIU,MUNICIPIUL GIURGIU,305,43,35,20,1,69,12,34,289,43,39,26,1,86,10,24,Palatul Copiilor (Parcul Elevilor),Șoseaua Alexandriei nr. 7,Giurgiu,43.895,25.9586
+12,19,GIURGIU,MUNICIPIUL GIURGIU,295,21,40,19,1,51,14,35,299,21,46,17,0,44,10,33,Școala Gimnazială nr. 3,Str. Dan Lucan nr. 17,Giurgiu,43.896,25.9548
+13,19,GIURGIU,MUNICIPIUL GIURGIU,320,33,63,27,2,78,12,27,323,31,78,22,1,67,14,29,Grădinița cu Program Normal nr. 8 Gorneni,Str. Gorneni nr. 54,Giurgiu,43.898,25.9559
+14,19,GIURGIU,MUNICIPIUL GIURGIU,163,4,32,8,3,83,11,27,179,6,38,9,2,76,8,23,Direcția Pentru Agricultură Județeană,Șoseaua Ghizdarului nr. 1,Giurgiu,43.8982,25.9528
+15,19,GIURGIU,MUNICIPIUL GIURGIU,334,16,36,12,0,61,20,42,330,17,37,11,1,59,24,47,Direcția Pentru Agricultură Județeană,Șoseaua Ghizdarului nr. 1,Giurgiu,43.8982,25.9528
+16,19,GIURGIU,MUNICIPIUL GIURGIU,350,15,84,13,0,79,17,39,357,13,80,14,3,77,23,36,Grădinița cu PN nr. 8 Cărămidari,,Giurgiu,43.9012,25.958
+17,19,GIURGIU,MUNICIPIUL GIURGIU,329,52,76,33,0,98,35,64,348,43,82,28,1,84,39,65,A.J.O.F.M. Giurgiu,"Bulevardul București (Șoseaua București, Str. București) , Bloc 202/5D",Giurgiu,43.9013,25.969
+18,19,GIURGIU,MUNICIPIUL GIURGIU,289,35,46,27,1,56,17,48,299,35,57,23,1,47,14,36,A.J.O.F.M. Giurgiu,"Bulevardul București (Șoseaua București, Str. București) , Bloc 202/5D",Giurgiu,43.9013,25.969
+19,19,GIURGIU,MUNICIPIUL GIURGIU,459,18,60,18,4,97,13,48,463,17,66,18,4,96,13,44,Spitalul Județean,Bulevardul București (Șoseaua București) (D) nr. 80,Giurgiu,43.8988,25.9688
+20,19,GIURGIU,MUNICIPIUL GIURGIU,315,37,69,29,2,100,17,45,325,36,76,21,1,86,19,43,Clubul Cadrelor Militare În Retragere,Bulevardul București (Șoseaua București) (D) nr. 63-65,Giurgiu,43.8981,25.9673
+21,19,GIURGIU,MUNICIPIUL GIURGIU,272,22,32,19,1,43,20,45,274,21,42,20,1,37,20,36,Școala Gimnazială Acad. Marin Voiculescu,Str. Negru Vodă,Giurgiu,43.9039,25.968
+22,19,GIURGIU,MUNICIPIUL GIURGIU,288,36,50,21,3,64,18,34,284,38,56,22,2,52,26,41,Școala Gimnazială Acad. Marin Voiculescu,Str. Negru Vodă,Giurgiu,43.9039,25.968
+23,19,GIURGIU,MUNICIPIUL GIURGIU,305,24,48,13,2,51,14,40,296,27,65,13,2,43,14,39,Școala Gimnazială Acad. Marin Voiculescu,Str. Negru Vodă,Giurgiu,43.9039,25.968
+24,19,GIURGIU,MUNICIPIUL GIURGIU,244,19,34,24,2,51,35,60,246,21,40,27,1,56,29,47,Școala Gimnazială Acad. Marin Voiculescu,Str. Negru Vodă,Giurgiu,43.9039,25.968
+25,19,GIURGIU,MUNICIPIUL GIURGIU,264,31,47,16,0,62,26,53,258,24,63,13,0,56,30,60,Grădinița cu Program Normal nr. 6,Str. Tineretului nr. 5,Giurgiu,43.9065,25.9727
+26,19,GIURGIU,MUNICIPIUL GIURGIU,233,23,38,14,1,59,9,19,226,23,41,14,2,61,9,24,Școala Gimnazială nr. 10,Str. Tineretului nr. 24,Giurgiu,43.9086,25.9757
+27,19,GIURGIU,MUNICIPIUL GIURGIU,210,17,44,17,2,52,14,30,206,17,56,16,2,48,16,31,Școala Gimnazială nr. 10,Str. Tineretului nr. 24,Giurgiu,43.9086,25.9757
+28,19,GIURGIU,MUNICIPIUL GIURGIU,250,13,32,13,0,56,11,30,250,15,41,9,0,50,13,28,Școala Gimnazială nr. 10,Str. Tineretului nr. 24,Giurgiu,43.9086,25.9757
+29,19,GIURGIU,MUNICIPIUL GIURGIU,221,12,15,8,1,46,5,29,234,13,16,6,2,37,5,27,Școala Gimnazială nr. 10,Str. Tineretului nr. 24,Giurgiu,43.9086,25.9757
+30,19,GIURGIU,MUNICIPIUL GIURGIU,218,28,38,12,0,46,6,20,216,24,45,13,0,42,9,25,Școala Gimnazială nr. 5,Str. Tineretului nr. 5,Giurgiu,43.9065,25.973
+31,19,GIURGIU,MUNICIPIUL GIURGIU,246,27,28,17,1,62,14,36,247,28,34,13,1,57,17,33,Școala Gimnazială nr. 5,Str. Tineretului nr. 5,Giurgiu,43.9065,25.973
+32,19,GIURGIU,MUNICIPIUL GIURGIU,279,19,33,12,0,53,11,34,283,19,37,10,0,52,8,31,Școala Gimnazială nr. 5,Str. Tineretului nr. 5,Giurgiu,43.9065,25.973
+33,19,GIURGIU,MUNICIPIUL GIURGIU,286,38,43,7,0,65,18,47,282,35,50,12,0,65,12,38,Punctul Termic nr. 35,"Bulevardul București (Șoseaua București) (D) , Bloc Adiacent bl. 69/1D",Giurgiu,43.9108,25.9705
+34,19,GIURGIU,MUNICIPIUL GIURGIU,186,22,17,4,0,31,16,29,188,19,23,4,0,28,17,29,Punctul Termic nr. 35,"Bulevardul București (Șoseaua București) (D) , Bloc Adiacent bl. 69/1D",Giurgiu,43.9108,25.9705
+35,19,GIURGIU,MUNICIPIUL GIURGIU,265,14,36,19,1,39,8,35,269,15,46,18,0,34,10,29,Punctul Termic nr. 63,Str. Tineretului,Giurgiu,43.9087,25.9731
+36,19,GIURGIU,MUNICIPIUL GIURGIU,192,13,32,9,0,39,8,17,194,17,27,5,0,37,12,20,Grădinița cu PN nr. 9,Str. Tineretului nr. 3,Giurgiu,43.9072,25.9797
+37,19,GIURGIU,MUNICIPIUL GIURGIU,203,11,35,10,1,44,10,23,201,16,33,11,1,44,11,21,Grădinița cu PP nr. 9,Str. Tineretului nr. 3,Giurgiu,43.9072,25.9797
+38,19,GIURGIU,MUNICIPIUL GIURGIU,251,9,29,12,0,35,7,28,249,10,34,13,1,35,9,24,Grădinița Căsuța Fermecată,Str. Tineretului nr. 4,Giurgiu,43.9066,25.9747
+39,19,GIURGIU,MUNICIPIUL GIURGIU,183,10,17,11,0,54,9,30,190,10,25,7,0,47,9,25,Cantina de Ajutor Social,Str. Tineretului,Giurgiu,43.9054,25.9774
+40,19,GIURGIU,MUNICIPIUL GIURGIU,369,22,38,9,0,72,11,38,359,23,46,12,0,72,17,38,Școala Gimnazială Savin Popescu,Str. 1 Decembrie 1918 nr. 81,Giurgiu,43.9054,25.9788
+41,19,GIURGIU,MUNICIPIUL GIURGIU,274,24,33,10,1,46,13,25,273,31,32,14,0,36,11,24,Școala Gimnazială Savin Popescu,Str. 1 Decembrie 1918 nr. 81,Giurgiu,43.9054,25.9788
+42,19,GIURGIU,MUNICIPIUL GIURGIU,265,16,43,19,0,53,15,40,278,16,50,15,2,49,10,29,Liceul Tehnologic Ion Barbu,Str. 1 Decembrie 1918 nr. 83,Giurgiu,43.9058,25.979
+43,19,GIURGIU,MUNICIPIUL GIURGIU,253,13,38,8,2,56,14,34,259,17,40,6,2,51,15,31,Casa Armatei,Str. 1 Decembrie 1918,Giurgiu,43.9039,25.9804
+44,19,GIURGIU,MUNICIPIUL GIURGIU,258,79,66,29,1,62,28,52,273,67,84,27,3,48,19,39,Colegiul Național „Ion Maiorescu”,Str. Prof. Nicolae Droc Barcian (Str. Lăzăreanu Barbu) nr. 8,Giurgiu,43.8924,25.9663
+45,19,GIURGIU,MUNICIPIUL GIURGIU,234,35,38,25,2,63,10,26,233,28,53,17,2,55,13,34,Colegiul Național „Ion Maiorescu”,Str. Prof. Nicolae Droc Barcian (Str. Lăzăreanu Barbu) nr. 8,Giurgiu,43.8924,25.9663
+46,19,GIURGIU,MUNICIPIUL GIURGIU,342,57,70,26,2,99,16,59,348,54,84,31,2,86,21,58,Școala Gimnazială nr. 7,Str. Episcopiei (Str. Portului) nr. 21,Giurgiu,43.8883,25.9677
+47,19,GIURGIU,MUNICIPIUL GIURGIU,365,48,66,36,1,84,20,51,374,43,65,35,1,82,26,49,Școala Gimnazială Mihai Eminescu,Str. Vlad Țepeș (Str. V. I. Lenin) nr. 45,Giurgiu,43.8936,25.9689
+48,19,GIURGIU,MUNICIPIUL GIURGIU,327,37,38,17,0,100,20,47,336,37,43,15,1,82,20,44,Grădinița cu PN nr. 3,Str. Smîrdei nr. 21,Giurgiu,43.8943,25.9745
+139,19,GIURGIU,GOGOŞARI,265,2,6,3,1,76,3,10,262,2,8,2,1,76,5,15,Căminul Cultural Gogoșari,,Gogoșari,43.8602,25.7058
+84,19,GIURGIU,BUCŞANI,116,0,8,1,1,6,1,6,115,2,7,1,2,7,1,8,Școala Primară nr. 5,Str. Principală nr. 51,Goleasca,44.3542,25.5832
+159,19,GIURGIU,IEPUREŞTI,178,13,17,3,2,38,3,10,177,15,20,5,1,40,4,8,Grădinița cu Program Normal nr. 2 Gorneni,,Gorneni,44.2813,25.8662
+143,19,GIURGIU,GOSTINARI,628,1,46,8,0,65,4,24,626,1,51,10,0,63,6,18,Școala Gimnazială nr. 1 Gostinari,Str. Școlii nr. 2,Gostinari,44.1856,26.2259
+145,19,GIURGIU,GOSTINU,407,5,36,4,0,51,3,11,420,3,42,6,0,41,0,2,Școala Gimnazială Anghel Mares - Local Grădinița Gostinu,,Gostinu,43.9943,26.1198
+146,19,GIURGIU,GOSTINU,440,3,28,3,0,31,12,16,443,6,26,1,0,28,12,17,Școala Gimnazială Anghel Mares- Local Grădinița Gostinu,,Gostinu,43.9943,26.1198
+150,19,GIURGIU,GREACA,488,10,55,16,0,81,4,19,494,9,60,14,1,76,7,18,Școala Gimnazială nr. 1 Greaca,Str. Principală nr. 69,Greaca,44.1085,26.3434
+147,19,GIURGIU,GRĂDINARI,179,11,32,5,1,31,1,11,175,11,30,6,1,35,0,11,Școala Gimnziala nr. 1 Gradinari,Nr. 333,Grădinari,44.3925,25.8184
+103,19,GIURGIU,COMANA,363,5,46,17,2,29,5,16,368,5,47,19,0,29,8,11,Școala Gimnazială nr. 2 Gradistea,Nr. 283,Grădiștea,44.2232,26.1507
+125,19,GIURGIU,GĂISENI,210,0,17,4,0,13,1,8,210,0,18,4,0,12,2,9,Școala Gimnazială nr. 1 Sat Găiseni,Str. Principală nr. 58,Găiseni,44.5134,25.6477
+126,19,GIURGIU,GĂISENI,218,3,27,1,0,17,1,8,214,3,30,1,0,16,4,10,"Școala Gimnazială nr. 1 Sat Găiseni, Com Găiseni",Str. Principală nr. 58,Găiseni,44.5134,25.6477
+132,19,GIURGIU,GĂUJANI,262,8,31,5,0,45,1,23,260,8,35,5,0,47,5,19,Școala Gimnazială „Drăghici Davila”,Str. Primăriei nr. 1,Găujani,43.7375,25.7106
+153,19,GIURGIU,HERĂŞTI,217,14,276,17,0,106,7,17,220,16,280,17,0,113,7,13,Școala Gimnazială „Elina Basarab” Herăști,Str. Principală nr. 108,Herăști,44.2086,26.358
+183,19,GIURGIU,OGREZENI,182,0,31,9,0,7,6,13,186,1,30,8,0,6,7,12,Școala Primară nr. 1 Hobaia,Nr. 210,Hobaia,44.3891,25.775
+191,19,GIURGIU,PUTINEIU,156,5,24,3,1,5,2,4,161,5,25,3,0,7,2,6,Școala Hodivoaia,Șoseaua Alexandriei nr. 80,Hodivoaia,43.9026,25.7951
+154,19,GIURGIU,HOTARELE,258,11,61,12,0,9,2,12,251,9,64,11,0,16,2,11,Liceul „Udriște Năsturel” Hotarele,Șoseaua Muntenia (Șoseaua Hotarele-Isvoarele) nr. 4,Hotarele,44.1771,26.3659
+155,19,GIURGIU,HOTARELE,175,4,34,12,1,4,4,10,173,4,31,12,1,5,5,14,Grădinița cu Program Normal nr. 2,Șoseaua Basarabia (Șoseaua Hotarele-Deal) nr. 40,Hotarele,44.1674,26.3728
+156,19,GIURGIU,HOTARELE,152,11,36,4,1,6,1,8,150,12,32,4,1,8,2,12,Liceul „Udriște Năsturel”,Șoseaua București (Șoseaua Hotarele-București) nr. 2,Hotarele,44.1775,26.3675
+157,19,GIURGIU,HOTARELE,134,6,30,3,1,5,3,5,134,7,28,5,1,4,4,6,Grădinița cu Program Normal nr. 3,Șoseaua Bucovina (Șoseaua Hotarele-Scărișoara) nr. 206,Hotarele,44.1831,26.4013
+93,19,GIURGIU,CĂLUGĂRENI,405,5,84,12,1,21,4,21,397,2,86,5,0,22,1,26,Căminul Cultural Hulubești,Șoseaua Voinescu nr. 110,Hulubești,44.1671,25.9373
+218,19,GIURGIU,STOENEŞTI,147,2,5,0,0,4,0,0,149,3,4,0,0,4,0,0,Școala cu Clasele I-IV Ianculești,Str. Școlii nr. 8,Ianculești,44.1397,25.9236
+229,19,GIURGIU,ULMI,132,6,91,13,0,4,1,5,131,8,91,13,1,3,1,5,Școala Primară nr. 2 Icoana,,Icoana,44.4934,25.7449
+158,19,GIURGIU,IEPUREŞTI,397,11,44,18,2,48,5,25,402,10,46,17,1,50,7,25,Căminul Cultural Iepurești,,Iepurești,44.258,25.8841
+161,19,GIURGIU,ISVOARELE,271,6,56,4,0,37,4,20,277,7,53,4,1,41,6,14,Școala Gimnazială Stolnicul Constantin Cantacuzino - Isvoarele,Nr. 245,Isvoarele,44.1694,26.312
+163,19,GIURGIU,IZVOARELE,241,1,46,27,1,38,9,22,243,0,42,32,1,38,12,23,Școala Gimnazială nr. 1 Izvoarele,,Izvoarele,44.0393,25.776
+142,19,GIURGIU,GOGOŞARI,180,2,14,5,1,105,1,10,186,3,13,6,1,100,3,6,Dispensar Uman Izvoru,,Izvoru,43.8858,25.6651
+241,19,GIURGIU,VÎNĂTORII MICI,92,1,8,1,1,86,1,10,96,2,8,2,0,82,0,7,Școala Gimnazială nr. 2 Izvoru,Str. Principală nr. 43,Izvoru,44.5126,25.5368
+169,19,GIURGIU,JOIŢA,220,28,136,42,0,59,3,22,225,27,135,40,0,62,5,20,Primărie,Nr. 156,Joița,44.4973,25.8533
+171,19,GIURGIU,LETCA NOUĂ,287,3,17,5,0,86,1,13,289,4,18,4,1,90,2,7,Căminul Cultural Letca Nouă,Str. Căminului nr. 4,Letca Nouă,44.2333,25.7394
+172,19,GIURGIU,LETCA NOUĂ,278,2,23,2,0,36,1,8,278,1,23,2,0,37,2,8,Căminul Cultural Letca Veche,Str. Principală nr. 143,Letca Veche,44.1983,25.6902
+174,19,GIURGIU,MALU,197,9,15,22,0,219,7,20,207,10,12,23,1,221,9,17,Căminul Cultural Malu,Șoseaua Giurgiului nr. 92,Malu,43.8143,25.8187
+175,19,GIURGIU,MALU,218,9,25,15,2,130,8,20,221,8,23,16,3,126,5,21,Grădinița Malu,Șoseaua Giurgiului nr. 96,Malu,43.8135,25.8182
+54,19,GIURGIU,ORAŞ BOLINTIN-VALE,295,0,37,7,1,15,7,49,296,10,39,10,1,11,8,43,Școala Gimnazială nr. 1 Malu Spart,,Malu Spart,44.4437,25.7155
+55,19,GIURGIU,ORAŞ BOLINTIN-VALE,262,4,40,7,0,31,3,31,263,5,43,8,1,31,2,25,Școala Gimnazială nr. 1 Malu Spart,,Malu Spart,44.4437,25.7155
+176,19,GIURGIU,MIHAI BRAVU,456,4,29,10,0,26,4,16,457,5,31,8,0,21,5,17,Școala Gimnazială Dumitru Constantin Mihai Bravu,Șoseaua Principală nr. 137,Mihai Bravu,44.1407,26.0621
+177,19,GIURGIU,MIHAI BRAVU,395,2,23,16,0,12,3,7,390,4,23,15,1,12,2,6,Școala Gimnazială Dumitru Constantin Mihai Bravu,Șoseaua Principală nr. 74,Mihai Bravu,44.14,26.0535
+78,19,GIURGIU,BOLINTIN-DEAL,207,13,182,22,1,19,10,27,186,15,180,24,2,25,16,33,Școala Gimnazială nr. 2 Mihai Vodă,Str. Școlii nr. 48,Mihai Vodă,44.4402,25.8157
+57,19,GIURGIU,ORAŞ MIHĂILEŞTI,328,17,30,11,1,105,7,23,323,19,28,12,2,105,6,20,Liceul Tehnologic Tiu Dumitrescu,Calea București nr. 168,Mihăilești,44.3221,25.9049
+58,19,GIURGIU,ORAŞ MIHĂILEŞTI,273,14,32,10,1,78,15,27,275,15,32,8,0,81,13,28,Liceul Tehnologic Tiu Dumitrescu,Calea București nr. 168,Mihăilești,44.3221,25.9049
+59,19,GIURGIU,ORAŞ MIHĂILEŞTI,295,13,23,11,0,68,10,28,296,12,24,11,0,69,7,25,Liceul Tehnologic Tiu Dumitrescu,Calea București nr. 168,Mihăilești,44.3221,25.9049
+60,19,GIURGIU,ORAŞ MIHĂILEŞTI,337,2,27,3,2,58,10,28,335,9,31,3,0,55,13,24,Școala Primară nr. 1 Mihăilești-Tufa,Calea București nr. 22 A,Mihăilești,44.3138,25.9301
+61,19,GIURGIU,ORAŞ MIHĂILEŞTI,160,0,20,4,0,26,2,9,155,1,20,5,1,29,3,7,Școala Primară nr. 2 Mihăilești-Drăgănescu,Str. Abatorului nr. 47,Mihăilești,44.3424,25.8862
+173,19,GIURGIU,LETCA NOUĂ,493,3,13,15,1,44,3,15,497,2,14,14,1,45,1,14,Școala Gimnazială nr. 2 Milcovățu,Șoseaua Găiești nr. 137,Milcovățu,44.2688,25.6943
+144,19,GIURGIU,GOSTINARI,176,0,11,2,1,5,1,9,182,0,13,2,0,6,2,6,Școala Primară nr. 3 Mironești,Str. Școlii nr. 48,Mironești,44.169,26.2459
+221,19,GIURGIU,STOENEŞTI,92,0,6,1,0,7,0,2,91,0,6,1,0,7,0,2,Școala cu Clasele I-IV Mirău,Str. Principală nr. 46,Mirău,44.1397,25.8619
+68,19,GIURGIU,ADUNAŢII-COPĂCENI,153,6,31,5,0,4,1,4,150,7,33,4,0,3,1,8,Grădinița cu Program Normal nr. 4 Mogoșești,Șoseaua Victoriei nr. 76,Mogoșești,44.2402,26.1063
+178,19,GIURGIU,MÎRŞA,345,1,19,5,0,11,2,9,350,2,19,6,0,10,2,6,Școala Gimnazială nr. 1 Mârșa,Nr. 175,Mârșa,44.3735,25.5585
+179,19,GIURGIU,MÎRŞA,382,2,21,3,2,20,5,24,390,2,20,2,2,22,5,15,Școala Gimnazială nr. 1 Mârșa,Nr. 175,Mârșa,44.3735,25.5587
+137,19,GIURGIU,GHIMPAŢI,693,0,17,11,0,9,4,4,704,2,11,3,0,6,0,0,Fosta Școala cu Clasele I-VIII Naipu,Nr. 57,Naipu,44.1551,25.7603
+95,19,GIURGIU,CLEJANI,539,4,170,9,0,4,1,13,540,4,180,7,1,4,3,7,Grădinița cu PN nr. 3 Neajlov,,Neajlovu,44.3137,25.7512
+63,19,GIURGIU,ORAŞ MIHĂILEŞTI,364,8,24,7,1,32,1,15,374,10,22,10,2,30,2,11,Școala Primară nr. 3 Novaci,Str. Speranței nr. 3,Novaci,44.3003,25.9863
+82,19,GIURGIU,BUCŞANI,81,3,14,0,0,7,0,3,82,3,13,0,1,7,0,2,Grădinița cu Program Normal nr. 6,Str. Școlii nr. 1,Obedeni,44.3489,25.6545
+180,19,GIURGIU,OGREZENI,177,17,64,7,1,7,2,8,178,18,60,7,0,8,3,9,Școala Gimnazială „Sfantul Nectarie” Ogrezeni,Nr. 128,Ogrezeni,44.42,25.7654
+181,19,GIURGIU,OGREZENI,289,5,37,16,0,13,6,12,290,10,34,13,0,16,2,10,Școala Gimnazială „Aurel Solacolu” Ogrezeni,Nr. 1258,Ogrezeni,44.4041,25.7804
+182,19,GIURGIU,OGREZENI,193,10,76,11,0,8,1,9,190,9,73,12,0,7,3,15,Grădinița „Iris” Ogrezeni,Nr. 600,Ogrezeni,44.4233,25.7808
+184,19,GIURGIU,OINACU,524,11,59,19,0,41,6,20,518,15,60,18,0,40,9,21,Căminul Cultural Oinacu,,Oinacu,43.9536,26.0166
+217,19,GIURGIU,STĂNEŞTI,83,2,39,2,0,13,3,10,74,2,41,4,0,16,4,13,Grădinița cu Program Normal nr. 3 Oncești,Str. Bisericii nr. 19,Oncești,43.9565,25.8818
+118,19,GIURGIU,FLOREŞTI-STOENEŞTI,113,32,74,16,1,72,11,18,108,35,76,18,2,67,6,18,Școala Gimnazială nr. 3 Palanca,Str. Ion Ionescu Brăila nr. 15,Palanca,44.4718,25.7258
+119,19,GIURGIU,FLOREŞTI-STOENEŞTI,58,16,61,17,0,57,2,15,60,17,63,15,0,54,4,17,Școala Gimnazială nr. 3 Palanca,Str. Ion Ionescu Brăila nr. 15,Palanca,44.4718,25.7258
+165,19,GIURGIU,IZVOARELE,44,0,1,2,0,6,0,6,46,0,1,2,0,6,1,3,Școala Generală Petru Rareș,Nr. 52,Petru Rareș,44.0982,25.7905
+72,19,GIURGIU,BĂNEASA,282,13,27,6,0,12,18,25,279,16,24,8,0,11,22,29,Școala Gimnazială „Remus Begnescu” Pietrele,Str. Lupului nr. 9,Pietrele,44.0642,26.1147
+133,19,GIURGIU,GĂUJANI,188,2,11,8,1,69,14,29,187,1,16,8,2,68,16,28,Grădinița cu Program Normal nr. 1 Pietrișu,Str. Grădiniței nr. 3,Pietrișu,43.7252,25.6744
+112,19,GIURGIU,DAIA,111,0,31,7,0,70,2,6,119,2,31,5,0,67,2,6,Gradinița cu Program Normal nr. 2 Plopșoru,,Plopșoru,44.0115,25.9878
+113,19,GIURGIU,DAIA,119,5,21,25,0,39,2,9,124,5,22,24,0,41,2,5,Grădinița cu Program Normal nr. 3 Plopșoru,Nr. 65,Plopșoru,44.0129,25.993
+81,19,GIURGIU,BUCŞANI,122,4,11,1,0,5,2,11,120,2,13,2,0,4,5,13,Școala Primară nr. 3,Str. Principală nr. 72,Podișor,44.3897,25.7127
+130,19,GIURGIU,GĂISENI,53,0,3,0,0,6,0,2,53,0,3,2,0,8,0,1,Fosta Școala cu Clasele I-IV Podu Popa Nae,Str. Principală nr. 16,Podu Popa Nae,44.5184,25.6089
+225,19,GIURGIU,ULMI,158,27,93,9,0,18,3,18,163,29,92,10,1,15,4,20,Școala Gimnazială nr. 1 Poenari,,Poenari,44.4699,25.7678
+243,19,GIURGIU,VÎNĂTORII MICI,79,10,5,6,0,73,2,6,77,11,7,6,0,74,1,1,Școala Primară nr. 5 Poiana Lui Stângă,Str. Argeșului nr. 9,Poiana lui Stângă,44.51,25.5846
+62,19,GIURGIU,ORAŞ MIHĂILEŞTI,383,7,18,5,1,34,1,13,385,7,22,5,0,34,3,10,Școala Gimnazială nr. 1 Popești,Str. Nucetului nr. 41,Popești,44.3078,25.9636
+89,19,GIURGIU,BUTURUGENI,88,3,20,2,0,5,1,8,91,2,21,3,0,4,1,5,Grădinița cu Program Normal nr. 4 Poșta,,Poșta,44.3537,25.875
+187,19,GIURGIU,PRUNDU,773,7,58,2,1,38,8,16,759,7,62,4,1,50,5,11,Căminul Cultural Prundu,,Prundu,44.0902,26.2312
+188,19,GIURGIU,PRUNDU,548,1,35,4,1,30,1,2,546,3,37,3,1,31,1,2,Școala Primară nr. 1 Prundu,,Prundu,44.0902,26.2309
+189,19,GIURGIU,PRUNDU,362,1,16,3,1,12,0,2,364,1,16,1,1,11,0,4,Școala Primară nr. 1 Puieni,,Puieni,44.0784,26.187
+190,19,GIURGIU,PUTINEIU,607,8,12,1,1,18,6,12,607,7,13,1,1,14,7,11,Casa de Cultură Putineiu,Șoseaua Giurgiului nr. 84,Putineiu,43.9089,25.7432
+151,19,GIURGIU,GREACA,72,0,9,1,1,26,1,8,63,0,9,1,0,26,1,13,Școala Puțu Greci,Str. Școlii nr. 13,Puțu Greci,44.1399,26.3504
+88,19,GIURGIU,BUTURUGENI,469,4,34,8,0,5,1,12,473,3,35,11,0,4,2,13,Școala Gimnazială nr. 2 Pădureni,,Pădureni,44.3459,25.8029
+168,19,GIURGIU,IZVOARELE,85,1,10,7,0,7,2,24,104,1,10,7,0,8,2,4,Școala Generală Radu Vodă,,Radu Vodă,44.009,25.8162
+122,19,GIURGIU,FRĂTEŞTI,438,30,159,26,1,43,19,50,445,33,162,26,1,42,23,44,Căminul Cultural Remuș,Str. București nr. 55,Remuș,43.9425,25.9793
+196,19,GIURGIU,ROATA DE JOS,126,2,7,3,0,4,1,10,123,3,8,2,0,5,2,10,Grădinița cu Program Normal nr. 1 Roata Mica,Str. Școlii nr. 13,Roata Mică,44.401,25.5564
+197,19,GIURGIU,ROATA DE JOS,246,13,26,7,0,17,4,11,244,14,23,9,0,17,6,16,Grădinița cu Program Normal Roata de Jos,Str. Principală nr. 2,Roata de Jos,44.405,25.5337
+199,19,GIURGIU,ROATA DE JOS,281,11,24,4,0,10,5,19,289,9,28,7,0,12,6,14,Școala Gimnazială nr. 1 Roata de Jos,Str. Republicii nr. 6,Roata de Jos,44.4052,25.5334
+140,19,GIURGIU,GOGOŞARI,44,2,4,2,0,16,9,11,42,3,3,2,0,12,13,15,Fosta Școală Rălești,,Rălești,43.8547,25.6846
+193,19,GIURGIU,RĂSUCENI,471,0,24,2,2,2,0,4,472,0,23,3,1,2,2,4,Școala Gimnazială „Constantin Stăncescu”,,Răsuceni,44.0919,25.6687
+194,19,GIURGIU,RĂSUCENI,215,0,4,2,0,8,1,2,213,0,6,2,0,8,0,1,Școala Generală nr. 2 Răsuceni,,Răsuceni,44.0874,25.6786
+200,19,GIURGIU,ROATA DE JOS,324,9,29,6,1,12,1,5,323,11,30,4,0,14,0,7,Școala Primară nr. 2 Sadina,Str. Republicii nr. 85,Sadina,44.4116,25.5269
+205,19,GIURGIU,SCHITU,77,0,11,5,0,4,0,5,78,0,11,5,0,6,0,4,Școala Schitu,Nr. 68,Schitu,44.1416,25.8378
+74,19,GIURGIU,BĂNEASA,101,1,5,1,0,6,3,5,100,0,5,1,0,7,3,7,Școala Primară nr. 6 Sf. Gheorghe,Str. Școlii nr. 24,Sfântu Gheorghe,44.0161,26.0315
+209,19,GIURGIU,SINGURENI,608,12,24,7,0,8,2,9,584,11,31,9,0,10,3,14,Primăria Singureni,Str. Palatului nr. 906,Singureni,44.2339,25.9425
+212,19,GIURGIU,SLOBOZIA,264,9,38,13,0,61,5,15,262,10,41,12,0,64,2,9,Școala Gimnazială nr. 1 Slobozia,,Slobozia,43.8589,25.9079
+213,19,GIURGIU,SLOBOZIA,407,7,40,0,0,69,0,25,412,1,41,6,0,65,1,23,Grădinița de Copii Slobozia,,Slobozia,43.8562,25.9082
+211,19,GIURGIU,SINGURENI,359,3,9,3,1,18,1,4,365,0,11,2,0,16,0,6,Grădinița cu Program Normal nr. 3 Stejaru,Șoseaua Chirculești,Stejaru,44.2493,25.934
+114,19,GIURGIU,FLOREŞTI-STOENEŞTI,145,16,33,13,0,19,7,16,145,19,34,13,1,16,4,13,Școala Gimnazială nr. 2 Stoenești,Str. 1 Decembrie 1918 nr. 130,Stoenești,44.4884,25.7073
+219,19,GIURGIU,STOENEŞTI,518,1,48,5,0,17,3,10,519,2,44,5,1,20,2,9,Căminul Cultural Stoenești,Str. Principală nr. 76A,Stoenești,44.1447,25.8968
+220,19,GIURGIU,STOENEŞTI,258,0,14,2,0,28,2,5,259,1,16,2,2,26,2,4,Grădiniță cu Program Normal,Str. Principală nr. 221,Stoenești,44.1507,25.8799
+160,19,GIURGIU,IEPUREŞTI,62,0,20,3,0,25,2,3,63,0,19,2,0,22,1,5,Școala Stâlpu,,Stâlpu,44.2684,25.8517
+214,19,GIURGIU,STĂNEŞTI,241,1,127,11,1,22,3,16,241,1,127,9,1,25,3,16,Școala Gimnazială nr. 1 Stănești,,Stănești,43.923,25.8356
+203,19,GIURGIU,SĂBĂRENI,236,15,175,11,1,15,5,15,245,12,172,12,0,18,5,10,Școala Gimnazială nr. 1 Sabareni,Str. Școlii nr. 1,Săbăreni,44.5072,25.8791
+204,19,GIURGIU,SĂBĂRENI,193,12,160,6,2,30,2,13,195,12,160,8,2,31,3,11,Școala Gimnazială nr. 1 Sabareni,Str. Școlii nr. 1,Săbăreni,44.5072,25.8791
+162,19,GIURGIU,ISVOARELE,70,1,8,0,1,7,3,14,73,3,9,0,0,8,4,8,Școala Teiușu,Nr. 2,Teiușu,44.166,26.283
+223,19,GIURGIU,TOPORU,379,1,17,2,1,5,2,6,385,3,13,3,1,5,1,5,Școala Primară nr. 2 Tomulești,Str. Principală nr. 454,Tomulești,43.9728,25.6331
+222,19,GIURGIU,TOPORU,570,6,28,9,0,20,10,23,570,6,32,12,0,20,4,19,Căminul Cultural Toporu,Str. Principală nr. 777,Toporu,44.0143,25.6632
+226,19,GIURGIU,ULMI,163,7,45,7,0,11,3,13,163,8,44,8,0,12,3,12,Școala Gimnazială „Nicolae Lahovary”,,Trestieni,44.5035,25.7575
+227,19,GIURGIU,ULMI,208,2,39,6,0,15,0,6,208,3,42,5,0,13,2,7,Școala Gimnazială „Nicolae Lahovary”,,Trestieni,44.5035,25.7575
+148,19,GIURGIU,GRĂDINARI,177,4,33,1,0,64,6,25,179,8,32,3,0,61,0,25,Școala Gimnazială nr. 2 Tântava,Nr. 432,Tântava,44.4144,25.822
+83,19,GIURGIU,BUCŞANI,82,1,16,4,0,5,2,3,82,2,16,4,0,5,2,2,Școala Primară nr. 4,Str. Principală nr. 52,Uiești,44.3568,25.6157
+224,19,GIURGIU,ULMI,113,16,49,3,0,5,0,11,114,17,47,5,0,4,0,7,Școala Primară nr. 3 Ulmi,,Ulmi,44.4864,25.7831
+92,19,GIURGIU,CĂLUGĂRENI,247,4,84,13,1,21,3,17,247,4,78,15,0,23,4,18,Școala Gimnazială nr. 3 Uzunu,Șoseaua Stoenești nr. 15,Uzunu,44.1467,25.9661
+80,19,GIURGIU,BUCŞANI,139,1,44,10,0,9,5,12,143,0,43,9,0,9,3,10,Școala Gimnazială nr. 2,Str. Principală nr. 84,Vadu Lat,44.3421,25.6746
+166,19,GIURGIU,IZVOARELE,122,1,43,5,0,22,1,8,131,1,44,2,0,25,1,1,Grădinița cu Program Normal nr. 3 Valea Bujorului,,Valea Bujorului,44.0752,25.8291
+231,19,GIURGIU,VALEA DRAGULUI,315,11,80,13,1,22,6,19,314,14,76,15,2,24,7,24,Școala Gimnazială nr. 1 Valea Dragului,Șoseaua Principală nr. 357,Valea Dragului,44.211,26.3037
+232,19,GIURGIU,VALEA DRAGULUI,296,9,45,12,0,67,2,10,304,12,47,10,0,63,2,10,Grădinița nr. 2 Valea Dragului,Șoseaua Principală nr. 154,Valea Dragului,44.2056,26.2792
+138,19,GIURGIU,GHIMPAŢI,282,1,1,0,0,0,0,0,281,1,1,0,0,1,0,0,Școala Primară nr. 4 Valea Plopilor,Nr. 38,Valea Plopilor,44.2386,25.817
+67,19,GIURGIU,ADUNAŢII-COPĂCENI,127,4,18,7,0,9,2,13,130,4,18,7,0,7,3,15,Grădinița cu Program Normal nr. 3 Varlaam,Șoseaua Victoriei nr. 137,Varlaam,44.2447,26.0895
+237,19,GIURGIU,VEDEA,134,2,57,2,0,58,5,9,143,2,54,2,0,48,7,16,Școala Japca,Str. Arsache nr. 346,Vedea,43.794,25.7979
+238,19,GIURGIU,VEDEA,194,4,42,9,0,66,14,29,199,7,48,7,0,49,14,30,Cămin Cultural Vedea,Str. Arsache nr. 255,Vedea,43.7792,25.787
+239,19,GIURGIU,VEDEA,147,2,21,6,0,106,11,15,150,2,20,6,1,100,11,18,Școala Gimnazială „Apostol Arsache” Vedea,Str. Arsache nr. 131,Vedea,43.7784,25.7857
+192,19,GIURGIU,PUTINEIU,307,5,21,3,0,7,11,17,304,2,19,3,1,7,14,23,Școala Vieru,Șoseaua Giurgiului nr. 59,Vieru,43.8892,25.8109
+104,19,GIURGIU,COMANA,856,5,29,7,2,9,2,16,857,5,25,12,1,10,3,11,Școala Gimnazială nr. 1 Vlad-Tepes,Nr. 688,Vlad Țepeș,44.1321,26.1307
+208,19,GIURGIU,SCHITU,183,1,6,13,0,12,2,12,184,3,8,14,0,12,2,10,Școala Gimnazială Prof. Dinu Nicolae Vlasin,Nr. 68,Vlașin,44.1005,25.8576
+242,19,GIURGIU,VÎNĂTORII MICI,76,1,8,6,0,196,3,13,70,1,9,5,0,205,4,20,Școala Gimnazială nr. 3 Vânătorii Mari,Str. Luncii nr. 1,Vânătorii Mari,44.4887,25.5425
+240,19,GIURGIU,VÎNĂTORII MICI,100,2,27,2,1,105,1,4,103,2,25,3,1,101,1,3,Școala Gimnazială nr. 1 Vânătorii Mici,Str. Principală nr. 93,Vânătorii Mici,44.4901,25.5628
+233,19,GIURGIU,VĂRĂŞTI,348,2,39,13,4,11,3,16,360,3,38,16,3,11,2,13,Sediul Papi,Șoseaua Principală nr. 166,Vărăști,44.2375,26.2463
+234,19,GIURGIU,VĂRĂŞTI,387,7,31,8,0,16,1,6,390,6,31,7,1,18,0,2,Școala Gimnazială nr. 1 Vărăști,Șoseaua Principală nr. 79,Vărăști,44.2398,26.2393
+235,19,GIURGIU,VĂRĂŞTI,340,5,29,14,1,10,4,13,341,5,31,14,2,11,3,11,Școala Primară nr. 3 Obedeni,Șoseaua Principală nr. 372,Vărăști,44.2212,26.2562
+152,19,GIURGIU,GREACA,72,0,6,2,1,36,1,3,76,1,6,1,1,38,2,5,Școala Zboiu,Str. Școlii nr. 7,Zboiu,44.1256,26.3071
+149,19,GIURGIU,GRĂDINARI,180,9,76,6,1,30,1,6,183,7,72,6,1,25,5,16,Școala Primară nr. 3 Zorile,Nr. 1,Zorile,44.3789,25.8014

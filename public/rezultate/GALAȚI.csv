@@ -1,0 +1,437 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+293,18,GALAȚI,DRĂGUŞENI,146,2,38,5,1,5,2,19,152,3,45,6,0,5,2,9,Școala Adam,,Adam,46.0257,27.736
+237,18,GALAȚI,BEREŞTI-MERIA,102,0,25,1,0,5,9,18,100,2,26,1,0,9,8,15,Școala Primară Andronachi Goga nr. 1 Sat Aldești,Nr.       79A,Aldești,46.1318,27.9119
+239,18,GALAȚI,BEREŞTI-MERIA,220,2,37,4,0,5,14,25,220,2,43,4,0,5,13,24,Școala Gimnazială nr. 1 Sat Balintești,Nr. 251,Balintești,46.0181,27.9224
+218,18,GALAȚI,BARCEA,87,9,137,11,0,6,4,17,88,7,143,10,0,6,5,15,Școala nr. 2 Barcea,Str. Mihai Eminescu nr. 247,Barcea,45.7455,27.4772
+219,18,GALAȚI,BARCEA,99,5,141,5,1,8,2,20,107,9,134,6,2,8,3,15,Școala nr. 2 Barcea,Str. Mihai Eminescu nr. 247,Barcea,45.7455,27.4772
+220,18,GALAȚI,BARCEA,114,8,134,2,0,20,6,16,128,10,124,3,0,21,5,10,Școala nr. 3 Barcea,Str. Mihai Eminescu nr. 856,Barcea,45.7643,27.4705
+221,18,GALAȚI,BARCEA,131,16,141,10,2,8,3,27,138,17,148,10,2,12,3,14,Școala nr. 1 Barcea,Str. Căminului nr. 1145,Barcea,45.7533,27.4591
+210,18,GALAȚI,ORAŞ BEREŞTI,406,13,59,15,1,39,10,33,409,13,61,15,0,41,13,28,Casa de Cultură „Ion Creangă” Berești,Str. Trandafirilor nr. 26,Berești,46.0866,27.8892
+211,18,GALAȚI,ORAŞ BEREŞTI,471,4,38,10,0,28,11,42,470,3,45,12,0,25,12,39,Liceul Teoretic „Paul Bujor” Beresti,Str. Trandafirilor nr. 210,Berești,46.0959,27.8851
+234,18,GALAȚI,BEREŞTI-MERIA,101,5,35,2,0,11,16,30,104,7,35,2,0,14,15,24,Școala Gimnazială nr. 1 Sat Berești - Meria,Nr. 191,Berești-Meria,46.0862,27.9034
+267,18,GALAȚI,COROD,173,3,49,1,1,7,5,31,170,4,51,5,2,12,7,17,Școala Blînzi,Str. Vasile Alecsandri nr. 122,Blânzi,45.9378,27.6505
+240,18,GALAȚI,BRANIŞTEA,139,19,141,15,0,25,19,55,145,20,145,13,0,25,19,47,Grădinița de Copii,,Braniștea,45.4402,27.8339
+241,18,GALAȚI,BRANIŞTEA,138,10,98,8,0,20,6,44,137,14,102,7,1,23,5,33,Grădinița de Copii,,Braniștea,45.4402,27.8339
+244,18,GALAȚI,BRĂHĂŞEŞTI,267,3,40,3,1,14,9,34,271,4,45,4,1,19,7,16,Școala Gimnazială nr. 1 Brăhășești,,Brăhășești,46.0439,27.3707
+245,18,GALAȚI,BRĂHĂŞEŞTI,233,4,49,4,0,14,3,27,244,5,51,3,0,10,2,17,Școala Gimnazială nr. 1 Brăhășești,,Brăhășești,46.0439,27.3707
+436,18,GALAȚI,VLĂDEŞTI,116,3,122,5,0,16,6,29,129,3,127,4,0,16,6,20,Școala Gimnazială Brănești,,Brănești,45.8025,28.084
+268,18,GALAȚI,COROD,71,2,37,4,2,3,5,20,80,3,41,3,2,3,6,12,Școala Brătulești,Str. Școlii nr. 10,Brătulești,45.947,27.6681
+328,18,GALAȚI,IVEŞTI,349,12,99,17,1,30,10,52,353,15,105,22,1,28,13,41,Școala Gimnazială „Negoiță Dănăilă”,,Bucești,45.6618,27.5245
+329,18,GALAȚI,IVEŞTI,319,20,127,13,3,25,11,57,327,19,125,12,3,28,6,50,Școala Gimnazială „Gen.Eremia Grigorescu”,,Bucești,45.6497,27.5275
+249,18,GALAȚI,BUCIUMENI,239,7,70,8,0,13,9,36,248,7,69,8,0,12,10,29,Școala Natalia Negru,,Buciumeni,46.0046,27.3017
+224,18,GALAȚI,BĂLĂBĂNEŞTI,143,5,40,3,1,17,0,6,140,5,42,2,1,17,0,5,Camin Cultural Bursucani,,Bursucani,46.0467,27.7688
+230,18,GALAȚI,BĂLENI,230,1,36,5,0,23,8,21,236,2,33,6,0,25,8,16,Școala Gimnazială nr. 1 Băleni,,Băleni,45.8068,27.8481
+231,18,GALAȚI,BĂLENI,267,6,39,10,1,25,5,26,262,5,38,10,0,32,6,24,Școala Gimnazială nr. 1 Băleni,,Băleni,45.8068,27.8481
+272,18,GALAȚI,COSMEŞTI,126,4,60,5,0,12,30,39,132,3,63,3,0,12,26,33,Școala cu Clasele I-IV Băltăreți,,Băltăreți,45.8554,27.3152
+223,18,GALAȚI,BĂLĂBĂNEŞTI,196,5,33,5,0,32,8,32,197,5,35,2,0,36,7,30,Căminul Cultural Bălăbănești,Nr. 13,Bălăbănești,46.0949,27.7215
+226,18,GALAȚI,BĂLĂŞEŞTI,298,0,24,17,1,29,2,21,311,1,21,17,3,30,1,15,Căminul Cultural Bălășești,,Bălășești,46.0996,27.6717
+233,18,GALAȚI,BĂNEASA,403,8,59,8,0,48,4,45,438,6,63,9,0,53,7,18,Grădinița de Copii Baneasa,,Băneasa,45.9475,27.9348
+253,18,GALAȚI,CAVADINEŞTI,75,1,15,2,1,1,1,2,69,2,16,3,0,1,1,5,Școala Primară nr. 3,,Cavadinești,46.075,28.0109
+254,18,GALAȚI,CAVADINEŞTI,320,0,50,2,0,22,7,27,332,7,52,5,0,19,4,13,Școala Gimnazială nr. 2,,Cavadinești,46.067,28.0191
+258,18,GALAȚI,CERŢEŞTI,118,3,112,28,0,2,5,30,124,4,112,38,0,4,8,18,Școala Gimnazială George Ivascu,,Cerțești,46.0117,27.6289
+347,18,GALAȚI,MĂSTĂCANI,244,6,27,13,0,18,20,35,248,9,26,12,1,18,20,38,Școala Gimnazială nr. 1 Chiraftei,,Chiraftei,45.7693,28.0348
+348,18,GALAȚI,MĂSTĂCANI,167,8,20,7,2,17,17,27,175,10,22,7,2,16,16,19,Școala Gimnazială nr. 2 Chiraftei,,Chiraftei,45.7658,28.015
+381,18,GALAȚI,PRIPONEŞTI,213,5,19,9,0,1,5,15,214,3,19,11,0,4,3,9,Cămin Cultural,,Ciorăști,46.1113,27.4656
+228,18,GALAȚI,BĂLĂŞEŞTI,76,0,16,10,0,7,1,16,78,1,15,10,0,9,3,15,Școala Generală Ciurești,,Ciurești,46.0761,27.6387
+227,18,GALAȚI,BĂLĂŞEŞTI,166,4,22,7,0,19,7,17,171,3,23,10,0,16,6,17,Grădinița Ciureștii Noi,,Ciureștii Noi,46.0993,27.6406
+398,18,GALAȚI,SMÎRDAN,233,8,40,6,0,65,2,21,237,11,38,6,0,67,1,17,Școala Primară nr. 1 Cișmele,,Cișmele,45.5147,27.9289
+362,18,GALAȚI,NICOREŞTI,37,4,60,2,0,4,3,6,36,4,60,2,0,4,3,7,Școala Coasta Lupei,,Coasta Lupei,45.9455,27.2769
+257,18,GALAȚI,CAVADINEŞTI,76,0,11,0,0,4,0,4,74,1,13,1,0,4,1,1,Școala Generală Comănești,,Comănești,46.1002,27.9653
+422,18,GALAȚI,UMBRĂREŞTI,101,5,19,13,1,4,3,18,107,6,21,14,1,5,2,9,Școala Gimnazială Condrea,,Condrea,45.7076,27.4309
+261,18,GALAȚI,CORNI,217,3,72,5,1,7,9,25,215,6,78,1,1,16,11,19,Școala Noua - Sat Corni,,Corni,45.8569,27.783
+264,18,GALAȚI,COROD,120,6,111,20,2,18,5,66,142,12,119,23,1,19,4,27,Școala nr. 2 Corod,Str. Ștefan cel Mare nr. 196,Corod,45.8983,27.6178
+265,18,GALAȚI,COROD,139,19,128,16,1,17,8,86,141,29,149,22,1,23,14,39,Cămin Cultural Corod,Str. Ștefan cel Mare nr. 242,Corod,45.8979,27.6287
+266,18,GALAȚI,COROD,157,13,76,37,1,16,9,81,156,18,92,44,2,24,11,38,Școala nr. 3 Corod,Str. Ștefan cel Mare nr. 363,Corod,45.9108,27.6319
+270,18,GALAȚI,COSMEŞTI,266,12,57,18,0,13,58,87,274,11,69,17,1,20,52,67,Căminul Cultural Cosmești,,Cosmești,45.8658,27.307
+271,18,GALAȚI,COSMEŞTI,255,4,54,11,0,23,25,36,260,4,54,8,0,27,18,30,Școala cu Clasele I-VIII Cosmeștii-Vale,,Cosmeștii-Vale,45.8667,27.2902
+275,18,GALAȚI,COSTACHE NEGRI,219,3,171,6,0,19,8,28,225,5,175,8,0,20,7,19,Caminul Cultural Costache Negri,Nr. 534A,Costache Negri,45.7036,27.7223
+276,18,GALAȚI,COSTACHE NEGRI,214,3,173,7,0,11,5,18,217,3,174,12,0,12,3,8,Caminul Cultural Costache Negri,Nr. 534A,Costache Negri,45.7036,27.7223
+432,18,GALAȚI,VÎNĂTORI,196,52,53,16,2,26,8,32,189,52,65,19,1,26,6,21,Grădinița Copii,Nr. 23,Costi,45.4979,28.0129
+260,18,GALAȚI,CERŢEŞTI,143,2,79,5,0,19,4,29,141,2,87,5,1,25,5,15,Școala Primară,,Cotoroaia,46.0418,27.6458
+384,18,GALAȚI,RĂDEŞTI,96,1,6,1,0,10,1,2,92,0,6,0,0,10,0,6,Grădinița Cruceanu,Nr. 2,Cruceanu,46.0954,27.7947
+434,18,GALAȚI,VÎRLEZI,269,4,37,8,1,32,2,13,268,4,39,6,0,25,4,12,Grădinița Crăiești,,Crăiești,45.9456,27.8089
+277,18,GALAȚI,CUCA,229,8,63,4,0,31,5,20,226,9,60,4,1,38,6,23,Căminul Cultural Cuca,,Cuca,45.7332,27.8912
+278,18,GALAȚI,CUCA,192,10,61,8,0,44,3,19,198,13,64,10,0,44,2,17,Școala Generală Cuca,,Cuca,45.7367,27.8904
+279,18,GALAȚI,CUDALBI,408,10,101,7,2,12,13,46,413,13,99,12,2,16,11,25,Școala Gimnazială Prof. Emil Panaitescu,Str. Ștefan cel Mare nr. 92,Cudalbi,45.7713,27.6859
+280,18,GALAȚI,CUDALBI,308,10,50,10,0,23,17,54,324,14,47,8,1,21,10,43,Școala Gimnazială Prof. Emil Panaitescu,Str. Ștefan cel Mare nr. 196,Cudalbi,45.7713,27.6859
+281,18,GALAȚI,CUDALBI,311,0,59,8,0,12,10,44,322,5,56,9,1,18,10,38,Școala Gimnazială Prof. Emil Panaitescu,Str. Ștefan cel Mare nr. 196,Cudalbi,45.7713,27.6859
+282,18,GALAȚI,CUDALBI,330,6,62,8,0,25,7,45,331,8,70,13,2,23,5,28,Liceul Tehnologic nr. 1,Str. Ștefan cel Mare nr. 247,Cudalbi,45.786,27.6817
+283,18,GALAȚI,CUZA VODĂ,302,1,62,8,2,18,5,34,300,5,69,7,4,22,7,24,Școala Gimnazială Elena Doamna,Str. Alexandru Ioan Cuza nr. 202,Cuza Vodă,45.5972,27.7908
+284,18,GALAȚI,CUZA VODĂ,253,6,74,12,2,24,6,25,243,5,86,10,2,34,6,24,Școala Gimnazială Elena Doamna,Str. Alexandru Ioan Cuza nr. 202,Cuza Vodă,45.5972,27.7908
+259,18,GALAȚI,CERŢEŞTI,126,2,70,2,1,3,5,29,132,3,72,4,1,4,7,18,Școala Gimnazială,,Cârlomănești,45.9919,27.5869
+320,18,GALAȚI,GRIVIŢA,95,0,42,1,0,7,1,44,106,0,47,1,0,6,3,13,"Școala Primară, Sat Călmățui",,Călmățui,45.6831,27.6401
+269,18,GALAȚI,COROD,120,2,57,6,1,6,8,30,121,8,59,11,2,9,7,17,Școala Cărăpcești,Str. Stejarului nr. 1,Cărăpcești,45.964,27.6559
+291,18,GALAȚI,DRĂGUŞENI,131,0,16,0,0,6,2,10,134,0,18,0,1,6,1,10,Școala Căuiești,,Căuiești,46.0113,27.7027
+366,18,GALAȚI,NICOREŞTI,32,1,81,2,1,3,1,10,35,1,82,2,1,2,2,8,Școala Dobrinești,,Dobrinești,45.9176,27.3164
+288,18,GALAȚI,DRĂGUŞENI,302,6,22,4,1,19,4,54,336,6,28,6,2,24,4,19,Școala Drăgușeni,,Drăgușeni,45.9756,27.7616
+285,18,GALAȚI,DRĂGĂNEŞTI,301,11,202,8,1,12,5,45,303,17,208,11,1,9,4,31,Școala din Satul Drăgănești,,Drăgănești,45.7873,27.4618
+286,18,GALAȚI,DRĂGĂNEŞTI,223,4,241,28,1,13,9,55,260,8,250,36,1,9,11,17,Caminul Cultural din Satul Drăgănești,,Drăgănești,45.7926,27.4613
+298,18,GALAȚI,FOLTEŞTI,226,3,40,12,0,5,6,18,231,3,42,13,0,8,7,11,Grădinița cu Program Normal nr. 1 Foltesti - Sala nr. 1,,Foltești,45.7459,28.06
+299,18,GALAȚI,FOLTEŞTI,233,10,38,5,0,8,7,19,243,9,38,5,0,10,5,12,Grădinița cu Program Normal nr. 1 Foltesti - Sala nr. 2,,Foltești,45.7459,28.06
+301,18,GALAȚI,FRUMUŞIŢA,423,6,63,16,0,33,3,73,483,6,70,15,0,40,6,17,Școala Generală nr. 1 Frumușița (Școala din Centru),,Frumușița,45.6584,28.069
+302,18,GALAȚI,FRUMUŞIŢA,220,0,42,7,1,10,5,22,225,0,43,9,3,9,5,14,Școala Generală nr. 2 Petru Rareș,,Frumușița,45.6472,28.0656
+353,18,GALAȚI,MUNTENI,331,10,53,13,0,10,4,24,332,12,58,12,1,10,6,18,Școala Generală Frunzeasca,,Frunzeasca,45.9192,27.4224
+289,18,GALAȚI,DRĂGUŞENI,160,3,13,8,1,8,1,17,170,5,12,8,1,8,1,10,Școala Fundeanu,,Fundeanu,45.9773,27.7277
+305,18,GALAȚI,FUNDENI,172,13,54,7,2,11,14,32,177,15,54,9,1,9,15,24,Școala Generală Fundeni,,Fundeni,45.5751,27.5438
+274,18,GALAȚI,COSMEŞTI,236,7,78,7,0,13,27,55,247,6,82,5,0,15,19,42,Școala cu Clasele I-VIII Furcenii Noi,,Furcenii Noi,45.8099,27.3399
+273,18,GALAȚI,COSMEŞTI,193,17,75,18,0,6,48,74,202,20,79,21,0,5,41,58,Camin Cultural din Sat Furcenii Vechi,,Furcenii Vechi,45.8357,27.3271
+391,18,GALAȚI,SCÎNTEIEŞTI,415,2,49,8,2,31,1,28,423,5,50,6,1,36,3,25,Caminul Cultural,,Fântânele,45.7022,28.0023
+361,18,GALAȚI,NICOREŞTI,102,4,54,1,1,7,9,28,102,4,57,2,1,13,10,18,Școala Fîntâni,,Fântâni,45.9513,27.2935
+295,18,GALAȚI,FÎRŢĂNEŞTI,367,13,27,7,1,83,5,29,370,12,31,7,0,80,6,25,Caminul Cultural Firtanesti,,Fârțănești,45.7888,27.9893
+296,18,GALAȚI,FÎRŢĂNEŞTI,399,7,29,6,3,107,9,24,408,8,32,6,2,101,11,20,Caminul Cultural Firtanesti,,Fârțănești,45.7888,27.9893
+1,18,GALAȚI,MUNICIPIUL GALAŢI,255,101,67,41,4,30,33,104,252,101,75,49,4,37,31,84,Școala Gimnazială nr. 26 (Școala Generală „Ion Creangă” - Școala Generală nr. 26),Vadul Sacalelor nr. 2,Galați,45.4315,28.054
+2,18,GALAȚI,MUNICIPIUL GALAŢI,227,103,75,28,0,52,11,73,228,97,85,35,0,55,12,52,Școala Gimnazială nr. 26 (Școala Generală „Ion Creangă” - Școala Generală nr. 26),Vadul Sacalelor nr. 2,Galați,45.4315,28.054
+3,18,GALAȚI,MUNICIPIUL GALAŢI,205,133,85,61,1,47,30,102,205,123,98,54,3,64,27,88,Școala Gimnazială nr. 28 (Școala Generală „Mihai Eminescu” - Școala Generală nr. 28),Str. Roșiori nr. 31,Galați,45.4288,28.0493
+4,18,GALAȚI,MUNICIPIUL GALAŢI,227,85,76,37,2,35,26,81,222,91,87,42,2,43,26,55,Școala Gimnazială nr. 28 (Școala Generală „Mihai Eminescu” - Școala Generală nr. 28),Str. Roșiori nr. 31,Galați,45.4288,28.0493
+5,18,GALAȚI,MUNICIPIUL GALAŢI,252,126,78,58,3,44,26,88,261,114,85,68,3,52,27,66,Școala Gimnazială nr. 28 (Școala Generală „Mihai Eminescu” - Școala Generală nr. 28),Str. Roșiori nr. 31,Galați,45.4288,28.0493
+6,18,GALAȚI,MUNICIPIUL GALAŢI,265,127,94,47,3,43,27,90,253,125,103,54,4,51,30,81,Școala Gimnazială nr. 28 (Școala Generală „Mihai Eminescu” - Școala Generală nr. 28),Str. Roșiori nr. 31,Galați,45.4288,28.0493
+7,18,GALAȚI,MUNICIPIUL GALAŢI,183,60,60,43,3,20,26,73,175,53,63,48,2,31,27,68,Școala Gimnazială nr. 28 (Școala Generală „Mihai Eminescu” - Școala Generală nr. 28),Str. Roșiori nr. 31,Galați,45.4288,28.0493
+8,18,GALAȚI,MUNICIPIUL GALAŢI,320,159,121,67,9,63,26,114,326,151,131,66,10,76,26,87,S.C. „Apa-Canal” S.A.,Str. Constantin Brâncoveanu nr. 2,Galați,45.4289,28.0457
+9,18,GALAȚI,MUNICIPIUL GALAŢI,268,146,118,68,2,41,35,119,263,137,128,64,3,63,42,101,S.C. „Apa-Canal” S.A.,Str. Constantin Brâncoveanu nr. 2,Galați,45.4289,28.0457
+10,18,GALAȚI,MUNICIPIUL GALAŢI,263,121,103,38,3,32,19,78,257,115,107,43,2,40,23,75,S.C. „Apa-Canal” S.A.,Str. Constantin Brâncoveanu nr. 2,Galați,45.4289,28.0457
+11,18,GALAȚI,MUNICIPIUL GALAŢI,258,113,96,40,3,42,22,81,260,114,103,47,2,46,19,65,Școala Gimnazială „Constantin Gheorghe Marinescu” (Școala Generală nr. 2),Str. Regimentul 11 Siret (Str. Partizanilor) nr. 41 A,Galați,45.4265,28.0354
+12,18,GALAȚI,MUNICIPIUL GALAŢI,317,119,83,51,4,50,32,118,315,117,90,54,3,73,24,92,Școala Gimnazială „Constantin Gheorghe Marinescu” (Școala Generală nr. 2),Str. Regimentul 11 Siret (Str. Partizanilor) nr. 41 A,Galați,45.4265,28.0354
+13,18,GALAȚI,MUNICIPIUL GALAŢI,292,119,104,45,4,57,30,111,291,117,114,57,4,67,29,81,Liceul Teoretic „Emil Racoviță” (Liceul „Emil Racoviță” - Școala Generală nr. 6),Str. Regimentul 11 Siret (Str. Partizanilor) nr. 12,Galați,45.4219,28.0329
+14,18,GALAȚI,MUNICIPIUL GALAŢI,261,60,53,35,2,41,21,58,258,55,59,37,4,48,18,46,Liceul Teoretic „Emil Racoviță” (Liceul „Emil Racoviță” - Școala Generală nr. 6),Str. Regimentul 11 Siret (Str. Partizanilor) nr. 12,Galați,45.4219,28.0329
+15,18,GALAȚI,MUNICIPIUL GALAŢI,178,51,47,30,2,28,15,49,188,44,52,32,1,27,15,47,Liceul Teoretic „Emil Racoviță” (Liceul „Emil Racoviță” - Școala Generală nr. 6),Str. Regimentul 11 Siret (Str. Partizanilor) nr. 12,Galați,45.4219,28.0329
+16,18,GALAȚI,MUNICIPIUL GALAŢI,187,51,48,35,1,23,7,47,183,50,50,40,1,30,5,37,Colegiul National „Mihail Kogălniceanu”,Str. Brăilei nr. 161 B,Galați,45.4271,28.0342
+17,18,GALAȚI,MUNICIPIUL GALAŢI,207,71,60,32,2,39,17,77,203,69,69,37,2,42,21,65,Colegiul National „Mihail Kogălniceanu”,Str. Brăilei nr. 161 B,Galați,45.4271,28.0342
+18,18,GALAȚI,MUNICIPIUL GALAŢI,213,86,82,30,1,50,12,69,221,80,87,31,3,67,8,43,Casa de Cultura a Sindicatelor,Str. Brăilei nr. 136,Galați,45.4294,28.0386
+19,18,GALAȚI,MUNICIPIUL GALAŢI,248,96,91,69,3,41,34,116,249,78,113,58,3,58,41,101,Casa de Cultura a Sindicatelor,Str. Brăilei nr. 136,Galați,45.4294,28.0386
+20,18,GALAȚI,MUNICIPIUL GALAŢI,244,53,80,20,1,43,23,73,248,59,79,23,2,49,18,56,Școala Gimnazială „Elena Cuza” (Școala nr. 15),Str. G-ral Alexandru Cernat (Str. Nicolae Cristea) nr. 190,Galați,45.4374,28.0415
+21,18,GALAȚI,MUNICIPIUL GALAŢI,235,87,81,38,1,40,18,85,222,79,93,39,2,56,20,70,Școala Gimnazială „Elena Cuza” (Școala nr. 15),Str. G-ral Alexandru Cernat (Str. Nicolae Cristea) nr. 190,Galați,45.4374,28.0415
+22,18,GALAȚI,MUNICIPIUL GALAŢI,221,53,91,36,1,39,22,79,218,51,96,36,0,45,20,69,Grădinița cu Program Normal „Ioan Nenițescu” (Grădinița nr. 15),Str. Ion Nenițescu nr. 12,Galați,45.4351,28.0484
+23,18,GALAȚI,MUNICIPIUL GALAŢI,170,55,73,34,1,52,15,76,173,55,75,39,2,54,15,64,Grădinița cu Program Normal „Ioan Nenițescu” (Grădinița nr. 15),Str. Ion Nenițescu nr. 12,Galați,45.4351,28.0484
+24,18,GALAȚI,MUNICIPIUL GALAŢI,173,83,52,22,0,26,22,72,178,69,62,30,0,34,21,54,Colegiul Național „Vasile Alecsandri”,Str. Nicolae Bălcescu nr. 41,Galați,45.4409,28.0516
+25,18,GALAȚI,MUNICIPIUL GALAŢI,235,90,90,41,3,40,23,95,251,85,95,48,4,45,18,69,Colegiul Național „Vasile Alecsandri”,Str. Nicolae Bălcescu nr. 41,Galați,45.4409,28.0516
+26,18,GALAȚI,MUNICIPIUL GALAŢI,195,78,88,45,1,29,19,89,197,72,100,44,1,34,20,77,Colegiul Național „Vasile Alecsandri”,Str. Nicolae Bălcescu nr. 41,Galați,45.4409,28.0516
+27,18,GALAȚI,MUNICIPIUL GALAŢI,259,92,97,52,2,34,24,94,251,82,105,54,6,58,23,72,Școala Gimnazială nr. 16 (Școala Generală „Nicolae Bălcescu” - Școala Generală nr. 16),Str. Arieșului nr. 8,Galați,45.4386,28.051
+28,18,GALAȚI,MUNICIPIUL GALAŢI,197,61,55,29,1,33,13,63,200,56,65,34,3,30,10,54,Școala Gimnazială nr. 16 (Școala Generală „Nicolae Bălcescu” - Școala Generală nr. 16),Str. Arieșului nr. 8,Galați,45.4386,28.051
+29,18,GALAȚI,MUNICIPIUL GALAŢI,225,97,92,39,6,47,15,88,218,87,113,50,5,56,23,68,Școala Gimnazială nr. 16 (Școala Generală „Nicolae Bălcescu” - Școala Generală nr. 16),Str. Arieșului nr. 8,Galați,45.4386,28.051
+30,18,GALAȚI,MUNICIPIUL GALAŢI,204,117,69,36,1,49,22,93,203,103,77,47,2,56,30,80,Școala Gimnazială nr. 16 (Școala Generală „Nicolae Bălcescu” - Școala Generală nr. 16),Str. Arieșului nr. 8,Galați,45.4386,28.051
+31,18,GALAȚI,MUNICIPIUL GALAŢI,256,79,73,47,2,37,19,76,258,66,81,52,2,45,20,65,Școala Gimnazială nr. 25 (Școala Generală „Petru Rareș” - Școala Generală nr. 25),Str. Basarabiei (Str. 6 Martie) nr. 25,Galați,45.445,28.0521
+32,18,GALAȚI,MUNICIPIUL GALAŢI,249,107,100,43,2,47,18,90,247,106,93,54,0,55,23,86,Școala Gimnazială nr. 25 (Școala Generală „Petru Rareș” - Școala Generală nr. 25),Str. Basarabiei (Str. 6 Martie) nr. 25,Galați,45.445,28.0521
+33,18,GALAȚI,MUNICIPIUL GALAŢI,217,69,78,38,1,61,19,86,217,70,85,40,2,71,24,67,Școala Gimnazială nr. 25 (Școala Generală „Petru Rareș” - Școala Generală nr. 25),Str. Basarabiei (Str. 6 Martie) nr. 25,Galați,45.445,28.0521
+34,18,GALAȚI,MUNICIPIUL GALAŢI,226,81,115,47,5,39,29,115,223,86,117,57,3,45,33,100,Universitatea „Dunărea de Jos” Galați (Universitatea Galați),Str. Domneasca (Bulevardul Republicii) nr. 47,Galați,45.4387,28.0559
+35,18,GALAȚI,MUNICIPIUL GALAŢI,209,67,88,26,4,33,16,70,215,60,96,30,4,40,12,50,Școala Gimnazială „Ludovic Cosma” (Școala Generală nr. 19),Str. Stelei nr. 2,Galați,45.4493,28.0409
+36,18,GALAȚI,MUNICIPIUL GALAŢI,294,72,87,35,3,44,23,105,299,78,90,45,4,49,29,68,Școala Gimnazială „Ludovic Cosma” (Școala Generală nr. 19),Str. Stelei nr. 2,Galați,45.4493,28.0409
+37,18,GALAȚI,MUNICIPIUL GALAŢI,362,71,103,37,4,33,23,85,372,75,104,37,6,36,21,73,Colegiul Tehnic „Radu Negru”,Str. Traian nr. 203,Galați,45.4524,28.0418
+38,18,GALAȚI,MUNICIPIUL GALAŢI,262,96,103,40,2,50,23,96,270,82,106,40,2,64,23,77,Colegiul de Industrie Alimentară „Elena Doamna” (Grup Școlar „Elena Doamna”),Str. Domneasca (Bulevardul Republicii) nr. 169,Galați,45.4555,28.048
+39,18,GALAȚI,MUNICIPIUL GALAŢI,206,60,55,23,4,30,14,57,207,57,58,27,3,35,19,52,Colegiul de Industrie Alimentară „Elena Doamna” (Grup Școlar „Elena Doamna”),Str. Domneasca (Bulevardul Republicii) nr. 169,Galați,45.4555,28.048
+40,18,GALAȚI,MUNICIPIUL GALAŢI,362,97,107,29,1,40,24,92,365,96,123,29,1,40,24,83,Colegiul Tehnic „Radu Negru” (Grup Școlar „Radu Negru”),Str. Științei nr. 119,Galați,45.4577,28.0453
+41,18,GALAȚI,MUNICIPIUL GALAŢI,252,89,102,38,4,43,23,85,240,83,110,50,2,61,23,69,Școala Gimnazială nr. 20 (Școala Generală nr. 20 „Traian”),Str. Traian nr. 318,Galați,45.4629,28.0379
+42,18,GALAȚI,MUNICIPIUL GALAŢI,163,51,63,38,3,34,17,55,163,42,63,50,4,38,17,43,Școala Gimnazială nr. 20 (Școala Generală nr. 20 „Traian”),Str. Traian nr. 318,Galați,45.4629,28.0379
+43,18,GALAȚI,MUNICIPIUL GALAŢI,294,85,92,41,2,38,26,108,290,82,96,52,3,54,26,84,Școala Gimnazială nr. 20 (Școala Generală nr. 20 „Traian”),Str. Traian nr. 318,Galați,45.4629,28.0379
+44,18,GALAȚI,MUNICIPIUL GALAŢI,293,188,149,52,4,54,27,115,292,189,157,64,4,70,28,80,Școala Gimnazială nr. 24 (Școala Generală nr. 24),Str. Egalității nr. 8,Galați,45.4335,28.0585
+45,18,GALAȚI,MUNICIPIUL GALAŢI,212,41,58,20,1,33,11,65,216,49,56,29,3,37,7,40,Liceul Tehnologic de Marină (Grup Școlar Industrial de Marină - Liceul de Marină),Str. Portului (Str. 13 Iunie 1916) nr. 55B,Galați,45.4349,28.0666
+46,18,GALAȚI,MUNICIPIUL GALAŢI,278,34,78,18,5,35,5,65,280,35,81,21,6,43,7,50,Liceul Tehnologic de Marină (Grup Școlar Industrial de Marină - Liceul de Marină),Str. Portului (Str. 13 Iunie 1916) nr. 55B,Galați,45.4349,28.0666
+47,18,GALAȚI,MUNICIPIUL GALAŢI,229,104,76,40,0,34,16,90,232,90,91,50,1,49,22,53,Liceul Tehnologic de Marină (Grup Școlar Industrial de Marină - Liceul de Marină),Str. Portului (Str. 13 Iunie 1916) nr. 55B,Galați,45.4349,28.0666
+48,18,GALAȚI,MUNICIPIUL GALAŢI,245,133,81,60,1,35,28,94,240,134,86,63,3,51,26,72,Colegiul Național „Alexandru Ioan Cuza” (Grădinița nr. 59 - fosta Școală Generală nr. 8),Str. Saturn nr. 26,Galați,45.423,28.0267
+49,18,GALAȚI,MUNICIPIUL GALAŢI,326,113,76,42,3,45,34,115,336,111,80,50,3,54,28,88,Colegiul Național „Alexandru Ioan Cuza” (Grădinița nr. 59 - fosta Școală Generală nr. 8),Str. Saturn nr. 26,Galați,45.4342,28.0525
+50,18,GALAȚI,MUNICIPIUL GALAŢI,268,91,76,47,2,31,24,88,274,96,77,51,3,34,26,62,Colegiul Național „Alexandru Ioan Cuza” (Grădinița nr. 59 - fosta Școală Generală nr. 8),Str. Saturn nr. 26,Galați,45.4342,28.0525
+51,18,GALAȚI,MUNICIPIUL GALAŢI,244,61,61,45,1,34,12,69,242,61,56,51,3,49,14,54,Colegiul Național „Alexandru Ioan Cuza” (Grădinița nr. 59 - fosta Școală Generală nr. 8),Str. Saturn nr. 26,Galați,45.4342,28.0525
+52,18,GALAȚI,MUNICIPIUL GALAŢI,308,37,54,32,2,39,16,55,312,38,49,36,1,41,21,54,Liceul cu Program Sportiv (Liceul cu Program de Educație Fizică - Liceul Industrial nr. 12),Str. Stadionului (Aleea Stadionului) nr. 33,Galați,45.4155,28.0245
+53,18,GALAȚI,MUNICIPIUL GALAŢI,295,69,69,47,4,53,17,74,287,65,76,49,4,62,20,67,Liceul cu Program Sportiv (Liceul cu Program de Educație Fizică - Liceul Industrial nr. 12),Str. Stadionului (Aleea Stadionului) nr. 33,Galați,45.4155,28.0245
+54,18,GALAȚI,MUNICIPIUL GALAŢI,282,55,69,42,1,38,21,75,285,52,65,48,2,45,21,61,Liceul cu Program Sportiv (Liceul cu Program de Educație Fizică - Liceul Industrial nr. 12),Str. Stadionului (Aleea Stadionului) nr. 33,Galați,45.4155,28.0245
+55,18,GALAȚI,MUNICIPIUL GALAŢI,313,64,80,41,2,38,16,91,313,66,84,42,2,44,19,77,Liceul cu Program Sportiv (Liceul cu Program de Educație Fizică - Liceul Industrial nr. 12),Str. Stadionului (Aleea Stadionului) nr. 33,Galați,45.4155,28.0245
+56,18,GALAȚI,MUNICIPIUL GALAŢI,235,40,50,18,2,33,9,53,233,41,54,22,2,42,10,31,Școala Gimnazială nr. 17 (Școala Generală „Nichita Stănescu” - Școala Generală nr. 17),Str. Costache Conachi (Str. Slebingului) nr. 2 B,Galați,45.416,28.0171
+57,18,GALAȚI,MUNICIPIUL GALAŢI,267,40,52,9,3,58,18,68,262,36,47,15,4,69,18,63,Școala Gimnazială nr. 17 (Școala Generală „Nichita Stănescu” - Școala Generală nr. 17),Str. Costache Conachi (Str. Slebingului) nr. 2 B,Galați,45.416,28.0171
+58,18,GALAȚI,MUNICIPIUL GALAŢI,245,27,55,21,1,45,15,59,245,23,60,25,2,46,21,53,Școala Gimnazială nr. 17 (Școala Generală „Nichita Stănescu” - Școala Generală nr. 17),Str. Costache Conachi (Str. Slebingului) nr. 2B,Galați,45.416,28.0171
+59,18,GALAȚI,MUNICIPIUL GALAŢI,237,65,70,28,0,38,22,63,243,65,70,31,1,35,20,57,Colegiul Economic „Virgil Madgearu” (Grup Școlar Economic Administrativ „Virgil Madgearu”),Str. Strungarilor nr. 31,Galați,45.4162,28.0153
+60,18,GALAȚI,MUNICIPIUL GALAŢI,303,54,51,24,1,33,15,58,307,55,50,22,1,34,16,55,Școala Gimnazială nr. 29 (Școala Generală „Sfânta Ana” - Școala Generală nr. 29),Str. Strungarilor nr. 7A,Galați,45.4151,28.0168
+61,18,GALAȚI,MUNICIPIUL GALAŢI,276,48,74,44,2,38,19,78,280,50,72,44,1,46,19,66,Școala Gimnazială nr. 29 (Școala Generală „Sfânta Ana” - Școala Generală nr. 29),Str. Strungarilor nr. 7A,Galați,45.4151,28.0168
+62,18,GALAȚI,MUNICIPIUL GALAŢI,279,56,55,28,2,39,14,68,279,50,57,25,3,56,14,52,Școala Gimnazială nr. 29 (Școala Generală „Sfânta Ana” - Școala Generală nr. 29),Str. Strungarilor nr. 7A,Galați,45.4151,28.0168
+63,18,GALAȚI,MUNICIPIUL GALAŢI,267,78,94,50,0,46,15,86,282,71,102,52,0,49,18,68,Școala Gimnazială nr. 29 (Școala Generală „Sfânta Ana” - Școala Generală nr. 29),Str. Strungarilor nr. 7A,Galați,45.4151,28.0168
+64,18,GALAȚI,MUNICIPIUL GALAŢI,284,57,57,22,1,35,15,79,286,55,56,30,1,40,20,65,Școala Gimnazială nr. 22 (Școala Generală „Dimitrie Cantemir” - Școala Generală nr. 22),Str. Zidarilor nr. 5,Galați,45.4142,28.0134
+65,18,GALAȚI,MUNICIPIUL GALAŢI,371,62,64,35,1,35,16,76,368,61,69,38,1,52,20,52,Școala Gimnazială nr. 22 (Școala Generală „Dimitrie Cantemir” - Școala Generală nr. 22),Str. Zidarilor nr. 5,Galați,45.4142,28.0134
+66,18,GALAȚI,MUNICIPIUL GALAŢI,290,39,75,31,2,42,21,75,295,44,80,33,2,45,16,52,Școala Gimnazială nr. 22 (Școala Generală „Dimitrie Cantemir” - Școala Generală nr. 22),Str. Zidarilor nr. 5,Galați,45.4142,28.0134
+67,18,GALAȚI,MUNICIPIUL GALAŢI,345,76,83,39,1,40,23,87,341,67,99,42,0,46,23,68,Grădinița cu Program Prelungit „Prichindel” (Grădinița „Prichindel” - Grădinița nr. 62),Str. Brăilei nr. 205,Galați,45.4141,28.007
+68,18,GALAȚI,MUNICIPIUL GALAŢI,286,49,48,36,1,41,25,83,287,43,61,46,1,43,23,65,Grădinița cu Program Prelungit „Prichindel” (Grădinița „Prichindel” - Grădinița nr. 62),Str. Brăilei nr. 205,Galați,45.4141,28.007
+69,18,GALAȚI,MUNICIPIUL GALAŢI,274,58,73,53,1,35,17,84,260,58,67,60,1,47,19,80,Grădinița cu Program Prelungit „Prichindel” (Grădinița „Prichindel” - Grădinița nr. 62),Str. Brăilei nr. 205,Galați,45.4141,28.007
+70,18,GALAȚI,MUNICIPIUL GALAŢI,99,12,21,8,1,22,8,21,99,11,23,8,1,24,9,19,Gara C.F.R. Barboși,,Galați,45.4019,27.9885
+71,18,GALAȚI,MUNICIPIUL GALAŢI,350,73,74,17,1,37,17,73,343,74,72,20,0,52,14,62,Școala Gimnazială „Dan Barbilian” (Școala Generală „Dan Barbilian” - Școala Generală nr. 43),Str. Furnaliștilor nr. 3,Galați,45.4115,28.0113
+72,18,GALAȚI,MUNICIPIUL GALAŢI,352,63,70,38,2,39,15,73,351,62,75,42,4,45,13,57,Școala Gimnazială „Dan Barbilian” (Școala Generală „Dan Barbilian” - Școala Generală nr. 43),Str. Furnaliștilor nr. 3,Galați,45.4115,28.0113
+73,18,GALAȚI,MUNICIPIUL GALAŢI,238,65,74,23,0,37,26,77,233,66,79,29,0,43,19,63,Școala Gimnazială „Dan Barbilian” (Școala Generală „Dan Barbilian” - Școala Generală nr. 43),Str. Furnaliștilor nr. 3,Galați,45.4115,28.0113
+74,18,GALAȚI,MUNICIPIUL GALAŢI,254,68,79,34,0,48,21,81,264,66,74,41,0,49,24,71,Școala Gimnazială „Dan Barbilian” (Școala Generală „Dan Barbilian” - Școala Generală nr. 43),Str. Furnaliștilor nr. 3,Galați,45.4115,28.0113
+75,18,GALAȚI,MUNICIPIUL GALAŢI,327,54,53,27,0,53,13,65,323,53,62,37,0,56,19,49,Școala Gimnazială „Dan Barbilian” (Școala Generală „Dan Barbilian” - Școala Generală nr. 43),Str. Furnaliștilor nr. 3,Galați,45.4115,28.0113
+76,18,GALAȚI,MUNICIPIUL GALAŢI,277,63,70,46,3,52,17,66,276,52,72,54,5,61,19,59,Școala Gimnazială „Dan Barbilian” (Școala Generală „Dan Barbilian” - Școala Generală nr. 43),Str. Furnaliștilor nr. 3,Galați,45.4115,28.0113
+77,18,GALAȚI,MUNICIPIUL GALAŢI,286,69,77,32,0,45,22,80,279,71,85,37,0,55,21,63,Școala Gimnazială „Dan Barbilian” (Școala Generală „Dan Barbilian” - Școala Generală nr. 43),Str. Furnaliștilor nr. 3,Galați,45.4115,28.0113
+78,18,GALAȚI,MUNICIPIUL GALAŢI,289,76,78,31,1,43,15,84,293,73,78,37,1,50,17,67,Școala Gimnazială nr. 3 (Școala Generală nr. 3),Bulevardul Dunărea nr. 60,Galați,45.4099,28.0185
+79,18,GALAȚI,MUNICIPIUL GALAŢI,283,58,77,32,3,35,19,67,283,56,73,43,1,35,21,59,Școala Gimnazială nr. 3 (Școala Generală nr. 3),Bulevardul Dunărea nr. 60,Galați,45.4099,28.0185
+80,18,GALAȚI,MUNICIPIUL GALAŢI,278,75,63,31,2,33,26,95,284,78,69,26,4,37,31,78,Școala Gimnazială nr. 3 (Școala Generală nr. 3),Bulevardul Dunărea nr. 60,Galați,45.4099,28.0185
+81,18,GALAȚI,MUNICIPIUL GALAŢI,343,69,96,31,0,35,18,86,338,71,99,30,0,52,23,62,Școala Gimnazială nr. 3 (Școala Generală nr. 3),Bulevardul Dunărea nr. 60,Galați,45.4099,28.0185
+82,18,GALAȚI,MUNICIPIUL GALAŢI,235,85,84,39,0,34,21,83,246,86,90,41,0,38,16,57,Școala Gimnazială nr. 3 (Școala Generală nr. 3),Bulevardul Dunărea nr. 60,Galați,45.4099,28.0185
+83,18,GALAȚI,MUNICIPIUL GALAŢI,300,85,74,36,0,39,20,71,306,76,84,36,4,54,17,50,Școala Gimnazială „Iulia Hașdeu” (Școala Generală „Iulia Hașdeu” - Școala Generală nr. 40),Str. Oltului nr. 6,Galați,45.4167,28.0099
+84,18,GALAȚI,MUNICIPIUL GALAŢI,285,43,80,31,1,34,14,60,291,44,79,36,0,37,11,45,Școala Gimnazială „Iulia Hașdeu” (Școala Generală „Iulia Hașdeu” - Școala Generală nr. 40),Str. Oltului nr. 6,Galați,45.4167,28.0099
+85,18,GALAȚI,MUNICIPIUL GALAŢI,297,51,61,28,0,50,18,70,302,47,65,36,2,52,12,57,Școala Gimnazială „Iulia Hașdeu” (Școala Generală „Iulia Hașdeu” - Școala Generală nr. 40),Str. Oltului nr. 6,Galați,45.4167,28.0099
+86,18,GALAȚI,MUNICIPIUL GALAŢI,267,73,72,41,4,34,14,61,262,72,79,45,5,39,15,47,Școala Gimnazială „Iulia Hașdeu” (Școala Generală „Iulia Hașdeu” - Școala Generală nr. 40),Str. Oltului nr. 6,Galați,45.4167,28.0099
+87,18,GALAȚI,MUNICIPIUL GALAŢI,288,78,100,41,1,33,18,86,298,65,103,58,1,31,14,74,Școala Gimnazială „Iulia Hașdeu” (Școala Generală „Iulia Hașdeu” - Școala Generală nr. 40),Str. Oltului nr. 6,Galați,45.4167,28.0099
+88,18,GALAȚI,MUNICIPIUL GALAŢI,235,74,51,20,0,32,7,63,238,74,53,25,0,28,10,57,Școala Gimnazială „Iulia Hașdeu” (Școala Generală „Iulia Hașdeu” - Școala Generală nr. 40),Str. Oltului nr. 6,Galați,45.4167,28.0099
+89,18,GALAȚI,MUNICIPIUL GALAŢI,282,69,79,28,0,48,27,99,288,69,78,36,0,55,28,80,Școala Gimnazială nr. 9 (Școala Gimnazială nr. 9 „Calistrat Hogaș”),Str. Barboși nr. 35,Galați,45.4212,28.0117
+90,18,GALAȚI,MUNICIPIUL GALAŢI,247,66,54,23,0,32,20,79,247,61,66,31,1,40,19,54,Școala Gimnazială nr. 9 (Școala Gimnazială nr. 9 „Calistrat Hogaș”),Str. Barboși nr. 35,Galați,45.4212,28.0117
+91,18,GALAȚI,MUNICIPIUL GALAŢI,226,57,76,18,4,41,16,70,228,55,76,21,4,48,20,57,Școala Gimnazială nr. 9 (Școala Gimnazială nr. 9 „Calistrat Hogaș”),Str. Barboși nr. 35,Galați,45.4212,28.0117
+92,18,GALAȚI,MUNICIPIUL GALAŢI,313,101,86,44,2,35,34,118,313,100,87,63,3,42,39,93,Grădinița cu Program Normal nr. 59 (fosta Școală Gimnazială „Nicolae Mantu”),Str. Brăilei nr. 184,Galați,45.4217,28.0209
+93,18,GALAȚI,MUNICIPIUL GALAŢI,284,77,90,39,2,34,11,76,282,68,110,41,2,40,15,56,Grădinița cu Program Normal nr. 59 (fosta Școală Gimnazială „Nicolae Mantu”),Str. Brăilei nr. 184,Galați,45.4217,28.0209
+94,18,GALAȚI,MUNICIPIUL GALAŢI,234,91,78,32,1,42,21,68,229,91,81,29,2,53,22,62,Școala Gimnazială nr. 5 (Școala Generală „Cuza Vodă” - Școala Generală nr. 5),Aleea Gorunului nr. 6B,Galați,45.425,28.0152
+95,18,GALAȚI,MUNICIPIUL GALAŢI,249,71,58,42,2,32,20,76,256,71,71,53,2,31,16,51,Școala Gimnazială nr. 5 (Școala Generală „Cuza Vodă” - Școala Generală nr. 5),Aleea Gorunului nr. 6B,Galați,45.425,28.0152
+96,18,GALAȚI,MUNICIPIUL GALAŢI,275,70,62,35,1,51,20,84,272,68,69,42,1,55,16,70,Școala Gimnazială nr. 5 (Școala Generală „Cuza Vodă” - Școala Generală nr. 5),Aleea Gorunului nr. 6B,Galați,45.425,28.0152
+97,18,GALAȚI,MUNICIPIUL GALAŢI,270,86,75,35,2,35,19,96,268,87,80,43,2,39,19,76,Școala Gimnazială nr. 5 (Școala Generală „Cuza Vodă” - Școala Generală nr. 5),Aleea Gorunului nr. 6B,Galați,45.425,28.0152
+98,18,GALAȚI,MUNICIPIUL GALAŢI,268,80,87,31,1,46,20,79,275,78,89,37,2,57,10,54,Liceul Teoretic „Dunarea”,Str. Oltului nr. 24,Galați,45.4204,28.0176
+99,18,GALAȚI,MUNICIPIUL GALAŢI,274,64,58,34,1,46,14,68,269,69,60,40,3,49,12,54,Liceul Teoretic „Dunarea”,Str. Oltului nr. 24,Galați,45.4204,28.0176
+100,18,GALAȚI,MUNICIPIUL GALAŢI,260,65,62,38,1,32,19,98,266,63,63,43,1,46,17,68,Liceul Teoretic „Dunarea”,Str. Oltului nr. 24,Galați,45.4204,28.0176
+101,18,GALAȚI,MUNICIPIUL GALAŢI,281,68,77,32,5,51,20,92,279,68,83,30,5,58,26,83,Școala Gimnazială „Mihail Sadoveanu” (Școala Generală „Mihail Sadoveanu” - Școala Generală nr. 11),Str. Mihail Sadoveanu nr. 16,Galați,45.4308,28.0158
+102,18,GALAȚI,MUNICIPIUL GALAŢI,314,69,96,42,1,45,17,94,318,59,100,42,1,60,21,80,Școala Gimnazială „Mihail Sadoveanu” (Școala Generală „Mihail Sadoveanu” - Școala Generală nr. 11),Str. Mihail Sadoveanu nr. 16,Galați,45.4308,28.0158
+103,18,GALAȚI,MUNICIPIUL GALAŢI,236,54,59,31,1,47,20,73,242,62,59,30,2,45,21,59,Școala Gimnazială „Mihail Sadoveanu” (Școala Generală „Mihail Sadoveanu” - Școala Generală nr. 11),Str. Mihail Sadoveanu nr. 16,Galați,45.4308,28.0158
+104,18,GALAȚI,MUNICIPIUL GALAŢI,217,75,59,23,1,48,26,92,216,76,62,29,1,58,28,74,Școala Gimnazială „Mihail Sadoveanu” (Școala Generală „Mihail Sadoveanu” - Școala Generală nr. 11),Str. Mihail Sadoveanu nr. 16,Galați,45.4308,28.0158
+105,18,GALAȚI,MUNICIPIUL GALAŢI,265,99,103,35,1,35,16,73,265,96,104,34,1,41,23,69,Școala Gimnazială „Mihail Sadoveanu” (Școala Generală „Mihail Sadoveanu” - Școala Generală nr. 11),Str. Mihail Sadoveanu nr. 16,Galați,45.4308,28.0158
+106,18,GALAȚI,MUNICIPIUL GALAŢI,273,82,70,36,1,41,26,72,274,83,69,41,1,42,30,66,Școala Gimnazială „Mihail Sadoveanu” (Școala Generală „Mihail Sadoveanu” - Școala Generală nr. 11),Str. Mihail Sadoveanu nr. 16,Galați,45.4308,28.0158
+107,18,GALAȚI,MUNICIPIUL GALAŢI,270,70,62,35,2,48,20,84,275,64,65,41,1,56,20,67,Școala Gimnazială nr. 10 (Școala Generală „Petre Țuțea” - Școala Generală nr. 10),Str. Lebedei nr. 4,Galați,45.4349,28.0174
+108,18,GALAȚI,MUNICIPIUL GALAŢI,276,53,74,43,1,38,23,71,268,46,74,53,1,49,22,63,Școala Gimnazială nr. 10 (Școala Generală „Petre Țuțea” - Școala Generală nr. 10),Str. Lebedei nr. 4,Galați,45.4349,28.0174
+109,18,GALAȚI,MUNICIPIUL GALAŢI,273,65,68,25,1,49,17,71,278,61,69,37,1,54,12,54,Școala Gimnazială nr. 10 (Școala Generală „Petre Țuțea” - Școala Generală nr. 10),Str. Lebedei nr. 4,Galați,45.4349,28.0174
+110,18,GALAȚI,MUNICIPIUL GALAŢI,278,55,77,41,0,37,22,83,281,52,79,48,1,43,19,73,Școala Gimnazială nr. 10 (Școala Generală „Petre Țuțea” - Școala Generală nr. 10),Str. Lebedei nr. 4,Galați,45.4349,28.0174
+111,18,GALAȚI,MUNICIPIUL GALAŢI,271,78,55,41,0,42,16,66,268,85,60,43,1,48,14,55,Școala Gimnazială nr. 10 (Școala Generală „Petre Țuțea” - Școala Generală nr. 10),Str. Lebedei nr. 4,Galați,45.4349,28.0174
+112,18,GALAȚI,MUNICIPIUL GALAŢI,266,100,68,24,1,30,17,79,267,91,76,41,1,35,18,60,Colegiul Tehnic „Traian Vuia” (Grup Școlar Transporturi Auto),Str. Ing. Anghel Saligny (Str. Scînteii) nr. 117,Galați,45.4314,28.0202
+113,18,GALAȚI,MUNICIPIUL GALAŢI,207,84,95,43,1,42,9,61,212,79,102,46,2,39,10,51,Colegiul Tehnic „Traian Vuia” (Grup Școlar Transporturi Auto),Str. Ing. Anghel Saligny (Str. Scînteii) nr. 117,Galați,45.4314,28.0202
+114,18,GALAȚI,MUNICIPIUL GALAŢI,257,57,55,30,1,36,15,53,242,54,57,36,1,53,12,48,Colegiul Tehnic „Traian Vuia” (Grup Școlar Transporturi Auto),Str. Ing. Anghel Saligny (Str. Scînteii) nr. 117,Galați,45.4314,28.0202
+115,18,GALAȚI,MUNICIPIUL GALAŢI,297,78,91,40,2,38,14,72,291,80,99,43,2,32,19,64,Școala Gimnazială „Sfinții Împărați” (Școala Generală „Sfinții Împărați” - Școala Generală nr. 42),Bulevardul Siderurgiștilor nr. 17A,Galați,45.4329,28.0244
+116,18,GALAȚI,MUNICIPIUL GALAŢI,298,130,99,31,1,47,31,110,295,125,111,41,2,51,27,84,Școala Gimnazială „Sfinții Împărați” (Școala Generală „Sfinții Împărați” - Școala Generală nr. 42),Bulevardul Siderurgiștilor nr. 17A,Galați,45.4329,28.0244
+117,18,GALAȚI,MUNICIPIUL GALAŢI,267,69,74,32,1,34,18,89,268,59,82,34,1,41,22,79,Școala Gimnazială „Sfinții Împărați” (Școala Generală „Sfinții Împărați” - Școala Generală nr. 42),Bulevardul Siderurgiștilor nr. 17A,Galați,45.4329,28.0244
+118,18,GALAȚI,MUNICIPIUL GALAŢI,338,61,63,43,0,35,15,83,330,61,65,51,1,47,15,65,Școala Gimnazială „Sfântul Grigore Teologul” (Școala Generală „Sfântul Grigore Teologul” - Școala Generală nr. 41),Str. 1 Decembrie 1918 nr. 1A,Galați,45.4417,28.0201
+119,18,GALAȚI,MUNICIPIUL GALAŢI,259,88,68,39,0,32,15,81,270,81,68,40,0,45,12,64,Școala Gimnazială „Sfântul Grigore Teologul” (Școala Generală „Sfântul Grigore Teologul” - Școala Generală nr. 41),Str. 1 Decembrie 1918 nr. 1A,Galați,45.4417,28.0201
+120,18,GALAȚI,MUNICIPIUL GALAŢI,308,63,85,31,0,40,24,77,315,64,86,40,0,43,26,58,Școala Gimnazială „Sfântul Grigore Teologul” (Școala Generală „Sfântul Grigore Teologul” - Școala Generală nr. 41),Str. 1 Decembrie 1918 nr. 1A,Galați,45.4417,28.0201
+121,18,GALAȚI,MUNICIPIUL GALAŢI,319,58,88,28,0,49,22,75,319,55,104,25,0,62,16,51,Școala Gimnazială „Sfântul Grigore Teologul” (Școala Generală „Sfântul Grigore Teologul” - Școala Generală nr. 41),Str. 1 Decembrie 1918 nr. 1A,Galați,45.4417,28.0201
+122,18,GALAȚI,MUNICIPIUL GALAŢI,245,52,101,42,4,59,27,97,248,51,107,44,5,69,25,76,Liceul Tehnologic „Anghel Saligny” (Grup Școlar Industrial „Anghel Saligny” - Liceul Industrial nr. 9),Nr. 4,Galați,45.441,28.0127
+123,18,GALAȚI,MUNICIPIUL GALAŢI,285,28,84,30,2,32,21,93,276,36,81,44,1,39,22,77,Liceul Tehnologic „Anghel Saligny” (Grup Școlar Industrial „Anghel Saligny” - Liceul Industrial nr. 9),Nr. 4,Galați,45.441,28.0127
+124,18,GALAȚI,MUNICIPIUL GALAŢI,232,74,61,22,1,37,13,66,232,71,69,20,1,46,14,53,Liceul Tehnologic „Anghel Saligny” (Grup Școlar Industrial „Anghel Saligny” - Liceul Industrial nr. 9),Nr. 4,Galați,45.441,28.0127
+125,18,GALAȚI,MUNICIPIUL GALAŢI,240,31,70,25,0,40,17,65,250,33,69,22,0,44,23,56,Liceul Tehnologic „Anghel Saligny” (Grup Școlar Industrial „Anghel Saligny” - Liceul Industrial nr. 9),Nr. 4,Galați,45.441,28.0127
+126,18,GALAȚI,MUNICIPIUL GALAŢI,219,76,79,27,3,47,25,73,231,74,77,39,5,51,13,45,Liceul Teoretic „Sfânta Maria” (Grup Școlar Industrial „Sfânta Maria” - Liceul Industrial nr. 10),Str. Constructorilor nr. 25,Galați,45.4341,28.0301
+127,18,GALAȚI,MUNICIPIUL GALAŢI,277,93,85,52,1,43,34,104,275,93,98,55,0,50,25,78,Liceul Teoretic „Sfânta Maria” (Grup Școlar Industrial „Sfânta Maria” - Liceul Industrial nr. 10),Str. Constructorilor nr. 25,Galați,45.4341,28.0301
+128,18,GALAȚI,MUNICIPIUL GALAŢI,284,69,66,33,2,41,12,56,289,70,62,37,2,46,15,45,Școala Gimnazială „Ștefan Cel Mare” (Școala Generală „Ștefan Cel Mare” - Școala Generală nr. 13),Str. Constructorilor nr. 9,Galați,45.4307,28.0274
+129,18,GALAȚI,MUNICIPIUL GALAŢI,338,112,90,45,2,52,17,84,355,108,91,55,2,53,23,65,Școala Gimnazială „Ștefan Cel Mare” (Școala Generală „Ștefan Cel Mare” - Școala Generală nr. 13),Str. Constructorilor nr. 9,Galați,45.4307,28.0274
+130,18,GALAȚI,MUNICIPIUL GALAŢI,317,98,77,50,3,37,28,112,310,99,81,49,2,52,30,91,Colegiul Național „Costache Negri” (Liceul Pedagogic „Costache Negri”),Str. Brăilei nr. 134,Galați,45.4286,28.0325
+131,18,GALAȚI,MUNICIPIUL GALAŢI,290,125,85,46,1,39,27,93,283,127,92,46,1,55,29,70,Colegiul Național „Costache Negri” (Liceul Pedagogic „Costache Negri”),Str. Brăilei nr. 134,Galați,45.4286,28.0325
+132,18,GALAȚI,MUNICIPIUL GALAŢI,321,92,110,42,2,44,28,105,329,95,115,48,2,50,32,82,Colegiul Național „Costache Negri” (Liceul Pedagogic „Costache Negri”),Str. Brăilei nr. 134,Galați,45.4286,28.0325
+133,18,GALAȚI,MUNICIPIUL GALAŢI,344,65,92,38,0,42,18,77,351,62,89,39,1,50,18,64,Școala Gimnazială „Grigore Moisil” (Școala Generală „Grigore Moisil” - Școala Generală nr. 38),Str. Feroviarilor nr. 19A,Galați,45.4476,28.0162
+134,18,GALAȚI,MUNICIPIUL GALAŢI,308,50,57,32,0,32,15,66,310,55,64,39,2,34,14,44,Școala Gimnazială „Grigore Moisil” (Școala Generală „Grigore Moisil” - Școala Generală nr. 38),Str. Feroviarilor nr. 19A,Galați,45.4476,28.0162
+135,18,GALAȚI,MUNICIPIUL GALAŢI,251,54,65,27,3,32,27,84,265,52,73,27,2,37,22,64,Școala Gimnazială „Grigore Moisil” (Școala Generală „Grigore Moisil” - Școala Generală nr. 38),Str. Feroviarilor nr. 19A,Galați,45.4476,28.0162
+136,18,GALAȚI,MUNICIPIUL GALAŢI,360,55,74,26,3,49,22,72,366,55,70,34,2,50,20,67,Școala Gimnazială „Grigore Moisil” (Școala Generală „Grigore Moisil” - Școala Generală nr. 38),Str. Feroviarilor nr. 19A,Galați,45.4476,28.0162
+137,18,GALAȚI,MUNICIPIUL GALAŢI,304,54,81,34,0,49,23,80,308,57,89,37,2,55,23,56,Școala Gimnazială „Gheorghe Munteanu” (Școala Generală „Gheorghe Munteanu” - Școala Generală nr. 31),Str. Camil Ressu (Str. Dudului) nr. 9,Galați,45.4529,28.0211
+138,18,GALAȚI,MUNICIPIUL GALAŢI,276,28,52,25,1,17,21,74,270,29,60,31,1,20,23,57,Școala Gimnazială „Gheorghe Munteanu” (Școala Generală „Gheorghe Munteanu” - Școala Generală nr. 31),Str. Camil Ressu (Str. Dudului) nr. 9,Galați,45.4529,28.0211
+139,18,GALAȚI,MUNICIPIUL GALAŢI,277,39,59,21,3,27,6,54,279,44,55,22,3,34,11,39,Școala Gimnazială „Gheorghe Munteanu” (Școala Generală „Gheorghe Munteanu” - Școala Generală nr. 31),Str. Camil Ressu (Str. Dudului) nr. 9,Galați,45.4529,28.0211
+140,18,GALAȚI,MUNICIPIUL GALAŢI,73,0,17,44,1,16,3,25,79,2,22,40,1,15,3,16,"Grădinița cu Program Normal nr. 29, Arondată Grădiniței cu Program Prelungit „Camil Ressu” (Grădinița Filești - Grădinița nr. 29)",Str. Filești nr. 15A,Galați,45.4507,28.0036
+141,18,GALAȚI,MUNICIPIUL GALAŢI,243,32,49,26,2,29,13,57,240,38,49,31,2,35,13,42,Colegiul Tehnic „Paul Dimo” (Liceul Energetic nr. 4),Str. 1 Decembrie 1918 nr. 27,Galați,45.45,28.0206
+142,18,GALAȚI,MUNICIPIUL GALAŢI,287,43,74,25,0,39,3,47,285,38,78,25,0,47,11,44,Colegiul Tehnic „Paul Dimo” (Liceul Energetic nr. 4),Str. 1 Decembrie 1918 nr. 27,Galați,45.45,28.0206
+143,18,GALAȚI,MUNICIPIUL GALAŢI,301,54,66,18,2,36,16,61,304,49,67,21,2,37,16,52,Colegiul Tehnic „Paul Dimo” (Liceul Energetic nr. 4),Str. 1 Decembrie 1918 nr. 27,Galați,45.45,28.0206
+144,18,GALAȚI,MUNICIPIUL GALAŢI,237,20,42,19,2,33,16,66,237,16,46,24,3,32,14,57,Colegiul Tehnic „Paul Dimo” (Liceul Energetic nr. 4),Str. 1 Decembrie 1918 nr. 27,Galați,45.45,28.0206
+145,18,GALAȚI,MUNICIPIUL GALAŢI,306,47,60,25,1,41,17,73,293,42,77,28,1,45,22,66,Școala Gimnazială nr. 33 (Școala Generală „Sfântul Dumitru” - Școala Generală nr. 33),Str. Dr. Mihail Petrini-Galatzi (Str. Frasinului) nr. 1,Galați,45.4557,28.02
+146,18,GALAȚI,MUNICIPIUL GALAŢI,262,75,49,31,0,36,16,85,263,68,56,42,1,44,19,69,Școala Gimnazială nr. 33 (Școala Generală „Sfântul Dumitru” - Școala Generală nr. 33),Str. Dr. Mihail Petrini-Galatzi (Str. Frasinului) nr. 1,Galați,45.4557,28.02
+147,18,GALAȚI,MUNICIPIUL GALAŢI,266,43,50,28,1,40,15,63,262,45,58,39,0,44,9,42,Școala Gimnazială nr. 33 (Școala Generală „Sfântul Dumitru” - Școala Generală nr. 33),Str. Dr. Mihail Petrini-Galatzi (Str. Frasinului) nr. 1,Galați,45.4557,28.02
+148,18,GALAȚI,MUNICIPIUL GALAŢI,265,39,71,16,0,46,14,55,271,37,69,21,0,41,18,54,Școala Gimnazială nr. 33 (Școala Generală „Sfântul Dumitru” - Școala Generală nr. 33),Str. Dr. Mihail Petrini-Galatzi (Str. Frasinului) nr. 1,Galați,45.4557,28.02
+149,18,GALAȚI,MUNICIPIUL GALAŢI,292,45,53,28,1,37,6,47,297,47,60,30,0,38,7,34,Școala Gimnazială „Mihai Viteazul” (Școala Generală „Mihai Viteazul” - Școala Generală nr. 34),Bulevardul Traian Vuia (Bulevardul Pinului) nr. 22,Galați,45.4577,28.0244
+150,18,GALAȚI,MUNICIPIUL GALAŢI,246,30,59,27,3,45,17,85,249,31,59,31,4,49,20,77,Școala Gimnazială „Mihai Viteazul” (Școala Generală „Mihai Viteazul” - Școala Generală nr. 34),Bulevardul Traian Vuia (Bulevardul Pinului) nr. 22,Galați,45.4577,28.0244
+151,18,GALAȚI,MUNICIPIUL GALAŢI,255,57,49,32,0,29,18,91,249,65,51,41,0,36,22,71,"Grădinița cu Program Prelungit nr. 47, Arondată Grădiniței cu Program Normal „Ion Creangă” (Grădinița nr. 47)",Str. Victor Papilian (Str. Plopilor) nr. 7,Galați,45.4523,28.0275
+152,18,GALAȚI,MUNICIPIUL GALAŢI,237,35,63,23,1,33,13,49,252,31,61,29,1,29,15,37,"Grădinița cu Program Prelungit nr. 47, Arondată Grădiniței cu Program Normal „Ion Creangă” (Grădinița nr. 47)",Str. Victor Papilian (Str. Plopilor) nr. 7,Galați,45.4523,28.0275
+153,18,GALAȚI,MUNICIPIUL GALAŢI,200,32,50,21,2,32,6,51,198,36,59,27,3,32,7,35,"Grădinița cu Program Prelungit nr. 47, Arondată Grădiniței cu Program Normal „Ion Creangă” (Grădinița nr. 47)",Str. Victor Papilian (Str. Plopilor) nr. 7,Galați,45.4523,28.0275
+154,18,GALAȚI,MUNICIPIUL GALAŢI,194,26,51,17,2,46,16,50,210,27,54,19,1,45,13,40,"Grădinița cu Program Prelungit nr. 47, Arondată Grădiniței cu Program Normal „Ion Creangă” (Grădinița nr. 47)",Str. Victor Papilian (Str. Plopilor) nr. 7,Galați,45.4523,28.0275
+155,18,GALAȚI,MUNICIPIUL GALAŢI,203,27,45,19,1,19,10,44,205,28,48,21,1,20,10,32,Colegiul Tehnic „Aurel Vlaicu” (Grup Școlar Metalurgic - Liceul Industrial nr. 3),Str. 1 Decembrie 1918 nr. 25,Galați,45.4482,28.0242
+156,18,GALAȚI,MUNICIPIUL GALAŢI,226,34,60,13,3,42,13,65,226,39,59,13,4,51,13,52,Colegiul Tehnic „Aurel Vlaicu” (Grup Școlar Metalurgic - Liceul Industrial nr. 3),Str. 1 Decembrie 1918 nr. 25,Galați,45.4482,28.0242
+157,18,GALAȚI,MUNICIPIUL GALAŢI,299,61,87,34,0,49,22,66,307,64,88,44,0,49,18,44,Colegiul Tehnic „Aurel Vlaicu” (Grup Școlar Metalurgic - Liceul Industrial nr. 3),Str. 1 Decembrie 1918 nr. 25,Galați,45.4482,28.0242
+158,18,GALAȚI,MUNICIPIUL GALAŢI,210,40,49,19,0,38,20,59,216,33,56,25,0,40,20,48,Colegiul Tehnic „Aurel Vlaicu” (Grup Școlar Metalurgic - Liceul Industrial nr. 3),Str. 1 Decembrie 1918 nr. 25,Galați,45.4482,28.0242
+159,18,GALAȚI,MUNICIPIUL GALAŢI,188,14,45,21,0,37,16,61,194,15,45,24,0,31,18,56,Liceul Teoretic „Mircea Eliade” (Grup Școlar Industrial „Gheorghe Asachi” - Liceul Industrial nr. 8),Bulevardul Milcov nr. 13,Galați,45.4493,28.0282
+160,18,GALAȚI,MUNICIPIUL GALAŢI,206,54,51,26,0,28,14,74,207,57,62,34,1,33,12,48,Liceul Teoretic „Mircea Eliade” (Grup Școlar Industrial „Gheorghe Asachi” - Liceul Industrial nr. 8),Bulevardul Milcov nr. 13,Galați,45.4493,28.0282
+161,18,GALAȚI,MUNICIPIUL GALAŢI,177,31,60,22,2,40,10,62,183,32,63,18,1,35,15,59,Liceul Teoretic „Mircea Eliade” (Grup Școlar Industrial „Gheorghe Asachi” - Liceul Industrial nr. 8),Bulevardul Milcov nr. 13,Galați,45.4493,28.0282
+162,18,GALAȚI,MUNICIPIUL GALAŢI,233,73,60,43,1,32,8,59,241,74,64,42,2,32,10,46,Liceul Tehnologic Căi Ferate (Grup Școlar Industrial Transporturi C.F. - Liceul C.F.R.),Bulevardul George Coșbuc nr. 225,Galați,45.448,28.0347
+163,18,GALAȚI,MUNICIPIUL GALAŢI,271,86,84,42,1,32,22,72,269,81,85,43,1,38,24,71,Liceul Tehnologic Căi Ferate (Grup Școlar Industrial Transporturi C.F. - Liceul C.F.R.),Bulevardul George Coșbuc nr. 225,Galați,45.448,28.0347
+164,18,GALAȚI,MUNICIPIUL GALAŢI,242,71,60,29,0,25,28,98,235,76,74,31,0,28,27,76,Liceul Tehnologic Căi Ferate (Grup Școlar Industrial Transporturi C.F. - Liceul C.F.R.),Bulevardul George Coșbuc nr. 225,Galați,45.448,28.0347
+165,18,GALAȚI,MUNICIPIUL GALAŢI,277,98,79,30,1,23,26,98,272,88,82,40,1,32,31,89,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+166,18,GALAȚI,MUNICIPIUL GALAŢI,269,68,68,19,2,32,22,67,269,60,72,30,3,36,16,54,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+167,18,GALAȚI,MUNICIPIUL GALAŢI,237,72,91,30,3,35,18,74,226,73,100,39,1,48,18,55,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+168,18,GALAȚI,MUNICIPIUL GALAŢI,257,93,90,32,1,47,20,78,251,88,101,45,1,48,24,59,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+169,18,GALAȚI,MUNICIPIUL GALAŢI,276,61,103,43,2,34,21,66,270,58,109,42,1,48,22,54,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+170,18,GALAȚI,MUNICIPIUL GALAŢI,288,77,92,37,0,37,23,76,280,69,100,44,2,46,26,65,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+171,18,GALAȚI,MUNICIPIUL GALAŢI,272,77,75,27,1,24,14,70,273,80,78,32,1,29,8,52,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+172,18,GALAȚI,MUNICIPIUL GALAŢI,241,80,111,37,1,35,16,77,248,77,118,36,1,35,18,67,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+173,18,GALAȚI,MUNICIPIUL GALAŢI,277,102,94,36,0,31,28,93,282,91,105,47,1,35,26,74,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+174,18,GALAȚI,MUNICIPIUL GALAŢI,227,75,61,31,0,32,22,71,226,74,59,38,0,43,20,56,Școala Gimnazială „Miron Costin” (Școala Generală „Miron Costin” - Școala Generală nr. 12),Str. Alba Iulia nr. 2,Galați,45.4421,28.0261
+175,18,GALAȚI,MUNICIPIUL GALAŢI,204,113,86,34,1,35,27,96,217,117,94,49,0,31,17,62,"Grădinița cu Program Normal nr. 20, Arondată Școlii Gimnaziale „Miron Costin” (Grădinița nr. 20 - Anexa Școlii nr. 12)",Str. Tecuci (Str. 1 Mai) nr. 166,Galați,45.4398,28.0332
+176,18,GALAȚI,MUNICIPIUL GALAŢI,243,50,71,39,2,28,13,85,249,46,80,40,1,40,13,58,"Grădinița cu Program Normal nr. 20, Arondată Școlii Gimnaziale „Miron Costin” (Grădinița nr. 20 - Anexa Școlii nr. 12)",Str. Tecuci (Str. 1 Mai) nr. 166,Galați,45.4398,28.0332
+317,18,GALAȚI,GOHOR,155,4,33,2,0,14,4,15,154,3,36,3,0,13,8,18,Școala Gimnazială - Sat Gara Berheci,,Gara Berheci,45.9738,27.4344
+310,18,GALAȚI,GHIDIGENI,103,0,345,1,3,3,0,16,100,1,345,2,3,4,2,11,Școala Gefu,Nr. 21,Gefu,46.0634,27.4988
+309,18,GALAȚI,GHIDIGENI,228,8,396,8,1,21,8,34,227,11,405,12,1,20,8,26,Grădinița Ghidigeni,Nr. 140,Ghidigeni,46.0461,27.4857
+294,18,GALAȚI,DRĂGUŞENI,86,1,7,0,0,2,1,7,83,1,8,0,0,2,3,6,Școala Ghinghești,,Ghinghești,46.0125,27.7671
+314,18,GALAȚI,GOHOR,381,4,51,11,0,78,1,24,401,8,55,7,0,70,3,16,Școala Gimnazială nr. 1 Gohor,,Gohor,46.0653,27.4131
+318,18,GALAȚI,GRIVIŢA,258,10,69,10,1,33,13,45,272,9,70,10,1,32,11,31,Școala Noua Grivita,,Grivița,45.7127,27.6479
+319,18,GALAȚI,GRIVIŢA,173,11,52,9,0,10,3,26,181,11,51,8,0,15,4,19,Școala Veche Grivița,,Grivița,45.7158,27.647
+311,18,GALAȚI,GHIDIGENI,17,0,53,0,1,2,0,6,16,1,55,0,1,2,0,4,Școala Gârbovăț,Nr. 38,Gârbovăț,46.0214,27.5177
+255,18,GALAȚI,CAVADINEŞTI,206,5,60,1,1,12,8,23,213,7,56,1,1,13,9,15,Școala Gimnazială Gănești,,Gănești,46.0901,27.9927
+307,18,GALAȚI,FUNDENI,201,0,96,66,0,12,9,33,219,8,97,57,0,12,6,19,Școala Generală Hanu Conachi,,Hanu Conachi,45.59,27.5901
+308,18,GALAȚI,FUNDENI,138,6,56,39,0,25,12,23,144,5,57,37,0,22,12,21,Școala Generală Hanu Conachi,,Hanu Conachi,45.59,27.5901
+250,18,GALAȚI,BUCIUMENI,148,3,12,4,0,9,4,14,152,4,12,2,1,9,5,13,Școala Smaranda Braescu,,Hănțești,45.967,27.317
+303,18,GALAȚI,FRUMUŞIŢA,162,1,19,3,1,30,2,17,173,3,22,5,1,26,3,9,Școala Generală Ijdileni,,Ijdileni,45.6359,28.0541
+321,18,GALAȚI,INDEPENDENŢA,257,22,51,22,1,70,8,37,260,21,56,17,1,73,8,25,Școala Gimnazială nr. 1,,Independența,45.4721,27.7618
+322,18,GALAȚI,INDEPENDENŢA,279,23,111,32,0,67,16,48,267,26,117,34,1,71,20,46,Școala Gimnazială nr. 2,,Independența,45.4814,27.7544
+323,18,GALAȚI,INDEPENDENŢA,123,11,40,15,0,39,9,36,128,10,47,12,2,42,10,24,Cladirea Grădinița nr. 1,,Independența,45.4728,27.7633
+365,18,GALAȚI,NICOREŞTI,73,1,83,6,1,1,5,31,71,2,86,9,1,3,6,21,Școala Ionășești,,Ionășești,45.9114,27.283
+315,18,GALAȚI,GOHOR,62,2,17,1,0,13,3,9,65,0,20,1,0,10,4,9,Școala cu Clasele I-IV Ireasca,,Ireasca,46.0395,27.4302
+324,18,GALAȚI,IVEŞTI,196,6,38,6,1,3,5,24,194,9,39,7,1,4,4,19,Școala nr. 2 Ivești,,Ivești,45.6955,27.5091
+325,18,GALAȚI,IVEŞTI,464,7,62,16,2,5,2,28,467,9,67,19,2,4,2,15,Școala Gimnazială „Victor Ion Popa” Ivești (Școala Gimnazială nr. 3 Ivești),,Ivești,45.6874,27.5243
+326,18,GALAȚI,IVEŞTI,225,8,43,19,2,12,18,42,241,10,47,17,1,15,11,24,Liceul Tehnologic „Hortensia Papadat - Bengescu”,,Ivești,45.6726,27.5231
+327,18,GALAȚI,IVEŞTI,325,15,37,6,1,11,3,60,369,14,47,4,1,15,1,11,Liceul Tehnologic „Hortensia Papadat - Bengescu”,,Ivești,45.6726,27.5231
+394,18,GALAȚI,SLOBOZIA CONACHI,249,5,25,5,1,10,5,20,239,6,34,7,1,12,7,16,Școala Gimnazială Izvoarele,,Izvoarele,45.5432,27.7662
+330,18,GALAȚI,JORĂŞTI,171,0,195,3,2,5,10,28,173,0,195,5,2,8,9,25,Căminul Cultural Jorăști,,Jorăști,45.9941,27.8695
+333,18,GALAȚI,LIEŞTI,262,24,173,20,0,18,7,41,274,25,166,25,0,17,3,27,Școala Gimnazială nr. 1,Str. Anghel Saligny nr. 63,Liești,45.6351,27.5329
+334,18,GALAȚI,LIEŞTI,228,26,175,27,1,15,11,52,249,24,162,24,1,19,11,41,Școala Gimnazială nr. 2,Str. Gării nr. 2,Liești,45.6327,27.5342
+335,18,GALAȚI,LIEŞTI,219,22,164,21,0,18,8,39,232,23,159,19,1,16,8,31,Școala Gimnazială nr. 2,Str. Gării nr. 2,Liești,45.6327,27.5342
+336,18,GALAȚI,LIEŞTI,235,21,208,28,0,17,4,30,244,19,198,38,0,17,4,24,Școala Gimnazială nr. 3,Str. Anghel Saligny nr. 285,Liești,45.6181,27.5427
+337,18,GALAȚI,LIEŞTI,135,8,266,24,0,4,3,28,142,13,260,24,2,2,4,22,Grădinița nr. 3,Str. Ștefan cel Mare nr. 92,Liești,45.6172,27.5378
+338,18,GALAȚI,LIEŞTI,222,11,236,44,2,5,14,47,243,14,219,52,2,8,14,32,Școala Gimnazială „Sfântul Nicolae”,Str. Anghel Saligny nr. 330,Liești,45.6131,27.5474
+382,18,GALAȚI,PRIPONEŞTI,44,0,9,0,1,4,4,7,43,0,10,1,0,3,3,9,Școala Primară,,Liești,46.1052,27.4324
+331,18,GALAȚI,JORĂŞTI,32,0,48,0,0,3,0,5,34,0,47,0,0,3,0,6,Sală Întruniri Lunca,,Lunca,45.9458,27.8883
+225,18,GALAȚI,BĂLĂBĂNEŞTI,142,8,23,1,1,7,5,14,144,11,21,1,1,8,5,12,Școala Generală Lungești,Nr. 4,Lungești,46.1115,27.7516
+306,18,GALAȚI,FUNDENI,163,2,23,6,0,11,3,13,165,2,23,7,0,12,5,12,Școala Elementara Lungoci,,Lungoci,45.5668,27.5168
+287,18,GALAȚI,DRĂGĂNEŞTI,220,16,363,9,2,14,6,44,227,22,365,8,1,13,6,34,Școala din Malul Alb,,Malu Alb,45.8019,27.4652
+339,18,GALAȚI,MATCA,234,19,153,20,2,15,3,39,241,23,162,23,4,12,5,22,Școala nr. 2 Matca,,Matca,45.8503,27.5423
+340,18,GALAȚI,MATCA,266,24,187,26,3,16,9,57,276,22,186,31,2,20,7,35,Școala nr. 1 Suseni,,Matca,45.8642,27.55
+341,18,GALAȚI,MATCA,208,19,143,34,1,15,7,39,218,23,152,39,1,14,8,16,Școala nr. 1 Matca,,Matca,45.8579,27.543
+342,18,GALAȚI,MATCA,193,20,141,24,3,19,7,48,200,22,152,25,2,20,7,30,Școala nr. 1 Matca,,Matca,45.8579,27.543
+343,18,GALAȚI,MATCA,267,14,168,20,1,11,7,41,276,13,169,21,1,12,9,35,Școala nr. 1 Matca,,Matca,45.8579,27.543
+344,18,GALAȚI,MATCA,300,18,142,38,2,18,5,56,318,17,152,40,2,21,6,25,Școala nr. 3 Matca,,Matca,45.8447,27.5162
+397,18,GALAȚI,SMÎRDAN,150,24,31,11,1,30,7,27,150,21,38,9,1,31,8,24,Școala Gimnazială „Mihail și Gavril” M.Kogălniceanu,,Mihail Kogălniceanu,45.5033,27.9296
+216,18,GALAȚI,ORAŞ TÎRGU BUJOR,365,1,41,5,0,22,4,22,365,3,40,7,0,24,4,19,Școala Generală Moscu,,Moscu,45.9018,27.9336
+349,18,GALAȚI,MOVILENI,225,8,34,6,1,21,13,58,239,9,41,9,1,26,8,30,Camin Cultural,,Movileni,45.772,27.3601
+350,18,GALAȚI,MOVILENI,145,4,71,8,1,13,7,27,155,7,69,8,1,13,11,21,Școala nr. 2 Movileni,,Movileni,45.7631,27.38
+405,18,GALAȚI,ŞENDRENI,102,5,52,12,0,16,2,17,100,6,56,14,0,19,3,9,Grădinița Movileni,,Movileni,45.4065,27.9606
+351,18,GALAȚI,MUNTENI,458,3,62,14,0,13,11,37,470,4,62,13,1,10,7,27,Școala Gimnazială nr. 2,,Munteni,45.9307,27.4403
+352,18,GALAȚI,MUNTENI,485,2,156,8,0,2,9,40,503,2,159,9,1,1,12,28,Școala Generală nr. 1 Sat Munteni,,Munteni,45.9245,27.4434
+428,18,GALAȚI,VALEA MĂRULUI,241,6,26,8,0,13,12,28,241,8,28,7,0,14,8,26,Școala Mîndresti,,Mândrești,45.8831,27.7008
+262,18,GALAȚI,CORNI,101,0,171,3,0,11,3,17,98,1,174,1,0,10,3,15,Școala Generală Măcișeni,,Măcișeni,45.8587,27.7499
+364,18,GALAȚI,NICOREŞTI,38,1,40,0,0,1,1,3,35,1,39,0,0,1,2,3,Școala Mălureni,,Mălureni,45.9315,27.2735
+345,18,GALAȚI,MĂSTĂCANI,219,8,26,2,1,6,13,25,221,6,28,3,1,9,15,22,Școala Gimnazială nr. 1 Ghe. Poalelungi Mastacani,,Măstăcani,45.768,28.0455
+346,18,GALAȚI,MĂSTĂCANI,131,4,37,9,1,10,16,36,136,5,36,8,1,7,19,34,Școala Gimnazială nr. 3 Măstăcani,,Măstăcani,45.7648,28.07
+389,18,GALAȚI,SCHELA,90,6,143,2,1,9,3,17,104,8,130,4,1,7,3,14,Școala Generală Negrea,,Negrea,45.5359,27.8679
+358,18,GALAȚI,NEGRILEŞTI,389,9,86,7,2,27,16,71,398,11,98,7,2,30,17,45,Căminul Cultural din Satul Negrilești,,Negrilești,45.959,27.479
+290,18,GALAȚI,DRĂGUŞENI,88,0,13,1,0,1,2,10,86,0,16,1,0,1,2,5,Școala Nicopole,,Nicopole,45.9658,27.7123
+360,18,GALAȚI,NICOREŞTI,172,9,136,10,1,24,5,25,162,8,144,12,1,25,6,24,Școala Nicorești,,Nicorești,45.9274,27.3107
+356,18,GALAȚI,NĂMOLOASA,341,8,29,2,1,30,4,22,347,9,31,5,1,25,4,22,Școala Generală Namoloasa,,Nămoloasa,45.5353,27.5515
+357,18,GALAȚI,NĂMOLOASA,408,11,23,15,0,8,6,27,419,12,22,16,0,9,8,22,Școala Generală Namoloasa Sat,,Nămoloasa Sat,45.539,27.5777
+316,18,GALAȚI,GOHOR,133,4,78,9,3,25,4,20,131,3,79,7,3,26,8,21,Școala cu Clasele I-IV Nărtești,,Nărtești,46.0107,27.4075
+367,18,GALAȚI,OANCEA,173,7,371,5,0,24,4,40,171,10,370,9,1,34,5,21,Școala Gimnazială Oancea,,Oancea,45.9193,28.1132
+431,18,GALAȚI,VÎNĂTORI,365,20,66,18,2,19,10,47,366,20,73,21,4,15,12,40,Școala Maria Grecu,Nr. 2,Odaia Manolache,45.5504,27.988
+368,18,GALAȚI,PECHEA,259,13,105,12,3,30,8,42,266,17,98,14,1,36,7,32,Școala nr. 1 Pechea,Nr. 152,Pechea,45.6193,27.8045
+369,18,GALAȚI,PECHEA,348,14,68,6,0,21,3,21,344,16,68,15,0,20,2,10,Școala nr. 2 Pechea,Nr. 179,Pechea,45.6216,27.7982
+370,18,GALAȚI,PECHEA,304,6,80,5,1,16,1,30,312,5,75,9,0,21,6,18,Școala nr. 3 Pechea,Str. Cooperatorilor nr. 11,Pechea,45.6189,27.7898
+371,18,GALAȚI,PECHEA,272,12,78,14,0,22,11,33,276,16,79,15,0,22,9,23,Grădinița nr. 2 Pechea,Nr. 240,Pechea,45.6242,27.797
+372,18,GALAȚI,PECHEA,375,11,92,14,2,13,11,41,386,16,89,16,1,15,11,32,Căminul Cultural Pechea,Nr. 252,Pechea,45.6262,27.7957
+373,18,GALAȚI,PECHEA,380,7,88,9,1,20,5,49,406,8,89,11,3,23,6,17,Școala nr. 4 Pechea,Str. Suhurlui nr. 83,Pechea,45.6364,27.8
+374,18,GALAȚI,PISCU,300,14,51,12,4,16,5,25,301,12,54,12,3,12,6,23,Căminul Cultural „Panait Ion Poet” Piscu,,Piscu,45.4991,27.7293
+375,18,GALAȚI,PISCU,251,14,33,20,9,16,5,19,251,17,35,17,9,15,5,16,"Școala Gimnazială „Dimitrie Luchian” Corp B, Piscu",,Piscu,45.4988,27.7284
+376,18,GALAȚI,PISCU,300,13,105,64,16,32,16,35,312,10,110,60,15,28,18,34,Școala Gimnazială „Ștefan Cel Mare” Piscu,,Piscu,45.508,27.7216
+363,18,GALAȚI,NICOREŞTI,34,2,37,0,0,2,3,9,36,2,38,1,0,2,0,5,Școala Piscu Corbului,,Piscu Corbului,45.9594,27.2596
+386,18,GALAȚI,REDIU,127,2,26,6,0,4,9,15,126,0,25,8,0,7,9,14,Școala nr. 1 Plevna,Nr. 145,Plevna,45.7304,27.851
+238,18,GALAȚI,BEREŞTI-MERIA,140,2,54,10,0,5,15,29,135,3,54,11,0,6,18,33,Grădinița cu Program Normal nr. 1 Sat Pleșa,Nr.    233A,Pleșa,46.1431,27.8639
+222,18,GALAȚI,BARCEA,280,1,138,4,2,3,3,49,292,1,157,5,2,2,2,17,Școala nr. 4 Podoleni,Str. George Coșbuc nr. 203,Podoleni,45.7494,27.4495
+378,18,GALAȚI,POIANA,383,6,50,26,3,26,8,42,391,8,53,29,2,26,8,30,"Școala Gimnazială nr. 1 Comuna Poiana, Judetul Galati",,Poiana,45.9908,27.2579
+380,18,GALAȚI,PRIPONEŞTI,89,8,44,5,0,12,5,19,95,7,46,10,0,13,3,11,Școala Gimnazială,,Priponești,46.08,27.4417
+229,18,GALAȚI,BĂLĂŞEŞTI,67,1,5,1,0,13,0,3,69,1,6,1,0,11,0,2,Școala Generală Pupezeni,,Pupezeni,46.0762,27.6823
+236,18,GALAȚI,BEREŞTI-MERIA,87,3,17,6,1,0,3,14,87,3,18,6,2,0,3,11,Cămin Cultural,Nr. 99 C,Puricani,46.1175,27.9408
+385,18,GALAȚI,REDIU,309,6,72,32,1,42,15,41,316,9,70,34,0,44,15,33,Școala Gimnazială nr. 1 Rediu,Nr. 290,Rediu,45.7129,27.8406
+401,18,GALAȚI,SUCEVENI,191,8,18,8,0,9,6,14,191,8,18,8,0,5,6,18,Școala Gimnazială Rogojeni,,Rogojeni,45.9784,28.0923
+232,18,GALAȚI,BĂNEASA,179,1,10,4,0,27,2,11,181,2,7,4,0,27,2,10,Școala Primară „Ion Voda Cel Viteaz” Roșcani,,Roșcani,45.9101,28.0209
+383,18,GALAȚI,RĂDEŞTI,373,5,43,1,0,26,2,20,367,6,46,1,0,30,6,19,Căminul Cultural Rădești,Nr. 47,Rădești,46.0719,27.7893
+423,18,GALAȚI,UMBRĂREŞTI,104,2,30,12,1,7,3,21,108,5,31,13,1,7,4,12,Școala Gimnazială Salcia,,Salcia,45.6999,27.4376
+387,18,GALAȚI,SCHELA,206,12,238,12,1,19,7,30,205,13,243,14,1,24,5,23,Grădinița de Copii Schela,,Schela,45.5014,27.8292
+388,18,GALAȚI,SCHELA,205,17,194,9,1,25,5,28,195,19,193,10,1,27,6,19,Grădinița de Copii Schela,,Schela,45.5014,27.8292
+390,18,GALAȚI,SCÎNTEIEŞTI,197,9,52,13,1,18,11,33,192,10,53,14,2,24,12,29,Caminul Cultural,,Scânteiești,45.6754,28.0019
+424,18,GALAȚI,UMBRĂREŞTI,81,4,16,3,1,2,4,11,80,5,15,3,1,2,5,11,Școala Gimnazială Siliștea,,Siliștea,45.7282,27.4351
+235,18,GALAȚI,BEREŞTI-MERIA,136,3,24,14,0,8,7,18,135,3,24,18,0,8,8,19,Școala Gimnazială nr. 1 Sat Slivna,Nr.     119A,Slivna,46.0859,27.9388
+359,18,GALAȚI,NEGRILEŞTI,244,11,49,15,0,13,7,32,259,14,53,14,0,13,8,17,Școala Generală Slobozia Blăneasa,,Slobozia Blăneasa,45.9386,27.478
+392,18,GALAȚI,SLOBOZIA CONACHI,290,12,89,50,2,37,5,21,290,14,91,51,1,40,6,15,Școala Gimnazială Slobozia-Conachi,,Slobozia Conachi,45.5842,27.7692
+393,18,GALAȚI,SLOBOZIA CONACHI,262,9,70,14,1,42,12,39,264,10,75,16,2,40,11,30,Centrul de Formare Profesionala,,Slobozia Conachi,45.5879,27.7758
+313,18,GALAȚI,GHIDIGENI,100,5,139,4,1,7,3,21,105,6,144,4,2,6,2,11,Școala Slobozia,Nr. 39,Slobozia Corni,45.9949,27.4797
+399,18,GALAȚI,SMULŢI,373,6,49,7,0,35,6,34,375,6,56,8,0,41,7,23,Grădinița Smulti,,Smulți,45.9326,27.7544
+395,18,GALAȚI,SMÎRDAN,202,22,76,5,0,50,20,56,212,20,75,9,1,50,20,47,Școala Generală „Sfânta Cuvioasă Parascheva” Smîrdan,,Smârdan,45.4748,27.9431
+396,18,GALAȚI,SMÎRDAN,169,21,54,11,1,28,15,32,165,23,54,11,1,25,18,36,Școala Generală „Sfânta Cuvioasă Parascheva” Smârdan,,Smârdan,45.4748,27.9431
+300,18,GALAȚI,FOLTEŞTI,260,2,15,6,0,34,3,14,275,3,13,4,0,32,4,10,Școala Gimnazială nr. 1 Stoicani,,Stoicani,45.7055,28.0738
+400,18,GALAȚI,SUCEVENI,437,10,47,10,2,29,10,28,443,10,45,10,2,27,8,32,Căminul Cultural Suceveni,,Suceveni,46.0125,28.02
+402,18,GALAȚI,SUHURLUI,190,4,174,12,4,29,7,38,202,8,174,13,4,26,11,29,Școala Gimnazială nr. 1 Suhurlui,,Suhurlui,45.7233,27.8273
+252,18,GALAȚI,BUCIUMENI,98,3,8,2,1,32,2,14,100,4,6,3,1,31,3,13,Școala cu Clase I-IV,,Tecucelu Sec,45.9803,27.33
+177,18,GALAȚI,MUNICIPIUL TECUCI,267,25,38,15,2,16,9,36,268,30,40,16,2,14,12,29,Școala nr. 1,Str. Tecuciul Nou nr. 69,Tecuci,45.8692,27.4232
+178,18,GALAȚI,MUNICIPIUL TECUCI,278,9,38,7,1,20,8,48,275,10,39,10,1,22,7,38,Școala nr. 1,Str. Tecuciul Nou nr. 69,Tecuci,45.8692,27.4232
+179,18,GALAȚI,MUNICIPIUL TECUCI,275,33,66,21,0,22,11,61,284,37,70,25,0,25,8,33,Școala nr. 1,Str. Tecuciul Nou nr. 69,Tecuci,45.8692,27.4232
+180,18,GALAȚI,MUNICIPIUL TECUCI,259,22,41,20,1,10,8,42,252,24,46,23,2,23,5,23,Școala nr. 10,Str. 1 Decembrie 1918 (Str. 23 August) nr. 26,Tecuci,45.8514,27.4263
+181,18,GALAȚI,MUNICIPIUL TECUCI,154,32,30,11,3,25,9,51,159,35,37,12,2,29,8,26,Școala nr. 10,Str. 1 Decembrie 1918 (Str. 23 August) nr. 26,Tecuci,45.8514,27.4263
+182,18,GALAȚI,MUNICIPIUL TECUCI,191,20,29,8,1,12,8,45,204,21,27,11,1,16,9,35,Școala nr. 2,Str. Alexandru Papadopol Calimah (Str. Măgurei) nr. 13,Tecuci,45.8507,27.4314
+183,18,GALAȚI,MUNICIPIUL TECUCI,282,27,60,8,0,14,10,61,286,26,68,7,0,23,13,39,Școala nr. 2,Str. Alexandru Papadopol Calimah (Str. Măgurei) nr. 13,Tecuci,45.8507,27.4314
+184,18,GALAȚI,MUNICIPIUL TECUCI,255,13,84,14,4,45,7,85,272,15,83,16,8,46,11,65,Birou Obor,Str. Cuza Vodă nr. 104A,Tecuci,45.8419,27.4479
+185,18,GALAȚI,MUNICIPIUL TECUCI,236,17,77,17,2,24,15,48,238,26,82,22,4,28,14,27,Școala nr. 4,Str. Unirii nr. 6,Tecuci,45.8464,27.4331
+186,18,GALAȚI,MUNICIPIUL TECUCI,189,25,26,19,1,17,9,44,204,28,27,23,1,16,8,23,Școala nr. 4,Str. Unirii nr. 6,Tecuci,45.8464,27.4331
+187,18,GALAȚI,MUNICIPIUL TECUCI,255,58,74,38,4,27,17,94,272,68,79,35,1,36,18,53,Liceul Spiru Haret,Nr. 12,Tecuci,45.842,27.4285
+188,18,GALAȚI,MUNICIPIUL TECUCI,129,22,38,16,1,14,10,41,144,19,42,17,2,13,11,22,Liceul Spiru Haret,Nr. 12,Tecuci,45.842,27.4285
+189,18,GALAȚI,MUNICIPIUL TECUCI,241,17,44,10,2,19,17,48,245,15,42,18,2,26,15,33,Colegiul Agricol,Str. 1 Decembrie 1918 (Str. 23 August) nr. 103,Tecuci,45.8383,27.4358
+190,18,GALAȚI,MUNICIPIUL TECUCI,299,49,64,32,2,31,10,67,312,49,69,33,4,36,12,41,Colegiul Agricol,Nr. 103,Tecuci,45.8383,27.4358
+191,18,GALAȚI,MUNICIPIUL TECUCI,177,28,55,12,1,12,17,66,191,34,55,15,2,18,13,35,Grădinița nr. 17,Str. Bradului nr. 5,Tecuci,45.8332,27.4351
+192,18,GALAȚI,MUNICIPIUL TECUCI,179,32,36,21,1,23,7,31,195,35,37,19,1,22,4,15,Grădinița nr. 17,Str. Bradului nr. 5,Tecuci,45.8332,27.4351
+193,18,GALAȚI,MUNICIPIUL TECUCI,157,36,37,17,1,11,18,52,157,41,41,16,1,22,10,33,Școala nr. 11,Str. 1 Decembrie 1918 (Str. 23 August) nr. 125,Tecuci,45.8294,27.4375
+194,18,GALAȚI,MUNICIPIUL TECUCI,201,32,60,21,1,36,11,68,226,29,70,23,1,37,10,28,Școala nr. 11,Str. 1 Decembrie 1918 (Str. 23 August) nr. 125,Tecuci,45.8294,27.4375
+195,18,GALAȚI,MUNICIPIUL TECUCI,176,50,62,20,1,20,19,63,189,52,67,24,1,22,14,33,Școala nr. 11,Nr. 125,Tecuci,45.8294,27.4375
+196,18,GALAȚI,MUNICIPIUL TECUCI,295,27,64,29,1,18,42,92,322,27,70,29,3,18,30,61,Școala nr. 8,Str. Matei Basarab nr. 2,Tecuci,45.8356,27.4278
+197,18,GALAȚI,MUNICIPIUL TECUCI,318,39,92,26,3,23,15,72,327,42,95,32,3,28,8,47,Școala nr. 6,Str. Elena Doamna (Str. V. I. Lenin) nr. 52,Tecuci,45.8438,27.4223
+198,18,GALAȚI,MUNICIPIUL TECUCI,210,30,76,21,6,25,14,61,216,31,77,26,6,29,9,40,Școala nr. 6,Str. Elena Doamna (Str. V. I. Lenin) nr. 52,Tecuci,45.8438,27.4223
+199,18,GALAȚI,MUNICIPIUL TECUCI,253,16,44,10,1,8,10,43,260,13,48,7,3,6,9,28,Școala nr. 7,Nr. 35,Tecuci,45.8357,27.4074
+200,18,GALAȚI,MUNICIPIUL TECUCI,197,19,45,11,1,14,6,45,200,20,42,15,1,21,4,29,Școala nr. 7,Nr. 35,Tecuci,45.8357,27.4074
+201,18,GALAȚI,MUNICIPIUL TECUCI,159,20,65,15,1,14,10,38,163,24,70,15,1,15,10,28,Grădinița din Cartierul N Balcescu,Nr. 9,Tecuci,45.8378,27.4117
+202,18,GALAȚI,MUNICIPIUL TECUCI,291,25,46,14,2,20,9,48,291,25,53,18,2,26,9,26,Grădinița 18,Str. Gheorghe Petrașcu (Str. 7 Noiembrie) nr. 58,Tecuci,45.8478,27.4165
+203,18,GALAȚI,MUNICIPIUL TECUCI,212,42,50,24,0,21,25,74,229,43,53,31,4,28,15,37,Grădinița nr. 2,Str. Gheorghe Petrașcu (Str. 7 Noiembrie) nr. 42,Tecuci,45.8487,27.4211
+204,18,GALAȚI,MUNICIPIUL TECUCI,271,38,63,22,3,37,21,76,280,42,65,26,4,45,20,47,Grădinița nr. 2,Str. Gheorghe Petrașcu (Str. 7 Noiembrie) nr. 42,Tecuci,45.8487,27.4211
+205,18,GALAȚI,MUNICIPIUL TECUCI,153,17,50,9,1,16,11,30,149,20,53,15,1,21,10,22,Liceul Calistrat Hogaș,Str. Costache Racoviță (Str. Dobrogeanu Gherea) nr. 24,Tecuci,45.8465,27.4274
+206,18,GALAȚI,MUNICIPIUL TECUCI,207,28,39,18,1,16,11,51,216,28,46,20,2,20,10,26,Liceul Calistrat Hogaș,Str. Costache Racoviță (Str. Dobrogeanu Gherea) nr. 24,Tecuci,45.8465,27.4274
+207,18,GALAȚI,MUNICIPIUL TECUCI,199,11,35,17,1,9,6,27,198,12,37,19,2,11,5,20,Grădinița nr. 1,Str. 1 Decembrie 1918 (Str. 23 August) nr. 27B,Tecuci,45.8511,27.4287
+208,18,GALAȚI,MUNICIPIUL TECUCI,178,17,25,20,2,11,14,38,186,14,28,21,3,13,14,28,Caminul nr. 15,Aleea Vasile Alecsandri,Tecuci,45.8473,27.4262
+209,18,GALAȚI,MUNICIPIUL TECUCI,214,9,79,8,2,11,14,44,235,12,80,8,0,14,11,20,Școala nr. 9,Str. Cocorăști nr. 1,Tecuci,45.8315,27.464
+246,18,GALAȚI,BRĂHĂŞEŞTI,240,1,3,0,0,10,1,47,289,3,6,0,0,9,2,7,Școala Gimnazială Toflea,,Toflea,46.0641,27.336
+247,18,GALAȚI,BRĂHĂŞEŞTI,177,0,2,0,1,3,2,30,209,0,4,0,2,6,1,5,Școala Gimnazială Toflea,,Toflea,46.0641,27.336
+248,18,GALAȚI,BRĂHĂŞEŞTI,238,0,3,1,3,2,1,69,316,0,4,0,2,4,1,4,Școala Gimnazială Toflea,,Toflea,46.0641,27.336
+421,18,GALAȚI,UMBRĂREŞTI,193,4,36,0,2,6,1,7,197,5,32,0,1,7,1,6,Școala Gimnazială Torcești,,Torcești,45.6948,27.4888
+243,18,GALAȚI,BRANIŞTEA,68,11,44,6,0,9,5,18,69,13,45,7,0,8,3,13,Școala Generală Traian,,Traian,45.4264,27.865
+407,18,GALAȚI,TUDOR VLADIMIRESCU,146,8,37,12,0,8,9,26,145,9,36,15,0,7,9,26,Școala Generală de 8 Ani T.Vladimirescu (Moara),,Tudor Vladimirescu,45.5587,27.658
+408,18,GALAȚI,TUDOR VLADIMIRESCU,305,22,84,30,4,16,16,37,322,18,79,30,6,12,16,31,Grădinița Tudor Vladimirescu,,Tudor Vladimirescu,45.5672,27.6492
+409,18,GALAȚI,TUDOR VLADIMIRESCU,247,9,37,14,0,10,5,38,249,9,40,15,0,11,5,28,Școala Generală de 4 Ani - Prival,,Tudor Vladimirescu,45.5645,27.6448
+410,18,GALAȚI,TUDOR VLADIMIRESCU,286,18,58,12,1,15,6,43,285,16,59,11,1,18,13,41,Liceul Tehnologic „Tudor Vladimirescu”,,Tudor Vladimirescu,45.5655,27.6373
+411,18,GALAȚI,TULUCEŞTI,346,33,71,12,3,24,13,37,351,29,78,10,2,30,9,27,Grădinița Tulucesti,,Tulucești,45.5687,28.0474
+412,18,GALAȚI,TULUCEŞTI,388,34,63,15,3,32,13,53,396,32,67,15,3,35,17,42,Școala Tulucesti,,Tulucești,45.5689,28.0466
+212,18,GALAȚI,ORAŞ TÎRGU BUJOR,236,1,33,6,0,23,1,17,248,2,31,5,0,22,1,10,Gradinița nr. 2 Căsuța Piticilor,,Târgu Bujor,45.8705,27.9186
+213,18,GALAȚI,ORAŞ TÎRGU BUJOR,223,6,13,3,0,14,6,22,242,5,14,2,0,11,6,10,Gradinița nr. 2 Căsuța Piticilor,,Târgu Bujor,45.8705,27.9186
+214,18,GALAȚI,ORAŞ TÎRGU BUJOR,334,25,44,19,1,17,8,35,345,25,50,19,1,19,5,21,Școala Gimnazială „Grigore Hagiu”,,Târgu Bujor,45.8672,27.914
+215,18,GALAȚI,ORAŞ TÎRGU BUJOR,260,29,59,23,0,34,7,42,267,20,69,22,0,35,5,27,Liceul Tehnologic „Eremia Grigorescu”,,Târgu Bujor,45.8727,27.9126
+312,18,GALAȚI,GHIDIGENI,187,4,440,3,2,25,7,51,192,5,479,5,4,26,3,18,Școala Tălpigi,Nr. 38,Tălpigi,46.0073,27.4694
+304,18,GALAȚI,FRUMUŞIŢA,213,9,51,7,2,21,3,46,237,10,53,12,3,18,7,25,Școala Generală Tămăoani,,Tămăoani,45.6808,28.0732
+413,18,GALAȚI,TULUCEŞTI,145,7,32,9,1,19,4,21,139,9,33,10,2,27,5,19,Școala Tatarca,,Tătarca,45.5976,28.0495
+217,18,GALAȚI,ORAŞ TÎRGU BUJOR,249,14,20,3,0,13,1,11,252,13,22,3,0,13,1,10,Școala Generală Umbrărești,,Umbrărești,45.841,27.918
+418,18,GALAȚI,UMBRĂREŞTI,294,9,69,12,1,31,6,38,313,9,71,14,1,32,7,27,Școala Gimnazială nr. 1 Umbrărești,,Umbrărești,45.7131,27.4682
+419,18,GALAȚI,UMBRĂREŞTI,231,11,59,13,0,11,13,35,237,11,65,15,0,14,10,23,Școala Gimnazială „Sfântul Stelian” Umbrărești - Deal,,Umbrărești-Deal,45.714,27.4962
+420,18,GALAȚI,UMBRĂREŞTI,138,14,28,5,3,11,12,25,143,14,30,5,1,10,11,16,Școala Gimnazială „Sfântul Stelian” Umbrărești - Deal,,Umbrărești-Deal,45.714,27.4962
+355,18,GALAȚI,MUNTENI,311,9,84,5,0,14,12,46,329,7,96,8,0,15,9,24,Școala Generală Ungureni,,Ungureni,45.912,27.4709
+263,18,GALAȚI,CORNI,118,1,49,2,0,2,3,20,109,0,53,3,0,1,3,18,Școala Generală Urlești,,Urlești,45.8937,27.7915
+425,18,GALAȚI,VALEA MĂRULUI,162,8,50,10,1,14,52,74,175,13,55,9,1,11,43,56,Școala Gimnazială nr. 1,Str. Preot Gheorghe Gafton,Valea Mărului,45.838,27.6903
+426,18,GALAȚI,VALEA MĂRULUI,174,8,13,10,0,23,14,26,189,6,12,10,1,26,16,23,Școala Gimnazială nr. 1,Str. Preot Gheorghe Gafton nr. 9,Valea Mărului,45.838,27.6903
+427,18,GALAȚI,VALEA MĂRULUI,86,0,27,1,2,6,1,7,85,0,30,2,2,7,2,5,Școala Coasta Văii,Nr. 8,Valea Mărului,45.8268,27.6839
+377,18,GALAȚI,PISCU,120,0,14,9,10,14,2,12,114,0,17,9,10,15,5,13,Școala Primară Vameș,,Vameș,45.5314,27.7075
+242,18,GALAȚI,BRANIŞTEA,154,10,48,5,1,20,17,37,156,10,47,5,0,18,16,39,Școala Generală Vasile Alecsandri,,Vasile Alecsandri,45.4544,27.7954
+297,18,GALAȚI,FÎRŢĂNEŞTI,446,6,31,0,0,27,7,36,456,4,33,4,0,24,7,24,Căminul Cultural Viile,,Viile,45.8091,27.9438
+251,18,GALAȚI,BUCIUMENI,82,2,16,3,0,7,4,8,81,2,16,3,0,8,4,8,Școala cu Clase I-IV,,Vizurești,45.967,27.3282
+379,18,GALAȚI,POIANA,148,9,33,5,0,16,0,11,143,6,36,4,0,19,1,12,"Școala Primară nr. 1 Sat Visina, Comuna Poiana, Judetul Galati",,Vișina,45.9978,27.2746
+435,18,GALAȚI,VLĂDEŞTI,202,6,192,8,0,35,1,32,214,7,199,10,0,35,3,13,Școala Gimnazială „Sfîntul Ierarh Nicolae”,,Vlădești,45.8413,28.0931
+429,18,GALAȚI,VÎNĂTORI,276,30,57,29,2,23,21,51,279,35,64,32,2,28,12,27,Școala Sfintul Nicolae,Str. Eroilor nr. 7,Vânători,45.5297,28.0143
+430,18,GALAȚI,VÎNĂTORI,341,28,39,11,7,30,14,50,340,29,46,13,6,35,15,38,Școala Sfintul Nicolae,Str. Eroilor nr. 7,Vânători,45.5297,28.0143
+433,18,GALAȚI,VÎRLEZI,333,2,109,9,2,22,6,23,332,3,119,8,1,21,5,20,Școala Gimnazială Vîrlezi,,Vârlezi,45.8993,27.8487
+256,18,GALAȚI,CAVADINEŞTI,132,1,24,0,0,6,3,13,138,1,21,1,0,7,4,8,Școala Generală Vădeni,,Vădeni,46.0636,28.084
+332,18,GALAȚI,JORĂŞTI,53,1,97,0,0,2,2,11,51,3,96,0,0,3,4,9,Căminul Cultural Zărnești,,Zărnești,46.0163,27.852
+403,18,GALAȚI,ŞENDRENI,236,58,148,35,2,78,10,52,239,52,152,37,5,83,14,39,Școala Gimnazială nr. 1,,Șendreni,45.4116,27.9223
+404,18,GALAȚI,ŞENDRENI,184,24,110,16,4,60,16,43,191,21,115,20,4,65,14,30,Școala Gimnazială nr. 1,,Șendreni,45.4116,27.9223
+406,18,GALAȚI,ŞENDRENI,110,11,68,14,1,12,4,15,110,8,74,16,1,12,3,10,Grădinița Serbestii Vechi,,Șerbeștii Vechi,45.4215,27.8762
+414,18,GALAȚI,TULUCEŞTI,267,12,47,7,0,22,10,38,274,12,46,9,0,21,11,28,Școala Sivita,,Șivița,45.6124,28.0536
+415,18,GALAȚI,TULUCEŞTI,234,11,39,14,1,18,6,32,227,14,43,15,1,17,7,29,Grădinița Sivita,,Șivița,45.6132,28.0594
+292,18,GALAȚI,DRĂGUŞENI,47,0,77,0,0,2,3,9,47,1,77,0,0,0,5,9,Școala Știetești,,Știețești,46.0283,27.7075
+416,18,GALAȚI,ŢEPU,550,8,78,3,2,14,7,22,544,12,81,2,1,16,8,24,Școala Tudor Pamfile,,Țepu,45.9673,27.3812
+417,18,GALAȚI,ŢEPU,390,9,48,5,0,6,8,38,396,13,52,8,0,13,5,21,Grădinița Profesor Ioan Basoc,,Țepu,45.9749,27.3732
+354,18,GALAȚI,MUNTENI,286,3,33,6,1,4,10,28,294,4,42,7,1,5,9,16,Școala Generală - Sat Țigănești,,Țigănești,45.9044,27.4328

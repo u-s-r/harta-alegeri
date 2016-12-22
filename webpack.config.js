@@ -38,7 +38,7 @@ var config = {
     new CopyWebpackPlugin([
       { from: join(root, 'index.html') },
       { from: join(root, 'src/styles/style.css') },
-      { from: join(root, 'sectii.csv') }
+      { from: join(root, 'rezultate'), to: 'rezultate' }
     ]),
     new Dotenv({
       path: './.env', // if not simply .env

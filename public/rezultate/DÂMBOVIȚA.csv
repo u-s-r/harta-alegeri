@@ -1,0 +1,433 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+257,16,DÂMBOVIȚA,GURA OCNIŢEI,387,20,75,90,1,32,35,55,374,21,77,97,1,25,31,56,Școala cu Clasele. I-VIII Adânca,Str. Principală nr. 301,Adânca,44.9209,25.614
+204,16,DÂMBOVIȚA,CORNĂŢELU,121,1,11,2,0,2,1,2,123,1,10,2,1,3,1,2,Școala cu Clasele I-IV Alunișu,Str. Dimitrie Rallet nr. 21,Alunișu,44.7219,25.7247
+130,16,DÂMBOVIȚA,ANINOASA,453,28,77,25,0,27,10,35,450,31,89,27,0,18,17,31,Școala Gimnazială Aninoasa,Str. Constantin Manolescu nr. 79,Aninoasa,44.9764,25.4355
+131,16,DÂMBOVIȚA,ANINOASA,256,24,33,11,3,19,9,22,249,21,35,15,2,18,13,26,Școala Gimnazială Aninoasa,Str. Constantin Manolescu nr. 79,Aninoasa,44.9764,25.4355
+246,16,DÂMBOVIȚA,FINTA,107,7,88,5,0,7,3,12,100,6,87,7,0,5,3,19,Școala Bechinești,Str. Matei Basarab nr. 69 BIS,Bechinești,44.7894,25.8224
+87,16,DÂMBOVIȚA,ORAŞ FIENI,151,5,45,5,0,8,2,19,148,4,47,7,0,8,4,21,Grădinița „Piticii” Berevoiești,Nr. 96,Berevoești,45.1193,25.4235
+142,16,DÂMBOVIȚA,BEZDEAD,200,8,380,19,0,22,9,25,208,10,371,18,0,18,10,30,Școala Gimnazială „Grigore Rădulescu” Bezdead,Nr. 247,Bezdead,45.1409,25.498
+143,16,DÂMBOVIȚA,BEZDEAD,220,3,230,7,2,11,1,15,209,6,238,7,0,9,4,26,Școala Gimnazială „Vasile Voiculescu” Bezdead,Nr. 1058,Bezdead,45.1578,25.5288
+145,16,DÂMBOVIȚA,BILCIUREŞTI,444,13,105,23,0,23,5,29,436,15,104,20,0,19,3,29,Căminul Cultural,,Bilciurești,44.7507,25.7993
+203,16,DÂMBOVIȚA,CORNĂŢELU,306,8,36,13,0,1,3,13,299,11,42,10,0,1,5,11,Școala cu Clasele I-IV Bolovani,Str. Ion Bolovăneanu nr. 525,Bolovani,44.7281,25.6317
+191,16,DÂMBOVIȚA,CONŢEŞTI,245,6,15,8,0,1,3,10,242,7,13,7,0,2,5,14,"Școala cu Clasele I-IV Boteni, Localitatea Boteni, Strada Aeroportului nr. 308g",Nr. 170,Boteni,44.6636,25.6268
+146,16,DÂMBOVIȚA,BRANIŞTEA,422,16,72,12,2,12,5,13,419,15,78,12,0,11,7,19,"Școala „Spiru Haret” Braniștea, Clasele I-IV, Sala de Clasa nr. 1",,Braniștea,44.6788,25.577
+147,16,DÂMBOVIȚA,BRANIŞTEA,453,11,84,9,2,6,5,12,445,11,88,9,3,7,5,15,"Școala „Spiru Haret” Braniștea, Clasele I-IV, Sala de Clasa nr. 2",,Braniștea,44.6788,25.577
+367,16,DÂMBOVIȚA,RUNCU,220,5,29,8,0,7,6,11,209,5,27,6,0,6,6,19,Grădinița cu Program Normal Brebu,Nr. 83,Brebu,45.1893,25.341
+153,16,DÂMBOVIȚA,BREZOAELE,482,19,49,5,0,14,5,17,482,19,51,5,1,10,4,18,Școala Gimnazială Brezoaele,Nr. 218,Brezoaele,44.5771,25.7451
+154,16,DÂMBOVIȚA,BREZOAELE,255,8,53,24,0,5,2,8,255,9,49,25,0,5,3,9,Școala Gimnazială Brezoaia,Nr. 756,Brezoaia,44.5649,25.766
+155,16,DÂMBOVIȚA,BREZOAELE,364,6,49,5,0,12,0,6,362,7,48,6,0,12,2,8,Școala Gimnazială Brezoaia,Nr. 756,Brezoaia,44.5649,25.766
+348,16,DÂMBOVIȚA,PRODULEŞTI,140,0,37,6,0,4,13,24,141,0,35,6,0,3,14,26,Școala Primară Broșteni,Str. Târgoviștei nr. 229,Broșteni,44.7206,25.5037
+415,16,DÂMBOVIȚA,VIŞINA,335,4,61,8,1,5,4,16,339,3,60,9,0,5,6,20,Grădinița Broșteni,Str. Schitului,Broșteni,44.6033,25.352
+322,16,DÂMBOVIȚA,ODOBEŞTI,291,3,20,4,1,3,1,8,281,3,23,5,1,3,1,9,Grădinița Brâncoveanu,Nr. 228,Brâncoveanu,44.6045,25.5349
+150,16,DÂMBOVIȚA,BRĂNEŞTI,279,25,152,28,1,32,11,42,281,19,172,22,0,29,9,42,Centrul de Cultură și Tradiție Populară Brănești,Str. Principală (D) nr. 259,Brănești,45.0438,25.4221
+151,16,DÂMBOVIȚA,BRĂNEŞTI,310,34,111,26,0,22,3,21,310,34,117,20,0,23,5,26,Școala Gimnazială Brănești,Str. Principală (D) nr. 187,Brănești,45.0377,25.4168
+152,16,DÂMBOVIȚA,BRĂNEŞTI,181,8,88,10,0,13,4,20,179,10,92,13,0,9,2,20,Grădinița cu Program Normal Priboiu,Nr. 105,Brănești,45.0271,25.4222
+409,16,DÂMBOVIȚA,VĂCĂREŞTI,151,4,21,18,0,4,14,19,147,4,25,15,0,3,14,21,Grădinița cu Program Normal Brăteștii de Jos,Str. Principală,Brăteștii de Jos,44.8203,25.5339
+156,16,DÂMBOVIȚA,BUCIUMENI,316,33,109,63,0,20,5,27,307,34,114,65,0,17,7,24,Grădinița cu Program Normal,Nr. 293,Buciumeni,45.1563,25.4576
+159,16,DÂMBOVIȚA,BUCŞANI,380,12,112,17,0,16,10,27,371,15,109,19,0,16,10,32,Școala Gimnazială „Dora Dalles” Bucșani,Str. Principală nr. 933,Bucșani,44.866,25.6454
+160,16,DÂMBOVIȚA,BUCŞANI,389,9,100,18,0,23,11,36,393,11,91,17,1,25,9,29,Școala Gimnazială „Dora Dalles” Bucșani,Str. Principală nr. 933,Bucșani,44.866,25.6454
+205,16,DÂMBOVIȚA,CORNEŞTI,82,2,30,5,0,0,6,8,83,2,28,6,0,1,5,6,Școala Primară Bujoreanca,Nr. 231,Bujoreanca,44.7333,25.8974
+408,16,DÂMBOVIȚA,VĂCĂREŞTI,319,11,68,18,0,8,7,24,314,10,69,19,0,10,7,27,Școala Gimnazială Bungetu,Str. Lacurilor,Bungetu,44.8459,25.5332
+233,16,DÂMBOVIȚA,DRAGODANA,324,7,126,5,0,8,7,14,325,6,117,6,0,9,8,18,Școala Burduca,Nr. 1,Burduca,44.7302,25.4037
+164,16,DÂMBOVIȚA,BUTIMANU,159,3,353,12,0,15,6,14,159,3,341,10,0,13,7,25,Școala Gimnazială Butimanu,Nr. 31,Butimanu,44.692,25.8957
+265,16,DÂMBOVIȚA,HULUBEŞTI,252,3,14,0,1,6,3,11,245,3,16,0,1,6,3,14,Școala Gimnazială Butoiu de Jos,,Butoiu de Jos,44.8375,25.2664
+266,16,DÂMBOVIȚA,HULUBEŞTI,253,1,33,4,0,9,7,19,248,1,32,6,0,10,8,19,Grădinița cu Program Normal Butoiu de Sus,,Butoiu de Sus,44.8608,25.2864
+384,16,DÂMBOVIȚA,TĂRTĂŞEŞTI,392,19,93,16,0,9,10,23,386,23,84,18,0,11,10,24,Școala Gimnazială Bâldana - Tărtășești,Str. Nordului nr. 301,Bâldana,44.6032,25.7765
+366,16,DÂMBOVIȚA,RUNCU,179,6,29,8,2,38,3,17,177,6,27,8,1,36,4,19,Grădinița cu Program Normal Bădeni,Nr. 46,Bădeni,45.1513,25.4022
+221,16,DÂMBOVIȚA,CRÎNGURILE,279,11,252,9,0,7,3,11,281,13,254,6,0,6,4,11,Școala Generală Bădulești,,Bădulești,44.7608,25.2664
+135,16,DÂMBOVIȚA,BĂLENI,336,17,158,17,1,27,12,27,327,19,165,16,0,36,11,25,Școala Profesională Băleni,Șoseaua București-Târgoviște nr. 38,Băleni-Români,44.8175,25.6655
+136,16,DÂMBOVIȚA,BĂLENI,246,9,154,14,1,27,6,20,246,12,150,14,2,26,7,20,Liceul Tehnologic Udrea Băleanu,Șoseaua București-Târgoviște nr. 231,Băleni-Români,44.8191,25.6514
+137,16,DÂMBOVIȚA,BĂLENI,166,7,51,3,0,21,8,15,161,8,48,4,0,22,10,14,Liceul Tehnologic Udrea Băleanu,Șoseaua București-Târgoviște nr. 231,Băleni-Sârbi,44.8191,25.6514
+138,16,DÂMBOVIȚA,BĂLENI,216,15,87,8,0,33,8,18,209,16,92,7,0,29,12,24,Căminul Cultural Băleni Sârbi,Nr. 189,Băleni-Sârbi,44.8184,25.6489
+139,16,DÂMBOVIȚA,BĂLENI,243,12,186,4,1,18,2,21,240,14,191,3,0,16,7,24,Fosta Primărie Băleni Sârbi,Șoseaua Nucetului nr. 6,Băleni-Sârbi,44.8215,25.6467
+192,16,DÂMBOVIȚA,CONŢEŞTI,338,0,10,7,0,3,0,9,334,1,10,6,0,5,1,7,"Cămin Cultural Bălteni, Localitatea Bălteni, Strada Eroilor nr. 66",Nr. 66,Bălteni,44.6656,25.6949
+193,16,DÂMBOVIȚA,CONŢEŞTI,271,5,34,6,0,1,3,6,269,4,32,8,0,2,3,11,"Grădinița Bălteni, Localitatea Bălteni, Strada Eroilor nr. 235",Nr. 235,Bălteni,44.6637,25.6916
+368,16,DÂMBOVIȚA,SĂLCIOARA,89,1,12,6,0,2,5,11,87,3,13,6,0,3,4,9,Școala Generală Bănești,Nr. 47,Bănești,44.7368,25.5707
+141,16,DÂMBOVIȚA,BĂRBULEŢU,367,9,58,25,0,10,5,17,358,9,59,21,0,14,6,25,Școala Gimnazială cu Clasele I-VIII Bărbulețu,Nr. 352,Bărbulețu,45.1409,25.2967
+316,16,DÂMBOVIȚA,NUCET,464,9,76,16,0,18,9,23,450,10,76,17,0,17,7,26,Școala Gimnazială „Cazaci”,Nr. 464,Cazaci,44.7996,25.5527
+313,16,DÂMBOVIȚA,NICULEŞTI,192,8,73,4,1,6,1,11,191,10,73,3,2,4,1,8,Școala cu Clasele I-VIII Ciocănari,,Ciocănari,44.695,25.9763
+166,16,DÂMBOVIȚA,CIOCĂNEŞTI,167,11,60,5,1,8,3,6,157,10,61,7,1,6,3,14,Școala cu Clasele I-VIII Ciocănești,Str. Cantacuzino nr. 685,Ciocănești,44.6009,25.8748
+167,16,DÂMBOVIȚA,CIOCĂNEŞTI,210,9,61,6,0,9,4,11,210,6,59,7,0,10,4,12,Școala cu Clasele I-VIII Ciocănești,Str. Cantacuzino nr. 685,Ciocănești,44.6009,25.8748
+220,16,DÂMBOVIȚA,CREVEDIA,112,3,8,3,0,21,1,9,111,3,7,3,0,23,3,11,Școala cu Clasele I-IV,Str. Școlii nr. 169,Cocani,44.626,25.8964
+180,16,DÂMBOVIȚA,COJASCA,332,13,38,15,0,18,5,17,331,10,44,14,1,19,6,17,Școala Gimnazială Cojasca,Str. Principală nr. 681,Cojasca,44.724,25.8488
+181,16,DÂMBOVIȚA,COJASCA,168,2,25,8,0,2,1,6,161,2,26,9,0,2,1,9,Școala Gimnazială Cojasca,Str. Principală nr. 681,Cojasca,44.724,25.8488
+298,16,DÂMBOVIȚA,MOGOŞANI,220,3,101,0,1,5,4,8,220,3,98,0,2,6,5,11,Școala Cojocaru,,Cojocaru,44.6962,25.3783
+121,16,DÂMBOVIȚA,ORAŞ RĂCARI,196,3,107,4,2,10,2,11,197,4,100,5,2,13,2,12,Școala Generală Colacu,Str. Libertății nr. 394,Colacu,44.6661,25.7583
+273,16,DÂMBOVIȚA,IEDERA,134,6,24,8,0,7,9,18,128,6,25,9,1,7,10,20,Grădinița cu Program Normal Colibași,Nr. 14,Colibași,45.034,25.6236
+187,16,DÂMBOVIȚA,COMIŞANI,469,20,75,11,1,25,8,21,473,21,79,8,1,21,10,26,Grădinița Comisani,,Comișani,44.8716,25.5853
+188,16,DÂMBOVIȚA,COMIŞANI,474,7,62,16,2,19,8,19,463,8,69,13,2,18,5,24,Școala Generală I-IV Comisani (Str.Helesteului nr. 2),,Comișani,44.872,25.5839
+189,16,DÂMBOVIȚA,CONŢEŞTI,252,9,39,6,0,6,6,12,251,8,39,7,0,3,6,12,"Școala cu Clasele I-IV Conțești, Localitatea Conțești, Strada Primăriei nr. 444",Nr. 444,Conțești,44.682,25.6363
+190,16,DÂMBOVIȚA,CONŢEŞTI,143,9,18,8,0,4,4,7,141,10,18,8,0,5,4,8,"Sală Festivități, Localitatea Conțești, Strada Gării nr. 183",Nr. 183,Conțești,44.6679,25.6391
+194,16,DÂMBOVIȚA,CORBII MARI,578,9,33,14,0,17,4,14,581,9,31,14,0,13,6,14,Școala Gimnazială Corbii Mari,Str. Primăriei nr. 9,Corbii Mari,44.5455,25.4953
+207,16,DÂMBOVIȚA,CORNEŞTI,307,11,106,26,1,8,8,32,304,14,105,27,0,7,9,36,Școala Gimnazială Cornești,Nr. 724,Cornești,44.7863,25.8815
+202,16,DÂMBOVIȚA,CORNĂŢELU,194,4,21,5,0,3,1,8,194,5,21,4,0,1,2,7,Școala cu Clasele I-VIII Cornățelu,Str. Domnița Marula nr. 50,Cornățelu,44.7497,25.6714
+86,16,DÂMBOVIȚA,ORAŞ FIENI,201,2,71,5,0,7,5,14,196,1,70,7,1,5,5,17,Grădinița „Pinochio” Costești,Nr. 200,Costești,45.1401,25.3987
+349,16,DÂMBOVIȚA,PRODULEŞTI,219,7,34,10,0,15,8,18,224,6,33,9,0,16,7,15,Școala Primară Costeștii din Deal,Str. Principală nr. 348,Costeștii din Deal,44.6837,25.4853
+213,16,DÂMBOVIȚA,COSTEŞTII DIN VALE,171,5,18,4,0,4,3,6,169,5,20,4,0,2,4,10,Grădinița cu Program Normal nr. 1 Costeștii din Vale,Str. Crinului,Costeștii din Vale,44.6487,25.4893
+214,16,DÂMBOVIȚA,COSTEŞTII DIN VALE,331,0,51,10,0,10,4,31,341,1,46,13,0,13,7,14,Școala Gimnazială Costeștii din Vale,,Costeștii din Vale,44.6486,25.4897
+216,16,DÂMBOVIȚA,CREVEDIA,272,21,56,15,0,28,1,16,262,24,53,20,0,32,4,15,Școala Generală Crevedia,Șoseaua București-Târgoviște (Șoseaua București-Tîrgoviște) nr. 528,Crevedia,44.601,25.9148
+217,16,DÂMBOVIȚA,CREVEDIA,162,33,57,6,1,18,6,19,158,33,56,5,1,19,7,22,Cămin Cultural,Șoseaua București-Târgoviște (Șoseaua București-Tîrgoviște) nr. 139,Crevedia,44.5956,25.9183
+274,16,DÂMBOVIȚA,IEDERA,107,2,16,7,0,1,6,16,101,2,16,6,2,2,6,16,Grădinița cu Program Normal Cricovu Dulce,Nr. 157,Cricovu Dulce,45.0222,25.6272
+208,16,DÂMBOVIȚA,CORNEŞTI,92,2,17,1,0,3,2,4,88,2,17,1,0,3,3,8,Școala Primară Crivățu,Nr. 167,Crivățu,44.7562,25.9256
+392,16,DÂMBOVIȚA,ULIEŞTI,126,1,59,15,0,3,3,9,130,1,55,13,0,6,2,8,Școala Croitori,Nr. 364,Croitori,44.577,25.42
+324,16,DÂMBOVIȚA,ODOBEŞTI,469,3,29,10,0,2,9,24,467,4,30,11,1,3,9,24,Grădinița cu Program Normal Crovu,Nr. 395,Crovu,44.5896,25.5383
+309,16,DÂMBOVIȚA,MOŢĂIENI,53,3,134,3,1,2,5,10,52,2,142,2,0,3,5,8,Școala Cucuteni,Str. Învățător Popa Constantin nr. 11,Cucuteni,45.108,25.3924
+372,16,DÂMBOVIȚA,SĂLCIOARA,101,7,14,2,0,3,13,23,99,7,16,3,0,2,11,19,Școala Generală Cuza-Vodă,Nr. 122,Cuza Vodă,44.7394,25.6003
+173,16,DÂMBOVIȚA,CÎNDEŞTI,57,1,35,4,0,3,0,4,56,1,33,5,0,3,0,4,Școala cu Clasele I-IV Cîndești Deal,,Cândești Deal,45.054,25.1828
+171,16,DÂMBOVIȚA,CÎNDEŞTI,327,6,103,14,0,21,10,22,318,9,104,13,0,22,14,24,Cămin Cultural Cîndești Vale,,Cândești-Vale,45.0824,25.2207
+389,16,DÂMBOVIȚA,TĂTĂRANI,487,6,99,29,0,18,11,36,477,6,98,28,2,18,12,45,Cămin Cultural Sat Căprioru,Nr. 103,Căprioru,44.9842,25.2815
+206,16,DÂMBOVIȚA,CORNEŞTI,189,12,84,9,0,4,3,19,190,13,87,8,1,5,3,17,Școala Gimnazială Cătunu,Nr. 221,Cătunu,44.7418,25.8859
+337,16,DÂMBOVIȚA,PIETROŞIŢA,232,4,68,6,1,4,6,14,229,5,62,5,0,5,11,22,Școala Dealu-Frumos nr. 78,,Dealu Frumos,45.1863,25.4166
+157,16,DÂMBOVIȚA,BUCIUMENI,287,18,80,26,0,19,9,25,275,20,83,26,0,18,13,30,Școala Generală,Nr. 101,Dealu Mare,45.1647,25.4497
+168,16,DÂMBOVIȚA,CIOCĂNEŞTI,116,8,49,7,0,6,2,6,113,12,44,5,0,5,2,10,Grădinița de Copii,Str. Lacurilor nr. 2,Decindea,44.6064,25.8779
+238,16,DÂMBOVIȚA,DRAGOMIREŞTI,454,9,80,22,1,11,5,11,448,15,75,20,1,9,5,15,Școala Gimnazială Decindeni -Dragomirești,Str. Școlii nr. 11,Decindeni,44.9065,25.3267
+239,16,DÂMBOVIȚA,DRAGOMIREŞTI,365,6,104,12,1,8,4,16,357,8,105,10,0,10,5,13,Școala Gimnazială Decindeni-Dragomirești,Str. Școlii nr. 11,Decindeni,44.9065,25.3267
+104,16,DÂMBOVIȚA,ORAŞ PUCIOASA,181,27,47,15,0,3,6,21,178,21,53,14,0,3,6,26,Grădinița Diaconești nr. 9,Nr. 9,Diaconești,45.0927,25.4477
+227,16,DÂMBOVIȚA,DOBRA,538,10,80,35,2,39,21,43,538,8,83,34,1,34,20,43,Școala Preot Panait Georgescu,,Dobra,44.788,25.7121
+229,16,DÂMBOVIȚA,DOICEŞTI,322,3,104,24,0,22,11,30,313,6,108,28,0,21,13,28,Școala Gimnazială nr. 3 Doicești,Str. Coloniei nr. 15,Doicești,44.9962,25.4
+230,16,DÂMBOVIȚA,DOICEŞTI,301,19,136,14,1,27,15,26,299,17,135,19,1,27,19,27,Școala Gimnazială nr. 1 Doicești,Str. Constantin Brâncoveanu nr. 435,Doicești,44.9885,25.4072
+231,16,DÂMBOVIȚA,DOICEŞTI,203,4,66,17,0,7,15,29,202,5,72,17,0,10,9,22,Grădinița cu Program Normal nr. 3 Doicești,Str. Constantin Brâncoveanu nr. 164,Doicești,45.0011,25.3931
+232,16,DÂMBOVIȚA,DRAGODANA,356,11,91,18,1,11,6,10,351,8,86,22,0,13,7,16,Școala Dragodana,Nr. 409,Dragodana,44.7334,25.3661
+172,16,DÂMBOVIȚA,CÎNDEŞTI,254,8,61,9,0,12,4,11,250,8,60,12,0,11,6,13,Căminul Cultural Dragodănești,,Dragodănești,45.0545,25.235
+175,16,DÂMBOVIȚA,CÎNDEŞTI,166,7,36,4,0,5,2,10,158,10,34,4,0,5,3,12,Școala cu Clasele I-IV Sturzeni,,Dragodănești,45.0456,25.249
+237,16,DÂMBOVIȚA,DRAGOMIREŞTI,489,19,169,35,0,24,9,34,491,20,168,36,0,20,7,34,Școala Gimnazială Dragomirești,Str. Principală nr. 130,Dragomirești,44.9142,25.3418
+291,16,DÂMBOVIȚA,MĂNEŞTI,688,5,90,13,0,11,8,21,690,6,92,16,0,11,5,16,Școala Gimnazială Drăgăești-Pământeni,,Drăgăești Pământeni,44.9362,25.3048
+290,16,DÂMBOVIȚA,MĂNEŞTI,357,18,49,38,1,3,10,24,354,21,46,37,1,5,10,25,Școala Gimnazială Drăgăești-Ungureni,,Drăgăești Ungureni,44.9515,25.3073
+396,16,DÂMBOVIȚA,ULMI,165,16,126,17,2,9,17,28,159,19,124,18,1,10,16,26,Grădinița Dumbrava,,Dumbrava,44.8925,25.4425
+148,16,DÂMBOVIȚA,BRANIŞTEA,229,5,37,8,1,5,4,25,229,5,44,8,2,8,6,14,"Școala „Spiru Haret” Braniștea, Clasele I-IV, Sala de Clasa nr. 1",,Dâmbovicioara,44.6759,25.5532
+218,16,DÂMBOVIȚA,CREVEDIA,205,46,72,23,3,34,6,25,210,43,70,21,3,35,7,26,Școala Gimnazială Dârza,Str. Școlii nr. 85,Dârza,44.6004,25.9478
+224,16,DÂMBOVIȚA,DĂRMĂNEŞTI,239,23,224,13,0,13,10,32,240,21,224,16,0,12,9,32,Școala Dărmănești,Nr. 182,Dărmănești,44.9174,25.7715
+225,16,DÂMBOVIȚA,DĂRMĂNEŞTI,285,18,261,23,0,44,12,34,287,15,268,23,0,39,14,34,Cămin Cultural,Nr. 897,Dărmănești,44.9161,25.7669
+88,16,DÂMBOVIȚA,ORAŞ FIENI,341,28,173,37,0,23,10,37,333,29,177,40,0,24,11,36,Școala Generală „Diaconu Coresi” Fieni,Str. Runcului nr. 41,Fieni,45.1282,25.4176
+89,16,DÂMBOVIȚA,ORAŞ FIENI,358,39,108,30,0,16,6,27,337,41,117,29,1,16,9,32,Grup Școlar Industrial „Inginer Aurel Rainu” Fieni,Str. Ing. Aurel Rainu (Str. Industriei) nr. 13,Fieni,45.1331,25.421
+90,16,DÂMBOVIȚA,ORAŞ FIENI,158,11,34,13,0,6,6,12,156,11,35,11,0,4,9,18,Grădinița „Dumbrava Minunată” Fieni,Str. Teilor nr. 14,Fieni,45.1318,25.4207
+91,16,DÂMBOVIȚA,ORAŞ FIENI,325,47,131,38,0,22,8,36,325,51,136,38,0,18,8,31,Grup Școlar Industrial „Inginer Aurel Rainu” Fieni,Str. Republicii nr. 28,Fieni,45.1309,25.4239
+376,16,DÂMBOVIȚA,ŞELARU,392,1,68,2,0,6,2,33,379,6,61,2,2,9,2,29,Grădinița cu Program Normal Fierbinți,Nr. 433,Fierbinți,44.5088,25.2873
+245,16,DÂMBOVIȚA,FINTA,168,6,177,8,1,10,9,21,170,11,174,10,1,12,8,18,Școala Generală Finta,Str. Eroilor nr. 77 BIS,Finta Mare,44.7903,25.7917
+179,16,DÂMBOVIȚA,COBIA,257,5,41,2,1,5,8,15,257,5,36,4,2,4,8,14,Școala Frasin Deal,,Frasin Deal,44.8271,25.3207
+209,16,DÂMBOVIȚA,CORNEŞTI,103,1,25,9,1,1,3,8,104,1,24,8,1,1,3,10,Școala Gimnazială Frasinu,Nr. 148,Frasinu,44.7895,25.8617
+184,16,DÂMBOVIȚA,COJASCA,248,0,5,2,0,1,0,1,245,0,5,2,0,1,0,3,Școala Gimnazială Fîntînele,Str. Principală nr. 18,Fântânele,44.7139,25.876
+185,16,DÂMBOVIȚA,COJASCA,217,0,4,1,0,2,1,7,217,0,4,1,0,2,1,6,Școala Gimnazială Fîntînele,Str. Principală nr. 18,Fântânele,44.7139,25.876
+244,16,DÂMBOVIȚA,DRAGOMIREŞTI,81,2,23,9,0,8,6,14,81,2,21,9,1,7,6,13,Grădinița Geangoești-Dragomirești,Str. Principală nr. 100,Geangoești,44.8942,25.3775
+422,16,DÂMBOVIȚA,VOINEŞTI,313,15,51,14,0,10,7,17,305,14,58,15,0,16,6,18,Căminul Cultural,Str. Principală nr. 419,Gemenea Brătulești,45.1113,25.2229
+247,16,DÂMBOVIȚA,FINTA,153,12,114,13,0,11,3,11,152,15,114,13,0,8,2,11,Școala Gheboaia,Str. Principală nr. 92 BIS,Gheboaia,44.8011,25.7464
+248,16,DÂMBOVIȚA,FINTA,102,0,87,9,0,4,3,9,96,2,89,10,0,6,3,8,Școala Gheboaia,Str. Principală nr. 92 BIS,Gheboaia,44.8011,25.7464
+388,16,DÂMBOVIȚA,TĂTĂRANI,318,11,61,33,0,11,14,35,306,8,66,32,0,15,9,40,Grădinița de Copii Gheboieni,Nr. 87,Gheboieni,44.9854,25.3047
+118,16,DÂMBOVIȚA,ORAŞ RĂCARI,151,6,199,3,0,3,3,11,151,7,197,4,0,3,5,17,Școala Generală Ghergani,Aleea Școlii nr. 250,Ghergani,44.6363,25.7235
+177,16,DÂMBOVIȚA,COBIA,443,4,65,7,1,15,7,21,438,8,63,13,3,14,10,17,Grădinița Gherghițești,,Gherghițești,44.7964,25.3392
+120,16,DÂMBOVIȚA,ORAŞ RĂCARI,147,6,228,5,0,3,0,6,137,7,223,5,0,7,1,11,Căminul Cultural Ghimpați,Str. Slt. Barbu Petre Marian nr. 367,Ghimpați,44.654,25.7896
+371,16,DÂMBOVIȚA,SĂLCIOARA,246,8,53,10,2,8,9,24,249,9,54,9,1,10,10,23,Școala Generală Ghinești Sala1,Nr. 21,Ghinești,44.7449,25.5557
+267,16,DÂMBOVIȚA,I. L. CARAGIALE,428,18,110,16,0,21,18,42,423,19,105,20,0,20,19,47,Școala Gimnazială nr. 1 Ghirdoveni,Nr. 1197,Ghirdoveni,44.9392,25.673
+268,16,DÂMBOVIȚA,I. L. CARAGIALE,430,15,65,12,0,27,18,35,419,18,55,15,0,28,18,40,Școala Gimnazială nr. 2 Ghirdoveni,Nr. 1203,Ghirdoveni,44.9318,25.6865
+304,16,DÂMBOVIȚA,MOROENI,300,1,106,10,4,10,3,31,309,3,102,15,5,14,4,25,Școala Glod,Str. Principală,Glod,45.237,25.4459
+113,16,DÂMBOVIȚA,ORAŞ PUCIOASA,200,16,78,16,0,10,6,22,195,15,84,17,1,9,7,24,Școala Gimnazială nr. 5 Glodeni,Nr. 262,Glodeni,45.0625,25.4498
+249,16,DÂMBOVIȚA,GLODENI,278,14,173,13,0,14,14,30,267,14,181,14,0,16,15,25,Școala „Buică Ionescu”,Str. Centru,Glodeni,45.0187,25.4649
+250,16,DÂMBOVIȚA,GLODENI,190,7,123,11,0,9,3,8,185,7,130,10,0,6,3,8,Școala „Buică Ionescu”,Str. Centru nr. 4,Glodeni,45.0187,25.4649
+377,16,DÂMBOVIȚA,ŞELARU,152,6,34,4,0,5,1,7,148,4,39,5,0,4,0,9,Grădinița cu Program Normal,,Glogoveanu,44.4839,25.3497
+362,16,DÂMBOVIȚA,RĂZVAD,317,6,53,13,0,18,9,24,311,7,54,13,0,17,13,26,Școala Gimnazială Gorgota,Str. Principală nr. 27,Gorgota,44.9766,25.5057
+330,16,DÂMBOVIȚA,PETREŞTI,315,10,178,8,0,12,8,23,310,9,170,9,2,19,9,27,Școala Gimnazială Greci,Nr. 253,Greci,44.667,25.3423
+197,16,DÂMBOVIȚA,CORBII MARI,175,1,47,1,0,2,4,10,168,3,49,3,0,3,4,14,Școala Gimnazială Grozăvești I,Str. Lungă nr. 55,Grozăvești,44.5605,25.4612
+198,16,DÂMBOVIȚA,CORBII MARI,329,0,61,5,0,7,4,16,331,0,61,5,0,4,5,19,Grădinița de Copii Grozăvești nr. 2,Str. Lungă nr. 221,Grozăvești,44.572,25.4481
+385,16,DÂMBOVIȚA,TĂRTĂŞEŞTI,441,36,38,11,0,8,4,18,442,38,37,8,0,10,4,17,Școala Gimnazială Gulia- Tărtășești,Nr. 67,Gulia,44.5461,25.8714
+140,16,DÂMBOVIȚA,BĂRBULEŢU,192,4,20,5,0,12,2,8,189,4,21,3,0,14,3,8,Școala Gimnazială cu Clasele I-VIII Gura Bărbulețului,Nr. 274,Gura Bărbulețului,45.1136,25.2998
+252,16,DÂMBOVIȚA,GURA FOII,488,9,103,26,2,12,20,36,479,11,95,26,2,19,20,41,Școala Gimnazială Gura Foii,,Gura Foii,44.7476,25.2891
+253,16,DÂMBOVIȚA,GURA FOII,183,2,32,3,0,11,5,6,177,1,31,3,1,12,7,9,Grădinița Bumbuia,,Gura Foii,44.7837,25.3187
+254,16,DÂMBOVIȚA,GURA FOII,117,8,49,6,0,2,1,2,110,7,51,7,1,2,2,5,Sala de Festivități Făgetu,,Gura Foii,44.7535,25.3258
+255,16,DÂMBOVIȚA,GURA OCNIŢEI,316,24,104,16,0,11,16,38,313,26,107,14,1,11,19,38,Școala cu Clasele. I-VIII Gura Ocniței,Str. Principală nr. 192,Gura Ocniței,44.9444,25.5625
+256,16,DÂMBOVIȚA,GURA OCNIŢEI,402,37,103,34,0,36,16,41,399,31,109,35,0,32,13,40,Școala cu Clasele. I-VIII Gura Ocniței,Str. Principală nr. 192,Gura Ocniței,44.9444,25.5625
+431,16,DÂMBOVIȚA,VULCANA-PANDELE,186,15,56,18,1,11,3,12,189,13,54,17,1,10,6,15,Școala Gimnazială Gura Vulcanei,Str. Calea Vulcanei nr. 38,Gura Vulcanei,45.0302,25.3954
+432,16,DÂMBOVIȚA,VULCANA-PANDELE,166,13,44,14,0,9,6,14,162,13,51,14,0,10,5,11,Școala Gimnazială Gura Vulcanei,Str. Calea Vulcanei nr. 38,Gura Vulcanei,45.0302,25.3954
+259,16,DÂMBOVIȚA,GURA ŞUŢII,353,5,39,5,0,2,5,10,352,7,33,5,0,4,6,12,Școala Gimnazială Gura Șuții,,Gura Șuții,44.7556,25.4982
+260,16,DÂMBOVIȚA,GURA ŞUŢII,375,14,33,3,0,3,2,11,374,15,33,4,0,2,1,11,Școala Gimnazială Gura Șuții,,Gura Șuții,44.7556,25.4982
+261,16,DÂMBOVIȚA,GURA ŞUŢII,435,4,38,12,1,9,3,20,440,3,36,16,1,9,3,14,"Grădinița cu Program Normal Gura Șuții, Corpul B",,Gura Șuții,44.7667,25.4925
+92,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,219,18,109,19,0,21,9,19,210,17,105,19,0,27,14,19,Școala Gimnazială nr. 1,Str. Acad. Șerban Cioculescu (Str. 23 August) nr. 32,Găești,44.7155,25.3114
+93,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,245,26,107,10,0,21,12,25,241,29,100,13,0,22,13,26,Școala Gimnazială nr. 1,Str. Acad. Șerban Cioculescu (Str. 23 August) nr. 32,Găești,44.7155,25.3114
+94,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,352,14,161,12,0,18,9,23,354,17,149,14,0,23,14,28,Liceul Tehnologic „Doctor Constantin Angelescu”,Str. Argeșului nr. 32,Găești,44.719,25.2984
+95,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,347,28,194,18,0,54,12,32,353,27,179,22,1,55,9,31,Colegiul Național „Vladimir Streinu”,Str. Nicolae Titulescu nr. 24-26,Găești,44.7219,25.3144
+96,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,296,22,171,32,3,38,20,34,299,22,167,31,2,36,24,36,Școala Gimnazială „Șerban Cioculescu”,Str. Cuza Vodă (Str. Nicolae Titulescu) nr. 13,Găești,44.7208,25.3208
+97,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,187,10,121,16,1,18,6,17,190,12,119,15,1,16,7,19,Școala Gimnazială „Șerban Cioculescu”,Str. Cuza Vodă (Str. Nicolae Titulescu) nr. 13,Găești,44.7208,25.3208
+98,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,271,29,134,21,1,15,8,16,282,27,126,17,0,17,6,14,Școala Gimnazială „Șerban Cioculescu”,Str. Cuza Vodă (Str. Nicolae Titulescu) nr. 13,Găești,44.7208,25.3208
+99,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,322,23,174,24,4,34,14,32,321,25,174,21,2,39,13,31,Școala Gimnazială „Șerban Cioculescu”,Str. Cuza Vodă (Str. Nicolae Titulescu) nr. 13,Găești,44.7208,25.3208
+100,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,190,17,90,21,0,21,9,15,191,20,81,23,0,24,10,15,Școala Gimnazială „Radu Cel Mare”,Str. 13 Decembrie (Str. Michele Gagliardi) nr. 79,Găești,44.7173,25.3276
+101,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,232,21,168,23,2,23,13,33,237,19,153,22,2,29,12,38,Școala Gimnazială „Radu Cel Mare”,Str. 13 Decembrie (Str. Michele Gagliardi) (D) nr. 79,Găești,44.7173,25.3276
+102,16,DÂMBOVIȚA,ORAŞ GĂEŞTI,333,36,217,17,2,21,15,34,333,41,203,21,2,26,13,33,Școala Gimnazială „Radu Cel Mare”,Str. 13 Decembrie (Str. Michele Gagliardi) (D) nr. 79,Găești,44.7173,25.3276
+394,16,DÂMBOVIȚA,ULIEŞTI,53,1,60,2,0,2,0,5,45,2,60,4,0,1,0,12,Școala Primară Hanu Lui Pală,Nr. 75,Hanu lui Pală,44.5488,25.3824
+263,16,DÂMBOVIȚA,HULUBEŞTI,173,10,69,7,0,14,14,26,170,12,71,9,0,13,13,24,Grădinița cu Program Normal Hulubești,,Hulubești,44.8451,25.2499
+161,16,DÂMBOVIȚA,BUCŞANI,253,16,87,11,0,10,12,26,246,19,89,10,0,11,14,28,Școala Generală Hăbeni,Str. Principală nr. 187,Hăbeni,44.8528,25.6312
+269,16,DÂMBOVIȚA,I. L. CARAGIALE,328,7,55,5,0,31,15,29,326,7,60,4,0,34,19,26,Club Penitenciar I.L.Caragiale,I. L. CARAGIALE Nr. 686,I. L. Caragiale,44.9108,25.7033
+270,16,DÂMBOVIȚA,I. L. CARAGIALE,439,12,83,5,0,16,13,29,444,10,85,5,0,15,15,29,Căminul Cultural I.L.Caragiale,I. L. CARAGIALE Nr. 689,I. L. Caragiale,44.9092,25.702
+182,16,DÂMBOVIȚA,COJASCA,132,1,128,2,0,9,3,11,136,3,121,4,0,4,4,17,Școala cu Clasele I-IV Iazu,Str. Școlii nr. 283,Iazu,44.7194,25.8334
+183,16,DÂMBOVIȚA,COJASCA,100,0,109,33,0,17,0,7,94,1,108,37,0,19,0,7,Școala cu Clasele I-IV Iazu,Str. Școlii nr. 283,Iazu,44.7194,25.8334
+210,16,DÂMBOVIȚA,CORNEŞTI,167,13,42,8,0,3,4,19,165,14,42,7,0,3,6,19,Școala Primară Ibrianu,Nr. 45,Ibrianu,44.774,25.8435
+272,16,DÂMBOVIȚA,IEDERA,228,33,52,14,1,14,26,43,234,32,51,11,1,14,27,43,Școala Gimnazială Iedera de Jos,Nr. 530,Iedera de Jos,45.0257,25.6349
+275,16,DÂMBOVIȚA,IEDERA,330,6,44,11,0,11,12,25,332,9,48,7,0,10,14,23,Școala cu Clasele I-IV Iedera de Sus,Nr. 185A,Iedera de Sus,45.0405,25.6298
+317,16,DÂMBOVIȚA,NUCET,141,1,32,4,0,4,8,12,140,2,31,4,1,2,9,15,Școala Primară „Ilfoveni”,Nr. 133,Ilfoveni,44.8247,25.5631
+331,16,DÂMBOVIȚA,PETREŞTI,388,7,258,9,0,6,11,28,398,7,252,5,0,10,11,29,Grădinița Ionesti,Nr. 58,Ionești,44.6859,25.297
+393,16,DÂMBOVIȚA,ULIEŞTI,374,10,257,7,1,9,10,29,373,7,262,5,1,7,15,28,Școala Gimnazială Jugureni,Nr. 19,Jugureni,44.6149,25.4092
+186,16,DÂMBOVIȚA,COMIŞANI,544,27,106,28,0,30,18,42,537,30,112,27,0,27,20,44,Caminul Cultural,,Lazuri,44.8781,25.5472
+165,16,DÂMBOVIȚA,BUTIMANU,127,4,77,6,0,2,2,10,120,4,76,4,0,4,3,16,Școala Gimnazială Lucianca,Nr. 102A,Lucianca,44.672,25.8926
+276,16,DÂMBOVIȚA,LUCIENI,174,7,162,8,3,6,8,18,170,7,166,0,2,8,5,26,Școala Lucieni,Nr. 795,Lucieni,44.8479,25.4424
+277,16,DÂMBOVIȚA,LUCIENI,202,6,147,10,0,11,9,21,196,8,144,14,0,12,10,20,Școala Lucieni,Nr. 795,Lucieni,44.8479,25.4424
+301,16,DÂMBOVIȚA,MOROENI,291,13,68,22,1,18,4,24,288,18,65,22,2,17,8,24,Școala Veche-Grădinița,Str. Principală nr. 186,Lunca,45.2099,25.4367
+283,16,DÂMBOVIȚA,LUNGULEŢU,215,8,50,5,0,10,2,10,214,12,47,5,0,9,3,10,Școala Gimnazială nr. 2 Lungulețu,Str. Principală nr. 84,Lungulețu,44.6042,25.665
+284,16,DÂMBOVIȚA,LUNGULEŢU,296,9,55,15,0,10,2,12,302,8,56,16,1,9,3,10,Școala Gimnazială nr. 2 Lungulețu,Str. Principală nr. 84,Lungulețu,44.6042,25.665
+285,16,DÂMBOVIȚA,LUNGULEŢU,452,6,60,8,0,7,4,9,452,7,54,8,0,7,2,14,Școala Gimnazială nr. 1 Lungulețu,Str. Dositei Filitti nr. 132,Lungulețu,44.6175,25.6618
+251,16,DÂMBOVIȚA,GLODENI,147,2,89,6,0,5,2,7,144,4,83,7,0,6,2,9,Grădința Lăculețe,Str. Lăculețe nr. 78,Lăculețe,45.0186,25.4326
+287,16,DÂMBOVIȚA,MALU CU FLORI,432,7,63,17,0,17,6,24,428,6,62,19,0,18,7,22,Școala Gimnazială Malu cu Flori nr. 139bis,Nr. 139BIS,Malu cu Flori,45.1498,25.2187
+288,16,DÂMBOVIȚA,MALU CU FLORI,307,3,54,22,1,13,2,7,302,7,49,23,0,11,4,17,Școala Generală cu Clasele I-IV Micloșanii Mici,Nr. 345A,Malu cu Flori,45.1613,25.2273
+114,16,DÂMBOVIȚA,ORAŞ PUCIOASA,33,0,4,5,0,2,1,3,35,0,3,4,0,1,1,4,Școala Gimnazială Maluri,Nr. 69,Malurile,45.0589,25.4738
+426,16,DÂMBOVIȚA,VOINEŞTI,246,0,41,16,0,2,3,14,242,7,38,17,1,4,3,10,Grădinița Manga,Str. Principală nr. 86,Manga,45.0686,25.2758
+398,16,DÂMBOVIȚA,ULMI,160,5,62,12,0,8,9,14,158,8,62,9,0,9,9,14,Grădinița Matraca,,Matraca,44.895,25.517
+119,16,DÂMBOVIȚA,ORAŞ RĂCARI,133,10,193,4,0,4,5,15,137,9,188,4,0,4,5,16,Grădinița Mavrodin,Str. Școlii nr. 228,Mavrodin,44.6489,25.7143
+299,16,DÂMBOVIȚA,MOGOŞANI,236,7,151,7,0,15,11,25,225,7,151,9,0,19,11,28,Școala Merii,,Merii,44.6975,25.3579
+412,16,DÂMBOVIȚA,VĂLENI-DÎMBOVIŢA,103,0,18,3,0,6,3,7,109,0,14,3,0,3,3,7,Școala Noua Generală Mesteacan,,Mesteacăn,45.1877,25.1764
+271,16,DÂMBOVIȚA,I. L. CARAGIALE,164,20,38,6,0,28,14,30,168,20,38,7,0,33,12,23,Școala Primară Mija,Nr. 698,Mija,44.9147,25.6751
+370,16,DÂMBOVIȚA,SĂLCIOARA,203,8,48,15,0,4,14,35,203,8,47,17,0,7,12,31,Școala Generală Mircea-Vodă Sala 1,Nr. 232,Mircea Vodă,44.7665,25.5874
+178,16,DÂMBOVIȚA,COBIA,230,11,42,4,0,17,6,13,221,11,44,4,1,14,8,18,Grădinița Mislea,,Mislea,44.8321,25.3366
+323,16,DÂMBOVIȚA,ODOBEŞTI,196,2,14,1,0,2,1,4,197,2,12,1,0,1,2,6,Școala Primară Miulești,Nr. 77,Miulești,44.5992,25.5166
+297,16,DÂMBOVIȚA,MOGOŞANI,337,7,301,12,2,14,2,13,325,6,294,13,3,16,4,22,Școala Generală Mogoșani,,Mogoșani,44.6829,25.4066
+243,16,DÂMBOVIȚA,DRAGOMIREŞTI,214,2,32,6,0,7,4,13,218,0,30,6,0,6,4,14,Căminul Cultural Mogoșești,Str. Căminului nr. 1,Mogoșești,44.881,25.3972
+66,16,DÂMBOVIȚA,MUNICIPIUL MORENI,234,17,111,12,0,14,12,23,235,17,112,15,0,15,10,20,Școala Gimnazială nr. 2,Str. Sirius nr. 56,Moreni,44.9728,25.6113
+67,16,DÂMBOVIȚA,MUNICIPIUL MORENI,148,11,105,10,0,8,6,16,150,8,101,9,0,11,9,19,Club Cristian (Uzina Automecanică Moreni),Str. Târgoviștei (Str. Tîrgoviștei) nr. 45,Moreni,44.9775,25.6204
+68,16,DÂMBOVIȚA,MUNICIPIUL MORENI,85,7,34,21,1,5,4,6,83,8,37,21,1,6,3,4,Grădinița cu Program Normal nr. 7 Țuicani,Str. Ion Creangă nr. 5,Moreni,44.9714,25.633
+69,16,DÂMBOVIȚA,MUNICIPIUL MORENI,193,40,60,22,0,20,12,26,191,42,62,23,0,18,14,23,Grădinița cu Program Normal nr. 2,Str. Alexandru Ioan Cuza nr. 2A,Moreni,44.9827,25.6421
+70,16,DÂMBOVIȚA,MUNICIPIUL MORENI,188,30,57,13,0,22,18,37,186,32,55,14,0,21,17,37,Club Flacăra nr. 2,Str. Flacăra nr. 22,Moreni,44.9846,25.6404
+71,16,DÂMBOVIȚA,MUNICIPIUL MORENI,168,12,66,8,1,10,6,11,165,12,65,7,2,11,7,11,Grădinița cu Program Normal Tisa,Fundătura Școlii nr. 1,Moreni,44.9995,25.6342
+72,16,DÂMBOVIȚA,MUNICIPIUL MORENI,272,61,91,21,0,26,23,44,267,60,91,25,1,26,19,40,Școala Gimnazială nr. 3,"Str. Victoriei nr. 56 , Sala nr.1 .",Moreni,44.9898,25.6429
+73,16,DÂMBOVIȚA,MUNICIPIUL MORENI,148,27,77,11,0,11,11,30,149,29,75,19,0,7,10,24,Școala Gimnazială nr. 3,"Str. Victoriei nr. 56 ,Sala nr.2",Moreni,44.9898,25.6429
+74,16,DÂMBOVIȚA,MUNICIPIUL MORENI,148,30,50,18,0,14,12,23,143,27,52,16,0,17,13,28,Școala Gimnazială nr. 3,"Str. Victoriei nr. 56,Sala nr.3",Moreni,44.9898,25.6429
+75,16,DÂMBOVIȚA,MUNICIPIUL MORENI,178,29,95,18,0,15,14,37,183,32,91,19,0,10,13,36,Școala Gimnazială nr. 3,"Str. Victoriei nr. 56,Sala nr.4",Moreni,44.9898,25.6429
+76,16,DÂMBOVIȚA,MUNICIPIUL MORENI,204,36,87,26,2,23,17,33,208,41,84,31,2,23,12,26,Școala Gimnazială nr. 3,"Str. Victoriei nr. 56,Sala nr.5",Moreni,44.9898,25.6429
+77,16,DÂMBOVIȚA,MUNICIPIUL MORENI,222,28,72,21,0,14,14,32,215,26,72,24,0,19,17,34,Școala Gimnazială nr. 4,"Str. Petrolului nr. 3,Sala nr.1",Moreni,44.9833,25.6454
+78,16,DÂMBOVIȚA,MUNICIPIUL MORENI,118,26,54,8,2,4,6,10,123,28,47,10,1,7,5,8,Școala Gimnazială nr. 4,"Str. Petrolului nr. 3,Sala nr.2",Moreni,44.9833,25.6454
+79,16,DÂMBOVIȚA,MUNICIPIUL MORENI,202,19,53,22,0,14,7,27,202,20,57,25,0,13,7,20,Școala Gimnazială nr. 4,"Str. Petrolului nr. 3,Sala nr.3",Moreni,44.9833,25.6454
+80,16,DÂMBOVIȚA,MUNICIPIUL MORENI,182,50,106,15,0,21,19,36,175,56,99,23,0,22,20,34,Școala Gimnazială nr. 4,"Str. Petrolului nr. 3,Sala nr.4",Moreni,44.9833,25.6454
+81,16,DÂMBOVIȚA,MUNICIPIUL MORENI,182,24,54,29,0,11,14,23,176,28,54,30,0,12,16,26,Școala Gimnazială nr. 4,"Str. Petrolului nr. 3,Sala nr.5",Moreni,44.9833,25.6454
+82,16,DÂMBOVIȚA,MUNICIPIUL MORENI,179,24,64,19,0,14,8,19,179,23,56,22,0,14,9,22,Sala de Sport,"Bulevardul Republicii nr. 15,Sala nr.1",Moreni,44.9814,25.648
+83,16,DÂMBOVIȚA,MUNICIPIUL MORENI,132,9,49,11,0,9,8,16,129,7,42,13,0,13,13,22,Sala de Sport,"Bulevardul Republicii nr. 15,Sala nr.2",Moreni,44.9814,25.648
+84,16,DÂMBOVIȚA,MUNICIPIUL MORENI,185,25,46,22,1,14,10,22,177,27,50,18,1,18,14,25,Liceul Teoretic „Ion Luca Caragiale”,Bulevardul 22 Decembrie (Str. V. I. Lenin) nr. 16,Moreni,44.9785,25.6464
+85,16,DÂMBOVIȚA,MUNICIPIUL MORENI,247,45,109,18,2,20,22,44,240,48,104,21,2,25,25,46,Liceul Tehnologic de Petrol,Bulevardul 22 Decembrie (Str. V. I. Lenin) nr. 40,Moreni,44.9739,25.6484
+302,16,DÂMBOVIȚA,MOROENI,364,16,93,24,1,7,7,23,360,14,94,26,2,6,8,26,Școala „Ion Cioranescu”,Str. Principală,Moroeni,45.2124,25.4373
+306,16,DÂMBOVIȚA,MORTENI,500,6,43,5,0,7,5,23,491,8,44,7,0,10,7,27,Grădinița Morteni Centru,,Morteni,44.662,25.2406
+312,16,DÂMBOVIȚA,NICULEŞTI,101,5,50,3,0,4,0,5,102,4,48,3,0,4,1,8,Școala cu Clasele I-IV Movila,,Movila,44.6711,25.9746
+308,16,DÂMBOVIȚA,MOŢĂIENI,235,27,233,18,2,19,17,45,236,28,224,17,2,17,17,54,Cămin Cultural Moțăieni,Str. Principală (D) nr. 136,Moțăieni,45.0998,25.4166
+305,16,DÂMBOVIȚA,MOROENI,30,1,3,2,0,1,2,6,28,0,4,2,0,1,4,8,Școala Muscel,,Mușcel,45.2253,25.4947
+144,16,DÂMBOVIȚA,BEZDEAD,135,4,119,9,0,2,4,12,131,6,124,6,0,2,4,12,Școala Măgura,Nr. 296,Măgura,45.1273,25.4699
+264,16,DÂMBOVIȚA,HULUBEŞTI,204,4,27,6,0,23,5,14,209,3,26,5,0,20,5,13,Grădinița cu Program Normal Măgura,,Măgura,44.8347,25.2337
+289,16,DÂMBOVIȚA,MĂNEŞTI,407,8,54,22,0,12,4,11,405,9,56,21,0,11,2,13,Școala Gimnazială Mănești,,Mănești,44.9651,25.2882
+176,16,DÂMBOVIȚA,COBIA,201,1,39,8,0,1,3,4,206,2,35,6,0,0,4,9,Școala Mănăstirea,,Mănăstirea,44.7732,25.3307
+228,16,DÂMBOVIȚA,DOBRA,541,9,54,53,0,15,12,29,535,12,54,53,0,16,14,31,Școala Învățător Iulian Rusu,,Mărcești,44.805,25.7074
+226,16,DÂMBOVIȚA,DĂRMĂNEŞTI,154,9,130,6,0,15,11,40,153,13,127,6,0,17,10,36,Școala Mărginenii de Sus,Nr. 22,Mărginenii de Sus,44.9278,25.7492
+292,16,DÂMBOVIȚA,MĂTĂSARU,258,3,53,6,0,6,3,6,258,3,52,6,0,7,4,11,Școala Generală Mătăsaru,Nr. 26,Mătăsaru,44.7054,25.4319
+307,16,DÂMBOVIȚA,MORTENI,500,5,70,10,1,13,10,19,497,4,63,9,1,16,10,23,Grădinița Morteni Centru,,Neajlovu,44.662,25.2406
+310,16,DÂMBOVIȚA,NICULEŞTI,379,4,46,5,0,6,1,6,372,5,46,5,0,5,2,9,Școala cu Clasele I-VIII Niculești,,Niculești,44.6829,25.9455
+311,16,DÂMBOVIȚA,NICULEŞTI,338,1,39,4,1,6,5,13,339,2,38,7,0,5,7,14,Școala cu Clasele I-VIII Niculești,,Niculești,44.6829,25.9455
+314,16,DÂMBOVIȚA,NUCET,380,5,37,13,0,15,6,22,381,6,39,15,0,15,7,16,Școala Gimnazială „Nucet”,Nr. 66,Nucet,44.7816,25.5445
+315,16,DÂMBOVIȚA,NUCET,355,4,42,14,0,8,11,24,359,5,41,17,0,8,11,25,Școala Gimnazială „Nucet”,Nr. 66,Nucet,44.7816,25.5445
+318,16,DÂMBOVIȚA,OCNIŢA,280,19,64,6,0,71,5,14,274,20,60,7,0,82,2,12,Grădinița cu Program Normal nr. 1 Ocnița,Str. Principală nr. 218,Ocnița,44.9886,25.5548
+319,16,DÂMBOVIȚA,OCNIŢA,272,19,57,13,0,81,15,38,270,22,55,11,0,84,17,36,Școala Gimnazială Ocnița,Str. Principală nr. 220,Ocnița,44.989,25.5541
+320,16,DÂMBOVIȚA,OCNIŢA,226,18,45,5,1,56,4,9,223,19,46,6,2,57,3,8,Gradinița cu Program Normal nr. 2 Fundu Ocnei,Str. Teilor nr. 37,Ocnița,44.9987,25.5522
+293,16,DÂMBOVIȚA,MĂTĂSARU,291,11,63,11,0,10,4,17,297,15,59,14,1,11,5,14,Școala Primară Odaia Turcului,Nr. 206,Odaia Turcului,44.6941,25.4559
+321,16,DÂMBOVIȚA,ODOBEŞTI,543,20,60,13,0,10,3,19,541,24,58,13,0,11,5,20,Școala Gimnazială Odobești,Nr. 214,Odobești,44.6102,25.5543
+278,16,DÂMBOVIȚA,LUCIENI,81,5,82,5,0,6,8,16,79,4,77,4,0,6,8,24,Școala Olteni,Nr. 178,Olteni,44.8475,25.3987
+423,16,DÂMBOVIȚA,VOINEŞTI,283,5,60,9,0,9,2,9,268,7,57,9,0,14,7,17,Grădinița de Copii,Str. Școlii nr. 92,Oncești,45.1053,25.2124
+326,16,DÂMBOVIȚA,PERŞINARI,275,7,42,2,1,14,4,16,281,6,43,3,1,11,3,14,Grădinița Perșinari,,Perșinari,44.8015,25.4984
+327,16,DÂMBOVIȚA,PERŞINARI,347,5,77,12,0,19,2,9,341,7,77,10,0,19,4,16,Grădinița Perșinari,,Perșinari,44.8015,25.4984
+196,16,DÂMBOVIȚA,CORBII MARI,385,5,48,6,0,2,7,16,377,5,50,8,0,3,7,16,Școala Gimnazială Petrești,Str. Petrescu nr. 2,Petrești,44.5527,25.452
+329,16,DÂMBOVIȚA,PETREŞTI,332,13,158,5,0,12,1,20,326,15,151,9,0,11,6,21,Școala Gimnazială Petrești,Nr. 335,Petrești,44.6537,25.3365
+234,16,DÂMBOVIȚA,DRAGODANA,335,19,84,13,0,27,7,22,320,21,87,13,0,31,7,27,Școala nr. 1 Picior de Munte - Paunei,Nr. 668,Picior de Munte,44.7792,25.385
+235,16,DÂMBOVIȚA,DRAGODANA,272,14,91,9,0,12,11,33,278,12,87,5,0,9,12,33,Școala nr. 2 Picior de Munte - Boboci,Nr. 444,Picior de Munte,44.7906,25.3936
+236,16,DÂMBOVIȚA,DRAGODANA,149,7,48,22,0,17,3,10,152,5,42,21,0,17,3,13,Școala nr. 2 Picior de Munte - Boboci,Nr. 444,Picior de Munte,44.7906,25.3936
+333,16,DÂMBOVIȚA,PIETRARI,448,12,107,37,1,33,6,22,448,12,100,38,0,30,7,31,Caminul Cultural Pietrari,Str. Calea Târgoviștei nr. 65,Pietrari,45.093,25.2894
+335,16,DÂMBOVIȚA,PIETROŞIŢA,283,22,59,19,0,6,8,27,276,23,60,18,0,11,9,31,Grădinița Pietroșița nr. 327 B,,Pietroșița,45.1865,25.4409
+336,16,DÂMBOVIȚA,PIETROŞIŢA,305,11,63,18,0,9,4,16,298,13,64,13,0,13,6,18,Grădinița Pietroșița nr. 327 B,,Pietroșița,45.1865,25.4409
+343,16,DÂMBOVIȚA,POTLOGI,212,8,40,3,0,4,8,18,212,9,37,3,0,5,6,19,Școala Pitaru,Nr. 8,Pitaru,44.5933,25.5823
+369,16,DÂMBOVIȚA,SĂLCIOARA,266,3,31,13,0,5,3,13,258,3,36,14,0,5,6,12,Școala Generală Podu-Rizii,Nr. 283,Podu Rizii,44.7093,25.5837
+338,16,DÂMBOVIȚA,POIANA,437,4,84,18,2,42,5,26,445,4,78,18,1,38,7,25,"Școala nr. 1 Poiana, Sat Poiana",Nr. 111A,Poiana,44.5663,25.6749
+339,16,DÂMBOVIȚA,POIANA,211,2,50,7,0,12,1,7,208,4,44,9,0,13,1,8,Școala nr. 1 Poiana,Nr. 111A,Poiana,44.5663,25.6749
+340,16,DÂMBOVIȚA,POIANA,242,1,45,9,0,10,6,17,247,1,46,8,0,8,8,22,Școala nr. 2 Poiana,Nr. 419A,Poiana,44.5576,25.6885
+295,16,DÂMBOVIȚA,MĂTĂSARU,165,1,36,2,0,23,12,20,165,1,39,3,0,27,10,16,Școala Generală Poroinica,Nr. 25,Poroinica,44.6659,25.448
+211,16,DÂMBOVIȚA,CORNEŞTI,123,11,41,23,1,8,6,14,119,12,39,22,1,9,7,19,Școala Primară „Grigore Stănescu” Postîrnacu,Nr. 249,Postârnacu,44.8037,25.8746
+332,16,DÂMBOVIȚA,PETREŞTI,45,2,44,2,0,5,0,1,45,4,43,2,0,3,0,1,Grădinița Potlogeni Deal,Nr. 29A,Potlogeni-Deal,44.7051,25.2567
+341,16,DÂMBOVIȚA,POTLOGI,355,9,59,9,0,25,12,26,352,9,61,9,0,26,13,29,Școala Potlogi,Nr. 64,Potlogi,44.5619,25.5885
+342,16,DÂMBOVIȚA,POTLOGI,286,2,46,25,0,31,7,19,273,6,46,27,0,37,9,21,Școala Potlogi,Nr. 64,Potlogi,44.5619,25.5885
+280,16,DÂMBOVIȚA,LUDEŞTI,272,0,42,13,2,30,1,11,278,1,45,15,1,31,2,11,Școala Primară Potocelu,Nr. FN,Potocelu,44.8969,25.2456
+390,16,DÂMBOVIȚA,TĂTĂRANI,395,3,45,10,1,7,1,19,389,2,48,10,1,8,3,20,Cămin Cultural,Nr. 186,Priboiu,45.0265,25.2606
+347,16,DÂMBOVIȚA,PRODULEŞTI,406,16,72,15,1,8,11,24,404,16,71,14,1,8,15,26,Cămin Cultural,Str. Vale nr. 623,Produlești,44.7077,25.5134
+303,16,DÂMBOVIȚA,MOROENI,149,13,32,36,0,6,6,16,145,14,30,38,0,4,8,17,Panait Petre,Str. Principală,Pucheni,45.2268,25.4321
+350,16,DÂMBOVIȚA,PUCHENI,348,10,101,13,0,123,8,35,336,16,108,12,0,127,8,26,Cămin Cultural,,Pucheni,45.1837,25.2753
+103,16,DÂMBOVIȚA,ORAŞ PUCIOASA,308,41,92,21,0,20,12,36,294,37,103,22,1,23,13,40,Școala Generală nr. 2 Pucioasa,Str. Ion Heliade Rădulescu (Str. Stejarul) nr. 125,Pucioasa,45.0889,25.4332
+105,16,DÂMBOVIȚA,ORAŞ PUCIOASA,265,57,90,26,1,21,13,39,256,46,109,24,0,22,15,42,Școala Gimnazială „Mihai Viteazul” Pucioasa,Str. Fîntînilor nr. 11,Pucioasa,45.0782,25.4314
+106,16,DÂMBOVIȚA,ORAŞ PUCIOASA,281,38,100,32,0,18,8,37,288,32,108,33,0,15,7,32,Școala Gimnazială „Mihai Viteazul” Pucioasa,Str. Fîntînilor nr. 11,Pucioasa,45.0782,25.4314
+107,16,DÂMBOVIȚA,ORAŞ PUCIOASA,244,39,80,25,0,12,6,27,244,37,81,25,0,13,5,29,Grădinița nr. 1 Pucioasa,Aleea Ardealului nr. 2A,Pucioasa,45.0773,25.4322
+108,16,DÂMBOVIȚA,ORAŞ PUCIOASA,310,46,117,30,1,21,9,47,295,52,118,28,0,24,8,45,Școala Gimnazială „Donici Elena Cantacuzino” Pucioasa,Str. Republicii nr. 123,Pucioasa,45.0724,25.436
+109,16,DÂMBOVIȚA,ORAŞ PUCIOASA,272,38,71,15,0,17,9,31,249,40,74,17,0,25,9,34,Colegiul Național „Nicolae Titulescu” Pucioasa,Bulevardul Trandafirilor nr. 9,Pucioasa,45.0697,25.4365
+110,16,DÂMBOVIȚA,ORAŞ PUCIOASA,250,25,89,32,0,26,10,37,244,24,101,28,0,24,9,37,Grădinița nr. 2 Pucioasa,Str. Florin Popescu - Campion Olimpic Sydnei 2000 (Str. Gării) nr. 23,Pucioasa,45.0697,25.4338
+111,16,DÂMBOVIȚA,ORAŞ PUCIOASA,294,20,66,9,3,17,8,25,289,21,66,9,3,16,8,26,Grădinița nr. 3 Pucioasa,Bulevardul Trandafirilor nr. 126,Pucioasa,45.0612,25.4377
+112,16,DÂMBOVIȚA,ORAŞ PUCIOASA,320,21,47,15,0,13,6,28,312,22,54,14,1,11,8,31,Școala Gimnazială nr. 3 Pucioasa,Bulevardul Trandafirilor nr. 139,Pucioasa,45.058,25.4389
+115,16,DÂMBOVIȚA,ORAŞ PUCIOASA,121,13,16,5,0,3,0,7,120,13,15,6,0,2,0,6,Școala Gimnazială Pucioasa-Sat,Nr. 56,Pucioasa-Sat,45.0612,25.4254
+328,16,DÂMBOVIȚA,PETREŞTI,195,5,95,5,0,10,9,16,195,5,89,5,0,7,15,23,Cămin Cultural,Nr. 53,Puntea de Greci,44.6482,25.3069
+296,16,DÂMBOVIȚA,MĂTĂSARU,192,3,51,3,1,20,7,27,190,7,44,2,1,24,11,29,Școala Primară Puțu cu Salcie,Nr. 77,Puțu cu Salcie,44.6549,25.4565
+222,16,DÂMBOVIȚA,CRÎNGURILE,232,6,189,5,0,7,4,17,235,6,184,6,0,7,4,17,Școala Gimnazială Pătroaia Vale,,Pătroaia Vale,44.7248,25.2252
+352,16,DÂMBOVIȚA,RACIU,383,13,93,15,1,31,8,28,375,11,100,20,0,29,7,26,Școala Gimnazială Raciu,Str. Principală nr. 109,Raciu,44.8181,25.4392
+162,16,DÂMBOVIȚA,BUCŞANI,233,9,39,8,1,3,14,28,228,13,37,8,0,4,13,24,Școala Generală Racovița,Str. Bisericii nr. 283,Racovița,44.8395,25.6185
+345,16,DÂMBOVIȚA,POTLOGI,277,0,28,7,2,3,3,13,279,0,26,7,2,3,6,22,Școala Românești,Nr. 70,Românești,44.5622,25.6263
+346,16,DÂMBOVIȚA,POTLOGI,301,4,34,12,1,8,8,24,314,4,33,13,1,8,6,16,Școala Românești,Nr. 70,Românești,44.5622,25.6263
+364,16,DÂMBOVIȚA,RUNCU,308,8,96,10,0,19,10,23,298,9,98,8,0,20,7,26,Grădinița cu Program Normal Runcu,Nr. 1,Runcu,45.1775,25.387
+365,16,DÂMBOVIȚA,RUNCU,287,21,38,11,0,5,1,13,288,19,36,9,1,6,1,15,Școala Gimnazială „Constantin Secăreanu” Runcu,Nr. 94,Runcu,45.1853,25.3801
+240,16,DÂMBOVIȚA,DRAGOMIREŞTI,241,6,38,8,1,8,7,31,235,6,34,9,0,10,7,34,Școala Gimnazială Rîncăciov-Dragomirești,Str. Punții nr. 3,Râncăciov,44.8857,25.3654
+241,16,DÂMBOVIȚA,DRAGOMIREŞTI,191,7,59,11,1,11,2,26,185,7,54,14,0,15,3,30,Școala Gimnazială Rîncăciov-Dragomirești,Str. Punții nr. 3,Râncăciov,44.8857,25.3654
+363,16,DÂMBOVIȚA,RÂU ALB,465,4,89,20,0,21,8,25,458,9,90,22,0,22,7,24,Căminul Cultural Râu Alb,Nr. 176,Râu Alb de Jos,45.1481,25.3406
+116,16,DÂMBOVIȚA,ORAŞ RĂCARI,213,18,164,18,0,6,7,15,203,18,164,16,0,7,8,22,Liceul Teoretic „Ion Ghica” Răcari,Str. Ana Ipătescu nr. 56,Răcari,44.6283,25.734
+117,16,DÂMBOVIȚA,ORAŞ RĂCARI,226,18,157,6,0,8,3,15,229,21,147,11,0,5,5,15,Liceul Teoretic „Ion Ghica” Racari,Str. Ana Ipătescu nr. 56,Răcari,44.6283,25.734
+355,16,DÂMBOVIȚA,RĂSCĂEŢI,478,2,25,5,0,4,5,23,483,2,29,5,0,4,3,15,Școala Primară Drăghineasca,Str. Săulescu nr. 27,Răscăeți,44.5935,25.2811
+356,16,DÂMBOVIȚA,RĂSCĂEŢI,597,7,49,3,1,9,0,7,594,6,51,4,0,8,1,6,Școala Gimnazială Răscăeți,Str. Mr. I. Vochin nr. 100,Răscăeți,44.5919,25.265
+357,16,DÂMBOVIȚA,RĂZVAD,484,31,82,25,0,45,26,50,474,38,91,26,0,38,28,48,Biblioteca Comunală,Str. Luncă nr. 2,Răzvad,44.9355,25.5334
+358,16,DÂMBOVIȚA,RĂZVAD,349,16,78,27,0,21,10,37,342,21,79,28,0,19,12,38,Școala Gimnazială Răzvad,Str. Dispensarului nr. 53,Răzvad,44.9371,25.5303
+359,16,DÂMBOVIȚA,RĂZVAD,338,20,76,22,0,27,13,31,340,25,72,25,0,22,11,30,Centrul Educativ Pentru Copii Săraci Răzvad,Str. Principală nr. 185,Răzvad,44.9388,25.5102
+163,16,DÂMBOVIȚA,BUCŞANI,128,2,94,4,0,2,1,5,121,3,91,3,0,3,2,10,Școala Generală Rățoaia,Str. Zimbrăriei nr. 146,Rățoaia,44.8479,25.6792
+219,16,DÂMBOVIȚA,CREVEDIA,296,40,64,19,2,35,3,17,289,37,64,16,3,35,6,25,Grădinița cu Program Normal,Str. Ernest Maftei nr. 147,Samurcași,44.5751,25.9179
+201,16,DÂMBOVIȚA,CORBII MARI,151,1,49,2,0,1,2,14,148,1,45,2,0,3,2,17,Școala Primară Satu Nou,Str. Dogarului nr. 2,Satu Nou,44.5969,25.4768
+281,16,DÂMBOVIȚA,LUDEŞTI,241,1,78,6,0,6,5,11,241,0,81,8,0,3,6,13,Școala Gimnazială Scheiu de Jos,Nr. FN,Scheiu de Jos,44.9326,25.1985
+282,16,DÂMBOVIȚA,LUDEŞTI,288,1,52,5,0,19,6,10,285,3,56,4,0,17,6,10,Școala Primară Scheiu de Sus,Nr. FN,Scheiu de Sus,44.9611,25.1958
+286,16,DÂMBOVIȚA,LUNGULEŢU,321,8,47,2,0,9,3,5,313,5,48,2,0,12,4,9,Școala Gimnazială Serdanu,Str. Alexandru Ioan Cuza nr. 18,Serdanu,44.6223,25.6265
+354,16,DÂMBOVIȚA,RACIU,290,3,38,8,0,6,6,13,283,3,37,7,0,8,5,17,Școala Primară Siliștea - Raciu,Str. Principală nr. 260,Siliștea,44.8004,25.454
+373,16,DÂMBOVIȚA,SLOBOZIA MOARĂ,388,8,39,7,1,5,2,8,386,8,40,7,0,6,2,9,Școala Gimnazială Slobozia Moară,Nr. 365,Slobozia Moară,44.599,25.7264
+374,16,DÂMBOVIȚA,SLOBOZIA MOARĂ,326,11,41,4,0,5,0,3,323,9,40,6,0,6,1,5,Școala Gimnazială Slobozia Moară,Nr. 365,Slobozia Moară,44.599,25.7264
+262,16,DÂMBOVIȚA,GURA ŞUŢII,413,10,59,12,1,23,7,16,404,9,56,13,2,24,9,24,Școala Gimnazială Speriețeni,,Speriețeni,44.7666,25.4524
+425,16,DÂMBOVIȚA,VOINEŞTI,462,11,35,17,0,14,5,22,450,18,38,16,0,15,4,26,Școala cu Clasele I-VIII,Str. Învățător Elena Drăghici nr. 150,Suduleni,45.0439,25.2828
+418,16,DÂMBOVIȚA,VIŞINEŞTI,85,5,15,10,0,1,3,8,85,4,13,11,0,1,4,9,Cămin Cultural Sultanu,Nr. 167,Sultanu,45.1073,25.5826
+122,16,DÂMBOVIȚA,ORAŞ RĂCARI,156,3,152,10,0,5,1,8,152,3,150,10,0,7,1,8,Grădinița Săbiești,Str. Școlii nr. 212,Săbiești,44.6775,25.7549
+258,16,DÂMBOVIȚA,GURA OCNIŢEI,372,25,115,49,0,57,28,56,378,29,114,45,0,54,29,56,Școala cu Clasele. I-VIII Săcueni,Str. Înv. Gh. Popescu nr. 98,Săcueni,44.9092,25.5715
+134,16,DÂMBOVIȚA,ANINOASA,394,11,88,12,2,14,9,30,395,16,87,10,1,15,13,33,Școala Gimnazială Aninoasa,Str. Popa Marin nr. 82,Săteni,44.9719,25.4164
+149,16,DÂMBOVIȚA,BRANIŞTEA,64,1,18,0,0,1,1,3,62,2,17,0,0,1,1,4,Clădirea Administrativă a Consiliului Local Braniștea,,Săvești,44.6908,25.62
+378,16,DÂMBOVIȚA,ŞOTÎNGA,202,16,78,7,0,15,13,27,203,16,67,8,0,19,11,29,Școala Gimnazială „Teiul Doamnei” - Corp B,Calea Târgoviștei nr. 261,Teiș,44.9592,25.4098
+379,16,DÂMBOVIȚA,ŞOTÎNGA,387,27,75,10,2,10,11,29,379,29,79,11,1,9,11,29,Cămin Cultural Teiș,Str. Teiul Doamnei nr. 54,Teiș,44.9587,25.4068
+279,16,DÂMBOVIȚA,LUDEŞTI,486,7,58,12,0,14,8,18,480,6,59,15,0,15,7,16,Școala Gimnazială Telești,Nr. FN,Telești,44.8804,25.235
+294,16,DÂMBOVIȚA,MĂTĂSARU,237,6,73,6,2,15,1,14,225,7,73,9,2,22,2,10,Grădinița Tețcoiu,Nr. 45,Tețcoiu,44.6798,25.4363
+123,16,DÂMBOVIȚA,ORAŞ TITU,275,6,174,10,2,11,8,20,277,5,172,16,2,10,7,17,Școala Gimnazială nr. 2 Titu,Str. Cuza Vodă nr. 131,Titu,44.6552,25.5355
+124,16,DÂMBOVIȚA,ORAŞ TITU,242,4,118,13,0,15,6,18,245,9,112,13,0,15,6,17,Școala Gimnazială nr. 2 Titu,Str. Cuza Vodă nr. 131,Titu,44.6552,25.5355
+125,16,DÂMBOVIȚA,ORAŞ TITU,231,7,197,6,2,9,12,27,231,6,190,9,2,9,14,28,Școala Sălcuța,Nr. 144,Titu,44.6403,25.5831
+126,16,DÂMBOVIȚA,ORAŞ TITU,341,30,220,30,0,28,17,39,361,30,197,31,0,30,22,43,Școala Gimnazială Pictor Nicolae Grigorescu,Str. Gării nr. 11,Titu,44.6613,25.574
+127,16,DÂMBOVIȚA,ORAŞ TITU,250,17,147,17,1,13,17,34,244,17,146,17,0,17,18,37,Liceul Teoretic Iancu C.Visarion,Nr. 49,Titu,44.659,25.5716
+128,16,DÂMBOVIȚA,ORAŞ TITU,272,23,164,14,0,23,12,34,279,28,145,13,0,26,13,40,Liceul Teoretic Iancu .C.Visarion,Nr. 49,Titu,44.659,25.5716
+129,16,DÂMBOVIȚA,ORAŞ TITU,267,39,153,19,0,23,10,33,267,34,154,19,0,31,13,29,Liceul Teoretic Iancu .C.Visarion,Nr. 49,Titu,44.659,25.5716
+215,16,DÂMBOVIȚA,COSTEŞTII DIN VALE,390,5,33,6,1,31,4,11,388,6,33,7,0,33,4,13,Școala Gimnazială Tomșani,,Tomșani,44.641,25.5032
+1,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,232,65,104,54,0,44,22,55,243,65,109,49,0,36,26,51,Casa Corpului Didactic,,Târgoviște,44.9357,25.4519
+2,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,325,97,126,34,1,54,29,64,324,106,128,40,1,38,32,63,Casa Corpului Didactic,,Târgoviște,44.9357,25.4519
+3,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,320,54,107,36,1,38,16,39,312,56,113,35,1,33,19,46,Grădinița nr. 2,,Târgoviște,44.9367,25.4504
+4,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,216,28,76,16,0,25,16,51,203,29,85,17,0,24,18,55,Școala „Radu Cel Mare”,,Târgoviște,44.9329,25.4481
+5,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,215,45,89,27,0,24,19,42,217,42,104,26,1,24,14,34,Școala „Radu Cel Mare”,,Târgoviște,44.9329,25.4481
+6,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,279,43,75,30,2,28,16,36,277,45,83,24,3,22,19,40,Școala „Radu Cel Mare”,,Târgoviște,44.9329,25.4481
+7,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,327,68,109,32,0,28,20,46,319,60,125,36,0,30,20,37,Școala „Radu Cel Mare”,,Târgoviște,44.9329,25.4481
+8,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,237,43,73,26,0,32,17,39,242,38,80,30,0,29,16,37,Liceul Tehnologic „Spiru Haret”,,Târgoviște,44.9288,25.4482
+9,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,167,33,54,23,0,24,16,35,168,36,50,22,0,26,21,35,Liceul Tehnologic „Spiru Haret”,,Târgoviște,44.9288,25.4482
+10,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,233,60,115,39,2,43,27,53,222,58,124,44,1,46,25,50,Liceul Tehnologic „Spiru Haret”,,Târgoviște,44.9288,25.4482
+11,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,231,46,85,20,0,38,17,38,228,45,91,23,0,34,19,40,Liceul de Arte „Bălașa Doamna”,,Târgoviște,44.9287,25.4515
+12,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,308,60,133,36,2,49,36,67,290,59,147,44,2,40,39,69,Liceul Teoretic „Petru Cercel”,,Târgoviște,44.9278,25.4484
+13,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,230,54,94,44,0,37,23,55,218,56,105,46,0,34,23,51,Colegiul Național „Constantin Carabella”,,Târgoviște,44.9293,25.4524
+14,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,179,41,73,25,1,30,18,39,184,39,82,21,0,20,26,43,Școala „Matei Basarab”,,Târgoviște,44.9302,25.4421
+15,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,149,45,90,37,0,26,21,46,152,48,96,36,0,19,23,40,Școala „Matei Basarab”,,Târgoviște,44.9302,25.4421
+16,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,242,60,106,24,1,48,22,67,239,59,118,20,0,47,26,65,Școala „Matei Basarab”,,Târgoviște,44.9302,25.4421
+17,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,249,33,76,29,0,29,16,45,241,33,87,31,0,24,16,42,Școala „Tudor Vladimirescu”,,Târgoviște,44.9255,25.4427
+18,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,225,47,71,38,0,27,20,34,219,48,78,39,0,32,16,28,Școala „Tudor Vladimirescu”,,Târgoviște,44.9255,25.4427
+19,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,136,22,54,18,0,28,13,33,138,24,55,22,0,24,11,28,Liceul Tehnologic „Constantin Brâncoveanu”,,Târgoviște,44.9218,25.4463
+20,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,161,19,30,15,0,16,7,18,163,16,36,16,1,9,9,19,Liceul Tehnologic „Constantin Brâncoveanu”,,Târgoviște,44.9218,25.4463
+21,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,291,35,95,36,0,42,12,35,284,38,102,38,2,34,15,39,Liceul Tehnologic „Constantin Brâncoveanu”,,Târgoviște,44.9218,25.4463
+22,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,131,19,40,18,0,14,9,30,129,19,43,21,1,15,9,24,Liceul Tehnologic „Constantin Brâncoveanu”,,Târgoviște,44.9218,25.4463
+23,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,121,15,29,19,0,7,6,14,118,15,31,18,0,9,6,15,Liceul Tehnologic „Constantin Brâncoveanu”,,Târgoviște,44.9218,25.4463
+24,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,313,44,99,21,1,28,17,47,324,44,98,23,1,24,17,42,Cantina de Ajutor Social,,Târgoviște,44.9269,25.4464
+25,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,224,43,84,35,0,17,10,33,223,43,83,36,0,19,12,31,Școala „Paul Banică”,,Târgoviște,44.9244,25.4456
+26,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,161,31,68,23,0,25,10,36,159,34,70,29,0,23,10,30,Școala „Paul Banică”,,Târgoviște,44.9244,25.4456
+27,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,193,44,85,30,0,27,26,43,188,43,90,36,0,27,24,39,Liceul Teoretic „Ion Heliade Rădulescu”,,Târgoviște,44.9208,25.4479
+28,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,230,63,78,23,0,40,20,54,233,65,76,24,0,38,23,51,Liceul Teoretic „Ion Heliade Rădulescu”,,Târgoviște,44.9208,25.4479
+29,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,156,44,91,42,1,35,21,44,156,51,99,34,0,34,19,38,"Birouri Primărie - Serviciul Taxe și Impozite, Bloc E4",,Târgoviște,44.9253,25.4568
+30,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,158,55,94,38,0,22,22,49,146,54,99,46,0,28,20,44,Birouri Primărie - Serviciul Taxe și Impozite (Punct Termic),,Târgoviște,44.9253,25.4563
+31,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,167,63,139,52,1,49,26,59,176,63,140,48,1,48,24,59,Birouri Primărie - Corp B (Sala Căsătorii),,Târgoviște,44.9274,25.4575
+32,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,213,77,109,46,1,48,16,35,222,76,114,46,0,33,17,36,Colegiul Economic „Ion Ghica”,,Târgoviște,44.9288,25.4639
+33,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,209,69,128,42,0,53,18,56,208,78,131,38,0,44,21,55,Colegiul Economic „Ion Ghica”,,Târgoviște,44.9288,25.4639
+34,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,235,94,177,50,2,52,36,88,238,91,183,56,1,45,40,87,Colegiul Național „Ienăchiță Văcărescu”,,Târgoviște,44.9275,25.4666
+35,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,223,57,106,39,0,39,20,39,208,56,111,31,0,46,24,48,Școala „Ion Alexandru Brătescu-Voinești”,,Târgoviște,44.9265,25.4676
+36,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,175,58,91,36,0,31,22,41,174,51,101,38,0,26,22,44,Școala „Ion Alexandru Brătescu-Voinești”,,Târgoviște,44.9265,25.4676
+37,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,131,4,35,8,3,11,11,29,127,10,35,10,1,15,14,23,Școala „Ion Alexandru Brătescu-Voinești”,,Târgoviște,44.9265,25.4676
+38,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,310,76,144,35,0,30,24,67,306,82,143,37,0,37,21,66,Liceul „Voievoul Mircea”,,Târgoviște,44.9175,25.4542
+39,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,297,49,120,27,0,52,10,40,298,45,122,33,0,38,18,52,Școala „Coresi”,,Târgoviște,44.9186,25.4577
+40,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,173,74,116,34,0,32,29,67,178,70,116,34,0,31,30,68,Liceul Tehnologic „Nicolae Mihăescu”,,Târgoviște,44.9147,25.4686
+41,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,218,51,108,19,3,31,14,39,205,51,126,19,1,34,18,38,Liceul Tehnologic „Nicolae Mihăescu”,,Târgoviște,44.9147,25.4686
+42,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,238,79,133,45,0,35,21,50,234,80,132,40,0,38,26,59,Liceul Tehnologic „Nicolae Mihăescu”,,Târgoviște,44.9147,25.4686
+43,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,246,39,92,21,0,32,16,46,233,41,94,24,0,32,17,48,Liceul Tehnologic „Nicolae Mihăescu”,,Târgoviște,44.9147,25.4686
+44,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,221,40,83,21,0,26,27,51,208,43,90,21,0,25,32,53,Liceul Tehnologic „Nicolae Mihăescu”,,Târgoviște,44.9147,25.4686
+45,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,214,29,76,22,2,17,18,44,208,32,79,23,2,20,21,40,Liceul Tehnologic „Nicolae Ciorănescu”,,Târgoviște,44.9204,25.4664
+46,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,260,45,120,41,0,60,20,65,250,48,133,40,0,62,26,57,Liceul Tehnologic „Nicolae Ciorănescu”,,Târgoviște,44.9204,25.4664
+47,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,198,29,71,16,1,22,13,31,193,30,75,17,1,20,15,37,Liceul Tehnologic „Nicolae Ciorănescu”,,Târgoviște,44.9204,25.4664
+48,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,171,18,75,21,0,22,16,38,174,17,69,23,1,22,19,39,Liceul Tehnologic „Nicolae Ciorănescu”,,Târgoviște,44.9204,25.4664
+49,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,264,39,81,45,1,31,16,44,265,47,77,40,1,33,19,45,Școala „Mihai Viteazul”,,Târgoviște,44.9198,25.4708
+50,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,226,31,102,19,0,26,18,49,221,35,103,16,0,28,22,49,Școala „Mihai Viteazul”,,Târgoviște,44.9198,25.4708
+51,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,208,21,57,17,1,12,11,36,202,22,60,16,1,15,14,37,Colegiul Național „Constantin Cantacuzino”,,Târgoviște,44.9169,25.4734
+52,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,289,55,113,29,1,32,21,46,283,55,116,34,1,26,22,44,Colegiul Național „Constantin Cantacuzino”,,Târgoviște,44.9169,25.4734
+53,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,143,16,44,17,0,16,10,20,142,18,47,17,0,13,11,20,Colegiul Național „Constantin Cantacuzino”,,Târgoviște,44.9169,25.4734
+54,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,149,21,52,22,0,9,9,26,145,22,50,25,0,12,8,24,Colegiul Național „Constantin Cantacuzino”,,Târgoviște,44.9169,25.4734
+55,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,227,25,84,22,0,21,26,56,237,26,73,21,0,26,22,48,Școala „Grigore Alexandrescu”,,Târgoviște,44.9173,25.476
+56,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,224,26,81,24,0,26,25,48,227,26,89,25,2,20,20,40,Școala „Grigore Alexandrescu”,,Târgoviște,44.9173,25.476
+57,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,170,24,40,15,0,20,16,28,160,25,44,16,0,19,19,30,Școala „Grigore Alexandrescu”,,Târgoviște,44.9173,25.476
+58,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,140,10,50,10,1,11,16,29,140,12,47,9,1,11,17,31,Școala „Grigore Alexandrescu”,,Târgoviște,44.9173,25.476
+59,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,273,81,111,38,0,46,16,47,267,79,117,39,0,45,18,48,Școala „Smaranda Gheorghiu”,,Târgoviște,44.9174,25.4802
+60,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,315,72,104,34,0,47,29,57,314,76,104,37,1,41,28,50,Școala „Smaranda Gheorghiu”,,Târgoviște,44.9174,25.4802
+61,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,203,58,100,33,2,28,19,62,204,63,106,30,1,29,22,54,Școala „Smaranda Gheorghiu”,,Târgoviște,44.9174,25.4802
+62,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,150,19,46,11,0,9,15,35,145,23,50,9,0,7,18,35,Școala „Smaranda Gheorghiu”,,Târgoviște,44.9174,25.4802
+63,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,205,16,26,9,0,12,9,29,205,16,29,8,1,12,8,23,Școala „Smaranda Gheorghiu”,,Târgoviște,44.9174,25.4802
+64,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,239,59,128,31,0,23,20,97,252,64,143,33,1,21,23,60,Căminul Cultural „Matei Voievod”,,Târgoviște,44.9154,25.4904
+65,16,DÂMBOVIȚA,MUNICIPIUL TÎRGOVIŞTE,194,10,77,19,3,24,11,28,193,14,81,21,3,16,10,30,Grădinița „Priseaca”,,Târgoviște,44.9187,25.404
+383,16,DÂMBOVIȚA,TĂRTĂŞEŞTI,238,17,43,15,1,8,4,13,241,20,40,16,1,8,4,9,Școala Gimnazială Tărtășești,Nr. 395,Tărtășești,44.5795,25.8113
+386,16,DÂMBOVIȚA,TĂRTĂŞEŞTI,247,87,62,24,2,17,6,23,241,86,69,22,2,18,7,24,Liceul Tehnologic Tărtășești,Nr. 110,Tărtășești,44.5675,25.8392
+387,16,DÂMBOVIȚA,TĂTĂRANI,353,7,74,23,1,12,9,15,344,7,72,26,0,15,9,17,Sala de Festivități a Primăriei Tătărani,Nr. 193,Tătărani,44.9981,25.276
+391,16,DÂMBOVIȚA,ULIEŞTI,257,2,166,18,1,3,6,25,249,6,172,19,2,3,7,21,Școala Gimnazială Uliești,Nr. 226,Uliești,44.5912,25.4223
+395,16,DÂMBOVIȚA,ULMI,230,25,172,27,0,12,13,20,229,27,175,22,0,16,10,18,Școala Gimnazială Ulmi,,Ulmi,44.8919,25.5041
+199,16,DÂMBOVIȚA,CORBII MARI,327,3,66,1,1,6,2,17,327,1,67,1,1,5,2,16,Grădinița cu Program Normal Ungureni,Str. Monumentului nr. 25,Ungureni,44.5766,25.5066
+200,16,DÂMBOVIȚA,CORBII MARI,225,7,44,10,2,9,4,28,225,8,48,10,1,7,4,25,Școala Gimnazială Ungureni,Str. Căminului nr. 3,Ungureni,44.5782,25.4977
+212,16,DÂMBOVIȚA,CORNEŞTI,176,2,139,8,0,6,2,6,170,3,140,7,0,7,1,9,Școala Primară Ungureni,Nr. 196,Ungureni,44.7873,25.9072
+242,16,DÂMBOVIȚA,DRAGOMIREŞTI,289,5,59,5,1,12,4,17,283,5,64,4,1,8,6,28,Școala Gimnazială Ungureni-Dragomirești,Str. Principală nr. 77,Ungureni,44.872,25.3886
+417,16,DÂMBOVIȚA,VIŞINEŞTI,216,7,35,6,0,5,10,20,224,4,31,9,2,3,9,18,Școala Urseiu,Nr. 394,Urseiu,45.1267,25.5586
+169,16,DÂMBOVIȚA,CIOCĂNEŞTI,475,6,45,22,1,11,6,22,474,8,44,24,3,11,9,22,Școala cu Clasele I-VIII Urziceanca,Str. Școlii nr. 379,Urziceanca,44.6326,25.8379
+195,16,DÂMBOVIȚA,CORBII MARI,136,0,12,4,0,5,1,7,136,1,12,4,0,4,1,9,Școala Primară Vadu Stanchii,Str. Str. Mare nr. 36,Vadu Stanchii,44.5287,25.4861
+334,16,DÂMBOVIȚA,PIETRARI,234,2,23,4,0,24,3,7,232,2,21,5,0,22,2,7,Școala Valea Dc138,Str. Gemenea nr. 87,Valea,45.0939,25.2611
+405,16,DÂMBOVIȚA,VALEA MARE,228,6,57,8,0,20,2,12,233,9,49,9,0,18,2,13,Grădinița cu Program Normal Valea Caselor,Nr. 568,Valea Caselor,44.7956,25.2441
+351,16,DÂMBOVIȚA,PUCHENI,56,0,29,4,0,5,1,5,55,0,29,4,0,5,1,5,Școala Valea Larga,,Valea Largă,45.1617,25.2578
+158,16,DÂMBOVIȚA,BUCIUMENI,293,5,26,20,0,2,2,8,288,4,26,22,0,2,2,15,Școala Primară și Grădinița cu Program Normal,Nr. 56,Valea Leurzii,45.1606,25.4809
+402,16,DÂMBOVIȚA,VALEA LUNGĂ,231,5,39,17,0,31,8,18,227,6,42,12,0,30,9,25,Școala Gimnazială Ion Haralmbie Valea Lungă Gorgota,,Valea Lungă Gorgota,45.0686,25.548
+401,16,DÂMBOVIȚA,VALEA LUNGĂ,251,15,48,21,0,18,15,33,258,18,49,22,0,14,14,29,Școala Primară Valea Lungă Ogrea,,Valea Lungă Ogrea,45.0642,25.579
+399,16,DÂMBOVIȚA,VALEA LUNGĂ,308,21,26,23,0,13,15,24,305,20,29,24,0,13,15,22,Școala Gimnazială Valea Lungă Cricov,,Valea Lungă-Cricov,45.0696,25.5784
+174,16,DÂMBOVIȚA,CÎNDEŞTI,84,0,5,0,0,1,1,2,83,0,6,0,0,1,1,2,Școala cu Clasele I-IV Valea Mare,,Valea Mare,45.0618,25.1551
+400,16,DÂMBOVIȚA,VALEA LUNGĂ,104,8,24,13,0,9,8,11,102,11,22,13,0,9,8,13,Școala Primară Valea Mare,,Valea Mare,45.0597,25.6032
+404,16,DÂMBOVIȚA,VALEA MARE,504,10,55,18,0,17,11,30,497,12,58,18,0,17,10,27,Școala Gimnazială Valea Mare,Nr. 118,Valea Mare,44.7797,25.2387
+360,16,DÂMBOVIȚA,RĂZVAD,338,73,106,35,2,45,22,57,336,71,103,32,3,46,25,61,Școala Gimnazială Valea Voievozilor,Str. Tudor Vladimirescu nr. 11,Valea Voievozilor,44.9342,25.4781
+361,16,DÂMBOVIȚA,RĂZVAD,249,39,130,63,3,26,22,38,246,38,139,59,1,28,23,38,Școala Gimnazială Valea Voievozilor,Str. Tudor Vladimirescu nr. 11,Valea Voievozilor,44.9342,25.4781
+132,16,DÂMBOVIȚA,ANINOASA,387,32,83,17,1,26,12,26,382,32,88,15,1,23,14,26,Școala Gimnazială Aninoasa,Str. Mihai Viteazul nr. 153,Viforâta,44.9623,25.4602
+133,16,DÂMBOVIȚA,ANINOASA,242,23,59,26,0,22,7,23,236,25,59,27,2,19,9,22,Școala Gimnazială Aninoasa,Str. Mihai Viteazul nr. 153,Viforâta,44.9623,25.4602
+397,16,DÂMBOVIȚA,ULMI,213,11,223,33,1,20,11,34,212,11,226,36,1,17,11,29,Școala Gimnazială Ion Constantinescu Viisoara,,Viișoara,44.8807,25.4264
+170,16,DÂMBOVIȚA,CIOCĂNEŞTI,356,3,28,16,0,5,0,5,345,2,29,14,1,2,0,9,Școala cu Clasele I-VIII Vizurești,Str. Smaranda Dumitru Roman nr. 167,Vizurești,44.645,25.8065
+413,16,DÂMBOVIȚA,VIŞINA,488,11,89,15,0,8,5,22,495,14,83,15,0,7,6,23,Cămin Cultural,Str. Mihai Viteazu nr. 95,Vișina,44.5892,25.3311
+414,16,DÂMBOVIȚA,VIŞINA,349,1,89,7,1,9,4,14,353,3,89,8,2,10,7,14,Grădinița nr. 1 Visina,Str. Mihai Viteazu nr. 27,Vișina,44.597,25.3334
+416,16,DÂMBOVIȚA,VIŞINEŞTI,277,12,63,13,0,12,4,10,277,11,61,16,0,12,6,12,Școala Gimnazială Vișinești,Nr. 385,Vișinești,45.111,25.5516
+420,16,DÂMBOVIȚA,VLĂDENI,265,18,65,17,0,21,5,14,258,18,60,21,0,24,6,19,Școala Gimnazială „Stan Ștefan”,Str. Principală nr. 719,Vlădeni,44.8751,25.772
+421,16,DÂMBOVIȚA,VLĂDENI,155,11,101,17,0,12,7,17,152,9,96,18,0,11,6,23,Cămin Cultural,Str. Principală nr. 718,Vlădeni,44.8753,25.7729
+344,16,DÂMBOVIȚA,POTLOGI,214,0,48,3,0,10,3,8,209,1,43,4,1,10,6,11,Școala Vlăsceni,Nr. 34,Vlăsceni,44.5828,25.5993
+223,16,DÂMBOVIȚA,CRÎNGURILE,39,0,143,0,0,0,1,4,36,0,146,0,0,0,2,3,Școala Primară Voia,,Voia,44.7459,25.2046
+424,16,DÂMBOVIȚA,VOINEŞTI,637,10,70,30,2,16,9,25,621,18,73,30,2,13,16,30,Școala cu Clasele I-VIII,Str. Poștei nr. 591,Voinești,45.0666,25.2502
+428,16,DÂMBOVIȚA,VULCANA-BĂI,252,20,75,39,0,28,4,21,246,13,74,47,0,30,6,20,Grădinița de Copii „Paradisul Copiilor”,Str. Tudor Vladimirescu nr. 38,Vulcana de Sus,45.0997,25.36
+427,16,DÂMBOVIȚA,VULCANA-BĂI,273,16,131,11,1,50,19,38,263,17,140,10,1,57,18,36,Grădinița de Copii „Albă Ca Zăpada”,Str. Vlad Țepeș nr. 2,Vulcana-Băi,45.0791,25.3817
+429,16,DÂMBOVIȚA,VULCANA-PANDELE,370,21,98,14,0,23,7,31,361,20,108,14,0,20,9,35,Căminul Cultural „Izvor de Apă Vie”,Str. Principală nr. 9,Vulcana-Pandele,45.0204,25.3984
+430,16,DÂMBOVIȚA,VULCANA-PANDELE,213,12,46,13,1,4,9,22,213,11,48,15,1,4,6,22,Școala Gimnazială Vulcana-Pandele,Str. Bisericii nr. 1,Vulcana-Pandele,45.0178,25.3978
+406,16,DÂMBOVIȚA,VĂCĂREŞTI,357,17,96,18,0,10,9,26,349,19,102,13,0,16,8,23,Școala Gimnazială „Iancu Văcărescu” - Văcărești,Str. Principală,Văcărești,44.8528,25.4904
+407,16,DÂMBOVIȚA,VĂCĂREŞTI,248,14,73,17,2,11,11,21,246,17,76,19,2,7,11,21,Școala Gimnazială „Iancu Văcărescu” - Văcărești,Str. Principală,Văcărești,44.8528,25.4904
+410,16,DÂMBOVIȚA,VĂLENI-DÎMBOVIŢA,225,6,54,17,0,8,5,12,225,7,57,17,0,4,7,14,"Școala Generală Valeni Dimbovita, Parter Sala a Doua",,Văleni-Dâmbovița,45.1648,25.1744
+411,16,DÂMBOVIȚA,VĂLENI-DÎMBOVIŢA,288,6,41,15,2,16,1,5,282,7,43,14,1,14,2,7,"Școala Generală Valeni Dimbovita, Parter Sala Patru",,Văleni-Dâmbovița,45.1648,25.1744
+325,16,DÂMBOVIȚA,ODOBEŞTI,276,12,26,2,0,2,10,24,267,11,28,2,0,4,12,25,Școala Primară Zidurile,Nr. 233 B,Zidurile,44.5806,25.5573
+300,16,DÂMBOVIȚA,MOGOŞANI,165,7,185,3,0,53,3,10,146,5,166,4,0,89,4,11,Școala Zăvoiu,,Zăvoiu,44.6592,25.402
+375,16,DÂMBOVIȚA,ŞELARU,229,6,42,4,0,7,3,15,229,7,42,4,1,5,5,17,Școala Gimnazială Șelaru,Nr. 163,Șelaru,44.4771,25.3012
+380,16,DÂMBOVIȚA,ŞOTÎNGA,505,24,44,6,4,20,7,28,494,27,46,6,3,21,9,30,Școala Gimnazială „Profesor Ilie Popescu”,Str. Constantin Brâncoveanu (Str. Constantin Brîncoveanu) nr. 269,Șotânga,44.9819,25.3876
+381,16,DÂMBOVIȚA,ŞOTÎNGA,366,19,53,12,1,7,10,35,352,17,58,13,1,8,16,45,Cămin Cultural Șotânga,Str. Preot Abramescu nr. 4,Șotânga,44.9849,25.3852
+382,16,DÂMBOVIȚA,ŞOTÎNGA,334,7,24,13,0,8,5,22,333,9,22,12,0,8,7,25,Școala Gimnazială nr. 2,Calea Pucioasei nr. 40,Șotânga,44.9995,25.3826
+403,16,DÂMBOVIȚA,VALEA LUNGĂ,92,3,5,3,0,10,2,7,84,2,6,3,0,13,4,12,Gradinița cu Program Normal Ștubeie Tisa,,Ștubeie Tisa,45.067,25.5237
+419,16,DÂMBOVIȚA,VÎRFURI,232,13,94,35,1,31,16,27,235,19,96,31,1,33,16,24,Căminul Cultural,Nr. 136,Șuvița,45.0861,25.5036
+353,16,DÂMBOVIȚA,RACIU,246,8,45,11,0,18,9,18,243,10,46,11,0,17,11,19,Școala Gimnazială Șuța Seacă - Raciu,Str. Principală nr. 309,Șuța Seacă,44.8311,25.3995

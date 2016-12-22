@@ -1,0 +1,521 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+194,3,ARGEȘ,ALBEŞTII DE MUSCEL,155,11,52,62,0,36,8,18,161,14,51,65,0,29,10,20,"Școala Gimnazială nr. 1 Albeștii de Muscel, Strada Magistrat Sorin Moisescu nr. 360",,Albești,45.3113,25.0023
+189,3,ARGEȘ,ALBEŞTII DE ARGEŞ,304,24,173,25,0,41,22,51,301,27,175,30,0,52,22,43,Casa de Cultură Albeștii de Argeș,,Albeștii Pamânteni,45.2116,24.6641
+190,3,ARGEȘ,ALBEŞTII DE ARGEŞ,200,20,140,25,0,29,9,26,201,20,131,33,0,24,8,25,Școala Primară Albeștii -Ungureni,,Albeștii Ungureni,45.2284,24.6622
+191,3,ARGEȘ,ALBEŞTII DE ARGEŞ,128,11,137,5,0,12,11,17,126,15,131,7,0,12,10,16,Școala Primară Albeștii-Ungureni,,Albeștii Ungureni,45.2284,24.6622
+196,3,ARGEȘ,ALBOTA,420,43,77,51,0,29,20,67,425,48,80,49,0,27,18,60,Școala Gimnazială „Sanda Movilă” Albota,,Albota,44.7825,24.8499
+199,3,ARGEȘ,ANINOASA,312,12,31,46,0,26,26,84,366,11,36,49,0,27,28,48,"Școala Gimnazială Broșteni - Aninoasa, Corp B",,Aninoasa,45.1907,24.9249
+202,3,ARGEȘ,AREFU,257,15,40,14,0,12,5,23,251,17,43,16,0,10,6,21,Căminul Cultural Arefu,,Arefu,45.3287,24.6061
+373,3,ARGEȘ,MĂRĂCINENI,441,48,53,23,0,26,12,48,446,46,49,32,0,19,10,39,Școala Generală Argeșelu,,Argeșelu,44.9159,24.8676
+204,3,ARGEȘ,BASCOV,293,68,80,36,0,38,16,43,289,61,84,47,0,37,19,37,Grădinița nr. 1 Bascov,,Bascov,44.8927,24.8224
+205,3,ARGEȘ,BASCOV,430,78,97,36,5,59,18,62,431,70,93,58,5,59,17,49,"Școala Generală Bascov, Clădirea Veche",,Bascov,44.8924,24.8205
+206,3,ARGEȘ,BASCOV,282,38,67,35,1,50,17,51,268,41,74,41,1,50,18,47,"Școala Generală Bascov, Clădirea Nouă",,Bascov,44.8924,24.8205
+318,3,ARGEȘ,COTMEANA,112,2,16,6,1,6,3,12,111,5,15,7,1,8,4,8,Școala Bascovele,,Bascovele,45.011,24.6417
+224,3,ARGEȘ,BELEŢI-NEGREŞTI,126,7,25,18,1,29,5,20,128,7,25,21,1,32,9,14,Cămin Cultural Beleți,,Beleți,44.9092,25.0857
+226,3,ARGEȘ,BEREVOEŞTI,471,18,51,15,1,18,35,51,473,17,49,17,2,19,32,43,Cămin Cultural Berevoești-Pămînteni,,Berevoești,45.1899,24.9715
+307,3,ARGEȘ,CORBENI,91,11,37,11,0,15,1,18,84,11,35,16,0,17,2,17,Școala Primară Berindești,,Berindești,45.3215,24.6626
+508,3,ARGEȘ,VALEA MARE PRAVĂŢ,141,7,38,19,0,14,6,18,145,9,31,24,0,13,4,13,Școala Bilcești,,Bilcești,45.2682,25.1087
+234,3,ARGEȘ,BOGAŢI,308,14,27,13,1,60,17,35,303,15,24,12,0,68,21,39,Școala Bogați,,Bogați,44.8678,25.1325
+375,3,ARGEȘ,MERIŞANI,139,7,24,7,0,4,1,5,136,8,25,7,0,4,1,9,Școala Generală Borlești,,Borlești,44.9477,24.7624
+503,3,ARGEȘ,VALEA IAŞULUI,59,5,18,2,0,7,2,6,59,6,20,2,0,7,1,5,Grădinița Borovinești,,Borovinești,45.201,24.7064
+240,3,ARGEȘ,BOTENI,472,14,125,117,0,39,7,28,475,15,122,108,1,33,9,34,Cămin Cultural Boteni,,Boteni,45.1755,25.1258
+242,3,ARGEȘ,BOŢEŞTI,155,12,65,19,0,16,0,20,151,13,72,19,0,20,1,16,Căminul Cultural Boțești,,Boțești,45.0115,25.1361
+243,3,ARGEȘ,BOŢEŞTI,57,3,30,16,0,3,3,7,55,4,28,16,0,6,3,6,Școala Primară Moșteni-Greci,,Boțești,45.0038,25.1557
+244,3,ARGEȘ,BRADU,176,29,32,68,0,33,9,24,181,29,36,61,0,33,14,22,Căminul Cultural Bradu,Str. Principală nr. 302,Bradu,44.8001,24.8973
+245,3,ARGEȘ,BRADU,163,7,14,85,1,21,12,21,167,7,14,81,1,20,8,19,Școala Primară „Mihai Eminescu”,Str. Buna Vestire (Str. Bisericii Buna-Vestire) nr. 75,Bradu,44.798,24.9064
+246,3,ARGEȘ,BRADU,397,17,20,277,4,44,11,39,402,4,26,259,2,53,12,46,Grădinița „Scufița Roșie”,Str. Școlii nr. 3,Bradu,44.7822,24.8935
+228,3,ARGEȘ,BEREVOEŞTI,66,1,4,2,0,2,0,5,69,1,4,3,0,1,0,3,Școala Bratia,,Bratia,45.2733,24.946
+295,3,ARGEȘ,CIOMĂGEŞTI,116,5,58,4,0,5,5,9,115,4,55,7,0,5,5,12,Școala Gimnazială Brătia,,Bratia,44.8765,24.4977
+141,3,ARGEȘ,ORAŞ COSTEŞTI,140,8,26,8,0,26,3,9,142,10,27,6,0,27,2,5,Școala Generală Broșteni,,Broșteni,44.7134,24.878
+251,3,ARGEȘ,BRĂDULEŢ,116,6,19,23,0,17,16,33,115,4,20,20,0,19,16,34,Școala Primară Brădetu,,Brădetu,45.3105,24.761
+249,3,ARGEȘ,BRĂDULEŢ,118,2,29,35,0,6,7,21,119,2,27,33,0,8,9,21,Cămin Cultural Brăduleț,,Brăduleț,45.2796,24.781
+192,3,ARGEȘ,ALBEŞTII DE ARGEŞ,161,8,49,8,0,6,0,7,152,8,49,8,0,6,0,11,Școala Primară Brătești,,Brătești,45.2254,24.7069
+489,3,ARGEȘ,ŢIŢEŞTI,217,10,60,56,0,9,14,33,220,10,56,62,0,12,14,28,Primăria Comunei Țițești,,Bucșenești-Lotași,45.0048,24.9689
+252,3,ARGEȘ,BUDEASA,226,23,30,24,1,21,14,36,229,21,36,24,1,23,14,31,Școala Generală Budeasa Mare,,Budeasa Mare,44.9208,24.8313
+253,3,ARGEȘ,BUDEASA,219,7,35,8,2,14,3,20,213,7,39,12,2,18,3,11,Școala Generală Budeasa Mică,,Budeasa Mică,44.9164,24.8517
+353,3,ARGEȘ,LEORDENI,235,6,20,10,0,13,6,21,232,6,21,12,0,13,9,24,Cămin Cultural Budișteni,,Budișteni,44.8086,25.1543
+256,3,ARGEȘ,BUGHEA DE JOS,271,15,86,35,1,27,14,34,263,19,84,38,1,32,10,31,Școala Gimnazială Bughea de Jos,,Bughea de Jos,45.2756,25.0024
+257,3,ARGEȘ,BUGHEA DE JOS,207,1,18,8,0,1,0,15,210,2,13,14,0,4,0,16,Școala Primară Mlaci,,Bughea de Jos,45.2815,24.9749
+258,3,ARGEȘ,BUGHEA DE JOS,116,8,11,22,0,6,4,13,121,8,10,18,0,10,5,11,Școala Primară Hulubesti,,Bughea de Jos,45.2612,25.0025
+259,3,ARGEȘ,BUGHEA DE SUS,298,11,290,16,2,24,7,64,298,12,326,21,2,21,1,27,Școala Gimnazială nr. 1 Bughea de Sus,,Bughea de Sus,45.2978,25.0322
+260,3,ARGEȘ,BUGHEA DE SUS,146,10,150,11,0,8,6,14,141,9,146,11,1,8,8,18,Grădinița Grui,,Bughea de Sus,45.2849,25.0245
+237,3,ARGEȘ,BOGAŢI,132,6,10,13,0,20,4,8,126,6,11,14,0,23,4,8,Grădinița Bujoi,,Bujoi,44.8882,25.1375
+369,3,ARGEȘ,MĂLURENI,114,1,24,13,0,13,7,10,118,1,24,14,0,10,7,10,Școala Bunești,,Bunești,45.0155,24.7539
+269,3,ARGEȘ,CĂLDĂRARU,147,2,13,20,0,13,2,10,145,2,16,18,0,15,2,9,Școala Primară „Înv.Constantin Mihalcea” Burdea,,Burdea,44.4148,24.9446
+294,3,ARGEȘ,CIOFRINGENI,136,7,22,12,0,2,2,14,131,7,21,13,0,3,2,18,Cămin Cultural Burluși,,Burluși,45.1145,24.5303
+407,3,ARGEȘ,NEGRAŞI,55,2,11,14,0,2,0,2,56,3,10,10,1,3,2,7,Școala Buta,,Buta,44.6256,25.1155
+266,3,ARGEȘ,BUZOEŞTI,203,6,18,22,1,6,14,35,194,7,20,25,1,14,10,27,Școala Gimnazială Buzoești,,Buzoești,44.583,24.912
+231,3,ARGEȘ,BÎRLA,141,3,56,15,0,22,2,12,123,4,58,16,0,29,5,16,Școala Bîrla,,Bârla,44.435,24.7831
+405,3,ARGEȘ,NEGRAŞI,191,3,22,36,0,11,0,14,189,3,23,38,0,11,2,8,Grădinița Bîrlogu,,Bârlogu,44.6266,25.0785
+487,3,ARGEȘ,TIGVENI,243,3,50,9,2,3,15,29,242,3,51,11,1,4,15,31,Școala cu Clasele I-IV Bîrseștii de Jos,,Bârseștii de Jos,45.1708,24.5614
+519,3,ARGEȘ,VULTUREŞTI,163,5,25,14,1,9,0,14,156,5,22,13,2,8,0,24,Căminul Cultural Bârzești,Nr. 292,Bârzești,45.0467,25.0783
+211,3,ARGEȘ,BĂBANA,186,9,21,14,0,8,6,23,191,10,19,11,0,8,5,24,Școala Băbana,,Băbana,44.8834,24.7053
+213,3,ARGEȘ,BĂBANA,220,5,17,31,0,17,7,23,228,4,22,29,0,13,4,17,Biblioteca Comunală,,Băbana,44.8693,24.7084
+469,3,ARGEȘ,STOENEŞTI,262,7,51,37,0,17,6,26,258,10,42,39,0,16,7,27,Cămin Cultural Bădeni,,Bădeni,45.2387,25.1792
+233,3,ARGEȘ,BÎRLA,35,1,30,8,1,7,0,2,34,3,30,7,1,7,0,3,Școala Bădești,,Bădești,44.3941,24.7632
+414,3,ARGEȘ,PIETROŞANI,349,21,27,16,0,5,15,43,354,22,24,21,0,9,15,38,Cămin Cultural Bădești,,Bădești,45.1715,24.8588
+215,3,ARGEȘ,BĂICULEŞTI,296,18,54,16,0,26,16,26,296,20,60,12,1,25,16,22,Primăria Băiculești,,Băiculești,45.0518,24.6983
+221,3,ARGEȘ,BĂLILEŞTI,240,4,40,37,0,15,9,21,229,8,39,47,0,14,9,20,Cămin Cultural Băjești,,Băjești,45.0264,24.9409
+220,3,ARGEȘ,BĂLILEŞTI,243,12,22,10,0,13,6,36,236,14,28,13,1,15,7,31,Cămin Cultural Bălilești,,Bălilești,45.0635,24.9401
+457,3,ARGEȘ,SĂPATA,109,2,15,11,0,3,1,11,106,2,16,12,0,8,1,6,Școala Gimnazială Dumitru Udrescu Săpata,"Nr. -, Bloc -",Bănărești,44.7214,24.7561
+302,3,ARGEȘ,COCU,140,2,7,3,1,2,3,9,136,2,5,4,0,3,6,12,Școală Primară Bărbătești,,Bărbătești,44.9074,24.6318
+255,3,ARGEȘ,BUDEASA,230,14,17,12,1,15,2,13,236,17,17,9,1,14,3,11,Școala Generală Calotești,,Calotești,44.9789,24.761
+283,3,ARGEȘ,CĂTEASCA,168,17,32,15,0,51,5,22,165,21,30,19,0,53,9,17,Căminul Cultural Cătanele,,Catanele,44.8017,24.9925
+284,3,ARGEȘ,CEPARI,158,11,20,8,0,8,9,19,154,11,20,11,0,9,11,19,Căminul Cultural Cepari,,Ceparii Pământeni,45.2081,24.5526
+287,3,ARGEȘ,CEPARI,56,3,28,8,0,2,5,9,61,3,28,6,0,1,3,10,Școala Cepari - Ungureni,,Ceparii Ungureni,45.1915,24.5452
+198,3,ARGEȘ,ALBOTA,258,4,21,15,0,7,4,8,247,4,22,16,1,13,5,8,Școala Primară Cerbu,,Cerbu,44.7578,24.82
+505,3,ARGEȘ,VALEA IAŞULUI,59,2,40,7,0,4,8,14,60,1,42,5,0,4,8,15,Grădinița Cerbureni,,Cerbureni,45.2004,24.693
+474,3,ARGEȘ,SUSENI,125,10,51,3,0,6,11,30,132,11,56,3,0,7,7,21,Școala Primară Ioan Rizescu,,Cerșani,44.726,24.9353
+288,3,ARGEȘ,CETĂŢENI,224,21,35,14,0,14,8,21,231,19,35,15,0,11,5,15,Cămin Cultural Cetățeni,,Cetățeni,45.1924,25.2115
+236,3,ARGEȘ,BOGAŢI,56,0,9,4,0,10,3,9,56,0,10,4,0,15,3,8,Școala Chițești,,Chițești,44.8546,25.1332
+291,3,ARGEȘ,CICĂNEŞTI,628,31,71,55,0,23,21,50,626,30,72,53,0,24,19,53,Școala Gimnazială Cicănești,,Cicănești,45.2463,24.6057
+329,3,ARGEȘ,DÎMBOVICIOARA,25,0,12,2,0,4,0,1,25,1,11,1,0,4,1,2,Școala Ciocanu,,Ciocanu,45.4569,25.2392
+273,3,ARGEȘ,CĂLINEŞTI,137,18,36,31,0,11,7,17,142,17,31,36,0,10,7,13,Școala Ciocanesti,,Ciocănești,44.8508,24.966
+396,3,ARGEȘ,MOŞOAIA,128,3,31,14,1,5,3,21,126,6,30,13,1,8,2,16,Școala cu Clasele I-IV Ciocănăi,,Ciocănăi,44.8446,24.7832
+292,3,ARGEȘ,CIOFRINGENI,354,15,68,21,0,11,6,22,355,18,68,28,0,10,2,15,Cămin Cultural Ciofrîngeni,,Ciofrângeni,45.0984,24.5397
+296,3,ARGEȘ,CIOMĂGEŞTI,68,2,111,8,0,12,0,2,68,0,113,8,0,12,2,6,Școala cu Clasele I-IV Ciomăgești-Sat,,Ciomăgești,44.8418,24.4516
+282,3,ARGEȘ,CĂTEASCA,133,2,13,19,0,20,4,12,131,5,10,21,0,21,4,12,Cămin Cultural Cireșu,,Cireșu,44.7546,25.0365
+355,3,ARGEȘ,LEORDENI,233,5,23,21,0,11,15,31,229,5,26,21,0,12,16,31,Școala Ciulnița,,Ciulnița,44.7875,25.1466
+166,3,ARGEȘ,ORAŞ MIOVENI,122,3,9,5,0,1,3,9,120,2,6,9,0,1,5,10,Fostul Sediu al Școlii Clucereasa,Str. Gării,Clucereasa,44.9808,24.9425
+298,3,ARGEȘ,COCU,110,2,17,14,0,11,8,14,109,3,19,12,0,12,9,10,Școală Gimnazială nr. 1 Cocu,,Cocu,44.8527,24.6572
+164,3,ARGEȘ,ORAŞ MIOVENI,362,37,55,23,1,33,12,45,369,40,56,29,1,32,16,35,Școala Gimnazială Colibași,Str. Colibași,Colibași,44.9361,24.907
+165,3,ARGEȘ,ORAŞ MIOVENI,204,13,30,13,1,8,6,21,199,13,27,18,0,10,8,20,Căminul Cultural Colibași,Str. Colibași,Colibași,44.9341,24.9071
+498,3,ARGEȘ,UNGHENI,357,4,13,9,0,5,1,7,349,5,14,8,0,5,4,12,Școala Colțu,,Colțu,44.4935,24.9296
+325,3,ARGEȘ,DAVIDEŞTI,147,7,28,17,0,10,7,13,150,7,26,20,0,11,7,11,Școala Conțești nr. 1,,Conțești,44.9848,25.0091
+326,3,ARGEȘ,DAVIDEŞTI,250,2,9,6,0,4,3,6,251,1,8,6,0,4,3,8,Școala Olteanca,,Conțești,44.9759,24.9914
+305,3,ARGEȘ,CORBENI,92,3,16,12,0,6,2,10,93,3,18,15,0,4,3,10,Grădinița nr. 1 Corbeni,,Corbeni,45.3039,24.6539
+306,3,ARGEȘ,CORBENI,262,24,56,47,0,11,21,43,258,26,57,50,0,8,20,40,Școala Gimnazială nr. 1 Corbeni,,Corbeni,45.3053,24.6525
+308,3,ARGEȘ,CORBI,337,20,68,91,0,163,15,44,333,21,67,98,0,153,17,45,Cămin Cultural Corbi,,Corbi,45.2823,24.8034
+309,3,ARGEȘ,CORBI,124,12,44,21,0,175,6,16,125,13,44,24,0,174,8,17,Cămin Cultural Corbșori,,Corbșori,45.2529,24.8224
+265,3,ARGEȘ,BUZOEŞTI,154,6,20,10,0,19,7,19,149,7,25,10,0,22,8,17,Școala Gimnazială Cornățel,,Cornățel,44.5784,24.949
+136,3,ARGEȘ,ORAŞ COSTEŞTI,342,21,134,37,1,45,26,95,339,24,164,39,1,53,25,53,Primăria Orașului Costești,Str. Victoriei nr. 49,Costești,44.6692,24.8806
+137,3,ARGEȘ,ORAŞ COSTEŞTI,339,30,138,47,1,44,12,74,335,33,162,55,2,61,12,25,Casa de Cultură Costești,Str. Victoriei nr. 44,Costești,44.669,24.879
+138,3,ARGEȘ,ORAŞ COSTEŞTI,332,12,119,34,1,24,9,67,338,14,137,33,1,26,20,42,Liceul Teoretic Costești,Str. Victoriei nr. 105,Costești,44.6631,24.8768
+139,3,ARGEȘ,ORAŞ COSTEŞTI,161,3,57,10,2,7,5,30,157,5,69,11,2,8,3,14,Școala Telești,Str. Telești nr. 116,Costești,44.686,24.8817
+140,3,ARGEȘ,ORAŞ COSTEŞTI,152,2,71,10,0,20,4,24,150,3,78,9,0,24,4,12,Școala Generală Zorile,Str. Zorilor nr. 92,Costești,44.6706,24.8587
+402,3,ARGEȘ,MUŞĂTEŞTI,161,0,22,4,0,9,8,17,158,1,24,3,0,10,9,16,Școala Generală Costești - Vîlsan,,Costești-Vâslan,45.1497,24.7698
+343,3,ARGEȘ,GODENI,389,8,45,24,1,20,12,35,401,11,44,19,0,18,8,26,Școala Gimnazială Cotești-Godeni nr. 198,Nr. 198,Cotești,45.19,24.9717
+316,3,ARGEȘ,COTMEANA,226,15,16,7,1,8,7,22,227,12,18,11,2,5,9,16,Centru de Informare Turistică Cotmeana,,Cotmeana,44.9626,24.6193
+494,3,ARGEȘ,UDA,78,2,21,2,0,8,4,10,74,3,22,3,0,6,6,14,Școala Cotu,,Cotu,44.9049,24.585
+356,3,ARGEȘ,LEORDENI,125,3,12,4,0,1,1,4,126,2,13,2,0,1,2,4,Școala Cotu Malului,,Cotu Malului,44.7514,25.1914
+312,3,ARGEȘ,COŞEŞTI,135,1,22,12,0,43,8,23,131,1,24,19,0,43,8,16,Cămin Cultural Coșești,,Coșești,45.0611,24.8725
+299,3,ARGEȘ,COCU,90,2,11,5,0,1,2,6,87,3,11,7,0,2,2,5,Școală Primară Crucișoara,,Crucișoara,44.8235,24.6602
+319,3,ARGEȘ,CUCA,134,3,18,15,0,5,3,10,133,4,16,16,0,6,4,13,Școala Gimnazială „Mircea Ghițulescu” Cuca,,Cuca,44.9643,24.511
+116,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,337,41,79,46,0,27,23,51,331,43,80,52,0,22,24,55,Școala Gimnazială nr. 2 „Regina Maria” (I),,Curtea de Argeș,45.1626,24.6727
+117,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,238,57,67,30,1,25,19,52,232,60,66,31,1,35,12,41,Școala Gimnazială nr. 2 „Regina Maria” (Ii),,Curtea de Argeș,45.1626,24.6727
+118,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,392,61,92,56,1,37,31,65,379,61,86,74,1,45,24,57,Școala Gimnazială nr. 2 „Regina Maria” (Iii),,Curtea de Argeș,45.1626,24.6727
+119,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,316,41,77,40,1,24,24,52,310,38,79,45,1,29,23,47,Grup Școlar „Ferdinand I”,,Curtea de Argeș,45.1726,24.6704
+120,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,328,36,51,19,3,31,17,38,329,35,49,22,3,26,20,42,Grup Școlar Agricol „Constantin Dobrescu Argeș” (I),,Curtea de Argeș,45.1549,24.6756
+121,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,379,40,70,30,0,22,17,45,371,43,65,30,1,25,21,50,Grup Școlar Agricol „Constantin Dobrescu Argeș” (Ii),,Curtea de Argeș,45.1549,24.6756
+122,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,311,30,69,44,3,24,26,59,313,29,68,50,2,25,27,58,Școala Gimnazială nr. 6 „Basarab I”,,Curtea de Argeș,45.1535,24.6802
+123,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,300,42,76,35,1,25,17,41,298,39,72,37,1,30,17,40,Grup Școlar Forestier Curtea de Argeș (I),,Curtea de Argeș,45.1536,24.676
+124,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,389,31,51,44,3,32,18,41,377,32,51,49,2,36,21,41,Grup Școlar Forestier Curtea de Argeș (Ii),,Curtea de Argeș,45.1536,24.676
+125,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,378,52,89,45,2,48,32,53,365,52,85,52,2,49,39,61,Centrul de Cultură și Arte „George Topîrceanu” (I),,Curtea de Argeș,45.1488,24.6765
+126,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,337,46,108,36,0,41,31,71,333,50,100,45,0,43,42,67,Școala Gimnazială nr. 4 „Mircea Cel Batrân”,,Curtea de Argeș,45.1474,24.6769
+127,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,231,39,70,32,1,21,19,39,226,41,64,35,1,22,24,43,Școala Gimnazială nr. 1 „Carol I”,,Curtea de Argeș,45.1388,24.6768
+128,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,314,39,75,46,0,23,25,50,293,37,69,59,0,27,27,55,Școala Gimnazială nr. 1 „Carol I”,,Curtea de Argeș,45.1406,24.6751
+129,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,284,37,49,42,1,18,15,54,276,40,59,45,1,20,18,44,Școala Generală nr. 5 „Armand Călinescu” (I),,Curtea de Argeș,45.1333,24.6755
+130,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,205,40,61,24,0,14,14,33,208,42,54,31,0,11,14,31,Școala Generală nr. 5 „Armand Călinescu” (Ii),,Curtea de Argeș,45.1333,24.6755
+131,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,253,17,40,31,0,16,18,33,248,19,39,31,0,17,17,34,Școala Generală Valea Sasului,,Curtea de Argeș,45.1101,24.6714
+132,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,368,28,82,32,0,24,25,53,356,32,79,36,0,29,31,51,Grup Școlar Auto Curtea de Argeș,,Curtea de Argeș,45.1342,24.6648
+133,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,299,58,122,43,2,44,32,75,290,60,115,53,2,58,30,66,Centrul de Cultură și Arte „George Topîrceanu” (Ii),,Curtea de Argeș,45.1488,24.6765
+134,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,291,39,55,31,0,13,23,41,293,39,51,32,0,14,21,45,Școala Generală nr. 3 „Sfântul Apostol Andrei”,,Curtea de Argeș,45.1246,24.6563
+90,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,167,45,63,33,2,29,12,29,172,41,62,42,1,28,13,25,Școala Gimnazială „Oprea Iorgulescu” - I,,Câmpulung,45.2724,25.0437
+91,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,203,39,84,34,0,27,22,46,203,35,80,44,0,26,22,45,Școala Gimnazială „Oprea Iorgulescu” - Ii,,Câmpulung,45.2724,25.0437
+92,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,282,64,86,56,1,34,26,60,283,57,88,61,3,39,27,54,Colegiul Tehnic,,Câmpulung,45.2763,25.048
+93,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,300,48,113,26,0,21,9,39,302,45,114,28,0,21,12,38,Biblioteca Grui,,Câmpulung,45.2879,25.0481
+94,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,290,41,99,47,1,34,27,59,282,44,103,48,2,38,25,54,Grădinița cu Program Normal nr. 9 - I,,Câmpulung,45.2882,25.0478
+95,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,280,46,75,37,1,37,26,63,272,40,74,40,0,44,25,64,Grădinița cu Program Normal nr. 9 - Ii,,Câmpulung,45.2882,25.0478
+96,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,349,34,74,42,0,31,18,38,336,35,73,47,0,39,19,36,Grădinița cu Program Normal nr. 9 - Iii,,Câmpulung,45.2882,25.0478
+97,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,206,27,59,45,0,28,22,43,207,25,56,48,0,30,21,44,Școala Generală nr. 5,,Câmpulung,45.2825,25.0538
+98,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,239,33,47,19,0,28,9,26,233,37,45,24,0,27,9,27,S.C. Hidroelectrica S.A.,,Câmpulung,45.2944,25.0665
+99,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,290,52,73,41,0,34,14,58,303,49,76,40,0,31,17,52,Școala Gimnazială „Theodor Aman” - I,,Câmpulung,45.2798,25.0613
+100,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,243,18,58,21,0,38,10,29,238,18,59,26,0,40,12,34,Școala Gimnazială „Theodor Aman” - Ii,,Câmpulung,45.2798,25.0613
+101,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,215,25,61,28,0,28,19,39,216,21,56,37,1,29,16,35,Școala Gimnazială „Theodor Aman” - Iii,,Câmpulung,45.2798,25.0613
+102,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,267,46,55,22,0,44,14,46,276,48,52,21,0,38,14,45,Grădinița cu Program Prelungit „Sfânta Marina” - I,,Câmpulung,45.2788,25.0614
+103,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,283,17,37,26,0,27,17,39,285,20,32,27,1,22,18,39,Grădinița cu Program Prelungit „Sfânta Marina” - Ii,,Câmpulung,45.2788,25.0614
+104,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,306,25,50,24,1,28,7,47,306,23,49,24,1,26,9,52,Grădinița cu Program Prelungit „Sfânta Marina” - Iii,,Câmpulung,45.2788,25.0614
+105,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,305,37,52,27,2,38,9,41,306,37,48,31,1,45,9,38,Grădinița cu Program Normal nr. 8 - I,,Câmpulung,45.2725,25.0544
+106,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,334,42,85,39,2,41,20,55,331,46,72,51,2,41,19,52,Grădinița cu Program Normal nr. 8 - Ii,,Câmpulung,45.2725,25.0544
+107,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,101,7,13,8,0,6,3,14,95,5,14,12,0,8,2,14,Grădinița Valea Româneștilor,,Câmpulung,45.2658,25.0768
+108,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,230,49,75,28,0,47,13,36,224,47,75,38,0,52,11,25,Liceul Teoretic „Dan Barbilian”,,Câmpulung,45.2709,25.0497
+109,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,167,38,51,27,0,23,6,33,167,38,50,28,0,28,7,25,Colegiul Național Pedagogic „Carol I”,,Câmpulung,45.2644,25.0484
+110,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,212,25,35,24,0,26,7,21,208,26,33,26,0,27,6,21,Serviciul Întreținere Drumuri și Străzi,,Câmpulung,45.2611,25.0422
+111,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,281,17,37,17,0,14,9,40,284,21,44,21,2,11,8,20,Liceul Tehnologic Auto,,Câmpulung,45.2219,25.0103
+112,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,129,16,30,16,0,17,5,32,126,20,31,16,0,17,5,26,Școala Generală nr. 4 „Apa Sărată”,,Câmpulung,45.2356,25.0199
+113,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,92,12,25,16,0,21,0,11,92,13,23,17,0,20,2,13,Grădinița nr. 1,,Câmpulung,45.2463,25.015
+114,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,266,58,74,58,0,57,18,51,270,51,71,67,0,63,16,47,Colegiul Național „Dinicu Golescu”,,Câmpulung,45.2645,25.0405
+115,3,ARGEȘ,MUNICIPIUL CÂMPULUNG,262,41,59,41,1,34,10,40,267,42,58,45,1,29,7,32,Școala Gimnazială „C.D. Aricescu”,,Câmpulung,45.2658,25.0405
+195,3,ARGEȘ,ALBEŞTII DE MUSCEL,124,3,25,33,0,5,4,4,120,5,22,32,0,10,4,6,"Școala Generală I-IV Cândești, Strada Magistrat Sorin Moisescu nr. 182",,Cândești,45.3229,24.9705
+322,3,ARGEȘ,CUCA,96,0,3,2,0,8,0,4,90,0,4,4,0,7,0,7,Școala Primară Cîrcești,,Cârcești,44.9663,24.5366
+272,3,ARGEȘ,CĂLINEŞTI,260,0,33,15,0,33,3,25,256,0,35,21,1,36,3,19,Școala Cirstieni,,Cârstieni,44.8887,25.0282
+267,3,ARGEȘ,CĂLDĂRARU,160,4,11,65,0,44,3,11,155,5,14,67,1,46,4,8,Școala Gim. „Prof.Univ.Dr.Ion Stoia” Căldăraru,,Căldăraru,44.4431,24.9551
+271,3,ARGEȘ,CĂLINEŞTI,274,18,34,41,2,44,10,37,276,20,30,45,2,48,12,34,Școala Calinesti,Nr. 485,Călinești,44.8271,25.0435
+203,3,ARGEȘ,AREFU,152,28,69,31,0,16,16,20,155,24,65,38,0,20,15,17,Școala Gimnazială George Stephănescu,,Căpățânenii Pământeni,45.3249,24.638
+285,3,ARGEȘ,CEPARI,258,1,29,8,0,6,2,12,262,1,29,11,0,3,2,11,Școala Cărpeniș,,Cărpeniș,45.2272,24.5129
+279,3,ARGEȘ,CĂTEASCA,143,24,21,42,1,13,10,15,141,24,19,46,1,14,8,13,Căminul Cultural Căteasca,,Căteasca,44.7676,25.0794
+419,3,ARGEȘ,POIANA LACULUI,103,7,49,10,0,4,1,7,108,7,48,9,0,5,1,7,Școala cu Clasele I-IV Cătunași,,Cătunași,44.8226,24.748
+323,3,ARGEȘ,DAVIDEŞTI,112,8,11,11,0,13,4,15,124,6,14,12,0,11,2,9,Școala Davidești,,Davidești,45.0116,25.0342
+443,3,ARGEȘ,RECEA,275,7,32,13,0,6,3,20,270,7,35,16,0,9,4,15,Școala cu Clasele I-VIII Deagurile,,Deagu de Jos,44.5506,25.0157
+347,3,ARGEȘ,HÂRTIEŞTI,111,0,9,3,0,7,0,10,109,0,11,3,0,7,0,7,Primăria Veche Hîrtiești,,Dealu,45.1205,25.1013
+455,3,ARGEȘ,SĂPATA,63,0,8,6,0,3,0,9,57,0,10,10,0,5,2,7,Școala Generală Dealu Bradului,"Nr. -, Bloc -",Dealu Bradului,44.7411,24.7206
+422,3,ARGEȘ,POIANA LACULUI,62,1,35,6,1,6,2,7,62,1,35,6,1,6,3,9,Școala cu Clasele I-IV Dealul Viilor,,Dealu Viilor,44.833,24.7031
+392,3,ARGEȘ,MORĂREŞTI,107,14,44,13,0,14,3,7,110,14,41,13,0,17,2,6,Școala cu Clasele I-IV Dedulești,,Dedulești,45.0151,24.5421
+418,3,ARGEȘ,POIANA LACULUI,59,5,20,4,0,5,1,3,56,4,21,3,1,5,2,6,Școala cu Clasele I-IV Dinculești,,Dinculești,44.8145,24.7236
+334,3,ARGEȘ,DOBREŞTI,189,14,72,42,0,24,8,17,193,13,78,43,0,20,8,14,Cămin Cultural Dobrești,,Dobrești,44.9653,25.1284
+374,3,ARGEȘ,MERIŞANI,232,8,29,11,1,21,7,21,227,10,30,10,1,16,8,23,Școala Primară Dobrogostea,,Dobrogostea,44.9276,24.7861
+193,3,ARGEȘ,ALBEŞTII DE ARGEŞ,141,15,74,27,0,30,13,21,137,15,73,37,0,29,10,18,Școala Primară Dobroțu,,Dobrotu,45.2081,24.6571
+297,3,ARGEȘ,CIOMĂGEŞTI,57,0,41,2,1,3,2,6,59,1,39,2,0,2,1,4,Grădinița Dogari,,Dogari,44.8466,24.4807
+336,3,ARGEȘ,DOMNEŞTI,404,23,84,40,0,20,20,31,396,25,78,46,0,25,17,34,Caminul Cultural „Petre Ionescu Muscel”,Nr. 3,Domnești,45.2067,24.8408
+337,3,ARGEȘ,DOMNEŞTI,415,17,67,36,0,27,28,49,413,19,71,37,0,26,27,44,Caminul Cultural „Petre Ionescu Muscel”,Nr. 3,Domnești,45.2067,24.8408
+338,3,ARGEȘ,DRAGOSLAVELE,119,12,56,30,0,27,10,19,126,12,58,32,0,26,8,15,Școala Gimnazială Iosif Catrinescu Clasele V-VIII,,Dragoslavele,45.3494,25.1629
+339,3,ARGEȘ,DRAGOSLAVELE,176,10,117,29,0,57,2,7,179,8,118,30,0,52,1,6,Școala Primară Dragoslavele,,Dragoslavele,45.3436,25.1644
+341,3,ARGEȘ,DRĂGANU,390,26,56,29,0,39,8,29,385,35,58,31,1,39,12,25,Cămin Cultural Drăganu,,Drăganu-Olteni,44.9396,24.7044
+384,3,ARGEȘ,MIHĂEŞTI,266,4,25,13,1,8,1,13,267,5,27,12,0,6,4,15,Școala Generală Drăghici,,Drăghici,45.1287,25.0446
+328,3,ARGEȘ,DÎMBOVICIOARA,72,0,32,10,0,13,3,5,73,0,28,9,0,14,4,5,Fostul Sediu al Primăriei Dîmbovicioara,Nr. 188,Dâmbovicioara,45.437,25.2241
+331,3,ARGEȘ,DÎRMĂNEŞTI,219,15,25,16,0,16,7,25,215,11,27,18,0,22,5,21,Școala Dîrmănești,,Dârmănești,45.0188,24.8997
+169,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,94,0,11,12,1,4,1,8,96,0,10,11,1,2,2,11,Școala Primară Enculești,,Enculești,44.9038,24.9462
+513,3,ARGEȘ,VEDEA,142,2,11,20,0,4,1,6,136,3,10,19,0,7,1,7,Școala Fata,,Fata,44.8121,24.6254
+515,3,ARGEȘ,VEDEA,102,4,7,10,2,12,2,5,101,4,7,10,1,11,1,7,Școala Frătici,,Frătici,44.769,24.6163
+437,3,ARGEȘ,RĂTEŞTI,116,13,12,10,0,5,3,12,113,14,14,7,0,5,3,9,Școala cu Clasele I-IV Furduești,,Furduești,44.722,25.1051
+335,3,ARGEȘ,DOBREŞTI,185,3,36,11,0,4,2,10,180,3,38,13,0,5,2,9,Școala Gen. I-IV Furești,,Furești,44.9327,25.1069
+386,3,ARGEȘ,MIHĂEŞTI,245,7,19,15,2,9,6,18,240,6,23,20,2,8,4,17,Căminul Cultural Furnicoși,,Furnicoși,45.1422,24.9988
+473,3,ARGEȘ,STOLNICI,252,7,24,17,0,16,8,16,245,9,25,18,0,18,6,10,Căminul Cultural Fîlfani,,Fâlfani,44.5897,24.7594
+167,3,ARGEȘ,ORAŞ MIOVENI,338,1,11,12,0,9,6,16,336,1,11,13,0,10,5,16,Școala Primară Făgetu,Str. Mănăstirii,Făgetu,44.9063,24.912
+168,3,ARGEȘ,ORAŞ MIOVENI,106,0,7,4,0,2,4,8,103,0,7,4,0,2,3,8,Căminul Cultural Făgetu,,Făgetu,44.9052,24.9042
+250,3,ARGEȘ,BRĂDULEŢ,250,6,32,14,0,29,2,15,250,5,26,15,0,29,2,21,Căminul Cultural Galeșu,,Galeșu,45.266,24.7779
+247,3,ARGEȘ,BRADU,174,57,42,49,0,32,13,27,177,57,46,52,0,24,11,23,Clădirea Administrativă C25 (fosta Unitate Militară),Str. Principală nr. 181,Geamăna,44.8166,24.8916
+248,3,ARGEȘ,BRADU,369,58,55,208,1,69,42,105,378,60,61,217,1,60,40,79,Grădinița de La Școala Primară Geamăna,Str. Principală nr. 99,Geamăna,44.8234,24.8875
+479,3,ARGEȘ,ŞTEFAN CEL MARE,69,4,13,7,0,2,2,8,64,6,14,8,0,2,2,9,Școala Glavacioc,,Glavacioc,44.469,25.2538
+445,3,ARGEȘ,ROCIU,176,2,6,11,0,3,4,19,183,3,6,11,0,3,2,12,"Grădinița cu Program Normal „Theodor Anghel”, Gliganu de Jos",,Gliganu de Jos,44.6522,25.0406
+446,3,ARGEȘ,ROCIU,263,9,25,15,0,4,6,16,264,11,27,14,0,5,8,14,"Școala Primară „Ion Bălteanu”, Gliganu de Sus",,Gliganu de Sus,44.6578,25.0016
+274,3,ARGEȘ,CĂLINEŞTI,104,9,12,43,0,31,1,11,98,7,13,48,0,34,1,10,Școala Glodu,,Glodu,44.848,25.0409
+354,3,ARGEȘ,LEORDENI,212,18,28,19,0,11,10,31,206,15,34,21,0,15,11,28,Școala cu Clasele I-VIII Glîmbocata,,Glâmbocata,44.7795,25.198
+239,3,ARGEȘ,BOGAŢI,32,1,7,12,0,7,1,2,29,1,9,10,1,9,1,2,Școala Glîmbocel,,Glâmbocel,44.8547,25.1631
+235,3,ARGEȘ,BOGAŢI,134,3,8,20,0,25,7,11,132,3,12,19,1,28,4,5,Școala Glîmbocelu,,Glâmbocelu,44.8317,25.1406
+208,3,ARGEȘ,BASCOV,136,17,25,21,0,75,2,18,146,17,27,26,0,67,2,12,Școala Generală Glîmbocu,,Glâmbocu,44.8937,24.7907
+342,3,ARGEȘ,GODENI,301,12,48,12,0,84,5,22,291,8,52,12,0,87,9,25,Școala Godeni nr. 26,Nr. 26,Godeni,45.227,24.9837
+178,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,245,11,32,20,0,12,11,33,235,7,35,20,0,16,11,36,Școala „Radu Golescu” Golești,,Golești,44.8386,24.962
+223,3,ARGEȘ,BĂLILEŞTI,138,5,21,11,0,2,4,17,136,5,20,14,0,4,5,12,Școala Golești,,Golești,45.0884,24.933
+275,3,ARGEȘ,CĂLINEŞTI,169,10,35,21,1,21,7,15,167,9,36,23,1,23,8,15,Grădinița Drăghicești,Nr. 28,Gorganu,44.8359,25.0372
+430,3,ARGEȘ,POIENARII DE MUSCEL,130,5,61,9,0,10,3,12,135,6,62,13,0,10,2,5,Grădinița cu Program Normal nr. 2 Groșani,,Groșani,45.2281,25.0325
+214,3,ARGEȘ,BĂBANA,131,10,17,11,0,5,3,15,132,11,17,10,0,6,3,14,Școala Groși,,Groși,44.8707,24.6881
+281,3,ARGEȘ,CĂTEASCA,97,10,26,11,0,13,3,11,100,10,24,11,0,12,3,10,Căminul Cultural Gruiu,,Gruiu,44.7353,25.0657
+509,3,ARGEȘ,VALEA MARE PRAVĂŢ,357,3,20,15,1,2,0,55,411,5,30,16,1,5,1,22,Școala Gura Pravăț,,Gura Pravăț,45.3218,25.1287
+254,3,ARGEȘ,BUDEASA,182,9,21,12,1,17,7,23,189,6,28,13,1,15,6,15,Școala Generală Gălășești,,Gălășești,44.9536,24.7904
+227,3,ARGEȘ,BEREVOEŞTI,111,0,15,51,2,2,3,121,142,4,17,121,0,4,1,18,Școala Gămăcești,,Gămăcești,45.2469,24.93
+416,3,ARGEȘ,PIETROŞANI,120,5,15,5,0,11,5,8,125,5,12,6,0,14,5,7,Școala Generală cu Clasele I-IV Gănești,,Gănești,45.1222,24.8427
+425,3,ARGEȘ,POIANA LACULUI,94,2,17,4,0,10,5,14,93,2,17,5,0,12,5,14,Școala cu Clasele I-IV Gărdinești,,Gărdinești,44.7972,24.6707
+394,3,ARGEȘ,MOŞOAIA,252,15,46,22,1,20,10,24,248,14,48,26,1,22,11,21,Școala cu Clasele I-VIII Hințești,,Hințești,44.8137,24.8351
+520,3,ARGEȘ,VULTUREŞTI,50,0,13,4,0,2,4,6,50,1,12,4,0,4,4,5,Școala Primară Huluba,Nr. 41,Huluba,45.0635,25.0544
+499,3,ARGEȘ,UNGHENI,366,4,18,13,0,21,5,29,371,6,17,12,1,20,9,22,Societatea Agricola Albina,,Humele,44.5342,24.9694
+344,3,ARGEȘ,HÂRSEȘTI,342,10,24,65,1,16,6,32,346,10,28,67,0,17,5,22,Căminul Cultural Hârsești,,Hârsești,44.5216,24.7822
+346,3,ARGEȘ,HÂRTIEŞTI,247,4,19,16,0,10,4,16,248,4,19,17,2,8,2,13,Cămin Cultural Hîrtiești,,Hârtiești,45.1227,25.1023
+482,3,ARGEȘ,ŞUICI,61,2,11,9,1,10,1,6,56,1,11,11,1,11,1,6,Școala Ianculești,,Ianculești,45.2542,24.4997
+427,3,ARGEȘ,POIENARII DE ARGEŞ,35,2,57,0,0,5,0,5,33,3,57,0,0,6,0,4,Școala Generală I-IV Ioanicești,,Ioanicești,45.0653,24.5054
+262,3,ARGEȘ,BUZOEŞTI,141,7,39,16,1,8,5,12,137,11,36,22,1,8,5,7,Grădinița cu Program Normal Ionești,,Ionești,44.6133,24.9045
+175,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,175,25,37,50,1,14,9,30,179,21,44,51,1,16,6,23,"Școala Generală nr. 1 Ștefănești, Corp C (Grădiniță)",,Izvorani,44.8625,24.9358
+350,3,ARGEȘ,IZVORU,189,8,53,13,0,24,10,19,176,6,52,18,0,29,11,19,Școala Gimnazială Elena Davila Perticari,Str. Principală nr. 753,Izvoru,44.4939,25.0638
+351,3,ARGEȘ,IZVORU,136,3,64,14,0,30,5,21,136,5,68,18,0,25,3,16,Școala Gimnazială Elena Davila Perticari,Str. Principală nr. 753,Izvoru,44.4939,25.0638
+514,3,ARGEȘ,VEDEA,99,1,8,25,0,6,3,7,97,3,11,28,0,4,3,5,Școala Izvoru de Sus,,Izvoru de Sus,44.8119,24.6461
+429,3,ARGEȘ,POIENARII DE MUSCEL,204,1,64,9,0,35,5,12,208,0,65,9,0,26,5,17,Școala Primară nr. 1 Jugur,,Jugur,45.1989,25.083
+314,3,ARGEȘ,COŞEŞTI,108,1,40,18,0,46,2,11,108,3,47,18,2,43,3,8,Cămin Cultural Jupînești,,Jupânești,45.0668,24.8498
+293,3,ARGEȘ,CIOFRINGENI,179,7,21,22,0,8,4,10,172,8,19,27,0,8,5,13,Cămin Cultural Lacurile,,Lacurile,45.084,24.5379
+313,3,ARGEȘ,COŞEŞTI,274,13,29,32,2,49,15,31,266,16,28,34,1,50,16,38,Cămin Cultural Leicești,,Leicești,45.0956,24.8591
+352,3,ARGEȘ,LEORDENI,355,22,50,42,0,78,18,40,359,20,57,44,0,78,21,33,Primărie,,Leordeni,44.7918,25.1282
+357,3,ARGEȘ,LEREŞTI,380,38,73,20,0,39,17,49,362,40,72,26,0,42,18,49,"Școala Gimnazială nr. 1 Lerești, Sat Lerești",Str. General Vasile Milea nr. 228,Lerești,45.3279,25.0712
+359,3,ARGEȘ,LEREŞTI,378,9,32,14,0,30,7,26,379,9,37,18,0,30,6,26,Cămin Cultural Lerești,Nr. 780,Lerești,45.329,25.0693
+349,3,ARGEȘ,HÂRTIEŞTI,227,0,9,1,0,1,1,5,228,0,10,1,0,1,1,2,Centrul de Zi Lespezi,,Lespezi,45.1385,25.1189
+485,3,ARGEȘ,TEIU,56,2,9,12,1,4,3,8,56,1,8,13,0,4,3,7,Școala Generală Leșile,,Leșile,44.6253,25.1537
+317,3,ARGEȘ,COTMEANA,106,8,3,10,0,4,2,8,109,8,4,9,0,4,1,5,Școala Lintești,,Lintești,45.0068,24.6122
+466,3,ARGEȘ,STÎLPENI,340,8,53,25,0,35,8,40,341,8,63,26,0,32,11,33,Caminul Cultural Livezeni,,Livezeni,45.0348,24.9718
+348,3,ARGEȘ,HÂRTIEŞTI,120,3,15,3,0,3,1,3,120,3,14,3,0,3,1,2,Școala Lucieni,,Lucieni,45.1352,25.1126
+241,3,ARGEȘ,BOTENI,169,2,15,23,0,1,6,14,171,2,15,21,0,1,7,12,Școala Primară Lunca,,Lunca,45.1612,25.1201
+360,3,ARGEȘ,LUNCA CORBULUI,260,8,79,10,0,9,5,14,249,7,80,12,1,14,7,18,Școala Gimnazială „General Constantin Cristescu” Lunca Corbului,,Lunca Corbului,44.6828,24.761
+361,3,ARGEȘ,LUNCA CORBULUI,110,4,14,7,0,5,1,5,106,5,18,7,0,5,2,3,Școala Silișteni,,Lunca Corbului,44.7249,24.782
+362,3,ARGEȘ,LUNCA CORBULUI,190,1,14,30,0,6,1,10,188,2,18,32,0,6,3,9,Școala Pădureți,,Lunca Corbului,44.6499,24.7621
+363,3,ARGEȘ,LUNCA CORBULUI,159,0,15,9,1,11,5,8,157,0,14,9,0,12,5,8,Școala Mîrghia de Sus,,Lunca Corbului,44.6888,24.7112
+289,3,ARGEȘ,CETĂŢENI,151,11,52,16,0,8,3,11,146,11,47,19,0,8,5,14,Grădinița Lăicăi,,Lăicăi,45.1799,25.2106
+315,3,ARGEȘ,COŞEŞTI,72,3,11,3,0,19,1,8,72,3,13,4,0,19,1,4,Căminul Cultural Lăpușani,,Lăpușani,45.1221,24.8505
+459,3,ARGEȘ,SCHITU GOLEŞTI,217,18,64,21,0,19,10,41,219,22,65,25,1,23,15,33,Școala cu Clasele V-VIII Lăzărești,,Lăzărești,45.1814,25.0007
+461,3,ARGEȘ,SCHITU GOLEŞTI,337,7,118,25,1,19,15,40,348,6,125,24,2,22,15,37,Cămin Cultural Lăzărești,,Lăzărești,45.1646,24.9961
+377,3,ARGEȘ,MERIŞANI,119,3,8,44,0,5,1,6,119,5,4,46,0,5,1,7,Școala Primară Malu Vânăt,,Malu Vânăt,44.9871,24.7237
+197,3,ARGEȘ,ALBOTA,332,8,20,11,0,8,7,15,322,7,21,10,0,10,7,19,Școala Gimnazială Mareș,,Mareș,44.7782,24.7878
+345,3,ARGEȘ,HÂRSEȘTI,194,3,13,26,1,4,2,8,190,3,13,29,1,7,2,8,Școala Martalogi,,Martalogi,44.505,24.7881
+440,3,ARGEȘ,RĂTEŞTI,53,4,6,1,0,0,0,9,52,3,8,1,0,1,2,8,Școala cu Clasele I-IV Mavrodolu,,Mavrodolu,44.6911,25.2165
+376,3,ARGEȘ,MERIŞANI,124,7,27,8,0,18,4,22,128,8,26,10,1,15,3,16,Căminul Cultural Merișani,,Merișani,44.965,24.7448
+421,3,ARGEȘ,POIANA LACULUI,87,1,23,8,0,3,0,3,83,3,21,7,0,3,1,5,Școala cu Clasele I-IV Metofu,,Metofu,44.8497,24.7202
+210,3,ARGEȘ,BASCOV,174,7,13,6,1,16,3,12,181,9,13,6,0,17,2,7,Școala Generală Mica,,Mica,44.8861,24.7581
+379,3,ARGEȘ,MICEŞTI,267,28,68,22,0,40,12,45,265,24,73,21,0,40,14,50,Școala Gimnazială nr. 1 Micești,,Micești,44.949,24.8648
+382,3,ARGEȘ,MIHĂEŞTI,534,9,32,22,2,20,3,38,521,6,38,28,2,23,4,23,Căminul Cultural Mihăești,,Mihăești,45.104,25.0084
+145,3,ARGEȘ,ORAŞ MIOVENI,257,30,69,23,1,21,11,35,248,33,78,29,1,22,8,22,Grădinița „Florile Soarelui” -Intrare 1,Str. Logofăt Stanciu Mihoveanu,Mioveni,44.9614,24.9494
+146,3,ARGEȘ,ORAŞ MIOVENI,296,38,52,18,1,28,20,63,295,38,56,15,0,26,25,60,Liceul Teoretic „Iulia Zamfirescu” - Intrare C,Str. Petre Zugravu,Mioveni,44.9618,24.9479
+147,3,ARGEȘ,ORAŞ MIOVENI,402,36,54,27,0,29,15,62,409,35,54,29,1,30,13,48,Fostul Sediu al Grădiniței din Blocul M6,Str. Cărănești,Mioveni,44.9619,24.9454
+148,3,ARGEȘ,ORAŞ MIOVENI,299,29,55,23,0,40,18,47,311,32,55,28,0,32,18,36,Grădinița „Florile Soarelui” - Intrare 2,Str. Logofăt Stanciu Mihoveanu nr. 11,Mioveni,44.9614,24.9496
+149,3,ARGEȘ,ORAŞ MIOVENI,377,35,58,43,2,16,18,42,380,41,61,44,1,18,19,32,Dispensar Uman,Str. Cărănești,Mioveni,44.9611,24.9444
+150,3,ARGEȘ,ORAŞ MIOVENI,381,52,70,29,0,37,14,52,387,51,73,39,0,32,11,37,Școala Gimnazială „Liviu Rebreanu” (Cămin Școală) - Corp B,Str. Eroilor nr. 3,Mioveni,44.9583,24.9444
+151,3,ARGEȘ,ORAŞ MIOVENI,355,31,43,24,0,31,14,47,367,35,44,22,0,28,12,34,Liceul Teoretic „Iulia Zamfirescu” - Intrare B,Str. Petre Zugravu,Mioveni,44.9613,24.9479
+152,3,ARGEȘ,ORAŞ MIOVENI,198,31,46,28,1,13,7,21,193,30,51,31,1,14,4,19,Școala Gimnazială „Liviu Rebreanu” - Intrare Elevi,Str. Eroilor nr. 3,Mioveni,44.9584,24.9434
+153,3,ARGEȘ,ORAŞ MIOVENI,245,23,45,19,0,30,5,31,248,21,44,24,1,27,9,27,Școala Gimnazială „Liviu Rebreanu” - Intrare Profesori,Str. Eroilor nr. 3,Mioveni,44.9585,24.9434
+154,3,ARGEȘ,ORAŞ MIOVENI,252,32,39,19,1,19,14,45,255,34,37,18,0,17,14,41,Grădinița „Tic-Pitic” (Creșa Cămin),Str. Căminului,Mioveni,44.9599,24.9424
+155,3,ARGEȘ,ORAŞ MIOVENI,289,25,61,24,0,23,15,47,297,31,59,25,1,18,15,39,Fostul Sediu al Grădiniței din Blocul F9,,Mioveni,44.9596,24.9428
+156,3,ARGEȘ,ORAŞ MIOVENI,315,60,70,37,3,26,13,45,326,60,65,46,1,18,15,41,Școala Construcții-Reparații Mioveni” S.R.L.,,Mioveni,44.9583,24.9401
+157,3,ARGEȘ,ORAŞ MIOVENI,305,50,67,25,1,24,13,46,312,50,71,28,1,24,13,32,Casa de Cultură a Sindicatelor Dacia,Str. Radu cel Frumos nr. 1,Mioveni,44.9558,24.9383
+158,3,ARGEȘ,ORAŞ MIOVENI,344,56,105,32,1,29,27,66,340,67,112,35,1,23,22,50,Fostul Sediu al Grădiniței din Blocul T6,Str. Frații Golești,Mioveni,44.9547,24.9345
+159,3,ARGEȘ,ORAŞ MIOVENI,331,46,34,31,1,29,20,43,331,46,38,33,1,31,14,36,Fostul Sediu al Grădiniței „Campionii” din Blocul T2a,Str. Unirii,Mioveni,44.955,24.9369
+160,3,ARGEȘ,ORAŞ MIOVENI,388,58,83,40,0,22,31,81,391,61,79,48,0,27,31,65,Grădinița „Campionii”,Str. Părăști,Mioveni,44.9557,24.9325
+161,3,ARGEȘ,ORAŞ MIOVENI,305,34,42,22,0,21,24,57,301,34,45,27,1,22,28,54,Școala Gimnazială „George Topârceanu”,Str. Părăști nr. 26,Mioveni,44.9551,24.9309
+389,3,ARGEȘ,MIROŞI,303,6,34,17,0,14,4,29,297,6,35,21,0,23,7,24,Cămin Cultural Miroși,,Miroși,44.4163,24.9439
+391,3,ARGEȘ,MORĂREŞTI,197,7,68,23,0,14,9,14,196,7,66,26,0,16,10,15,Școala Generală cu Clasele I-VIII Morărești,,Morărești,45.0063,24.5616
+406,3,ARGEȘ,NEGRAŞI,94,3,17,14,0,4,4,7,93,4,18,14,0,5,4,6,Școala Mozacu,,Mozacu,44.6084,25.163
+398,3,ARGEȘ,MOZĂCENI,285,6,96,8,1,15,5,40,277,6,101,10,0,17,9,41,Liceul Tehnologic Liviu Rebreanu Mozăceni,,Mozăceni,44.555,25.1808
+399,3,ARGEȘ,MOZĂCENI,79,3,69,5,1,7,3,10,76,2,71,6,1,7,3,12,Școala Generală Mișei,,Mozăceni,44.5645,25.1616
+232,3,ARGEȘ,BÎRLA,97,0,164,7,1,10,4,16,91,5,170,9,1,5,5,11,Școala Mozăceni-Vale,,Mozăcenii-Vale,44.3996,24.8042
+393,3,ARGEȘ,MOŞOAIA,362,24,67,36,3,25,7,43,365,32,63,34,2,27,6,38,Cămin Cultural Moșoaia,,Moșoaia,44.8297,24.7692
+504,3,ARGEȘ,VALEA IAŞULUI,225,11,127,23,1,25,9,31,210,11,137,20,3,25,7,34,Școala Primară Mustătești,,Mustățești,45.1936,24.6802
+400,3,ARGEȘ,MUŞĂTEŞTI,232,11,90,12,0,14,10,27,225,13,91,12,0,17,11,28,Cămin Cultural Constantin Dobrescu Argeș - Robaia,,Musățești,45.2157,24.7775
+230,3,ARGEȘ,BÎRLA,94,5,27,5,0,9,5,9,92,2,30,7,0,10,5,13,Școala Mîndra,,Mândra,44.4525,24.7781
+458,3,ARGEȘ,SĂPATA,110,1,2,6,0,6,1,7,101,2,3,6,0,11,2,8,Imobil Proprietate Miu Cosmin,"Nr. -, Bloc -",Mârțești,44.7184,24.7486
+321,3,ARGEȘ,CUCA,184,9,7,10,0,8,7,15,185,8,9,10,0,9,6,14,Școala Primară Măcăi,,Măcăi,44.9856,24.501
+364,3,ARGEȘ,MĂLURENI,134,5,27,11,0,7,3,17,134,5,27,12,0,9,4,17,Școala Mălureni,,Mălureni,45.094,24.8013
+365,3,ARGEȘ,MĂLURENI,99,1,27,10,1,5,4,15,95,0,26,10,1,7,5,14,Cămin Cultural Bădiceni,,Mălureni,45.0645,24.7848
+216,3,ARGEȘ,BĂICULEŞTI,197,5,13,5,0,18,5,12,197,5,10,5,0,21,5,15,Școala Mănicești,,Mănicești,45.0215,24.715
+371,3,ARGEȘ,MĂRĂCINENI,293,21,43,26,0,35,7,23,283,21,48,27,0,39,10,24,Școala Generală nr. 1,,Mărăcineni,44.8891,24.8761
+372,3,ARGEȘ,MĂRĂCINENI,368,49,63,21,1,57,31,68,381,54,66,22,1,47,29,48,Școala Generală nr. 1,,Mărăcineni,44.8891,24.8761
+387,3,ARGEȘ,MIOARELE,237,11,45,38,0,11,6,24,237,13,48,40,0,9,7,24,Cămin Cultural Mățău,,Mățău,45.2354,25.081
+404,3,ARGEȘ,NEGRAŞI,183,7,27,51,0,7,2,14,178,8,27,54,0,6,1,9,Școala Negrași,,Negrași,44.5947,25.1317
+333,3,ARGEȘ,DÎRMĂNEŞTI,159,8,14,12,1,9,6,13,152,7,14,12,0,16,7,13,Caminul Cultural Negreni,,Negreni,44.9869,24.9137
+225,3,ARGEȘ,BELEŢI-NEGREŞTI,219,18,39,37,1,25,7,21,224,22,39,34,1,25,5,18,Cămin Cultural Negrești,,Negrești,44.9487,25.0746
+438,3,ARGEȘ,RĂTEŞTI,107,14,19,7,3,5,4,14,108,15,18,7,4,7,1,8,Școala cu Clasele I-IV Nejlovelu,,Nejlovelu,44.6883,25.1772
+463,3,ARGEȘ,SLOBOZIA,60,2,11,0,0,0,0,3,60,2,11,0,0,1,0,2,Școala Nigrișoara,,Nigrișoara,44.5021,25.2323
+135,3,ARGEȘ,MUNICIPIUL CURTEA DE ARGEŞ,171,11,34,16,1,9,3,17,162,13,32,20,1,10,4,23,Școala Generală Noapteș,,Noapteș,45.1025,24.653
+408,3,ARGEȘ,NUCŞOARA,143,9,13,15,0,9,3,9,142,9,17,12,0,9,1,7,Cămin Cultural Nucșoara,,Nucșoara,45.3366,24.7814
+507,3,ARGEȘ,VALEA MARE PRAVĂŢ,138,14,29,11,0,11,8,22,140,18,28,13,0,8,7,20,Cămin Cultural Nămăești,,Nămăești,45.3038,25.1115
+411,3,ARGEȘ,OARJA,339,17,128,35,1,23,5,20,344,21,124,35,0,26,3,15,Școala Gimnazială „D. Rădulescu” Oarja,,Oarja,44.7549,24.9758
+412,3,ARGEȘ,OARJA,220,7,70,15,1,12,4,16,221,9,67,15,1,13,5,15,Școala Primară Oarja Sat,,Oarja,44.7666,24.9695
+303,3,ARGEȘ,CORBENI,167,9,44,13,0,14,10,22,165,11,40,18,0,14,12,24,Școala Gimnazială Prof. Dr. Vasile Vasilescu,,Oeștii Ungureni,45.2553,24.6509
+304,3,ARGEȘ,CORBENI,202,7,16,14,0,27,14,25,204,8,12,14,0,27,15,29,Școala Gimnazială Prof. Dr. Vasile Vasilescu,,Oeștii Ungureni,45.2553,24.6509
+311,3,ARGEȘ,COŞEŞTI,180,3,15,5,0,55,6,15,181,3,15,5,1,58,5,10,Școala Petrești,,Petrești,45.0391,24.8903
+470,3,ARGEȘ,STOENEŞTI,101,5,18,8,0,6,4,15,103,5,15,10,0,4,5,15,Cămin Cultural Piatra,,Piatra,45.2766,25.1528
+413,3,ARGEȘ,PIETROŞANI,364,15,48,54,1,16,7,24,352,18,54,51,1,18,10,20,Sala de Sport Pietroșani,,Pietroșani,45.1768,24.8462
+330,3,ARGEȘ,DÎRMĂNEŞTI,183,4,26,16,0,15,6,13,181,8,26,16,0,13,8,12,Școala Piscani,,Piscani,44.9814,24.9138
+1,3,ARGEȘ,MUNICIPIUL PITEŞTI,275,82,86,61,1,71,35,78,276,80,83,80,1,74,29,62,Biblioteca Județeană Argeș „Dinicu Golescu”,Str. Victoriei (Str. Șerban Vodă) nr. 18,Pitești,44.8581,24.8719
+2,3,ARGEȘ,MUNICIPIUL PITEŞTI,226,115,80,73,1,68,25,71,226,113,79,84,2,75,24,60,Colegiul Economic „Maria Teiuleanu”,Pasajul Teiuleanu nr. 1,Pitești,44.8545,24.8777
+3,3,ARGEȘ,MUNICIPIUL PITEŞTI,172,72,59,33,0,49,11,36,170,64,57,47,0,54,15,29,Școala Gimnazială „Ion Pillat” (fosta Școală nr. 3),Intrarea Rahovei nr. 6,Pitești,44.856,24.869
+4,3,ARGEȘ,MUNICIPIUL PITEŞTI,295,103,109,58,1,61,22,65,319,99,100,75,2,52,21,44,Colegiul Economic „Maria Teiuleanu” (Fost Liceul Tehnologic „Ion Mincu”),Bulevardul Eroilor (Bulevardul 19 Noiembrie) nr. 4  6,Pitești,44.8528,24.8657
+5,3,ARGEȘ,MUNICIPIUL PITEŞTI,352,54,83,43,2,44,20,84,353,52,80,56,2,59,22,59,Școala Gimnazială „Negru Vodă” (fostă Școala nr. 12),Str. Bradului nr. 13,Pitești,44.8488,24.8545
+6,3,ARGEȘ,MUNICIPIUL PITEŞTI,296,63,53,52,0,48,20,74,285,63,56,58,0,74,19,49,Școala Gimnazială „Negru Vodă” (fostă Școala nr. 12),Str. Bradului nr. 13,Pitești,44.8488,24.8545
+7,3,ARGEȘ,MUNICIPIUL PITEŞTI,328,61,67,43,0,48,13,72,330,63,56,52,0,72,12,46,Școala Gimnazială „Negru Vodă” (fostă Școala nr. 12),Str. Bradului nr. 13,Pitești,44.8488,24.8545
+8,3,ARGEȘ,MUNICIPIUL PITEŞTI,355,68,72,40,0,59,25,95,376,62,75,53,0,60,25,63,Școala Gimnazială „Negru Vodă” (fostă Școala nr. 12),Str. Bradului nr. 13,Pitești,44.8488,24.8545
+9,3,ARGEȘ,MUNICIPIUL PITEŞTI,341,76,107,49,0,86,19,75,357,68,110,64,1,79,21,55,Grădinița cu Program Prelungit „Micul Prinț” (fosta Grădinița cu Program Prelungit nr. 13,Str. Câmpului (Str. Cîmpului) nr. 20,Pitești,44.8467,24.8502
+10,3,ARGEȘ,MUNICIPIUL PITEŞTI,378,92,60,49,3,64,25,91,374,83,75,55,2,81,23,66,Școala Gimnazială „Mircea Cel Bătran” (fostă Școala nr. 13),Str. Zimbrului nr. 3,Pitești,44.8482,24.8492
+11,3,ARGEȘ,MUNICIPIUL PITEŞTI,375,61,74,48,1,77,27,94,378,60,68,59,1,77,32,88,Școala Gimnazială „Mircea Cel Bătran” (fostă Școala nr. 13),Str. Zimbrului nr. 3,Pitești,44.8482,24.8492
+12,3,ARGEȘ,MUNICIPIUL PITEŞTI,390,89,74,54,1,72,38,94,394,82,82,66,0,80,34,66,Școala Gimnazială „Mircea Cel Bătran” (fostă Școala nr. 13),Str. Zimbrului nr. 3,Pitești,44.8482,24.8492
+13,3,ARGEȘ,MUNICIPIUL PITEŞTI,389,99,80,44,2,80,19,66,391,96,83,49,3,83,22,52,Școala Gimnazială „Mircea Cel Bătran” (fostă Școala nr. 13),Str. Zimbrului nr. 3,Pitești,44.8482,24.8492
+14,3,ARGEȘ,MUNICIPIUL PITEŞTI,317,76,78,55,0,61,13,76,325,78,73,59,1,73,16,54,Grădinița cu Program Prelungit „Luminișul Pădurii” (fostă Grădiniță nr. 6),Str. Frasinului nr. 10,Pitești,44.8519,24.8544
+15,3,ARGEȘ,MUNICIPIUL PITEŞTI,385,85,82,49,1,53,21,89,388,81,79,59,2,58,25,77,Grădinița cu Program Prelungit „Luminișul Pădurii” (fostă Grădiniță nr. 6),Str. Frasinului nr. 10,Pitești,44.8519,24.8544
+16,3,ARGEȘ,MUNICIPIUL PITEŞTI,307,127,104,54,3,57,25,68,304,120,101,70,2,72,25,53,Liceul Tehnologic „Dacia” (Fost Grup Școlar Industrial Construcții Mașini),Str. Henri Coandă nr. 4,Pitești,44.8543,24.8637
+17,3,ARGEȘ,MUNICIPIUL PITEŞTI,163,73,70,32,0,41,28,62,158,69,73,41,0,56,24,46,Colegiul Național „Ion C. Brătianu”,"Str. Armand Călinescu (Str. Horia,Cloșca și Crișan) nr. 14",Pitești,44.8577,24.8685
+18,3,ARGEȘ,MUNICIPIUL PITEŞTI,395,109,98,76,1,78,30,76,395,103,105,85,1,84,29,58,Școala nr. 1 - Structură a Școlii Gimnaziale „Nicolae Bălcescu” (fosta Școala Gimnazială nr. 9),Str. Negru Vodă nr. 29,Pitești,44.8634,24.8624
+19,3,ARGEȘ,MUNICIPIUL PITEŞTI,298,125,97,57,3,67,29,86,294,119,103,70,3,76,32,68,Școala nr. 1 - Structură a Școlii Gimnaziale „Nicolae Bălcescu” (fosta Școala Gimnazială nr. 9),Str. Negru Vodă nr. 29,Pitești,44.8634,24.8624
+20,3,ARGEȘ,MUNICIPIUL PITEŞTI,282,54,44,17,0,37,13,54,274,59,50,18,0,45,13,41,Universitatea „Constantin Brâncoveanu” (Intrarea C),Calea Bascovului nr. 2A,Pitești,44.8699,24.8588
+21,3,ARGEȘ,MUNICIPIUL PITEŞTI,260,58,55,32,1,54,18,42,256,58,61,31,0,52,24,40,Școala Grosmetchim Sa,Bulevardul Nicolae Bălcescu nr. 48,Pitești,44.8718,24.8536
+22,3,ARGEȘ,MUNICIPIUL PITEŞTI,379,76,97,40,1,63,23,73,380,83,102,46,1,68,21,53,Școala Gimnazială „Nicolae Bălcescu” (fosta Școală nr. 6),Bulevardul Nicolae Bălcescu nr. 141,Pitești,44.8738,24.8476
+23,3,ARGEȘ,MUNICIPIUL PITEŞTI,328,43,39,33,0,49,17,64,338,46,42,39,0,45,21,45,Școala Gimnazială „Nicolae Bălcescu” (fosta Școală nr. 6),Bulevardul Nicolae Bălcescu nr. 141,Pitești,44.8738,24.8476
+24,3,ARGEȘ,MUNICIPIUL PITEŞTI,379,89,75,29,1,57,13,69,386,82,85,33,0,62,24,57,Școala Gimnazială „Nicolae Bălcescu” (fosta Școală nr. 6),Bulevardul Nicolae Bălcescu nr. 141,Pitești,44.8738,24.8476
+25,3,ARGEȘ,MUNICIPIUL PITEŞTI,311,100,72,43,1,56,21,88,306,94,86,52,1,66,25,61,Școala Gimnazială „Nicolae Bălcescu” (fosta Școală nr. 6),Bulevardul Nicolae Bălcescu nr. 141,Pitești,44.8738,24.8476
+26,3,ARGEȘ,MUNICIPIUL PITEŞTI,396,33,52,38,1,51,18,81,381,38,49,41,0,77,21,60,Grădinița cu Program Prelungit „Albă Ca Zăpada” (fosta Grădiniță nr. 10),Str. Stejarului nr. 4,Pitești,44.8717,24.8406
+27,3,ARGEȘ,MUNICIPIUL PITEŞTI,391,52,77,47,0,61,23,82,385,51,84,59,0,67,21,62,Școala Gimnazială „Adrian Păunescu” (fostă Școala nr. 15),Str. Paltinului nr. 2,Pitești,44.8727,24.8393
+28,3,ARGEȘ,MUNICIPIUL PITEŞTI,447,79,73,27,2,53,19,65,449,77,75,32,3,53,28,54,Școala Gimnazială „Adrian Păunescu” (fostă Școala nr. 15),Str. Paltinului nr. 2,Pitești,44.8727,24.8393
+29,3,ARGEȘ,MUNICIPIUL PITEŞTI,340,96,85,52,1,52,16,76,355,97,87,61,2,51,17,53,Grădinița cu Program Normal nr. 11- Structură a Grădiniței cu Program Prelungit „Albă Ca Zăpada”,,Pitești,44.882,24.8323
+30,3,ARGEȘ,MUNICIPIUL PITEŞTI,380,95,96,33,0,48,20,76,373,100,89,42,0,67,21,55,S.C. Lisa Draxlmaier S.A.,Bulevardul Nicolae Bălcescu nr. 186,Pitești,44.884,24.8338
+31,3,ARGEȘ,MUNICIPIUL PITEŞTI,376,83,68,51,0,57,21,74,371,74,80,63,1,67,22,50,S.C. Lisa Draxlmaier S.A.,Bulevardul Nicolae Bălcescu nr. 186,Pitești,44.884,24.8338
+32,3,ARGEȘ,MUNICIPIUL PITEŞTI,375,78,60,45,0,43,22,74,375,73,62,54,0,59,19,51,Liceul Teoretic „Ion Cantacuzinio”,Str. Dr. Carol Davila nr. 1,Pitești,44.8706,24.8447
+33,3,ARGEȘ,MUNICIPIUL PITEŞTI,417,94,106,51,3,69,31,99,412,101,106,54,2,88,31,69,Liceul Teoretic „Ion Cantacuzinio”,Str. Dr. Carol Davila nr. 1,Pitești,44.8706,24.8447
+34,3,ARGEȘ,MUNICIPIUL PITEŞTI,382,68,68,48,1,56,21,63,400,65,64,56,1,59,21,45,Liceul Teoretic „Ion Cantacuzino”,Str. Dr. Carol Davila nr. 1,Pitești,44.8706,24.8447
+35,3,ARGEȘ,MUNICIPIUL PITEŞTI,518,100,87,45,2,65,27,88,516,100,92,47,2,75,33,68,Policlinica Spitalului Județean,Aleea Spitalului nr. 32,Pitești,44.8714,24.8469
+36,3,ARGEȘ,MUNICIPIUL PITEŞTI,323,101,101,46,1,69,19,70,319,103,104,55,1,73,23,65,Școala Gimnazială „Matei Basarab” (fosta Școala nr. 19),Str. Gheorghe Ionescu Gion nr. 5,Pitești,44.868,24.8458
+37,3,ARGEȘ,MUNICIPIUL PITEŞTI,355,166,113,56,0,59,17,88,347,170,123,60,0,70,21,70,Școala Gimnazială „Matei Basarab” (fosta Școala nr. 19),Str. Gheorghe Ionescu Gion nr. 5,Pitești,44.868,24.8458
+38,3,ARGEȘ,MUNICIPIUL PITEŞTI,294,109,72,41,0,49,20,85,314,100,75,44,0,44,22,67,Școala Gimnazială „Matei Basarab” (fosta Școală nr. 19),Str. Gheorghe Ionescu Gion nr. 5,Pitești,44.868,24.8458
+39,3,ARGEȘ,MUNICIPIUL PITEŞTI,274,86,66,36,1,52,22,65,276,88,64,44,2,52,24,54,Universitatea „Constantin Brâncoveanu”,Calea Bascovului nr. 2A,Pitești,44.8699,24.8588
+40,3,ARGEȘ,MUNICIPIUL PITEŞTI,298,73,76,38,0,60,18,75,304,72,76,45,0,73,19,55,Universitatea „Constantin Brâncoveanu”,Calea Bascovului nr. 2A,Pitești,44.8699,24.8588
+41,3,ARGEȘ,MUNICIPIUL PITEŞTI,417,91,102,70,1,52,36,118,409,90,94,91,2,63,41,94,Școala Gimnazială „Alexandru Davila” (fostă Școală nr. 14),Str. Făgăraș nr. 10,Pitești,44.8679,24.8622
+42,3,ARGEȘ,MUNICIPIUL PITEŞTI,345,103,95,70,2,70,34,104,363,101,97,91,3,81,30,62,Școala Gimnazială „Marin Preda” (fosta Școală nr. 10),Str. Pictor Nicolae Grigorescu nr. 37,Pitești,44.8633,24.8735
+43,3,ARGEȘ,MUNICIPIUL PITEŞTI,334,90,66,51,0,75,30,83,337,87,70,68,1,69,31,62,Școala Gimnazială „Marin Preda” (fosta Școală nr. 10),Str. Pictor Nicolae Grigorescu nr. 41,Pitești,44.8633,24.8735
+44,3,ARGEȘ,MUNICIPIUL PITEŞTI,375,95,102,62,0,70,27,139,393,99,108,92,0,83,23,65,Școala Gimnazială „Marin Preda” (fosta Școală nr. 10),Str. Pictor Nicolae Grigorescu nr. 37,Pitești,44.8633,24.8735
+45,3,ARGEȘ,MUNICIPIUL PITEŞTI,142,69,60,38,3,29,17,71,154,74,60,42,2,34,17,44,Colegiul Tehnic „Armand Călinescu”,Bulevardul Ion C. Brătianu (Str. 1 Mai) nr. 44,Pitești,44.86,24.8716
+46,3,ARGEȘ,MUNICIPIUL PITEŞTI,277,133,94,62,2,70,24,73,294,127,100,72,1,57,26,53,Colegiul Tehnic „Armand Călinescu”,Bulevardul Ion C. Brătianu (Str. 1 Mai) nr. 44,Pitești,44.86,24.8716
+47,3,ARGEȘ,MUNICIPIUL PITEŞTI,280,89,80,36,2,50,18,56,294,81,86,41,2,45,20,46,Școala Gimnazială „Nicolae Simonide” (fostă Școală nr. 1),Str. 9 Mai nr. 50,Pitești,44.8606,24.8747
+48,3,ARGEȘ,MUNICIPIUL PITEŞTI,266,111,75,81,0,62,16,74,281,99,75,93,1,65,18,47,Școala Gimnazială „Nicolae Simonide” (fostă Școală nr. 1),Str. 9 Mai nr. 50,Pitești,44.8606,24.8747
+49,3,ARGEȘ,MUNICIPIUL PITEŞTI,191,75,51,26,0,41,23,63,198,73,53,31,0,38,25,51,Școala Gimnazială „Nicolae Simonide” (fostă Școală nr. 1),Str. 9 Mai nr. 50,Pitești,44.8606,24.8747
+50,3,ARGEȘ,MUNICIPIUL PITEŞTI,179,62,56,19,2,37,6,33,170,59,53,25,3,49,8,23,Direcția Apelor Argeș-Vedea,Calea Câmpulung (Calea Cîmpulung) nr. 6,Pitești,44.8696,24.8843
+51,3,ARGEȘ,MUNICIPIUL PITEŞTI,332,111,112,54,1,76,29,85,333,110,111,72,2,85,26,56,Dispensarul nr. 16 (În Clădirea Creșei nr. 9),Str. Mihai Eminescu nr. 1,Pitești,44.8629,24.8781
+52,3,ARGEȘ,MUNICIPIUL PITEŞTI,252,127,108,53,1,50,22,72,261,131,103,63,2,48,19,53,Școala Gimnazială „Nicolae Iorga” (fostă Școală nr. 5),Str. Râurilor (Str. Rîurilor) nr. 5,Pitești,44.8567,24.8803
+53,3,ARGEȘ,MUNICIPIUL PITEŞTI,154,79,67,49,2,62,18,58,156,85,53,52,3,70,18,46,Școala Gimnazială „Nicolae Iorga” (fostă Școală nr. 5),Str. Râurilor (Str. Rîurilor) nr. 5,Pitești,44.8567,24.8803
+54,3,ARGEȘ,MUNICIPIUL PITEŞTI,332,76,79,52,0,56,22,74,337,81,82,56,0,70,19,42,Școala Gimnazială „Tudor Vladimirescu” (fostă Școală nr. 20),Str. Călugăreni nr. 3,Pitești,44.8481,24.8897
+55,3,ARGEȘ,MUNICIPIUL PITEŞTI,310,74,95,32,0,44,18,85,315,76,96,46,0,52,20,52,Școala Gimnazială „Tudor Vladimirescu” (fostă Școală nr. 20),Str. Călugăreni nr. 3,Pitești,44.8481,24.8897
+56,3,ARGEȘ,MUNICIPIUL PITEŞTI,377,80,94,50,0,47,13,78,369,92,87,56,0,63,15,53,Școala Gimnazială „Tudor Vladimirescu” (fostă Școală nr. 20),Str. Călugăreni nr. 3,Pitești,44.8481,24.8897
+57,3,ARGEȘ,MUNICIPIUL PITEŞTI,317,90,80,39,0,38,13,69,311,99,74,44,1,54,17,45,Școala Gimnazială „Mircea Eliade” (fostă Școală nr. 18),Bulevardul Petrochimiștilor (Șoseaua Giurgiului) nr. 31,Pitești,44.8324,24.9097
+58,3,ARGEȘ,MUNICIPIUL PITEŞTI,363,66,67,37,0,36,16,65,356,76,63,42,1,57,10,42,Școala Gimnazială „Mircea Eliade” (fostă Școală nr. 18),Bulevardul Petrochimiștilor (Șoseaua Giurgiului) nr. 31,Pitești,44.8324,24.9097
+59,3,ARGEȘ,MUNICIPIUL PITEŞTI,287,58,58,30,1,47,28,83,295,61,58,30,1,60,25,58,Școala Gimnazială „Tudor Arghezi” (fostă Școală nr. 7),"Str. Armand Călinescu (Str. Horia,Cloșca și Crișan) (D) nr. 7",Pitești,44.8372,24.9027
+60,3,ARGEȘ,MUNICIPIUL PITEŞTI,368,96,90,42,0,52,20,73,377,95,88,48,0,62,18,50,Școala Gimnazială „Tudor Arghezi” (fostă Școală nr. 7),"Str. Armand Călinescu (Str. Horia,Cloșca și Crișan) (D) nr. 7",Pitești,44.8372,24.9027
+61,3,ARGEȘ,MUNICIPIUL PITEŞTI,397,133,106,51,0,71,34,85,395,136,105,56,0,85,32,67,Școala Gimnazială „Tudor Arghezi” (fostă Școală nr. 7),"Str. Armand Călinescu (Str. Horia,Cloșca și Crișan) (D) nr. 7",Pitești,44.8372,24.9027
+62,3,ARGEȘ,MUNICIPIUL PITEŞTI,417,88,70,44,0,57,18,74,404,95,77,50,0,66,20,56,Școala Gimnazială „Tudor Arghezi” (fostă Școală nr. 7),"Str. Armand Călinescu (Str. Horia,Cloșca și Crișan) (D) nr. 7",Pitești,44.8372,24.9027
+63,3,ARGEȘ,MUNICIPIUL PITEŞTI,242,52,78,35,1,54,18,92,259,53,80,41,1,68,20,53,Colegiul Tehnic „Costin D. Nenițescu”,Bulevardul Petrochimiștilor (Șoseaua Giurgiului) nr. 23,Pitești,44.8315,24.9093
+64,3,ARGEȘ,MUNICIPIUL PITEŞTI,320,66,66,48,1,46,21,70,302,70,74,55,1,64,23,49,Colegiul Tehnic „Costin D. Nenițescu”,Bulevardul Petrochimiștilor (Șoseaua Giurgiului) nr. 23,Pitești,44.8315,24.9093
+65,3,ARGEȘ,MUNICIPIUL PITEŞTI,363,56,71,27,3,30,17,74,376,58,66,35,1,33,18,55,Colegiul Tehnic „Costin D. Nenițescu”,Bulevardul Petrochimiștilor (Șoseaua Giurgiului) nr. 23,Pitești,44.8315,24.9093
+66,3,ARGEȘ,MUNICIPIUL PITEŞTI,383,145,109,71,0,71,34,108,397,143,117,82,0,78,29,68,Școala nr. 2 - Structură a Școlii Gimnaziale „Tudor Vladimirescu” (fosta Școală nr. 8),Bulevardul Republicii nr. 226,Pitești,44.8441,24.8921
+67,3,ARGEȘ,MUNICIPIUL PITEŞTI,389,111,93,53,2,92,39,110,385,112,93,75,1,100,44,82,Clubul Pensionarilor,Bulevardul Republicii,Pitești,44.851,24.8805
+68,3,ARGEȘ,MUNICIPIUL PITEŞTI,364,88,74,49,0,69,14,58,349,84,77,57,0,78,21,49,Școala Gimnazială „Mihai Eminescu” (fosta Școala nr. 11),Str. Tineretului nr. 4,Pitești,44.8434,24.8831
+69,3,ARGEȘ,MUNICIPIUL PITEŞTI,299,88,81,47,3,62,14,61,311,86,77,54,2,67,13,42,Școala Gimnazială „Mihai Eminescu” (fosta Școala nr. 11),Str. Tineretului nr. 4,Pitești,44.8434,24.8831
+70,3,ARGEȘ,MUNICIPIUL PITEŞTI,282,76,49,42,0,37,21,68,281,73,56,52,1,46,24,54,Grădinița cu Program Prelungit „Floare de Colț” (fosta Grădiniță nr. 5),Str. Constructorilor nr. 2A,Pitești,44.8424,24.8823
+71,3,ARGEȘ,MUNICIPIUL PITEŞTI,351,123,90,64,3,62,33,91,353,112,89,77,4,81,30,69,Universitatea Pitești,Aleea Școlii Normale nr. 7,Pitești,44.8426,24.8908
+72,3,ARGEȘ,MUNICIPIUL PITEŞTI,377,56,80,61,1,67,30,111,381,54,91,72,2,83,23,68,Colegiul Național „Alexandru Odobescu”,Str. Vasile Pârvan nr. 1,Pitești,44.84,24.8784
+73,3,ARGEȘ,MUNICIPIUL PITEŞTI,298,63,39,41,1,44,18,94,304,70,45,53,2,60,18,53,Colegiul Național „Alexandru Odobescu”,Str. Vasile Pârvan nr. 1,Pitești,44.84,24.8784
+74,3,ARGEȘ,MUNICIPIUL PITEŞTI,315,52,50,50,1,36,16,75,314,54,56,49,1,62,17,43,Grădinița cu Program Prelungit „Armonia” (fosta Grădiniță nr. 8),Str. Independenței nr. 20,Pitești,44.8395,24.8752
+75,3,ARGEȘ,MUNICIPIUL PITEŞTI,282,60,61,42,0,40,21,61,281,61,60,46,0,47,25,52,Școala Gimnazială „Ion Minulescu” (fosta Școală nr. 2),Str. Exercițiu nr. 206,Pitești,44.8446,24.8766
+76,3,ARGEȘ,MUNICIPIUL PITEŞTI,395,76,79,55,4,76,36,96,395,89,67,60,4,86,40,80,Școala Gimnazială „Ion Minulescu” (fosta Școală nr. 2),Str. Exercițiu nr. 206,Pitești,44.8446,24.8766
+77,3,ARGEȘ,MUNICIPIUL PITEŞTI,342,70,75,58,0,53,28,85,347,75,76,63,0,61,28,58,Colegiul Tehnic „Dimitrie Dima”,Str. Războieni nr. 35,Pitești,44.8416,24.8742
+78,3,ARGEȘ,MUNICIPIUL PITEŞTI,332,25,55,37,0,54,11,59,315,28,56,39,0,78,9,45,Colegiul Tehnic „Dimitrie Dima”,Str. Războieni nr. 35,Pitești,44.8416,24.8742
+79,3,ARGEȘ,MUNICIPIUL PITEŞTI,229,39,44,21,1,40,5,46,229,35,52,29,1,51,4,22,Școala Gimnazială „Tudor Mușatescu” (fosta Școala nr. 17) (Intrarea A),Str. Vasile Pârvan nr. 3,Pitești,44.8415,24.8773
+80,3,ARGEȘ,MUNICIPIUL PITEŞTI,211,37,40,27,1,29,13,63,207,37,44,32,1,40,14,41,Școala Gimnazială „Tudor Mușatescu” (fostă Școală nr. 17) (Intrarea B),Str. Vasile Pârvan nr. 3,Pitești,44.8417,24.877
+81,3,ARGEȘ,MUNICIPIUL PITEŞTI,397,133,117,37,4,77,23,75,394,141,109,49,4,82,27,56,Liceul Tehnologic „Constantin Brâncuși” (Fost Liceu Tehnologic de Industrializarea Lemnului),Str. Pătrașcu Vodă nr. 2,Pitești,44.8478,24.8779
+82,3,ARGEȘ,MUNICIPIUL PITEŞTI,356,115,87,52,2,67,27,71,360,113,84,59,1,86,24,48,Liceul Tehnologic „Constantin Brâncuși” (Fost Liceu Tehnologic de Industrializarea Lemnului),Str. Pătrașcu Vodă nr. 2,Pitești,44.8478,24.8779
+83,3,ARGEȘ,MUNICIPIUL PITEŞTI,373,101,79,37,1,78,16,69,387,104,85,42,2,72,18,52,Grădinița cu Program Normal „Istețel” (fosta Grădiniță nr. 4),Str. Constantin Dobrescu-Argeș nr. 4,Pitești,44.848,24.8713
+84,3,ARGEȘ,MUNICIPIUL PITEŞTI,383,91,78,55,1,88,31,87,355,90,83,65,1,122,34,67,Grădinița cu Program Prelungit „Aripi Deschise” (fosta Grădiniță nr. 14),Str. Frații Trifonescu (Aleea Frații Trifonescu) (D) nr. 6,Pitești,44.8501,24.8671
+85,3,ARGEȘ,MUNICIPIUL PITEŞTI,350,89,84,36,0,70,24,79,355,89,92,48,0,72,23,53,Școala Gimnazială „I. L. Caragiale” (fostă Școală nr. 16),Intrarea Petrache Poenaru nr. 4,Pitești,44.8488,24.8701
+86,3,ARGEȘ,MUNICIPIUL PITEŞTI,339,84,63,32,0,56,33,95,340,91,62,39,2,67,30,67,Școala Gimnazială „I. L. Caragiale” (fostă Școală nr. 16),Intrarea Petrache Poenaru nr. 4,Pitești,44.8488,24.8701
+87,3,ARGEȘ,MUNICIPIUL PITEŞTI,358,118,61,56,0,61,37,93,349,123,64,63,1,80,38,73,Școala Gimnazială „I. L. Caragiale” (fostă Școală nr. 16),Intrarea Petrache Poenaru nr. 4,Pitești,44.8488,24.8701
+88,3,ARGEȘ,MUNICIPIUL PITEŞTI,352,94,82,44,1,61,32,69,330,98,93,49,1,78,31,49,Școala Gimnazială „Traian” (fostă Școală nr. 4),Str. Traian nr. 35,Pitești,44.8516,24.8708
+89,3,ARGEȘ,MUNICIPIUL PITEŞTI,328,96,75,64,1,69,35,103,332,100,79,77,1,74,38,70,Școala Gimnazială „Traian” (fostă Școală nr. 4),Str. Traian nr. 35,Pitești,44.8516,24.8708
+142,3,ARGEȘ,ORAŞ COSTEŞTI,116,3,27,13,1,13,4,9,106,4,28,18,1,13,3,10,Școala Generală Podu Broșteni,,Podu Broșteni,44.7426,24.8563
+327,3,ARGEȘ,DÎMBOVICIOARA,203,11,33,21,0,7,2,23,194,10,32,23,0,10,4,25,Căminul Cultural Podu Dîmboviței,,Podu Dâmboviței,45.4088,25.1998
+417,3,ARGEȘ,POIANA LACULUI,351,21,80,12,0,18,9,37,351,23,81,13,0,14,10,34,Școala cu Clasele I-VIII Poiana Lacului,,Poiana Lacului,44.8048,24.7371
+426,3,ARGEȘ,POIENARII DE ARGEŞ,124,6,243,19,0,10,3,12,124,7,243,21,0,10,4,12,Cămin Cultural Poienari,,Poienari,45.0676,24.5275
+428,3,ARGEȘ,POIENARII DE MUSCEL,220,16,56,44,1,31,7,22,216,15,57,46,1,32,5,23,Școala Gimnazială nr. 1 Poienarii de Muscel,,Poienari,45.221,25.0462
+222,3,ARGEȘ,BĂLILEŞTI,276,5,36,8,0,9,11,28,275,9,38,11,0,12,11,21,Cămin Cultural Poienița,,Poienița,45.111,24.9271
+431,3,ARGEȘ,POPEŞTI,186,3,11,12,1,21,4,16,176,4,9,12,0,26,4,19,Școala Popești,,Popești,44.4426,25.0983
+456,3,ARGEȘ,SĂPATA,269,9,21,38,0,20,9,30,246,10,20,41,1,40,13,26,Cămin Cultural Popești,"Nr. 17, Bloc -",Popești,44.7439,24.751
+434,3,ARGEȘ,PRIBOIENI,416,14,59,20,0,24,20,35,420,16,61,17,1,25,19,28,Școala Gimnazială „C. Rădulescu Codin”,,Priboieni,44.8751,25.0868
+435,3,ARGEȘ,PRIBOIENI,502,16,74,31,3,26,12,36,494,14,77,36,3,33,13,31,Clubul Tineretului Priboieni,,Priboieni,44.8743,25.0833
+512,3,ARGEȘ,VEDEA,191,6,26,12,0,16,9,13,184,5,27,15,0,18,9,15,Școala Prodani,,Prodani,44.7476,24.64
+380,3,ARGEȘ,MICEŞTI,244,26,55,70,0,23,8,30,244,26,50,72,1,28,11,30,Cămin Cultural Purcăreni,,Purcăreni,44.9674,24.8859
+433,3,ARGEȘ,POPEŞTI,190,0,13,17,0,13,1,7,189,2,10,21,0,13,1,5,Școala Purcăreni,,Purcăreni,44.4463,25.1336
+143,3,ARGEȘ,ORAŞ COSTEŞTI,121,2,21,12,1,14,4,11,116,3,22,13,1,12,6,12,Școala Generală Pîrvu Roșu,,Pârvu Roșu,44.7339,24.9019
+423,3,ARGEȘ,POIANA LACULUI,135,8,31,3,0,9,9,14,131,12,27,3,0,14,9,15,Grădinița Păduroiu din Deal,,Păduroiu din Deal,44.7938,24.7208
+424,3,ARGEȘ,POIANA LACULUI,102,6,29,9,0,7,9,23,101,6,29,13,1,13,9,15,Grădinița Păduroiu din Vale,,Păduroiu din Vale,44.7914,24.6988
+439,3,ARGEȘ,RĂTEŞTI,237,17,21,14,0,6,4,16,231,16,22,16,0,5,7,23,Școala cu Clasele I-IV Pătuleni,,Pătuleni,44.7328,25.1622
+370,3,ARGEȘ,MĂLURENI,172,2,6,14,0,6,1,9,159,3,7,14,0,8,2,6,Tabăra Păuleasca,,Păuleasca,45.0151,24.833
+381,3,ARGEȘ,MICEŞTI,182,24,21,11,1,5,3,18,177,26,15,13,1,7,4,22,Școala Primară nr. 2 Păuleasca,,Păuleasca,45.0095,24.8406
+162,3,ARGEȘ,ORAŞ MIOVENI,302,16,40,15,0,15,9,21,303,17,36,21,0,14,10,23,Școala Gimnazială „Marin Sorescu” Racovița,,Racovița,44.9685,24.9601
+163,3,ARGEȘ,ORAŞ MIOVENI,231,4,17,12,0,17,7,19,233,5,17,13,0,18,7,15,Fostul Sediu al Școlii Racovița de Sus,Str. Nicolae Racoviceanu,Racovița,44.9706,24.9748
+276,3,ARGEȘ,CĂLINEŞTI,91,17,13,15,0,5,1,12,89,18,11,17,0,5,0,9,Școala Radu Negru,,Radu Negru,44.8634,25.0076
+442,3,ARGEȘ,RECEA,451,9,30,42,0,16,8,34,425,11,34,43,0,39,14,31,Școala Generală nr. 1 Recea,,Recea,44.5203,25.0307
+415,3,ARGEȘ,PIETROŞANI,258,6,37,17,1,21,10,26,257,9,31,19,0,19,8,28,Școala Generală cu Clasele I-IV Retevoiești,,Retevoiești,45.1398,24.8414
+444,3,ARGEȘ,ROCIU,171,2,6,7,1,9,3,12,167,4,7,7,1,9,3,11,"Grădinița cu Program Normal „Marin Angelescu”, Rociu",,Rociu,44.6695,25.0408
+448,3,ARGEȘ,RUCĂR,305,29,76,47,0,17,20,33,302,32,77,51,0,18,17,27,Liceul Tehnologic „Victor Slăvescu” - Sala de Sport,,Rucăr,45.3912,25.1748
+449,3,ARGEȘ,RUCĂR,293,17,49,27,0,12,11,28,296,18,38,28,1,16,14,31,Școala Generală nr. 2 - Clasa nr. 1,,Rucăr,45.3916,25.1749
+450,3,ARGEȘ,RUCĂR,255,12,59,34,0,14,2,14,247,15,60,37,1,12,3,14,Școala Gimnazială „Nae a Ghica” - Sala de Sport,,Rucăr,45.3919,25.1655
+452,3,ARGEȘ,RUCĂR,360,24,111,53,0,18,17,39,361,27,110,59,0,20,12,29,Școala Gimnazială „Nae A. Ghica” - Sala Clasă Pregătitoare,,Rucăr,45.3919,25.1655
+481,3,ARGEȘ,ŞUICI,205,4,33,20,0,15,4,16,200,4,34,22,0,15,6,19,Școala Primară Rudeni,,Rudeni,45.229,24.5507
+441,3,ARGEȘ,RÂCA,545,3,13,6,0,24,4,5,544,2,15,8,0,26,3,3,Caminul Cultural Râca,,Râca,44.4334,25.0427
+496,3,ARGEȘ,UDA,93,3,23,17,0,5,2,8,92,5,23,18,0,5,2,4,Cămin Cultural Govora,,Râjlețu-Govora,44.8217,24.579
+300,3,ARGEȘ,COCU,72,2,13,10,0,2,8,11,72,3,12,10,0,4,7,10,Școală Richițele de Jos,,Răchițele de Jos,44.8846,24.6614
+301,3,ARGEȘ,COCU,57,3,8,5,0,1,1,4,54,2,10,5,0,3,3,5,Școală Primară Richițele de Sus,,Răchițele de Sus,44.9041,24.6522
+467,3,ARGEȘ,STÎLPENI,460,16,28,20,0,33,14,36,454,17,32,19,1,33,11,37,Caminul Cultural Rădești,,Rădești,45.0703,25.0001
+409,3,ARGEȘ,NUCŞOARA,148,1,21,11,0,12,8,15,142,2,21,10,2,13,8,14,Cămin Cultural Sboghițești,,Sboghițești,45.3314,24.8057
+207,3,ARGEȘ,BASCOV,314,42,54,43,2,26,6,29,317,39,63,45,1,23,7,18,Școala Generală Schiau,,Schiau,44.9112,24.8059
+460,3,ARGEȘ,SCHITU GOLEŞTI,281,11,80,16,0,30,4,16,276,13,76,18,1,32,5,15,Cămin Cultural Schitu Golești,,Schitu Golești,45.2007,25.0044
+280,3,ARGEȘ,CĂTEASCA,77,8,17,10,0,16,2,9,82,8,12,11,0,16,2,7,Căminul Cultural Siliștea,,Siliștea,44.7386,25.0426
+410,3,ARGEȘ,NUCŞOARA,186,4,10,17,0,18,1,11,183,2,13,19,0,19,1,12,Cămin Cultural Slatina,,Slatina,45.3567,24.8014
+432,3,ARGEȘ,POPEŞTI,175,5,9,7,0,20,1,9,166,2,8,10,0,20,2,12,Școala Slobozia,,Slobozia,44.4335,25.1263
+462,3,ARGEȘ,SLOBOZIA,375,14,37,13,0,16,6,18,361,14,37,19,0,16,5,17,Școala Gen.nr. 2 Clasele I-IV,,Slobozia,44.5229,25.2466
+464,3,ARGEȘ,SLOBOZIA,434,14,17,22,0,8,4,34,439,15,20,25,0,10,6,19,Șoala Generală din Centrul Comunei,,Slobozia,44.5201,25.2362
+212,3,ARGEȘ,BĂBANA,192,7,19,25,0,7,7,28,198,5,15,26,1,10,3,20,Școala Slătioarele,,Slăatioarele,44.8619,24.7508
+201,3,ARGEȘ,ANINOASA,294,8,57,10,0,16,5,39,301,13,58,16,0,18,4,28,Școala Gimnazială Slănic,,Slănic,45.2292,24.8911
+395,3,ARGEȘ,MOŞOAIA,260,45,65,22,0,22,12,37,257,46,67,24,0,25,10,29,Școala cu Clasele I-IV Smeura,,Smeura,44.8328,24.8371
+397,3,ARGEȘ,MOŞOAIA,133,45,79,21,0,38,10,26,128,49,79,28,0,32,14,25,Societatea Comercială Building Astrom Societate cu Răspundere Limitată,Str. Străinari nr. 30,Smeura,44.8473,24.8372
+468,3,ARGEȘ,STOENEŞTI,203,15,60,22,0,36,33,44,195,19,60,23,0,32,35,44,Cămin Cultural Stoenești,,Stoenești,45.262,25.1737
+472,3,ARGEȘ,STOLNICI,386,11,23,40,1,22,7,23,388,10,25,40,0,20,8,22,Grădinița cu Program Normal Stolnici,,Stolnici,44.5627,24.7792
+403,3,ARGEȘ,MUŞĂTEŞTI,278,8,24,6,1,20,13,29,270,9,26,9,1,20,14,32,Școala Generală Stroești,,Stroești,45.1204,24.7948
+268,3,ARGEȘ,CĂLDĂRARU,205,3,6,34,0,7,2,15,203,6,7,35,0,7,3,12,Școala Generală cu Clasele I-VIII Strîmbeni,,Strâmbeni,44.4675,24.9749
+465,3,ARGEȘ,STÎLPENI,555,8,67,42,0,19,12,32,538,10,70,48,1,19,12,34,Grădinița cu Program Prelungit Stîlpeni,,Stâlpeni,45.0456,24.982
+144,3,ARGEȘ,ORAŞ COSTEŞTI,23,0,29,5,1,2,4,7,25,1,29,5,1,2,1,3,Școala Generală Stîrci,,Stârci,44.6904,24.8358
+310,3,ARGEȘ,CORBI,169,3,47,33,0,141,1,14,164,3,47,38,0,132,3,14,Cămin Cultural Stănești,,Stănești,45.2317,24.8302
+390,3,ARGEȘ,MIROŞI,264,5,22,11,0,23,0,10,263,6,17,15,0,26,0,10,Școala Surdulești,,Surdulești,44.393,24.9561
+238,3,ARGEȘ,BOGAŢI,203,3,13,23,1,20,1,22,209,3,11,22,0,25,3,16,Școala Suseni,,Suseni,44.8973,25.139
+475,3,ARGEȘ,SUSENI,174,12,84,22,0,8,8,23,182,15,80,19,1,8,9,22,Școala Gimnazială Marin Braniște,,Suseni,44.7106,24.9507
+388,3,ARGEȘ,MIOARELE,78,3,26,10,0,6,5,18,78,6,27,10,0,5,7,15,Școala Primară I-IV Suslănești,,Suslănești,45.2398,25.119
+495,3,ARGEȘ,UDA,78,1,66,13,0,7,2,7,75,3,67,12,0,9,4,8,Școala I-IV Săliștea,,Săliștea,44.8575,24.5984
+453,3,ARGEȘ,SĂLĂTRUCU,313,11,66,23,0,15,13,31,325,8,65,25,0,16,9,25,Căminul Cultural Sălătrucu Centru,,Sălătrucu,45.3189,24.5118
+420,3,ARGEȘ,POIANA LACULUI,148,6,88,11,0,10,2,11,148,7,87,11,0,9,2,8,Școala cu Clasele I-VIII Sămara,,Sămara,44.8298,24.7139
+451,3,ARGEȘ,RUCĂR,38,0,4,7,0,2,2,8,35,1,5,7,0,2,3,10,Școala Sătic,,Sătic,45.4455,25.1662
+484,3,ARGEȘ,TEIU,317,13,41,12,0,19,5,16,316,13,43,10,1,28,7,23,Cămin Cultural Teiu,,Teiu,44.6549,25.1279
+320,3,ARGEȘ,CUCA,203,1,15,8,0,6,2,15,208,3,12,8,0,8,3,12,Școala Primară Lăunele,,Teodorești,44.9239,24.4829
+436,3,ARGEȘ,RĂTEŞTI,168,12,18,19,1,7,3,18,166,12,14,20,0,9,2,16,Căminul Cultural Tigveni,,Tigveni,44.7383,25.1433
+486,3,ARGEȘ,TIGVENI,437,6,33,17,0,14,38,56,424,8,37,17,1,14,43,61,Primăria Tigveni,,Tigveni,45.1369,24.5617
+263,3,ARGEȘ,BUZOEŞTI,83,0,8,7,0,2,1,3,80,1,8,6,0,3,1,4,Școala Gimnazială Tomșanca,,Tomșanca,44.6204,24.9349
+366,3,ARGEȘ,MĂLURENI,66,1,12,6,0,5,0,3,63,1,10,4,0,6,2,7,Școala Bohari,,Toplița,45.0429,24.7686
+367,3,ARGEȘ,MĂLURENI,141,2,8,3,0,4,2,9,145,1,7,3,0,5,2,7,Școala Toplița,,Toplița,45.0896,24.7311
+179,3,ARGEȘ,ORAŞ TOPOLOVENI,226,30,45,33,1,12,9,33,234,31,50,33,0,9,10,24,Școala Primară Goleștii-Badii,Calea București nr. 249,Topoloveni,44.8037,25.0979
+180,3,ARGEȘ,ORAŞ TOPOLOVENI,239,44,55,35,0,21,16,37,247,46,47,32,0,26,18,33,Liceul Teoretic „Ion Mihalache” Topoloveni,Calea București nr. 131,Topoloveni,44.8072,25.0855
+181,3,ARGEȘ,ORAŞ TOPOLOVENI,271,42,56,26,1,22,12,32,261,43,61,26,1,30,14,27,Liceul Teoretic „Ion Mihalache” Topoloveni,Calea București nr. 131,Topoloveni,44.8072,25.0855
+182,3,ARGEȘ,ORAŞ TOPOLOVENI,192,14,36,18,0,13,12,28,193,13,37,18,0,14,14,28,Centrul de Zi Topoloveni,"Str. Maximilian Popovici (Str. Abatorului, Str. Industriei, Str. Stadionului, Str. Viitorului) nr. 4",Topoloveni,44.8059,25.0849
+183,3,ARGEȘ,ORAŞ TOPOLOVENI,221,32,43,26,1,17,7,18,217,35,41,28,0,19,7,20,Școala Gimnazială „Nicolae Cristescu” Topoloveni,Calea București nr. 62,Topoloveni,44.8101,25.0804
+184,3,ARGEȘ,ORAŞ TOPOLOVENI,217,14,68,27,0,16,7,34,207,15,70,32,0,26,9,29,Școala Gimnazială „Nicolae Cristescu” Topoloveni,Calea București nr. 62,Topoloveni,44.8101,25.0804
+185,3,ARGEȘ,ORAŞ TOPOLOVENI,234,45,58,31,0,21,11,40,227,44,56,40,0,30,14,31,Școala Gimnazială „Nicolae Cristescu” Sala de Sport,Calea București nr. 62,Topoloveni,44.8101,25.0804
+186,3,ARGEȘ,ORAŞ TOPOLOVENI,85,3,18,9,1,3,3,7,80,2,15,13,1,6,5,9,Școala Primară Inuri,Str. Slt. Mihai Mihail (Str. Egalității) nr. 51,Topoloveni,44.8281,25.0874
+187,3,ARGEȘ,ORAŞ TOPOLOVENI,189,13,28,24,0,10,4,14,181,15,25,25,1,14,4,17,Școala Primară Țigănești- Linie,Str. Ion Mihalache (Str. Primăverii) nr. 368,Topoloveni,44.8405,25.0849
+219,3,ARGEȘ,BĂICULEŞTI,346,16,65,33,0,26,7,16,348,17,63,34,0,25,8,18,Sediul Administrativ Tutana,,Tutana,45.0412,24.6509
+493,3,ARGEȘ,UDA,115,0,29,7,1,11,6,16,119,0,27,8,0,7,9,18,Școala I-VIII Uda,,Uda,44.8939,24.5688
+497,3,ARGEȘ,UNGHENI,213,5,26,22,0,4,3,21,212,4,23,26,0,4,4,19,Școala cu Clasele I-VIII Ungheni,,Ungheni,44.4965,24.9618
+277,3,ARGEȘ,CĂLINEŞTI,109,1,18,24,0,8,0,7,100,1,19,24,1,8,1,9,Școala Rincaciov,Nr. 221,Urlucea,44.8666,25.0327
+229,3,ARGEȘ,BÎRLA,114,4,53,20,1,17,5,13,112,7,50,23,0,17,5,18,Școala Urluieni,,Urlueni,44.4801,24.7836
+286,3,ARGEȘ,CEPARI,60,4,23,3,1,3,0,4,65,3,23,2,0,2,0,4,Școala Urluiești,,Urluiești,45.1985,24.5207
+471,3,ARGEȘ,STOENEŞTI,190,2,15,10,1,5,3,16,182,5,19,9,0,3,5,15,Școala Gen. Valea Bădenilor,,Valea Bădenilor,45.262,25.1918
+483,3,ARGEȘ,ŞUICI,27,1,3,2,1,2,2,5,28,1,4,2,0,2,1,3,Școala Primară Valea Calului,,Valea Calului,45.2276,24.5849
+290,3,ARGEȘ,CETĂŢENI,69,0,11,18,0,1,0,141,181,1,30,39,0,2,5,17,Școala I-IV Valea Cetățuia,,Valea Cetățuia,45.2081,25.2128
+500,3,ARGEȘ,VALEA DANULUI,395,21,142,83,0,24,16,41,392,21,141,78,1,26,17,42,Căminul Cultural Valea Danului,,Valea Danului,45.1782,24.6352
+340,3,ARGEȘ,DRAGOSLAVELE,124,0,54,19,0,10,0,38,139,1,59,34,0,12,0,7,Școala Valea Hotarului,,Valea Hotarului,45.3205,25.1693
+502,3,ARGEȘ,VALEA IAŞULUI,200,10,79,19,1,16,17,28,198,16,77,23,2,16,14,26,Școala Gimnazială Valea Iașului,,Valea Iașului,45.1858,24.7041
+506,3,ARGEȘ,VALEA MARE PRAVĂŢ,285,35,66,22,0,42,24,46,287,35,62,28,1,44,22,40,Cămin Cultural Valea Mare Pravăț,,Valea Mare Pravăț,45.2936,25.0942
+170,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,254,29,33,35,1,26,4,26,239,31,33,40,1,31,7,30,Căminul Cultural Valea Mare,,Valea Mare-Podgoria,44.8826,24.9016
+171,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,293,59,72,55,0,52,17,38,282,57,65,64,0,59,21,42,Școala Generală „Constantin Brâncoveanu” Valea Mare,,Valea Mare-Podgoria,44.8787,24.8995
+172,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,305,140,120,58,3,41,21,67,298,132,133,71,3,41,21,52,S.C. Ana-Imep S.A.,,Valea Mare-Podgoria,44.8672,24.8943
+492,3,ARGEȘ,ŢIŢEŞTI,148,2,35,5,0,4,0,9,146,1,33,7,0,3,1,11,Școala cu Clasele I-IV Valea Mănăstirii,,Valea Mănăstirii,45.0254,25.0108
+332,3,ARGEȘ,DÎRMĂNEŞTI,148,3,34,10,0,10,4,13,146,4,32,11,1,9,3,10,Școala Valea Nandrii,,Valea Nandrii,45.018,24.8799
+383,3,ARGEȘ,MIHĂEŞTI,285,11,27,19,0,24,6,19,282,12,31,23,0,19,6,18,Școala Generală Valea Popii,,Valea Popii,45.0913,25.0167
+200,3,ARGEȘ,ANINOASA,156,7,32,8,0,21,8,18,151,9,30,7,0,24,12,19,Cămin Cultural Valea Siliștii,,Valea Siliștii,45.1897,24.9055
+490,3,ARGEȘ,ŢIŢEŞTI,233,7,59,14,1,21,7,26,227,8,65,16,0,24,6,18,Școala cu Clasele I-IV Valea Stânii,,Valea Stânii,44.9866,24.9634
+209,3,ARGEȘ,BASCOV,335,36,73,31,2,52,7,35,325,39,75,35,3,53,12,31,Școala Generală Valea Ursului,,Valea Ursului,44.8877,24.7759
+218,3,ARGEȘ,BĂICULEŞTI,285,10,28,9,0,7,3,9,282,7,27,11,0,8,5,12,Căminul Cultural,,Valea lui Enache,45.0812,24.6436
+511,3,ARGEȘ,VEDEA,204,11,20,8,0,10,4,14,203,14,19,10,0,7,3,15,Școala Vața,,Vața,44.7586,24.669
+510,3,ARGEȘ,VEDEA,262,8,41,17,0,23,10,20,250,9,41,17,1,23,11,27,Liceul Tehnologic Vedea,,Vedea,44.779,24.6278
+501,3,ARGEȘ,VALEA DANULUI,185,7,69,34,0,11,6,18,183,6,73,34,0,9,4,17,Căminul Cultural Vernești,,Vernești,45.195,24.605
+488,3,ARGEȘ,TIGVENI,75,2,3,5,1,1,7,11,77,2,4,4,1,2,4,7,Școala cu Clasele I-IV Vlădești,,Vlădești,45.1542,24.5207
+516,3,ARGEȘ,VLĂDEŞTI,445,8,44,44,2,57,19,30,444,9,44,42,1,59,16,29,Grădinița nr. 3,,Vlădești,45.1526,24.9249
+517,3,ARGEȘ,VLĂDEŞTI,214,2,16,16,1,3,17,37,238,7,16,18,0,4,15,22,Școala Primară nr. 2,,Vlădești,45.1754,24.9173
+358,3,ARGEȘ,LEREŞTI,381,36,64,43,0,50,11,38,384,38,62,43,0,44,10,38,"Școala Gimnazială nr. 1 Lerești, Sat Voinești",Str. General Vasile Milea nr. 139,Voinești,45.2988,25.0716
+324,3,ARGEȘ,DAVIDEŞTI,140,1,14,11,0,7,5,15,140,2,11,11,0,7,6,17,Școala Voroveni,,Voroveni,45.0295,25.0646
+270,3,ARGEȘ,CĂLINEŞTI,349,28,54,59,3,19,5,32,331,29,46,69,2,38,9,28,Școala Generală Vranesti,Nr. 111,Vrănești,44.8395,24.9996
+264,3,ARGEȘ,BUZOEŞTI,131,5,23,13,0,9,3,32,134,7,32,12,0,12,3,13,Școala Gimnazială Vulpești,,Vulpești,44.5895,24.9339
+518,3,ARGEȘ,VULTUREŞTI,339,13,54,43,1,12,7,26,343,11,50,48,0,13,10,24,Primăria Vulturești,Nr. 141,Vulturești,45.0633,25.0806
+378,3,ARGEȘ,MERIŞANI,199,10,19,11,1,8,5,14,190,11,19,11,1,12,7,20,Căminul Cultural Vîlcelele,,Vâlcelele,45.006,24.7019
+401,3,ARGEȘ,MUŞĂTEŞTI,104,6,16,6,0,7,2,12,103,7,13,7,0,5,3,12,Sediul Primăriei Vechi - Vilsănești,,Vâlsănești,45.1798,24.7898
+385,3,ARGEȘ,MIHĂEŞTI,186,0,55,24,0,6,4,18,194,0,51,28,0,5,3,13,Școala Generală Văcarea,,Văcarea,45.1097,25.0413
+454,3,ARGEȘ,SĂLĂTRUCU,144,1,22,8,0,5,13,23,141,1,21,7,0,4,14,24,Școala cu Clasele I-IV Văleni,,Văleni,45.2607,24.5297
+278,3,ARGEȘ,CĂLINEŞTI,164,12,25,23,0,23,7,20,165,9,23,26,0,23,9,22,Școala Valeni,,Văleni-Podgoria,44.852,24.9898
+217,3,ARGEȘ,BĂICULEŞTI,226,25,76,25,0,8,7,23,225,24,76,26,0,13,7,19,Căminul Cultural,,Zigoneni,45.0922,24.674
+368,3,ARGEȘ,MĂLURENI,140,3,40,11,0,16,9,20,140,3,37,13,0,14,9,21,Școala Zărnești,,Zărnești,45.0192,24.7694
+261,3,ARGEȘ,BUZOEŞTI,294,6,45,51,1,14,11,50,292,6,50,53,1,18,12,40,Școala Gimnazială Șerboeni,,Șerboeni,44.6386,24.8915
+447,3,ARGEȘ,ROCIU,295,10,19,15,0,14,10,25,294,10,20,19,1,12,10,26,"Școala Gimnazială „Gheorghe Mocanu” Primar, Gimnazial, Șerbănești",,Șerbănești,44.6809,24.9911
+477,3,ARGEȘ,ŞTEFAN CEL MARE,118,0,27,13,0,22,2,7,118,0,28,14,1,23,4,10,Școala cu Clasele I-VIII Ștefan Cel Mare,,Ștefan cel Mare,44.4903,25.2479
+478,3,ARGEȘ,ŞTEFAN CEL MARE,160,9,47,23,0,6,8,15,158,9,46,22,0,7,12,18,Școala cu Clasele I-VIII Ștefan Cel Mare,,Ștefan cel Mare,44.4901,25.2477
+176,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,222,39,50,26,3,31,8,25,213,36,53,30,2,32,7,22,Casa de Cultură Ștefănești,Str. Calea București nr. 54,Ștefănești,44.8607,24.944
+177,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,351,18,52,47,0,32,16,40,354,19,51,49,1,26,15,36,Școala Primară Ștefănești,,Ștefănești,44.8754,24.9589
+173,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,318,85,92,46,2,42,20,56,318,79,103,52,1,43,24,45,Liceul Tehnologic „Dinu Brătianu”,,Ștefăneștii Noi,44.8656,24.9252
+174,3,ARGEȘ,ORAŞ ŞTEFĂNEŞTI,273,35,40,39,0,41,27,58,271,41,39,35,0,53,19,43,Liceul Tehnologic „Dinu Brătianu”,,Ștefăneștii Noi,44.8656,24.9252
+480,3,ARGEȘ,ŞUICI,292,10,38,47,0,18,7,23,274,13,38,53,0,20,8,25,Cămin Cultural Șuici,,Șuici,45.2445,24.538
+188,3,ARGEȘ,ORAŞ TOPOLOVENI,201,11,33,19,0,9,7,20,209,14,30,23,0,9,7,16,Școala Generală Țigănești - Centru,Nr. 104,Țigănești,44.8497,25.0862
+491,3,ARGEȘ,ŢIŢEŞTI,149,9,76,17,0,4,5,11,147,10,78,15,0,7,5,13,Școala cu Clasele I-IV Țițești,,Țițești,45.0086,24.9816
+476,3,ARGEȘ,SUSENI,209,24,105,41,1,10,12,34,215,27,105,40,0,13,11,23,Școala Primară Gheoghe Toma,,Țuțulești,44.6959,24.9724

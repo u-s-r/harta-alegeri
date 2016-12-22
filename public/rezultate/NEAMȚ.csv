@@ -1,0 +1,487 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+442,29,NEAMȚ,TĂMĂŞENI,74,71,196,7,0,9,11,35,78,63,205,13,0,7,14,31,Liceul Tehnologic Adjudeni,,Adjudeni,47.0145,26.9484
+444,29,NEAMȚ,TĂMĂŞENI,56,65,119,8,1,4,14,32,54,51,120,9,1,9,18,29,Grădinița,,Adjudeni,47.0133,26.9514
+447,29,NEAMȚ,TĂMĂŞENI,51,51,200,8,1,11,9,32,53,50,201,13,0,9,7,30,Centrul Medical Adjudeni,,Adjudeni,47.0109,26.9514
+148,29,NEAMȚ,AGAPIA,473,22,45,17,0,15,15,54,456,28,50,20,1,19,21,51,Școala Gimnazială Nicolae Grigorescu Agapia,,Agapia,47.1719,26.2834
+292,29,NEAMȚ,GÎRCINA,108,7,30,17,0,9,10,47,105,9,36,18,0,9,10,41,Școala Almaș,Str. Almașului nr. 68/B,Almaș,47.0085,26.3498
+322,29,NEAMȚ,ION CREANGĂ,281,6,44,6,1,2,3,17,287,6,43,7,1,2,6,12,Camin Cultural,,Averești,46.8728,27.0382
+156,29,NEAMȚ,BAHNA,95,3,59,2,0,4,3,18,103,1,62,2,1,5,4,12,"Căminul Cultural, Localitatea Bahna",,Bahna,46.7753,26.8
+211,29,NEAMȚ,BOTEŞTI,334,22,106,14,1,12,6,40,348,26,102,15,0,10,9,30,Școala cu Clasele I-Vii,,Barticești,47.0596,26.7892
+419,29,NEAMȚ,SECUIENI,103,2,69,7,0,10,5,12,99,2,74,7,0,10,6,11,Căminul Cultural,,Bașta,46.865,26.9126
+388,29,NEAMȚ,REDIU,105,10,25,12,0,3,2,10,107,6,27,12,0,3,3,8,Școala cu Clasele I-IV Betesti,,Bețești,46.7404,26.578
+119,29,NEAMȚ,ORAŞ BICAZ,251,28,54,33,0,24,18,77,256,29,57,38,2,26,24,70,Primăria Orasului Bicaz,Str. Piatra Corbului nr. 13,Bicaz,46.9106,26.0872
+120,29,NEAMȚ,ORAŞ BICAZ,159,4,36,20,1,9,18,72,172,4,41,20,1,8,21,53,Școala Generală nr. 1 Marceni,Nr. 1,Bicaz,46.9137,26.0893
+121,29,NEAMȚ,ORAŞ BICAZ,216,20,46,23,1,18,21,72,222,24,49,27,3,18,26,61,Școala Generală nr. 1 Marceni,Nr. 12,Bicaz,46.9128,26.0917
+164,29,NEAMȚ,BICAZ-CHEI,248,6,22,16,0,4,5,36,248,5,24,17,0,5,10,33,Camin Cultural,,Bicaz-Chei,46.8403,25.8911
+165,29,NEAMȚ,BICAZ-CHEI,188,5,26,13,0,12,8,23,191,1,28,14,0,11,8,19,Școala Gimnazială nr. 2,,Bicaz-Chei,46.8233,25.873
+166,29,NEAMȚ,BICAZ-CHEI,294,5,33,10,0,6,11,23,303,2,34,12,1,3,11,15,Școala Gimnazială nr. 1,,Bicaz-Chei,46.8392,25.8902
+168,29,NEAMȚ,BICAZU ARDELEAN,124,9,160,11,1,15,12,55,123,11,171,15,0,19,8,34,Cămin Cultural,Nr. 203,Bicazu Ardelean,46.854,25.9314
+172,29,NEAMȚ,BIRA,98,12,58,12,1,8,6,18,104,9,50,16,1,10,8,18,Căminul Cultural Bîra,,Bira,47.0224,27.0429
+219,29,NEAMȚ,CEAHLĂU,124,6,78,6,1,13,1,17,130,4,79,4,2,13,3,15,Cămin Cultural,,Bistricioara,47.0537,25.9258
+154,29,NEAMȚ,ALEXANDRU CEL BUN,223,46,140,75,0,27,23,163,232,55,148,75,0,35,21,131,Școala Gimnazială Vaduri,Str. Mănăstirii nr. 9,Bistrița,46.9456,26.2924
+356,29,NEAMȚ,PIPIRIG,344,10,20,9,0,10,7,23,350,13,21,8,0,8,8,21,Școala Gimnazială nr. 1,Str. Ozanei nr. 176,Boboiești,47.2528,26.0352
+184,29,NEAMȚ,BODEŞTI,207,6,41,16,0,8,2,24,211,12,44,12,2,8,7,19,Școala cu Clasele I-IV,,Bodești,47.0295,26.4165
+185,29,NEAMȚ,BODEŞTI,182,4,36,17,0,8,6,36,181,6,42,15,2,9,10,32,Școala cu Clasele I-IV,,Bodești,47.0295,26.4165
+188,29,NEAMȚ,BODEŞTI,86,4,32,7,0,11,2,19,84,3,35,11,0,12,4,14,Grădiniță - (Cătună),,Bodeștii de Jos,47.0359,26.4267
+189,29,NEAMȚ,BODEŞTI,172,3,17,7,0,10,4,38,181,4,20,13,0,7,6,17,Școala cu Clasele I-VIII,,Bodeștii de Jos,47.0276,26.4402
+190,29,NEAMȚ,BOGHICEA,157,4,127,15,0,13,6,25,162,4,125,16,0,13,9,21,Școala Gimnazială Boghicea,Nr. -,Boghicea,47.0536,27.0731
+345,29,NEAMȚ,PETRICANI,332,2,23,4,0,2,14,24,329,3,22,4,1,2,18,28,Școala Generală,,Boiștea,47.1769,26.4272
+194,29,NEAMȚ,BORCA,182,12,31,10,1,21,6,32,183,8,32,11,1,24,12,35,Liceul „Mihail Sadoveanu” (Corpul B),,Borca,47.1805,25.7779
+201,29,NEAMȚ,BORLEŞTI,246,17,80,13,1,15,14,66,246,20,82,13,1,14,17,62,Școala Gimnazială Borlești,Aleea Școlii,Borlești,46.7776,26.5048
+202,29,NEAMȚ,BORLEŞTI,115,6,30,5,0,9,1,32,112,7,38,5,0,11,6,23,Grădinița Borlești Ii,Aleea Părului,Borlești,46.7748,26.4838
+252,29,NEAMȚ,DRAGOMIREŞTI,18,0,41,3,0,2,2,26,20,1,57,3,0,3,1,9,Școala Generală,,Borniș,47.0126,26.5929
+384,29,NEAMȚ,RĂZBOIENI,106,5,14,3,0,5,1,13,104,6,14,2,0,9,2,10,Școala Generală,,Borșeni,47.0815,26.5845
+208,29,NEAMȚ,BOTEŞTI,113,5,22,11,0,9,3,14,112,3,24,18,0,10,5,8,Școala cu Clasele I-IV,,Botești,47.0492,26.7447
+212,29,NEAMȚ,BOZIENI,168,3,97,3,0,16,5,25,168,6,92,5,0,19,6,20,Școala Gimnazială Bozieni (Școala Generală Bozieni),,Bozieni,46.8329,27.1646
+397,29,NEAMȚ,RUGINOASA,72,1,92,3,0,5,3,14,71,5,88,3,0,6,4,12,Fosta Scoală Bozienii de Sus,,Bozienii de Sus,46.9622,26.7045
+287,29,NEAMȚ,GIROV,75,12,39,6,0,5,3,23,73,12,46,7,0,5,6,18,Școala Botesti,,Boțești,46.9338,26.5024
+296,29,NEAMȚ,GRINŢIEŞ,123,3,41,7,0,15,12,31,131,3,44,6,1,11,11,27,Sala de Festivități,,Bradu,47.0054,25.8533
+437,29,NEAMȚ,TARCĂU,75,1,27,1,0,6,6,19,78,2,30,1,0,9,5,9,Grădinița,,Brateș,46.7997,26.1479
+178,29,NEAMȚ,BÎRGĂUANI,57,5,10,3,0,2,2,8,57,6,10,4,0,2,1,6,Fosta Școală Primară Breaza,,Breaza,47.0195,26.6429
+157,29,NEAMȚ,BAHNA,73,4,73,1,0,5,1,14,71,5,75,3,0,6,1,12,"Grădiniță cu Program Normal, Localitatea Broșteni",,Broșteni,46.7956,26.8002
+215,29,NEAMȚ,BRUSTURI,386,18,61,5,0,72,23,51,401,12,57,7,0,77,21,42,Școala Gimnazială „Ieremia Irimescu” Brusturi,,Brusturi,47.2802,26.3811
+263,29,NEAMȚ,DUMBRAVA ROŞIE,152,3,15,9,0,26,12,30,155,6,13,9,1,23,13,29,Școala Gimnazială nr. 4 Brasauti,,Brășăuți,46.8647,26.4352
+470,29,NEAMȚ,VALEA URSULUI,155,6,38,2,0,5,11,29,156,6,41,4,0,0,11,21,"Școala Bucium, Comuna Valea Ursului",,Bucium,46.7817,27.0688
+272,29,NEAMȚ,FĂUREI,128,6,233,2,1,3,13,47,134,6,237,2,0,5,16,31,Școala Primară Budesti,,Budești,46.94,26.7099
+301,29,NEAMȚ,HANGU,106,6,41,6,0,9,4,15,118,7,42,7,0,9,3,8,Școala Gimnazială Buhalnița,,Buhalnița,47.019,26.0869
+248,29,NEAMȚ,DOLJEŞTI,106,5,39,18,0,2,6,16,107,5,35,22,1,2,5,11,Școala Primară nr. 1 Buhonca,,Buhonca,47.048,26.987
+249,29,NEAMȚ,DOLJEŞTI,208,14,153,11,0,10,3,20,208,11,158,10,0,14,7,16,"Școala Gimnazială „Gheorghe Patrașcu” Buruienești, Corp B",,Buruienești,46.9938,26.9771
+250,29,NEAMȚ,DOLJEŞTI,212,11,142,9,1,6,12,28,222,6,146,10,2,9,10,19,"Școala Gimnazială „Gheorghe Patrașcu” Buruienesti, Corp C",,Buruienești,46.9948,26.9755
+420,29,NEAMȚ,SECUIENI,136,7,89,12,2,11,14,30,134,5,88,12,0,15,13,23,Căminul Cultural,,Butnărești,46.8719,26.7906
+176,29,NEAMȚ,BÎRGĂUANI,150,0,16,5,1,4,0,19,159,2,14,5,1,4,2,10,Primăria Bîrgăuani,,Bârgauani,46.9923,26.6377
+177,29,NEAMȚ,BÎRGĂUANI,225,1,15,0,0,8,2,11,230,4,17,1,0,6,2,9,Fosta Grădiniță de Copii Bîrgăuani Deal,,Bârgauani,46.9982,26.6481
+159,29,NEAMȚ,BAHNA,60,0,61,2,0,1,3,10,65,0,61,2,0,3,5,7,"Grădinița cu Program Normal, Localitatea Băhnișoara",,Băhnișoara,46.7594,26.7933
+243,29,NEAMȚ,DOCHIA,28,1,7,15,0,9,1,8,30,1,8,14,0,8,1,7,Căminul Cultural,Nr. 66,Bălușești,46.9261,26.5994
+312,29,NEAMȚ,ICUŞEŞTI,159,4,92,7,1,6,8,31,157,11,88,10,1,10,10,28,Școala Gimnazială Balusesti,,Bălușești,46.8139,27
+313,29,NEAMȚ,ICUŞEŞTI,129,4,94,37,2,7,9,29,128,3,84,44,3,7,11,23,Școala Gimnazială Balusesti,,Bălușești,46.8139,27
+181,29,NEAMȚ,BÎRGĂUANI,105,1,21,11,2,5,15,37,107,1,21,15,2,8,14,29,Școala Primară Bălănești,,Bălănești,46.9476,26.6358
+161,29,NEAMȚ,BĂLŢĂTEŞTI,361,15,243,33,1,20,7,64,237,32,2,12,365,22,22,66,Primăria Comunei Bălțătești,,Bălțătești,47.1211,26.3093
+223,29,NEAMȚ,CÎNDEŞTI,135,7,22,5,1,11,5,21,143,8,19,5,0,13,4,15,Grădinița cu Program Normal,,Bărcănești,46.7169,26.592
+122,29,NEAMȚ,ORAŞ BICAZ,216,23,43,53,2,13,20,79,217,36,40,56,1,17,21,60,Liceul Carol I,Nr. 21,Capșa,46.9097,26.0988
+436,29,NEAMȚ,TARCĂU,100,2,23,7,0,9,6,19,101,3,27,10,0,9,5,10,Grădinița,,Cazaci,46.8559,26.1439
+220,29,NEAMȚ,CEAHLĂU,184,12,274,21,1,18,15,58,199,15,262,21,1,13,17,55,Școala Grigore Ungureanu,,Ceahlău,47.0416,25.9613
+179,29,NEAMȚ,BÎRGĂUANI,48,2,14,5,0,3,5,14,47,2,15,7,1,4,2,13,Fosta Școală Primară Certieni,,Certieni,46.9776,26.6626
+423,29,NEAMȚ,STĂNIŢA,44,0,15,3,0,2,1,5,45,1,18,3,0,1,1,4,Școala Primară nr. 5 Chicerea,,Chicerea,46.9755,27.1305
+471,29,NEAMȚ,VALEA URSULUI,288,1,40,3,0,6,3,20,279,2,35,4,1,7,4,17,"Școala Chilii, Comuna Valea Ursului",,Chilii,46.7991,27.0325
+132,29,NEAMȚ,ORAŞ ROZNOV,206,10,60,16,0,10,11,47,206,12,54,19,0,12,10,47,Școala Generală Chintinici,Nr. 181,Chintinici,46.829,26.4933
+304,29,NEAMȚ,HANGU,89,5,23,4,0,7,4,22,87,3,24,4,0,7,9,22,Școala Primară Chirițeni,,Chirițeni,47.052,26.022
+343,29,NEAMȚ,PÂNCEŞTI,84,2,26,0,0,4,1,4,82,2,26,2,0,3,1,5,Școala Primară Ciurea,,Ciurea,46.8893,27.1841
+274,29,NEAMȚ,FĂUREI,36,4,31,4,0,3,2,16,34,5,28,8,0,3,4,14,Biblioteca Comunala Faurei,,Climești,46.9096,26.7475
+225,29,NEAMȚ,CORDUN,194,13,173,15,0,10,9,27,210,15,154,19,0,13,8,22,Școala Gimnazială nr. 1 - Grădinița cu Program Prelungit Cordun,,Cordun,46.9501,26.8924
+226,29,NEAMȚ,CORDUN,176,8,149,15,1,9,13,32,174,10,126,24,1,13,16,39,Școala Gimnazială nr. 1 - Grădinița cu Program Prelungit Cordun,,Cordun,46.9501,26.8924
+259,29,NEAMȚ,DULCEŞTI,109,4,38,6,0,38,3,17,105,4,35,6,0,41,5,16,Școala Corhana,,Corhana,46.9796,26.8106
+186,29,NEAMȚ,BODEŞTI,48,0,8,3,0,2,0,7,49,0,8,3,0,2,1,6,Școala,,Corni,47.0414,26.4846
+230,29,NEAMȚ,COSTIŞA,301,16,46,20,0,27,12,50,308,12,43,21,0,33,13,43,Școala Gimnazială Sat Costisa,,Costișa,46.7547,26.6496
+309,29,NEAMȚ,HORIA,216,18,124,15,1,14,9,21,221,19,116,17,1,13,9,23,Școala Gimnazială „Otilia Cazimir” Cotu Vames,Str. Plopului nr. 62,Cotu Vameș,46.9072,26.9444
+310,29,NEAMȚ,HORIA,258,18,107,13,0,7,7,28,270,17,95,17,1,9,9,20,Grădinița de Copii,Nr. 2,Cotu Vameș,46.9098,26.9464
+237,29,NEAMȚ,CRĂCĂOANI,229,3,60,8,1,2,6,22,228,5,56,9,0,4,7,21,Școala Generală,,Cracăul Negru,47.094,26.2385
+234,29,NEAMȚ,CRĂCĂOANI,174,8,46,16,2,7,10,41,179,6,49,18,0,8,13,31,Școala Gimnazială „Gheorghe Săvinescu”,,Crăcăoani,47.0976,26.3105
+235,29,NEAMȚ,CRĂCĂOANI,199,8,23,8,0,5,4,40,222,10,26,8,1,5,4,11,Școala Gimnazială „Gheorghe Săvinescu”,,Crăcăoani,47.0976,26.3105
+213,29,NEAMȚ,BOZIENI,197,1,38,3,1,10,7,18,210,0,29,5,1,9,10,15,Școala Gimnazială Bozieni - Școala Primară Cuci (Școala Generală Bozieni),,Cuci,46.826,27.1989
+293,29,NEAMȚ,GÎRCINA,175,13,33,14,1,13,4,26,173,13,35,16,1,16,5,19,Școala Gimnazială „Episcop Melchisedec Ștefănescu”,Str. Cuejdiului nr. 146,Cuejdiu,46.9902,26.296
+298,29,NEAMȚ,GRUMĂZEŞTI,166,3,8,2,0,5,1,16,170,3,7,4,0,3,5,16,Școala Primară,,Curechiștea,47.134,26.4126
+267,29,NEAMȚ,DUMBRAVA ROŞIE,108,11,74,48,0,31,13,56,108,11,75,46,0,41,13,47,Școala Gimnazială nr. 3 Cut,,Cut,46.8872,26.4158
+268,29,NEAMȚ,DUMBRAVA ROŞIE,150,6,63,65,0,16,14,54,147,7,59,71,2,23,19,41,Școala Gimnazială nr. 3 Cut,,Cut,46.8872,26.4158
+221,29,NEAMȚ,CÎNDEŞTI,219,2,71,7,0,16,2,30,221,7,70,9,0,19,5,22,Școala Gimnazială,,Cândesti,46.7239,26.5816
+260,29,NEAMȚ,DULCEŞTI,229,1,14,4,0,60,1,10,234,0,13,3,0,59,2,10,Școala Cîrlig,,Cârlig,46.9913,26.7506
+430,29,NEAMȚ,ŞTEFAN CEL MARE,92,1,7,10,0,10,6,31,90,0,10,15,0,14,4,19,Grădinița cu Program Normal,,Cârligi,47.006,26.52
+284,29,NEAMȚ,GIROV,136,7,24,12,0,8,9,32,141,8,26,13,0,7,9,25,Școala Gimnazială nr. 1 Caciulesti,,Căciulești,46.9669,26.4694
+192,29,NEAMȚ,BOGHICEA,58,0,16,0,0,1,0,5,54,0,19,0,0,1,1,2,Școala Primară Căușeni,Nr. -,Căușeni,47.0418,27.108
+461,29,NEAMȚ,ŢIBUCANI,152,4,177,7,0,2,9,20,160,4,173,4,1,3,9,19,Școala Gimnazială Davideni,,Davideni,47.1273,26.5981
+242,29,NEAMȚ,DOBRENI,234,23,62,32,2,315,7,65,243,30,57,45,2,292,10,60,Căminul Cultural Dobreni,Nr. 172,Dobreni,47.0001,26.418
+244,29,NEAMȚ,DOCHIA,164,6,22,21,0,6,8,43,181,6,19,24,0,9,8,26,Școala Gimnazială nr. 1,Nr. 1205,Dochia,46.9092,26.5653
+245,29,NEAMȚ,DOCHIA,280,3,57,32,0,7,7,41,285,4,55,35,0,6,9,37,Școala Gimnazială nr. 1,Nr. 1205,Dochia,46.9092,26.5653
+123,29,NEAMȚ,ORAŞ BICAZ,140,9,35,18,1,28,12,50,150,8,33,23,1,27,17,45,Școala Generală nr. 2 Dodeni,Nr. 8,Dodeni,46.9254,26.0904
+124,29,NEAMȚ,ORAŞ BICAZ,145,7,54,13,0,15,18,53,141,9,53,13,0,20,21,45,Școala Generală nr. 2 Dodeni,Nr. 8,Dodeni,46.9254,26.0904
+288,29,NEAMȚ,GIROV,47,3,43,2,1,3,3,22,48,3,46,3,2,3,2,16,Școala Doina,,Doina,46.919,26.5098
+354,29,NEAMȚ,PIPIRIG,307,8,61,11,0,11,14,36,306,11,65,11,0,10,13,33,Liceul Tehnologic „Ion Creanga” Pipirig,Nr. 7,Dolhești,47.2284,26.0828
+359,29,NEAMȚ,PIPIRIG,198,5,34,3,0,6,12,26,202,5,32,3,0,7,11,22,Școala cu Clasele I-IV Dolhesti,Nr. 200,Dolhești,47.2118,26.0658
+246,29,NEAMȚ,DOLJEŞTI,274,12,69,9,0,7,22,35,275,13,63,12,1,7,26,39,Școala Gimnazială nr. 1 Doljești,,Doljești,47.0414,26.9779
+233,29,NEAMȚ,COSTIŞA,67,2,2,1,0,1,3,11,67,2,2,2,0,3,3,11,Cladire Școală,,Dornești,46.7782,26.663
+370,29,NEAMȚ,POIANA TEIULUI,202,13,46,4,0,58,5,31,204,14,44,4,0,64,9,23,Școala Gimnazială „Constantin Romanescu” Dreptu,,Dreptu,47.1364,25.8748
+256,29,NEAMȚ,DRĂGĂNEŞTI,115,1,116,6,0,10,8,17,116,3,120,3,0,7,9,16,Școala Gimnazială,,Drăgănești,47.3058,26.4048
+262,29,NEAMȚ,DULCEŞTI,347,9,60,4,1,29,5,30,351,13,57,6,1,32,8,23,Școala Gimnazială Dulcesti,,Dulcești,46.9647,26.7886
+449,29,NEAMȚ,TIMIŞEŞTI,237,8,30,4,0,15,16,45,243,12,28,3,0,12,18,40,Școala Gimnazială,,Dumbrava,47.2158,26.4612
+413,29,NEAMȚ,SĂVINEŞTI,80,6,17,7,0,11,9,30,84,5,18,7,0,11,5,26,Școala Primară Dumbrava Deal,,Dumbrava Deal,46.8729,26.5032
+264,29,NEAMȚ,DUMBRAVA ROŞIE,239,21,61,28,1,20,31,87,231,23,58,32,0,14,32,96,Școala Gimnazială nr. 1 Dumbrava Rosie,,Dumbrava Roșie,46.891,26.4281
+265,29,NEAMȚ,DUMBRAVA ROŞIE,233,15,72,30,2,28,48,135,241,20,85,29,4,26,52,112,Școala Gimnazială nr. 1 Dumbrava Rosie,,Dumbrava Roșie,46.891,26.4281
+240,29,NEAMȚ,DĂMUC,226,3,45,20,0,7,43,68,232,5,47,18,0,5,44,61,Caminul Cultural Damuc,,Dămuc,46.8051,25.9098
+241,29,NEAMȚ,DĂMUC,112,5,26,8,0,4,10,18,118,5,24,5,0,4,10,17,Școala Generală,,Dămuc,46.7728,25.9047
+289,29,NEAMȚ,GIROV,42,5,15,5,1,3,6,13,42,3,16,5,0,3,7,15,Școala Danesti,,Dănești,46.9189,26.5225
+269,29,NEAMȚ,FARCAŞA,262,9,37,11,0,17,5,34,271,8,31,14,0,21,5,24,Școala Gimnazială „Ioan Luca” Farcasa,,Farcașa,47.1562,25.8395
+149,29,NEAMȚ,AGAPIA,237,12,37,9,1,17,22,34,239,14,36,13,1,10,21,34,Școala Gimnazială Mihai Eminescu Filioara,,Filioara,47.1589,26.2795
+270,29,NEAMȚ,FARCAŞA,200,7,65,8,0,18,7,39,207,9,64,11,0,22,4,27,Căminul Cultural,,Frumosu,47.1462,25.8644
+232,29,NEAMȚ,COSTIŞA,83,4,11,8,0,4,2,11,82,5,10,8,0,6,5,13,Școala Primară Sat Frunzeni,,Frunzeni,46.7366,26.6263
+273,29,NEAMȚ,FĂUREI,138,4,67,1,0,17,3,17,138,4,66,0,0,17,8,19,"Școala Gimnazială, Comuna Faurei",,Făurei,46.9076,26.7098
+277,29,NEAMȚ,GHERĂEŞTI,137,11,132,13,1,15,3,43,139,15,136,17,2,12,7,30,"Școala Gimnazială, Comuna Gheraesti",,Gherăești,47.0237,26.8211
+278,29,NEAMȚ,GHERĂEŞTI,138,21,114,17,0,8,3,24,136,22,104,18,1,13,6,24,"Școala Gimnazială, Comuna Gheraesti",,Gherăești,47.0237,26.8211
+279,29,NEAMȚ,GHERĂEŞTI,134,17,115,15,0,15,4,20,144,16,111,17,0,15,6,20,"Școala Gimnazială, Comuna Gheraesti",,Gherăești,47.0237,26.8211
+280,29,NEAMȚ,GHERĂEŞTI,38,5,123,2,0,11,1,8,40,6,119,4,0,12,1,12,"Școala Primară, Gheraestii Noi",,Gherăeștii Noi,47.0514,26.7934
+424,29,NEAMȚ,STĂNIŢA,71,2,14,3,0,5,0,5,67,2,18,5,0,3,3,10,Școala Primară nr. 2 Ghidion,,Ghidion,47.0407,27.1552
+429,29,NEAMȚ,ŞTEFAN CEL MARE,90,9,25,10,0,3,4,28,92,8,23,16,0,5,5,21,Școala Primară,,Ghigoiești,46.9812,26.5747
+282,29,NEAMȚ,GHINDĂOANI,349,9,197,37,0,17,8,54,349,12,208,42,0,17,10,44,Clădirea „Sala de Nunți”,Str. Fagului nr. 2,Ghindăoani,47.1092,26.3364
+283,29,NEAMȚ,GIROV,255,31,54,18,0,28,17,57,260,28,56,18,0,31,17,51,Școala Gimnazială „Prof. Gheorghe Dumitreasa” Girov,,Girov,46.9551,26.4986
+421,29,NEAMȚ,SECUIENI,29,2,12,1,0,3,5,8,28,2,16,1,0,3,3,7,Clădire,,Giulești,46.8843,26.7684
+472,29,NEAMȚ,VALEA URSULUI,96,2,65,8,1,2,1,11,92,4,64,9,0,4,3,9,"Școala Giurgeni, Comuna Valea Ursului",,Giurgeni,46.818,27.1065
+333,29,NEAMȚ,ONICENI,120,0,17,4,0,3,0,2,123,0,19,4,0,3,0,0,Școala Generală,,Gorun,46.7783,27.1401
+395,29,NEAMȚ,ROMÂNI,158,4,20,2,0,9,3,23,163,3,20,8,0,9,4,14,Școala cu Clasele I-VIII,,Goșmani,46.8288,26.7127
+295,29,NEAMȚ,GRINŢIEŞ,231,9,136,10,2,25,6,47,239,13,134,13,3,23,10,43,Căminul Cultural,,Grințieș,47.0054,25.8533
+305,29,NEAMȚ,HANGU,69,8,38,2,0,9,1,15,65,7,39,4,1,10,5,13,Școala Primară Grozăvești,,Grozăvești,47.0179,26.0741
+216,29,NEAMȚ,BRUSTURI,115,2,8,1,0,12,3,11,111,3,8,1,0,12,5,12,Grădinița cu Program Normal Grosi,,Groși,47.2912,26.311
+299,29,NEAMȚ,GRUMĂZEŞTI,427,7,57,7,2,6,7,30,427,7,55,8,1,6,11,37,Grădinița,,Grumăzești,47.1399,26.3771
+300,29,NEAMȚ,GRUMĂZEŞTI,266,0,40,8,1,9,3,22,263,10,39,8,3,7,3,13,Grădinița,,Grumăzești,47.1399,26.3771
+285,29,NEAMȚ,GIROV,135,2,26,7,0,8,9,32,137,1,26,6,0,13,9,27,Școala Primară Gura Vaii,,Gura Văii,46.9565,26.4509
+275,29,NEAMȚ,GÂDINŢI,188,10,57,9,1,17,2,21,188,11,55,6,0,16,6,27,Școala Gimnazială Gadinti (Corp 1),,Gâdinți,46.9349,27.0046
+276,29,NEAMȚ,GÂDINŢI,206,5,80,3,1,4,13,30,205,5,74,3,1,10,14,30,Școala Gimnazială Gadinti (Corp 2),,Gâdinți,46.9349,27.0041
+291,29,NEAMȚ,GÎRCINA,193,18,51,36,0,14,8,51,198,17,54,41,0,16,13,45,"Școala Gimnazială „Episcop Melchisedec Ștefănescu”, Corp A","Str. Ep. Melchisedec Ștefănescu nr. 117, Bloc -",Gârcina,46.976,26.3468
+294,29,NEAMȚ,GÎRCINA,203,22,36,32,0,12,5,39,198,24,40,34,0,14,16,37,Școala Gimnazială „Episcop Melchisedec Ștefănescu”,Str. Ep. Melchisedec Ștefănescu nr. 147,Gârcina,46.9778,26.3436
+302,29,NEAMȚ,HANGU,181,3,44,3,0,34,5,28,191,4,49,2,1,30,6,21,"Școala Gimnazială, Comuna Hangu",,Hangu,47.0616,26.0345
+303,29,NEAMȚ,HANGU,88,1,25,3,1,21,4,13,91,3,23,3,2,19,6,14,Școala Primară Boboteni,,Hangu,47.0871,26.0441
+255,29,NEAMȚ,DRAGOMIREŞTI,129,2,63,37,0,5,7,27,128,4,61,45,1,6,13,21,Școala Primară Hlăpești,,Hlăpești,47.0369,26.594
+329,29,NEAMȚ,MOLDOVENI,90,6,140,7,0,9,7,33,85,8,132,17,2,12,7,31,Fosta Școala cu Clasele I-IV Satul Hociungi,,Hociungi,46.8149,26.7771
+326,29,NEAMȚ,MĂRGINENI,120,3,24,13,2,10,6,23,129,1,22,12,2,14,5,18,Școala Generală,Nr. 321,Hoisești,46.8773,26.6617
+307,29,NEAMȚ,HORIA,275,23,162,12,0,40,24,47,282,20,149,17,2,42,30,49,Școala Gimnazială „Carmen Sylva”,Str. Alexandru cel Bun nr. 1,Horia,46.9115,26.916
+308,29,NEAMȚ,HORIA,223,6,175,5,0,26,25,58,223,11,155,9,0,31,31,59,Camin Cultural,Str. Pietrei nr. 1,Horia,46.9119,26.9165
+239,29,NEAMȚ,DĂMUC,160,0,28,6,0,4,4,19,153,1,26,12,0,4,6,21,Școala Generală,,Huisurez,46.7447,25.9122
+180,29,NEAMȚ,BÎRGĂUANI,65,3,10,4,1,2,3,16,62,4,9,4,1,3,5,18,Căminul Cultural Hîrtop,,Hârtop,46.9498,26.6062
+325,29,NEAMȚ,MĂRGINENI,55,0,4,3,0,1,2,14,58,0,3,4,2,2,2,8,Școala Generală,,Hârțești,46.8725,26.6883
+311,29,NEAMȚ,ICUŞEŞTI,58,3,110,6,0,2,3,18,62,4,114,9,0,1,3,11,Școala Gimnazială Icusesti,,Icușești,46.8077,26.9485
+468,29,NEAMȚ,URECHENI,168,8,26,9,1,38,7,26,171,8,27,11,0,36,5,23,Școala Gimnazială Ingaresti,Str. Principală nr. 109,Ingărești,47.1805,26.5091
+320,29,NEAMȚ,ION CREANGĂ,214,6,52,23,0,13,4,18,215,5,46,28,0,13,3,15,Camin Cultural,,Ion Creangă,46.8691,26.9871
+321,29,NEAMȚ,ION CREANGĂ,249,9,70,16,2,10,6,27,261,9,61,20,1,7,7,24,Camin Cultural,,Ion Creangă,46.8691,26.9871
+327,29,NEAMȚ,MĂRGINENI,40,1,8,5,0,1,1,7,36,1,8,5,0,2,3,7,Școala Generală,Nr. 121,Itrinești,46.9276,26.6261
+214,29,NEAMȚ,BOZIENI,152,1,31,7,0,25,4,12,151,2,28,6,0,31,6,12,Școala Gimnazială Bozieni - Școala Primară Iucșa (Școala Generală Bozieni),,Iucșa,46.8436,27.1328
+167,29,NEAMȚ,BICAZ-CHEI,250,6,21,6,0,1,5,17,249,5,21,6,0,2,9,14,Școala Gimnazială nr. 3,,Ivaneș,46.8236,25.8987
+160,29,NEAMȚ,BAHNA,157,7,161,6,0,2,3,22,162,5,161,5,0,5,4,16,"Școala Gimnazială, Localitatea Izvoare",,Izvoare,46.7443,26.8007
+266,29,NEAMȚ,DUMBRAVA ROŞIE,136,1,89,14,0,14,5,58,143,15,96,10,0,13,10,33,Școala Gimnazială nr. 2 Izvoare,,Izvoare,46.9097,26.4669
+317,29,NEAMȚ,ION CREANGĂ,85,2,23,4,0,11,4,11,85,2,22,6,0,10,3,9,Școala,,Izvoru,46.8613,27.0184
+125,29,NEAMȚ,ORAŞ BICAZ,75,7,17,10,0,4,6,29,87,6,18,9,1,4,2,20,Centrul Cultural Izvoru Muntelui,Nr. 26,Izvoru Muntelui,46.9449,26.0543
+126,29,NEAMȚ,ORAŞ BICAZ,27,1,15,4,0,6,6,16,31,2,18,2,0,3,6,11,Școala Generală nr. 1 Marceni,Nr. 33,Izvorul Alb,46.9986,26.0437
+357,29,NEAMȚ,PIPIRIG,146,4,20,5,0,9,2,18,149,4,23,5,0,11,1,6,Grădinița cu Program Normal,Nr. 189,Leghin,47.2235,26.1912
+348,29,NEAMȚ,PIATRA ŞOIMULUI,225,7,25,15,0,7,8,30,231,7,32,14,0,6,7,18,"Școala Gimnazială Luminis, Comuna Piatra Soimului",,Luminiș,46.8139,26.4519
+350,29,NEAMȚ,PIATRA ŞOIMULUI,229,3,24,16,2,7,7,33,224,7,28,14,0,7,13,34,"Școala Gimnazială Luminis, Comuna Piatra Soimului",,Luminiș,46.8139,26.4519
+479,29,NEAMȚ,VÎNĂTORI-NEAMŢ,250,3,28,4,0,27,4,29,249,5,31,7,0,22,7,18,Școala Gimnazială „Arhim. Chiriac Nicolau”,Nr. 128,Lunca,47.2249,26.2967
+341,29,NEAMȚ,PĂSTRĂVENI,113,0,7,5,0,9,1,4,107,0,8,7,0,9,1,6,Școala Primară Lunca Moldovei,,Lunca Moldovei,47.1848,26.5906
+402,29,NEAMȚ,SAGNA,84,7,35,2,0,4,2,16,78,9,35,2,0,7,2,13,Grădinița cu Program Normal Luțca,,Luțca,46.9642,26.9755
+236,29,NEAMȚ,CRĂCĂOANI,201,1,54,5,0,5,6,29,210,3,53,8,0,4,8,18,Școala Generală,,Magazia,47.1026,26.2523
+203,29,NEAMȚ,BORLEŞTI,234,4,104,13,0,16,8,60,246,5,109,10,0,20,10,48,Școala Gimnazială „Ștefan Cel Mare”,Str. Școlii,Mastacăn,46.786,26.4918
+253,29,NEAMȚ,DRAGOMIREŞTI,46,7,24,3,0,3,1,10,47,7,23,4,0,1,3,13,Școala Generală,,Mastacăn,47.0081,26.5741
+315,29,NEAMȚ,ICUŞEŞTI,66,3,40,22,0,1,2,10,61,1,41,20,0,2,1,12,Școala Primară Mesteacan,,Mesteacăn,46.832,27.0225
+454,29,NEAMȚ,TRIFEŞTI,133,3,125,3,1,7,3,15,134,3,128,3,0,9,4,12,Școala cu Clasele I-VIII,,Miron Costin,46.9149,26.8129
+456,29,NEAMȚ,TRIFEŞTI,88,0,89,2,0,7,4,12,90,1,88,4,2,5,5,14,Școala cu Clasele I-IV,,Miron Costin,46.9207,26.7919
+238,29,NEAMȚ,CRĂCĂOANI,89,1,16,1,0,1,1,14,87,2,17,1,2,3,2,8,Școala Generală,,Mitocu Bălan,47.117,26.1688
+328,29,NEAMȚ,MOLDOVENI,124,2,196,6,2,27,9,29,126,3,192,9,2,22,17,32,Școala Gimnazială Satul Moldoveni,,Moldoveni,46.8285,26.7955
+474,29,NEAMȚ,VĂLENI,168,1,62,5,1,5,1,7,170,1,57,7,0,5,2,8,Școala Gimnazială Comuna Valeni,Str. General Dram nr. 21,Moreni,47.026,26.7374
+473,29,NEAMȚ,VALEA URSULUI,103,0,14,1,0,7,4,9,105,1,14,1,0,6,4,11,"Școala Muncel, Comuna Valea Ursului",,Muncelu de Jos,46.7761,27.1107
+195,29,NEAMȚ,BORCA,210,10,33,6,0,25,9,38,218,6,30,9,0,28,10,30,Sala de Festivități Madei,,Mădei,47.2051,25.7516
+231,29,NEAMȚ,COSTIŞA,204,2,26,12,0,8,10,25,208,3,25,11,0,7,12,22,Școala Primară Sat Manoaia,,Mănoaia,46.7665,26.6316
+481,29,NEAMȚ,VÎNĂTORI-NEAMŢ,96,3,9,3,0,4,6,14,94,2,9,3,1,5,6,15,Mănăstirea Neamț,Nr. 34,Mănăstirea Neamț,47.2677,26.2015
+323,29,NEAMȚ,MĂRGINENI,146,2,24,6,0,8,17,37,148,1,25,8,0,8,16,30,Școala Generală,Nr. 4,Mărgineni,46.8919,26.6502
+324,29,NEAMȚ,MĂRGINENI,127,6,38,10,0,9,12,38,136,3,42,9,0,8,12,25,Grădinița,Nr. 7A,Mărgineni,46.8926,26.649
+334,29,NEAMȚ,ONICENI,142,1,25,1,0,3,2,10,138,1,25,1,0,6,2,10,Școala Generală,,Mărmureni,46.8083,27.1856
+439,29,NEAMȚ,TAŞCA,148,10,24,17,0,13,14,36,144,12,22,19,0,18,12,33,Școala Neagra,,Neagra,46.88,25.983
+207,29,NEAMȚ,BORLEŞTI,56,1,7,1,0,2,3,7,58,1,6,0,0,2,2,7,Grădinița,Str. Calistrat Hogaș,Nechit,46.7729,26.4134
+175,29,NEAMȚ,BIRA,42,1,27,1,0,3,3,7,43,0,30,0,0,3,3,5,Cladire fosta Școala Primară,,Negrești,47.0075,27.0683
+330,29,NEAMȚ,NEGREŞTI,196,10,73,22,1,63,2,96,218,12,76,23,1,60,8,53,Școala Gimnazială „Dumitru Almas” Negresti,,Negrești,47.0288,26.3786
+369,29,NEAMȚ,PODOLENI,97,2,8,9,0,3,3,12,102,2,8,8,0,2,3,8,Școala Primară Negritești,Str. Principală,Negritești,46.8385,26.6447
+351,29,NEAMȚ,PIATRA ŞOIMULUI,134,6,26,9,0,8,8,18,128,8,26,13,0,7,10,17,"Grădinița cu Program Normal Negulesti, Comuna Piatra Soimului",,Negulești,46.8106,26.4148
+480,29,NEAMȚ,VÎNĂTORI-NEAMŢ,298,12,33,19,0,12,10,50,289,14,34,21,0,13,12,49,Școala Gimnazială „Arhim.Chiriac Neculau” Nemtisor,Nr. 210,Nemțișor,47.2385,26.2716
+209,29,NEAMȚ,BOTEŞTI,103,18,55,16,0,26,3,30,103,17,57,35,2,22,4,20,Liceul Tehnologic,,Nisiporești,47.0759,26.7342
+210,29,NEAMȚ,BOTEŞTI,155,19,51,17,0,10,5,23,155,19,51,21,0,9,6,18,Liceul Tehnologic,,Nisiporești,47.0759,26.7342
+193,29,NEAMȚ,BOGHICEA,48,0,47,3,0,1,3,6,49,0,46,3,1,1,6,9,Școala Primară Nistria,Nr. -,Nistria,47.0796,27.151
+364,29,NEAMȚ,PÎNGĂRAŢI,295,7,41,9,2,7,24,40,295,7,46,6,2,9,30,43,Școala Gimnazială „Nicolae Iorga” - Sat Oanțu,,Oanțu,46.9129,26.1955
+376,29,NEAMȚ,RĂUCEŞTI,349,13,171,10,0,17,9,34,344,13,181,12,0,17,9,30,Liceul Tehnologic Oglinzi,,Oglinzi,47.2503,26.3484
+377,29,NEAMȚ,RĂUCEŞTI,208,5,68,23,0,16,8,25,217,6,68,25,0,15,9,23,Școala Primară nr. 2 Oglinzi,,Oglinzi,47.2509,26.3725
+382,29,NEAMȚ,RĂUCEŞTI,59,2,141,2,1,2,4,17,59,3,136,4,1,4,4,15,Liceul Tehnologic Oglinzi (Grădinița nr. 1- Corp C),,Oglinzi,47.2502,26.349
+332,29,NEAMȚ,ONICENI,265,2,26,2,0,9,1,7,261,4,24,3,0,8,2,8,Școala Generală,,Oniceni,46.8035,27.1635
+257,29,NEAMȚ,DRĂGĂNEŞTI,62,0,47,3,0,7,5,12,66,0,45,3,0,6,5,11,Școala Primară,,Orțăști,47.3225,26.3841
+187,29,NEAMȚ,BODEŞTI,123,3,47,7,0,8,7,38,128,3,51,9,0,9,6,28,Școala,,Oșlobeni,47.0515,26.3997
+344,29,NEAMȚ,PETRICANI,323,18,56,23,0,19,8,35,325,18,58,33,0,17,7,25,Liceul Tehnologic,,Petricani,47.1694,26.4497
+372,29,NEAMȚ,POIANA TEIULUI,134,6,31,3,0,20,9,57,135,9,37,5,0,24,5,45,Școala Gimnazială Petru Voda,,Petru Vodă,47.1239,25.999
+352,29,NEAMȚ,PIATRA ŞOIMULUI,247,9,60,16,0,7,7,35,254,10,61,15,1,9,10,31,"Școala Gimnazială, Comuna Piatra Soimului",,Piatra Șoimului,46.8301,26.4701
+353,29,NEAMȚ,PIATRA ŞOIMULUI,221,24,111,14,0,9,18,49,229,23,108,15,1,9,21,45,"Școala Primară, Comuna Piatra Soimului",,Piatra Șoimului,46.8329,26.4427
+1,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,164,27,66,43,1,37,18,102,163,34,72,44,2,49,21,83,Școala Gimnazială nr. 3,Piața 22 Decembrie (Piața 6 Martie) nr. 1,Piatra-Neamț,46.9306,26.3684
+2,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,197,30,66,38,1,23,16,93,189,32,77,37,2,33,16,74,Școala Gimnazială nr. 3,Piața 22 Decembrie (Piața 6 Martie) nr. 1,Piatra-Neamț,46.9306,26.3684
+3,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,174,22,79,30,1,33,25,111,179,28,86,28,1,33,30,96,Grădinița cu Program Prelungit nr. 6,Str. Cuza Vodă nr. 80,Piatra-Neamț,46.9306,26.3716
+4,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,191,45,97,30,3,45,15,128,194,48,114,28,3,51,17,97,Colegiul Național „Petru Rareș”,Str. Ștefan cel Mare nr. 4,Piatra-Neamț,46.9331,26.3697
+5,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,191,44,68,31,1,33,13,101,183,50,75,34,1,43,14,83,Școala Gimnazială nr. 3,Piața 22 Decembrie (Piața 6 Martie) nr. 1,Piatra-Neamț,46.9306,26.3684
+6,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,204,39,80,35,0,34,10,103,203,44,76,36,0,36,14,90,Liceul de Arte „Victor Brauner” - Corpul B,Bulevardul Decebal nr. 48,Piatra-Neamț,46.9327,26.3615
+7,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,115,51,92,37,1,32,14,136,113,62,94,41,1,46,14,105,Colegiul Național „Calistrat Hogaș”,Str. Alexandru cel Bun nr. 19,Piatra-Neamț,46.934,26.3657
+8,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,219,61,57,30,3,43,30,129,224,63,62,30,3,43,35,119,Liceul Tehnologic „Spiru Haret”,Str. Petru Rareș (Str. V. I. Lenin) nr. 26,Piatra-Neamț,46.935,26.3743
+9,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,205,37,55,35,1,26,21,131,207,41,59,35,1,28,26,114,Liceul Tehologic „Spiru Haret”,Str. Petru Rareș (Str. V. I. Lenin) nr. 26,Piatra-Neamț,46.935,26.3743
+10,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,202,19,61,30,0,27,13,81,205,23,63,32,1,31,15,69,Grădinița cu Program Prelungit nr. 3 Corp B,Bulevardul Dacia nr. 14,Piatra-Neamț,46.9346,26.3756
+11,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,191,37,88,35,2,34,15,133,194,47,98,38,1,44,20,93,Liceul cu Program Sportiv,Str. Obor nr. 2,Piatra-Neamț,46.9373,26.3791
+12,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,200,43,85,43,0,26,12,93,192,51,92,44,0,25,20,86,Liceul cu Program Sportiv,Str. Obor nr. 2,Piatra-Neamț,46.9373,26.3791
+13,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,239,20,60,30,3,33,12,94,230,27,59,30,4,42,20,77,Școala Gimnazială nr. 8,Str. Dărmănești nr. 33,Piatra-Neamț,46.9407,26.3818
+14,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,249,37,67,48,3,21,22,115,246,39,74,44,0,27,31,112,Grădinița Cuplată cu Creșă nr. 5,Str. Dărmănești nr. 42,Piatra-Neamț,46.9391,26.3824
+15,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,146,27,56,18,0,19,23,90,152,28,64,19,0,23,25,74,Grădinița Cuplată cu Creșă nr. 5,Str. Dărmănești nr. 42,Piatra-Neamț,46.9391,26.3824
+16,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,154,16,30,11,0,16,12,78,149,14,31,18,0,26,11,66,Grădinița cu Program Prelungit nr. 8,Str. Dărmănești nr. 41,Piatra-Neamț,46.9414,26.3816
+17,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,358,57,119,44,0,42,24,141,366,63,131,40,3,47,25,108,Grădinița cu Program Normal Ocol,Str. Cetatea Neamțului nr. 34,Piatra-Neamț,46.9615,26.3776
+18,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,219,20,77,32,1,25,15,109,223,24,81,32,2,30,25,93,Ase București,Str. Gavril Galinescu nr. 13,Piatra-Neamț,46.9438,26.3876
+19,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,214,27,67,35,1,27,16,96,219,31,68,33,0,24,28,88,Școala Gimnazială nr. 11,Str. Gavril Galinescu nr. 46,Piatra-Neamț,46.9444,26.3874
+20,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,120,10,34,21,0,13,13,58,129,12,34,20,0,14,14,48,Colegiul Național „Gh. Asachi”,Str. Audia nr. 3,Piatra-Neamț,46.9459,26.3883
+21,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,127,25,41,19,0,15,3,44,131,26,46,22,0,19,4,29,Colegiul Național „Gh. Asachi”,Str. Audia nr. 3,Piatra-Neamț,46.9459,26.3883
+22,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,250,34,65,35,0,35,22,105,252,38,79,35,0,38,24,81,Școala Gimnazială nr. 5,Str. 1 Decembrie 1918 nr. 32,Piatra-Neamț,46.9408,26.3858
+23,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,258,38,78,31,1,37,34,147,268,40,91,34,1,36,30,118,Școala Gimnazială nr. 5,Str. 1 Decembrie 1918 nr. 32,Piatra-Neamț,46.9408,26.3858
+24,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,236,16,63,32,0,15,20,92,237,16,64,31,0,23,22,76,Grădinița cu Program Prelungit nr. 12,Aleea Constantin Mătase (Aleea Iasomiei) nr. 9,Piatra-Neamț,46.9378,26.3863
+25,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,225,16,65,20,0,25,7,76,223,20,58,21,0,31,16,73,Grădinița cu Program Prelungit nr. 12,Aleea Constantin Mătase (Aleea Iasomiei) nr. 9,Piatra-Neamț,46.9378,26.3863
+26,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,216,31,66,34,3,28,5,80,221,26,71,40,3,24,10,76,Grădinița cu Program Prelungit nr. 12,Aleea Constantin Mătase (Aleea Iasomiei) nr. 9,Piatra-Neamț,46.9378,26.3863
+27,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,322,21,70,30,0,32,18,110,333,24,69,32,1,35,15,95,Școala Gimnazială nr. 8,Str. Dărmănești nr. 33,Piatra-Neamț,46.9407,26.3818
+28,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,255,39,75,43,1,41,22,142,256,56,75,38,1,47,26,115,Centrul Social Pietricica,"Str. Mihai Viteazu (Str. V. I. Lenin) nr. 35, Bloc C4",Piatra-Neamț,46.9384,26.393
+29,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,98,17,54,24,1,14,17,73,109,19,58,21,1,12,19,62,Colegiul Național de Informatică,Str. Mihai Viteazu (Str. V. I. Lenin) nr. 12,Piatra-Neamț,46.9355,26.3824
+30,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,203,68,106,50,0,50,19,212,222,77,135,43,0,43,25,169,Colegiul Național de Informatică,Str. Mihai Viteazu (Str. V. I. Lenin) nr. 12,Piatra-Neamț,46.9355,26.3824
+31,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,218,42,88,33,1,30,28,122,212,21,96,37,3,39,43,132,Colegiul Național de Informatică,Str. Mihai Viteazu (Str. V. I. Lenin) nr. 12,Piatra-Neamț,46.9355,26.3824
+32,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,240,25,101,37,1,26,22,142,253,32,108,36,0,34,19,109,Colegiul Național de Informatică,Str. Mihai Viteazu (Str. V. I. Lenin) nr. 12,Piatra-Neamț,46.9355,26.3824
+33,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,111,8,43,10,0,9,1,55,114,7,46,12,0,11,3,48,Colegiul Național de Informatică,Str. Mihai Viteazu (Str. V. I. Lenin) nr. 12,Piatra-Neamț,46.9355,26.3824
+34,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,155,11,41,26,0,13,12,82,151,11,45,30,0,16,14,71,Colegiul Național de Informatică,Str. Mihai Viteazu (Str. V. I. Lenin) nr. 12,Piatra-Neamț,46.9355,26.3824
+35,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,283,2,121,18,2,9,11,71,303,2,126,14,3,8,16,59,Școala Gimnazială nr. 7,Str. Gheorghe Asachi (Str. Energiei) nr. 27,Piatra-Neamț,46.9084,26.3871
+36,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,128,12,56,15,0,18,8,59,126,14,59,12,0,22,9,55,Centrul Social - Cartier Speranța,,Piatra-Neamț,46.9161,26.4306
+37,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,93,6,57,17,0,14,11,55,102,5,62,18,0,14,13,42,Clădire Administrativă S.C. Cmi Urban S.A. (Ștrand Municipal),Aleea Tineretului nr. 27,Piatra-Neamț,46.928,26.3513
+38,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,153,56,63,29,0,43,11,129,163,56,70,29,0,45,23,108,Școala Gimnazială nr. 2,Str. Mărăței nr. 4-6,Piatra-Neamț,46.925,26.3738
+39,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,144,32,65,27,0,23,11,78,150,38,62,29,0,27,13,64,Școala Gimnazială nr. 2,Str. Mărăței nr. 4-6,Piatra-Neamț,46.925,26.3738
+40,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,208,18,42,16,1,26,14,73,196,23,47,13,1,35,19,71,Școala Gimnazială nr. 2,Str. Mărăței nr. 4-6,Piatra-Neamț,46.925,26.3738
+41,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,235,65,80,39,3,51,15,142,228,69,80,44,4,68,21,121,Direcția Agricolă,Str. Mihai Eminescu (Str. Mihail Eminescu) nr. 26 B,Piatra-Neamț,46.9263,26.3666
+42,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,204,53,81,66,0,21,18,103,209,60,87,58,1,26,26,90,S.C. Apa Serv S.A.,Str. Lt. Drăghiescu nr. 20,Piatra-Neamț,46.9269,26.3637
+43,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,252,47,94,33,0,36,26,139,245,53,104,32,0,51,29,115,Complexul Expozițional Municipal,"Bulevardul Republicii nr. 17, Bloc A1",Piatra-Neamț,46.9291,26.3637
+44,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,221,45,93,58,0,43,18,108,221,47,95,58,0,43,20,93,Școala Gimnazială „Elena Cuza”,Bulevardul Decebal nr. 72,Piatra-Neamț,46.9342,26.3593
+45,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,240,39,96,48,0,39,21,135,253,48,101,51,5,43,22,101,Școala Gimnazială „Elena Cuza”,Bulevardul Decebal nr. 72,Piatra-Neamț,46.9342,26.3593
+46,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,177,32,79,41,0,25,20,93,181,37,66,48,1,22,25,83,Școala Gimnazială „Nicu Albu”,Str. Ecoului nr. 26,Piatra-Neamț,46.9328,26.3546
+47,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,172,45,86,42,1,32,30,148,176,50,93,41,1,45,30,110,Școala Gimnazială „Nicu Albu”,Str. Ecoului nr. 26,Piatra-Neamț,46.9328,26.3546
+48,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,146,26,70,42,1,29,16,100,152,32,75,41,3,36,16,78,Școala Gimnazială „Nicu Albu”,Str. Ecoului nr. 26,Piatra-Neamț,46.9328,26.3546
+49,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,202,33,69,40,1,37,20,121,196,37,74,44,2,41,18,102,Școala Gimnazială „Nicu Albu”,Str. Ecoului nr. 26,Piatra-Neamț,46.9328,26.3546
+50,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,174,30,53,44,0,23,16,105,174,28,64,49,0,21,20,93,Școala Gimnazială „Nicu Albu”,Str. Ecoului nr. 26,Piatra-Neamț,46.9328,26.3546
+51,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,214,37,64,38,1,29,14,101,210,42,73,43,2,28,19,83,Școala Gimnazială „Nicu Albu”,Str. Ecoului nr. 26,Piatra-Neamț,46.9328,26.3546
+52,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,199,28,70,29,2,44,12,117,208,33,72,30,2,51,19,90,Casa Corpului Didactic,Str. Petru Movila nr. 67,Piatra-Neamț,46.9393,26.334
+53,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,171,41,70,42,0,17,19,99,169,40,70,43,1,23,23,94,Colegiul Tehnic de Transporturi,Str. Soarelui nr. 1,Piatra-Neamț,46.9407,26.3476
+54,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,164,35,79,31,0,28,9,109,168,43,82,37,0,33,15,91,Colegiul Tehnic Forestier,Str. Ștefan cel Mare nr. 67,Piatra-Neamț,46.9389,26.3577
+55,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,179,52,106,56,1,49,15,134,192,54,114,56,1,43,23,109,Colegiul Tehnic Forestier,Str. Ștefan cel Mare nr. 67,Piatra-Neamț,46.9389,26.3577
+56,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,214,63,87,48,0,34,17,175,219,73,101,50,0,48,21,134,Liceul Tehnologic Economic Administrativ,Str. Alexandru Lăpușneanu (Str. Speranței) nr. 16,Piatra-Neamț,46.9351,26.3604
+57,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,209,26,75,28,1,36,19,116,204,35,83,31,1,42,23,100,Școala Gimnazială nr. 2,Str. Mărăței nr. 4-6,Piatra-Neamț,46.9254,26.3733
+58,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,225,34,60,38,2,43,15,131,230,41,77,35,3,46,14,92,Școala Gimnazială nr. 2,Str. Mărăței nr. 4-6,Piatra-Neamț,46.9254,26.3733
+59,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,287,67,90,44,0,65,20,192,284,81,96,45,2,81,28,153,Colegiul Tehnic „Gheorghe Cartianu”,Bulevardul Traian nr. 31,Piatra-Neamț,46.9218,26.3858
+60,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,109,24,72,40,0,28,12,70,118,32,70,35,0,28,17,60,Colegiul Tehnic „Gheorghe Cartianu”,Bulevardul Traian nr. 31,Piatra-Neamț,46.9218,26.3858
+61,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,197,42,71,50,0,37,17,125,193,45,85,47,0,41,22,104,Colegiul Tehnic „Gheorghe Cartianu”,Bulevardul Traian nr. 31,Piatra-Neamț,46.9218,26.3858
+62,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,171,10,36,17,0,9,12,68,166,11,40,15,0,17,11,57,Colegiul Tehnic „Gheorghe Cartianu”,Bulevardul Traian nr. 31,Piatra-Neamț,46.9218,26.3858
+63,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,224,48,87,51,1,42,19,144,221,51,93,58,2,54,24,114,Școala Gimnazială nr. 1,Bulevardul G-ral N. Dăscalescu (Str. Victoriei) (D) nr. 4,Piatra-Neamț,46.9184,26.3886
+64,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,107,19,38,37,0,13,7,62,114,16,42,38,0,14,9,56,Grădinița cu Program Normal nr. 19,Str. Ion Ionescu de la Brad (Str. Hotărîrii) nr. 13,Piatra-Neamț,46.9318,26.4074
+65,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,206,26,58,35,2,33,15,115,217,25,69,42,1,34,20,90,Liceul Tehnologic „Dimitrie Leonida”,Bulevardul Mărășești nr. 13,Piatra-Neamț,46.9213,26.3941
+66,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,230,13,52,68,3,18,12,75,240,11,53,78,1,27,16,56,Liceul Tehnologic „Dimitrie Leonida”,Bulevardul Mărășești nr. 13,Piatra-Neamț,46.9213,26.3941
+67,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,185,13,43,34,0,26,16,145,178,19,50,30,1,31,15,137,Liceul Tehnologic „Dimitrie Leonida” Corp B,Bulevardul G-ral N. Dăscalescu (Str. Victoriei) (D) nr. 426,Piatra-Neamț,46.9064,26.4068
+68,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,217,35,84,25,1,29,12,116,216,39,88,23,2,31,21,102,Școala Gimnazială „Daniela Cuciuc”,Str. Progresului nr. 108,Piatra-Neamț,46.9195,26.382
+69,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,159,15,53,23,0,19,25,87,174,14,48,26,1,23,28,71,Școala Gimnazială „Daniela Cuciuc”,Str. Progresului nr. 108,Piatra-Neamț,46.9195,26.382
+70,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,189,27,62,23,0,30,16,83,191,26,67,22,1,28,15,74,Școala Gimnazială „Daniela Cuciuc”,Str. Progresului nr. 108,Piatra-Neamț,46.9195,26.382
+71,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,180,37,44,24,1,23,12,82,175,39,56,24,1,29,17,68,Școala Gimnazială „Daniela Cuciuc”,Str. Progresului nr. 108,Piatra-Neamț,46.9195,26.382
+72,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,165,28,79,29,1,23,22,106,173,29,80,30,1,27,23,93,Școala Gimnazială „Daniela Cuciuc”,Str. Progresului nr. 108,Piatra-Neamț,46.9195,26.382
+73,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,233,24,69,29,0,38,16,106,237,30,74,29,1,46,16,80,Grădinița cu Program Prelungit „Floare de Colț”,Str. Progresului nr. 36,Piatra-Neamț,46.9221,26.3752
+74,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,236,32,51,32,0,41,17,94,232,26,66,32,1,36,24,89,Grădinița cu Program Prelungit „Floare de Colț”,Str. Progresului nr. 36,Piatra-Neamț,46.9221,26.3752
+75,29,NEAMȚ,MUNICIPIUL PIATRA-NEAMŢ,288,25,104,46,0,32,30,154,287,27,112,49,0,34,33,137,Grădinița cu Program Normal nr. 1,Aleea Plaiului nr. 7 A,Piatra-Neamț,46.9225,26.3786
+228,29,NEAMȚ,CORDUN,146,27,324,11,0,7,13,43,150,25,322,17,0,8,10,41,Școala Gimnazială nr. 1 Pildești,,Pildești,46.9959,26.825
+229,29,NEAMȚ,CORDUN,113,27,298,4,0,11,7,38,112,27,304,3,1,12,18,37,Școala Gimnazială nr. 1 Pildești,,Pildești,46.9959,26.825
+355,29,NEAMȚ,PIPIRIG,182,2,51,6,0,7,8,31,186,3,53,7,2,7,6,19,Școala Pipirig nr. 2,Nr. 142,Pipirig,47.2441,26.0637
+360,29,NEAMȚ,PIPIRIG,131,4,38,6,0,12,2,12,135,5,39,6,0,11,3,13,Școala Gimnazială Pluton,Str. Cujbeni nr. 171,Pluton,47.2003,26.011
+450,29,NEAMȚ,TIMIŞEŞTI,166,7,33,4,0,4,4,20,165,11,33,6,0,5,6,17,Școala Primară,,Plăieșu,47.2307,26.5005
+365,29,NEAMȚ,PODOLENI,216,10,59,17,0,7,7,37,218,11,60,16,0,7,9,33,Grădinița cu Program Normal nr. 2,Str. Bisericii (Str. Vatra Nouă) nr. 20,Podoleni,46.7928,26.6027
+366,29,NEAMȚ,PODOLENI,197,8,60,17,0,3,7,34,196,8,59,20,0,4,8,39,Școala Gimnazială „Alexandru Podoleanu”,Str. Speranței nr. 4,Podoleni,46.7976,26.6186
+367,29,NEAMȚ,PODOLENI,245,15,69,23,0,12,6,34,246,20,71,20,0,15,6,26,Școala Gimnazială „Alexandru Podoleanu”,Str. Speranței nr. 7,Podoleni,46.7971,26.6185
+368,29,NEAMȚ,PODOLENI,165,9,55,9,0,7,6,21,176,10,52,7,1,5,7,20,Grădinița cu Program Normal nr. 3,Str. Sfânta Treime (Str. Sfînta Treime) nr. 81,Podoleni,46.7886,26.635
+217,29,NEAMȚ,BRUSTURI,236,2,25,2,0,4,12,21,231,4,27,2,0,6,15,17,Grădinița cu Program Normal Poiana,,Poiana,47.2974,26.359
+331,29,NEAMȚ,NEGREŞTI,75,3,11,1,1,14,3,14,77,3,13,3,0,14,4,13,Grădinița cu Program Normal Poiana,,Poiana,47.0656,26.3221
+371,29,NEAMȚ,POIANA TEIULUI,135,2,72,1,0,27,10,48,147,2,74,3,0,29,9,33,Școala Gimnazială Poiana Largului,,Poiana Largului,47.0954,25.9784
+373,29,NEAMȚ,POIANA TEIULUI,205,8,95,9,0,136,12,63,198,9,104,12,1,135,9,56,Grădinița cu Program Normal Poiana Teiului,,Poiana Teiului,47.1161,25.923
+374,29,NEAMȚ,POIENARI,223,1,78,12,0,6,23,46,230,2,76,13,0,8,20,38,Școala Gimnazială nr. 1,,Poienari,46.8881,27.1278
+349,29,NEAMȚ,PIATRA ŞOIMULUI,348,10,39,2,2,6,0,20,339,8,37,4,1,7,4,25,"Școala Gimnazială Poieni, Comuna Piatra Soimului",,Poieni,46.836,26.4
+425,29,NEAMȚ,STĂNIŢA,64,3,8,1,0,1,0,3,67,2,7,1,0,1,0,2,Școala Primară nr. 4 Poienile Oancei,,Poienile Oancei,47.0333,27.105
+390,29,NEAMȚ,REDIU,250,13,43,9,1,6,6,39,256,10,43,12,0,6,6,33,Școala cu Clasele I-VIII Poloboc,,Poloboc,46.7603,26.5479
+127,29,NEAMȚ,ORAŞ BICAZ,40,3,16,3,0,3,2,12,41,3,17,5,0,2,3,11,Școala Generală nr. 1 Marceni,Nr. 20,Potoci,46.9847,26.1113
+451,29,NEAMȚ,TIMIŞEŞTI,133,3,18,2,2,1,6,19,127,4,19,3,0,3,9,21,Școala Primară,,Preutești,47.2559,26.5139
+342,29,NEAMȚ,PÂNCEŞTI,348,3,36,7,0,28,3,27,373,1,34,8,1,31,7,18,Școala Gimnazială „Vlad Danulescu” Pancesti,,Pâncești,46.9034,27.1534
+362,29,NEAMȚ,PÎNGĂRAŢI,96,7,54,13,0,15,7,55,100,11,54,13,0,14,9,48,Școala Gimnazială „Nicolae Iorga” -Sat Pîngărați - Punct Castel,,Pângarați,46.9268,26.1865
+361,29,NEAMȚ,PÎNGĂRAŢI,274,15,96,20,0,35,23,74,282,20,96,21,2,39,24,61,Școala Gimnazială „Nicolae Iorga” - Sat Pîngărăcior,,Pângărăcior,46.928,26.2115
+196,29,NEAMȚ,BORCA,134,4,19,4,0,4,5,25,133,3,17,4,0,4,5,25,Școala Primară nr. 3 Localitatea Pîrîul Cîrjei,,Pârâul Cârjei,47.1995,25.7549
+199,29,NEAMȚ,BORCA,102,3,23,3,0,6,3,25,101,4,22,3,0,9,3,24,Școala Primară nr. 2 Localitatea Pîrîul Pîntei,,Pârâul Pântei,47.1611,25.8176
+224,29,NEAMȚ,CÎNDEŞTI,89,1,6,2,0,1,2,8,92,1,6,2,0,1,4,9,Școala Primară,,Pădureni,46.696,26.5616
+337,29,NEAMȚ,PĂSTRĂVENI,201,6,21,6,0,11,5,20,207,9,21,7,0,13,3,14,"Școala Gimnazială, Comuna Pastraveni",,Păstrăveni,47.1589,26.571
+338,29,NEAMȚ,PĂSTRĂVENI,197,4,19,5,0,4,6,24,202,2,23,2,0,3,8,20,Centru de Recuperare și Reabilitare a Persoanelor cu Handicap,,Păstrăveni,47.1626,26.5619
+318,29,NEAMȚ,ION CREANGĂ,77,2,139,6,0,6,2,8,78,2,138,5,0,4,3,11,Școala,,Recea,46.852,26.9538
+173,29,NEAMȚ,BIRA,142,4,55,1,0,5,4,12,147,3,54,3,0,6,4,10,Grădinița Rediu,,Rediu,47.0184,27.0286
+174,29,NEAMȚ,BIRA,63,0,19,0,0,2,0,6,62,0,17,0,0,4,0,8,Școala Primară nr. 2 Rediu,,Rediu,47.0184,27.0286
+389,29,NEAMȚ,REDIU,126,4,44,11,0,3,2,11,120,6,45,13,0,5,4,12,Școala cu Clasele I-VIII Rediu,,Rediu,46.7576,26.5653
+392,29,NEAMȚ,REDIU,205,12,90,12,1,2,3,23,207,13,87,10,0,4,3,23,Școala cu Clasele I-VIII Rediu,,Rediu,46.7576,26.5653
+314,29,NEAMȚ,ICUŞEŞTI,65,1,100,1,0,3,1,11,66,2,101,1,1,4,0,7,Școala Primară Rocna,,Rocna,46.7711,26.9727
+76,29,NEAMȚ,MUNICIPIUL ROMAN,215,29,149,32,0,25,25,70,225,31,110,41,0,41,22,68,Colegiul Național „Roman Vodă” - Corp A,Str. Mihail Eminescu nr. 3,Roman,46.9254,26.9311
+77,29,NEAMȚ,MUNICIPIUL ROMAN,361,53,207,32,1,31,23,71,382,39,175,37,2,46,20,64,Grădinița de Copii nr. 2 cu Program Prelungit,Str. Constantin Dobrogeanu Gherea nr. 44,Roman,46.9279,26.9296
+78,29,NEAMȚ,MUNICIPIUL ROMAN,214,40,193,20,1,34,11,56,232,38,157,40,1,27,15,65,Grădinița de Copii nr. 6 cu Program Prelungit,Str. Roman Vodă nr. 4,Roman,46.9331,26.9307
+79,29,NEAMȚ,MUNICIPIUL ROMAN,239,20,179,15,2,17,11,48,255,24,149,22,1,22,13,48,Școala Gimnazială „Calistrat Hogaș”,Str. Mihai Viteazu nr. 15,Roman,46.937,26.9321
+80,29,NEAMȚ,MUNICIPIUL ROMAN,147,13,129,14,0,10,11,41,159,14,114,15,0,10,11,42,Școala Gimnazială „Calistrat Hogaș”,Str. Mihai Viteazu nr. 15,Roman,46.937,26.9321
+81,29,NEAMȚ,MUNICIPIUL ROMAN,154,12,146,14,1,12,8,32,177,9,123,16,0,14,9,34,Școala Gimnazială „Calistrat Hogaș”,Str. Mihai Viteazu nr. 15,Roman,46.937,26.9321
+82,29,NEAMȚ,MUNICIPIUL ROMAN,174,19,123,15,0,13,12,33,188,21,94,17,0,14,15,43,Centrul de Permanență de La Dispensarul Medical nr. 6,Str. Anton Pann nr. 20,Roman,46.9334,26.9324
+83,29,NEAMȚ,MUNICIPIUL ROMAN,201,12,137,17,0,11,14,46,220,13,122,17,1,11,15,42,Agenția Pentru Protecția Mediului,"Aleea Revoluției (Aleea Scînteii) nr. bl. 17, sc. D, ap. 64",Roman,46.9365,26.9369
+84,29,NEAMȚ,MUNICIPIUL ROMAN,220,51,153,31,0,20,8,54,227,54,119,49,1,31,11,53,Grădinița de Copii nr. 6 cu Program Normal,Str. Primăverii nr. 4,Roman,46.9303,26.9384
+85,29,NEAMȚ,MUNICIPIUL ROMAN,166,24,109,15,0,32,10,37,190,20,83,18,0,27,10,41,Liceul Tehnologic „Vasile Sav”,Bulevardul Republicii nr. 46,Roman,46.9298,26.9354
+86,29,NEAMȚ,MUNICIPIUL ROMAN,175,24,125,17,1,12,15,35,187,32,86,26,0,13,18,44,Liceul Tehnologic „Vasile Sav”,Bulevardul Republicii nr. 46,Roman,46.9298,26.9354
+87,29,NEAMȚ,MUNICIPIUL ROMAN,227,2,67,5,1,5,12,48,241,2,70,6,0,7,14,30,Circumscriptia Sanitar Veterinara,Str. Banatului nr. 2,Roman,46.9256,26.9459
+88,29,NEAMȚ,MUNICIPIUL ROMAN,268,12,143,14,0,16,22,55,283,17,124,16,1,25,26,50,Școala Gimnazială „Carol I”,Str. Dragoș Bogdan nr. 183,Roman,46.9269,26.9619
+89,29,NEAMȚ,MUNICIPIUL ROMAN,232,11,175,11,1,10,44,66,242,15,162,10,1,11,45,69,Școala Gimnazială „Carol I”,Str. Dragoș Bogdan nr. 183,Roman,46.9269,26.9619
+90,29,NEAMȚ,MUNICIPIUL ROMAN,233,20,159,21,1,21,10,45,237,26,126,29,1,28,12,47,Școala de Artă „Sergiu Celibidache” - Corp A,Str. Dragoș Bogdan nr. 91,Roman,46.9231,26.9411
+91,29,NEAMȚ,MUNICIPIUL ROMAN,254,22,163,18,0,30,19,56,266,22,133,23,1,35,23,55,Școala de Artă „Sergiu Celibidache” - Corp A,Str. Dragoș Bogdan nr. 91,Roman,46.9231,26.9411
+92,29,NEAMȚ,MUNICIPIUL ROMAN,261,54,141,21,0,25,16,58,293,60,116,25,0,24,13,45,Școala de Artă „Sergiu Celibidache” - Corp B,Str. Dragoș Bogdan nr. 91,Roman,46.923,26.9404
+93,29,NEAMȚ,MUNICIPIUL ROMAN,276,24,129,20,1,12,19,62,276,26,111,25,0,21,17,62,Grădinița de Copii nr. 4 cu Program Normal,Str. Ecaterina Teodoroiu nr. 4,Roman,46.9241,26.9373
+94,29,NEAMȚ,MUNICIPIUL ROMAN,297,47,189,18,0,34,24,82,309,56,146,31,0,39,26,84,Grădinița de Copii nr. 5 cu Program Prelungit,Str. Ecaterina Teodoroiu nr. 1A,Roman,46.9233,26.9363
+95,29,NEAMȚ,MUNICIPIUL ROMAN,228,24,130,17,0,22,25,66,244,33,106,23,0,21,21,59,Creșa Smirodava,Str. Smirodava nr. 28,Roman,46.924,26.939
+96,29,NEAMȚ,MUNICIPIUL ROMAN,257,30,134,12,0,17,12,60,274,26,124,15,0,22,13,46,Grădinița de Copii nr. 1 cu Program Prelungit,Str. Ion Creangă nr. 13,Roman,46.9285,26.9385
+97,29,NEAMȚ,MUNICIPIUL ROMAN,239,38,143,18,0,24,15,48,252,40,115,21,0,25,24,50,Grădinița de Copii nr. 1 cu Program Prelungit,Str. Ion Creangă nr. 13,Roman,46.9285,26.9385
+98,29,NEAMȚ,MUNICIPIUL ROMAN,258,33,170,21,2,25,13,66,271,50,144,20,3,28,16,57,Școala Gimnazială „Mihai Eminescu”,Str. Mihail Eminescu nr. 27,Roman,46.929,26.9366
+99,29,NEAMȚ,MUNICIPIUL ROMAN,134,7,134,12,2,12,15,33,147,9,117,12,3,9,18,35,Colegiul Tehnic „Miron Costin”,Str. Mihail Eminescu nr. 5-7,Roman,46.927,26.9334
+100,29,NEAMȚ,MUNICIPIUL ROMAN,183,25,122,8,0,9,12,34,200,22,93,12,0,9,11,44,Liceul cu Program Sportiv,Str. Tineretului nr. 24,Roman,46.9271,26.932
+101,29,NEAMȚ,MUNICIPIUL ROMAN,227,26,149,21,0,31,17,60,226,31,122,35,0,35,24,64,Școala Gimnazială „Vasile Alecsandri” - Local Vechi,Str. C. A. Rosetti nr. 8,Roman,46.9234,26.933
+102,29,NEAMȚ,MUNICIPIUL ROMAN,244,41,143,24,0,30,6,53,271,44,108,29,0,27,14,54,Școala Gimnazială „Vasile Alecsandri” - Local Nou,Str. C. A. Rosetti nr. 8,Roman,46.9234,26.933
+103,29,NEAMȚ,MUNICIPIUL ROMAN,243,44,306,31,1,38,20,73,268,58,240,53,3,37,23,76,Centrul de Îngrijire și Asistență Bătrâni (Dispensar 7),Str. Dragoș Bogdan nr. 1,Roman,46.9229,26.9325
+104,29,NEAMȚ,MUNICIPIUL ROMAN,171,37,110,11,0,28,18,49,182,39,81,19,0,36,19,47,Direcția de Asistență Socială Roman,Str. Alexandru cel Bun nr. 3,Roman,46.9193,26.929
+105,29,NEAMȚ,MUNICIPIUL ROMAN,220,41,153,24,1,18,15,45,233,47,123,32,1,20,18,44,Liceul Teologic „Episcop Melchisedec”,Str. Alexandru cel Bun nr. 2,Roman,46.9185,26.9286
+106,29,NEAMȚ,MUNICIPIUL ROMAN,170,35,178,14,2,11,12,47,186,40,141,16,2,13,12,53,Școala Gimnazială „Roman Mușat”,Str. Victor Hugo nr. 9,Roman,46.9143,26.928
+107,29,NEAMȚ,MUNICIPIUL ROMAN,176,29,110,13,1,15,13,33,197,27,84,11,3,19,11,32,Școala Gimnazială „Roman Mușat”,Str. Victor Hugo nr. 9,Roman,46.9143,26.928
+108,29,NEAMȚ,MUNICIPIUL ROMAN,200,35,142,16,0,21,13,51,203,43,114,28,0,30,10,43,Complex Servicii Sociale Integrate,Str. Sucedava nr. 3,Roman,46.9148,26.9259
+109,29,NEAMȚ,MUNICIPIUL ROMAN,238,25,208,15,0,28,20,66,262,33,165,22,0,29,22,69,Grădinița de Copii nr. 5 cu Program Normal,Str. Ion Ionescu de la Brad nr. 5,Roman,46.9203,26.9243
+110,29,NEAMȚ,MUNICIPIUL ROMAN,120,15,104,11,0,17,15,34,124,17,82,15,1,22,13,36,Școala Gimnazială „Costache Negri” - Local Nou,Str. Petru Rareș nr. 1,Roman,46.9249,26.921
+111,29,NEAMȚ,MUNICIPIUL ROMAN,246,22,179,20,0,12,20,89,267,33,163,24,1,17,22,64,Școala Gimnazială „Costache Negri” - Local Nou,Str. Petru Rareș nr. 1,Roman,46.9249,26.921
+112,29,NEAMȚ,MUNICIPIUL ROMAN,121,50,182,16,1,22,24,61,144,52,157,19,2,25,17,50,Colegiul Tehnic „Petru Poni” - Corp A,Bulevardul Republicii nr. 1/3,Roman,46.9308,26.9241
+113,29,NEAMȚ,MUNICIPIUL ROMAN,248,47,199,27,1,37,22,67,261,59,154,33,2,41,30,68,Colegiul Tehnic „Petru Poni” - Corp B,Str. Cuza Vodă nr. 82,Roman,46.9314,26.9241
+114,29,NEAMȚ,MUNICIPIUL ROMAN,244,39,177,24,2,20,15,64,241,43,150,32,2,31,19,72,Școala Gimnazială „Alexandru Ioan Cuza” (Școala nr. 5),Str. Cuza Vodă nr. 22,Roman,46.9251,26.9251
+115,29,NEAMȚ,MUNICIPIUL ROMAN,203,27,150,23,0,18,14,54,204,38,116,34,0,23,24,60,Școala Gimnazială „Alexandru Ioan Cuza” (Școala nr. 5),Str. Cuza Vodă nr. 22,Roman,46.9251,26.9251
+116,29,NEAMȚ,MUNICIPIUL ROMAN,205,71,184,19,0,26,12,52,210,76,140,33,1,36,19,58,Școala Gimnazială „Alexandru Ioan Cuza” Corp C (Grădinița de Copii nr. 3 cu Program Prelungit),Str. Cuza Vodă nr. 22,Roman,46.925,26.9254
+117,29,NEAMȚ,MUNICIPIUL ROMAN,157,33,190,16,0,27,17,53,179,34,158,20,0,29,22,53,Școala Gimnazială „Alexandru Ioan Cuza” Corp B (Grădinița de Copii nr. 12 cu Program Normal),Str. Cuza Vodă nr. 9 bis,Roman,46.9236,26.9256
+118,29,NEAMȚ,MUNICIPIUL ROMAN,162,20,220,17,1,15,9,46,168,26,193,32,1,24,13,42,Colegiul Tehnic „Danubiana”,Str. Energiei nr. 9,Roman,46.9367,26.9102
+393,29,NEAMȚ,ROMÂNI,141,4,59,5,0,21,5,24,139,6,57,7,0,23,6,25,Școala cu Clasele I-VIII,,Români,46.7924,26.6896
+247,29,NEAMȚ,DOLJEŞTI,214,27,125,17,1,6,5,16,213,28,122,17,3,7,6,20,Școala Gimnazială nr. 2 Rotunda,,Rotunda,47.0206,26.9582
+129,29,NEAMȚ,ORAŞ ROZNOV,370,19,64,34,1,34,24,98,365,20,64,35,0,40,25,93,Școala Generală Roznov,"Str. Tineretului (Aleea Panselelor, Aleea Spicului, Aleea Trifoiului, Str. Lămîiței, Str. Narciselor, Str. Ulmilor, Str. Violetelor) nr. 647",Roznov,46.8358,26.5025
+130,29,NEAMȚ,ORAŞ ROZNOV,315,21,61,32,1,21,18,71,328,24,63,32,2,19,26,64,Gara Roznov,Nr. 1012,Roznov,46.8383,26.5088
+131,29,NEAMȚ,ORAŞ ROZNOV,270,6,99,12,3,14,15,59,272,9,88,18,1,11,22,65,Căminul Pentru Persoane Vârstnice Roznov,Str. N. Roznovanu nr. 271,Roznov,46.8312,26.5186
+261,29,NEAMȚ,DULCEŞTI,71,2,59,6,0,8,1,12,76,1,54,6,0,9,2,12,Școala Roșiori,,Roșiori,46.9667,26.8259
+306,29,NEAMȚ,HANGU,56,4,29,1,0,3,0,10,60,3,31,1,0,4,0,6,Școala Primară Ruginești,,Ruginești,47.0038,26.0968
+398,29,NEAMȚ,RUGINOASA,129,4,229,4,1,4,11,23,123,4,226,3,1,14,14,22,Școala Gimnazială „Nicolae Apostol” Ruginoasa,,Ruginoasa,46.9849,26.701
+399,29,NEAMȚ,RUGINOASA,104,1,262,2,0,8,0,8,104,3,258,5,1,12,0,3,Școala Gimnazială „Nicolae Apostol” Ruginoasa,,Ruginoasa,46.9849,26.701
+204,29,NEAMȚ,BORLEŞTI,238,19,74,23,0,28,5,51,247,23,76,22,2,27,7,42,Școala Gimnazială „Grigore Teodorescu”,Str. Bistrița,Ruseni,46.7984,26.5381
+205,29,NEAMȚ,BORLEŞTI,176,6,62,11,0,11,1,25,178,6,60,14,0,13,3,22,Școala nr. 2,Str. Sfântul Lazăr,Ruseni,46.7915,26.5463
+339,29,NEAMȚ,PĂSTRĂVENI,148,10,28,7,1,20,14,26,160,11,29,8,1,19,11,17,Școala Gimnazială nr. 1 Radeni,,Rădeni,47.1426,26.5353
+340,29,NEAMȚ,PĂSTRĂVENI,151,1,13,7,0,31,4,7,151,2,14,6,1,32,3,6,Școala Primară nr. 2 Radeni,,Rădeni,47.1295,26.5078
+379,29,NEAMȚ,RĂUCEŞTI,344,11,78,16,0,11,7,21,339,16,73,16,0,11,4,14,Școala Gimnazială nr. 1 Răucești,,Răucești,47.2542,26.4069
+380,29,NEAMȚ,RĂUCEŞTI,187,5,35,5,0,11,6,22,191,4,32,6,0,10,6,23,Școala Gimnazială nr. 2 „Mihail Kogălniceanu” Răucești,,Răucești,47.2476,26.424
+381,29,NEAMȚ,RĂUCEŞTI,109,5,24,18,0,8,4,28,121,4,25,15,0,8,4,20,Grădinița cu Program Normal nr. 2 Răucești,,Răucești,47.2409,26.4354
+387,29,NEAMȚ,RĂZBOIENI,129,5,28,6,1,16,3,14,130,5,27,4,1,24,2,11,Școala Generală cu Clasele I-IV nr. 3,,Războieni,47.09,26.556
+386,29,NEAMȚ,RĂZBOIENI,233,6,24,4,0,23,4,32,236,8,29,4,1,19,6,21,Școala Generală cu Clasele I-VIII,,Războienii de Jos,47.0782,26.5606
+197,29,NEAMȚ,BORCA,162,10,47,8,0,25,11,48,160,8,50,9,0,26,15,45,Grădinița cu Program Normal - Borca Centru,,Sabasa,47.1787,25.7881
+198,29,NEAMȚ,BORCA,213,10,35,5,2,14,6,46,219,13,36,8,1,18,10,31,Cămin Cultural Sabasa,,Sabasa,47.201,25.815
+400,29,NEAMȚ,SAGNA,209,18,73,27,0,14,7,43,213,18,74,28,1,18,11,30,"Școala Gimnazială, Comuna Sagna",,Sagna,46.9706,27.0088
+401,29,NEAMȚ,SAGNA,223,14,71,15,1,19,9,46,231,13,64,23,0,21,9,37,"Școala Gimnazială, Comuna Sagna",,Sagna,46.9706,27.0088
+128,29,NEAMȚ,ORAŞ BICAZ,24,0,7,1,0,1,1,5,23,0,8,1,0,2,1,3,Școala Generală nr. 1 Marceni,Nr. 23,Secu,46.9745,26.029
+418,29,NEAMȚ,SECUIENI,149,4,101,6,0,10,8,33,150,5,100,8,2,12,8,29,Căminul Cultural,,Secuieni,46.856,26.848
+394,29,NEAMȚ,ROMÂNI,358,5,47,12,0,3,3,30,369,3,49,12,0,2,8,26,Școala cu Clasele I-VIII,,Siliștea,46.7769,26.6906
+396,29,NEAMȚ,ROMÂNI,185,2,31,3,1,6,12,44,197,1,34,6,1,5,15,31,Școala cu Clasele I-VIII Silisteaii,,Siliștea,46.8022,26.7242
+227,29,NEAMȚ,CORDUN,124,6,69,2,0,8,5,17,120,6,68,4,0,7,6,20,Școala Gimnazială nr. 1 - Grădinița Simionești,,Simionești,46.968,26.8686
+133,29,NEAMȚ,ORAŞ ROZNOV,282,11,56,36,0,5,9,63,276,13,58,41,0,9,12,60,Dispensar Medical Slobozia,Str. Dispensarului (Str. Tudoran) nr. 221,Slobozia,46.8475,26.5205
+134,29,NEAMȚ,ORAŞ ROZNOV,369,12,47,16,2,11,11,45,367,12,53,20,2,15,11,38,Școala Generală Slobozia,"Str. Aviator Magdalena (Str. Av. Magdalena, Str. Sold. Magdalena) nr. 720",Slobozia,46.8488,26.5303
+191,29,NEAMȚ,BOGHICEA,72,2,139,2,0,1,2,11,80,2,127,7,0,1,1,8,Școala Gimnazială Slobozia,Nr. -,Slobozia,47.0664,27.1142
+391,29,NEAMȚ,REDIU,129,7,16,1,0,3,3,11,129,7,17,2,1,4,4,7,Grădinița Socea,,Socea,46.7388,26.5605
+200,29,NEAMȚ,BORCA,139,6,26,0,0,15,3,46,150,7,24,1,0,15,7,39,Școala Primară nr. 1 Localitatea Soci,,Soci,47.1704,25.7901
+428,29,NEAMȚ,ŞTEFAN CEL MARE,78,2,13,2,0,4,2,11,78,3,14,1,1,3,3,9,Școala,,Soci,47.0278,26.5017
+335,29,NEAMȚ,ONICENI,525,0,22,2,0,1,2,13,526,1,19,2,0,1,5,11,Școala Generală,,Solca,46.7613,27.1538
+316,29,NEAMȚ,ICUŞEŞTI,34,1,38,2,0,4,4,9,32,2,33,3,0,5,4,12,Școala Primară Spiridonesti,,Spiridonești,46.7764,26.9489
+271,29,NEAMȚ,FARCAŞA,133,8,51,6,0,11,1,20,139,7,49,9,0,9,3,21,Căminul Cultural,,Stejaru,47.1586,25.8221
+319,29,NEAMȚ,ION CREANGĂ,185,2,24,7,0,1,3,24,181,3,23,11,0,2,4,20,Cămin Cultural,,Stejaru,46.8456,27.0508
+363,29,NEAMȚ,PÎNGĂRAŢI,129,18,50,19,0,14,15,64,132,22,51,22,1,15,20,53,Școala Gimnazială „Nicolae Iorga” - Sat Stejaru,,Stejaru,46.9188,26.1735
+435,29,NEAMȚ,TARCĂU,65,4,28,8,1,10,9,40,66,5,31,10,0,8,13,34,Grădinița,,Straja,46.9078,26.1693
+358,29,NEAMȚ,PIPIRIG,257,4,33,9,0,12,9,23,265,6,31,13,1,8,13,23,Școala Gimnazială Stinca,Str. Codrului nr. 97,Stânca,47.2305,26.1297
+422,29,NEAMȚ,STĂNIŢA,91,0,26,9,0,8,2,11,91,3,22,12,0,6,2,8,Școala Gimnazială Comuna Stanita,,Stănița,47.0082,27.1038
+405,29,NEAMȚ,SĂBĂOANI,125,32,52,28,0,8,1,27,128,28,51,32,0,8,7,26,Liceul Teoretic „Vasile Alecsandri” Comuna Săbăoani,Str. Orizontului nr. 51,Săbăoani,47.0153,26.8654
+406,29,NEAMȚ,SĂBĂOANI,241,60,107,14,0,22,18,66,239,54,111,19,0,28,20,59,Liceul Teoretic „Vasile Alecsandri” Comuna Săbăoani,Str. Stejarului nr. 3,Săbăoani,47.0137,26.8665
+407,29,NEAMȚ,SĂBĂOANI,135,39,50,6,0,13,6,32,144,33,43,12,0,16,4,26,Liceul Teoretic „Vasile Alecsandri” Comuna Săbăoani,Str. Orizontului nr. 51,Săbăoani,47.0153,26.8654
+408,29,NEAMȚ,SĂBĂOANI,159,28,56,9,2,8,4,25,163,26,53,13,3,6,4,20,Liceul Teoretic „Vasile Alecsandri” Comuna Săbăoani,Str. Progresului nr. 40,Săbăoani,47.016,26.8646
+409,29,NEAMȚ,SĂBĂOANI,130,28,41,8,1,8,5,25,133,28,40,9,1,10,8,21,Liceul Teoretic „Vasile Alecsandri” Comuna Săbăoani,Str. Progresului nr. 40,Săbăoani,47.016,26.8646
+410,29,NEAMȚ,SĂBĂOANI,161,27,70,11,0,17,5,34,159,24,75,16,1,13,8,30,Liceul Teoretic „Vasile Alecsandri” Comuna Săbăoani,Str. Orizontului nr. 156,Săbăoani,47.0064,26.8635
+411,29,NEAMȚ,SĂBĂOANI,136,12,79,11,0,5,2,21,136,9,77,14,0,8,2,18,Liceul Teoretic „Vasile Alecsandri” Comuna Săbăoani,Str. Orizontului nr. 156,Săbăoani,47.0064,26.8635
+375,29,NEAMȚ,POIENARI,77,1,23,4,0,2,2,13,79,1,22,3,0,4,3,7,Școala Gimnazială Structura Sacaleni,,Săcăleni,46.8642,27.1182
+150,29,NEAMȚ,AGAPIA,141,5,24,11,0,6,4,15,146,6,24,11,1,8,4,10,Școala Primară Săcălușești,,Săcălușești,47.1699,26.3381
+383,29,NEAMȚ,RĂUCEŞTI,80,0,84,3,0,5,3,11,84,0,84,4,0,5,3,7,Școala Săvești,,Săvești,47.2753,26.4276
+412,29,NEAMȚ,SĂVINEŞTI,266,16,64,15,2,7,15,51,272,13,67,15,0,13,16,46,Școala Gimnazială I.Gervescu Savinesti,,Săvinești,46.8582,26.4684
+414,29,NEAMȚ,SĂVINEŞTI,62,6,25,17,0,4,6,23,66,8,24,17,0,8,5,14,Grădinița cu Program Normal Savinesti,,Săvinești,46.8602,26.4685
+415,29,NEAMȚ,SĂVINEŞTI,144,10,26,10,0,12,4,27,143,15,28,11,0,12,4,20,Gradinița cu Program Prelungit Savinesti,,Săvinești,46.8606,26.4661
+416,29,NEAMȚ,SĂVINEŞTI,343,23,67,32,0,12,15,91,356,18,65,36,1,16,15,71,Școala Gimnazială Săvinesti,,Săvinești,46.8544,26.4717
+417,29,NEAMȚ,SĂVINEŞTI,295,14,52,21,0,12,11,65,316,14,52,20,0,12,18,57,Școala Primară Savinesti,,Săvinești,46.8467,26.4845
+182,29,NEAMȚ,BÎRGĂUANI,151,2,18,15,1,17,2,21,152,6,17,18,0,16,5,15,Școala Primară Talpa,,Talpa,47.0332,26.648
+433,29,NEAMȚ,TARCĂU,150,8,58,7,1,10,10,55,155,8,60,12,1,12,15,45,"Școala Gimnazială „Iulia Hălăucescu”, Comuna Tarcău, Județul Neamț",,Tarcău,46.889,26.1304
+434,29,NEAMȚ,TARCĂU,129,5,54,9,2,10,7,24,124,5,60,10,3,14,7,19,"Școala Gimnazială „Iulia Hălăucescu”, Comuna Tarcău, Județul Neamț",,Tarcău,46.889,26.1304
+440,29,NEAMȚ,TAZLĂU,126,6,116,21,1,7,14,49,132,6,120,25,0,8,13,36,Școala Gimnazială „I.I. Mironescu”,Nr. 186,Tazlău,46.7251,26.4648
+441,29,NEAMȚ,TAZLĂU,175,8,125,16,1,8,9,45,182,7,120,15,2,13,7,37,Caminul Cultural,Str. Fabricii nr. 2,Tazlău,46.7201,26.4708
+438,29,NEAMȚ,TAŞCA,306,0,78,15,2,40,19,91,312,15,85,13,2,48,22,60,Camin Cultural,,Tașca,46.8946,26.0237
+169,29,NEAMȚ,BICAZU ARDELEAN,119,1,139,7,0,4,3,25,119,2,135,7,1,9,5,24,Școala Gimnazială nr. 2,Nr. 594,Telec,46.8755,25.8801
+170,29,NEAMȚ,BICAZU ARDELEAN,53,3,62,7,0,4,3,16,55,0,70,5,1,5,3,13,Școala Primară nr. 1,Nr. 353,Telec,46.8904,25.8577
+281,29,NEAMȚ,GHERĂEŞTI,83,21,86,9,1,6,2,26,87,19,90,13,1,4,5,20,"Școala Primară, Tetcani",,Tețcani,47.0343,26.8412
+171,29,NEAMȚ,BICAZU ARDELEAN,26,3,42,2,0,4,3,14,26,2,44,1,0,4,3,9,Școala Primară Ticoș,Nr. 44,Ticoș,46.8717,25.9643
+448,29,NEAMȚ,TIMIŞEŞTI,230,7,25,1,0,18,5,38,234,9,28,3,0,20,9,28,Școala Gimnazială,,Timișești,47.2317,26.5494
+426,29,NEAMȚ,STĂNIŢA,71,0,11,4,1,6,2,8,76,0,13,4,0,5,1,6,Școala Primară nr. 1 Todireni,,Todireni,47.0181,27.1355
+297,29,NEAMȚ,GRUMĂZEŞTI,319,24,42,12,1,17,14,41,329,20,39,12,1,17,16,38,Școala,,Topolița,47.1712,26.3803
+458,29,NEAMȚ,TUPILAŢI,70,1,23,3,0,2,2,14,75,1,24,3,0,3,2,10,Școala cu Clasele I-VIII,Nr. 43,Totoiești,47.0837,26.6052
+404,29,NEAMȚ,SĂBĂOANI,162,20,81,4,0,13,9,28,172,22,75,6,0,9,14,29,Școala Gimnazială Traian-Săbăoani,,Traian,46.9916,26.9052
+483,29,NEAMȚ,ZĂNEŞTI,190,4,23,31,0,6,10,42,192,5,22,32,1,8,11,36,"Grădinița cu Program Normal, Loc Traian",Str. Cărții,Traian,46.8328,26.5772
+453,29,NEAMȚ,TRIFEŞTI,278,12,279,10,1,15,12,48,282,10,273,11,2,13,12,42,Școala cu Clasele I-VIII,,Trifești,46.902,26.8661
+455,29,NEAMȚ,TRIFEŞTI,138,8,139,5,1,6,5,15,138,5,129,7,0,9,7,21,Școala cu Clasele I-IV,,Trifești,46.8774,26.8708
+457,29,NEAMȚ,TUPILAŢI,241,7,82,16,0,19,6,37,249,8,89,16,0,21,6,25,Școala cu Clasele I-VIII,Nr. 580,Tupilați,47.0805,26.6443
+459,29,NEAMȚ,TUPILAŢI,212,11,29,5,0,8,2,13,216,11,28,9,0,5,4,15,Primăria Tupilați,Nr. 549,Tupilați,47.0765,26.6582
+286,29,NEAMȚ,GIROV,97,3,30,7,0,14,10,34,98,5,30,9,0,18,9,27,Școala Turturesti,,Turturești,46.9404,26.4499
+135,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,258,12,39,20,2,14,7,33,257,17,38,25,2,13,9,25,Sala de Sport Parc Cetate,Str. 1 Decembrie 1918 (Str. Comuna din Paris) nr. 48,Târgu Neamț,47.2106,26.3455
+136,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,134,5,23,5,0,14,8,32,142,4,28,4,0,13,5,25,Grădinița cu Program Prelungit nr. 2,Bulevardul Ștefan cel Mare (Str. V. I. Lenin) nr. 34,Târgu Neamț,47.2072,26.357
+137,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,423,39,85,38,1,41,19,89,432,41,78,37,1,47,23,76,Școala Gimnazială Domnească „Grigore Ghica Vodă”,Bulevardul Ștefan cel Mare (Str. V. I. Lenin) nr. 30,Târgu Neamț,47.2068,26.3584
+138,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,361,57,62,29,1,45,29,66,361,61,57,34,1,49,31,59,Liceul „Vasile Conta”,Str. Slt. Radu Teoharie (Str. 7 Noiembrie) nr. 3,Târgu Neamț,47.2042,26.3619
+139,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,386,29,64,28,0,30,14,72,396,29,68,33,0,28,13,53,"Colegiul Național „Ștefan Cel Mare”, Corp B, Sala 1",Bulevardul Ștefan cel Mare (Str. V. I. Lenin) nr. 52,Târgu Neamț,47.2055,26.3672
+140,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,479,34,73,32,1,52,17,74,474,35,76,36,1,48,18,66,"Colegiul Național „Ștefan Cel Mare”, Corp B, Sala 2 (fosta Secție de La Casa Culturii)",Bulevardul Ștefan cel Mare (Str. V. I. Lenin) nr. 52,Târgu Neamț,47.2055,26.3672
+141,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,475,39,97,26,1,30,25,106,483,44,105,32,3,32,29,78,"Colegiul Național „Ștefan Cel Mare”, Corp A, Sala 1",Bulevardul Ștefan cel Mare (Str. V. I. Lenin) nr. 67,Târgu Neamț,47.2061,26.3707
+142,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,452,48,69,44,0,44,19,84,458,49,69,44,2,42,23,70,Clubul Copiilor,Str. Mărășești nr. 101,Târgu Neamț,47.2083,26.3678
+143,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,480,28,78,24,1,61,19,96,487,34,90,24,2,61,20,73,"Colegiul Tehnic „Ion Creangă”, Corp B",Bulevardul Ștefan cel Mare (Str. V. I. Lenin) nr. 147,Târgu Neamț,47.2082,26.3807
+144,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,189,3,64,3,0,8,4,26,183,1,68,5,0,7,4,28,Căminul Cultural Loc.Blebea,Str. Vînătorului nr. 25,Târgu Neamț,47.1967,26.4066
+145,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,341,15,89,19,0,36,11,62,340,22,86,20,2,42,13,51,"Școala Gimnazială „Ion Creangă”, Corp B, Loc. Humulești",Str. Mihail Sadoveanu (Str. 30 Decembrie) nr. 20,Târgu Neamț,47.198,26.3518
+146,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,384,28,110,20,1,30,14,65,388,29,108,21,3,38,14,47,"Școala Gimnazială „Ion Creangă”, Corp A, Loc. Humulești",Str. Mihail Sadoveanu (Str. 30 Decembrie) nr. 20,Târgu Neamț,47.1979,26.3508
+147,29,NEAMȚ,ORAŞ TÎRGU NEAMŢ,133,8,21,4,0,10,4,19,128,10,21,2,2,11,8,20,"Școala Gimnazială „Ion Creangă”, Corp C, Loc. Humuleștii Noi",Str. Hangului nr. 2,Târgu Neamț,47.1861,26.332
+346,29,NEAMȚ,PETRICANI,248,7,21,10,1,54,8,30,247,6,24,13,1,49,14,30,Școala Generală,,Târpești,47.1495,26.4299
+218,29,NEAMȚ,BRUSTURI,151,0,16,2,0,22,8,28,155,2,18,2,0,24,7,24,Școala Gimnazială „Grigore Sturzu” Tirzia,,Târzia,47.313,26.3572
+443,29,NEAMȚ,TĂMĂŞENI,110,125,98,5,1,7,4,31,123,106,111,3,1,8,5,26,Grădinița,,Tămășeni,46.9896,26.9504
+445,29,NEAMȚ,TĂMĂŞENI,76,142,103,8,0,4,2,29,83,123,108,7,2,13,3,34,Școala Gimnazială Comuna Tamaseni,,Tămășeni,46.9941,26.9502
+446,29,NEAMȚ,TĂMĂŞENI,96,120,84,3,2,6,0,10,88,103,95,4,1,9,4,15,Caminul Cultural,,Tămășeni,46.993,26.9504
+378,29,NEAMȚ,RĂUCEŞTI,125,1,33,3,0,3,7,17,126,1,33,3,0,2,8,19,Școala Ungheni,,Ungheni,47.2648,26.4583
+254,29,NEAMȚ,DRAGOMIREŞTI,48,0,9,3,0,1,0,2,48,0,10,3,0,1,1,2,Școala Generală,,Unghi,47.0431,26.5631
+464,29,NEAMȚ,URECHENI,162,5,6,5,1,12,10,23,161,4,9,5,0,12,12,21,Școala Gimnazială Urecheni,Str. Principală nr. 65,Urecheni,47.1665,26.5313
+465,29,NEAMȚ,URECHENI,199,10,16,6,0,18,3,10,201,8,21,5,0,17,5,8,Școala Gimnazială Urecheni,Str. Principală nr. 65,Urecheni,47.1665,26.5313
+466,29,NEAMȚ,URECHENI,180,5,7,1,0,7,4,13,179,4,8,3,0,7,4,12,Școala Gimnazială Fundatura,Nr. 53,Urecheni,47.1562,26.5059
+467,29,NEAMȚ,URECHENI,118,4,7,1,0,15,8,15,123,3,6,2,0,15,9,11,Grădinița cu Program Normal Catuna,Str. Cătuna nr. 60,Urecheni,47.1578,26.526
+251,29,NEAMȚ,DRAGOMIREŞTI,229,5,53,19,1,14,7,53,238,8,58,17,1,11,8,39,Grădinița cu Program Normal Vad,,Vad,47.0249,26.5498
+153,29,NEAMȚ,ALEXANDRU CEL BUN,131,22,47,32,0,16,6,57,134,23,52,33,0,17,10,46,Școala Gimnazială Vaduri,Str. Ștefan cel Mare nr. 42,Vaduri,46.9336,26.2529
+385,29,NEAMȚ,RĂZBOIENI,133,0,16,7,0,7,2,10,132,0,15,9,0,6,3,9,Școala Generală,,Valea Albă,47.0712,26.5294
+163,29,NEAMȚ,BĂLŢĂTEŞTI,94,3,46,11,0,5,3,14,90,5,48,13,0,5,5,11,Casa de Prăznuire a Parohiei Valea Arini,,Valea Arini,47.1255,26.2945
+336,29,NEAMȚ,ONICENI,125,2,18,1,0,2,1,4,117,2,20,2,0,4,5,5,Școala Generală,,Valea Enei,46.8006,27.148
+162,29,NEAMȚ,BĂLŢĂTEŞTI,193,10,121,35,0,9,7,30,196,6,122,33,0,11,7,18,Școala Gimnazială,,Valea Seacă,47.1429,26.3007
+469,29,NEAMȚ,VALEA URSULUI,240,6,13,11,0,5,3,11,244,3,8,13,0,5,3,11,Camin Cultural Valea Ursului,Nr. 462,Valea Ursului,46.7962,27.0787
+151,29,NEAMȚ,AGAPIA,228,8,48,9,1,11,5,45,236,10,48,10,0,16,7,30,Școala Nouă Văratec,,Varatec,47.1422,26.2782
+427,29,NEAMȚ,STĂNIŢA,79,1,11,4,1,3,2,4,80,0,10,3,1,3,2,3,Școala Primară nr. 3 Veja,,Veja,47.0134,27.1548
+290,29,NEAMȚ,GIROV,75,6,17,5,0,10,2,12,72,8,18,5,0,10,5,12,Școala Versesti,,Verșești,46.9786,26.4831
+152,29,NEAMȚ,ALEXANDRU CEL BUN,137,28,69,17,1,26,14,79,138,28,68,21,1,34,19,70,Școala Gimnazială Vaduri,Str. Tipografului nr. 34,Viișoara,46.9396,26.268
+183,29,NEAMȚ,BÎRGĂUANI,125,3,7,3,0,9,2,16,127,1,8,5,0,8,2,10,Fosta Școală Primară Vlădiceni,,Vlădiceni,46.9315,26.6759
+403,29,NEAMȚ,SAGNA,107,3,65,14,1,5,8,31,117,6,57,18,1,5,9,24,Școala Primară Vulpășești,,Vulpășești,46.9724,27.0572
+476,29,NEAMȚ,VÎNĂTORI-NEAMŢ,296,27,51,11,1,20,8,45,291,36,55,14,2,22,11,35,Școala Gimnazială „Arhim. Chiriac Nicolau”,Nr. 198,Vânători-Neamț,47.2155,26.3151
+477,29,NEAMȚ,VÎNĂTORI-NEAMŢ,344,11,45,15,1,18,11,51,353,14,50,15,0,12,16,46,Grădinița nr. 2 Ungureni,Nr. 466,Vânători-Neamț,47.2089,26.3205
+478,29,NEAMȚ,VÎNĂTORI-NEAMŢ,324,12,41,8,3,15,8,51,328,12,50,9,3,12,11,39,Școala Gimnazială „Arhim. Chiriac Nicolau” nr. 2,Nr. 1093,Vânători-Neamț,47.2164,26.2976
+482,29,NEAMȚ,VÎNĂTORI-NEAMŢ,34,4,3,1,0,2,2,11,32,4,4,3,0,8,1,7,Manastirea Sihastria,Nr. 1510,Vânători-Neamț,47.1758,26.168
+155,29,NEAMȚ,ALEXANDRU CEL BUN,237,26,65,40,0,20,17,69,244,30,62,47,0,23,17,61,Școala Gimnazială Vaduri,Str. Independenței nr. 44,Vădurele,46.934,26.2533
+222,29,NEAMȚ,CÎNDEŞTI,149,4,38,8,1,19,8,28,153,6,35,9,0,24,9,20,Grădinița cu Program Normal,,Vădurele,46.7293,26.5707
+475,29,NEAMȚ,VĂLENI,113,2,135,6,0,8,2,10,118,3,130,6,1,8,2,11,Sala Sedinte Consiliul Local Văleni,Str. Cozma Șarpe nr. 4,Văleni,47.0272,26.6874
+452,29,NEAMȚ,TIMIŞEŞTI,47,2,5,6,0,1,2,7,45,1,9,5,0,1,3,6,Școala Primară,,Zvorănești,47.2127,26.5666
+484,29,NEAMȚ,ZĂNEŞTI,342,17,61,92,0,20,20,93,352,19,75,80,1,29,15,63,"Școala Gimnazială nr. 2, Loc Zănești",Str. Luminii,Zănești,46.8186,26.5459
+485,29,NEAMȚ,ZĂNEŞTI,365,29,43,69,0,30,19,84,369,35,43,59,1,40,17,71,"Școala Gimnazială nr. 1, Loc Zănești",Str. Națională nr. 666,Zănești,46.8126,26.553
+486,29,NEAMȚ,ZĂNEŞTI,211,12,22,68,0,12,14,61,211,14,23,72,1,14,13,51,Centru Cultural Multifunctional,Str. Națională nr. 959,Zănești,46.8038,26.5768
+258,29,NEAMȚ,DRĂGĂNEŞTI,70,1,63,0,0,13,5,11,67,6,68,0,0,12,4,10,Școala Primară,,Șoimărești,47.3081,26.4411
+206,29,NEAMȚ,BORLEŞTI,60,3,23,3,0,5,2,14,59,5,28,3,0,5,3,9,Grădinița,Str. Balanu,Șovoaia,46.8064,26.4993
+431,29,NEAMȚ,ŞTEFAN CEL MARE,181,6,17,17,0,8,7,33,183,6,20,17,1,15,9,25,Școala Gimnazială Dr. Emanuiel Rigler,,Ștefan cel Mare,46.9848,26.5112
+432,29,NEAMȚ,ŞTEFAN CEL MARE,190,4,27,13,0,11,14,41,196,4,26,16,0,10,15,28,Școala Gimnazială Dr. Emanuiel Rigler,,Ștefan cel Mare,46.9848,26.5112
+462,29,NEAMȚ,ŢIBUCANI,270,10,188,6,0,24,41,66,281,9,186,7,0,24,44,62,Școala Gimnazială nr. 1 Țibucani,,Țibucani,47.1149,26.5528
+463,29,NEAMȚ,ŢIBUCANI,163,11,98,6,0,1,23,41,166,13,97,5,0,2,27,37,Școala Gimnazială nr. 3 Țibucani,,Țibucani,47.1058,26.5169
+460,29,NEAMȚ,ŢIBUCANI,73,3,51,3,0,4,4,15,82,4,53,3,0,4,5,10,Fosta Școala Primară (Sala de Festivități),,Țibucanii de Jos,47.1155,26.5841
+347,29,NEAMȚ,PETRICANI,313,4,7,17,0,19,3,9,310,5,9,18,1,20,4,11,Școala Generală,,Țolici,47.1182,26.4467
+158,29,NEAMȚ,BAHNA,59,0,51,2,0,2,0,8,59,0,53,0,0,2,0,6,"Fosta Școala cu Clasele I-IV, Localitatea Țuțcanii din Vale",,Țuțcanii din Vale,46.7844,26.7679

@@ -1,0 +1,731 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+335,24,IAȘI,BRĂEŞTI,73,0,79,5,1,35,2,10,77,3,81,4,1,32,2,10,Școala cu Cl. I-IV Albești,,Albești,47.185,27.1007
+295,24,IAȘI,ALEXANDRU I. CUZA,246,3,27,15,0,14,7,15,244,4,26,14,0,13,8,18,Școala Primară Al.I.Cuza,,Alexandru I. Cuza,47.1293,26.855
+720,24,IAȘI,VLĂDENI,89,5,13,6,1,2,4,12,93,6,12,4,0,4,4,12,Școala cu Clasele I-IV Alexandru Cel Bun,,Alexandru cel Bun,47.4587,27.2945
+673,24,IAȘI,ŢIBANA,114,2,9,10,0,2,19,28,113,2,8,8,0,2,19,28,Școala Gimnazială Alexeni,,Alexeni,46.9683,27.3688
+298,24,IAȘI,ANDRIEŞENI,177,4,190,14,2,12,7,42,175,6,195,15,0,8,12,40,Școala Gimnazială Gh. Ciobanu Andrieseni,,Andrieșeni,47.5273,27.2865
+363,24,IAȘI,COARNELE CAPREI,111,1,13,2,1,1,2,7,111,1,13,3,0,2,1,6,Școala Generală Sat. Arama,,Arama,47.3972,27.1105
+302,24,IAȘI,ARONEANU,212,57,250,30,0,31,14,50,212,57,248,30,0,36,17,43,Școala Gimnazială Aron-Voda din Sat Aroneanu,Nr. 26,Aroneanu,47.2041,27.6024
+587,24,IAȘI,ROMÂNEŞTI,98,7,43,6,0,4,9,23,98,9,44,6,1,7,6,18,Școala Primară Avintu,,Avântu,47.2592,27.3674
+378,24,IAȘI,COTNARI,37,3,9,6,0,2,4,5,34,3,9,6,0,1,3,5,Casa de Praznuire Bahlui,,Bahluiu,47.3578,26.986
+516,24,IAȘI,MIROSLAVA,96,32,104,32,1,14,13,34,98,35,109,23,1,18,9,27,Sala de Sport -Miroslava,,Balciu,47.1454,27.5277
+306,24,IAȘI,BALŞ,175,3,64,10,1,6,12,31,172,6,64,10,2,8,14,36,Școala Gimnazială Clasele I-VIII Bals,,Balș,47.2971,26.9754
+419,24,IAȘI,DUMEŞTI,74,3,22,9,0,6,3,14,73,6,22,10,0,7,3,11,Cladirea Fostei Scoli Primare Banu,,Banu,47.1906,27.3693
+314,24,IAȘI,BELCEŞTI,191,14,64,9,2,21,14,33,196,12,57,8,1,22,14,34,Școala Belcești,,Belcești,47.3062,27.0854
+315,24,IAȘI,BELCEŞTI,184,11,32,12,0,10,9,28,189,12,34,10,0,12,10,27,Școala Belcești,,Belcești,47.3062,27.0854
+316,24,IAȘI,BELCEŞTI,159,1,103,7,0,8,7,24,163,1,106,5,0,10,11,20,Școala Rusi,,Belcești,47.3107,27.0962
+322,24,IAȘI,BIVOLARI,126,4,42,25,0,18,4,14,126,5,37,26,0,23,3,10,Școala Gimnazială cu Clasele I-VIII Bivolari,Nr. 0,Bivolari,47.519,27.4451
+323,24,IAȘI,BIVOLARI,127,8,27,18,1,13,4,22,131,11,33,18,0,10,2,18,Școala Gimnazială cu Clasele I-VIII Bivolari,Nr. 0,Bivolari,47.519,27.4451
+262,24,IAȘI,MUNICIPIUL PAŞCANI,214,10,82,26,0,12,17,40,219,8,91,22,1,9,19,36,Școala Blagesti,Nr. 36,Blăgești,47.2484,26.7672
+397,24,IAȘI,DAGÎŢA,42,0,44,8,0,1,1,8,44,1,43,8,0,2,1,5,Școala Primară Boatca,,Boatca,46.949,27.2192
+621,24,IAȘI,SINEŞTI,29,1,58,1,0,1,9,14,28,2,59,1,0,1,9,15,Școala Primară Bocnița,,Bocnița,47.1605,27.1887
+599,24,IAȘI,SCÂNTEIA,86,0,11,13,1,1,2,17,88,0,12,13,1,1,1,12,Școala Gimnazială Bodești,Nr. 98,Bodești,46.9147,27.5977
+480,24,IAȘI,HORLEŞTI,106,5,28,7,0,6,4,20,110,6,25,7,0,6,6,21,Camin Cultural Satul Bogdănești,,Bogdănești,47.1151,27.4358
+499,24,IAȘI,LEŢCANI,99,11,134,5,0,7,3,18,99,12,133,6,1,6,2,12,Școala Primară Bogonos,,Bogonos,47.2068,27.4323
+579,24,IAȘI,RĂDUCĂNENI,193,7,26,32,1,11,16,40,194,8,29,26,1,16,11,33,Școala Generală Bohotin,,Bohotin,46.9378,27.9765
+552,24,IAȘI,PLUGARI,248,5,65,10,1,6,5,19,240,5,70,10,1,6,6,19,Școala Gimnazială Borosoaia,,Borosoaia,47.4633,27.0988
+600,24,IAȘI,SCÂNTEIA,95,3,58,11,2,6,12,29,95,3,59,10,0,7,14,33,Grădinița cu Program Normal Borosești,Nr. 158,Boroșești,46.9421,27.5937
+718,24,IAȘI,VLĂDENI,98,4,25,9,0,9,5,16,102,4,22,11,1,9,4,12,Școala cu Clasele I-VIII Borsa,,Borșa,47.4155,27.3639
+695,24,IAȘI,UNGHENI,134,3,31,15,0,18,2,8,134,3,31,14,0,12,3,9,Școala Gimnazială Bosia,,Bosia,47.2143,27.7657
+696,24,IAȘI,UNGHENI,139,2,18,6,0,11,4,23,136,3,25,8,0,11,3,16,Școala Gimnazială Bosia,,Bosia,47.2143,27.7657
+307,24,IAȘI,BALŞ,306,12,43,38,2,8,3,29,291,15,42,40,3,11,7,38,Școala Gimnazială Clasele I-VIII Boureni,,Boureni,47.2643,26.9748
+543,24,IAȘI,MOŢCA,257,2,46,18,3,13,16,38,251,2,46,17,2,12,17,41,Cămin Cultural,,Boureni,47.2123,26.6293
+268,24,IAȘI,MUNICIPIUL PAŞCANI,269,4,83,7,0,4,9,27,264,3,83,9,1,6,11,29,Școala Bosteni,Nr. 45,Boșteni,47.2324,26.685
+584,24,IAȘI,REDIU,195,78,122,30,0,27,8,34,186,90,110,34,0,31,11,37,Grădinița cu Program Normal Breazu,Nr. 1,Breazu,47.2125,27.516
+721,24,IAȘI,VLĂDENI,54,3,7,5,0,2,1,6,52,4,7,4,0,2,1,6,Școala cu Clasele I-IV Brosteni,,Broșteni,47.4558,27.3355
+411,24,IAȘI,DOLHEŞTI,172,1,88,8,2,9,4,16,182,1,86,10,1,10,3,8,Școala Brădicești,Nr.  -,Brădicești,46.8485,27.9032
+332,24,IAȘI,BRĂEŞTI,121,3,124,6,0,16,8,24,124,5,131,7,0,14,11,23,Liceul Tehnologic Braesti,,Brăești,47.1557,27.0933
+628,24,IAȘI,STOLNICENI-PRĂJESCU,61,1,34,3,6,118,3,78,92,1,54,4,8,128,5,16,Școala cu Clasele I-IV Sala 1,,Brătești,47.1853,26.7036
+629,24,IAȘI,STOLNICENI-PRĂJESCU,160,4,28,8,0,7,9,18,158,3,25,10,0,10,7,17,Școala cu Clasele I-VIII Sala nr. 1,,Brătești,47.1924,26.6849
+517,24,IAȘI,MIROSLAVA,38,9,62,4,0,6,2,9,39,9,61,4,0,5,3,8,Școala cu Clasele I-IV Brătuleni,,Brătuleni,47.1652,27.4572
+633,24,IAȘI,STRUNGA,145,4,19,5,1,4,2,14,143,5,17,5,1,5,2,10,Școala Primară Bratulesti,,Brătulești,47.1253,26.9675
+333,24,IAȘI,BRĂEŞTI,19,0,38,5,0,5,3,5,17,0,39,5,2,4,2,9,Școala cu Clasele I-IV,,Buda,47.119,27.0717
+494,24,IAȘI,LESPEZI,104,2,57,11,1,11,17,27,112,2,60,13,0,7,20,27,Școala Gimnazială Buda,,Buda,47.4016,26.6772
+532,24,IAȘI,MOGOŞEŞTI,47,1,24,4,0,3,1,9,48,1,24,4,0,4,1,8,Școala Primară Budești,,Budești,47.054,27.491
+285,24,IAȘI,ORAŞ PODU ILOAIEI,139,13,36,41,0,11,2,19,134,12,42,41,0,12,4,20,Școala Budăi,,Budăi,47.2175,27.2172
+340,24,IAȘI,CEPLENIŢA,213,5,91,16,0,6,5,32,206,8,98,15,0,6,6,25,Școala Gimnazială „Nicolae Iorga” Buhalnita,,Buhalnița,47.3789,26.9141
+299,24,IAȘI,ANDRIEŞENI,70,2,40,9,0,3,2,9,78,1,41,11,0,2,3,5,Școala Primară Buhaeni,,Buhăeni,47.5088,27.2759
+449,24,IAȘI,GROPNIŢA,146,3,42,3,1,4,4,19,149,1,40,3,1,5,2,15,Sediul Primăriei,Nr. 146,Bulbucani,47.3574,27.2479
+495,24,IAȘI,LESPEZI,158,3,43,6,0,8,8,21,160,2,41,7,0,4,13,21,Școala Primară Bersuc Deal,,Bursuc-Deal,47.3241,26.6749
+336,24,IAȘI,BUTEA,243,9,55,5,0,9,5,19,236,9,51,7,0,11,6,23,Camin Cultural Butea,,Butea,47.0733,26.9387
+337,24,IAȘI,BUTEA,211,6,70,6,1,6,5,25,212,7,71,6,0,7,6,25,Grădinița Butea,,Butea,47.0722,26.9377
+483,24,IAȘI,ION NECULCE,307,6,63,9,0,10,7,32,312,10,61,10,0,13,8,25,Școala Gimnazială Buznea,,Buznea,47.1949,27.0136
+490,24,IAȘI,IPATELE,188,4,7,3,0,3,2,16,198,3,5,5,0,3,2,10,Școala cu Clasele I-VIII-Bâcu,,Bâcu,46.9254,27.4593
+422,24,IAȘI,ERBICENI,119,3,6,10,0,6,1,15,126,3,7,10,0,4,3,11,Școala Generală Birlesti,,Bârlești,47.2529,27.2594
+326,24,IAȘI,BÎRNOVA,185,52,60,37,0,76,13,29,185,57,58,35,2,71,13,35,Camin Cultural Birnova,Nr. 191,Bârnova,47.0755,27.6281
+614,24,IAȘI,SCOBINŢI,238,6,20,10,1,14,10,25,245,6,22,11,1,17,9,21,"Sat Badeni, Sediu Școala Badeni",,Bădeni,47.4053,26.9483
+656,24,IAȘI,TODIREŞTI,46,0,22,26,0,2,2,10,45,0,19,25,0,2,2,14,Școala Primară Baiceni,,Băiceni,47.3116,26.911
+571,24,IAȘI,PROBOTA,51,0,124,15,0,4,1,15,56,2,122,12,0,5,1,13,Școala Primară Balteni,,Bălteni,47.4007,27.5
+396,24,IAȘI,DAGÎŢA,35,1,20,9,0,1,2,5,33,0,21,10,0,2,2,5,Școala Primară Bălușești,,Bălușești,46.8855,27.2086
+309,24,IAȘI,BĂLŢAŢI,285,23,115,67,0,19,18,50,279,21,123,71,1,21,20,45,Centru de Zi Bălțați,,Bălțați,47.2205,27.1236
+339,24,IAȘI,CEPLENIŢA,239,3,76,7,0,19,6,27,237,7,76,8,0,18,7,25,Școala Gimnazială „Grigore Ureche” Ceplenita,,Ceplenița,47.3805,26.9677
+327,24,IAȘI,BÎRNOVA,81,41,14,5,0,21,1,11,87,41,13,8,0,17,1,11,Școala Primară Cercu,Nr. 29,Cercu,47.0868,27.6065
+664,24,IAȘI,TOMEŞTI,193,28,35,21,1,15,6,32,180,35,32,25,0,18,8,34,"Sediul Școala Gimnazială Chicerea, Sat.Chicerea, Com.Tomești",,Chicerea,47.1047,27.7472
+417,24,IAȘI,DUMEŞTI,48,0,9,3,1,1,6,13,53,2,7,2,0,1,7,10,Grădinița cu Program Normal Chilisoaia,,Chilișoaia,47.1635,27.3033
+646,24,IAȘI,ŞIPOTE,243,4,27,15,0,18,9,23,248,8,23,21,0,15,9,18,Școala Gimnazială Chiscareni,,Chișcăreni,47.4692,27.1937
+434,24,IAȘI,GOLĂIEŞTI,85,2,28,5,1,15,1,11,86,2,25,10,1,16,1,5,Școala Primară Cilibiu,,Cilibiu,47.2534,27.6763
+641,24,IAȘI,ŞCHEIA,65,2,21,3,0,11,2,13,70,2,21,4,0,12,2,7,Școala Generală Cioca-Boca,Nr. 58,Cioca-Boca,46.946,27.4637
+601,24,IAȘI,SCÂNTEIA,54,4,12,7,0,5,2,10,56,6,13,5,0,5,4,9,Școala Primară Ciocârlești,Nr. 28,Ciocârlești,46.9328,27.5535
+343,24,IAȘI,CIOHORĂNI,290,6,31,11,0,13,15,39,298,5,25,13,1,16,15,33,Căminul Cultural Ciohorăni,Nr. 136,Ciohorăni,47.1352,26.688
+344,24,IAȘI,CIORTEŞTI,149,5,103,13,0,3,5,27,151,4,106,12,0,5,6,19,Caminul Cultural Ciortești,,Ciortești,46.9176,27.8415
+518,24,IAȘI,MIROSLAVA,127,11,114,12,1,14,6,22,128,11,126,9,1,14,5,14,Școala cu Clasele I-IV Ciurbesti,,Ciurbești,47.0972,27.5267
+349,24,IAȘI,CIUREA,155,13,36,15,0,8,11,26,157,13,33,15,0,11,11,26,Școala Gimnazială Ciurea,Nr. 257,Ciurea,47.0646,27.5758
+350,24,IAȘI,CIUREA,138,11,43,17,1,12,5,18,129,16,45,15,1,12,8,21,Școala Gimnazială Ciurea,Nr. 257,Ciurea,47.0646,27.5758
+697,24,IAȘI,UNGHENI,72,6,17,18,0,3,3,10,69,7,18,17,0,4,3,9,Școala Primară Coada Stîncii,,Coada Stâncii,47.2127,27.7107
+361,24,IAȘI,COARNELE CAPREI,253,2,16,3,0,10,11,25,249,5,14,4,1,13,14,29,Școala Generală nr. 1. Sat.Coarnele Caprei,,Coarnele Caprei,47.3905,27.1062
+362,24,IAȘI,COARNELE CAPREI,233,4,23,3,0,12,2,18,233,4,24,3,0,10,0,17,Școala Generală nr. 1. Sat.Coarnele Caprei,,Coarnele Caprei,47.3905,27.1062
+308,24,IAȘI,BALŞ,23,0,11,5,0,2,2,9,24,0,11,5,0,3,1,7,Școala Primară Clasele I-IV Coasta Magurii,,Coasta Măgurii,47.3153,26.9234
+500,24,IAȘI,LEŢCANI,213,1,226,16,0,4,5,42,215,3,242,15,1,2,9,33,Școala Gimnazială Cogeasca,,Cogeasca,47.1667,27.3846
+455,24,IAȘI,GROZEŞTI,42,0,9,128,0,2,2,10,47,0,10,127,1,4,1,5,Grădinița Coltu-Cornii,,Colțu Cornii,47.0218,28.0048
+367,24,IAȘI,COMARNA,115,6,154,13,1,9,6,22,115,6,144,13,0,13,4,28,Școala Clasele I-Vii Comarna I,,Comarna,47.0594,27.7799
+368,24,IAȘI,COMARNA,141,1,122,13,2,23,2,19,136,0,130,11,1,22,2,17,Școala Clasele I-IV Comarna Ii,,Comarna,47.054,27.7948
+704,24,IAȘI,VALEA SEACĂ,262,4,57,19,0,11,26,49,254,7,53,25,0,15,30,54,Școala Gimnazială Contesti,,Conțești,47.3094,26.6546
+519,24,IAȘI,MIROSLAVA,50,4,101,10,2,7,3,16,50,6,98,9,1,10,5,16,Școala Gimnazială „Dimitrie Anghel” - Cornesti,,Cornești,47.109,27.5062
+345,24,IAȘI,CIORTEŞTI,125,3,128,26,2,8,6,19,122,5,131,26,0,12,6,13,Școala Gimnazială Coropceni,,Coropceni,46.9416,27.8349
+286,24,IAȘI,ORAŞ PODU ILOAIEI,66,1,16,10,0,8,0,4,63,0,15,12,0,9,1,6,Școala Cosițeni,,Cosițeni,47.2024,27.2356
+370,24,IAȘI,COSTEŞTI,385,3,29,8,0,31,10,26,395,4,28,11,0,30,9,22,Școala Gimnazială nr. 1 Costesti,,Costești,47.2345,26.9244
+372,24,IAȘI,COSTULENI,260,5,67,28,0,30,6,33,261,5,69,34,0,31,10,24,Școala Gimnazială Costuleni,,Costuleni,47.0288,27.865
+377,24,IAȘI,COTNARI,208,19,51,23,0,23,8,32,208,19,53,20,0,24,7,30,Camin Cultural Cotnari,,Cotnari,47.3473,26.9443
+562,24,IAȘI,POPRICANI,54,4,9,6,0,5,2,6,55,2,11,5,0,7,2,5,Școala Primară Cotu Morii,,Cotu Morii,47.3036,27.5479
+431,24,IAȘI,GOLĂIEŞTI,78,0,14,3,0,14,2,12,83,0,13,3,0,15,3,12,Școala Primară Cotu Lui Ivan,Nr. 1,Cotu lui Ivan,47.2735,27.6548
+373,24,IAȘI,COSTULENI,216,5,35,14,1,10,7,22,221,4,34,17,1,7,10,19,Școala Gimnazială Covasna,,Covasna,47.0106,27.8412
+374,24,IAȘI,COSTULENI,68,1,39,5,1,6,4,15,65,2,43,7,1,7,4,12,Școala Gimnazială Cozia,,Cozia,47.0033,27.8958
+376,24,IAȘI,COSTULENI,44,3,21,6,0,5,0,5,48,3,18,7,1,6,0,5,Școala Gimnazială Cozia,,Cozia,47.0033,27.8958
+385,24,IAȘI,COZMEŞTI,243,3,39,79,1,25,7,28,257,4,44,82,1,24,4,15,Grup Școlar Cozmesti,,Cozmești,46.8766,27.9948
+630,24,IAȘI,STOLNICENI-PRĂJESCU,172,0,57,9,0,4,2,16,175,1,56,11,0,5,3,14,Școala Gimnazială Cozmesti,,Cozmești,47.1661,26.7683
+631,24,IAȘI,STOLNICENI-PRĂJESCU,137,8,36,11,0,6,4,15,141,8,34,11,0,6,4,12,Școala Gimnazială Cozmesti,,Cozmești,47.1661,26.7683
+334,24,IAȘI,BRĂEŞTI,67,0,109,37,0,12,7,24,68,6,108,36,0,10,6,18,Școala Generală Cristești,,Cristești,47.1611,27.08
+388,24,IAȘI,CRISTEŞTI,301,6,79,9,0,14,4,21,292,6,81,10,0,19,5,20,Școala Profesionala Cristești,Nr. 814,Cristești,47.2602,26.5745
+389,24,IAȘI,CRISTEŞTI,215,12,81,12,0,6,5,12,208,10,85,12,0,6,8,15,Școala Profesionala Cristești,Nr. 814,Cristești,47.2602,26.5745
+390,24,IAȘI,CRISTEŞTI,157,2,34,1,1,6,2,10,147,3,36,1,2,6,4,16,Școala Primară Herești,Nr. 465,Cristești,47.2676,26.588
+476,24,IAȘI,HOLBOCA,74,6,18,16,0,9,2,13,70,6,17,17,0,9,2,18,Școala cu Clasele I-IV,,Cristești,47.1718,27.7232
+634,24,IAȘI,STRUNGA,55,1,6,4,0,29,1,4,58,1,7,3,0,29,0,3,Grădinița cu Program Normal Crivesti,,Crivești,47.1987,26.9291
+714,24,IAȘI,VÎNĂTORI,157,1,104,22,0,2,8,19,156,3,99,22,0,2,11,27,Școala cu Clasele I-VIII Crivesti,,Crivești,47.3246,26.7811
+503,24,IAȘI,LUNGANI,318,0,90,2,4,2,4,52,363,1,106,1,1,0,6,21,Grădinița din Cadrul Scolii Gimnaziale Crucea,,Crucea,47.1662,27.1693
+636,24,IAȘI,STRUNGA,33,0,9,8,0,1,1,9,34,0,9,10,0,1,1,6,Școala Cucova,,Cucova,47.1606,26.9149
+392,24,IAȘI,CUCUTENI,177,2,35,3,1,34,6,18,178,3,32,3,0,40,6,18,Grădinița Cucuteni,,Cucuteni,47.2805,26.9373
+501,24,IAȘI,LEŢCANI,53,3,79,5,2,7,0,12,56,2,83,5,2,5,3,9,Școala Primară Cucuteni,,Cucuteni,47.1493,27.4195
+369,24,IAȘI,COMARNA,36,1,8,3,0,3,1,7,36,0,8,3,0,3,1,7,Școala Curagău,,Curagău,47.0594,27.7512
+351,24,IAȘI,CIUREA,45,4,10,8,1,1,1,6,48,5,9,10,0,1,1,3,Grădinița cu Program Normal nr. 3 Curaturi,Str. Verde nr. 91,Curături,47.0199,27.5661
+489,24,IAȘI,IPATELE,169,4,16,3,0,3,1,10,171,6,15,6,0,2,4,11,Școala cu Clasele I-IV Cuza-Vodă,,Cuza Vodă,46.8958,27.4093
+566,24,IAȘI,POPRICANI,87,3,24,16,0,8,5,15,86,6,24,12,0,10,4,14,Școala Primară Cuza- Voda,,Cuza Vodă,47.237,27.5735
+381,24,IAȘI,COTNARI,138,6,55,22,2,20,3,23,142,6,55,21,3,18,6,23,Școala Cirjoaia,,Cârjoaia,47.3397,26.9073
+565,24,IAȘI,POPRICANI,145,10,41,14,0,5,5,25,151,13,36,13,0,9,5,18,Școala Primară Cirlig,,Cârlig,47.2096,27.5579
+690,24,IAȘI,ŢIGĂNĂŞI,184,5,55,30,1,5,7,36,186,12,56,29,1,4,8,29,Școala Generală Cirniceni,,Cârniceni,47.339,27.503
+444,24,IAȘI,GRAJDURI,28,1,4,18,0,0,4,9,27,1,7,17,0,1,3,7,Școala Primară Carbunari,,Cărbunari,46.9948,27.5235
+640,24,IAȘI,ŞCHEIA,78,1,18,11,0,8,8,15,86,1,20,7,1,5,7,11,Școala Generală Căuesti,Nr. 28,Căuești,46.9216,27.5416
+394,24,IAȘI,DAGÎŢA,162,1,227,22,0,12,3,20,166,3,233,19,1,11,3,16,Școala Profesionala,,Dagâța,46.9184,27.2004
+469,24,IAȘI,HOLBOCA,226,36,65,27,0,31,10,36,230,34,62,33,0,36,9,29,Grădinița cu Program Normal Dancu,,Dancu,47.1526,27.6598
+470,24,IAȘI,HOLBOCA,228,42,68,32,1,11,12,56,235,44,64,41,1,15,14,45,Grădinița cu Program Normal Dancu,,Dancu,47.1526,27.6598
+471,24,IAȘI,HOLBOCA,185,39,49,24,0,28,19,42,185,40,52,30,0,24,15,34,Școala Ștefan Cel Mare,,Dancu,47.1537,27.6581
+472,24,IAȘI,HOLBOCA,257,45,81,48,1,21,22,56,251,54,79,54,1,21,24,52,Școala Ștefan Cel Mare,,Dancu,47.1537,27.6581
+473,24,IAȘI,HOLBOCA,235,40,99,47,0,23,15,40,230,48,88,49,0,28,14,44,Școala Ștefan Cel Mare,,Dancu,47.1537,27.6581
+346,24,IAȘI,CIORTEŞTI,47,4,92,4,2,3,7,17,48,5,95,5,0,3,8,14,Școala Primară Deleni,,Deleni,46.9153,27.8289
+401,24,IAȘI,DELENI,244,12,127,9,1,15,7,35,247,15,122,8,0,14,8,29,Școala Gimnazială Deleni,,Deleni,47.4604,26.8793
+402,24,IAȘI,DELENI,165,9,158,9,1,10,7,40,166,10,157,9,1,10,7,32,Grădinița cu Program Normal Deleni (Sediul Nou),,Deleni,47.4598,26.8785
+408,24,IAȘI,DOBROVĂŢ,228,13,36,13,0,11,18,49,225,15,41,13,1,11,21,53,Școala Generală nr. 1 Moldoveni,,Dobrovăț,46.9656,27.7237
+409,24,IAȘI,DOBROVĂŢ,171,5,20,14,0,6,2,18,176,4,21,17,0,6,1,14,Centru de Zi After School Rusi,,Dobrovăț,46.9616,27.7086
+410,24,IAȘI,DOLHEŞTI,95,3,86,18,1,11,7,20,93,6,91,20,1,11,8,16,Școala Dolhești,Nr.  -,Dolhești,46.876,27.8991
+675,24,IAȘI,ŢIBANA,126,3,14,21,0,11,3,19,135,3,15,16,0,13,4,14,Școala Gimnazială Domnița,,Domnița,47.0206,27.3334
+303,24,IAȘI,ARONEANU,93,16,164,52,1,14,12,39,100,21,158,51,1,17,9,30,Școala Gimnazială Aron-Vodă din Sat Dorobanț,,Dorobanț,47.2259,27.5912
+556,24,IAȘI,POPEŞTI,67,3,27,4,0,4,6,12,69,2,28,5,0,4,7,12,Școala Primară Doroscani,,Doroșcani,47.1455,27.2665
+413,24,IAȘI,DRĂGUŞENI,152,1,19,18,0,5,6,17,147,1,17,16,0,5,9,20,Grădiniță Drăgușeni,Nr. 254A,Drăgușeni,46.9003,27.5113
+352,24,IAȘI,CIUREA,123,13,83,16,0,7,10,31,130,12,84,18,0,8,10,25,Corp C Școala Gimnazială Dumbrava,Nr. 215,Dumbrava,47.0777,27.5504
+496,24,IAȘI,LESPEZI,111,0,23,6,0,22,10,19,109,1,25,6,0,22,10,18,Școala Primară Dumbrava,,Dumbrava,47.3554,26.7079
+593,24,IAȘI,RUGINOASA,222,1,27,7,1,6,6,19,218,2,28,6,1,6,7,16,Școala Gimnazială Dumbrăvița,Nr. 72,Dumbrăvița,47.2541,26.841
+594,24,IAȘI,RUGINOASA,162,4,15,2,0,7,4,15,160,4,12,3,0,11,4,13,Școala Gimnazială Dumbrăvița,Nr. 72,Dumbrăvița,47.2541,26.841
+415,24,IAȘI,DUMEŞTI,236,0,81,29,1,4,18,54,238,9,75,32,0,10,18,47,Liceul Tehnologic Dumesti,,Dumești,47.175,27.3418
+607,24,IAȘI,SCHITU DUCA,155,2,34,1,1,5,6,21,159,2,33,2,1,4,4,20,Școala Gimnazială Dumitrestii Galatii,,Dumitreștii Gălății,47.0147,27.7719
+484,24,IAȘI,ION NECULCE,52,1,9,2,0,2,3,19,51,2,8,1,1,3,3,16,Școala Primară Dadesti,,Dădești,47.2184,26.972
+420,24,IAȘI,ERBICENI,188,5,26,4,0,17,6,32,183,5,35,5,1,17,5,26,Școala Generală Erbiceni Corp Cladire,,Erbiceni,47.2533,27.2404
+421,24,IAȘI,ERBICENI,184,17,39,8,0,9,6,24,187,17,40,9,1,10,5,19,Școala Generală Erbiceni Corp Cladire,Nr. ERBICENI,Erbiceni,47.2533,27.2404
+406,24,IAȘI,DELENI,104,4,72,4,0,8,2,8,100,3,72,3,0,8,2,13,Școala Gimnazială Feredeni,,Feredeni,47.4831,26.8787
+615,24,IAȘI,SCOBINŢI,176,6,37,25,0,4,6,26,173,9,35,29,0,4,7,25,Școala Coord.,,Fetești,47.4088,26.9072
+427,24,IAȘI,FOCURI,215,7,47,11,5,5,15,106,280,10,64,10,4,6,19,33,Căminul Cultural,,Focuri,47.3511,27.2
+428,24,IAȘI,FOCURI,188,1,48,13,2,8,11,90,237,2,61,17,2,9,10,19,"Grădinița nr. 2, Pășcăneni",,Focuri,47.3559,27.2057
+450,24,IAȘI,GROPNIŢA,112,4,14,3,0,1,5,17,115,6,12,4,0,2,2,11,Școala Forăști,,Forăști,47.3545,27.2832
+414,24,IAȘI,DRĂGUŞENI,83,5,24,12,0,1,3,6,85,5,24,14,0,1,4,7,Școala Frenciugi,Nr. 32,Frenciugi,46.8896,27.4761
+708,24,IAȘI,VICTORIA,42,0,16,5,0,2,0,4,40,0,15,4,0,3,1,6,Școala Frăsuleni,,Frăsuleni,47.3348,27.5887
+426,24,IAȘI,FÂNTÂNELE,479,29,38,15,0,24,6,31,471,30,35,17,0,29,11,34,Grădinița nr. 1 Fântânele,,Fântânele,47.4061,27.1846
+637,24,IAȘI,STRUNGA,125,5,21,5,0,3,0,20,128,3,22,2,0,6,0,12,Școala Gimnazială Farcaseni,,Fărcășeni,47.1579,26.9009
+638,24,IAȘI,STRUNGA,138,6,16,3,0,5,2,16,135,6,15,6,0,4,3,17,Școala Gimnazială Farcaseni,,Fărcășeni,47.1579,26.9009
+371,24,IAȘI,COSTEŞTI,139,0,7,5,0,7,3,11,144,1,8,4,0,5,3,10,Școala Primară Giurgesti,,Giurgești,47.2501,26.9071
+683,24,IAȘI,ŢIBĂNEŞTI,193,1,26,60,0,56,1,12,194,3,30,61,0,57,1,11,Școala Gimnazială Glodenii Gîndului,,Glodenii Gândului,46.9531,27.2991
+684,24,IAȘI,ŢIBĂNEŞTI,202,3,14,72,1,32,1,20,214,3,13,70,1,27,2,15,Școala Gimnazială Glodenii Gîndului,,Glodenii Gândului,46.9531,27.2991
+301,24,IAȘI,ANDRIEŞENI,97,0,40,1,1,4,4,9,99,0,41,1,0,4,5,10,Școala Gimnazială Glavanesti,,Glăvănești,47.5535,27.2667
+504,24,IAȘI,LUNGANI,265,5,28,0,0,1,1,16,262,4,33,0,0,0,2,12,Grădinița din Cadrul Scolii Gimnaziale Goesti,,Goești,47.156,27.1343
+429,24,IAȘI,GOLĂIEŞTI,233,8,38,24,0,117,4,23,224,6,39,26,0,132,4,21,Școala Gimnazială Golaiesti,Nr. 1,Golăiești,47.2409,27.6921
+435,24,IAȘI,GORBAN,137,5,20,10,1,16,4,18,141,2,20,14,0,17,7,21,Școala Gimnazială,Nr. 141,Gorban,46.8748,28.082
+665,24,IAȘI,TOMEŞTI,202,6,24,16,0,13,8,20,206,7,23,16,0,10,10,19,"Sediul Școala Gimnazială Goruni, Satul Goruni, Com.Tomești",,Goruni,47.107,27.7156
+440,24,IAȘI,GRAJDURI,50,3,13,23,0,3,4,11,51,4,12,25,0,5,2,10,Școala Gimnazială Grajduri,,Grajduri,46.9724,27.5409
+441,24,IAȘI,GRAJDURI,60,2,15,23,1,4,57,64,60,2,15,23,1,4,57,64,Școala Gimnazială Grajduri,,Grajduri,46.9724,27.5409
+689,24,IAȘI,ŢIBĂNEŞTI,80,0,4,11,0,5,3,4,87,0,4,8,0,5,3,5,Grădinița cu Program Normal Griești,,Griești,46.9032,27.3724
+448,24,IAȘI,GROPNIŢA,81,3,11,6,0,5,4,14,78,3,14,8,0,7,7,12,Grădinița Gropnița,,Gropnița,47.3553,27.267
+454,24,IAȘI,GROZEŞTI,151,1,24,82,0,24,5,18,150,0,25,83,0,23,4,22,Școala Gimnazială Grozesti,,Grozești,46.9894,28.0539
+430,24,IAȘI,GOLĂIEŞTI,95,0,13,3,0,11,3,10,93,1,13,4,0,13,3,8,Școala Primară Gradinari,Nr. 1,Grădinari,47.2685,27.669
+439,24,IAȘI,GORBAN,112,2,9,8,0,8,6,9,110,3,9,8,0,8,3,6,Școala Gimnazială,,Gura Bohotin,46.9147,28.0485
+715,24,IAȘI,VÎNĂTORI,111,5,25,7,0,3,10,21,112,8,19,8,0,3,10,20,Școala cu Clasele I-IV Gura-Bidilitei,,Gura Bâdiliței,47.299,26.7482
+677,24,IAȘI,ŢIBANA,121,2,18,13,0,5,7,11,123,2,16,12,0,3,7,17,Școala Gimnazială Gîrbești,,Gârbești,46.979,27.3019
+678,24,IAȘI,ŢIBANA,164,2,18,26,1,9,5,15,161,1,20,22,1,11,8,16,Școala Primară Gîrbești,,Gârbești,46.9789,27.2941
+263,24,IAȘI,MUNICIPIUL PAŞCANI,224,7,119,6,0,3,5,18,230,10,101,5,1,6,8,22,Școala Gistesti,Nr. 21,Gâștești,47.2451,26.6637
+264,24,IAȘI,MUNICIPIUL PAŞCANI,303,9,118,20,1,8,10,34,319,9,100,22,0,15,10,32,Grădinița Gistesti,Nr. 43 A,Gâștești,47.2505,26.6611
+485,24,IAȘI,ION NECULCE,148,2,16,1,2,10,5,23,153,0,19,2,1,7,8,22,Școala Primară Ganesti,,Gănești,47.1693,27.0347
+531,24,IAȘI,MOGOŞEŞTI,64,1,55,12,0,37,6,29,55,1,57,15,0,38,6,29,Școala Gimnazială Hadîmbu,,Hadâmbu,47.0153,27.456
+492,24,IAȘI,LESPEZI,142,9,37,9,0,16,13,31,140,11,38,9,0,14,16,26,Școala Gimnazială Heci,,Heci,47.3425,26.6592
+493,24,IAȘI,LESPEZI,143,6,37,5,0,17,6,12,139,7,38,7,0,17,6,14,Școala Gimnazială Heci,,Heci,47.3425,26.6592
+462,24,IAȘI,HELEŞTENI,166,3,25,18,0,4,7,23,160,2,25,19,1,5,7,27,Școala Gimnazială Helesteni,,Heleșteni,47.2026,26.8737
+669,24,IAȘI,TRIFEŞTI,77,0,109,6,2,20,4,20,79,1,110,6,1,22,5,19,Școala Gimnazială Hermeziu,,Hermeziu,47.4431,27.552
+375,24,IAȘI,COSTULENI,78,1,27,21,2,2,4,17,82,1,28,21,1,2,3,11,Școala Primară Hilița,,Hilița,47.0024,27.8255
+353,24,IAȘI,CIUREA,77,36,51,14,0,14,3,16,77,38,48,14,0,11,3,20,Propr Macovei,Nr. 152,Hlincea,47.1152,27.5823
+379,24,IAȘI,COTNARI,211,0,46,6,1,8,5,34,217,3,46,6,0,5,5,37,Școala Hodora,,Hodora,47.3377,27.0159
+418,24,IAȘI,DUMEŞTI,66,7,16,103,0,4,1,10,63,6,18,103,0,6,2,11,Școala Primară Hoisesti,,Hoisești,47.1946,27.3228
+467,24,IAȘI,HOLBOCA,175,25,58,45,0,22,10,45,165,23,62,40,0,23,11,53,Școala Holboca,,Holboca,47.1536,27.6861
+468,24,IAȘI,HOLBOCA,148,28,79,55,0,10,12,62,142,23,75,56,0,19,10,67,Școala Holboca,,Holboca,47.1536,27.6861
+283,24,IAȘI,ORAŞ PODU ILOAIEI,33,1,18,15,0,13,2,10,33,3,19,13,0,12,3,12,Școala Holm,,Holm,47.2083,27.3035
+391,24,IAȘI,CRISTEŞTI,87,0,14,2,0,4,3,11,85,2,15,1,0,4,1,8,Școala Homița,Nr. 198,Homița,47.2958,26.5909
+478,24,IAȘI,HORLEŞTI,156,8,76,54,0,11,6,29,167,12,76,46,1,10,7,27,Camin Cultural Satul Horlești,,Horlești,47.1053,27.3765
+479,24,IAȘI,HORLEŞTI,64,1,14,23,1,1,0,7,63,2,15,21,1,1,1,5,Biblioteca Comunala Satul Horlești,,Horlești,47.1053,27.3765
+585,24,IAȘI,REDIU,108,14,72,4,2,48,6,21,105,18,70,5,1,49,5,22,Școala Gimnazială Horlesti,Nr. 348,Horlești,47.2613,27.4597
+380,24,IAȘI,COTNARI,46,1,18,10,1,3,3,11,49,1,16,12,0,3,3,9,Școala Horodistea,,Horodiștea,47.3533,26.9181
+520,24,IAȘI,MIROSLAVA,239,72,240,41,0,28,25,68,235,77,242,40,1,29,25,65,Grădinița cu Program Normal -Horpaz,,Horpaz,47.1073,27.5438
+626,24,IAȘI,SIREŢEL,102,3,153,6,0,2,4,20,107,2,155,3,0,4,6,14,Școala Generală Humosu,,Humosu,47.455,26.7324
+550,24,IAȘI,OŢELENI,117,5,47,6,2,7,4,17,121,4,48,6,1,8,6,22,Școala Gimnazială Hindresti,,Hândrești,47.1055,27.0259
+269,24,IAȘI,ORAŞ HÎRLĂU,275,16,40,7,0,21,14,41,285,16,40,4,0,27,14,36,Liceul Tehnologic Hîrlău,Nr. 14,Hârlău,47.4299,26.8974
+270,24,IAȘI,ORAŞ HÎRLĂU,251,15,54,17,1,23,22,57,261,14,59,9,0,29,23,49,Colegiul Național Ștefan Cel Mare Hîrlău,Nr. 3,Hârlău,47.4295,26.8988
+271,24,IAȘI,ORAŞ HÎRLĂU,295,27,70,29,1,33,25,51,292,31,69,27,0,32,27,52,Școala Gimnazială Petru Rareș - Corp Vechi,Nr. 34,Hârlău,47.4261,26.9052
+272,24,IAȘI,ORAŞ HÎRLĂU,266,24,59,25,0,37,11,40,258,26,55,26,0,45,18,44,Școala Gimnazială Petru Rareș-Corp Grădiniță cu Program Prelungit,Nr. 17,Hârlău,47.4263,26.9056
+273,24,IAȘI,ORAŞ HÎRLĂU,329,9,47,21,3,87,14,55,373,13,49,22,2,91,14,37,Școala Gimnazială Petru Rareș - Corp Nou,Nr. 23,Hârlău,47.4263,26.9067
+716,24,IAȘI,VÎNĂTORI,291,1,30,5,0,2,10,24,293,1,28,5,0,3,11,24,Școala cu Clasele I -VIII Hirtoape,,Hârtoape,47.3216,26.7211
+635,24,IAȘI,STRUNGA,84,1,13,19,0,5,3,9,86,1,16,17,0,4,3,8,Grădinița cu Program Normal Habasesti,,Hăbășești,47.1546,26.9589
+647,24,IAȘI,ŞIPOTE,194,4,38,17,0,15,7,19,191,3,37,18,0,14,6,23,Școala Gimnazială Halceni,,Hălceni,47.4411,27.2594
+456,24,IAȘI,HĂLĂUCEŞTI,146,19,117,16,0,27,11,33,150,21,115,10,0,26,11,32,Școala Generală Halaucesti,,Hălăucești,47.0979,26.8133
+457,24,IAȘI,HĂLĂUCEŞTI,132,23,81,8,1,23,11,30,133,24,81,12,1,28,7,22,Camin Cultural Halaucesti,,Hălăucești,47.0938,26.8125
+458,24,IAȘI,HĂLĂUCEŞTI,118,9,81,15,0,21,4,20,120,12,78,13,0,25,4,23,Camin Cultural Halaucesti,,Hălăucești,47.0938,26.8125
+463,24,IAȘI,HELEŞTENI,155,0,20,15,5,0,14,31,149,4,18,16,1,0,14,32,Centrul Educativ Pentru Copii Saraci Harmaneasa,,Hărmăneasa,47.1904,26.8656
+461,24,IAȘI,HĂRMĂNEŞTI,134,8,82,6,0,4,4,14,130,6,80,3,0,7,8,22,Școala Hărmăneștii Noi,,Hărmăneștii Noi,47.2533,26.7974
+460,24,IAȘI,HĂRMĂNEŞTI,270,3,97,19,1,7,7,27,260,6,97,17,0,10,9,27,Școala Hărmăneștii Vechi,,Hărmăneștii Vechi,47.2767,26.8135
+557,24,IAȘI,POPEŞTI,101,1,36,3,0,2,3,13,104,1,37,3,0,4,2,7,Școala Gimnazială Harpasesti,,Hărpășești,47.1501,27.2807
+719,24,IAȘI,VLĂDENI,49,1,8,6,0,1,4,9,48,0,8,6,0,1,4,8,Școala cu Clasele I-IV Iacobeni,,Iacobeni,47.4456,27.3224
+645,24,IAȘI,ŞIPOTE,159,0,20,12,0,7,8,20,167,0,15,11,0,6,7,18,Școala Gimnazială Iazu Nou,,Iazu Nou,47.4815,27.2062
+1,24,IAȘI,MUNICIPIUL IAŞI,197,142,129,53,1,39,19,56,194,160,108,52,0,43,23,62,Grădinița cu Program Normal nr. 15,Aleea Păcurari nr. 2,Iași,47.1754,27.5462
+2,24,IAȘI,MUNICIPIUL IAŞI,172,78,94,32,0,30,18,53,175,87,92,23,0,32,19,53,Grădinița cu Program Normal nr. 15,Aleea Păcurari nr. 2,Iași,47.1754,27.5462
+3,24,IAȘI,MUNICIPIUL IAŞI,250,102,122,49,1,36,12,48,264,106,115,47,2,35,9,44,Școala Gimnazială „Elena Cuza”,Aleea Canta nr. 10,Iași,47.1739,27.5448
+4,24,IAȘI,MUNICIPIUL IAŞI,229,86,92,43,0,24,16,55,231,91,82,43,4,26,15,53,Școala Gimnazială „Elena Cuza”,Aleea Canta nr. 10,Iași,47.1739,27.5448
+5,24,IAȘI,MUNICIPIUL IAŞI,281,71,120,41,1,36,27,65,287,76,109,40,1,39,30,62,Școala Gimnazială „Elena Cuza”,Aleea Canta nr. 10,Iași,47.1739,27.5448
+6,24,IAȘI,MUNICIPIUL IAŞI,221,101,133,40,0,27,13,60,227,124,105,39,1,33,7,53,Școala Gimnazială „Elena Cuza”,Aleea Canta nr. 10,Iași,47.1739,27.5448
+7,24,IAȘI,MUNICIPIUL IAŞI,250,105,120,53,3,26,15,44,236,115,109,43,2,33,22,56,Școala Gimnazială „Elena Cuza”,Aleea Canta nr. 10,Iași,47.1739,27.5448
+8,24,IAȘI,MUNICIPIUL IAŞI,280,67,103,18,0,21,16,49,280,70,93,19,0,26,14,47,Școala Gimnazială „Elena Cuza”,Aleea Canta nr. 10,Iași,47.1739,27.5448
+9,24,IAȘI,MUNICIPIUL IAŞI,257,120,143,52,0,34,16,50,250,131,137,51,0,37,18,45,Școala Gimnazială „Elena Cuza”,Aleea Canta nr. 10,Iași,47.1739,27.5448
+10,24,IAȘI,MUNICIPIUL IAŞI,282,87,105,35,0,42,17,55,269,94,100,34,0,49,18,55,Școala Gimnazială „Elena Cuza”,Aleea Canta nr. 10,Iași,47.1739,27.5448
+11,24,IAȘI,MUNICIPIUL IAŞI,180,93,99,27,0,28,17,63,175,112,79,29,0,37,19,58,Școala Gimnazială „Ion Creangă”,Str. Păcurari nr. 178,Iași,47.1749,27.5527
+12,24,IAȘI,MUNICIPIUL IAŞI,188,104,133,36,0,41,16,52,187,119,122,36,0,41,15,47,Școala Gimnazială „Ion Creangă”,Str. Păcurari nr. 178,Iași,47.1749,27.5527
+13,24,IAȘI,MUNICIPIUL IAŞI,186,121,97,24,1,33,7,44,187,124,92,23,1,29,11,50,Școala Gimnazială „Ion Creangă”,Str. Păcurari nr. 178,Iași,47.1749,27.5527
+14,24,IAȘI,MUNICIPIUL IAŞI,196,81,95,31,0,27,22,46,183,88,97,31,1,30,20,43,Școala Gimnazială „Ion Creangă”,Str. Păcurari nr. 178,Iași,47.1749,27.5527
+15,24,IAȘI,MUNICIPIUL IAŞI,231,143,149,42,0,45,18,71,217,140,132,67,0,51,21,70,Școala Gimnazială „Petru Poni”,Str. Păcurari nr. 112,Iași,47.1734,27.5609
+16,24,IAȘI,MUNICIPIUL IAŞI,168,98,81,32,0,41,9,28,166,110,76,30,2,38,9,28,Școala Gimnazială „Petru Poni”,Str. Păcurari nr. 112,Iași,47.1734,27.5609
+17,24,IAȘI,MUNICIPIUL IAŞI,239,140,134,52,1,34,27,71,240,160,117,45,1,40,26,65,Școala Gimnazială „Petru Poni”,Str. Păcurari nr. 112,Iași,47.1734,27.5609
+18,24,IAȘI,MUNICIPIUL IAŞI,185,112,100,52,0,39,15,49,183,125,97,48,0,43,12,41,Școala Gimnazială „Petru Poni”,Str. Păcurari nr. 112,Iași,47.1734,27.5609
+19,24,IAȘI,MUNICIPIUL IAŞI,203,144,126,48,2,47,16,59,204,154,119,33,2,53,19,67,Școala Gimnazială „Ștefan Bârsănescu”,Str. Zugravi nr. 12 A,Iași,47.1678,27.5693
+20,24,IAȘI,MUNICIPIUL IAŞI,133,114,82,33,0,20,8,53,134,128,68,35,0,25,6,48,Școala Gimnazială „Ștefan Bârsănescu”,Str. Zugravi nr. 12 A,Iași,47.1678,27.5693
+21,24,IAȘI,MUNICIPIUL IAŞI,157,48,45,33,0,16,28,62,155,55,43,35,0,19,24,56,Școala Gimnazială „Ștefan Bârsănescu”,Str. Zugravi nr. 12 A,Iași,47.1678,27.5693
+22,24,IAȘI,MUNICIPIUL IAŞI,161,96,79,58,1,41,19,52,160,99,78,53,1,52,14,42,Școala Gimnazială „Ștefan Bârsănescu”,Str. Zugravi nr. 12 A,Iași,47.1678,27.5693
+23,24,IAȘI,MUNICIPIUL IAŞI,72,24,49,19,0,19,6,17,78,32,41,16,0,17,7,18,Școala Gimnazială „Ștefan Bârsănescu”,Str. Zugravi nr. 12 A,Iași,47.1678,27.5693
+24,24,IAȘI,MUNICIPIUL IAŞI,225,145,140,52,1,61,20,78,227,163,119,53,1,70,17,66,Casa de Cultură a Studenților,Str. Vasile Conta (Str. Engels Friedrich) nr. 30,Iași,47.1702,27.5771
+25,24,IAȘI,MUNICIPIUL IAŞI,173,102,91,33,0,57,24,64,174,121,73,31,0,62,27,62,Colegiul Național,Str. Arcu nr. 4,Iași,47.1664,27.5782
+26,24,IAȘI,MUNICIPIUL IAŞI,181,78,75,29,0,31,12,41,169,78,68,33,1,49,15,35,Colegiul Național,Str. Arcu nr. 4,Iași,47.1664,27.5782
+27,24,IAȘI,MUNICIPIUL IAŞI,215,108,101,34,0,30,17,56,204,111,96,39,1,32,19,61,Colegiul Național,Str. Costache Negruzzi (Str. Horia) nr. 10,Iași,47.1649,27.5774
+28,24,IAȘI,MUNICIPIUL IAŞI,159,118,82,42,0,32,20,76,154,130,84,45,0,38,15,56,Colegiul Național,Str. Costache Negruzzi (Str. Horia) nr. 10,Iași,47.1649,27.5774
+29,24,IAȘI,MUNICIPIUL IAŞI,241,99,134,64,0,53,9,63,233,103,128,67,4,64,8,62,Grădinița cu Program Prelungit nr. 4,Str. Sf. Andrei (D) nr. 73,Iași,47.1593,27.581
+30,24,IAȘI,MUNICIPIUL IAŞI,157,88,92,45,1,32,17,73,160,94,90,40,3,39,17,61,Școala Primară „Gheorghe Asachi”,Bulevardul Ștefan cel Mare și Sfânt (D) nr. 64,Iași,47.1591,27.585
+31,24,IAȘI,MUNICIPIUL IAŞI,176,147,159,32,0,42,13,60,167,159,143,34,0,41,19,68,Colegiul National „Costache Negruzzi”,Str. Cozma Toma (Str. Culturii) (D) nr. 4,Iași,47.1731,27.5694
+32,24,IAȘI,MUNICIPIUL IAŞI,170,185,204,47,4,39,18,66,177,212,180,48,6,51,14,42,Colegiul National „Costache Negruzzi”,Str. Cozma Toma (Str. Culturii) (D) nr. 4,Iași,47.1731,27.5694
+33,24,IAȘI,MUNICIPIUL IAŞI,205,77,67,28,0,28,19,42,200,84,67,24,1,32,21,39,Colegiul National „Garabet Ibrăileanu”,Str. Oastei nr. 1,Iași,47.1799,27.5704
+34,24,IAȘI,MUNICIPIUL IAŞI,279,130,119,40,1,43,30,89,281,144,106,39,1,35,28,84,Colegiul National „Garabet Ibrăileanu”,Str. Oastei nr. 1,Iași,47.1799,27.5704
+35,24,IAȘI,MUNICIPIUL IAŞI,438,147,209,41,1,32,37,105,423,167,195,35,0,40,37,110,Colegiul National „Garabet Ibrăileanu”,Str. Oastei nr. 1,Iași,47.1799,27.5704
+36,24,IAȘI,MUNICIPIUL IAŞI,167,76,72,31,0,36,13,52,152,83,66,32,0,45,14,50,Colegiul National „Garabet Ibrăileanu”,Str. Oastei nr. 1,Iași,47.1799,27.5704
+37,24,IAȘI,MUNICIPIUL IAŞI,279,251,242,93,1,79,45,131,291,280,238,81,1,80,35,108,Universitatea de Stiinte Agricole și Medicina Veterinară „Ion Ionescu de La Brad”,Aleea Mihail Sadoveanu nr. 3,Iași,47.1917,27.5572
+38,24,IAȘI,MUNICIPIUL IAŞI,250,229,299,58,1,63,44,119,250,256,271,58,0,71,38,110,Liceul Teoretic de Informatică „Grigore Moisil”,Str. Petre Andrei (Str. Căminelor) nr. 9,Iași,47.1851,27.5665
+39,24,IAȘI,MUNICIPIUL IAŞI,218,117,153,59,0,53,13,51,212,139,139,54,1,55,14,46,Colegiul Național „Mihai Eminescu”,Str. Mihail Kogălniceanu nr. 10,Iași,47.1722,27.5812
+40,24,IAȘI,MUNICIPIUL IAŞI,194,104,119,53,1,60,16,78,189,106,124,47,0,64,22,78,Colegiul Național „Mihai Eminescu”,Str. Mihail Kogălniceanu nr. 10,Iași,47.1722,27.5812
+41,24,IAȘI,MUNICIPIUL IAŞI,78,58,39,27,0,25,7,15,67,70,28,29,0,28,11,21,Școala Gimnazială „Mihai Codreanu”,Str. Sf. Teodor nr. 1,Iași,47.1668,27.5882
+42,24,IAȘI,MUNICIPIUL IAŞI,89,39,47,18,0,27,11,45,85,50,42,18,0,32,9,40,Școala Gimnazială „Mihai Codreanu”,Str. Sf. Teodor (D) nr. 1,Iași,47.1668,27.5882
+43,24,IAȘI,MUNICIPIUL IAŞI,147,71,94,38,0,42,29,56,137,84,84,37,0,44,28,60,Liceul Tehnologic Ucecom „Spiru Haret”,Bulevardul C. A. Rosetti nr. 14-16,Iași,47.1688,27.5936
+44,24,IAȘI,MUNICIPIUL IAŞI,169,60,62,24,0,30,12,51,162,65,66,22,0,37,6,44,Liceul Tehnologic Ucecom „Spiru Haret”,Bulevardul C. A. Rosetti nr. 14-16,Iași,47.1688,27.5936
+45,24,IAȘI,MUNICIPIUL IAŞI,95,75,94,30,0,18,5,40,90,94,78,29,1,24,6,35,Liceul Tehnologic Ucecom „Spiru Haret”,Bulevardul C. A. Rosetti nr. 14-16,Iași,47.1688,27.5936
+46,24,IAȘI,MUNICIPIUL IAŞI,128,73,82,33,2,28,13,58,127,82,73,27,2,31,18,59,Colegiul Economic Administrativ,Str. Sărărie nr. 35,Iași,47.167,27.5891
+47,24,IAȘI,MUNICIPIUL IAŞI,155,80,85,36,1,37,24,59,161,92,72,33,1,41,23,55,Colegiul Economic Administrativ,Str. Sărărie nr. 35,Iași,47.167,27.5891
+48,24,IAȘI,MUNICIPIUL IAŞI,223,136,103,61,0,39,21,56,215,147,98,55,0,42,23,59,Liceul Teoretic „Vasile Alecsandri”,Str. Costache Negri nr. 50,Iași,47.1611,27.5881
+49,24,IAȘI,MUNICIPIUL IAŞI,96,52,60,37,0,31,9,37,99,52,61,35,0,26,8,40,Liceul Teoretic „Vasile Alecsandri”,Str. Costache Negri nr. 50,Iași,47.1611,27.5881
+50,24,IAȘI,MUNICIPIUL IAŞI,237,131,130,41,1,53,14,49,246,156,111,36,1,45,19,48,Liceul Teoretic „Vasile Alecsandri”,Str. Costache Negri nr. 50,Iași,47.1611,27.5881
+51,24,IAȘI,MUNICIPIUL IAŞI,138,54,77,21,1,25,13,32,142,59,78,19,1,22,7,27,Liceul Tehnologic Special „Vasile Pavelcu”,Str. Ion C. Brătianu (Str. Constantin Dobrogeanu Gherea) nr. 26,Iași,47.1636,27.5833
+52,24,IAȘI,MUNICIPIUL IAŞI,115,65,56,18,0,18,10,39,108,67,57,16,0,31,7,31,Liceul Tehnologic Special „Vasile Pavelcu”,Str. Ion C. Brătianu (Str. Constantin Dobrogeanu Gherea) nr. 26,Iași,47.1636,27.5833
+53,24,IAȘI,MUNICIPIUL IAŞI,135,73,70,30,0,31,12,37,138,80,59,38,0,36,12,29,Colegiul National de Artă „Octacv Băncilă”,Str. Ion C. Brătianu (Str. Constantin Dobrogeanu Gherea) nr. 1,Iași,47.1651,27.5855
+54,24,IAȘI,MUNICIPIUL IAŞI,137,62,79,29,0,33,13,37,141,60,79,26,2,39,12,30,Colegiul National de Artă „Octav Băncilă”,Str. Ion C. Brătianu (Str. Constantin Dobrogeanu Gherea) nr. 1,Iași,47.1651,27.5855
+55,24,IAȘI,MUNICIPIUL IAŞI,193,73,60,27,2,20,12,33,188,77,55,29,1,23,12,33,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+56,24,IAȘI,MUNICIPIUL IAŞI,158,47,69,16,0,26,8,33,158,45,65,14,0,31,11,38,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+57,24,IAȘI,MUNICIPIUL IAŞI,262,48,78,38,1,26,14,42,253,54,74,38,1,33,15,42,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+58,24,IAȘI,MUNICIPIUL IAŞI,211,47,61,21,0,18,14,31,205,50,67,19,0,20,11,24,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+59,24,IAȘI,MUNICIPIUL IAŞI,181,52,66,22,0,14,14,47,178,61,63,18,0,18,14,43,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+60,24,IAȘI,MUNICIPIUL IAŞI,273,55,63,35,1,24,26,60,271,56,64,31,1,29,27,56,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+61,24,IAȘI,MUNICIPIUL IAŞI,237,63,86,25,0,22,25,70,239,77,71,22,1,34,21,56,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+62,24,IAȘI,MUNICIPIUL IAŞI,238,101,120,48,0,41,23,79,243,113,110,51,1,40,24,73,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+63,24,IAȘI,MUNICIPIUL IAŞI,212,125,152,45,0,39,21,65,213,133,139,44,0,46,14,63,Școala Gimnazială „Ion Simionescu”,Calea Galata nr. 4,Iași,47.1541,27.5713
+64,24,IAȘI,MUNICIPIUL IAŞI,297,89,142,39,0,47,20,70,292,101,133,41,0,50,22,64,Grădinița cu Program Prelungit nr. 25,Șoseaua Națională nr. 50,Iași,47.1652,27.5631
+65,24,IAȘI,MUNICIPIUL IAŞI,175,52,69,21,0,15,10,44,169,55,72,23,0,16,14,42,Grădinița cu Program Prelungit nr. 25,Șoseaua Națională nr. 50,Iași,47.1652,27.5631
+66,24,IAȘI,MUNICIPIUL IAŞI,135,68,70,35,0,28,17,47,139,73,67,31,0,28,20,42,Grădinița cu Program Normal nr. 21,Șoseaua Națională nr. 64,Iași,47.1645,27.565
+67,24,IAȘI,MUNICIPIUL IAŞI,182,32,70,20,0,14,11,36,184,38,68,18,0,14,12,36,Grădinița cu Program Normal nr. 21,Șoseaua Națională nr. 64,Iași,47.1645,27.565
+68,24,IAȘI,MUNICIPIUL IAŞI,167,51,56,15,0,15,13,37,168,57,48,15,0,17,13,32,Grădinița cu Program Normal nr. 21,Șoseaua Națională nr. 64,Iași,47.1645,27.565
+69,24,IAȘI,MUNICIPIUL IAŞI,168,40,58,23,1,28,17,58,167,45,52,21,0,33,19,56,Grădinița cu Program Normal nr. 21,Șoseaua Națională nr. 64,Iași,47.1645,27.565
+70,24,IAȘI,MUNICIPIUL IAŞI,192,55,57,34,1,23,12,43,188,56,54,30,1,27,13,48,Grădinița cu Program Prelungit nr. 21,Str. Plăieșilor (Str. Plăeșilor) nr. 35,Iași,47.1646,27.5588
+71,24,IAȘI,MUNICIPIUL IAŞI,182,80,68,33,0,32,12,39,178,89,58,30,1,34,10,45,Grădinița cu Program Prelungit nr. 21,Str. Plăieșilor (Str. Plăeșilor) nr. 35,Iași,47.1646,27.5588
+72,24,IAȘI,MUNICIPIUL IAŞI,101,26,44,13,0,11,9,25,104,30,38,10,0,15,7,25,Grădinița cu Program Normal nr. 7,Str. Plăieșilor (Str. Plăeșilor) nr. 35,Iași,47.165,27.5588
+73,24,IAȘI,MUNICIPIUL IAŞI,119,25,35,14,0,11,10,19,121,26,30,16,0,10,9,19,Grădinița cu Program Normal nr. 7,Str. Plăieșilor (Str. Plăeșilor) nr. 35,Iași,47.165,27.5588
+74,24,IAȘI,MUNICIPIUL IAŞI,203,35,53,23,0,15,18,44,204,41,54,21,0,17,14,35,Liceul Tehnologic Economic „Virgil Madgearu” - Corp B,Str. Plăieșilor (Str. Plăeșilor) nr. 9,Iași,47.1634,27.5591
+75,24,IAȘI,MUNICIPIUL IAŞI,199,32,68,25,0,15,12,38,188,35,68,31,0,17,13,35,Liceul Tehnologic Economic „Virgil Madgearu” - Corp B,Str. Plăieșilor (Str. Plăeșilor) nr. 9,Iași,47.1634,27.5591
+76,24,IAȘI,MUNICIPIUL IAŞI,198,75,75,39,1,24,7,39,190,87,70,34,1,34,9,36,Liceul Tehnologic Economic „Virgil Madgearu” - Corp B,Str. Plăieșilor (Str. Plăeșilor) nr. 9,Iași,47.1634,27.5591
+77,24,IAȘI,MUNICIPIUL IAŞI,224,57,71,19,1,24,10,35,214,62,73,22,0,26,14,35,Liceul Tehnologic Economic „Virgil Madgearu” - Corp B,Str. Plăieșilor (Str. Plăeșilor) nr. 9,Iași,47.1634,27.5591
+78,24,IAȘI,MUNICIPIUL IAŞI,222,50,73,37,0,16,17,53,217,60,67,31,0,23,20,55,Liceul Tehnologic Economic „Virgil Madgearu” - Corp B,Str. Plăieșilor (Str. Plăeșilor) nr. 9,Iași,47.1634,27.5591
+79,24,IAȘI,MUNICIPIUL IAŞI,168,47,72,30,0,21,15,37,165,53,65,28,2,25,15,38,Școala Gimnazială „Alexandru Cel Bun”,Str. Mușatini nr. 53,Iași,47.1613,27.5613
+80,24,IAȘI,MUNICIPIUL IAŞI,287,79,81,44,0,43,22,63,278,79,78,44,0,49,21,68,Școala Gimnazială „Alexandru Cel Bun”,Str. Mușatini nr. 53,Iași,47.1613,27.5613
+81,24,IAȘI,MUNICIPIUL IAŞI,300,68,97,40,0,47,21,50,298,75,96,37,1,51,20,48,Școala Gimnazială „Alexandru Cel Bun”,Str. Mușatini nr. 53,Iași,47.1613,27.5613
+82,24,IAȘI,MUNICIPIUL IAŞI,182,34,73,35,1,14,15,52,176,39,69,36,1,20,11,42,Școala Gimnazială „Alexandru Cel Bun”,Str. Mușatini nr. 53,Iași,47.1613,27.5613
+83,24,IAȘI,MUNICIPIUL IAŞI,195,39,59,21,0,23,18,52,192,40,58,23,1,26,12,46,Școala Gimnazială „Alexandru Cel Bun”,Str. Mușatini nr. 53,Iași,47.1613,27.5613
+84,24,IAȘI,MUNICIPIUL IAŞI,164,35,55,45,1,15,16,38,169,34,55,44,0,18,12,32,Liceul Tehnologic Economic de Turism - Corp A,Str. Milcov nr. 11,Iași,47.1593,27.5721
+85,24,IAȘI,MUNICIPIUL IAŞI,207,64,81,30,0,23,24,61,214,64,75,28,0,26,19,56,Liceul Tehnologic Economic de Turism - Corp A,Str. Milcov nr. 11,Iași,47.1593,27.5721
+86,24,IAȘI,MUNICIPIUL IAŞI,215,62,82,26,2,21,22,54,215,67,82,26,3,27,22,45,Liceul Tehnologic Economic de Turism - Corp A,Str. Milcov nr. 11,Iași,47.1593,27.5721
+87,24,IAȘI,MUNICIPIUL IAŞI,194,43,81,27,1,18,8,34,191,49,70,30,0,31,11,32,Liceul Tehnologic Economic de Turism - Corp A,Str. Milcov nr. 11,Iași,47.1593,27.5721
+88,24,IAȘI,MUNICIPIUL IAŞI,220,49,61,37,0,24,16,35,227,50,59,33,0,25,11,35,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+89,24,IAȘI,MUNICIPIUL IAŞI,178,62,116,31,1,18,19,51,177,62,100,33,1,32,20,51,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+90,24,IAȘI,MUNICIPIUL IAŞI,145,38,63,22,0,21,6,31,138,45,63,23,0,26,4,30,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+91,24,IAȘI,MUNICIPIUL IAŞI,202,44,73,11,0,12,17,37,196,50,66,11,1,18,15,37,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+92,24,IAȘI,MUNICIPIUL IAŞI,233,47,59,32,1,22,15,48,233,54,51,32,1,25,15,45,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+93,24,IAȘI,MUNICIPIUL IAŞI,274,54,63,15,0,14,12,47,276,53,60,16,1,13,16,45,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+94,24,IAȘI,MUNICIPIUL IAŞI,232,52,75,26,0,22,16,48,220,57,82,25,0,26,17,41,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+95,24,IAȘI,MUNICIPIUL IAŞI,177,45,85,24,0,21,22,50,178,46,82,20,0,22,19,53,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+96,24,IAȘI,MUNICIPIUL IAŞI,177,48,71,31,0,12,16,39,168,50,66,27,0,17,19,49,Școala Gimnazială „George Coșbuc”,Str. Prof. I. Simionescu (Str. Dreptății) nr. 16,Iași,47.1684,27.5468
+97,24,IAȘI,MUNICIPIUL IAŞI,229,39,66,23,0,21,12,36,223,36,63,26,1,26,11,40,Școala Gimnazială „Alexandru Vlahuță”,Str. Buridava nr. 10,Iași,47.1684,27.5517
+98,24,IAȘI,MUNICIPIUL IAŞI,123,22,38,25,0,9,18,34,123,22,36,25,1,10,23,36,Școala Gimnazială „Alexandru Vlahuță”,Str. Buridava nr. 10,Iași,47.1684,27.5517
+99,24,IAȘI,MUNICIPIUL IAŞI,188,42,53,27,1,16,13,34,191,43,44,23,2,21,11,36,Școala Gimnazială „Alexandru Vlahuță”,Str. Buridava nr. 10,Iași,47.1684,27.5517
+100,24,IAȘI,MUNICIPIUL IAŞI,167,74,88,19,0,18,12,32,160,79,74,22,0,27,11,31,Școala Gimnazială „Alexandru Vlahuță”,Str. Buridava nr. 10,Iași,47.1684,27.5517
+101,24,IAȘI,MUNICIPIUL IAŞI,130,49,66,27,0,7,18,40,127,56,61,23,0,9,16,44,Școala Gimnazială „Alexandru Vlahuță”,Str. Buridava nr. 10,Iași,47.1684,27.5517
+102,24,IAȘI,MUNICIPIUL IAŞI,202,83,96,38,0,19,15,54,207,89,87,39,0,24,11,46,Școala Gimnazială „George Călinescu”,Str. Amurgului nr. 2,Iași,47.1674,27.5542
+103,24,IAȘI,MUNICIPIUL IAŞI,310,125,110,32,0,35,16,68,303,130,110,35,1,38,17,62,Școala Gimnazială „George Călinescu”,Str. Amurgului nr. 2,Iași,47.1674,27.5542
+104,24,IAȘI,MUNICIPIUL IAŞI,255,81,116,48,0,20,13,59,254,90,104,50,0,22,16,58,Școala Gimnazială „George Călinescu”,Str. Amurgului nr. 2,Iași,47.1674,27.5542
+105,24,IAȘI,MUNICIPIUL IAŞI,199,72,72,23,0,15,13,45,179,79,66,25,0,23,13,50,Școala Gimnazială „George Călinescu”,Str. Amurgului nr. 2,Iași,47.1674,27.5542
+106,24,IAȘI,MUNICIPIUL IAŞI,229,86,93,20,0,29,14,50,231,84,82,25,0,30,17,54,Școala Gimnazială „George Călinescu”,Str. Amurgului nr. 2,Iași,47.1674,27.5542
+107,24,IAȘI,MUNICIPIUL IAŞI,215,80,91,33,1,23,20,56,204,89,90,32,2,28,22,56,Școala Gimnazială „George Călinescu”,Str. Amurgului nr. 2,Iași,47.1674,27.5542
+108,24,IAȘI,MUNICIPIUL IAŞI,191,64,92,25,0,18,18,47,192,67,89,28,0,23,16,42,Liceul Tehnologic Economic de Turism - Corp B,Str. Mircea cel Bătrân (D) nr. 12,Iași,47.1564,27.5685
+109,24,IAȘI,MUNICIPIUL IAŞI,212,63,95,33,0,17,22,67,206,70,83,35,0,20,25,70,Liceul Tehnologic Economic de Turism - Corp B,Str. Mircea cel Bătrân (D) nr. 12,Iași,47.1564,27.5685
+110,24,IAȘI,MUNICIPIUL IAŞI,255,78,89,27,1,20,7,41,246,82,92,28,1,23,7,41,Liceul Tehnologic Economic de Turism - Corp B,Str. Mircea cel Bătrân (D) nr. 12,Iași,47.1564,27.5685
+111,24,IAȘI,MUNICIPIUL IAŞI,192,81,80,32,0,29,13,39,189,82,74,34,0,35,12,35,Liceul Tehnologic Economic de Turism - Corp B,Str. Mircea cel Bătrân (D) nr. 12,Iași,47.1564,27.5685
+112,24,IAȘI,MUNICIPIUL IAŞI,227,53,92,34,0,20,7,40,231,56,79,35,0,24,5,39,Liceul Tehnologic Economic de Turism - Corp B,Str. Mircea cel Bătrân (D) nr. 12,Iași,47.1564,27.5685
+113,24,IAȘI,MUNICIPIUL IAŞI,195,14,56,33,1,15,16,41,195,15,54,36,2,17,16,42,Liceul Tehnologic Economic de Turism - Corp B,Str. Mircea cel Bătrân (D) nr. 12,Iași,47.1564,27.5685
+114,24,IAȘI,MUNICIPIUL IAŞI,138,37,55,25,1,18,9,43,139,42,55,19,2,19,10,42,Liceul Tehnologic Economic de Turism - Corp B,Str. Mircea cel Bătrân (D) nr. 12,Iași,47.1564,27.5685
+115,24,IAȘI,MUNICIPIUL IAŞI,249,99,120,39,0,54,26,79,246,101,112,37,0,62,30,80,Școala Gimnazială „Carmen Sylva”,Str. Grigore Ghica Vodă (D) nr. 24,Iași,47.1601,27.5941
+116,24,IAȘI,MUNICIPIUL IAŞI,199,83,99,38,0,45,24,60,189,94,89,46,1,50,20,52,Școala Gimnazială „Carmen Sylva”,Str. Grigore Ghica Vodă (D) nr. 24,Iași,47.1601,27.5941
+117,24,IAȘI,MUNICIPIUL IAŞI,229,127,154,54,0,45,15,62,227,149,137,48,0,48,15,62,Școala Gimnazială „Calistrat Hogaș”,Str. Ciric nr. 23A,Iași,47.1647,27.6117
+118,24,IAȘI,MUNICIPIUL IAŞI,173,35,53,27,0,16,14,43,174,39,49,20,0,22,12,46,Școala Gimnazială „Calistrat Hogaș”,Str. Ciric nr. 23A,Iași,47.1647,27.6117
+119,24,IAȘI,MUNICIPIUL IAŞI,198,127,100,40,0,27,11,44,194,128,102,39,0,32,10,35,Școala Gimnazială „Calistrat Hogaș”,Str. Ciric nr. 23A,Iași,47.1647,27.6117
+120,24,IAȘI,MUNICIPIUL IAŞI,240,124,130,28,0,32,16,46,228,134,107,34,0,49,15,47,Școala Primară „Costache Negri”,Str. Eternitate nr. 37,Iași,47.1665,27.5984
+121,24,IAȘI,MUNICIPIUL IAŞI,175,72,89,46,0,41,10,41,177,79,76,48,0,42,9,39,Școala Primară „Costache Negri”,Str. Eternitate nr. 37,Iași,47.1665,27.5984
+122,24,IAȘI,MUNICIPIUL IAŞI,227,87,124,50,1,43,30,73,239,101,104,48,2,45,25,67,Școala Gimnazială „Bogdan Petriceicu Hașdeu”,Str. Ion Creangă nr. 27,Iași,47.1619,27.6095
+123,24,IAȘI,MUNICIPIUL IAŞI,43,27,21,6,0,7,4,14,45,27,20,7,0,6,6,13,Școala Gimnazială „Bogdan Petriceicu Hașdeu”,Str. Ion Creangă nr. 27,Iași,47.1619,27.6095
+124,24,IAȘI,MUNICIPIUL IAŞI,229,76,98,28,0,21,20,67,218,76,97,26,1,24,22,69,Școala Gimnazială „Bogdan Petriceicu Hașdeu”,Str. Ion Creangă nr. 27,Iași,47.1619,27.6095
+125,24,IAȘI,MUNICIPIUL IAŞI,171,71,103,33,1,34,10,33,169,79,87,31,1,41,11,35,Școala Gimnazială „Bogdan Petriceicu Hașdeu”,Str. Ion Creangă nr. 27,Iași,47.1619,27.6095
+126,24,IAȘI,MUNICIPIUL IAŞI,204,92,120,36,0,46,18,57,202,103,107,33,0,49,20,64,Liceul Teoretic „Alexandru Ioan Cuza”,Str. Ion Creangă nr. 37,Iași,47.1621,27.6113
+127,24,IAȘI,MUNICIPIUL IAŞI,181,100,92,30,0,54,13,57,178,105,92,32,0,56,17,50,Liceul Teoretic „Alexandru Ioan Cuza”,Str. Ion Creangă nr. 37,Iași,47.1621,27.6113
+128,24,IAȘI,MUNICIPIUL IAŞI,178,62,99,28,1,20,18,35,175,65,87,33,1,23,19,39,Liceul Teoretic „Alexandru Ioan Cuza”,Str. Ion Creangă nr. 37,Iași,47.1621,27.6113
+129,24,IAȘI,MUNICIPIUL IAŞI,245,90,88,45,0,33,22,72,232,88,87,46,0,42,24,70,Liceul Teoretic „Alexandru Ioan Cuza”,Str. Ion Creangă nr. 37,Iași,47.1621,27.6113
+130,24,IAȘI,MUNICIPIUL IAŞI,178,84,104,54,1,27,22,77,175,101,96,55,1,29,27,68,Școala Primară „Costache Conachi”,Str. Ion Creangă nr. 109,Iași,47.1592,27.6217
+131,24,IAȘI,MUNICIPIUL IAŞI,190,87,122,54,0,28,9,50,181,97,110,53,0,42,10,43,Școala Primară „Costache Conachi”,Str. Ion Creangă nr. 109,Iași,47.1592,27.6217
+132,24,IAȘI,MUNICIPIUL IAŞI,183,65,94,37,0,27,4,39,184,68,83,40,0,35,3,37,Școala Primară „Costache Conachi”,Str. Ion Creangă nr. 109,Iași,47.1592,27.6217
+133,24,IAȘI,MUNICIPIUL IAŞI,209,57,96,40,1,19,15,56,208,71,92,38,1,18,17,48,Școala Primară „Costache Conachi”,Str. Ion Creangă nr. 109,Iași,47.1592,27.6217
+134,24,IAȘI,MUNICIPIUL IAŞI,189,75,115,18,0,34,14,41,184,82,96,19,0,38,18,52,Școala Primară „Costache Conachi”,Str. Ion Creangă nr. 109,Iași,47.1592,27.6217
+135,24,IAȘI,MUNICIPIUL IAŞI,177,61,102,28,0,20,18,49,170,65,93,26,0,23,18,55,Directia Judeteana Pentru Sport și Tineret - Complex Sportiv Gradinari,Bulevardul Chimiei nr. FN,Iași,47.1535,27.6119
+136,24,IAȘI,MUNICIPIUL IAŞI,265,76,112,27,0,36,19,48,262,83,98,26,0,38,21,55,Directia Judeteana Pentru Sport și Tineret - Complex Sportiv Gradinari,Bulevardul Chimiei nr. FN,Iași,47.1535,27.6119
+137,24,IAȘI,MUNICIPIUL IAŞI,199,70,85,27,0,18,18,50,192,72,74,27,0,25,19,57,Directia Judeteana Pentru Sport și Tineret - Complex Sportiv Gradinari,Bulevardul Chimiei nr. FN,Iași,47.1535,27.6119
+138,24,IAȘI,MUNICIPIUL IAŞI,261,79,137,28,2,31,17,58,266,81,129,27,2,40,15,49,Directia Judeteana Pentru Sport și Tineret - Complex Sportiv Gradinari,Bulevardul Chimiei nr. FN,Iași,47.1535,27.6119
+139,24,IAȘI,MUNICIPIUL IAŞI,254,80,98,40,0,20,16,45,247,78,97,47,0,24,15,46,Directia Judeteana Pentru Sport și Tineret - Complex Sportiv Gradinari,Bulevardul Chimiei nr. FN,Iași,47.1535,27.6119
+140,24,IAȘI,MUNICIPIUL IAŞI,211,75,83,34,0,27,30,71,220,74,81,36,0,38,23,53,Directia Judeteana Pentru Sport și Tineret - Complex Sportiv Gradinari,Bulevardul Chimiei nr. FN,Iași,47.1535,27.6119
+141,24,IAȘI,MUNICIPIUL IAŞI,221,74,114,48,0,34,11,51,213,85,110,45,0,37,12,49,Școala Gimnazială „Ionel Teodoreanu”,Str. Vasile Lupu nr. 110B,Iași,47.157,27.6181
+142,24,IAȘI,MUNICIPIUL IAŞI,190,55,107,21,0,29,8,48,190,62,98,21,0,29,11,51,Școala Gimnazială „Ionel Teodoreanu”,Str. Vasile Lupu nr. 110B,Iași,47.157,27.6181
+143,24,IAȘI,MUNICIPIUL IAŞI,178,66,100,36,1,22,17,54,192,69,85,39,1,25,15,43,Școala Gimnazială „Ionel Teodoreanu”,Str. Vasile Lupu nr. 110B,Iași,47.157,27.6181
+144,24,IAȘI,MUNICIPIUL IAŞI,217,81,102,32,1,20,19,43,218,91,95,29,1,24,14,40,Școala Gimnazială „Ionel Teodoreanu”,Str. Vasile Lupu nr. 110B,Iași,47.157,27.6181
+145,24,IAȘI,MUNICIPIUL IAŞI,181,66,64,27,1,20,15,52,177,73,64,25,1,21,14,51,Școala Gimnazială „Ionel Teodoreanu”,Str. Vasile Lupu nr. 110B,Iași,47.157,27.6181
+146,24,IAȘI,MUNICIPIUL IAŞI,264,75,85,24,1,37,13,50,250,79,75,24,1,50,18,57,Școala Gimnazială „Gheorghe I. Brătianu”,Str. Ciornei nr. 18-20,Iași,47.1581,27.6105
+147,24,IAȘI,MUNICIPIUL IAŞI,202,79,89,40,0,32,25,54,197,87,86,41,0,30,26,55,Școala Gimnazială „Gheorghe I. Brătianu”,Str. Ciornei nr. 18-20,Iași,47.1581,27.6105
+148,24,IAȘI,MUNICIPIUL IAŞI,4,3,4,1,0,0,1,4,4,3,3,1,0,1,1,3,Școala Gimnazială „Gheorghe I. Brătianu”,Str. Ciornei nr. 18-20,Iași,47.1581,27.6105
+149,24,IAȘI,MUNICIPIUL IAŞI,3,8,4,2,0,2,2,3,5,7,4,2,0,2,1,2,Școala Gimnazială „Gheorghe I. Brătianu”,Str. Ciornei nr. 18-20,Iași,47.1581,27.6105
+150,24,IAȘI,MUNICIPIUL IAŞI,203,156,155,45,2,36,15,58,204,157,148,49,2,40,15,57,Școala Gimnazială „Gheorghe I. Brătianu”,Str. Ciornei nr. 18-20,Iași,47.1581,27.6105
+151,24,IAȘI,MUNICIPIUL IAŞI,174,108,98,26,0,23,9,34,165,121,87,28,0,29,5,29,Școala Gimnazială „Gheorghe I. Brătianu”,Str. Ciornei nr. 18-20,Iași,47.1581,27.6105
+152,24,IAȘI,MUNICIPIUL IAŞI,201,101,90,25,0,27,12,43,192,111,79,23,1,38,17,43,Școala Gimnazială „Gheorghe I. Brătianu”,Str. Ciornei nr. 18-20,Iași,47.1581,27.6105
+153,24,IAȘI,MUNICIPIUL IAŞI,239,245,345,70,1,42,26,93,235,260,332,61,1,53,31,102,Universitatea Tehnică „Gheorghe Asachi”,Bulevardul Prof. Dimitrie Mangeron (Str. Splai Bahlui) nr. 73,Iași,47.1552,27.6034
+154,24,IAȘI,MUNICIPIUL IAŞI,165,80,79,22,2,29,15,39,170,84,69,19,2,35,13,35,Universitatea Tehnică „Gheorghe Asachi”,Bulevardul Prof. Dimitrie Mangeron (Str. Splai Bahlui) nr. 1,Iași,47.1521,27.5889
+155,24,IAȘI,MUNICIPIUL IAŞI,135,99,80,24,2,40,12,51,133,109,74,23,2,48,8,43,Universitatea Tehnică „Gheorghe Asachi”,Bulevardul Prof. Dimitrie Mangeron (Str. Splai Bahlui) nr. 1,Iași,47.1521,27.5889
+156,24,IAȘI,MUNICIPIUL IAŞI,167,125,109,44,1,53,18,52,177,143,87,46,1,47,22,54,Universitatea Tehnică „Gheorghe Asachi”,Bulevardul Prof. Dimitrie Mangeron (Str. Splai Bahlui) nr. 1,Iași,47.1521,27.5889
+157,24,IAȘI,MUNICIPIUL IAŞI,291,72,99,42,0,28,9,41,274,78,99,40,1,39,19,36,Școala Gimnazială „Ion Ghica”,Bulevardul Primăverii nr. 38,Iași,47.1513,27.5978
+158,24,IAȘI,MUNICIPIUL IAŞI,96,28,38,12,1,11,19,37,93,37,35,10,1,13,20,33,Școala Gimnazială „Ion Ghica”,Bulevardul Primăverii nr. 38,Iași,47.1513,27.5978
+159,24,IAȘI,MUNICIPIUL IAŞI,109,40,49,30,0,17,6,21,112,39,50,29,0,16,7,20,Școala Gimnazială „Ion Ghica”,Bulevardul Primăverii nr. 38,Iași,47.1513,27.5978
+160,24,IAȘI,MUNICIPIUL IAŞI,86,17,47,18,0,11,4,14,83,23,41,20,0,12,4,16,Casa de Cultura a Sindicatelor,Bulevardul Socola nr. 134,Iași,47.1457,27.5928
+161,24,IAȘI,MUNICIPIUL IAŞI,26,9,16,5,0,1,2,10,25,10,16,5,0,2,4,9,Casa de Cultura a Sindicatelor,Bulevardul Socola nr. 134,Iași,47.1457,27.5928
+162,24,IAȘI,MUNICIPIUL IAŞI,153,43,73,18,0,22,9,33,150,51,62,21,0,26,9,33,Casa de Cultura a Sindicatelor,Bulevardul Socola nr. 134,Iași,47.1457,27.5928
+163,24,IAȘI,MUNICIPIUL IAŞI,202,60,88,38,0,19,19,64,205,65,82,34,2,21,20,61,Casa de Cultura a Sindicatelor,Bulevardul Socola nr. 134,Iași,47.1457,27.5928
+164,24,IAȘI,MUNICIPIUL IAŞI,182,42,64,20,0,23,18,42,176,49,56,21,0,30,19,43,Colegiul Tehnic „Ioan C.Ștefănescu”,Bulevardul Socola nr. 51-53,Iași,47.1436,27.5984
+165,24,IAȘI,MUNICIPIUL IAŞI,105,9,40,20,0,9,9,27,106,7,40,17,0,12,7,27,Colegiul Tehnic „Ioan C.Ștefănescu”,Bulevardul Socola nr. 51-53,Iași,47.1436,27.5984
+166,24,IAȘI,MUNICIPIUL IAŞI,90,29,44,18,1,15,6,16,86,35,43,16,1,12,9,20,Colegiul Tehnic „Ioan C.Ștefănescu”,Bulevardul Socola nr. 51-53,Iași,47.1436,27.5984
+167,24,IAȘI,MUNICIPIUL IAŞI,187,39,52,18,0,25,10,21,186,41,50,21,1,25,9,21,Liceul Tehnologic „Petru Poni”,Bulevardul Socola nr. 61 A,Iași,47.1434,27.6019
+168,24,IAȘI,MUNICIPIUL IAŞI,177,34,45,20,0,16,4,30,168,38,44,19,0,22,6,28,Liceul Tehnologic „Petru Poni”,Bulevardul Socola nr. 61 A,Iași,47.1434,27.6019
+169,24,IAȘI,MUNICIPIUL IAŞI,110,31,44,11,1,13,15,31,112,35,38,12,0,14,12,29,Liceul Tehnologic „Petru Poni”,Bulevardul Socola nr. 61 A,Iași,47.1434,27.6019
+170,24,IAȘI,MUNICIPIUL IAŞI,150,22,50,28,0,11,12,27,140,28,50,24,0,15,12,26,Liceul Tehnologic „Petru Poni”,Bulevardul Socola nr. 61 A,Iași,47.1434,27.6019
+171,24,IAȘI,MUNICIPIUL IAŞI,259,69,96,41,1,30,17,58,256,70,90,34,2,32,19,66,Colegiul Tehnic Electronică și Telecomunicații „Gheorghe Mârzescu”,Str. Mihail Sturza (D) nr. 43,Iași,47.1421,27.6029
+172,24,IAȘI,MUNICIPIUL IAŞI,141,27,64,18,0,22,22,57,130,30,73,16,0,22,20,51,Colegiul Tehnic Electronică și Telecomunicații „Gheorghe Mârzescu”,Str. Mihail Sturza (D) nr. 43,Iași,47.1421,27.6029
+173,24,IAȘI,MUNICIPIUL IAŞI,28,48,29,19,0,14,6,15,29,52,26,17,0,15,6,13,Școala Gimnazială „Nicolae Iorga”,Str. Hlincea nr. 7,Iași,47.1308,27.572
+174,24,IAȘI,MUNICIPIUL IAŞI,197,99,98,51,0,29,17,58,197,102,88,55,0,36,20,53,Școala Gimnazială „Nicolae Iorga”,Str. Hlincea nr. 7,Iași,47.1308,27.572
+175,24,IAȘI,MUNICIPIUL IAŞI,172,123,143,50,0,14,20,57,159,142,129,54,2,19,20,52,Școala Gimnazială „Nicolae Iorga”,Str. Hlincea nr. 7,Iași,47.1308,27.572
+176,24,IAȘI,MUNICIPIUL IAŞI,245,120,149,56,0,31,17,47,233,125,141,60,1,34,14,51,Școala Gimnazială „Nicolae Iorga”,Str. Hlincea nr. 7,Iași,47.1308,27.572
+177,24,IAȘI,MUNICIPIUL IAŞI,139,65,90,32,1,32,10,39,145,71,90,29,0,25,10,36,Școala Gimnazială „Nicolae Iorga”,Str. Hlincea nr. 7,Iași,47.1308,27.572
+178,24,IAȘI,MUNICIPIUL IAŞI,204,127,142,37,0,26,13,76,197,145,118,39,0,34,17,80,Școala Gimnazială „Nicolae Iorga”,Str. Hlincea nr. 7,Iași,47.1308,27.572
+179,24,IAȘI,MUNICIPIUL IAŞI,215,157,142,38,0,36,26,76,217,162,135,34,1,41,27,72,Școala Gimnazială „Nicolae Iorga”,Str. Hlincea nr. 7,Iași,47.1308,27.572
+180,24,IAȘI,MUNICIPIUL IAŞI,279,190,211,66,0,57,15,84,282,211,197,69,0,54,12,81,Școala Gimnazială „Veronica Micle”,Șoseaua Bucium nr. 72,Iași,47.1212,27.6251
+181,24,IAȘI,MUNICIPIUL IAŞI,268,134,160,58,0,33,20,66,276,140,148,60,0,38,21,60,Școala Gimnazială „Veronica Micle”,Șoseaua Bucium nr. 72,Iași,47.1212,27.6251
+182,24,IAȘI,MUNICIPIUL IAŞI,229,214,175,50,0,44,28,92,222,231,169,49,1,51,34,80,Școala Gimnazială „Veronica Micle”,Șoseaua Bucium nr. 72,Iași,47.1212,27.6251
+183,24,IAȘI,MUNICIPIUL IAŞI,146,103,128,28,1,40,22,49,145,117,111,29,3,48,22,48,Liceul Tehnologic de Mecatronica și Automatizări,Bulevardul Poitiers (Bulevardul Ilie Pintilie) nr. 41,Iași,47.1358,27.5944
+184,24,IAȘI,MUNICIPIUL IAŞI,112,48,51,23,1,16,11,30,114,51,51,25,0,18,7,24,Liceul Tehnologic de Mecatronica și Automatizări,Bulevardul Poitiers (Bulevardul Ilie Pintilie) nr. 41,Iași,47.1358,27.5944
+185,24,IAȘI,MUNICIPIUL IAŞI,142,33,44,20,1,13,8,23,137,34,50,20,1,11,5,24,Liceul Tehnologic de Mecatronica și Automatizări,Bulevardul Poitiers (Bulevardul Ilie Pintilie) nr. 41,Iași,47.1358,27.5944
+186,24,IAȘI,MUNICIPIUL IAŞI,69,27,27,10,0,5,2,15,67,28,28,11,0,6,2,13,Liceul Tehnologic de Mecatronica și Automatizări,Bulevardul Poitiers (Bulevardul Ilie Pintilie) nr. 41,Iași,47.1358,27.5944
+187,24,IAȘI,MUNICIPIUL IAŞI,102,60,82,31,0,16,7,25,102,73,71,33,0,15,7,24,Liceul Tehnologic de Mecatronica și Automatizări,Bulevardul Poitiers (Bulevardul Ilie Pintilie) nr. 41,Iași,47.1358,27.5944
+188,24,IAȘI,MUNICIPIUL IAŞI,103,31,44,24,0,10,10,28,105,35,42,24,0,10,10,22,Liceul Tehnologic de Mecatronica și Automatizări,Bulevardul Poitiers (Bulevardul Ilie Pintilie) nr. 41,Iași,47.1358,27.5944
+189,24,IAȘI,MUNICIPIUL IAŞI,143,48,60,28,0,19,11,37,148,50,62,25,1,14,8,37,Școala Gimnazială „Dimitrie A.Sturdza”,Str. Cetățuia nr. 3,Iași,47.1376,27.5871
+190,24,IAȘI,MUNICIPIUL IAŞI,142,58,68,29,0,15,5,34,136,63,64,28,0,20,7,34,Școala Gimnazială „Dimitrie A.Sturdza”,Str. Cetățuia nr. 3,Iași,47.1376,27.5871
+191,24,IAȘI,MUNICIPIUL IAŞI,168,84,88,32,0,14,10,38,171,82,83,31,0,14,16,43,Școala Gimnazială „Dimitrie A.Sturdza”,Str. Cetățuia nr. 3,Iași,47.1376,27.5871
+192,24,IAȘI,MUNICIPIUL IAŞI,221,117,138,35,1,19,8,49,221,123,128,37,1,25,13,52,Școala Gimnazială „Dimitrie A.Sturdza”,Str. Cetățuia nr. 3,Iași,47.1376,27.5871
+193,24,IAȘI,MUNICIPIUL IAŞI,168,76,79,31,0,30,12,44,169,77,68,36,0,36,10,41,Școala Gimnazială „Alecu Russo”,Str. Libertății nr. 24-26,Iași,47.1401,27.5843
+194,24,IAȘI,MUNICIPIUL IAŞI,199,89,86,29,0,29,19,58,205,93,80,26,0,27,18,58,Școala Gimnazială „Alecu Russo”,Str. Libertății nr. 24-26,Iași,47.1401,27.5843
+195,24,IAȘI,MUNICIPIUL IAŞI,168,86,79,31,0,17,11,34,172,86,72,33,0,16,12,40,Școala Gimnazială „Alecu Russo”,Str. Libertății nr. 24-26,Iași,47.1401,27.5843
+196,24,IAȘI,MUNICIPIUL IAŞI,231,94,98,26,2,27,17,40,224,102,88,29,0,36,13,37,Școala Gimnazială „Alecu Russo”,Str. Libertății nr. 24-26,Iași,47.1401,27.5843
+197,24,IAȘI,MUNICIPIUL IAŞI,138,67,59,24,0,13,6,25,139,64,62,19,0,15,8,28,Școala Gimnazială „Alecu Russo”,Str. Libertății nr. 24-26,Iași,47.1401,27.5843
+198,24,IAȘI,MUNICIPIUL IAŞI,177,79,62,29,1,11,10,38,165,85,52,31,1,21,12,40,Școala Gimnazială „Alecu Russo”,Str. Libertății nr. 24-26,Iași,47.1401,27.5843
+199,24,IAȘI,MUNICIPIUL IAŞI,152,89,103,36,2,26,14,48,156,92,95,30,2,38,15,45,Școala Primară „Gheorghe Ghibanescu”,Aleea Nicolina nr. 167,Iași,47.1409,27.5806
+200,24,IAȘI,MUNICIPIUL IAŞI,181,77,99,45,0,27,7,36,177,80,96,45,1,30,11,37,Școala Primară „Gheorghe Ghibanescu”,Aleea Nicolina nr. 167,Iași,47.1409,27.5806
+201,24,IAȘI,MUNICIPIUL IAŞI,158,88,89,37,1,27,10,37,170,105,75,30,1,32,6,28,Școala Primară „Gheorghe Ghibanescu”,Aleea Nicolina nr. 167,Iași,47.1409,27.5806
+202,24,IAȘI,MUNICIPIUL IAŞI,161,109,118,59,0,30,17,55,156,121,103,55,0,37,22,57,Școala Primară „Gheorghe Ghibanescu”,Aleea Nicolina nr. 167,Iași,47.1409,27.5806
+203,24,IAȘI,MUNICIPIUL IAŞI,158,94,81,36,0,30,19,55,166,112,68,37,0,32,13,43,Școala Primară „Gheorghe Ghibanescu”,Aleea Nicolina nr. 167,Iași,47.1409,27.5806
+204,24,IAȘI,MUNICIPIUL IAŞI,138,62,90,31,2,33,8,28,142,70,84,30,3,26,17,35,Grădinița cu Program Prelungit nr. 1,Șoseaua Nicolina nr. 46,Iași,47.1365,27.5739
+205,24,IAȘI,MUNICIPIUL IAŞI,131,105,101,30,0,23,17,44,136,122,93,24,0,21,11,37,Grădinița cu Program Prelungit nr. 1,Șoseaua Nicolina nr. 46,Iași,47.1365,27.5739
+206,24,IAȘI,MUNICIPIUL IAŞI,187,86,81,41,0,25,10,41,182,86,79,43,0,27,13,43,Parcul Științific și Tehnologic „Tehnopolis”,Bulevardul Poitiers (Bulevardul Ilie Pintilie) nr. 10,Iași,47.1375,27.6023
+207,24,IAȘI,MUNICIPIUL IAŞI,125,82,94,23,1,19,10,39,126,89,86,18,1,19,15,44,Parcul Științific și Tehnologic „Tehnopolis”,Bulevardul Poitiers (Bulevardul Ilie Pintilie) nr. 10,Iași,47.1375,27.6023
+208,24,IAȘI,MUNICIPIUL IAŞI,194,80,97,25,0,42,12,41,197,88,97,19,1,34,20,46,Școala Gimnazială „Otilia Cazimir”,Bulevardul Socola nr. 13,Iași,47.1496,27.5906
+209,24,IAȘI,MUNICIPIUL IAŞI,159,76,100,26,0,18,10,46,156,81,92,27,1,23,10,45,Școala Gimnazială „Otilia Cazimir”,Bulevardul Socola nr. 13,Iași,47.1496,27.5906
+210,24,IAȘI,MUNICIPIUL IAŞI,187,87,92,33,0,37,13,40,187,87,92,33,0,37,13,40,Școala Gimnazială „Otilia Cazimir”,Bulevardul Socola nr. 13,Iași,47.1496,27.5906
+211,24,IAȘI,MUNICIPIUL IAŞI,248,98,90,42,0,40,18,53,249,108,82,40,1,46,15,46,Școala Gimnazială „Otilia Cazimir”,Bulevardul Socola nr. 13,Iași,47.1496,27.5906
+212,24,IAȘI,MUNICIPIUL IAŞI,108,39,43,16,1,13,13,28,107,41,37,15,0,16,12,30,Colegiul National „Emil Racoviță”,Aleea Nicolina nr. 4,Iași,47.1488,27.5871
+213,24,IAȘI,MUNICIPIUL IAŞI,213,90,88,22,2,37,17,56,215,101,87,22,0,36,16,49,Colegiul National „Emil Racoviță”,Aleea Nicolina nr. 4,Iași,47.1488,27.5871
+214,24,IAȘI,MUNICIPIUL IAŞI,257,71,124,43,0,25,12,51,242,85,109,46,0,34,16,54,Colegiul National „Emil Racoviță”,Aleea Nicolina nr. 4,Iași,47.1488,27.5871
+215,24,IAȘI,MUNICIPIUL IAŞI,188,95,90,34,0,29,8,47,183,101,77,36,0,35,7,48,Colegiul National „Emil Racoviță”,Aleea Nicolina nr. 4,Iași,47.1488,27.5871
+216,24,IAȘI,MUNICIPIUL IAŞI,230,77,110,39,0,49,21,56,232,82,105,37,0,51,18,51,Liceul Teoretic „Dimitrie Cantemir”,Aleea Decebal nr. 13,Iași,47.1506,27.5818
+217,24,IAȘI,MUNICIPIUL IAŞI,202,112,105,42,1,33,13,59,207,117,98,43,0,37,10,57,Liceul Teoretic „Dimitrie Cantemir”,Aleea Decebal nr. 13,Iași,47.1506,27.5818
+218,24,IAȘI,MUNICIPIUL IAŞI,241,95,118,50,0,31,29,57,225,103,109,46,0,38,36,71,Liceul Teoretic „Dimitrie Cantemir”,Aleea Decebal nr. 13,Iași,47.1506,27.5818
+219,24,IAȘI,MUNICIPIUL IAŞI,203,101,111,35,0,30,16,58,205,106,104,33,0,34,15,54,Liceul Teoretic „Dimitrie Cantemir”,Aleea Decebal nr. 13,Iași,47.1506,27.5818
+220,24,IAȘI,MUNICIPIUL IAŞI,116,68,59,31,0,22,8,37,122,75,60,27,1,19,7,29,Școala Gimnazială „Titu Maiorescu”,Aleea Decebal nr. 10,Iași,47.1505,27.5831
+221,24,IAȘI,MUNICIPIUL IAŞI,127,43,50,26,1,20,9,22,126,47,44,25,0,19,11,27,Școala Gimnazială „Titu Maiorescu”,Aleea Decebal nr. 10,Iași,47.1505,27.5831
+222,24,IAȘI,MUNICIPIUL IAŞI,157,71,67,37,0,18,15,38,159,71,64,34,0,26,15,34,Școala Gimnazială „Titu Maiorescu”,Aleea Decebal nr. 10,Iași,47.1505,27.5831
+223,24,IAȘI,MUNICIPIUL IAŞI,133,55,69,21,1,25,11,26,132,57,68,19,1,27,10,26,Grădinița cu Program Prelungit „Cuv. Parascheva”,Șoseaua Națională nr. 45,Iași,47.1533,27.5827
+224,24,IAȘI,MUNICIPIUL IAŞI,213,53,71,28,0,26,18,47,210,62,63,25,0,33,23,49,Școala Gimnazială „Ion Neculce”,Str. Romană (Str. Română) nr. 30,Iași,47.153,27.5768
+225,24,IAȘI,MUNICIPIUL IAŞI,187,92,85,20,0,19,18,50,191,106,72,18,0,25,13,41,Școala Gimnazială „Ion Neculce”,Str. Romană (Str. Română) nr. 30,Iași,47.153,27.5768
+226,24,IAȘI,MUNICIPIUL IAŞI,197,91,90,44,0,19,24,65,203,89,82,43,1,22,22,67,Școala Gimnazială „Ion Neculce”,Str. Romană (Str. Română) nr. 30,Iași,47.153,27.5768
+227,24,IAȘI,MUNICIPIUL IAŞI,142,42,57,18,0,21,8,23,147,49,51,18,0,20,10,23,Școala Gimnazială „Ion Neculce”,Str. Romană (Str. Română) nr. 30,Iași,47.153,27.5768
+228,24,IAȘI,MUNICIPIUL IAŞI,95,71,50,16,1,13,5,29,93,72,48,19,1,16,6,25,Școala Primară nr. 1 „Vasile Conta”,Aleea Nicolina nr. 86,Iași,47.1455,27.5837
+229,24,IAȘI,MUNICIPIUL IAŞI,205,92,89,28,0,31,16,46,208,95,88,22,0,37,14,41,Școala Primară nr. 1 „Vasile Conta”,Aleea Nicolina nr. 86,Iași,47.1455,27.5837
+230,24,IAȘI,MUNICIPIUL IAŞI,244,78,101,40,1,43,21,54,239,89,84,44,0,37,19,53,Școala Primară nr. 1 „Vasile Conta”,Aleea Nicolina nr. 86,Iași,47.1455,27.5837
+231,24,IAȘI,MUNICIPIUL IAŞI,238,89,102,31,1,24,16,52,225,100,93,33,1,34,19,51,Școala Gimnazială „Vasile Conta”,Str. Gheorghe Doja nr. 2,Iași,47.1453,27.5782
+232,24,IAȘI,MUNICIPIUL IAŞI,210,115,95,40,1,22,21,58,210,120,85,39,0,31,20,58,Școala Gimnazială „Vasile Conta”,Str. Gheorghe Doja nr. 2,Iași,47.1453,27.5782
+233,24,IAȘI,MUNICIPIUL IAŞI,230,70,87,37,1,21,7,40,224,81,84,37,1,21,4,33,Școala Gimnazială „Vasile Conta”,Str. Gheorghe Doja nr. 2,Iași,47.1453,27.5782
+234,24,IAȘI,MUNICIPIUL IAŞI,270,65,112,42,0,25,17,60,267,75,102,41,0,28,17,61,Școala Gimnazială „Vasile Conta”,Str. Gheorghe Doja nr. 2,Iași,47.1453,27.5782
+235,24,IAȘI,MUNICIPIUL IAŞI,263,123,108,53,0,39,11,60,254,125,109,54,0,49,13,56,Colegiul Tehnic „Ion Holban”,Str. Pantelimon Halipa (Str. Trotuș) nr. 16,Iași,47.1478,27.5763
+236,24,IAȘI,MUNICIPIUL IAŞI,226,64,98,25,0,27,16,51,230,70,96,26,0,33,20,50,Colegiul Tehnic „Ion Holban”,Str. Pantelimon Halipa (Str. Trotuș) nr. 16,Iași,47.1478,27.5763
+237,24,IAȘI,MUNICIPIUL IAŞI,203,72,101,23,1,25,17,45,203,84,81,21,4,28,20,47,Colegiul Tehnic „Ion Holban”,Str. Pantelimon Halipa (Str. Trotuș) nr. 16,Iași,47.1478,27.5763
+238,24,IAȘI,MUNICIPIUL IAŞI,251,61,130,41,2,27,25,71,252,71,114,45,1,32,21,65,Liceul Teoretic „Miron Costin”,Str. Mușatini nr. 12,Iași,47.1602,27.5662
+239,24,IAȘI,MUNICIPIUL IAŞI,295,108,93,49,0,41,21,54,292,119,93,43,0,37,24,49,Liceul Teoretic „Miron Costin”,Str. Mușatini nr. 12,Iași,47.1602,27.5662
+240,24,IAȘI,MUNICIPIUL IAŞI,247,60,95,34,1,29,20,52,254,61,90,31,2,33,16,51,Liceul Teoretic „Miron Costin”,Str. Mușatini nr. 12,Iași,47.1602,27.5662
+241,24,IAȘI,MUNICIPIUL IAŞI,289,62,87,42,0,48,22,62,284,76,74,48,0,45,23,64,Liceul Teoretic „Miron Costin”,Str. Mușatini nr. 12,Iași,47.1602,27.5662
+709,24,IAȘI,VICTORIA,66,1,25,5,0,3,1,1,62,1,25,5,0,3,0,4,Școala Icușeni,,Icușeni,47.2777,27.6364
+545,24,IAȘI,MOVILENI,140,7,40,25,0,2,17,35,135,8,42,28,0,1,17,38,Școala Primară Iepureni,,Iepureni,47.2997,27.4341
+486,24,IAȘI,ION NECULCE,41,2,7,2,0,2,1,4,44,2,5,3,0,2,1,6,Casa Sociala Ion Neculce,,Ion Neculce,47.204,27.0498
+653,24,IAȘI,TĂTĂRUŞI,196,1,19,3,0,8,14,28,198,1,24,3,0,6,13,24,Școala Primară Iorcani,,Iorcani,47.3534,26.5231
+488,24,IAȘI,IPATELE,216,2,15,8,0,5,1,12,214,5,17,9,0,4,3,11,Școala Gimnazială „Ion Haulica” Ipatele,,Ipatele,46.9182,27.4302
+581,24,IAȘI,RĂDUCĂNENI,46,0,11,10,0,10,3,9,48,2,10,12,0,10,4,9,Școala Generală Isaiia,,Isaiia,46.9342,28.0032
+508,24,IAȘI,MIRCEŞTI,66,43,213,18,0,15,7,44,67,48,205,17,1,26,8,37,Școala Gimnazială Iugani,,Iugani,47.0459,26.8315
+509,24,IAȘI,MIRCEŞTI,33,14,71,7,0,4,3,10,33,16,68,8,0,5,3,9,Grădinița cu Program Normal Iugani,,Iugani,47.0459,26.8315
+574,24,IAȘI,RĂCHITENI,125,11,57,7,0,21,2,14,123,12,54,8,0,28,3,16,Școala Izvoarele,,Izvoarele,47.0408,26.9036
+685,24,IAȘI,ŢIBĂNEŞTI,104,0,12,31,1,15,6,19,101,0,13,26,1,19,6,19,Școala Gimnazială „Dr. Petru Brânzei” Jigoreni,,Jigoreni,46.8954,27.3172
+546,24,IAȘI,MOVILENI,107,1,44,9,0,6,3,18,104,3,45,9,0,4,4,20,Școala Gimnazială Larga Jijia,,Larga-Jijia,47.3195,27.3876
+491,24,IAȘI,LESPEZI,135,4,42,5,0,16,2,44,141,5,58,6,0,24,7,14,Liceul Tehnologic Lespezi,,Lespezi,47.362,26.6927
+497,24,IAȘI,LEŢCANI,264,27,396,26,2,25,7,27,253,27,421,21,2,23,11,23,Școala Gimnazială Letcani,,Lețcani,47.1943,27.4171
+498,24,IAȘI,LEŢCANI,227,22,343,31,1,16,10,36,215,23,360,28,1,19,10,29,Școala Gimnazială Letcani,,Lețcani,47.1943,27.4171
+320,24,IAȘI,BELCEŞTI,155,3,45,6,2,5,14,21,161,3,51,6,2,4,10,19,Școala Liteni,,Liteni,47.3015,27.0374
+710,24,IAȘI,VICTORIA,71,2,30,7,0,7,4,13,76,1,29,10,0,6,5,13,Școala Luceni,,Luceni,47.2871,27.6138
+265,24,IAȘI,MUNICIPIUL PAŞCANI,283,9,21,7,0,11,4,19,287,11,21,6,0,11,8,14,Școala Lunca,Nr. 172,Lunca,47.2816,26.7373
+266,24,IAȘI,MUNICIPIUL PAŞCANI,283,1,23,6,0,7,6,27,292,1,22,6,1,7,8,21,Școala Lunca,Nr. 172,Lunca,47.2816,26.7373
+354,24,IAȘI,CIUREA,284,94,131,50,0,34,12,62,283,95,130,55,0,33,17,63,Școala Gimnazială nr. 1 Lunca Cetatuii,Nr. 58,Lunca Cetățuii,47.0962,27.5638
+355,24,IAȘI,CIUREA,241,67,108,38,0,28,16,61,244,76,103,40,0,29,12,49,Școala Gimnazială nr. 1 Lunca Cetatuii,Nr. 58,Lunca Cetățuii,47.0962,27.5638
+356,24,IAȘI,CIUREA,232,72,145,37,0,30,13,51,226,73,152,34,0,31,16,53,Școala Gimnazială nr. 1 Lunca Cetatuii,Nr. 58,Lunca Cetățuii,47.0962,27.5638
+357,24,IAȘI,CIUREA,201,59,104,32,0,12,9,41,196,61,109,32,0,12,17,48,Școala Gimnazială nr. 1 Lunca Cetatuii,Nr. 58,Lunca Cetățuii,47.0962,27.5638
+358,24,IAȘI,CIUREA,183,0,7,7,0,2,1,18,187,0,6,5,0,4,4,10,Școala Primară nr. 2 Lunca Cetațuii (Zanea),Nr. 19,Lunca Cetățuii,47.0922,27.5711
+602,24,IAȘI,SCÂNTEIA,52,0,10,4,0,2,2,6,54,0,8,6,0,1,2,6,Școala Primară Lunca Rateș,Nr. 6,Lunca Rateș,46.9503,27.5774
+459,24,IAȘI,HĂLĂUCEŞTI,73,8,59,17,0,11,7,19,78,11,56,17,1,9,7,17,Școala Generală Luncasi,,Luncași,47.115,26.8074
+502,24,IAȘI,LUNGANI,171,10,105,12,0,4,8,27,164,12,108,13,1,6,6,23,Liceul Tehnologic Lungani,,Lungani,47.1849,27.1398
+728,24,IAȘI,VOINEŞTI,99,4,14,25,0,8,5,14,98,5,15,26,0,10,6,12,Școala Primară Lungani,,Lungani,47.0935,27.4033
+384,24,IAȘI,COTNARI,72,1,9,10,0,3,1,6,72,0,9,10,0,3,1,6,Școala Luparia,,Lupăria,47.3682,26.8879
+403,24,IAȘI,DELENI,189,8,87,13,0,11,7,21,182,9,89,12,0,14,11,28,Școala Gimnazială Maxut,,Maxut,47.44,26.8886
+404,24,IAȘI,DELENI,154,5,61,4,0,7,2,23,156,3,62,4,1,7,2,24,Grădinița cu Program Normal Maxut,,Maxut,47.4458,26.886
+338,24,IAȘI,BUTEA,64,3,5,19,0,6,5,17,68,4,5,14,0,8,5,12,Școala Primară Miclauseni,,Miclăușeni,47.0975,26.9307
+691,24,IAȘI,ŢIGĂNĂŞI,201,3,18,22,1,4,2,18,206,3,19,22,1,4,3,10,Școala Generală Mihail Kogalniceanu,,Mihail Kogălniceanu,47.3465,27.4132
+507,24,IAȘI,MIRCEŞTI,190,9,76,15,0,70,9,31,171,7,78,16,0,75,8,36,Școala Gimnazială Vasile Alecsandri Mircesti,,Mircești,47.0633,26.8435
+510,24,IAȘI,MIRONEASA,66,1,195,5,0,2,11,25,63,2,194,4,1,3,11,24,Școala Gimnazială Mironeasa,,Mironeasa,46.9714,27.4306
+511,24,IAȘI,MIRONEASA,118,1,232,9,1,9,4,22,118,2,227,9,1,10,6,24,Școala Gimnazială Mironeasa,,Mironeasa,46.9714,27.4306
+512,24,IAȘI,MIRONEASA,84,1,172,13,0,1,5,14,86,1,168,15,0,1,6,15,Școala Gimnazială Mironeasa,,Mironeasa,46.9714,27.4306
+514,24,IAȘI,MIROSLAVA,149,54,158,38,3,27,12,37,148,52,169,37,2,28,13,36,Școala Gimnazială „Colonel Constantin Langa” -Miroslava,,Miroslava,47.1467,27.5299
+515,24,IAȘI,MIROSLAVA,147,58,153,33,0,17,14,47,141,66,157,29,0,19,13,42,Școala Gimnazială „Colonel Constantin Langa” -Miroslava,,Miroslava,47.1467,27.5299
+525,24,IAȘI,MIROSLOVEŞTI,207,6,50,43,2,22,55,86,207,11,51,42,2,26,51,78,Școala Gimnazială Miroslovesti,Nr. 208 L,Miroslovești,47.1595,26.6517
+528,24,IAȘI,MOGOŞEŞTI,225,9,56,17,0,6,2,42,223,10,58,19,0,5,5,31,Liceul Tehnologic Dumitru Popa - Mogoșești,,Mogoșești,47.0414,27.5134
+529,24,IAȘI,MOGOŞEŞTI,170,6,45,13,1,1,4,27,166,7,47,13,0,0,5,24,Liceul Tehnologic Dumitru Popa - Mogoșești,,Mogoșești,47.0414,27.5134
+533,24,IAȘI,MOGOŞEŞTI-SIRET,234,4,234,18,0,7,7,33,235,7,230,19,1,9,9,24,Școala Gimnazială Mogosesti-Siret,,Mogoșești-Siret,47.1363,26.7844
+560,24,IAȘI,POPRICANI,92,4,17,9,0,8,2,8,96,4,18,10,0,7,3,10,Școala Gimnazială Popricani,,Moimești,47.2864,27.5119
+569,24,IAȘI,PRISĂCANI,145,6,48,80,0,15,9,27,147,4,48,79,1,13,12,28,Școala Primară Moreni,,Moreni,47.0997,27.8632
+465,24,IAȘI,HELEŞTENI,58,2,2,7,0,3,0,5,56,2,2,9,0,4,0,3,Școala Generală Movileni,,Movileni,47.2006,26.8968
+544,24,IAȘI,MOVILENI,113,1,20,9,1,2,5,9,111,1,22,9,0,2,4,9,Grădinița cu Program Normal Movileni,,Movileni,47.3298,27.3591
+536,24,IAȘI,MOŞNA,203,1,23,7,1,11,0,11,204,1,19,6,1,7,1,14,Școala Gimnazială Moșna,,Moșna,46.9222,27.9567
+537,24,IAȘI,MOŞNA,184,2,19,24,2,6,1,10,188,0,19,17,4,8,1,8,Școala Gimnazială Mosna,,Moșna,46.9222,27.9567
+538,24,IAȘI,MOŞNA,47,2,7,10,0,0,1,3,47,1,6,9,0,0,0,4,Școala Gimnazială Mosna,,Moșna,46.9222,27.9567
+539,24,IAȘI,MOŞNA,7,1,3,0,0,1,0,0,8,1,2,0,0,1,0,0,Caminul Cultural Mosna,,Moșna,46.9223,27.9553
+540,24,IAȘI,MOŞNA,1,2,1,1,0,0,0,0,1,3,0,1,0,0,0,0,Caminul Cultural Mosna,,Moșna,46.9223,27.9553
+541,24,IAȘI,MOŢCA,333,10,44,15,1,90,19,43,336,11,47,14,0,86,23,47,Cămin Cultural,,Moțca,47.2378,26.6032
+542,24,IAȘI,MOŢCA,284,7,44,10,0,67,11,29,283,7,42,9,0,67,17,28,Cămin Cultural,,Moțca,47.2378,26.6032
+534,24,IAȘI,MOGOŞEŞTI-SIRET,198,5,180,4,0,5,9,18,194,8,164,6,1,5,10,25,Școala Gimnazială Muncelu de Sus,,Muncelu de Sus,47.1233,26.7329
+535,24,IAȘI,MOGOŞEŞTI-SIRET,142,4,205,4,0,2,5,13,147,6,202,3,0,2,6,12,Școala Gimnazială Muncelu de Sus,,Muncelu de Sus,47.1233,26.7329
+318,24,IAȘI,BELCEŞTI,137,10,67,4,0,5,4,17,137,12,63,3,0,8,3,17,Școala Munteni,,Munteni,47.3149,27.1366
+530,24,IAȘI,MOGOŞEŞTI,80,3,29,3,0,3,4,22,84,3,29,3,0,4,3,15,Școala Gimnazială Mînjești,,Mânjești,47.0622,27.476
+698,24,IAȘI,UNGHENI,121,12,33,4,0,7,3,20,121,11,33,7,0,6,3,19,Școala Primară Mînzătești,,Mânzătești,47.1878,27.725
+568,24,IAȘI,PRISĂCANI,127,5,13,9,0,9,3,6,127,5,15,9,1,9,3,5,Școala Gimnazială Macaresti,,Măcărești,47.0365,27.9592
+506,24,IAȘI,MĂDÎRJAC,165,32,50,138,1,24,16,50,151,32,45,148,0,33,20,46,Caminul Cultural Madirjac,,Mădârjac,47.0463,27.2747
+310,24,IAȘI,BĂLŢAŢI,157,2,133,13,1,9,18,28,149,4,138,13,1,10,16,27,Școala Primară - Sat Mădîrjești,,Mădârjești,47.2107,27.1463
+451,24,IAȘI,GROPNIŢA,108,3,10,7,0,6,3,5,113,3,10,4,0,8,4,8,Școala Mălăești,,Mălăești,47.3552,27.3025
+395,24,IAȘI,DAGÎŢA,108,3,97,10,0,7,3,16,115,3,96,11,0,6,3,14,Școala Generală Mănăstirea,,Mănăstirea,46.9488,27.2034
+464,24,IAȘI,HELEŞTENI,198,2,20,4,0,1,3,12,200,1,21,3,0,1,3,11,Școala Gimnazială Oboroceni,,Oboroceni,47.1802,26.868
+555,24,IAȘI,POPEŞTI,24,3,12,8,0,2,5,12,23,3,12,10,0,4,5,10,Școala Primară „Nicolaie Butescu” Obrijeni,,Obrijeni,47.1575,27.2176
+475,24,IAȘI,HOLBOCA,61,9,25,22,0,14,5,23,63,8,28,25,0,13,3,20,Școala cu Clasele I-IV,,Orzeni,47.1801,27.6924
+365,24,IAȘI,COMARNA,200,12,91,132,0,14,8,28,210,12,87,130,0,13,9,25,Școala Osoi,,Osoi,47.094,27.7899
+619,24,IAȘI,SINEŞTI,137,0,44,1,1,3,10,32,135,3,48,2,2,1,11,29,Școala Gimnazială Osoi,,Osoi,47.0947,27.1922
+548,24,IAȘI,OŢELENI,158,11,106,11,1,6,5,16,160,7,104,12,0,9,4,18,Cămin Cultural - Sala I Oteleni,,Oțeleni,47.0648,27.0246
+549,24,IAȘI,OŢELENI,170,14,119,11,1,10,3,20,172,12,121,10,1,14,4,19,Cămin Cultural - Sala Ii Oteleni,,Oțeleni,47.0648,27.0246
+242,24,IAȘI,MUNICIPIUL PAŞCANI,246,37,99,34,1,37,16,46,241,38,93,32,2,43,22,53,Casa de Cultura Mihail Sadoveanu,Str. Moldovei nr. 2B,Pașcani,47.2498,26.7197
+243,24,IAȘI,MUNICIPIUL PAŞCANI,263,24,106,39,1,44,22,48,256,25,97,45,1,53,28,48,Casa de Cultura Mihail Sadoveanu,Str. Moldovei nr. 2B,Pașcani,47.2498,26.7197
+244,24,IAȘI,MUNICIPIUL PAŞCANI,255,34,99,56,1,27,24,53,256,35,91,58,2,29,29,62,Școala Ion Creanga,Str. Dragoș Vodă nr. 59,Pașcani,47.253,26.7087
+245,24,IAȘI,MUNICIPIUL PAŞCANI,255,16,68,16,0,26,23,46,255,20,64,16,0,28,25,46,Grădinița nr. 1,Str. Nicolae Iorga (Str. 7 Noiembrie) nr. 5A,Pașcani,47.2488,26.7234
+246,24,IAȘI,MUNICIPIUL PAŞCANI,281,41,131,39,1,40,22,68,271,48,131,38,1,42,20,66,Școala nr. 3 Iordachi Cantacuzino,Str. Ștefan cel Mare (Str. Ștefan cel Mare și Sfînt) nr. 19,Pașcani,47.2457,26.7258
+247,24,IAȘI,MUNICIPIUL PAŞCANI,195,40,102,22,1,24,16,41,191,40,94,19,0,26,18,54,Școala nr. 3 Iordachi Cantacuzino,Nr. 19,Pașcani,47.2457,26.7258
+248,24,IAȘI,MUNICIPIUL PAŞCANI,256,24,77,35,0,36,17,45,253,26,84,30,0,41,18,43,Grădinița Vatra,Str. Ștefan cel Mare (Str. Ștefan cel Mare și Sfînt) nr. 154,Pașcani,47.2416,26.7255
+249,24,IAȘI,MUNICIPIUL PAŞCANI,260,18,82,27,1,27,34,64,259,19,83,27,1,33,28,56,Colegiul National Mihail Sadoveanu,Str. Sportului nr. 4,Pașcani,47.2469,26.7187
+250,24,IAȘI,MUNICIPIUL PAŞCANI,252,36,102,43,1,43,25,53,245,43,87,42,0,43,35,67,Colegiul National Mihail Sadoveanu,Str. Sportului nr. 4,Pașcani,47.2469,26.7187
+251,24,IAȘI,MUNICIPIUL PAŞCANI,265,19,111,22,2,30,19,50,268,24,107,22,1,32,26,54,Grădinița Siiretul,Str. Sportului nr. 11,Pașcani,47.2454,26.7174
+252,24,IAȘI,MUNICIPIUL PAŞCANI,227,43,140,39,0,41,28,62,225,42,134,34,0,52,35,64,Școala de Arte și Meserii Nicolae Iorga,Str. Stamate Eugen nr. 8,Pașcani,47.2452,26.7203
+253,24,IAȘI,MUNICIPIUL PAŞCANI,386,12,89,26,0,31,19,46,378,15,87,26,0,30,20,46,Școala Specială,Str. Gării nr. 99,Pașcani,47.2592,26.7217
+254,24,IAȘI,MUNICIPIUL PAŞCANI,278,16,84,14,0,25,13,32,279,15,87,16,0,19,14,32,Colegiu Tehnic de Cai Ferate Unirea,Str. Ceferiștilor nr. 3,Pașcani,47.2556,26.7204
+255,24,IAȘI,MUNICIPIUL PAŞCANI,221,22,80,21,0,23,9,25,231,23,74,21,0,22,12,24,Colegiu Tehnic de Cai Ferate Unirea,Str. Ceferiștilor nr. 3,Pașcani,47.2556,26.7204
+256,24,IAȘI,MUNICIPIUL PAŞCANI,257,17,64,16,1,25,22,37,255,19,65,12,0,27,18,35,Grădinița cu Program Prelungit nr. 3,Aleea Izvoarelor nr. 3,Pașcani,47.2543,26.7218
+257,24,IAȘI,MUNICIPIUL PAŞCANI,234,11,86,28,0,22,10,34,236,17,82,26,1,29,13,32,Grădinița cu Program Prelungit nr. 3,Aleea Izvoarelor nr. 3,Pașcani,47.2543,26.7218
+258,24,IAȘI,MUNICIPIUL PAŞCANI,246,17,86,19,0,23,17,35,232,19,80,24,0,33,20,38,Liceul Miron Costin,Str. Izvoarelor nr. 11,Pașcani,47.2559,26.7217
+259,24,IAȘI,MUNICIPIUL PAŞCANI,290,18,67,16,0,32,16,34,296,23,59,15,0,34,18,34,Liceul Miron Costin,Str. Izvoarelor nr. 11,Pașcani,47.2559,26.7217
+260,24,IAȘI,MUNICIPIUL PAŞCANI,227,24,98,26,0,40,22,42,237,25,81,25,0,43,25,49,Grup Scolar Mihai Busuioc,Aleea 22 Decembrie (Aleea 30 Decembrie) nr. 2,Pașcani,47.2532,26.7241
+261,24,IAȘI,MUNICIPIUL PAŞCANI,219,21,71,24,0,21,15,33,222,21,67,23,0,21,14,30,Grup Scolar Mihai Busuioc,Aleea 22 Decembrie (Aleea 30 Decembrie) nr. 2,Pașcani,47.2532,26.7241
+572,24,IAȘI,PROBOTA,198,4,106,29,2,11,7,34,197,5,114,28,1,11,7,31,Școala Gimnazială Perieni,,Perieni,47.3867,27.4701
+432,24,IAȘI,GOLĂIEŞTI,80,1,2,3,1,15,0,5,73,1,1,2,2,22,0,4,Școala Primară Petresti,Nr. 1,Petrești,47.2904,27.7123
+364,24,IAȘI,COARNELE CAPREI,37,0,5,0,0,1,0,2,38,0,5,0,0,1,0,2,Școala Generală Sat. Petrosica,,Petroșica,47.4161,27.0683
+359,24,IAȘI,CIUREA,113,0,19,5,0,2,8,16,113,2,17,8,0,1,5,14,Școala Gimnazială nr. 1 Picioru Lupului,Nr. 110,Picioru Lupului,47.0409,27.574
+412,24,IAȘI,DOLHEŞTI,84,1,127,7,1,44,3,13,80,1,140,7,0,49,3,6,Școala Pietriș,Nr.  -,Pietriș,46.8857,27.9172
+652,24,IAȘI,TĂTĂRUŞI,313,8,32,15,0,10,10,23,304,8,29,16,0,6,10,33,Școala Gimnazială Pietrosu,,Pietrosu,47.3409,26.6065
+329,24,IAȘI,BÎRNOVA,86,33,53,20,1,55,7,23,89,36,50,16,1,62,6,23,Școala Primară Pietraria,Nr. 52,Pietrăria,47.0867,27.6372
+398,24,IAȘI,DAGÎŢA,47,2,40,12,1,1,0,8,47,2,42,13,1,1,0,4,Școala Primară Piscu Rusului,,Piscu Rusului,46.9564,27.1463
+551,24,IAȘI,PLUGARI,202,4,166,3,1,2,10,29,205,5,172,4,1,4,10,22,Liceul Tehnologic Plugari,,Plugari,47.4872,27.1256
+608,24,IAȘI,SCHITU DUCA,90,7,17,2,0,12,8,18,80,10,22,2,0,15,8,17,Școala Gimnazială Pocreaca,,Pocreaca,46.9668,27.7753
+311,24,IAȘI,BĂLŢAŢI,79,3,76,10,0,5,3,15,83,3,74,14,0,6,4,9,Școala Primară - Sat Podișu,,Podișu,47.2531,27.0633
+387,24,IAȘI,COZMEŞTI,39,0,16,9,0,6,6,9,41,0,15,10,0,5,7,10,Școala Podolenii de Jos,,Podolenii de Jos,46.8484,28.0293
+386,24,IAȘI,COZMEŞTI,139,1,34,22,1,14,11,24,140,1,40,23,0,15,11,23,Școala Nouă Podolenii de Sus,,Podolenii de Sus,46.8581,28.0127
+436,24,IAȘI,GORBAN,118,2,25,14,0,7,3,9,112,2,24,16,0,7,4,14,Școala Primară,,Podu Hagiului,46.862,28.0767
+276,24,IAȘI,ORAŞ PODU ILOAIEI,94,13,36,20,0,8,5,12,91,14,36,16,0,9,9,15,Școala Al. I. Cuza,Șoseaua Națională nr. 113,Podu Iloaiei,47.2122,27.2766
+277,24,IAȘI,ORAŞ PODU ILOAIEI,175,23,88,42,0,30,6,33,180,23,90,39,0,27,8,33,Școala Al. I. Cuza,Șoseaua Națională nr. 113,Podu Iloaiei,47.2122,27.2766
+278,24,IAȘI,ORAŞ PODU ILOAIEI,180,4,37,11,0,8,3,14,186,3,42,10,0,10,2,9,Școala Al. I. Cuza,Șoseaua Națională nr. 113,Podu Iloaiei,47.2122,27.2766
+279,24,IAȘI,ORAŞ PODU ILOAIEI,129,11,53,29,1,16,3,14,128,10,53,26,1,17,4,13,Școala Al. I. Cuza,Șoseaua Națională nr. 113,Podu Iloaiei,47.2122,27.2766
+280,24,IAȘI,ORAŞ PODU ILOAIEI,97,13,54,18,1,13,6,16,102,11,54,22,1,12,6,12,Școala Al. I. Cuza,Șoseaua Națională nr. 113,Podu Iloaiei,47.2122,27.2766
+281,24,IAȘI,ORAŞ PODU ILOAIEI,176,13,75,43,0,18,6,20,166,13,75,45,0,23,8,24,Școala Al. I. Cuza,Șoseaua Națională nr. 113,Podu Iloaiei,47.2122,27.2766
+282,24,IAȘI,ORAŞ PODU ILOAIEI,57,3,35,19,0,12,2,6,55,2,34,19,0,12,3,8,Școala Henci,Str. Henci,Podu Iloaiei,47.2269,27.2945
+433,24,IAȘI,GOLĂIEŞTI,71,1,3,2,1,17,1,7,70,2,3,0,0,19,3,7,Școala Primară Podu Jijiei,Nr. 1,Podu Jijiei,47.2402,27.7204
+407,24,IAȘI,DELENI,172,7,83,2,0,11,0,15,183,3,82,3,0,9,2,11,Grădinița cu Program Normal Poiana,,Poiana,47.4926,26.8624
+609,24,IAȘI,SCHITU DUCA,111,6,28,10,2,14,3,8,111,6,29,9,1,13,4,9,Școala Primară Poiana,,Poiana,46.9864,27.7985
+672,24,IAȘI,ŢIBANA,73,1,12,6,0,6,1,3,69,0,10,6,0,6,3,8,Școala Gimnazială Poiana Mănăstirii,,Poiana Mănăstirii,46.985,27.3539
+341,24,IAȘI,CEPLENIŢA,145,2,60,3,0,5,0,11,139,5,61,4,0,8,0,14,Școala Gimnazială Poiana Marului,,Poiana Mărului,47.3794,26.891
+446,24,IAȘI,GRAJDURI,45,5,9,6,2,3,1,4,42,5,9,7,2,3,2,8,Școala Primară Poiana cu Cetate,,Poiana cu Cetate,47.0069,27.5749
+674,24,IAȘI,ŢIBANA,103,2,19,14,0,4,3,12,104,3,20,11,0,6,4,14,Școala Primară Poiana de Sus,,Poiana de Sus,47.0028,27.3188
+642,24,IAȘI,ŞCHEIA,61,5,23,14,0,2,5,12,61,4,21,16,0,3,5,11,Școala Generală Poiana-Scheii,Nr. 19,Poiana Șcheii,46.9572,27.4898
+606,24,IAȘI,SCHITU DUCA,143,10,29,18,1,16,9,34,150,10,28,20,1,10,6,26,Școala Gimnazială Poieni,,Poieni,47.0509,27.7125
+399,24,IAȘI,DAGÎŢA,28,1,70,23,0,3,0,0,28,1,69,23,0,4,0,1,Centru de Organizare Pentru Integrare și Informare - C.O.P.I.I. Pentru Comunitatea Poienile,,Poienile,46.9604,27.2098
+553,24,IAȘI,POPEŞTI,122,5,67,12,0,6,5,14,120,6,66,14,0,4,8,20,Școala Generală „Dimitrie Sturdza” Popesti,,Popești,47.1522,27.2392
+554,24,IAȘI,POPEŞTI,133,2,54,10,1,11,9,17,139,3,52,10,1,11,7,16,Școala Generală „Dimitrie Sturdza” Popesti,,Popești,47.1522,27.2392
+558,24,IAȘI,POPRICANI,247,31,82,16,2,26,12,32,251,37,76,13,2,29,10,26,Școala Gimnazială Popricani,,Popricani,47.2864,27.5119
+559,24,IAȘI,POPRICANI,196,14,74,17,1,27,9,40,203,18,68,15,2,33,9,34,Școala Gimnazială Popricani,,Popricani,47.2864,27.5119
+547,24,IAȘI,MOVILENI,141,1,19,8,0,3,4,20,141,2,20,12,0,3,5,18,Școala Primară Potingeni,,Potângeni,47.3298,27.3347
+487,24,IAȘI,ION NECULCE,157,2,10,2,0,1,4,17,161,1,11,2,0,2,4,15,Școala Primară Prigoreni,,Prigoreni,47.2072,27.067
+567,24,IAȘI,PRISĂCANI,324,16,58,18,2,59,5,27,321,16,58,18,1,66,6,23,Școala Gimnazială Prisacani,,Prisăcani,47.0888,27.88
+570,24,IAȘI,PROBOTA,103,7,128,37,1,5,6,16,108,7,123,30,1,5,9,23,Școala Gimnazială „Petru Anghel” Probota,,Probota,47.3692,27.5108
+274,24,IAȘI,ORAŞ HÎRLĂU,383,9,90,5,0,8,11,35,396,11,83,6,0,10,14,29,Școala Gimnazială Pîrcovaci - Corp Gradiniță,,Pârcovaci,47.4359,26.8487
+275,24,IAȘI,ORAŞ HÎRLĂU,313,5,91,7,0,13,2,14,317,4,93,6,0,11,2,12,Școala Gimnazială Pîrcovaci - Corp Școală,,Pârcovaci,47.4357,26.8489
+445,24,IAȘI,GRAJDURI,20,4,13,10,1,3,4,6,20,4,13,10,1,2,4,6,Școala Primară Padureni,,Pădureni,46.989,27.5546
+447,24,IAȘI,GRAJDURI,21,3,10,4,0,3,2,7,22,3,11,5,0,3,3,6,Școala Primară Padureni,,Pădureni,46.989,27.5546
+328,24,IAȘI,BÎRNOVA,201,31,73,33,1,38,5,34,203,38,60,37,1,46,7,29,Camin Cultural Paun,Str. Ferdinand I nr. 1,Păun,47.0979,27.663
+416,24,IAȘI,DUMEŞTI,250,5,48,21,0,5,5,41,244,8,48,24,1,6,6,39,Școala Gimnazială Pausesti,,Păușești,47.157,27.3235
+688,24,IAȘI,ŢIBĂNEŞTI,45,2,4,12,0,3,2,5,45,1,6,8,0,3,1,4,Grădinița cu Program Normal Recea,,Recea,46.9281,27.385
+582,24,IAȘI,REDIU,109,43,109,20,0,50,6,22,108,42,107,19,0,54,8,21,Școala Gimnazială Rediu,Nr. 1,Rediu,47.2163,27.5043
+583,24,IAȘI,REDIU,79,41,76,17,0,27,5,18,76,41,75,17,1,28,5,17,Școala Gimnazială Rediu,,Rediu,47.2163,27.5043
+595,24,IAȘI,RUGINOASA,170,3,17,22,0,5,7,22,172,2,20,20,1,7,6,21,Școala Gimnazială Rediu,Nr. 33,Rediu,47.241,26.8596
+603,24,IAȘI,SCÂNTEIA,43,2,16,3,0,1,2,5,45,2,17,2,0,1,2,4,Școala Primară Rediu,Nr. 46,Rediu,46.8937,27.5917
+304,24,IAȘI,ARONEANU,33,0,94,1,1,7,2,9,35,0,95,1,1,8,4,10,Școala Gimnazială Aron-Vodă din Sat Rediu Aldei,,Rediu Aldei,47.2263,27.6378
+586,24,IAȘI,ROMÂNEŞTI,100,3,76,14,1,14,10,27,104,4,70,12,0,13,12,30,Școala Gimnazială „Ioanid Romanescu” Romanesti,,Românești,47.28,27.3209
+347,24,IAȘI,CIORTEŞTI,34,0,53,3,0,30,0,3,41,0,52,4,0,29,0,2,Școala Primară Rotăria,,Rotăria,46.9425,27.8702
+590,24,IAȘI,ROŞCANI,145,3,14,4,0,10,4,11,145,4,13,4,0,10,4,8,Cladirea Apartinand If Popițanu Gabi,,Roșcani,47.4552,27.4007
+580,24,IAȘI,RĂDUCĂNENI,75,0,7,9,0,13,1,2,71,0,8,10,0,14,1,5,Școala Generală Roșu,,Roșu,46.9909,27.9543
+591,24,IAȘI,RUGINOASA,176,3,25,15,0,10,9,21,165,4,27,18,0,11,9,26,Școala Gimnazială Ruginoasa,Str. Unirii nr. 42,Ruginoasa,47.2427,26.8417
+592,24,IAȘI,RUGINOASA,120,2,19,11,0,13,6,15,124,1,18,12,0,12,6,14,Școala Gimnazială Ruginoasa,Str. Unirii nr. 42,Ruginoasa,47.2427,26.8417
+676,24,IAȘI,ŢIBANA,88,0,21,8,1,15,5,17,90,0,23,8,1,17,4,12,Școala Gimnazială Runcu,,Runcu,47.0061,27.2867
+474,24,IAȘI,HOLBOCA,71,5,18,14,0,5,7,15,65,5,18,15,0,8,3,15,Școala cu Clasele I-IV,,Rusenii Noi,47.1963,27.6681
+466,24,IAȘI,HOLBOCA,54,21,25,8,1,5,3,26,52,20,24,13,0,6,4,28,Școala cu Clasele I-VIII,,Rusenii Vechi,47.1783,27.685
+573,24,IAȘI,RĂCHITENI,80,7,207,10,0,44,13,41,79,8,206,7,2,46,14,41,Școala Noua Rachiteni,,Răchiteni,47.0546,26.9162
+589,24,IAȘI,ROŞCANI,139,2,22,8,0,4,3,13,131,4,22,8,0,3,3,17,Grădinita cu Program Normal Radeni,,Rădeni,47.4285,27.4348
+575,24,IAȘI,RĂDUCĂNENI,114,8,44,51,1,55,4,30,121,9,52,51,1,52,5,18,Liceul Teoretic Lascar Rosetti,,Răducăneni,46.9589,27.9363
+576,24,IAȘI,RĂDUCĂNENI,180,3,31,39,1,83,6,25,183,3,32,41,1,80,3,19,Liceul Teoretic Lascar Rosetti,Nr. 559,Răducăneni,46.9589,27.9363
+577,24,IAȘI,RĂDUCĂNENI,146,9,33,50,1,38,5,24,158,9,30,55,1,32,5,14,Școala Generală Raducaneni,,Răducăneni,46.9594,27.9366
+578,24,IAȘI,RĂDUCĂNENI,225,4,35,22,2,34,15,34,223,7,40,22,3,36,18,29,Școala Generală Bazga,,Răducăneni,46.959,27.9171
+682,24,IAȘI,ŢIBĂNEŞTI,189,10,13,29,0,12,5,18,198,10,17,22,1,10,6,13,Școala Gimnazială Răsboieni,,Răsboieni,46.9297,27.3195
+482,24,IAȘI,ION NECULCE,381,18,101,27,0,18,10,50,372,22,98,26,0,18,15,52,Școala Gimnazială „Constantin Teodorescu” Razboieni,,Războieni,47.2177,27.0487
+317,24,IAȘI,BELCEŞTI,185,13,97,25,1,7,6,31,189,13,98,28,0,9,7,23,Școala Satu - Nou,,Satu Nou,47.321,27.0963
+610,24,IAȘI,SCHITU DUCA,85,5,15,7,0,19,1,6,89,6,14,8,0,18,1,6,Școala Gimnazială Satu Nou,,Satu Nou,46.9541,27.815
+643,24,IAȘI,ŞCHEIA,60,1,23,3,0,5,3,8,65,1,25,3,0,4,3,7,Școala Generală Satu-Nou,Nr. 19,Satu Nou,46.9336,27.4781
+296,24,IAȘI,ALEXANDRU I. CUZA,285,6,41,2,0,8,5,19,288,8,38,2,0,10,4,14,Școala Gimnazială Scheia,,Scheia,47.1145,26.8814
+605,24,IAȘI,SCHITU DUCA,97,3,12,10,0,14,3,9,101,3,12,9,0,13,2,6,Școala Primară Schitu Duca,,Schitu Duca,47.0356,27.7697
+729,24,IAȘI,VOINEŞTI,79,1,16,6,0,9,3,9,81,2,14,6,0,8,3,7,Școala Primară Schitu-Stavnic,,Schitu Stavnic,47.0664,27.3914
+612,24,IAȘI,SCOBINŢI,223,4,38,6,0,10,14,31,220,4,36,7,0,11,15,32,"Sat Scobinti, Sediu Școala Veche Scobinti",,Scobinți,47.4047,26.9097
+613,24,IAȘI,SCOBINŢI,86,0,13,3,0,1,4,11,86,1,12,4,0,0,3,9,"Sat Scobinti, Sediu Școala Zvarici- Scobinti",,Scobinți,47.3911,26.8968
+284,24,IAȘI,ORAŞ PODU ILOAIEI,157,2,41,19,0,5,2,12,159,3,41,20,0,4,2,16,Școala Scobâlțeni,,Scobâlțeni,47.1991,27.2828
+437,24,IAȘI,GORBAN,158,4,34,13,1,9,6,13,159,4,33,14,2,10,4,10,Școala Primară,,Scoposeni,46.9056,28.0582
+481,24,IAȘI,HORLEŞTI,58,0,6,6,0,4,3,6,56,1,6,5,1,4,3,6,Fosta Școală Satul Scoposeni,,Scoposeni,47.1354,27.4116
+711,24,IAȘI,VICTORIA,42,4,50,4,0,4,1,3,48,4,50,3,0,5,1,2,Școala Sculeni,,Sculeni,47.3137,27.6104
+597,24,IAȘI,SCÂNTEIA,124,7,51,16,0,10,15,36,118,8,54,16,0,13,24,38,Școala Gimnazială „Axinte Uricariul”,Nr. 516,Scânteia,46.9215,27.5773
+598,24,IAȘI,SCÂNTEIA,67,6,26,14,0,7,5,15,62,4,29,16,0,7,5,16,Grădinița cu Program Normal Scânteia,Str. Ștefan cel Mare și Sfânt nr. 436,Scânteia,46.921,27.5774
+620,24,IAȘI,SINEŞTI,148,1,231,16,1,11,3,25,156,1,232,18,1,16,3,21,Sala de Sport Sinești,,Sinești,47.1149,27.1883
+623,24,IAȘI,SIREŢEL,130,3,65,9,0,36,5,18,130,3,70,11,0,34,4,14,Școala Generală,,Sirețel,47.3862,26.7222
+624,24,IAȘI,SIREŢEL,96,4,95,8,1,28,3,8,94,4,95,8,1,30,2,6,Școala Generală,,Sirețel,47.3862,26.7222
+360,24,IAȘI,CIUREA,121,5,22,2,0,2,5,11,116,4,24,3,0,2,6,17,Școala Primară nr. 2 Slobozia,Nr. 138,Slobozia,47.019,27.6109
+405,24,IAȘI,DELENI,122,10,67,9,0,9,8,16,125,8,67,9,0,8,6,19,Școala Gimnazială Slobozia,,Slobozia,47.4774,26.8877
+611,24,IAȘI,SCHITU DUCA,125,0,19,5,0,11,2,7,124,0,21,6,0,12,3,7,Școala Primară Slobozia,,Slobozia,46.9863,27.7449
+625,24,IAȘI,SIREŢEL,94,1,70,7,0,8,7,15,95,4,69,8,0,10,6,10,Școala Generală Slobozia,,Slobozia,47.3996,26.7412
+726,24,IAȘI,VOINEŞTI,108,3,11,10,0,5,23,40,110,2,13,8,1,4,23,32,Școala Gimnazială Slobozia Deal,,Slobozia,47.0613,27.4047
+727,24,IAȘI,VOINEŞTI,109,0,11,10,0,2,12,17,101,0,12,11,2,2,16,20,Școala Gimnazială Slobozia Deal,,Slobozia,47.0613,27.4047
+526,24,IAȘI,MIROSLOVEŞTI,197,3,36,24,0,18,45,63,193,3,31,27,0,16,45,63,Școala Gimnazială Soci,Nr. 110,Soci,47.1826,26.6419
+267,24,IAȘI,MUNICIPIUL PAŞCANI,233,5,62,15,1,14,7,20,228,7,63,12,1,15,11,28,Școala Sodomeni,Nr. 22,Sodomeni,47.2217,26.6861
+325,24,IAȘI,BIVOLARI,103,1,12,4,0,1,11,17,107,3,11,5,0,3,8,14,Școala cu Clasele I-IV Soloneț,Nr. 0,Soloneț,47.4985,27.457
+300,24,IAȘI,ANDRIEŞENI,116,0,72,12,0,7,5,22,116,1,71,12,1,10,4,19,Școala Gimnazială Spineni,,Spineni,47.4953,27.3092
+424,24,IAȘI,ERBICENI,59,3,9,13,0,2,1,3,52,3,11,14,0,1,1,5,Școala Generală Spinoasa,,Spinoasa,47.2626,27.1895
+425,24,IAȘI,ERBICENI,64,3,12,7,1,5,1,4,68,2,13,7,1,4,1,4,Școala Generală Sprinceana,,Sprânceana,47.2353,27.257
+692,24,IAȘI,ŢIGĂNĂŞI,65,0,9,20,2,2,1,12,63,0,12,21,2,1,1,10,Școala Primară Stejarii,,Stejarii,47.3764,27.4316
+616,24,IAȘI,SCOBINŢI,310,9,22,18,1,4,13,31,310,7,20,17,1,5,19,36,"Sat Sticlaria, Sediu Școala Sticlaria",,Sticlăria,47.4013,26.8356
+617,24,IAȘI,SCOBINŢI,64,0,8,4,0,3,2,12,66,1,8,6,0,3,1,8,"Sat Sticlaria, Sediu Școala Rediu",,Sticlăria,47.4041,26.8636
+627,24,IAȘI,STOLNICENI-PRĂJESCU,287,7,54,51,2,8,9,23,291,7,56,55,0,9,8,18,Biblioteca Matei Millo,,Stolniceni-Prăjescu,47.2039,26.7414
+622,24,IAȘI,SINEŞTI,93,0,157,6,2,0,2,17,87,4,157,8,1,2,3,17,Școala Gimnazială Stornești,,Stornești,47.1165,27.1707
+657,24,IAȘI,TODIREŞTI,28,1,13,25,0,7,2,11,29,0,14,26,0,7,2,8,Școala Primară Stroesti,,Stroești,47.3253,26.8847
+632,24,IAȘI,STRUNGA,115,4,29,9,0,5,6,25,118,6,29,9,0,2,6,26,Școala Gimnazială Strunga,,Strunga,47.1638,26.9561
+366,24,IAȘI,COMARNA,39,0,10,6,0,4,1,9,35,3,9,7,0,4,2,10,Școala Stânca,,Stânca,47.0685,27.8069
+706,24,IAȘI,VICTORIA,80,1,39,10,0,2,6,16,79,1,38,12,0,2,3,16,Școala Stânca,,Stânca,47.2859,27.5826
+649,24,IAȘI,TANSA,133,7,247,3,2,39,9,28,131,7,241,3,0,34,9,33,Școala Gimnazială Cl.I-VIII Suhuleț,,Suhuleț,46.9046,27.2583
+453,24,IAȘI,GROPNIŢA,124,2,5,6,1,1,2,4,126,2,6,6,1,1,2,3,Școala Sîngeri,,Sângeri,47.389,27.2271
+312,24,IAȘI,BĂLŢAŢI,159,9,110,22,1,40,11,21,147,11,121,23,0,47,5,17,Școala Gimnazială - Sat Sîrca,,Sârca,47.2279,27.1789
+393,24,IAȘI,CUCUTENI,168,1,12,7,0,3,5,11,164,0,11,8,0,5,6,15,Școala Săcărești,,Săcărești,47.2565,26.9369
+452,24,IAȘI,GROPNIŢA,138,1,13,16,0,1,1,8,148,2,10,18,0,3,1,2,Școala Săveni,,Săveni,47.4001,27.2483
+324,24,IAȘI,BIVOLARI,146,0,19,5,0,6,8,20,148,9,17,5,0,9,3,11,Școala Gimnazială cu Clasele I-VIII Tabăra,Nr. 0,Tabăra,47.5752,27.4114
+319,24,IAȘI,BELCEŞTI,150,5,38,12,1,8,4,17,149,6,37,14,1,14,4,11,Magazin Consumcoop,,Tansa,47.3008,27.0745
+648,24,IAȘI,TANSA,266,5,179,27,1,21,7,36,269,5,187,23,1,19,5,22,Grădinița cu Program Normal Tansa,,Tansa,46.9112,27.2301
+330,24,IAȘI,BÎRNOVA,117,4,18,3,0,12,0,10,125,4,18,2,0,12,0,7,Școala Primară Todirel,,Todirel,47.0715,27.6054
+654,24,IAȘI,TODIREŞTI,200,12,67,26,0,8,15,52,196,18,76,28,0,8,15,35,Grădinița nr. 1 Todiresti,,Todirești,47.3241,26.833
+655,24,IAȘI,TODIREŞTI,162,5,42,17,1,5,10,22,155,8,41,18,0,5,11,25,Grădinița nr. 1 Todiresti,,Todirești,47.3241,26.833
+658,24,IAȘI,TOMEŞTI,146,33,60,28,0,13,7,30,147,45,50,27,0,12,6,30,Primăria Comunei Tomesti,Str. Prof. Petru Olteanu (Vioarei) (D) nr. 167,Tomești,47.1191,27.7123
+659,24,IAȘI,TOMEŞTI,230,47,102,23,0,21,14,54,231,50,101,23,0,21,11,49,Sediul Sc.D.D.Patrascanu,,Tomești,47.1355,27.6919
+660,24,IAȘI,TOMEŞTI,236,39,62,23,1,26,15,46,235,46,56,26,0,36,9,39,Sediul Sc.D.D.Patrascanu,,Tomești,47.1355,27.6919
+661,24,IAȘI,TOMEŞTI,194,35,64,23,1,21,15,50,185,35,70,19,0,26,13,52,Sediul Sc.D.D.Patrascanu,,Tomești,47.1355,27.6919
+662,24,IAȘI,TOMEŞTI,303,44,111,16,1,19,16,49,296,50,106,20,1,23,16,50,Sediul Sc.D.D.Patrascanu,,Tomești,47.1355,27.6919
+663,24,IAȘI,TOMEŞTI,215,50,75,19,1,18,16,51,210,52,80,25,1,21,12,43,Sediul Sc.D.D.Patrascanu,,Tomești,47.1355,27.6919
+705,24,IAȘI,VALEA SEACĂ,421,10,48,18,3,13,33,53,431,12,46,19,2,13,37,52,Școala Gimnazială Topile,,Topile,47.2574,26.6658
+423,24,IAȘI,ERBICENI,157,11,55,10,1,17,5,34,172,13,48,12,1,15,8,29,Școala Generală Totoesti,,Totoești,47.2461,27.281
+667,24,IAȘI,TRIFEŞTI,158,6,153,10,2,11,10,24,154,8,157,12,1,12,9,23,Grădinița cu Program Normal Trifești,,Trifești,47.4622,27.5017
+604,24,IAȘI,SCÂNTEIA,41,1,6,5,1,2,2,8,39,2,6,6,1,2,1,3,Școala Primară Tufeștii de Sus,Nr. 120,Tufeștii de Sus,46.9103,27.6253
+687,24,IAȘI,ŢIBĂNEŞTI,100,0,15,16,0,12,3,13,103,3,13,12,0,10,5,15,Grădinița cu Program Normal Tungujei,,Tungujei,46.9247,27.3636
+287,24,IAȘI,ORAŞ TÂRGU FRUMOS,323,26,76,25,0,63,14,44,326,28,79,24,0,64,16,38,Școala Generală Ion Creanga,Str. Bogdan Vodă (Str. 23 August) nr. 5,Târgu Frumos,47.2113,27.0106
+288,24,IAȘI,ORAŞ TÂRGU FRUMOS,158,6,35,9,1,20,3,16,155,8,38,10,0,22,3,14,Școala Generală Ion Creanga,Str. Bogdan Vodă (Str. 23 August) nr. 5,Târgu Frumos,47.2113,27.0106
+289,24,IAȘI,ORAŞ TÂRGU FRUMOS,195,19,54,21,0,27,12,28,196,20,49,22,0,33,11,27,Școala Generală Garabet Ibraileanu,Str. Petru Rareș nr. 6D,Târgu Frumos,47.2103,27.0143
+290,24,IAȘI,ORAŞ TÂRGU FRUMOS,221,16,55,16,0,38,11,36,220,10,56,19,0,43,12,34,Școala Generală Garabet Ibraileanu,Str. Petru Rareș nr. 6D,Târgu Frumos,47.2103,27.0143
+291,24,IAȘI,ORAŞ TÂRGU FRUMOS,273,27,78,9,2,37,8,103,317,28,85,14,1,40,11,43,Complex Servicii Sociale Pentru Copii - Targu Frumos,Str. Petru Rareș nr. 37,Târgu Frumos,47.2167,27.0074
+292,24,IAȘI,ORAŞ TÂRGU FRUMOS,221,33,78,27,1,39,11,104,258,45,83,30,1,40,13,43,Casa de Cultura „Garabet Ibraileanu”,Str. Cuza Vodă (Str. Fierari) nr. 44,Târgu Frumos,47.2085,27.0119
+293,24,IAȘI,ORAŞ TÂRGU FRUMOS,284,33,86,18,2,44,12,92,299,37,104,23,2,53,15,51,Casa de Cultura „Garabet Ibraileanu”,Str. Cuza Vodă (Str. Fierari) nr. 44,Târgu Frumos,47.2085,27.0119
+294,24,IAȘI,ORAŞ TÂRGU FRUMOS,271,36,81,22,2,23,5,39,279,35,82,27,1,29,6,26,Liceul Teoretic „Ion Neculce”,Str. Cuza Vodă (Str. Fierari) nr. 65,Târgu Frumos,47.2092,27.0177
+650,24,IAȘI,TĂTĂRUŞI,460,12,35,14,0,18,12,35,459,12,36,14,0,14,12,42,Liceul Tehnologic Tatarusi,,Tătăruși,47.3484,26.5885
+651,24,IAȘI,TĂTĂRUŞI,369,12,29,8,1,9,22,36,357,11,27,11,0,10,22,44,Școala Gimnazială Uda,,Uda,47.3378,26.5938
+321,24,IAȘI,BELCEŞTI,79,1,44,5,0,0,1,14,81,1,45,4,0,1,2,12,Școala Ulmi,,Ulmi,47.2831,27.0691
+699,24,IAȘI,UNGHENI,88,7,17,11,0,14,1,8,88,7,15,15,0,12,2,10,Școala Primară Ungheni,,Ungheni,47.1997,27.784
+521,24,IAȘI,MIROSLAVA,125,20,88,15,0,12,15,35,121,21,100,13,1,14,8,24,Școala Gimnazială „Miron Barnovschi” -Uricani,,Uricani,47.1586,27.4866
+588,24,IAȘI,ROMÂNEŞTI,77,1,37,8,0,11,2,7,81,2,36,7,0,10,2,7,Școala Gimnazială Ursoaia,,Ursoaia,47.2747,27.3845
+513,24,IAȘI,MIRONEASA,58,3,113,3,1,13,2,10,60,2,110,4,2,12,3,13,Școala Gimnazială Ursita,,Urșița,47.017,27.406
+679,24,IAȘI,ŢIBANA,56,5,6,19,0,11,2,6,57,5,8,18,0,12,2,3,Școala Primară Vadu Vejei,,Vadu Vejei,46.9947,27.2471
+522,24,IAȘI,MIROSLAVA,182,91,133,34,0,29,15,56,175,85,146,31,0,34,21,56,Grădinița cu Program Normal-Valea Adinca,,Valea Adâncă,47.1325,27.5489
+523,24,IAȘI,MIROSLAVA,252,161,226,73,1,40,16,66,247,169,224,63,1,50,14,60,Magazin Mobila Tofan,,Valea Adâncă,47.1169,27.5619
+477,24,IAȘI,HOLBOCA,29,2,20,19,1,3,3,18,28,3,16,21,0,4,2,15,Școala Valea Lunga,,Valea Lungă,47.1826,27.648
+700,24,IAȘI,VALEA LUPULUI,306,150,160,51,1,28,10,44,300,168,133,51,1,36,12,49,Școala Valea Lupului,Str. Nucilor nr. 13,Valea Lupului,47.1805,27.5022
+701,24,IAȘI,VALEA LUPULUI,322,165,175,52,0,36,10,63,323,174,162,50,3,28,19,72,Școala Valea Lupului,Str. Nucilor nr. 13,Valea Lupului,47.1805,27.5022
+702,24,IAȘI,VALEA LUPULUI,269,172,157,68,0,45,20,64,260,173,163,64,0,52,21,59,Școala Valea Lupului,Str. Nucilor nr. 13,Valea Lupului,47.1805,27.5022
+313,24,IAȘI,BĂLŢAŢI,126,1,41,3,0,2,3,6,124,0,42,2,0,2,2,5,Școala Gimnazială - Sat Valea Oilor,,Valea Oilor,47.2453,27.0996
+382,24,IAȘI,COTNARI,51,0,10,8,1,1,1,7,47,0,12,5,1,3,1,7,Școala Valea Racului,,Valea Racului,47.3626,26.8765
+442,24,IAȘI,GRAJDURI,46,2,9,4,1,6,5,5,48,2,8,4,0,7,3,4,Școala Primară Valea Satului,,Valea Satului,46.9535,27.5512
+443,24,IAȘI,GRAJDURI,55,2,15,1,0,10,1,8,55,2,15,2,0,11,2,6,Școala Primară Valea Satului,,Valea Satului,46.9535,27.5512
+703,24,IAȘI,VALEA SEACĂ,333,13,60,20,1,28,25,48,337,12,63,17,1,27,28,45,Școala Gimnazială Valea Seaca,,Valea Seacă,47.2925,26.6666
+596,24,IAȘI,RUGINOASA,87,2,18,10,0,8,3,14,88,3,21,13,0,5,4,13,Școala Vascani,Nr. 14,Vascani,47.2684,26.8688
+527,24,IAȘI,MIROSLOVEŞTI,168,2,39,26,1,19,42,59,169,4,38,25,2,22,39,59,Școala Gimnazială Verseni,Nr. 107,Verșeni,47.1134,26.6414
+707,24,IAȘI,VICTORIA,188,5,82,9,1,13,15,42,191,11,82,6,0,12,7,31,Școala Victoria,,Victoria,47.2981,27.5921
+331,24,IAȘI,BÎRNOVA,132,86,49,24,2,46,8,31,131,81,53,24,2,51,10,31,Școala Primară Visan,Str. Eroilor nr. 49,Vișan,47.1103,27.6089
+670,24,IAȘI,TRIFEŞTI,17,3,64,3,0,2,2,8,17,3,66,4,1,2,2,6,Școala Primară Vladomira,,Vladomira,47.4159,27.568
+717,24,IAȘI,VLĂDENI,202,25,52,24,0,26,15,46,193,28,52,24,0,29,14,45,Liceul Tehnologic Vladeni,,Vlădeni,47.4155,27.3274
+666,24,IAȘI,TOMEŞTI,107,9,23,22,0,17,2,23,112,10,25,22,0,17,2,18,"Sediul Școala Primară Vlădiceni, Sat. Vlădiceni, Com.Tomești",,Vlădiceni,47.1337,27.6556
+730,24,IAȘI,VOINEŞTI,34,0,5,5,0,3,3,12,35,0,5,4,1,5,4,10,A.F. Gheorghiță,,Vocotești,47.0799,27.4642
+723,24,IAȘI,VOINEŞTI,138,4,25,38,0,32,4,25,136,4,26,33,1,29,7,31,Școala Gimnazială „Ioanid Roamanescu” Voinești,,Voinești,47.072,27.4314
+724,24,IAȘI,VOINEŞTI,101,6,28,16,1,19,6,20,99,5,31,15,1,21,5,21,Școala Gimnazială „Ioanid Roamanescu” Voinești,,Voinești,47.072,27.4314
+725,24,IAȘI,VOINEŞTI,116,2,21,21,0,34,5,26,118,4,26,16,0,36,0,16,Școala Gimnazială „Ioanid Roamanescu” Voinești,,Voinești,47.072,27.4314
+297,24,IAȘI,ALEXANDRU I. CUZA,268,1,24,3,1,13,5,16,270,0,22,3,0,13,5,17,Școala Primară Volintiresti,,Volintirești,47.1684,26.8327
+524,24,IAȘI,MIROSLAVA,82,13,60,16,1,17,8,23,82,16,61,14,1,15,9,22,Școala Primară-Vorovesti,,Vorovești,47.1393,27.458
+564,24,IAȘI,POPRICANI,145,13,46,31,0,15,8,24,147,14,45,31,0,17,11,24,Școala Gimnazială Vinatori,,Vulturi,47.2409,27.532
+722,24,IAȘI,VLĂDENI,80,0,5,20,0,1,2,10,73,1,6,21,0,2,2,13,Școala Primară Vilcelele,,Vâlcelele,47.4353,27.3643
+563,24,IAȘI,POPRICANI,229,14,56,51,0,21,8,34,227,15,55,46,0,25,10,32,Școala Gimnazială Vinatori,,Vânători,47.2409,27.532
+713,24,IAȘI,VÎNĂTORI,277,2,23,8,0,4,11,25,280,3,23,7,0,6,11,26,Caminul Cultural Vinatori,,Vânători,47.3591,26.7618
+686,24,IAȘI,ŢIBĂNEŞTI,72,0,7,16,0,5,4,9,80,0,9,9,0,5,3,6,Grădinița cu Program Normal Vălenii,,Vălenii,46.8936,27.2805
+668,24,IAȘI,TRIFEŞTI,76,1,113,2,1,5,3,17,77,2,115,2,2,5,2,14,Școala Primară Zaboloteni,,Zaboloteni,47.4747,27.4923
+618,24,IAȘI,SCOBINŢI,169,10,37,7,0,13,9,23,174,16,30,7,0,15,6,17,"Sat .Zagavia, cu Sediul La Școala Zagavia",,Zagavia,47.4163,26.895
+383,24,IAȘI,COTNARI,102,1,20,23,0,2,4,13,105,1,17,21,0,6,5,11,Școala Zbereni,,Zbereni,47.3743,26.8424
+438,24,IAȘI,GORBAN,76,0,7,7,1,6,1,8,76,0,8,5,1,6,1,6,Școala Primară,,Zberoaia,46.9268,28.0393
+400,24,IAȘI,DAGÎŢA,36,3,43,10,2,4,36,61,42,2,44,11,1,2,41,53,Școala Primară Zece Prajini,,Zece Prăjini,46.9433,27.1768
+342,24,IAȘI,CEPLENIŢA,27,2,30,2,0,4,0,7,27,2,29,1,0,4,0,7,Grădinița cu Program Normal Zlodica,,Zlodica,47.368,26.9416
+505,24,IAȘI,LUNGANI,441,0,19,1,0,9,0,15,449,1,21,4,0,8,0,7,Grădinița din Cadrul Scolii Gimnaziale Zmeu,,Zmeu,47.1912,27.1775
+639,24,IAȘI,ŞCHEIA,189,6,31,8,0,5,8,19,189,6,27,10,1,9,8,14,Grup Scolar Scheia,Nr. 4,Șcheia,46.9285,27.5058
+712,24,IAȘI,VICTORIA,33,0,15,5,0,1,0,5,31,0,15,4,0,1,0,7,Școala Șendreni,,Șendreni,47.3568,27.5828
+348,24,IAȘI,CIORTEŞTI,101,6,160,3,0,6,2,16,97,7,152,4,0,5,4,22,Școala Gimanazială Șerbești,,Șerbești,46.8783,27.8475
+644,24,IAȘI,ŞIPOTE,159,2,23,38,0,10,7,16,161,4,21,38,0,11,9,17,Școala Gimnazială Sipote,,Șipote,47.4686,27.2152
+305,24,IAȘI,ARONEANU,37,6,66,27,0,2,3,8,39,8,66,25,0,3,2,4,Baza Sportivă Multifuncțională - Șorogari,,Șorogani,47.2034,27.5879
+671,24,IAȘI,ŢIBANA,124,4,19,16,0,20,11,24,128,4,21,10,0,18,14,27,Liceul Tehnologic de Industrie Alimentară Țibana,,Țibana,46.9847,27.3372
+680,24,IAȘI,ŢIBĂNEŞTI,188,6,22,62,0,15,7,16,192,7,31,45,0,15,7,18,Grădinița cu Program Normal Țibănești,,Țibănești,46.9074,27.3393
+681,24,IAȘI,ŢIBĂNEŞTI,204,6,27,61,0,12,6,18,206,4,34,57,0,14,6,13,Grădinița cu Program Normal Țibănești,,Țibănești,46.9074,27.3393
+693,24,IAȘI,ŢIGĂNĂŞI,257,11,23,32,0,8,5,20,263,11,23,29,0,10,6,18,Școala Gimnazială „Costache Antoniu” Tiganasi,,Țigănăși,47.332,27.4677
+561,24,IAȘI,POPRICANI,107,3,22,2,0,12,3,16,110,2,24,1,0,12,5,14,Școala Primară Tipilesti,,Țipilești,47.2999,27.4793
+694,24,IAȘI,ŢUŢORA,210,22,64,120,0,23,22,65,222,28,69,121,4,27,22,49,Școala Gimnazială Tutora,,Țuțora,47.1356,27.7944

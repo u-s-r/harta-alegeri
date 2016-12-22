@@ -1,0 +1,239 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+99,25,ILFOV,1 DECEMBRIE,345,113,105,27,0,28,11,47,370,112,104,33,0,28,14,23,"Școala Gimnazială nr. 1, Corp A",1 DECEMBRIE Str. Giurgiului nr. 220,1 Decembrie,44.2882,26.0597
+100,25,ILFOV,1 DECEMBRIE,244,43,59,16,0,14,15,29,242,44,59,17,0,14,18,24,"Școala Gimnazială nr. 1, Corp A",1 DECEMBRIE Str. Giurgiului nr. 220,1 Decembrie,44.2882,26.0597
+101,25,ILFOV,1 DECEMBRIE,344,43,63,31,0,19,35,52,344,37,75,34,1,15,37,48,"Școala Gimnazială nr. 1, Corp B",1 DECEMBRIE Str. 8 Martie nr. 12,1 Decembrie,44.2864,26.0509
+102,25,ILFOV,1 DECEMBRIE,311,41,42,29,0,12,20,37,315,42,44,28,0,11,20,30,"Școala Gimnazială nr. 1, Corp B",1 DECEMBRIE Str. 8 Martie nr. 12,Afumați,44.2864,26.0509
+103,25,ILFOV,AFUMAŢI,119,20,180,7,0,12,5,20,116,18,192,7,0,14,4,15,Școala Generală nr. 1,Șoseaua București-Urziceni nr. 130,Afumați,44.5234,26.2494
+104,25,ILFOV,AFUMAŢI,157,51,220,22,0,19,7,20,160,52,221,23,1,19,11,16,Școala Generală nr. 1 cu Clasele V-VIII,Șoseaua Petrachioaia nr. 10,Afumați,44.5271,26.2535
+105,25,ILFOV,AFUMAŢI,210,20,420,19,0,17,9,24,206,18,425,19,0,22,12,20,Școala Generală nr. 3 cu Clasele I-IV,Șoseaua București-Urziceni nr. 228,Afumați,44.5229,26.2612
+106,25,ILFOV,AFUMAŢI,201,30,348,26,1,22,11,24,205,34,351,31,2,16,13,19,Școala Generală nr. 2 cu Clasele I-IV,Str. Școlii nr. 35,Afumați,44.5319,26.2429
+107,25,ILFOV,AFUMAŢI,140,43,256,22,2,34,12,37,146,47,256,26,1,28,12,28,Școala cu Clasele I-IV,Nr. 130,Afumați,44.5233,26.249
+36,25,ILFOV,ORAŞ MĂGURELE,147,33,161,52,0,12,12,24,148,35,159,50,0,9,13,22,Clădire Parc Aluniș,Str. Aluniș nr. 99,Alunișu,44.3409,26.05
+108,25,ILFOV,BALOTEŞTI,256,109,88,36,0,29,12,25,255,110,84,40,1,31,13,19,Căminul Cultural,Nr. 10,Balotești,44.6263,26.1106
+109,25,ILFOV,BALOTEŞTI,223,49,86,27,3,19,14,28,230,56,82,32,2,20,9,13,Școala nr. 1 Balotești,Șoseaua Unirii nr. 6,Balotești,44.6106,26.0742
+110,25,ILFOV,BALOTEŞTI,212,49,56,35,0,12,11,21,212,51,58,35,0,11,12,19,Școala nr. 1 Balotești,Șoseaua Unirii nr. 6,Balotești,44.6106,26.0742
+111,25,ILFOV,BALOTEŞTI,416,146,155,62,1,34,17,48,420,155,144,64,2,42,19,29,Școala nr. 3 Balotești,Șoseaua Unirii nr. 224,Balotești,44.6235,26.111
+113,25,ILFOV,BERCENI,332,126,147,32,0,27,12,40,335,128,162,30,1,29,8,23,Grădinița cu Program Prelungit nr. 2,Bulevardul 1 Mai nr. 161,Berceni,44.3157,26.1854
+114,25,ILFOV,BERCENI,442,41,140,24,1,15,6,20,430,44,160,24,1,11,8,17,Grădinița cu Program Prelungit nr. 2,Bulevardul 1 Mai nr. 161,Berceni,44.3157,26.1854
+115,25,ILFOV,BERCENI,397,123,189,30,0,40,25,55,397,113,218,33,0,35,22,41,Școala Gimnazială nr. 1,Bulevardul 1 Mai nr. 264,Berceni,44.3087,26.1887
+1,25,ILFOV,ORAŞ BRAGADIRU,300,70,266,31,1,19,20,41,293,66,270,32,1,22,25,39,Școala Gimnazială nr. 1 Bragadiru,Șoseaua Alexandriei nr. 243A,Bragadiru,44.3704,25.9763
+2,25,ILFOV,ORAŞ BRAGADIRU,352,64,300,28,2,35,22,46,348,69,298,28,0,38,24,40,Școala Gimnazială nr. 1 Bragadiru,Șoseaua Alexandriei nr. 243 A,Bragadiru,44.3704,25.9763
+3,25,ILFOV,ORAŞ BRAGADIRU,216,72,265,35,2,28,10,33,221,71,270,36,1,27,13,25,Școala Gimnazială nr. 1 Bragadiru,Șoseaua Alexandriei nr. 243 A,Bragadiru,44.3704,25.9763
+4,25,ILFOV,ORAŞ BRAGADIRU,168,46,240,15,1,16,19,34,165,47,239,23,0,17,22,28,Școala Gimnazială nr. 1 Bragadiru,Șoseaua Alexandriei nr. 243 A,Bragadiru,44.3704,25.9763
+5,25,ILFOV,ORAŞ BRAGADIRU,216,79,249,45,2,23,17,39,225,79,243,53,1,21,19,31,Școala Gimnazială nr. 1 Bragadiru,Șoseaua Alexandriei nr. 243 A,Bragadiru,44.3704,25.9763
+6,25,ILFOV,ORAŞ BRAGADIRU,216,290,141,43,2,41,20,48,218,302,144,42,2,42,19,30,Școala GAD Special Construct S.R.L.,"Str. Verii (D) nr. 40, Bloc F4",Bragadiru,44.406,25.9897
+7,25,ILFOV,ORAŞ BRAGADIRU,200,277,162,53,1,48,16,48,198,286,159,57,1,47,20,41,Școala GAD Special Construct S.R.L.,"Str. Verii nr. 40, Bloc F 4",Bragadiru,44.3798,25.9864
+8,25,ILFOV,ORAŞ BRAGADIRU,206,123,148,29,0,36,16,38,211,119,152,34,1,37,16,25,S.C. Bandkopp Fasteners Import Export S.R.L.,Șoseaua Alexandriei nr. 116-118,Bragadiru,44.3858,26.0137
+9,25,ILFOV,ORAŞ BRAGADIRU,284,251,196,73,1,54,24,57,289,259,199,71,1,49,30,46,Grădinița Piticii Nostri,Str. Smîrdan nr. 10,Bragadiru,44.385,26.0139
+116,25,ILFOV,BRĂNEŞTI,139,13,83,12,2,17,11,18,144,18,79,12,1,13,13,14,Școala Gimnazială nr. 1,Str. Slt. Petre Ionel (Str. 23 August) nr. 147,Brănești,44.4569,26.3365
+117,25,ILFOV,BRĂNEŞTI,210,63,178,36,0,28,18,43,214,62,175,30,0,40,18,37,Școala Generală din Cartierul Băjenari,Str. Mihail Eminescu (Intrarea Mihail Eminescu) nr. 37,Brănești,44.4531,26.3388
+118,25,ILFOV,BRĂNEŞTI,255,36,120,24,1,19,9,17,255,38,125,22,0,24,10,12,Școala Gimnazială nr. 1 Branesti,Str. Slt. Petre Ionel (Str. 23 August) nr. 147,Brănești,44.4569,26.3365
+119,25,ILFOV,BRĂNEŞTI,295,82,207,28,0,48,27,49,306,88,208,29,0,43,25,32,Liceul Teoretic „Traian Lalescu”,Str. Slt. Petre Ionel (Str. 23 August) nr. 2,Brănești,44.4635,26.3279
+10,25,ILFOV,ORAŞ BUFTEA,325,76,104,42,0,22,25,43,322,72,108,46,1,28,27,36,Școala Gimnazială nr. 1 Buftea,Aleea Școlii nr. 2,Buftea,44.5733,25.9399
+11,25,ILFOV,ORAŞ BUFTEA,315,99,145,58,2,38,30,60,316,106,152,55,0,43,37,51,Școala Gimnazială nr. 1 Buftea,Aleea Școlii nr. 2,Buftea,44.5733,25.9399
+12,25,ILFOV,ORAŞ BUFTEA,277,64,133,32,1,29,18,45,283,67,135,33,1,28,21,34,Școala Gimnazială nr. 1 Buftea,Aleea Școlii nr. 2,Buftea,44.5733,25.9399
+13,25,ILFOV,ORAŞ BUFTEA,185,55,116,14,0,18,8,21,194,55,112,15,2,17,9,17,Liceul Tehnologic „Dumitru Dumitrescu” Buftea,Șoseaua București-Tîrgoviște nr. 135,Buftea,44.5712,25.9423
+14,25,ILFOV,ORAŞ BUFTEA,219,70,131,27,0,28,21,39,218,72,134,29,0,26,20,34,Școala Gimnazială nr. 2 Buftea,Str. Știrbei Vodă (Str. 16 Februarie) nr. 22,Buftea,44.5604,25.9442
+15,25,ILFOV,ORAŞ BUFTEA,308,109,120,36,0,49,30,54,318,105,123,39,0,44,32,48,Școala Gimnazială nr. 2 Buftea,Str. Știrbei Vodă (Str. 16 Februarie) nr. 22,Buftea,44.5604,25.9442
+16,25,ILFOV,ORAŞ BUFTEA,293,71,132,45,0,28,16,40,287,70,134,44,2,30,21,36,Școala Gimnazială nr. 2 Buftea,Str. Știrbei Vodă (Str. 16 Februarie) nr. 22,Buftea,44.5604,25.9442
+17,25,ILFOV,ORAŞ BUFTEA,252,102,158,23,0,40,24,51,249,102,163,28,1,47,22,39,Școala Gimnazială nr. 2 Buftea,Str. Știrbei Vodă (Str. 16 Februarie) nr. 22,Buftea,44.5604,25.9442
+18,25,ILFOV,ORAŞ BUFTEA,147,26,177,29,0,11,5,17,154,27,177,25,0,11,7,13,Școala Gimnazială nr. 4 Buftea,Str. Agricultori nr. 116,Buftea,44.5426,25.9568
+19,25,ILFOV,ORAŞ BUFTEA,186,16,259,13,1,15,13,30,184,20,257,16,1,14,13,22,Sediu Târg - Primăria Buftea,Șoseaua București-Tîrgoviște nr. 14,Buftea,44.5497,25.9629
+20,25,ILFOV,ORAŞ BUFTEA,318,97,158,49,0,43,19,53,318,94,158,48,2,56,19,36,Școala Gimnazială nr. 3 Buftea,Str. Independenței nr. 52,Buftea,44.5594,25.9307
+21,25,ILFOV,ORAŞ BUFTEA,198,46,103,14,1,24,9,15,203,45,97,15,3,26,13,13,Liceul Tehnologic „Dumitru Dumitrescu” Buftea,Șoseaua București-Tîrgoviște nr. 135,Buftea,44.5712,25.9423
+22,25,ILFOV,ORAŞ BUFTEA,54,3,33,11,0,13,2,6,53,2,31,13,0,10,5,7,Proprietate Privată: Tutunaru Gheorghe,Str. Răsăritului nr. 11,Buftea,44.5322,25.9351
+213,25,ILFOV,PERIŞ,163,17,243,8,0,29,8,18,163,19,246,10,0,28,8,12,Școala nr. 4 Buriaș,Str. Învățător Gheorghe Petre nr. 105,Buriaș,44.7353,25.9845
+214,25,ILFOV,PERIŞ,69,14,97,6,0,16,4,20,74,13,98,5,0,16,5,17,Școala nr. 5 Bălteni,Șoseaua Bălteni nr. 15,Bălteni,44.7091,26.0281
+125,25,ILFOV,CERNICA,213,14,262,11,0,22,4,8,209,13,268,13,0,23,3,4,Școala Gimnazială nr. 3,Șoseaua Gării nr. 5-7,Bălăceanca,44.3934,26.2908
+126,25,ILFOV,CERNICA,245,8,194,19,1,19,4,15,241,11,196,19,2,21,3,7,Școala Gimnazială nr. 3,Șoseaua Gării nr. 5-7,Bălăceanca,44.3934,26.2908
+122,25,ILFOV,CERNICA,150,27,233,19,1,12,6,13,153,25,236,21,0,13,4,11,Școala Gimnazială nr. 1,Str. Traian nr. 19,Cernica,44.4166,26.2843
+123,25,ILFOV,CERNICA,148,11,256,15,0,6,4,9,149,13,254,14,0,6,5,7,Școala Gimnazială nr. 1,Str. Traian nr. 19,Cernica,44.4166,26.2843
+124,25,ILFOV,CERNICA,121,5,310,6,0,8,5,12,127,5,304,7,0,8,7,14,Școala Gimnazială nr. 1,Str. Traian nr. 19,Cernica,44.4166,26.2843
+130,25,ILFOV,CHIAJNA,204,104,129,46,1,393,12,23,201,104,128,51,2,391,19,23,Sala Sport Concordia,,Chiajna,44.4631,25.9766
+131,25,ILFOV,CHIAJNA,269,104,104,37,0,419,18,42,269,104,105,37,4,418,19,36,Sala Sport Concordia,Str. Drumul Gării (Drumul Gării) (D) nr. 1-3,Chiajna,44.4631,25.9766
+23,25,ILFOV,ORAŞ CHITILA,271,42,209,17,0,15,9,24,266,43,217,18,0,17,8,14,Grădinița cu Program Prelungit „Voinicel”,Șoseaua Banatului nr. 2,Chitila,44.501,25.9969
+24,25,ILFOV,ORAŞ CHITILA,339,68,186,36,3,38,18,42,332,67,190,38,3,41,20,41,Școala Gimnazială cu Clasele I-VIII nr. 1 „Prof.Ion Vișoiu”,Șoseaua Banatului nr. 75,Chitila,44.5038,25.9875
+25,25,ILFOV,ORAŞ CHITILA,220,164,267,30,0,46,21,45,224,159,271,33,0,45,24,39,Școala Gimnazială cu Clasele I-VIII nr. 1 „Prof. Ion Vișoiu”,Șoseaua Banatului nr. 75,Chitila,44.5038,25.9875
+27,25,ILFOV,ORAŞ CHITILA,278,82,244,46,0,30,23,48,280,84,237,45,0,36,30,50,Casa de Cultură „Tudor Arghezi”,Șoseaua Banatului nr. 46 - 48,Chitila,44.507,25.9853
+28,25,ILFOV,ORAŞ CHITILA,227,40,150,23,1,26,12,17,223,40,144,27,0,29,14,17,Școala Gimnazială cu Clasele I- VIII nr. 1 „Prof. Ion Vișoiu”,Str. Ion Olteanu nr. 2,Chitila,44.5087,25.9832
+29,25,ILFOV,ORAŞ CHITILA,140,75,155,21,1,27,8,22,140,78,154,23,0,31,8,15,"Școala Gimnazială cu Clasele I-VIII nr. 1 Prof. Ion Visoiu, Structura cu Clasele I-IV și Grupe de Prescolari Ion Olteanu-Chitila",Str. Ion Olteanu (Str. Sfatului) (D) nr. 2,Chitila,44.5087,25.9832
+30,25,ILFOV,ORAŞ CHITILA,179,40,153,27,0,14,17,23,180,42,151,25,0,16,15,22,Școala Gimnazială cu Clasele I- VIII nr. 1 „Prof. Ion Vișoiu”,Str. Școlii (D) nr. 36,Chitila,44.4994,25.9811
+31,25,ILFOV,ORAŞ CHITILA,151,27,134,25,1,15,11,20,151,26,141,23,2,16,14,16,Grădinița „Prichindel”,Str. Școlii (D) nr. 36,Chitila,44.4991,25.981
+222,25,ILFOV,SNAGOV,178,42,110,33,0,27,11,32,177,44,105,36,1,30,14,22,Grădinița nr. 1 Ciofliceni,Str. Mircea cel Bătrân (Str. Mircea cel Bătrîn) nr. 16,Ciofliceni,44.6865,26.1203
+139,25,ILFOV,CIOLPANI,218,30,257,48,1,87,10,31,232,34,257,45,1,88,7,20,Căminul Cultural Ciolpani,Nr. 15,Ciolpani,44.7255,26.0897
+143,25,ILFOV,CIOROGÎRLA,202,45,154,18,0,19,2,17,201,51,151,16,0,21,6,15,Școala nr. 1 Ciorogîrla,Nr. 110,Ciorogârla,44.4437,25.8827
+144,25,ILFOV,CIOROGÎRLA,265,55,156,39,0,26,14,26,265,48,164,40,1,33,12,23,Școala nr. 1 Ciorogârla,Șoseaua București nr. 110,Ciorogârla,44.4437,25.8827
+146,25,ILFOV,CLINCENI,293,75,309,49,1,34,17,43,297,78,310,48,3,33,20,32,Liceul Sportiv Clinceni,Str. Monumentul Eroilor nr. 120,Clinceni,44.3724,25.9505
+147,25,ILFOV,CLINCENI,333,52,538,34,3,22,20,49,320,61,540,35,2,35,22,37,Liceul Sportiv Clinceni,Str. Principală nr. 107,Clinceni,44.3783,25.942
+149,25,ILFOV,COPĂCENI,456,33,57,20,0,17,8,21,457,34,59,24,0,14,10,17,Așezământul Social al Bisericii Sf. Dumitru,Șoseaua Principală (Str. Principală) (D) nr. 198,Copăceni,44.2717,26.0804
+150,25,ILFOV,COPĂCENI,334,10,28,12,0,9,2,5,325,11,32,15,1,7,4,5,Școala Gimnazială nr. 1,Șoseaua Principală (Str. Principală) (D) nr. 509,Copăceni,44.2581,26.0949
+151,25,ILFOV,CORBEANCA,119,49,49,58,0,12,8,28,124,49,47,60,0,18,5,17,Școala Gimnazială nr. 1,Str. Independenței nr. 15,Corbeanca,44.5961,26.0385
+152,25,ILFOV,CORBEANCA,110,191,100,88,4,46,23,43,109,191,103,92,5,48,20,29,Școala Gimnazială nr. 1,Nr. 15,Corbeanca,44.5961,26.0385
+156,25,ILFOV,CORNETU,141,37,102,19,0,38,10,15,140,39,100,20,0,36,12,14,Școala Gimnazială nr. 1,Șoseaua Alexandriei nr. 179,Cornetu,44.3421,25.9427
+157,25,ILFOV,CORNETU,127,31,76,18,0,37,8,19,127,29,76,18,0,38,15,21,Școala Gimnazială nr. 1,Șoseaua Alexandriei nr. 179,Cornetu,44.3421,25.9427
+158,25,ILFOV,CORNETU,150,14,84,23,0,28,7,8,147,15,83,25,0,29,9,10,Școala Gimnazială nr. 1,Șoseaua Alexandriei nr. 179,Cornetu,44.3421,25.9427
+159,25,ILFOV,CORNETU,142,24,105,22,0,32,11,15,136,26,106,21,0,33,12,15,Școala Gimnazială nr. 1,Șoseaua Alexandriei nr. 179,Cornetu,44.3421,25.9427
+160,25,ILFOV,CORNETU,167,21,101,16,0,51,14,23,170,19,106,18,0,44,16,20,Școala Gimnazială nr. 1,Șoseaua Alexandriei nr. 179,Cornetu,44.3421,25.9427
+181,25,ILFOV,GĂNEASA,69,0,133,1,1,4,2,7,68,2,137,1,0,4,3,3,Școala Cozieni,Str. Mânăstirii nr. 2A,Cozieni,44.4779,26.3024
+235,25,ILFOV,VIDRA,153,9,123,12,0,19,0,14,152,11,123,13,0,18,0,9,Școala Generală nr. 302 Crețești,Str. Principală nr. 203,Crețești,44.2822,26.1343
+236,25,ILFOV,VIDRA,111,14,119,10,0,10,5,10,111,13,122,9,0,10,5,9,Școala Generală nr. 302 Crețești,Str. Principală nr. 203,Crețești,44.2822,26.1343
+226,25,ILFOV,ŞTEFĂNEŞTII DE JOS,307,10,147,65,1,20,12,32,319,12,142,61,2,26,16,20,Școala nr. 1 cu Clasele I-VIII,Str. Dudului nr. 10,Crețuleasca,44.5338,26.1855
+202,25,ILFOV,MOARA VLĂSIEI,161,37,403,19,0,22,7,25,166,32,419,16,1,21,11,20,Școala Gimnazială nr. 3 „Al. Dimitrie Ghica”,Șoseaua Unirii nr. 146,Căciulați,44.6271,26.1681
+127,25,ILFOV,CERNICA,168,16,230,18,0,17,9,17,172,16,227,13,1,18,12,16,Grădinița nr. 5,Str. Bisericii nr. 18,Căldăraru,44.4116,26.2617
+187,25,ILFOV,GLINA,177,38,151,29,0,19,15,28,179,36,150,35,0,18,17,22,Școala nr. 2,Str. Libertății nr. 130,Cățelu,44.4022,26.2176
+188,25,ILFOV,GLINA,144,25,68,23,0,17,8,16,147,27,66,24,0,18,11,14,Școala nr. 2,Str. Libertății nr. 130,Cățelu,44.4022,26.2176
+161,25,ILFOV,DASCĂLU,271,27,241,17,2,24,7,22,275,29,246,18,3,25,9,12,Școala Gimnazială Dascălu,Str. Victoriei nr. 99,Dascălu,44.6029,26.2224
+165,25,ILFOV,DOBROEŞTI,260,79,87,33,1,34,14,35,250,77,91,41,3,43,11,22,Școala nr. 1 Dobroești,Nr. 16-18,Dobroești,44.4518,26.1797
+166,25,ILFOV,DOBROEŞTI,278,107,76,41,1,60,20,46,265,113,79,43,0,62,26,42,Școala nr. 1 Dobroești,Nr. 16-18,Dobroești,44.4518,26.1797
+167,25,ILFOV,DOBROEŞTI,227,49,49,37,1,47,26,45,233,52,54,34,0,44,32,40,Școala nr. 1 Dobroești,Nr. 16-18,Dobroești,44.4518,26.1797
+170,25,ILFOV,DOMNEŞTI,201,54,275,56,0,21,15,35,202,54,276,58,0,24,12,30,Căminul Cultural Domnești,Șoseaua Alexandru Ioan Cuza nr. 33,Domnești,44.3991,25.9139
+171,25,ILFOV,DOMNEŞTI,197,81,210,30,0,23,13,27,201,79,218,30,0,22,12,21,Căminul Cultural Domnești,Șoseaua Alexandru Ioan Cuza nr. 33,Domnești,44.3991,25.9139
+172,25,ILFOV,DOMNEŞTI,222,106,175,34,0,23,9,34,221,104,177,37,0,25,12,31,Școala Gimnazială nr. 1 - Școala Mare,Șoseaua Alexandru Ioan Cuza nr. 85,Domnești,44.3972,25.9173
+173,25,ILFOV,DOMNEŞTI,247,43,319,32,2,15,12,30,246,44,314,41,2,17,13,25,Școala Primară nr. 1 - Școala Băleanu,Șoseaua Alexandru Ioan Cuza nr. 141,Domnești,44.3972,25.9173
+175,25,ILFOV,DRAGOMIREŞTI-VALE,214,38,221,25,0,31,10,25,210,35,228,24,0,33,13,21,Școala Generală nr. 2,Str. Școlii nr. 2,Dragomirești-Deal,44.4609,25.9423
+178,25,ILFOV,DRAGOMIREŞTI-VALE,190,26,159,16,2,28,6,21,169,28,175,23,2,32,8,14,Școala Veche,Str. Păcii nr. 40-41,Dragomirești-Deal,44.4609,25.9423
+177,25,ILFOV,DRAGOMIREŞTI-VALE,173,63,238,22,0,25,12,26,166,61,244,17,1,31,12,25,Grupul Școlar „Vintilă Brătianu”,Str. Micșunelelor nr. 165,Dragomirești-Vale,44.4609,25.9423
+132,25,ILFOV,CHIAJNA,197,208,102,46,0,293,18,44,194,206,111,49,1,289,22,36,Sala de Sport Concordia Chiajna,,Dudu,44.4602,25.9872
+39,25,ILFOV,ORAŞ MĂGURELE,187,32,158,18,1,16,8,16,189,31,164,18,0,19,9,15,Școala Primară nr. 2 Dumitrana,Str. Duzilor nr. 131,Dumitrana,44.3222,25.9975
+145,25,ILFOV,CIOROGÎRLA,185,21,116,55,0,9,5,14,185,20,116,67,0,12,5,8,Școala nr. 2 Dârvari,Nr. 31,Dârvari,44.4205,25.8789
+163,25,ILFOV,DĂRĂŞTI-ILFOV,147,18,207,22,2,36,3,12,153,18,199,21,2,36,4,12,Școala Generală nr. 1,Nr. 5,Dărăști-Ilfov,44.3097,26.0186
+164,25,ILFOV,DĂRĂŞTI-ILFOV,287,7,220,23,0,10,7,12,302,8,215,21,1,9,6,9,Școala Generală nr. 1,Nr. 5,Dărăști-Ilfov,44.3097,26.0186
+168,25,ILFOV,DOBROEŞTI,315,185,117,50,3,38,19,38,317,190,118,47,1,38,24,34,Școala nr. 2 Fundeni,Șoseaua Fundeni nr. 134,Fundeni,44.4563,26.1639
+169,25,ILFOV,DOBROEŞTI,222,80,72,38,0,22,13,25,222,82,72,38,1,24,12,21,Școala nr. 2 Fundeni,Șoseaua Fundeni nr. 134,Fundeni,44.4563,26.1639
+162,25,ILFOV,DASCĂLU,82,18,62,5,0,5,1,6,84,17,64,5,1,7,1,4,Grădinița nr. 2 Gagu,Str. Putna nr. 12,Gagu,44.6157,26.2584
+220,25,ILFOV,SNAGOV,272,50,121,62,1,21,14,32,279,54,122,61,0,22,18,26,Casa de Cultură Ghermănești,Aleea Islaz nr. 3,Ghermănești,44.6901,26.1434
+221,25,ILFOV,SNAGOV,226,53,103,68,1,28,6,23,226,50,109,69,1,30,11,23,Casa de Cultură Ghermănești,Aleea Islaz nr. 3,Ghermănești,44.6901,26.1434
+184,25,ILFOV,GLINA,178,22,181,40,0,25,4,22,186,22,192,40,0,24,3,14,Școala nr. 1,Str. Parcului nr. 1,Glina,44.3849,26.2475
+185,25,ILFOV,GLINA,140,53,165,25,2,17,15,27,152,49,165,26,0,18,17,19,Școala nr. 1,Str. Parcului nr. 1,Glina,44.3849,26.2475
+186,25,ILFOV,GLINA,136,2,303,18,1,4,4,12,145,2,304,17,1,5,3,5,Școala nr. 3,Str. Libertății (Șoseaua Libertății) nr. 202,Glina,44.3858,26.2324
+192,25,ILFOV,GRUIU,219,22,293,21,0,17,8,15,226,20,292,19,0,18,9,13,Școala de 4 Ani,Șoseaua Gruiu-Snagov nr. 206,Gruiu,44.7249,26.2344
+189,25,ILFOV,GRĂDIŞTEA,257,9,272,19,1,20,22,35,252,9,282,17,0,27,20,27,Căminul Cultural Multifuncțional,Nr. 137,Grădiștea,44.6615,26.2972
+179,25,ILFOV,GĂNEASA,88,22,131,10,2,9,2,6,87,22,130,12,1,8,3,5,Școala Găneasa,Str. Ștefan cel Mare nr. 43,Găneasa,44.4919,26.2838
+121,25,ILFOV,BRĂNEŞTI,253,20,111,26,0,16,5,19,267,20,113,26,0,15,3,9,Grădinița nr. 1,Str. 24 Ianuarie (Str. Steaua Roșie) nr. 28A,Islaz,44.4612,26.3857
+142,25,ILFOV,CIOLPANI,67,16,44,30,2,22,6,18,70,17,46,31,1,20,8,14,Școala Generală cu Clasele I-IV,Str. Vintilă Brătianu nr. 12,Izvorani,44.6985,26.1197
+195,25,ILFOV,JILAVA,212,25,156,24,5,33,15,25,203,23,160,28,3,26,26,37,S.C. Progresu S.A.,Șoseaua Giurgiului nr. 5,Jilava,44.3611,26.088
+196,25,ILFOV,JILAVA,220,41,128,26,2,28,13,29,223,44,124,30,1,28,17,24,Școala nr. 2,Str. Odăi nr. 142,Jilava,44.3378,26.0691
+197,25,ILFOV,JILAVA,297,43,173,40,0,28,22,53,305,41,170,40,0,31,27,47,Școala nr. 1,Șoseaua Giurgiului nr. 266,Jilava,44.3331,26.0779
+198,25,ILFOV,JILAVA,377,72,85,72,1,27,32,89,409,72,89,75,5,33,36,53,Școala nr. 3,Str. Verii nr. 33,Jilava,44.3287,26.0877
+199,25,ILFOV,JILAVA,226,24,85,60,0,26,19,48,245,23,88,64,0,33,13,17,Incinta Fostului Cap,Șoseaua Giurgiului nr. 288,Jilava,44.3302,26.0763
+191,25,ILFOV,GRUIU,288,12,272,23,0,24,7,20,281,14,287,21,2,20,8,19,Grădinița de Copii,Șoseaua Lipia-Nuci nr. 102,Lipia,44.7142,26.2602
+141,25,ILFOV,CIOLPANI,132,21,198,21,1,42,16,29,133,25,198,19,1,42,18,26,Școala Generală cu Clasele I-IV Ciolpani,Nr. 4,Lupăria,44.7386,26.1142
+209,25,ILFOV,NUCI,106,14,294,18,2,8,7,12,108,15,297,20,3,9,6,14,Școala din Satul Merii Petchii,Str. Crinilor nr. 72,Merii Petchii,44.7347,26.2991
+208,25,ILFOV,NUCI,187,10,400,13,1,11,9,18,189,11,399,14,0,12,10,14,Școala din Satul Micșuneștii-Moară,Str. Viitorului nr. 2,Micșuneștii-Moară,44.7012,26.3246
+180,25,ILFOV,GĂNEASA,75,22,117,6,0,5,4,12,73,23,119,7,0,5,5,12,Școala Moara Domnească,Str. P. Kontszbuie nr. 4,Moara Domnească,44.4943,26.257
+200,25,ILFOV,MOARA VLĂSIEI,196,40,402,26,0,25,6,18,200,41,404,25,0,24,8,10,Școala Gimnazială nr. 2 Moara Vlasiei,Șoseaua Eroilor nr. 282,Moara Vlăsiei,44.6434,26.2265
+201,25,ILFOV,MOARA VLĂSIEI,229,18,320,23,2,13,8,17,231,24,319,22,1,13,11,13,Școala Gimnazială nr. 1 Moara Vlasiei,Șoseaua Eroilor nr. 127,Moara Vlăsiei,44.6409,26.2071
+203,25,ILFOV,MOGOŞOAIA,151,96,189,27,0,38,31,51,154,89,190,32,0,36,30,50,Școala Generală nr. 1,Șoseaua București-Tîrgoviște nr. 107,Mogoșoaia,44.5283,26.0005
+204,25,ILFOV,MOGOŞOAIA,141,59,250,12,0,19,16,27,149,64,242,13,2,18,17,22,Școala Generală nr. 1,Nr. 107,Mogoșoaia,44.5283,26.0005
+205,25,ILFOV,MOGOŞOAIA,116,75,152,25,0,26,10,19,118,80,156,21,0,23,11,17,Școala Generală nr. 1,Șoseaua București-Tîrgoviște nr. 107,Mogoșoaia,44.5283,26.0005
+206,25,ILFOV,MOGOŞOAIA,106,38,333,18,0,30,10,21,104,42,333,18,2,37,9,14,Școala Gimnazială nr. 1 Mogosoaia,Șoseaua București-Tîrgoviște nr. 107,Mogoșoaia,44.5312,25.9984
+207,25,ILFOV,MOGOŞOAIA,162,234,247,49,0,34,24,52,164,242,247,55,1,33,22,42,Școala Gimnazială nr. 1 Mogosoaia,Șoseaua București-Tîrgoviște nr. 107,Mogoșoaia,44.5244,26.0052
+32,25,ILFOV,ORAŞ MĂGURELE,222,68,189,30,1,26,6,13,222,69,190,30,1,23,9,14,Grădinița nr. 2 Magurele,Str. Călugăreni nr. 8,Măgurele,44.3489,26.0291
+33,25,ILFOV,ORAŞ MĂGURELE,186,80,178,19,1,23,20,26,192,69,188,18,1,28,17,21,Liceul Teoretic „Horia Hulubei”,Str. Fizicienilor nr. 42,Măgurele,44.3498,26.0276
+34,25,ILFOV,ORAŞ MĂGURELE,210,97,204,57,0,44,14,43,209,101,200,64,2,52,14,29,Primăria Orașului Măgurele,Str. Călugăreni nr. 2-4,Măgurele,44.3496,26.0294
+35,25,ILFOV,ORAŞ MĂGURELE,155,44,79,18,0,19,8,19,157,48,77,18,1,19,10,16,Primăria Orașului Măgurele,Str. Călugăreni nr. 2-4,Măgurele,44.3496,26.0294
+216,25,ILFOV,PETRĂCHIOAIA,27,2,143,7,0,3,3,4,32,2,149,2,0,3,3,3,Structura cu Clasele I-IV și Grupe de PreȘcolari,Nr. 13,Măineasca,44.5744,26.3471
+40,25,ILFOV,ORAŞ OTOPENI,185,200,286,46,2,35,32,70,206,212,240,54,1,47,26,52,Grădiniția cu Program Prelungit nr. 2,Str. Școlii nr. 6,Odăile,44.5339,26.0547
+148,25,ILFOV,CLINCENI,218,88,326,53,0,23,18,44,222,88,321,56,1,25,23,36,Liceul Sportiv Clinceni,Str. Ciorogârlei (Str. Ciorogîrlei) nr. 10,Olteni,44.3932,25.9488
+154,25,ILFOV,CORBEANCA,92,255,91,71,1,38,10,27,95,245,95,75,2,40,11,25,Clădirea After School,Str. Primăverii nr. 32,Ostratu,44.6041,26.0141
+41,25,ILFOV,ORAŞ OTOPENI,141,130,245,33,6,32,9,25,152,141,207,35,5,44,11,23,Liceul Teoretic „Ioan Petruș”,Str. 23 August nr. 6,Otopeni,44.551,26.0708
+42,25,ILFOV,ORAŞ OTOPENI,143,71,198,20,0,28,15,26,160,73,172,23,0,32,19,26,Liceul Teoretic „Ioan Petruș”,Str. 23 August nr. 6,Otopeni,44.551,26.0708
+43,25,ILFOV,ORAŞ OTOPENI,100,77,259,26,5,36,8,18,126,92,218,29,4,31,9,17,Liceul Teoretic „Ioan Petruș”,Str. 23 August nr. 6,Otopeni,44.551,26.0708
+44,25,ILFOV,ORAŞ OTOPENI,104,50,261,23,0,7,12,28,135,57,223,25,1,8,17,22,Liceul Teoretic „Ioan Petruș”,Str. 23 August nr. 6,Otopeni,44.551,26.0708
+45,25,ILFOV,ORAŞ OTOPENI,152,76,305,22,0,26,16,34,179,90,261,27,0,26,21,32,Primăria Orașului Otopeni,Str. 23 August nr. 10,Otopeni,44.5507,26.0734
+46,25,ILFOV,ORAŞ OTOPENI,127,70,314,12,1,21,11,27,143,85,268,15,2,29,19,26,Primăria Orașului Otopeni,Str. 23 August nr. 10,Otopeni,44.5507,26.0734
+47,25,ILFOV,ORAŞ OTOPENI,136,109,389,31,1,35,28,48,157,117,350,38,1,37,27,42,Sala de Sport Otopeni,Str. Garofițelor nr. 8,Otopeni,44.5495,26.0729
+48,25,ILFOV,ORAŞ OTOPENI,253,250,387,40,0,36,17,45,274,258,340,49,0,41,26,46,Grădinița cu Program Normal nr. 2,Str. 23 August nr. 99,Otopeni,44.5534,26.0861
+49,25,ILFOV,ORAŞ OTOPENI,121,64,130,40,1,42,13,21,122,70,119,43,0,46,16,21,Proprietate Privată: Farr Mihaela Dana,Calea Bucureștilor (Bulevardul R. S. R.) nr. 244,Otopeni,44.5809,26.071
+50,25,ILFOV,ORAŞ PANTELIMON,279,54,68,28,2,28,19,33,278,54,75,24,1,36,23,28,Școala Generală nr. 1,Str. Mioriței nr. 24A,Pantelimon,44.4524,26.2055
+51,25,ILFOV,ORAŞ PANTELIMON,267,47,65,19,1,13,11,26,265,46,66,19,1,18,12,23,Școala Generală nr. 1,Str. Mioriței nr. 24A,Pantelimon,44.4482,26.2099
+52,25,ILFOV,ORAŞ PANTELIMON,259,89,52,44,0,24,15,36,261,86,58,44,0,31,16,25,Școala Generală nr. 1,Str. Mioriței nr. 24A,Pantelimon,44.4524,26.2055
+53,25,ILFOV,ORAŞ PANTELIMON,251,61,52,24,0,29,16,28,249,62,53,21,1,35,18,24,Școala Generală nr. 1,Str. Mioriței nr. 24A,Pantelimon,44.4524,26.2055
+54,25,ILFOV,ORAŞ PANTELIMON,269,39,59,16,1,14,7,31,271,41,59,17,3,19,10,21,Școala Generală nr. 1,Str. Mioriței nr. 24A,Pantelimon,44.4524,26.2055
+55,25,ILFOV,ORAŞ PANTELIMON,219,46,55,22,1,16,13,28,218,50,50,20,1,25,13,21,Școala Generală nr. 1,Str. Mioriței nr. 24A,Pantelimon,44.4482,26.2099
+56,25,ILFOV,ORAŞ PANTELIMON,211,22,40,20,0,10,9,23,205,18,50,21,1,13,14,16,Școala Generală nr. 1,Str. Mioriței nr. 24A,Pantelimon,44.4524,26.2055
+57,25,ILFOV,ORAŞ PANTELIMON,365,41,97,37,1,18,13,33,355,42,95,34,0,35,18,29,Școala Generală nr. 1,Bulevardul Biruinței nr. 70,Pantelimon,44.4524,26.2055
+58,25,ILFOV,ORAŞ PANTELIMON,250,59,94,40,1,26,18,32,259,59,88,40,1,30,17,25,Școala Generală nr. 1,Bulevardul Biruinței nr. 70,Pantelimon,44.4524,26.2055
+59,25,ILFOV,ORAŞ PANTELIMON,312,105,121,55,1,44,25,55,319,105,108,61,2,51,28,51,Școala Generală nr. 1,Bulevardul Biruinței nr. 70,Pantelimon,44.4524,26.2055
+60,25,ILFOV,ORAŞ PANTELIMON,236,49,82,18,1,14,3,15,230,43,91,19,1,19,7,14,Grădinița de Copii nr. 1,Bulevardul Biruinței nr. 36,Pantelimon,44.4455,26.2008
+61,25,ILFOV,ORAŞ PANTELIMON,262,34,55,13,1,23,11,25,264,34,50,16,1,31,10,20,Grădinița de Copii nr. 1,Bulevardul Biruinței nr. 36,Pantelimon,44.4455,26.2008
+62,25,ILFOV,ORAŞ PANTELIMON,190,22,64,16,2,19,5,17,189,22,61,14,2,23,11,18,Grădinița de Copii nr. 1,Bulevardul Biruinței nr. 36,Pantelimon,44.4455,26.2008
+63,25,ILFOV,ORAŞ PANTELIMON,312,40,68,13,0,18,8,26,318,43,68,13,0,19,9,16,Grădinița de Copii nr. 1,Bulevardul Biruinței nr. 36,Pantelimon,44.4455,26.2008
+64,25,ILFOV,ORAŞ PANTELIMON,280,32,67,14,2,12,15,27,287,34,64,13,0,14,18,22,Grădinița de Copii nr. 1,Bulevardul Biruinței nr. 36,Pantelimon,44.4455,26.2008
+120,25,ILFOV,BRĂNEŞTI,122,32,75,7,0,17,5,17,123,33,76,9,1,17,5,11,Grădinița nr. 2,Str. Nicolae Bălcescu nr. 32,Pasărea,44.4711,26.3206
+210,25,ILFOV,PERIŞ,283,43,257,18,0,52,14,49,306,38,277,23,0,43,14,37,Liceul Periș,Str. Principală nr. 580,Periș,44.6743,25.9919
+211,25,ILFOV,PERIŞ,275,46,197,44,0,30,9,50,284,47,204,43,0,33,8,38,Școala nr. 2 Peris,Str. Școlii nr. 3,Periș,44.6794,26.0195
+212,25,ILFOV,PERIŞ,74,11,66,17,0,10,5,15,76,12,66,18,0,7,5,14,Fosta Școala nr. 3 Peris,Str. Bisericii nr. 2,Periș,44.6691,26.0325
+155,25,ILFOV,CORBEANCA,91,111,58,38,0,25,7,24,90,104,62,37,0,30,7,19,Grădinița nr. 1,Șoseaua Unirii nr. 24,Petrești,44.6019,26.0662
+215,25,ILFOV,PETRĂCHIOAIA,203,22,625,23,2,14,11,16,198,21,627,26,3,18,13,16,Structura cu Grupe de PreȘcolari,Str. Vânători nr. 359,Petrăchioaia,44.5831,26.3109
+140,25,ILFOV,CIOLPANI,94,23,162,15,1,4,4,21,94,22,166,14,2,6,4,15,Școala Generală cu Clasele I-IV,Str. Bisericii nr. 35,Piscu,44.7338,26.0705
+183,25,ILFOV,GĂNEASA,191,4,112,2,0,5,8,13,189,3,114,2,0,6,7,8,Școala Piteasca,Str. Revoluției nr. 43A,Piteasca,44.4916,26.3265
+65,25,ILFOV,ORAŞ POPEŞTI LEORDENI,153,373,172,40,2,37,17,42,152,377,177,39,2,39,18,32,Fundația Leonardo Murialdo,Str. Sf. Leonardo Murialdo nr. 1,Popești Leordeni,44.3769,26.1571
+66,25,ILFOV,ORAŞ POPEŞTI LEORDENI,163,365,131,28,0,34,15,47,167,362,132,35,1,33,20,36,Fundația Leonardo Murialdo,Str. Sf. Leonardo Murialdo nr. 1,Popești Leordeni,44.3769,26.1571
+67,25,ILFOV,ORAŞ POPEŞTI LEORDENI,182,335,129,51,2,42,13,52,184,341,136,49,1,41,21,41,Fundatia Leonardo Murialdo,Str. Sf. Leonardo Murialdo (D) nr. 1,Popești Leordeni,44.3769,26.1571
+68,25,ILFOV,ORAŞ POPEŞTI LEORDENI,148,397,139,42,0,32,12,39,149,392,149,45,0,37,14,29,Fundatia Leornardo Murialdo,"Str. Sf. Leonardo Murialdo nr. 1, Bloc -",Popești Leordeni,44.3769,26.1571
+69,25,ILFOV,ORAŞ POPEŞTI LEORDENI,276,177,140,52,0,32,21,49,284,178,141,54,0,34,23,42,Școala Gimnazială Ioan Bădescu,Str. Școlii nr. 6,Popești Leordeni,44.3788,26.1684
+70,25,ILFOV,ORAŞ POPEŞTI LEORDENI,298,131,151,69,5,36,18,46,304,135,150,72,2,36,24,33,Școala Gimnazială Ioan Bădescu,Str. Școlii nr. 6,Popești Leordeni,44.3788,26.1684
+71,25,ILFOV,ORAŞ POPEŞTI LEORDENI,274,170,119,47,0,29,26,58,283,173,131,45,1,28,28,43,Căminul Cultural,Șoseaua Olteniței nr. 64,Popești Leordeni,44.3796,26.1685
+72,25,ILFOV,ORAŞ POPEŞTI LEORDENI,340,104,115,51,1,31,20,42,345,104,118,57,5,27,23,31,Liceul Teoretic Radu Popescu,Str. Leordeni nr. 52,Popești Leordeni,44.3815,26.1742
+73,25,ILFOV,ORAŞ POPEŞTI LEORDENI,317,83,98,46,0,25,36,64,308,83,97,46,0,32,42,58,Liceul Teoretic Radu Popescu,Str. Leordeni nr. 52,Popești Leordeni,44.3815,26.1742
+74,25,ILFOV,ORAŞ POPEŞTI LEORDENI,247,76,68,39,0,26,15,35,247,70,75,47,0,21,23,31,Școala Generală nr. 4,Str. Unirii nr. 21,Popești Leordeni,44.387,26.1665
+75,25,ILFOV,ORAŞ POPEŞTI LEORDENI,236,74,49,25,1,24,13,26,234,76,51,29,2,27,13,21,Școala Generală nr. 3,Str. Domnița Bălașa nr. 13,Popești Leordeni,44.3791,26.2057
+76,25,ILFOV,ORAŞ POPEŞTI LEORDENI,231,38,52,34,2,23,17,36,235,41,51,32,3,25,17,30,Școala Generală nr. 3,Str. Domnița Bălașa nr. 13,Popești Leordeni,44.3791,26.2057
+77,25,ILFOV,ORAŞ POPEŞTI LEORDENI,410,55,60,25,2,14,11,21,417,62,59,19,1,14,9,18,S.C. Miky & Jasmin S.R.L.,Șoseaua Olteniței nr. 181,Popești Leordeni,44.364,26.1945
+78,25,ILFOV,ORAŞ POPEŞTI LEORDENI,72,13,12,11,0,1,2,7,71,12,11,16,1,2,3,5,S.C. Agropol S.A.,Șoseaua Olteniței nr. 216,Popești Leordeni,44.3558,26.2049
+79,25,ILFOV,ORAŞ POPEŞTI LEORDENI,66,127,78,23,0,12,9,15,67,132,71,24,0,15,9,12,Grădinița nr. 3,Str. Constantin Văcărescu (D) nr. 1,Popești Leordeni,44.389,26.2029
+80,25,ILFOV,ORAŞ POPEŞTI LEORDENI,154,238,129,40,1,41,19,41,149,243,127,38,1,47,24,39,Grădinița cu Program Prelungit nr. 4,"Nr. 27, Bloc -",Popești Leordeni,44.3807,26.1565
+133,25,ILFOV,CHIAJNA,234,122,78,55,0,224,21,49,227,125,82,53,0,233,24,39,Liceul Tehnologic „Doamna Chiajna”,Str. 1 Decembrie 1918 (Str. Republicii) nr. 90,Roșu,44.4512,26.0122
+134,25,ILFOV,CHIAJNA,192,164,82,39,0,151,16,32,196,167,80,47,1,142,19,25,Liceul Tehnologic „Doamna Chiajna”,Str. 1 Decembrie 1918 (Str. Republicii) nr. 90,Roșu,44.4512,26.0122
+135,25,ILFOV,CHIAJNA,188,251,110,41,0,171,22,45,189,245,119,47,0,170,22,39,Liceul Tehnologic „Doamna Chiajna”,Str. 1 Decembrie 1918 (Str. Republicii) nr. 90,Roșu,44.4512,26.0122
+136,25,ILFOV,CHIAJNA,119,249,99,32,0,33,21,40,119,249,104,30,0,38,21,30,Grădinița Kids Club,Str. Rezervelor nr. 91,Roșu,44.4429,25.9876
+137,25,ILFOV,CHIAJNA,135,284,137,36,2,83,15,57,126,290,143,37,2,96,12,29,Grădinița Kids Club,Nr. 91,Roșu,44.4429,25.9876
+138,25,ILFOV,CHIAJNA,144,372,166,23,0,66,13,44,147,379,162,25,0,70,19,30,Grădinița Kids Club,Str. Rezervelor nr. 91,Roșu,44.4429,25.9876
+26,25,ILFOV,ORAŞ CHITILA,127,19,138,9,0,23,6,9,133,19,140,8,0,22,4,7,Școala Gimnazială cu Clasele I-VIII nr. 1 „Prof. Ion Vișoiu”,Str. Panduri nr. 2,Rudeni,44.476,25.9703
+194,25,ILFOV,GRUIU,215,34,329,30,0,42,11,30,218,36,345,26,1,40,11,22,Școala de 8 Ani,Str. Antim Ivireanul nr. 53,Siliștea Snagovului,44.7393,26.1779
+237,25,ILFOV,VIDRA,158,10,99,6,0,6,3,8,152,12,100,7,3,7,1,3,Școala Generală nr. 303 Sintești,Str. Principală nr. 169,Sintești,44.3004,26.1201
+238,25,ILFOV,VIDRA,131,2,74,1,0,9,10,21,137,1,72,4,0,9,14,17,Școala Generală nr. 303 Sintești,Str. Principală nr. 169,Sintești,44.3004,26.1201
+190,25,ILFOV,GRĂDIŞTEA,116,4,121,10,0,8,4,13,120,4,124,10,0,11,7,8,Școala Primară nr. 1 Sitaru,Str. Teiului nr. 44,Sitaru,44.6671,26.3269
+219,25,ILFOV,SNAGOV,331,77,186,53,1,32,19,51,337,75,187,65,2,33,21,34,Școala Generală Snagov,Str. Bujorului nr. 14,Snagov,44.7081,26.1728
+218,25,ILFOV,PETRĂCHIOAIA,56,8,188,7,0,4,4,9,59,7,189,8,1,4,3,7,Structura cu Clasele I-IV și Grupe de PreȘcolari,Str. Crișului nr. 193,Surlari,44.5733,26.318
+112,25,ILFOV,BALOTEŞTI,266,87,71,33,0,31,11,29,264,90,71,35,0,30,14,30,Școala nr. 2 Săftica,Calea București nr. 76,Săftica,44.6228,26.0687
+153,25,ILFOV,CORBEANCA,206,187,114,139,0,28,11,35,212,188,119,142,2,31,9,25,Școala Gimnazială nr. 2,Șoseaua Unirii nr. 411,Tamași,44.5836,26.0057
+229,25,ILFOV,TUNARI,206,49,474,30,0,19,7,20,205,53,472,29,1,19,7,11,Școala nr. 1 Tunari - Corp A,Str. Mihail Eminescu nr. 3,Tunari,44.5497,26.1416
+230,25,ILFOV,TUNARI,172,65,368,10,0,32,5,19,170,65,378,11,0,32,4,9,Școala nr. 1 Tunari - Corp C,Nr. 3,Tunari,44.5497,26.1416
+231,25,ILFOV,TUNARI,203,152,438,25,1,31,15,40,209,153,439,22,2,38,16,26,Școala nr. 1 Tunari - Corp B,Str. Mihail Eminescu nr. 3,Tunari,44.5497,26.1416
+223,25,ILFOV,SNAGOV,213,40,149,48,0,33,14,31,220,36,147,46,2,40,11,24,Școala Gimnazială „Constantin I.Băicoianu”,Str. Ion Băicoianu (Str. I.C.Băicoianu) (D) nr. 10,Tâncăbești,44.6764,26.0829
+128,25,ILFOV,CERNICA,160,11,299,57,1,11,3,13,168,10,303,53,0,10,6,15,Școala Gimnazială nr. 2,Șoseaua Burebista nr. 25,Tânganu,44.4082,26.308
+129,25,ILFOV,CERNICA,173,12,300,22,0,11,12,21,178,13,306,28,0,9,8,11,Școala Gimnazială nr. 2,Șoseaua Burebista nr. 25,Tânganu,44.4082,26.308
+232,25,ILFOV,VIDRA,72,15,138,11,0,14,5,10,70,14,140,10,0,13,6,11,Școala Generală nr. 304 Vidra,Str. Principală nr. 315,Vidra,44.2591,26.1737
+233,25,ILFOV,VIDRA,111,31,195,14,0,11,8,11,117,29,192,17,0,11,6,8,Școala Generală nr. 304 Vidra,Str. Principală nr. 315,Vidra,44.2591,26.1737
+234,25,ILFOV,VIDRA,135,18,260,20,0,14,5,9,127,17,268,20,1,15,6,9,Școala Generală nr. 301 Vidra,Str. Principală nr. 106,Vidra,44.2646,26.1558
+81,25,ILFOV,ORAŞ VOLUNTARI,190,371,184,97,2,97,25,67,191,378,195,92,3,97,30,52,Școala Generală nr. 3,Str. Erou Ion Șerban (D) nr. 1,Voluntari,44.4986,26.1354
+82,25,ILFOV,ORAŞ VOLUNTARI,260,279,156,64,7,66,22,47,262,278,158,72,6,69,24,37,Școala Generală nr. 3,Nr. 1,Voluntari,44.4986,26.1354
+83,25,ILFOV,ORAŞ VOLUNTARI,346,229,123,66,0,75,24,62,357,223,139,66,1,71,19,42,Școala Generală nr. 3,Str. Erou Ion Șerban (D) nr. 1,Voluntari,44.4986,26.1354
+84,25,ILFOV,ORAŞ VOLUNTARI,316,280,158,55,3,61,17,58,311,276,174,55,3,63,23,46,Școala Generală nr. 3,Str. Erou Ion Șerban (D) nr. 1,Voluntari,44.4986,26.1354
+85,25,ILFOV,ORAŞ VOLUNTARI,471,47,76,35,2,57,19,49,473,46,82,31,4,55,25,38,Sala de Sport „Andreea Isărescu”,Str. Tudor Vladimirescu (D) nr. 34,Voluntari,44.4877,26.1713
+86,25,ILFOV,ORAŞ VOLUNTARI,442,167,93,44,4,52,22,51,440,168,95,48,5,48,28,45,Școala Generală nr. 1,Str. Tudor Vladimirescu (D) nr. 35,Voluntari,44.4893,26.172
+87,25,ILFOV,ORAŞ VOLUNTARI,498,94,86,43,1,27,23,64,500,92,81,51,2,28,34,54,Școala Generală nr. 1,Str. Tudor Vladimirescu (D) nr. 35,Voluntari,44.4893,26.172
+88,25,ILFOV,ORAŞ VOLUNTARI,455,118,105,49,0,41,14,44,448,111,111,55,2,42,24,42,Școala Generală nr. 1,Str. Anton Pann nr. 7,Voluntari,44.4866,26.1772
+89,25,ILFOV,ORAŞ VOLUNTARI,582,72,69,39,0,32,12,40,582,69,66,53,2,31,19,31,Școala Generală nr. 1,Str. Anton Pann nr. 7,Voluntari,44.4866,26.1772
+90,25,ILFOV,ORAŞ VOLUNTARI,394,93,73,46,3,16,12,49,393,88,75,49,1,24,18,41,Școala Generală nr. 1,Str. Anton Pann nr. 7,Voluntari,44.4866,26.1772
+91,25,ILFOV,ORAŞ VOLUNTARI,577,58,51,28,2,28,22,49,589,60,50,32,2,28,24,39,Școala Generală nr. 1,Bulevardul Nicolae Bălcescu nr. 50,Voluntari,44.4839,26.1842
+92,25,ILFOV,ORAŞ VOLUNTARI,551,45,87,24,2,38,12,50,547,45,87,27,5,49,20,35,Școala Generală nr. 1,Bulevardul Nicolae Bălcescu nr. 50,Voluntari,44.4839,26.1842
+93,25,ILFOV,ORAŞ VOLUNTARI,558,88,90,48,1,23,27,60,561,87,96,50,2,21,34,48,Casa de Cultură,Str. Tudor Vladimirescu (D) nr. 42,Voluntari,44.4885,26.1721
+94,25,ILFOV,ORAŞ VOLUNTARI,490,91,104,38,0,28,15,39,488,86,102,41,1,33,18,36,Școala Generală nr. 2,Bulevardul Dunării nr. 51,Voluntari,44.4982,26.1943
+95,25,ILFOV,ORAŞ VOLUNTARI,617,76,103,34,0,46,26,53,612,80,101,41,1,51,31,43,Școala Generală nr. 2,Bulevardul Dunării nr. 51,Voluntari,44.4982,26.1943
+96,25,ILFOV,ORAŞ VOLUNTARI,457,85,78,34,2,23,16,49,468,80,81,29,3,22,24,42,Școala Generală nr. 2,Bulevardul Dunării nr. 51,Voluntari,44.4982,26.1943
+97,25,ILFOV,ORAŞ VOLUNTARI,544,78,101,44,1,31,28,55,545,82,103,51,1,24,29,42,Fostul Sediu al Primăriei,Bulevardul Dunării nr. 71,Voluntari,44.5001,26.1987
+98,25,ILFOV,ORAŞ VOLUNTARI,431,52,68,35,0,36,17,65,439,52,67,34,3,43,25,54,Primăria Orașului Voluntari,Bulevardul Voluntari (Șoseaua Afumați) nr. 74,Voluntari,44.4883,26.1844
+217,25,ILFOV,PETRĂCHIOAIA,55,6,158,4,0,2,2,10,55,6,163,6,0,2,3,5,Structura cu Clasele I-IV și Grupe de PreȘcolari,Nr. 69,Vânători,44.5919,26.2951
+37,25,ILFOV,ORAŞ MĂGURELE,140,27,141,14,1,14,6,20,148,31,135,11,1,13,14,22,Școala Primară nr. 1 Varteju,Str. Chirca nr. 1,Vârteju,44.3525,26.0006
+38,25,ILFOV,ORAŞ MĂGURELE,200,58,180,27,0,17,14,28,201,59,174,34,2,18,11,17,Grădinița nr. 3 Varteju,Str. București nr. 4,Vârteju,44.3559,25.9904
+176,25,ILFOV,DRAGOMIREŞTI-VALE,117,12,252,3,0,17,3,11,120,11,252,3,1,15,5,10,Școala Generală nr. 3,Str. Ghioceilor nr. 38,Zurbaua,44.4609,25.9423
+193,25,ILFOV,GRUIU,74,11,185,9,0,9,3,10,83,8,180,11,0,8,4,8,Școala de 4 Ani,Str. Ungureni nr. 28,Șanțu Florești,44.7316,26.2133
+182,25,ILFOV,GĂNEASA,168,2,98,11,0,2,1,7,166,2,97,11,0,4,1,3,Grădinița Șindrilița,Drumul DN2 București-Urziceni nr. 37,Șindrilița,44.5157,26.3178
+224,25,ILFOV,ŞTEFĂNEŞTII DE JOS,207,22,220,16,0,28,7,22,207,23,215,19,0,29,10,23,Școala nr. 1 cu Clasele I-VIII,Șoseaua Ștefănești nr. 147,Ștefăneștii de Jos,44.5385,26.2012
+225,25,ILFOV,ŞTEFĂNEŞTII DE JOS,345,13,134,19,0,22,26,48,348,12,138,25,1,20,29,31,Școala nr. 1 cu Clasele I-VIII,Șoseaua Ștefănești nr. 130,Ștefăneștii de Jos,44.5385,26.2012
+228,25,ILFOV,ŞTEFĂNEŞTII DE JOS,44,211,71,15,1,9,7,19,42,208,76,17,1,10,9,15,Complex Cosmopolis,"Str. Aurorei nr. 2, Bloc A6",Ștefăneștii de Jos,44.5364,26.1733
+227,25,ILFOV,ŞTEFĂNEŞTII DE JOS,146,16,168,16,0,94,4,13,144,16,175,14,0,87,4,9,Școala nr. 1 cu Clasele I-VIII,Str. Zorilor nr. 33-35,Ștefăneștii de Sus,44.5376,26.1955
+174,25,ILFOV,DOMNEŞTI,77,26,183,41,0,14,6,15,74,26,186,41,1,16,6,11,Școala Primară nr. 2 - Școala Țegheș,Str. Transilvaniei nr. 35,Țegheș,44.3972,25.9173

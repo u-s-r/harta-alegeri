@@ -1,0 +1,335 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+272,36,TELEORMAN,SCURTU MARE,38,1,6,16,0,2,0,2,42,0,3,20,0,0,0,1,Localul Școlii cu Clasele I-IV Albeni,,Albeni,44.3953,25.2575
+321,36,TELEORMAN,VEDEA,288,1,12,2,0,18,2,8,295,1,12,2,0,15,2,7,Școala cu Clasele I-IV Albești,Nr. 71,Albești,44.0678,25.1188
+1,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,411,46,140,35,2,36,29,55,401,49,145,32,2,41,28,59,Școala Ajutătoare Alexandria,Str. Libertății nr. 1,Alexandria,43.9795,25.3154
+2,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,256,46,85,22,1,36,31,58,254,49,72,30,1,46,32,53,Școala Gimnazială nr. 7,Str. 1907 nr. 60 bis,Alexandria,43.9759,25.3173
+3,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,252,23,62,26,0,16,20,31,259,23,56,25,0,23,15,29,Școala Gimnazială nr. 7,Str. 1907 nr. 60,Alexandria,43.9759,25.3173
+4,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,332,23,57,28,2,34,24,46,339,23,59,28,2,29,20,38,Școala Gimnazială nr. 7,Str. 1907 nr. 60,Alexandria,43.9759,25.3173
+5,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,320,54,86,27,0,37,29,57,326,53,89,27,0,43,23,44,Școala Gimnazială nr. 7,Str. 1907 nr. 60 bis,Alexandria,43.9759,25.3173
+6,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,375,28,83,29,1,50,16,36,374,33,84,25,2,59,16,31,Liceul Tehnologic „Nicolae Bălcescu”,Str. Libertății nr. 69,Alexandria,43.9755,25.3226
+7,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,283,53,80,36,0,35,11,27,281,61,72,36,0,33,13,30,Liceul Tehnologic „Nicolae Bălcescu”,Str. Libertății nr. 69,Alexandria,43.9755,25.3226
+8,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,414,43,108,54,0,55,19,53,435,44,116,47,1,57,18,39,Colegiul Național „Al. D. Ghica”,Str. Viitorului nr. 78,Alexandria,43.975,25.3242
+9,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,351,53,103,36,0,37,29,51,348,57,97,39,1,42,30,50,Colegiul Național „Al. D. Ghica”,Str. Viitorului nr. 78,Alexandria,43.975,25.3242
+10,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,366,52,85,43,0,35,25,41,372,52,83,34,0,41,23,37,Liceul Teoretic „C. Noica”,Str. Dunării nr. 133,Alexandria,43.9715,25.3262
+11,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,269,42,78,27,0,33,13,31,281,40,69,28,0,32,14,32,Liceul Teoretic „C. Noica”,Str. Dunării nr. 133,Alexandria,43.9715,25.3262
+12,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,296,38,103,24,1,34,20,37,290,42,94,31,1,39,23,38,Liceul Pedagogic „Mircea Scarlat”,Str. Negru Vodă (Str. Grivița Roșie) nr. 99,Alexandria,43.9683,25.3263
+13,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,261,51,82,36,0,34,20,38,251,57,74,34,0,44,22,42,Școala Gimnazială nr. 5,Str. Libertății nr. 148,Alexandria,43.971,25.3284
+14,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,270,36,62,40,0,40,35,57,262,44,53,32,0,50,39,65,Grădinița cu Program Prelungit nr. 7,Str. Av. Alexandru Colfescu (Str. Constantin Dobrogeanu Gherea) nr. 79,Alexandria,43.9708,25.3316
+15,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,286,37,78,37,1,32,20,40,274,35,79,38,0,41,20,39,Grădinița cu Program Prelungit nr. 7,Str. Av. Alexandru Colfescu (Str. Constantin Dobrogeanu Gherea) nr. 79,Alexandria,43.9708,25.3316
+16,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,383,26,78,29,0,29,24,51,377,28,81,31,0,32,21,34,Stadion Municipal,Str. Alexandru Ghica (Str. Partizani) nr. 119,Alexandria,43.9745,25.3362
+17,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,305,42,86,30,0,32,23,38,296,42,86,33,0,43,19,32,Oficiul Poștal nr. 3,Str. București nr. 123,Alexandria,43.9709,25.3407
+18,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,204,42,52,35,0,22,35,52,210,47,45,43,0,22,25,42,Școala Gimnazială „Ștefan Cel Mare”,Str. Carpați nr. 15,Alexandria,43.969,25.3338
+19,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,250,44,78,38,0,37,26,37,239,39,84,38,1,44,24,36,Școala Gimnazială „Ștefan Cel Mare”,Str. Carpați nr. 15,Alexandria,43.969,25.3338
+20,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,309,48,90,51,2,44,23,44,305,50,85,53,1,50,20,39,Școala Gimnazială „Mihai Viteazul”,Str. Av. Alexandru Colfescu (Str. Constantin Dobrogeanu Gherea) nr. 34,Alexandria,43.967,25.3286
+21,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,263,44,69,36,2,32,22,34,252,54,65,37,1,34,19,34,Școala Gimnazială „Mihai Viteazul”,Str. Av. Alexandru Colfescu (Str. Constantin Dobrogeanu Gherea) nr. 34,Alexandria,43.967,25.3286
+22,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,211,30,43,19,1,29,17,35,203,32,38,20,1,31,15,29,Școala Gimnazială nr. 6,Str. 1 Mai nr. 107,Alexandria,43.9682,25.3394
+23,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,272,22,72,32,0,38,27,50,274,23,65,25,0,40,31,54,Școala Gimnazială nr. 6,Str. 1 Mai nr. 107,Alexandria,43.9682,25.3394
+24,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,231,41,82,21,2,36,14,23,237,42,77,27,3,30,10,20,Colegiul Național „Al. I. Cuza”,Str. Carpați nr. 27,Alexandria,43.9678,25.336
+25,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,277,48,72,28,0,33,22,35,277,50,64,27,0,39,22,35,Colegiul Național „Al. I. Cuza”,Str. Carpați nr. 27,Alexandria,43.9678,25.336
+26,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,242,33,60,39,1,27,27,44,236,40,59,40,0,30,24,41,Colegiul Național „Al. I. Cuza”,Str. Carpați nr. 27,Alexandria,43.9678,25.336
+27,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,309,35,104,37,0,26,20,35,303,32,109,37,0,25,21,36,Școala Gimnazială „Alexandru Colfescu”,Str. Dunării nr. 292,Alexandria,43.9616,25.3393
+28,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,329,36,67,21,1,43,25,50,319,38,64,23,1,54,24,54,Școala Gimnazială „Alexandru Colfescu”,Str. Dunării nr. 292,Alexandria,43.9616,25.3393
+29,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,304,27,97,36,1,41,20,40,309,28,94,37,1,41,19,38,Școala Gimnazială „Alexandru Colfescu”,Str. Dunării nr. 292,Alexandria,43.9616,25.3393
+30,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,309,54,99,37,1,46,33,63,306,55,102,41,1,48,29,56,Școala Gimnazială „Alexandru Colfescu”,Str. Dunării nr. 292,Alexandria,43.9616,25.3393
+31,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,273,18,61,21,0,36,34,56,277,18,66,23,1,34,24,48,Grădinița cu Program Prelungit nr. 4,Str. Alexandru Ghica (Str. Partizani) nr. 148,Alexandria,43.9671,25.3415
+32,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,291,12,51,15,1,25,9,32,290,10,51,19,0,33,9,31,Grădinița cu Program Prelungit nr. 4,Str. Alexandru Ghica (Str. Partizani) nr. 148,Alexandria,43.9671,25.3415
+33,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,407,29,56,15,3,44,18,47,413,27,57,15,2,45,13,41,Școala de Șoferi Amatori,Nr. 265-271,Alexandria,43.9593,25.3446
+34,36,TELEORMAN,MUNICIPIUL ALEXANDRIA,183,6,39,9,0,10,2,17,190,7,40,8,1,10,2,10,Grădinița cu Program Prelungit nr. 8,Str. Fabricii nr. 1,Alexandria,43.9575,25.3455
+127,36,TELEORMAN,CĂLINEŞTI,134,1,8,7,0,10,1,5,141,2,8,4,2,8,0,2,Școala Gimnazială Antonești,,Antonești,44.1178,25.1822
+102,36,TELEORMAN,BLEJEŞTI,305,8,27,6,1,16,10,34,318,7,31,5,0,22,10,18,Școala Gimnazială nr. 2 Baciu Comuna Blejești,,Baciu,44.3317,25.4427
+92,36,TELEORMAN,BALACI,342,2,25,17,0,18,27,41,352,2,24,18,1,20,25,34,Căminul Cultural Balci,Nr. 4,Balaci,44.3428,24.9245
+140,36,TELEORMAN,CIOLĂNEŞTI,89,0,44,5,0,2,3,11,92,0,42,7,1,2,3,10,Școala Baldovinești,,Baldovinești,44.3392,25.0553
+152,36,TELEORMAN,CRÎNGENI,257,7,19,7,0,5,4,11,258,8,19,7,1,4,5,12,Clădire Primărie -fosta Școală cu Clasele I-VIII Balta Sărată,,Balta Sărată,44.0137,24.8247
+96,36,TELEORMAN,BECIU,282,9,40,14,2,15,4,33,241,4,30,8,2,9,4,121,Grădinița de Copii cu Program Normal nr. 1 Beciu,,Beciu,44.0053,24.664
+298,36,TELEORMAN,ŞTOROBĂNEASA,396,14,52,9,1,8,6,12,400,14,49,9,2,8,7,12,Școala cu Clasele I-VIII „Badea Negreanu”,Str. Școlii,Beiu,43.8729,25.4534
+98,36,TELEORMAN,BEUCA,430,7,93,68,5,10,13,22,425,6,89,72,4,10,13,19,Căminul Cultural Beuca,,Beuca,44.2523,24.9639
+100,36,TELEORMAN,BLEJEŞTI,356,14,27,12,0,10,6,34,382,16,27,12,0,7,7,14,Școala Gimnazială nr. 1 Blejești,Nr. 323,Blejești,44.2921,25.4749
+101,36,TELEORMAN,BLEJEŞTI,420,3,37,6,1,7,4,43,454,7,37,6,0,8,4,10,Grădinița cu Program Normal nr. 2 Blejești,,Blejești,44.3023,25.4652
+104,36,TELEORMAN,BOGDANA,409,8,28,13,0,13,5,10,407,10,29,12,0,19,9,12,Școala Gimnazială Bogdana,,Bogdana,43.9239,25.086
+107,36,TELEORMAN,BOTOROAGA,259,3,175,7,0,45,10,14,271,4,171,7,0,39,9,12,Liceul Tehnologic „Andrei Șaguna”,Nr. 14,Botoroaga,44.1485,25.5476
+112,36,TELEORMAN,BRAGADIRU,174,5,211,1,0,15,8,16,169,3,213,2,3,16,5,16,Primăria Veche,Str. Dunării nr. 87,Bragadiru,43.7665,25.509
+113,36,TELEORMAN,BRAGADIRU,141,6,228,6,0,34,11,16,141,7,233,8,0,30,10,14,Căminul Cultural,Str. Dunării nr. 179,Bragadiru,43.7594,25.5159
+114,36,TELEORMAN,BRAGADIRU,162,3,309,3,0,25,8,21,164,3,313,2,0,25,10,22,Școala Roiba,Str. Dunării nr. 298,Bragadiru,43.7481,25.5235
+293,36,TELEORMAN,STEJARU,101,1,4,1,0,2,2,2,102,1,4,1,0,2,2,2,Sediul Fostei Primării Comunale Bratcov,,Bratcovu,44.159,24.8687
+268,36,TELEORMAN,SCRIOAŞTEA,266,8,60,8,0,4,7,9,266,8,59,11,0,5,7,9,Grădinița de Copii,,Brebina,44.1669,24.9716
+115,36,TELEORMAN,BRÎNCENI,263,14,90,7,0,39,6,30,258,20,89,10,1,43,7,19,Școala Gimnazială Brînceni,Str. Principală nr. 100,Brânceni,43.8781,25.3996
+116,36,TELEORMAN,BRÎNCENI,352,4,141,28,0,89,21,45,361,3,150,26,2,86,20,32,Clădire Administrativă Brînceni,Str. Principală nr. 106,Brânceni,43.8774,25.4004
+240,36,TELEORMAN,PLOPII-SLĂVITEŞTI,341,4,111,3,1,9,3,11,341,5,116,3,1,9,3,10,Grădinița cu Program Normal nr. 3,,Brâncoveanca,43.9499,24.6887
+309,36,TELEORMAN,TRIVALEA-MOŞTENI,168,3,15,2,0,37,3,6,174,2,14,3,1,34,1,3,Dispensarul Brătășani,,Brătășani,44.2271,25.2611
+117,36,TELEORMAN,BUJORENI,112,23,82,6,0,3,7,14,119,23,78,6,0,3,10,12,Căminul Cultural Bujoreni,,Bujoreni,44.1159,25.6517
+119,36,TELEORMAN,BUJORU,164,4,183,7,0,3,5,13,168,5,188,6,0,5,5,10,Grădinița cu Program Normal,Nr. 85,Bujoru,43.7099,25.5622
+120,36,TELEORMAN,BUJORU,136,0,212,4,0,10,11,25,142,0,216,5,0,12,10,17,Căminul Cultural,Nr. 95,Bujoru,43.7104,25.5591
+130,36,TELEORMAN,CĂLMĂŢUIU,110,1,51,5,0,1,2,5,114,1,52,4,0,1,3,4,Școala Gimnazială Călmățuiu (Fost Local al Școlii cu Clasele I-IV),Nr. 63,Bujoru,43.9531,24.8468
+280,36,TELEORMAN,SILIŞTEA,147,6,11,22,1,3,6,8,147,7,10,28,0,4,6,8,Grădinița cu Program Normal nr. 2 Butești (Fost Local al Școlii cu Clasele I-IV Butești),,Butești,44.3916,25.3745
+121,36,TELEORMAN,BUZESCU,178,8,348,19,1,16,5,16,177,7,359,18,2,18,2,12,Cămin Cultural,,Buzescu,44.0112,25.2283
+122,36,TELEORMAN,BUZESCU,144,2,328,11,1,12,13,20,142,3,344,8,3,10,12,16,Grădinița cu Program Normal,,Buzescu,44.013,25.2261
+123,36,TELEORMAN,BUZESCU,220,4,316,41,0,18,9,28,220,4,312,38,0,17,10,25,Școala Gimnazială Buzescu,,Buzescu,44.011,25.2244
+181,36,TELEORMAN,GĂLĂTENI,227,4,78,6,1,21,15,19,230,1,80,9,1,23,15,20,Școala Gimnazială Gălăteni,,Bâscoveni,44.2436,25.3597
+94,36,TELEORMAN,BĂBĂIŢA,290,0,81,9,0,32,44,68,295,5,92,8,0,33,35,54,Școala Gimnazială Băbăița,,Băbăița,44.161,25.3817
+95,36,TELEORMAN,BĂBĂIŢA,286,1,23,11,0,12,30,39,291,3,25,10,1,14,23,28,Școala Gimnazială Merișani,,Băbăița,44.1157,25.3987
+134,36,TELEORMAN,CĂLMĂŢUIU DE SUS,322,0,20,10,0,3,3,7,307,2,23,14,0,4,3,9,Clădire Primărie -Fost Sediu Cap Băcălești,,Băcălești,44.0634,24.8163
+255,36,TELEORMAN,PUTINEIU,171,2,162,6,0,10,7,14,173,2,161,7,1,13,5,11,Grădinița cu Program Normal nr. 2 Băduleasa,Nr. 66,Băduleasa,43.92,24.9849
+263,36,TELEORMAN,SALCIA,384,6,22,7,0,14,6,21,386,6,27,4,1,11,6,21,Localul Căminului Cultural din Satul Băneasa,,Băneasa,43.9409,24.953
+252,36,TELEORMAN,POROSCHIA,429,10,70,10,1,44,2,11,426,9,68,8,1,52,2,7,Grădinița cu Program Normal Calomfirești,,Calomfirești,43.9148,25.3573
+129,36,TELEORMAN,CĂLMĂŢUIU,84,1,8,14,0,0,2,6,82,1,10,13,0,0,2,6,Școala Gimnazială Călmățuiu (Fost Local al Școlii cu Clasele I-IV),Nr. 194,Caravaneți,43.9559,24.8756
+206,36,TELEORMAN,MÎRZĂNEŞTI,284,13,184,14,1,54,43,61,288,12,194,13,1,51,35,50,"Școala Gimnazială nr. 2, Cernetu",Str. Principală nr. 491,Cernetu,43.9057,25.4555
+135,36,TELEORMAN,CERVENIA,248,7,86,6,1,90,6,18,233,7,78,11,1,114,5,12,Școala Gimnazială Cervenia,Str. Școlii nr. 16,Cervenia,43.8355,25.4597
+136,36,TELEORMAN,CERVENIA,182,14,107,4,1,73,6,20,180,11,102,13,1,78,6,14,Școala Gimnazială Cervenia,Str. Școlii nr. 16,Cervenia,43.8355,25.4597
+258,36,TELEORMAN,RĂDOIEŞTI,118,1,12,5,0,11,1,3,118,2,12,5,0,12,1,2,Școala Generală Rădoiești Cetatea,,Cetatea,44.1348,25.1654
+137,36,TELEORMAN,CIOLĂNEŞTI,185,5,61,13,0,5,6,22,185,5,68,14,0,7,5,14,Școala Gimnazială nr. 1 Ciolăneștii din Deal,,Ciolăneștii din Deal,44.3056,25.0871
+138,36,TELEORMAN,CIOLĂNEŞTI,135,1,43,17,0,8,6,9,133,1,49,20,0,10,5,9,Școala Gimnazială nr. 2 Ciolăneștii din Deal,,Ciolăneștii din Deal,44.319,25.0791
+139,36,TELEORMAN,CIOLĂNEŞTI,148,1,31,4,0,7,11,21,152,1,34,5,1,4,10,16,Școala Generală nr. 3 Ciolăneștii din Vale,,Ciolăneștii din Vale,44.2961,25.1009
+141,36,TELEORMAN,CIUPERCENI,376,14,85,17,1,7,10,20,373,16,81,21,4,9,9,18,Școala Gimnazială Ciuperceni,,Ciuperceni,43.7609,24.9345
+146,36,TELEORMAN,COSMEŞTI,223,7,209,23,1,3,4,12,224,6,214,22,1,3,4,10,Școala Gimnazială nr. 1 Ciuperceni,,Ciuperceni,44.316,25.378
+266,36,TELEORMAN,SĂCENI,119,2,48,5,0,12,5,15,119,2,48,5,0,13,6,15,Clădirea fosta Școală Gimnazială Ciurari,,Ciurari,44.2541,25.0441
+183,36,TELEORMAN,GRATIA,423,16,16,18,1,6,5,18,416,12,18,24,2,9,5,20,Școala Gimnazială Gratia,Șoseaua Libertății nr. 102,Ciurari-Deal,44.4312,25.4383
+173,36,TELEORMAN,FRĂSINET,71,7,21,3,1,199,4,12,65,4,21,3,0,206,5,9,Localul Grădiniței Clănița,,Clănița,44.1958,25.3725
+170,36,TELEORMAN,DRĂGĂNEŞTI-VLAŞCA,70,0,102,7,1,5,3,15,70,1,108,10,1,6,3,8,Școala cu Clasele I-IV Comoara,Nr. 32,Comoara,44.1113,25.5075
+143,36,TELEORMAN,CONŢEŞTI,589,2,45,15,2,33,13,60,640,3,44,15,2,37,13,20,Sala de Ședințe a Consiliului Local Conțești,Str. Alexandriei,Conțești,43.7906,25.4915
+144,36,TELEORMAN,CONŢEŞTI,587,8,55,8,1,46,5,58,628,7,57,8,1,42,7,16,Grădinița cu Program Normal Conțești,Str. Alexandriei,Conțești,43.7918,25.4903
+126,36,TELEORMAN,CĂLINEŞTI,329,7,64,4,0,20,7,15,339,7,62,5,0,19,8,15,Școala Gimnazială Copăceanca,,Copăceanca,44.1345,25.2178
+145,36,TELEORMAN,COSMEŞTI,110,6,295,16,0,5,5,5,109,4,299,17,0,3,5,5,Școala Gimnazială nr. 2 Cosmești,,Cosmești,44.2953,25.3918
+82,36,TELEORMAN,ORAŞ VIDELE,86,2,18,8,1,6,7,11,85,2,21,8,1,4,7,10,"Grădinița cu Program Normal nr. 7, Coșoaia",Nr. 61,Coșoaia,44.2784,25.6236
+322,36,TELEORMAN,VEDEA,182,4,16,9,0,9,1,10,191,3,13,9,0,9,1,10,Școala cu Clasele I -Iv Coșoteni,Nr. 58,Coșoteni,44.1201,25.0259
+149,36,TELEORMAN,CREVENICU,286,5,47,5,0,7,11,16,293,2,46,4,0,10,10,14,Grădinița cu Program Normal nr. 1 Crevenicu,,Crevenicu,44.2452,25.584
+151,36,TELEORMAN,CRÎNGENI,364,8,51,17,1,26,6,19,373,7,51,16,2,26,5,11,Căminului Cultural Cringeni,,Crângeni,44.0211,24.7986
+147,36,TELEORMAN,CRÂNGU,265,8,78,11,1,34,7,15,271,6,84,13,1,35,5,12,Căminul Cultural din Satul Crângu,,Crângu,43.8457,25.0714
+269,36,TELEORMAN,SCRIOAŞTEA,207,2,128,23,1,8,1,7,203,2,133,26,1,5,2,6,Cămin Cultural Cucueți,,Cucueți,44.1838,24.9466
+124,36,TELEORMAN,CĂLINEŞTI,600,5,19,51,0,105,5,20,605,2,23,48,0,115,4,11,Școala Gimnazială Călinești,,Călinești,44.0857,25.2423
+128,36,TELEORMAN,CĂLMĂŢUIU,246,2,31,9,0,1,0,6,245,3,33,8,0,1,0,4,Școala Gimnazială Călmățuiu (Fost Local al Școlii cu Clasele I-IV),Nr. 34,Călmățuiu,43.9667,24.8671
+132,36,TELEORMAN,CĂLMĂŢUIU DE SUS,207,12,57,8,1,3,2,8,210,10,56,8,2,3,2,8,Grădinița de Copii cu Program Normal nr. 1 Călmățuiu de Sus,,Călmățuiu de Sus,44.0279,24.8145
+108,36,TELEORMAN,BOTOROAGA,136,0,265,4,0,10,1,8,115,0,294,4,0,9,1,2,Școala Gimnazială nr. 1 Călugăru,,Călugaru,44.1513,25.4938
+249,36,TELEORMAN,POENI,92,3,5,9,0,7,3,5,88,4,4,16,0,5,6,7,Școala Primară Cătunu,Nr. 21,Cătunu,44.4218,25.3217
+310,36,TELEORMAN,TRIVALEA-MOŞTENI,212,0,25,12,1,11,11,16,209,2,25,12,2,12,12,20,Grădinița cu Program Normal nr. 2,,Deparați,44.2837,25.215
+155,36,TELEORMAN,DIDEŞTI,176,4,229,5,0,23,6,26,181,2,235,5,2,24,6,16,Căminul Cultural Didești,,Didești,44.2159,24.8855
+156,36,TELEORMAN,DOBROTEŞTI,332,16,62,27,0,18,8,29,345,13,54,24,0,20,11,34,Școala Gimnazială nr. 1,,Dobrotești,44.281,24.8875
+157,36,TELEORMAN,DOBROTEŞTI,254,16,37,13,0,21,9,24,254,13,38,11,1,23,11,23,Centrul de Îngrijire de Zi Pentru Copiii În Situații de Risc În Comuna Dobrotești,,Dobrotești,44.2705,24.8871
+153,36,TELEORMAN,CRÎNGENI,93,0,11,4,0,8,3,8,96,0,10,5,0,8,2,5,Clădire Primărie fosta Școală cu Clasele I-IV Dorobanțu,,Dorobanțu,43.9883,24.8254
+159,36,TELEORMAN,DRACEA,173,4,368,9,0,12,6,14,165,6,362,7,0,12,5,12,Grădinița cu Program Normal Dracea,Nr. 182,Dracea,43.8567,25.0432
+271,36,TELEORMAN,SCURTU MARE,91,4,12,4,0,9,0,4,86,4,14,8,0,9,1,5,Localul Școlii cu Clasele I-IV Dracesti,,Drăcești,44.3656,25.2453
+163,36,TELEORMAN,DRĂCŞENEI,150,0,21,6,0,3,9,14,150,1,20,5,0,4,6,13,Școala Gimnazială Drăcșani,Nr. 55,Drăcșani,44.2163,24.9894
+162,36,TELEORMAN,DRĂCŞENEI,229,5,66,4,1,2,8,11,235,5,68,4,1,2,10,11,Școala cu Clasele I-IV Drăcșenei,Nr. 16,Drăcșenei,44.2247,24.9836
+165,36,TELEORMAN,DRĂGĂNEŞTI DE VEDE,275,10,145,9,0,47,13,31,279,4,148,14,0,51,13,29,Școala Gimnazială Drăgănești de Vede,,Drăgănești de Vede,44.1318,25.0511
+167,36,TELEORMAN,DRĂGĂNEŞTI-VLAŞCA,297,6,450,13,2,19,9,21,299,2,458,15,2,15,7,15,Liceul Tehnologic Drăgănești Vlașca,Nr. 15,Drăgănești-Vlașca,44.1042,25.6006
+168,36,TELEORMAN,DRĂGĂNEŞTI-VLAŞCA,163,13,184,15,1,13,7,12,167,13,181,12,1,14,10,14,Școala Gimnazială Drăgănești Vlașca,Nr. 3,Drăgănești-Vlașca,44.1026,25.6003
+241,36,TELEORMAN,PLOPII-SLĂVITEŞTI,245,2,118,6,4,5,1,12,248,3,114,7,3,6,2,7,Grădinița cu Program Normal nr. 2,,Dudu,43.9836,24.6731
+323,36,TELEORMAN,VEDEA,205,6,19,10,0,11,2,8,209,6,20,9,1,15,0,3,Școala cu Clasele I-VIII Dulceanca,Nr. 130,Dulceanca,44.0866,25.106
+314,36,TELEORMAN,TROIANUL,30,1,35,3,0,1,1,4,31,0,35,3,0,1,1,4,Căminul Cultural,,Dulceni,43.9866,25.0463
+161,36,TELEORMAN,DRACEA,71,3,80,3,0,2,0,3,76,3,81,4,0,2,0,3,Căminul Cultural Florica,Nr. 60,Florica,43.8901,25.0175
+174,36,TELEORMAN,FRUMOASA,264,7,63,12,1,9,8,23,258,6,62,13,0,15,12,26,Căminul Cultural Frumoasa,,Frumoasa,43.7933,25.4706
+175,36,TELEORMAN,FRUMOASA,190,2,13,11,1,20,2,9,190,2,13,9,1,23,1,6,Grădinița cu Program Normal nr. 2 Frumoasa,,Frumoasa,43.7795,25.4729
+172,36,TELEORMAN,FRĂSINET,184,15,53,22,2,365,14,33,173,17,50,24,4,371,14,28,Localul Școlii Gimnaziale Frăsinet,,Frăsinet,44.1801,25.3816
+177,36,TELEORMAN,FURCULEŞTI,259,5,288,10,0,23,6,13,254,5,286,12,2,23,5,13,Școala Gimnazială Furculești,,Furculești,43.8712,25.1408
+171,36,TELEORMAN,FÂNTÂNELE,517,10,159,17,1,48,11,25,523,8,158,15,1,53,9,20,Școala Gimnazială Fântânele,Șoseaua Turnu Măgurele nr. 94,Fântânele,43.7201,25.2915
+182,36,TELEORMAN,GRATIA,423,16,16,6,0,7,3,11,422,17,16,9,0,12,2,8,Grădinița cu Program Normal nr. 1,Șoseaua Tudor Vladimirescu nr. 10,Gratia,44.4365,25.4468
+294,36,TELEORMAN,STEJARU,82,0,12,1,0,2,1,2,82,0,13,0,0,1,1,3,Clădirea Școlii Elementare Gresia,,Gresia,44.17,24.9188
+200,36,TELEORMAN,MĂGURA,446,1,24,28,0,4,9,18,452,3,24,25,0,6,8,17,Căminul Cultural Guruieni,,Guruieni,44.0601,25.3953
+217,36,TELEORMAN,NECŞEŞTI,120,0,12,1,0,36,3,5,115,2,13,1,0,39,4,6,Localul Școlii cu Clasele I-VIII Gârdești,,Gârdești,44.2639,25.1231
+180,36,TELEORMAN,GĂLĂTENI,379,12,58,6,0,29,20,31,378,11,55,10,0,24,23,40,Școala Primară Gălăteni,,Gălăteni,44.2142,25.3585
+332,36,TELEORMAN,VÎRTOAPE,54,1,262,1,0,7,0,4,52,2,264,1,0,6,0,3,Căminul Cultural Gărăgău,,Gărăgău,44.2285,25.1949
+133,36,TELEORMAN,CĂLMĂŢUIU DE SUS,76,1,30,5,1,3,1,4,82,1,31,4,0,1,2,4,Grădinița de Copii cu Program Normal nr. 3 Ionașcu,,Ionașcu,44.042,24.8155
+184,36,TELEORMAN,ISLAZ,463,18,132,13,3,18,12,24,462,19,130,11,3,16,13,23,Căminul Cultural,,Islaz,43.7198,24.7643
+185,36,TELEORMAN,ISLAZ,491,21,149,16,0,4,9,22,500,23,152,14,2,3,5,22,Grădinița cu Program Normal nr. 2,,Islaz,43.7308,24.7536
+186,36,TELEORMAN,ISLAZ,311,11,51,9,2,5,4,14,310,12,57,7,2,7,4,13,Școala Gimnazială nr. 1 Islaz,,Islaz,43.7206,24.7644
+188,36,TELEORMAN,IZVOARELE,341,10,96,13,0,17,13,69,347,13,102,17,0,21,15,42,Grădinița de Copii Izvoarele,Nr. 1,Izvoarele,43.826,25.3937
+189,36,TELEORMAN,IZVOARELE,312,4,110,16,0,28,15,44,315,7,118,17,1,32,14,28,Grădinița de Copii Izvoarele,Nr. 35,Izvoarele,43.8226,25.3956
+125,36,TELEORMAN,CĂLINEŞTI,197,1,10,8,0,21,4,12,200,1,13,8,1,19,2,14,Școala Gimnazială Licuriciu,,Licuriciu,44.0993,25.1981
+190,36,TELEORMAN,LISA,202,6,380,12,1,11,14,21,196,7,390,12,2,10,13,16,Primăria Lisa,Nr. 37,Lisa,43.7925,25.1417
+192,36,TELEORMAN,LIŢA,302,17,65,19,0,37,5,17,312,17,66,20,0,36,5,16,Școala Gimnazială Lița,Nr. 174,Lița,43.7955,24.8201
+193,36,TELEORMAN,LIŢA,392,10,68,14,0,33,6,18,391,9,70,12,1,34,9,23,Grădinița cu Program Normal nr. 2,Nr. 76,Lița,43.7868,24.827
+194,36,TELEORMAN,LUNCA,203,16,39,16,3,95,15,34,207,15,42,23,2,93,16,27,Școala Gimnazială Numărul 1 Lunca,,Lunca,43.8386,24.7684
+195,36,TELEORMAN,LUNCA,138,8,26,6,3,87,14,48,160,9,27,5,5,84,16,28,Grădinița cu Program Normal Numărul 1 Lunca,,Lunca,43.8414,24.7668
+227,36,TELEORMAN,ORBEASCA,312,4,28,4,2,11,8,12,318,5,29,5,3,11,9,11,Școala Gimnazială nr. 3 Laceni (Corp A),,Lăceni,44.0833,25.3318
+228,36,TELEORMAN,ORBEASCA,325,5,39,6,0,20,7,17,330,5,42,4,0,15,10,17,Școala Gimnazială nr. 3 Laceni (Corp A),,Lăceni,44.0833,25.3318
+197,36,TELEORMAN,MAVRODIN,189,7,30,109,1,48,8,18,186,9,34,114,2,53,10,20,Școala Gimnazială Mavrodin,,Mavrodin,44.0359,25.2352
+198,36,TELEORMAN,MAVRODIN,193,6,54,132,0,14,9,14,194,6,53,124,1,21,6,17,Căminul Cultural Mavrodin,,Mavrodin,44.036,25.2348
+204,36,TELEORMAN,MERENI,143,4,400,4,1,7,2,9,145,1,400,4,2,10,2,3,Școala Gimnazială cu Clasele I-VIII Merenii de Jos,Nr. 617,Merenii de Jos,44.232,25.6382
+205,36,TELEORMAN,MERENI,150,1,174,3,0,2,2,15,147,4,176,1,1,1,3,13,Școala Generală cu Clasele I-VIII,,Merenii de Sus,44.226,25.6189
+324,36,TELEORMAN,VEDEA,208,3,10,3,1,4,1,3,207,3,9,3,1,4,0,1,Școala cu Clasele I-IV Meri,Nr. 15,Meri,44.1013,25.0537
+158,36,TELEORMAN,DOBROTEŞTI,296,4,19,17,1,18,7,28,297,6,26,18,0,19,7,22,Școala Gimnazială nr. 2,,Merișani,44.2517,24.8757
+187,36,TELEORMAN,ISLAZ,313,7,67,16,2,16,9,23,312,5,72,19,2,16,8,20,Școala Generală Moldoveni,,Moldoveni,43.7751,24.7269
+210,36,TELEORMAN,MOŞTENI,56,2,421,2,0,0,2,2,57,2,419,2,0,1,3,4,Școala Gimnazială Moșteni,Nr. 335,Moșteni,44.1967,25.5039
+211,36,TELEORMAN,MOŞTENI,28,4,293,0,0,2,9,10,25,5,295,0,0,2,10,11,Școala Gimnazială Moșteni,Nr. 335,Moșteni,44.1967,25.5039
+208,36,TELEORMAN,MÎRZĂNEŞTI,138,6,100,2,0,8,34,37,139,9,97,5,1,8,32,35,Școala Gimnazială nr. 1 Mîrzănești,Str. Principală nr. 316,Mârzănești,43.9398,25.4659
+199,36,TELEORMAN,MĂGURA,625,5,50,86,2,34,44,75,638,5,56,86,3,28,45,69,Căminul Cultural Măgura,,Măgura,44.028,25.3919
+201,36,TELEORMAN,MĂLDĂENI,439,12,49,9,0,19,13,39,444,14,45,8,3,20,17,39,Școala Gimnazială nr. 1,,Măldăeni,44.1225,24.923
+202,36,TELEORMAN,MĂLDĂENI,348,13,50,10,0,20,3,11,344,15,46,11,0,22,5,14,Grădinița cu Program Normal nr. 1,,Măldăeni,44.1262,24.9217
+203,36,TELEORMAN,MĂLDĂENI,388,8,77,11,2,72,8,20,382,9,83,10,1,70,8,25,Grădinița cu Program Normal nr. 2,,Măldăeni,44.1309,24.915
+212,36,TELEORMAN,NANOV,423,28,62,18,1,60,24,38,425,28,56,18,1,72,23,37,Școala Gimnazială Nanov,,Nanov,43.9912,25.2904
+213,36,TELEORMAN,NANOV,356,6,75,21,0,33,14,31,349,9,80,21,0,41,15,24,Grădinița cu Program Normal nr. 2 Nanov,,Nanov,43.9962,25.2801
+216,36,TELEORMAN,NECŞEŞTI,101,1,14,2,0,71,2,6,93,0,14,2,0,80,3,7,Localul Școlii cu Clasele I-IV Necșești,,Necșești,44.2518,25.1474
+303,36,TELEORMAN,TĂTĂRĂŞTII DE JOS,166,2,23,5,1,3,0,6,165,2,23,7,1,5,0,4,Școala Gimnazială Negreni,,Negreni,44.4065,25.1988
+218,36,TELEORMAN,NENCIULEŞTI,169,7,23,8,0,67,3,9,178,6,25,9,0,62,4,9,Școala Gimnazială Nenciulești,,Nenciulești,44.0342,25.2022
+219,36,TELEORMAN,NENCIULEŞTI,214,4,16,9,0,91,4,10,220,7,16,0,0,98,4,6,Grădinița cu Program Normal nr. 1 Nenciulești,,Nenciulești,44.0372,25.1881
+131,36,TELEORMAN,CĂLMĂŢUIU,210,5,77,10,1,2,3,6,205,7,75,11,0,4,4,8,Școala Gimnazială Călmățuiu (Fost Local al Școlii Nicolae Bălcescu),Nr. 258,Nicolae Bălcescu,43.9598,24.8303
+214,36,TELEORMAN,NĂSTURELU,241,6,250,13,3,66,3,12,246,6,252,12,2,65,3,13,Școala Gimnazială Năsturelu,,Năsturelu,43.6728,25.4712
+274,36,TELEORMAN,SEACA,217,3,78,31,0,15,5,15,216,4,79,32,0,13,5,14,"Grădinița cu Program Normal nr. 2 Navodari, Sat Navodari, Comuna Seaca, Judetul Teleorman, Strada Dunarii nr. 107",,Năvodari,43.7416,25.1018
+164,36,TELEORMAN,DRĂCŞENEI,159,1,59,2,0,1,2,8,160,3,61,3,0,0,0,3,Școala cu Clasele I-IV Odobeasca,Nr. 39,Odobeasca,44.1955,25.0087
+276,36,TELEORMAN,SEGARCEA-VALE,315,11,42,5,2,9,13,19,328,10,41,5,2,6,12,16,Localul Școlii cu Clasele I-VIII Olteanca,Nr. 4,Olteanca,43.8299,24.7915
+221,36,TELEORMAN,OLTENI,417,21,36,69,0,28,15,20,425,19,33,74,0,32,15,20,Școala Gimnazială nr. 1 Olteni,,Olteni,44.1758,25.2911
+223,36,TELEORMAN,ORBEASCA,276,4,10,6,1,6,8,12,260,14,12,3,1,12,8,15,Școala Gimnazială nr. 2 Orbeasca de Jos (Corp A),,Orbeasca de Jos,44.1219,25.3286
+224,36,TELEORMAN,ORBEASCA,343,5,16,15,1,15,2,14,340,6,16,15,2,15,3,9,Școala Gimnazială nr. 2 Orbeasca de Jos (Corp A),,Orbeasca de Jos,44.1219,25.3286
+225,36,TELEORMAN,ORBEASCA,406,11,30,11,0,8,8,17,415,14,32,12,0,9,6,9,Școala Gimnazială nr. 1 Orbeasca de Sus (Corp B),,Orbeasca de Sus,44.141,25.3177
+226,36,TELEORMAN,ORBEASCA,533,8,20,16,2,6,7,12,533,10,16,19,0,7,7,14,Școala Gimnazială nr. 1 Orbeasca de Sus (Corp B),,Orbeasca de Sus,44.141,25.3177
+229,36,TELEORMAN,PERETU,187,9,112,19,1,38,2,8,181,11,112,19,1,42,2,4,Școala Gimnazială „Grigore Dimitrie Ghica” Peretu,Nr. 771,Peretu,44.039,25.0884
+230,36,TELEORMAN,PERETU,249,16,115,11,2,39,2,14,251,17,116,13,0,39,2,9,Școala Gimnazială „Grigore Dimitrie Ghica” Peretu,Nr. 771,Peretu,44.039,25.0884
+231,36,TELEORMAN,PERETU,257,11,107,19,0,23,14,20,259,10,108,15,2,23,16,18,Căminul Cultural Peretu,Nr. 260,Peretu,44.0424,25.0903
+232,36,TELEORMAN,PERETU,201,7,126,19,0,37,6,11,207,8,127,18,0,40,5,7,Grădinița cu Program Normal Peretu,Nr. 250,Peretu,44.0427,25.0902
+233,36,TELEORMAN,PERETU,220,3,79,16,1,31,5,9,215,2,76,15,1,38,4,7,Grădinița cu Program Normal Peretu,Nr. 250,Peretu,44.0427,25.0902
+222,36,TELEORMAN,OLTENI,261,2,15,36,0,11,6,11,261,1,21,33,0,13,7,10,Școala Gimnazială nr. 2 Perii-Broșteni,,Perii Broșteni,44.2022,25.2628
+234,36,TELEORMAN,PIATRA,241,15,148,22,1,46,7,16,244,15,150,22,1,48,5,12,Școala Gimnazială Piatra,,Piatra,43.8161,25.1634
+235,36,TELEORMAN,PIATRA,217,12,92,13,2,40,10,18,223,9,93,15,6,39,11,15,Grădinița cu Program Normal Piatra,,Piatra,43.8099,25.1653
+236,36,TELEORMAN,PIATRA,265,5,87,20,1,23,8,13,267,3,93,16,0,22,8,13,Sala de Protocol Primăria Comunei Piatra,,Piatra,43.8056,25.165
+237,36,TELEORMAN,PIETROŞANI,362,5,44,14,0,14,8,13,352,4,45,16,0,19,7,13,Școala Gimnazială (Școala Veche),,Pietroșani,43.7096,25.6395
+238,36,TELEORMAN,PIETROŞANI,434,3,59,15,1,11,1,7,434,3,63,14,2,11,2,9,Școala Gimnazială (Școala Nouă),,Pietroșani,43.7083,25.6371
+261,36,TELEORMAN,SAELELE,423,6,23,6,1,6,4,6,431,6,23,6,1,4,4,6,Grădinița Pleașov,,Pleașov,43.8501,24.7443
+99,36,TELEORMAN,BEUCA,77,1,40,2,0,2,3,5,73,1,42,3,1,4,2,4,Căminul Cultural Plopi,,Plopi,44.2801,24.9903
+239,36,TELEORMAN,PLOPII-SLĂVITEŞTI,183,1,160,10,1,7,0,2,184,2,150,11,1,7,1,6,Școala Gimnazială Plopii Slăvitești,,Plopii-Slăvitești,43.9613,24.6834
+242,36,TELEORMAN,PLOSCA,232,4,190,8,0,84,12,23,231,3,190,9,0,85,10,23,Căminul Cultural,,Plosca,44.0246,25.1413
+243,36,TELEORMAN,PLOSCA,216,12,369,13,1,62,3,19,217,13,364,13,1,65,4,17,Școala Răsfirați,,Plosca,44.0179,25.1649
+244,36,TELEORMAN,PLOSCA,125,4,127,2,0,39,5,13,126,2,126,1,0,40,4,11,Școala Gimnazială Plosca,,Plosca,44.0234,25.1455
+245,36,TELEORMAN,PLOSCA,181,10,213,15,0,73,9,19,186,9,210,18,0,82,6,13,Școala Mică,,Plosca,44.025,25.1396
+246,36,TELEORMAN,POENI,215,10,17,76,1,6,9,25,219,8,16,82,0,6,8,16,Școala Generală Poeni,Nr. 39,Poeni,44.4052,25.3435
+142,36,TELEORMAN,CIUPERCENI,218,7,121,23,0,11,4,13,218,9,119,21,0,9,5,13,Școala Generală Poiana,,Poiana,43.7423,24.9537
+250,36,TELEORMAN,POROSCHIA,458,33,69,29,1,87,21,40,468,34,72,26,2,96,17,28,Școala Gimnazială Poroschia,,Poroschia,43.9402,25.3556
+251,36,TELEORMAN,POROSCHIA,476,28,86,10,0,135,18,39,474,28,82,11,3,144,18,35,Școala Generală Poroschia,,Poroschia,43.9375,25.3585
+247,36,TELEORMAN,POENI,117,0,7,6,1,13,8,9,116,0,8,7,1,14,8,9,Școala Generală Preajba,Str. Principală nr. 1,Preajba,44.432,25.3568
+118,36,TELEORMAN,BUJORENI,97,36,34,12,0,6,0,7,99,35,33,16,1,7,1,6,Școala cu Clasele I-IV Prunaru,,Prunaru,44.1238,25.6791
+196,36,TELEORMAN,LUNCA,194,2,7,9,2,8,41,93,243,2,10,8,0,9,50,68,Școala Gimnazială Numărul 2 Prundu,,Prundu,43.8258,24.6912
+253,36,TELEORMAN,PURANI,385,9,26,81,0,42,6,13,372,6,27,92,1,42,5,13,Școala Gimnazială Puranii de Sus,Nr. 25,Purani,44.3683,25.3991
+327,36,TELEORMAN,VITĂNEŞTI,243,4,62,9,0,6,37,44,237,5,57,12,0,6,34,49,Cămin Cultural Sat Purani,,Purani,43.9821,25.4362
+254,36,TELEORMAN,PUTINEIU,455,18,91,10,1,20,11,25,451,18,97,9,2,16,11,23,Grădinița cu Program Normal nr. 1 Putineiu,Nr. 12,Putineiu,43.9011,24.9652
+220,36,TELEORMAN,NENCIULEŞTI,136,9,7,10,0,23,1,4,136,8,7,9,0,23,1,2,Grădinița cu Program Normal nr. 2 Păru Rotund,,Păru Rotund,44.0435,25.1635
+176,36,TELEORMAN,FRUMOASA,114,3,64,5,0,6,2,7,116,2,63,5,0,8,2,5,Grădinița cu Program Normal nr. 2 Păuleasca,,Păuleasca,43.8131,25.4539
+35,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,298,28,63,16,0,40,19,28,291,30,60,17,0,47,15,30,Școala Gimnazială „Zaharia Stancu”,Str. Carpați nr. 71-73,Rosiori de Vede,44.1192,24.9844
+36,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,256,21,47,10,0,21,19,31,256,24,46,10,1,19,22,33,Școala Gimnazială „Zaharia Stancu”,Str. Carpați nr. 71-73,Rosiori de Vede,44.1192,24.9844
+37,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,272,18,70,22,1,34,14,36,266,23,67,22,1,36,15,37,Școala Gimnazială „Dan Berindei”,Str. Carpați nr. 40,Rosiori de Vede,44.115,24.9894
+38,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,261,34,79,31,0,38,16,37,256,37,72,37,1,41,20,37,Colegiul Tehnic „Anghel Saligny”,Str. Renașterii nr. 15,Rosiori de Vede,44.1114,24.9915
+39,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,255,27,58,24,3,41,21,46,264,31,52,25,0,42,19,40,Grădinița cu Program Prelungit nr. 1,Str. Mihail Eminescu nr. 19,Rosiori de Vede,44.1147,24.9908
+40,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,263,35,61,30,0,33,15,37,262,35,62,29,0,39,15,31,Centrul Cultural,Str. Mărășești nr. 38,Rosiori de Vede,44.1114,24.9972
+41,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,278,23,51,23,0,27,11,29,273,26,51,23,0,28,11,28,Școala Gimnazială „Gala Galaction”,Bulevardul Sfânta Vineri (Bulevardul Sfînta Vineri) (D) nr. 10,Rosiori de Vede,44.1105,24.9988
+42,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,222,8,43,19,0,15,11,19,214,8,42,18,0,20,12,22,Școala Gimnazială „Gala Galaction”,Bulevardul Sfânta Vineri (Bulevardul Sfînta Vineri) (D) nr. 10,Rosiori de Vede,44.1105,24.9988
+43,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,242,29,73,22,1,31,25,39,232,30,69,23,1,34,29,44,Muzeul de Istorie,Str. Dunării nr. 54,Rosiori de Vede,44.109,24.9945
+44,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,322,57,69,28,3,47,24,42,323,57,72,31,3,47,22,39,Clubul Copiilor,Str. Ion Luca Caragiale nr. 37,Rosiori de Vede,44.1085,24.9917
+45,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,299,28,59,17,0,28,19,31,309,24,57,19,0,26,16,29,Școala Gimnazială „Alexandru Depărățeanu”,Str. Dunării nr. 126,Rosiori de Vede,44.1016,24.9979
+46,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,289,7,50,20,2,15,7,19,284,7,52,23,3,16,8,17,Școala Gimnazială „Alexandru Depărățeanu”,Str. Dunării nr. 126,Rosiori de Vede,44.1016,24.9979
+47,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,266,25,70,29,0,33,7,30,269,26,63,32,1,34,9,30,Școala Gimnazială „Alexandru Depărățeanu”,Str. Dunării nr. 126,Rosiori de Vede,44.1016,24.9979
+48,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,365,20,57,26,0,29,13,27,369,19,51,26,0,29,14,27,Școala Primară nr. 5,Str. Stegarului nr. 2,Rosiori de Vede,44.0963,24.9952
+49,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,327,20,56,10,2,19,16,40,335,18,55,12,2,17,15,38,Școala Primară nr. 5,Str. Stegarului nr. 2,Rosiori de Vede,44.0963,24.9952
+50,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,279,36,54,29,0,46,24,49,292,42,40,36,1,41,26,43,Liceul Tehnologic „Emil Racoviță”,Str. Ion Luca Caragiale nr. 7,Rosiori de Vede,44.1111,24.9907
+51,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,248,20,54,16,2,31,15,24,247,22,52,16,1,36,13,22,Casa de Cultură,Str. Dunării nr. 54-56,Rosiori de Vede,44.1089,24.9945
+52,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,303,34,71,23,0,37,24,38,302,33,69,25,0,40,22,41,Colegiul Național „Anastasescu”,Str. Republicii nr. 9-11,Rosiori de Vede,44.114,24.985
+53,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,322,10,61,26,0,19,15,33,323,11,62,28,0,25,14,26,Grădinița cu Program Normal nr. 3,Str. Sg. Izbiceanu nr. 28,Rosiori de Vede,44.1157,24.9815
+54,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,298,27,58,24,0,29,28,43,305,31,55,26,0,29,23,37,Liceul Tehnologic „Virgil Madgearu”,Str. Republicii nr. 11,Rosiori de Vede,44.1146,24.9845
+55,36,TELEORMAN,MUNICIPIUL ROŞIORI DE VEDE,282,15,45,16,1,19,17,34,275,14,50,16,1,23,18,35,Grădinița cu Program Normal nr. 6,Str. Carpați nr. 75,Rosiori de Vede,44.1191,24.9845
+257,36,TELEORMAN,RĂDOIEŞTI,291,9,14,7,0,13,14,20,287,7,16,7,0,14,18,23,Școala Gimnazială Rădoiești,,Rădoiești-Deal,44.1493,25.1404
+256,36,TELEORMAN,RĂDOIEŞTI,203,5,25,0,1,7,9,10,203,4,26,0,1,8,10,12,Cămin Cultural,,Rădoiești-Vale,44.1459,25.1515
+150,36,TELEORMAN,CREVENICU,176,2,18,1,0,1,4,10,182,1,13,3,0,1,4,10,Căminul Cultural Rădulești,,Rădulești,44.2439,25.5576
+259,36,TELEORMAN,RĂSMIREŞTI,149,1,251,5,2,44,4,13,148,1,252,6,2,42,5,20,Căminul Cultural Răsmirești,,Răsmirești,43.9972,25.5624
+260,36,TELEORMAN,SAELELE,719,12,43,10,1,12,7,15,692,11,54,15,1,17,11,18,Școala Gimnazială Saelele,,Saelele,43.8593,24.7254
+262,36,TELEORMAN,SALCIA,262,2,35,13,1,15,14,29,263,2,40,11,0,17,14,27,Localul Căminului Cultural Salcia,,Salcia,43.94,24.9232
+267,36,TELEORMAN,SCRIOAŞTEA,547,26,270,24,2,34,6,25,549,30,269,24,3,40,9,21,Cămin Cultural Scrioaștea,,Scrioaștea,44.1452,24.9551
+270,36,TELEORMAN,SCURTU MARE,269,5,59,30,0,42,1,10,257,4,51,52,0,45,1,8,Localul Școlii Generale cu Clasele I-VIII Scurtu Mare,,Scurtu Mare,44.3436,25.2704
+273,36,TELEORMAN,SEACA,281,8,163,36,2,23,6,15,281,8,174,34,3,16,11,18,"Grădinița cu Program Normal, nr. 1 Seaca, Sat Seaca, Judetul Teleorman, Strada Victoriei nr. 75",,Seaca,43.7568,25.0583
+148,36,TELEORMAN,CRÂNGU,198,3,24,6,1,3,18,23,202,1,21,6,0,4,17,21,Sediul Administrativ din Satul Secara,,Secara,43.8444,25.0872
+277,36,TELEORMAN,SEGARCEA-VALE,378,3,76,6,0,29,9,23,381,2,72,7,1,26,11,20,Localul Școlii cu Clasele I-VIII Segarcea Deal,Nr. 35,Segarcea-Deal,43.8263,24.8372
+275,36,TELEORMAN,SEGARCEA-VALE,375,5,59,9,1,13,3,9,374,4,58,10,0,15,5,7,Localul Școlii cu Clasele I-VIII Segarcea Vale,Nr. 2,Segarcea-Vale,43.8172,24.8059
+103,36,TELEORMAN,BLEJEŞTI,174,3,16,8,1,0,4,7,174,5,15,7,1,0,3,8,Grădinița de Copii cu Program Normal Sericu Comuna Blejești,Nr. 19,Sericu,44.2858,25.4369
+278,36,TELEORMAN,SFINŢEŞTI,237,5,150,8,0,10,5,17,248,5,147,4,2,13,6,11,Localul Căminului Cultural Sfințești,,Sfințești,44.1879,25.1026
+279,36,TELEORMAN,SILIŞTEA,408,12,16,74,1,1,3,15,383,10,14,113,0,2,5,9,Căminul Cultural Siliștea,,Siliștea,44.3735,25.3569
+328,36,TELEORMAN,VITĂNEŞTI,342,4,49,7,1,15,3,9,343,3,49,6,1,14,4,11,Cămin Cultural Sat Siliștea,,Siliștea,43.9904,25.4689
+281,36,TELEORMAN,SILIŞTEA,58,2,8,0,1,0,1,42,43,2,4,54,1,1,1,4,Grădinița cu Program Normal nr. 3 Siliștea Mică (Fost Local al Școlii cu Clasele I-IV Siliștea Mică),,Siliștea Mică,44.358,25.3115
+282,36,TELEORMAN,SILIŞTEA-GUMEŞTI,202,3,223,13,0,6,3,35,201,1,225,12,0,5,3,45,Centrul Memorial „Marin Preda”,,Siliștea-Gumești,44.3791,25.0116
+283,36,TELEORMAN,SILIŞTEA-GUMEŞTI,168,4,97,8,0,6,5,26,167,1,99,8,0,6,4,28,Școala cu Clasele I-IV „Măgura”,,Siliștea-Gumești,44.3852,25.0094
+287,36,TELEORMAN,SLOBOZIA MÂNDRA,354,5,28,9,0,6,2,5,359,6,27,9,0,6,1,6,Școala Gimnazială Slobozia Mândra,,Slobozia Mândra,43.9158,24.6962
+288,36,TELEORMAN,SLOBOZIA MÂNDRA,330,3,35,6,0,12,7,13,337,4,43,7,1,11,9,14,Școala Gimnazială Slobozia Mândra,,Slobozia Mândra,43.9245,24.6943
+302,36,TELEORMAN,TĂTĂRĂŞTII DE JOS,184,5,24,10,0,28,5,6,184,4,24,10,1,26,6,11,Școala Gimnazială Slăvești,,Slăvești,44.3316,25.2005
+97,36,TELEORMAN,BECIU,110,3,25,7,0,11,4,24,101,2,20,4,1,7,2,59,Grădinița de Copii cu Program Normal nr. 2 Smârdan,,Smârdan,44.0163,24.6517
+289,36,TELEORMAN,SMÎRDIOASA,568,6,57,14,0,17,6,45,605,6,58,14,0,18,7,17,Școala Gimnazială Smîrdioasa,Str. Principală nr. 30,Smârdioasa,43.8456,25.4382
+292,36,TELEORMAN,STEJARU,377,0,46,7,0,12,8,13,385,1,43,7,0,11,7,12,Clădirea Școlii Generale Socetu,,Socetu,44.1969,24.8534
+178,36,TELEORMAN,FURCULEŞTI,190,1,156,8,1,38,8,16,182,4,163,6,1,39,5,13,Școala cu Clasele I-VIII Spătărei,,Spătărei,43.885,25.1361
+154,36,TELEORMAN,CRÎNGENI,83,3,31,4,0,1,1,6,83,5,32,3,1,1,1,3,Clădire Primărie fosta Școală cu Clasele I-IV Stejaru,,Stejaru,44.0253,24.7811
+291,36,TELEORMAN,STEJARU,413,0,19,2,0,4,4,5,411,0,19,2,0,6,3,3,Cămin Cultural Stejaru,Nr. 291,Stejaru,44.1865,24.882
+295,36,TELEORMAN,SUHAIA,232,4,69,27,0,17,28,38,226,5,64,28,1,23,30,41,Școala Gimnazială Suhaia,Str. Șoseaua Dunării nr. 123,Suhaia,43.7348,25.2595
+296,36,TELEORMAN,SUHAIA,200,8,131,32,1,29,14,28,212,9,118,32,0,32,16,24,Școala Gimnazială Suhaia,Str. Șoseaua Dunării nr. 224,Suhaia,43.7398,25.25
+285,36,TELEORMAN,SÎRBENI,104,4,14,9,0,75,3,5,101,7,14,9,0,75,3,8,Grădinița cu Program Normal nr. 2,Str. Școlii nr. 261,Sârbeni,44.4713,25.3864
+286,36,TELEORMAN,SÎRBENI,56,5,11,2,0,23,1,3,59,5,12,2,0,20,1,2,Localul Școlii Gimnaziale Sârbenii de Jos,Str. Primăriei nr. 1,Sârbenii de Jos,44.4635,25.4116
+265,36,TELEORMAN,SĂCENI,271,1,31,7,1,8,2,11,277,1,29,7,1,9,3,9,Școala Gimnazială Săceni,,Săceni,44.2297,25.0613
+300,36,TELEORMAN,TALPA,371,10,43,11,1,17,3,16,374,9,38,14,1,17,3,14,Școala cu Clasele I-IV Talpa,,Talpa-Bâscoveni,44.2738,25.3183
+299,36,TELEORMAN,TALPA,442,5,32,21,0,5,3,16,436,6,29,28,0,9,4,8,Școala Gimnazială Comuna Talpa,,Talpa-Ogrăzile,44.2896,25.2906
+93,36,TELEORMAN,BALACI,245,5,16,7,0,10,3,6,246,5,19,7,0,10,2,4,Căminul Cultural Tecuci,Nr. 4,Tecuci,44.3451,24.8582
+209,36,TELEORMAN,MÎRZĂNEŞTI,202,3,120,10,1,20,14,20,198,5,125,10,1,22,14,18,Școala Gimnazială Teleormanu,Str. Principală nr. 564,Teleormanu,43.9625,25.4579
+306,36,TELEORMAN,TRAIAN,288,26,33,9,0,6,6,15,279,28,33,9,0,7,8,18,"Spații Birouri, Strada Principală nr. 116",,Traian,43.7641,24.9933
+307,36,TELEORMAN,TRAIAN,337,6,60,12,0,12,6,22,347,7,57,10,1,12,9,22,"Școala Gimnazială Traian, Strada Principală nr. 188",,Traian,43.7662,25.0028
+308,36,TELEORMAN,TRIVALEA-MOŞTENI,276,2,16,4,1,10,9,18,285,0,17,4,1,10,8,13,Grădinița Trivalea-Sat (Fosta),,Trivalea-Moșteni,44.2522,25.2426
+311,36,TELEORMAN,TROIANUL,371,13,210,19,1,24,10,23,377,11,218,20,1,22,8,16,Școala Gimnazială „Ion Preotu”,,Troianul,44.0028,25.0198
+312,36,TELEORMAN,TROIANUL,174,3,133,14,1,9,15,25,185,5,134,14,1,7,13,21,Școala Genarală nr. 2,,Troianul,43.9988,25.0108
+264,36,TELEORMAN,SALCIA,326,1,22,6,0,28,9,15,327,2,23,4,1,30,5,11,Localul Căminului Cultural din Satul Tudor Vladimirescu,,Tudor Vladimirescu,43.9458,24.903
+110,36,TELEORMAN,BOTOROAGA,41,1,62,1,1,11,0,1,42,1,63,1,1,9,0,1,Școala cu Clasele I-IV Tunari,,Tunari,44.1372,25.589
+56,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,362,21,72,7,0,31,10,24,375,20,74,5,0,25,6,21,Grădinița cu Program Normal nr. 3,Str. Oltului nr. 156,Turnu Măgurele,43.7676,24.8482
+57,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,260,28,57,20,0,20,11,30,246,27,59,25,2,20,14,32,Școala Generală nr. 3,Str. Ghica Vodă nr. 104,Turnu Măgurele,43.767,24.853
+58,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,365,45,87,18,0,45,19,55,364,44,85,22,1,52,18,51,Școala Gimnazială nr. 4,Str. Chimiei nr. 18,Turnu Măgurele,43.7581,24.8674
+59,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,407,35,109,17,0,39,19,37,406,32,107,17,0,44,17,39,Grădinița cu Program Prelungit nr. 7,Str. Chimiei nr. 1,Turnu Măgurele,43.7574,24.8674
+60,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,338,64,69,21,0,43,23,41,334,65,68,20,0,48,21,38,Colegiul Tehnic „G-Ral D. Praporgescu”,Str. Taberei nr. 2,Turnu Măgurele,43.7562,24.8709
+61,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,247,32,46,10,0,29,10,19,243,28,42,14,1,30,13,23,Colegiul Tehnic „G-Ral D. Praporgescu”,Str. Taberei nr. 2,Turnu Măgurele,43.7563,24.8709
+62,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,206,10,33,8,2,19,8,20,206,10,36,8,2,21,7,18,Grădinița cu Program Normal nr. 4,Str. Traian nr. 3,Turnu Măgurele,43.7515,24.8677
+63,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,232,16,27,6,0,16,13,22,237,16,20,5,0,21,9,20,Policlinica Municipală,Str. Cpt. Stănculescu nr. 21,Turnu Măgurele,43.752,24.8695
+64,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,283,69,73,41,1,43,16,27,283,64,72,40,1,48,15,24,Colegiul Național „Unirea”,Str. Castanilor nr. 25,Turnu Măgurele,43.7441,24.868
+65,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,299,64,73,23,1,42,17,34,296,63,68,21,1,41,18,44,Colegiul Național „Unirea”,Str. Castanilor nr. 25,Turnu Măgurele,43.7441,24.868
+66,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,249,38,62,30,1,25,10,21,240,42,62,30,2,28,6,22,Școala Gimnazială „Mircea Cel Bătrân”,Str. Avîntului nr. 1,Turnu Măgurele,43.7517,24.8716
+67,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,421,81,107,27,2,40,20,35,418,86,106,26,3,44,18,31,Școala Gimnazială „Mircea Cel Bătrân”,Str. Avîntului nr. 1,Turnu Măgurele,43.7517,24.8715
+68,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,403,68,117,56,0,55,23,40,394,71,121,55,0,59,25,37,Liceul Tehnologic „Sf. Haralambie”,Str. Oituz nr. 11,Turnu Măgurele,43.7476,24.8708
+69,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,272,44,64,24,2,30,16,30,267,43,61,25,1,35,18,35,Liceul Teoretic „Marin Preda”,Str. Cetatea Turnu nr. 9A,Turnu Măgurele,43.7488,24.8737
+70,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,244,45,65,29,1,34,17,33,239,39,68,29,0,38,19,39,Grădinița cu Program Prelungit nr. 5,Str. Cetatea Turnu nr. 3,Turnu Măgurele,43.7493,24.8728
+71,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,340,16,54,11,1,27,17,38,346,17,56,8,1,30,20,35,Grădinița cu Program Normal nr. 2,Str. Libertății nr. 104,Turnu Măgurele,43.7526,24.8878
+72,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,345,29,53,9,0,16,14,33,349,27,49,8,0,16,19,36,Școala Gimnazială nr. 2,Str. Alexandru Vlahuță nr. 15-17,Turnu Măgurele,43.7528,24.8824
+73,36,TELEORMAN,MUNICIPIUL TURNU MAGURELE,379,31,92,13,0,26,9,31,381,32,93,15,0,28,13,27,Dispensarul Uman Măgurele,Str. Libertății nr. 104,Turnu Măgurele,43.7522,24.8876
+109,36,TELEORMAN,BOTOROAGA,252,3,226,15,0,33,10,10,255,3,216,17,0,34,7,7,Grădinița cu Program Normal nr. 2,Nr. 271,Târnava,44.1412,25.5651
+301,36,TELEORMAN,TĂTĂRĂŞTII DE JOS,348,10,46,14,0,11,7,17,352,12,40,18,1,11,7,16,Școala Gimnazială Tătărăștii de Jos,,Tătărăștii de Jos,44.375,25.1759
+304,36,TELEORMAN,TĂTĂRĂŞTII DE SUS,231,3,297,3,0,7,4,15,227,3,307,5,0,10,4,15,Școala Gimnazială Tătărăștii de Sus,,Tătărăștii de Sus,44.4091,25.1226
+318,36,TELEORMAN,UDA-CLOCOCIOV,315,10,53,4,2,2,1,9,315,8,52,5,3,2,1,7,Localul Căminului Cultural Uda Clocociov,Nr. 138,Uda-Clocociov,43.8859,24.716
+319,36,TELEORMAN,UDA-CLOCOCIOV,242,2,70,8,0,5,8,13,239,3,69,7,1,9,5,11,Localul Școlii cu Clasele I-VIII Uda Paciurea,Nr. 65,Uda-Paciurea,43.8796,24.7213
+284,36,TELEORMAN,SÎRBENI,87,2,5,2,1,31,2,11,90,1,5,0,1,33,2,8,Grădinița cu Program Normal nr. 3,Str. Șoseaua Gratiei (Str. Șoseaua Gratia) nr. 197,Udeni,44.4636,25.4278
+305,36,TELEORMAN,TĂTĂRĂŞTII DE SUS,256,4,224,15,0,15,4,19,269,4,220,10,1,12,3,16,Școala Gimnazială Tătărăștii de Sus,,Udupu,44.3954,25.1442
+105,36,TELEORMAN,BOGDANA,248,8,24,11,0,24,3,9,250,7,25,11,2,20,4,6,Grădinița de Copii cu Program Normal nr. 2 Ulmeni,,Ulmeni,43.9025,25.1017
+106,36,TELEORMAN,BOGDANA,317,7,23,9,1,17,9,21,322,4,27,10,0,17,7,16,Grădinița de Copii cu Program Normal nr. 3 Urluiu,,Urluiu,43.9545,25.0516
+111,36,TELEORMAN,BOTOROAGA,226,6,305,4,0,68,1,3,235,7,299,4,0,65,1,2,Școala Gimnazială nr. 2,Nr. 599,Valea Cireșului,44.1659,25.5621
+207,36,TELEORMAN,MÎRZĂNEŞTI,193,9,190,15,1,9,11,22,191,10,194,20,2,13,9,19,Grădinița cu Program Normal nr. 3 Valea Părului,Str. Principală nr. 273,Valea Părului,43.9164,25.4635
+313,36,TELEORMAN,TROIANUL,54,0,36,7,0,2,3,5,55,1,40,3,0,3,2,2,Școala Generală,,Vatra,44.0223,25.0005
+320,36,TELEORMAN,VEDEA,233,6,31,5,0,2,2,9,239,5,32,6,0,0,2,8,Școala Gimnazială Vedea,Nr. 9,Vedea,44.0944,25.063
+74,36,TELEORMAN,ORAŞ VIDELE,489,73,102,45,0,46,27,55,489,67,101,52,1,59,23,50,Școala Gimnazială cu Clasele I-VIII nr. 2,Str. Parcului nr. 21,Videle,44.2775,25.531
+75,36,TELEORMAN,ORAŞ VIDELE,400,52,100,41,1,44,30,42,416,56,89,39,0,45,23,38,Liceul Teoretic,Str. Republicii nr. 7,Videle,44.2776,25.5275
+76,36,TELEORMAN,ORAŞ VIDELE,352,48,99,17,0,50,17,40,351,45,96,19,1,51,15,42,Casa de Cultură a Orașului Videle,Str. Florilor nr. 34,Videle,44.2745,25.5301
+77,36,TELEORMAN,ORAŞ VIDELE,271,18,38,13,0,16,5,15,276,18,39,11,0,14,6,18,"Grădinița cu Program Normal nr. 4, Fotăchești",Șoseaua Pitești nr. 165,Videle,44.2809,25.502
+78,36,TELEORMAN,ORAŞ VIDELE,377,15,79,24,2,28,12,31,386,16,74,25,1,33,7,23,"Grădinița cu Program Normal nr. 3, Furculești",Str. Frăsinetului nr. 9,Videle,44.268,25.5195
+79,36,TELEORMAN,ORAŞ VIDELE,188,10,21,13,0,27,4,6,183,7,21,14,0,33,3,6,"Grădinița cu Program Normal nr. 5, Cartojanca",Str. Progresului nr. 62,Videle,44.2665,25.541
+80,36,TELEORMAN,ORAŞ VIDELE,229,16,42,8,2,27,14,17,229,15,40,12,1,30,11,18,"Grădinița cu Program Normal nr. 2, Tămășești",Str. Plantelor nr. 67,Videle,44.2654,25.5583
+81,36,TELEORMAN,ORAŞ VIDELE,119,6,50,7,0,14,4,9,116,9,49,5,2,14,4,7,"Grădinița cu Program Normal nr. 6, Parisești",Str. Plantelor nr. 199,Videle,44.2607,25.5806
+325,36,TELEORMAN,VIIŞOARA,148,7,286,9,0,25,3,14,148,3,300,10,2,27,2,13,Școala Gimnazială Viișoara nr. 97,Nr. 97,Viișoara,43.7807,25.1736
+326,36,TELEORMAN,VIIŞOARA,138,5,210,9,1,37,8,20,145,5,217,10,0,34,8,17,Grădinița cu Program Normal Viișoara nr. 519,Nr. 519,Viișoara,43.775,25.1744
+329,36,TELEORMAN,VITĂNEŞTI,488,19,48,22,2,10,17,22,480,19,47,20,1,13,15,26,Grădinița cu Program Normal nr. 1 Vitănești,,Vitanesti,44.0076,25.4204
+179,36,TELEORMAN,FURCULEŞTI,112,4,173,6,0,8,14,24,118,3,176,5,1,10,13,19,Grădinița cu Program Normal Voievoda,,Voievoda,43.8413,25.1339
+191,36,TELEORMAN,LISA,142,6,129,1,1,36,3,6,146,4,125,3,0,40,2,8,Grădinița Vânători,,Vânători,43.7564,25.1532
+331,36,TELEORMAN,VÎRTOAPE,156,1,217,15,1,17,7,13,165,4,220,19,1,12,7,11,Căminul Cultural Virtoapele de Jos,,Vârtoapele de Jos,44.1764,25.2029
+330,36,TELEORMAN,VÎRTOAPE,137,0,194,18,1,149,2,20,140,5,198,19,3,152,3,7,Căminul Cultural Virtoapele de Sus,,Vârtoapele de Sus,44.1906,25.1989
+169,36,TELEORMAN,DRĂGĂNEŞTI-VLAŞCA,41,0,34,20,0,10,2,4,45,0,33,20,0,6,2,3,Școala cu Clasele I-IV Văceni,Nr. 14,Văceni,44.069,25.5358
+166,36,TELEORMAN,DRĂGĂNEŞTI DE VEDE,108,4,79,16,0,13,1,8,111,2,79,17,0,14,2,8,Grădinița cu Program Normal nr. 2,,Văcărești,44.134,25.0201
+248,36,TELEORMAN,POENI,109,3,16,15,0,8,1,8,112,3,15,17,1,7,1,5,Școala Generală Vătași,Str. Zăvoiului nr. 4,Vătași,44.4421,25.3541
+83,36,TELEORMAN,ORAŞ ZIMNICEA,395,20,41,6,0,14,7,28,399,19,40,8,2,18,7,26,Școala Primară nr. 4,Str. Turnu Măgurele nr. 38,Zimnicea,43.6561,25.3562
+84,36,TELEORMAN,ORAŞ ZIMNICEA,504,18,54,18,3,14,16,29,493,16,54,17,5,19,19,36,Școala Primară nr. 4,Str. Turnu Măgurele nr. 38,Zimnicea,43.6561,25.3562
+85,36,TELEORMAN,ORAŞ ZIMNICEA,507,15,51,26,1,16,11,27,524,13,51,22,1,24,11,21,S.C. Urbana Serv S.R.L.,Str. Împăratul Traian (Str. Engels Friedrich) nr. 60,Zimnicea,43.6504,25.3611
+86,36,TELEORMAN,ORAŞ ZIMNICEA,329,14,59,32,1,21,17,35,330,21,59,32,0,23,17,32,Școala Gimnazială nr. 3,Bulevardul Eroilor nr. 30,Zimnicea,43.6586,25.3639
+87,36,TELEORMAN,ORAŞ ZIMNICEA,299,44,74,27,1,19,18,37,303,41,69,28,1,23,17,37,Școala Gimnazială „Miron Radu Paraschivescu”,Str. Primăverii (Str. Gheorghe Doja) nr. 5,Zimnicea,43.6556,25.3678
+88,36,TELEORMAN,ORAŞ ZIMNICEA,356,33,48,23,1,33,25,52,354,39,54,22,1,31,29,48,"Grădinița cu Program Prelungit nr. 5, Nivel Școlarizare Pre Pp",Str. Ștefan cel Mare (Str. Pieții) nr. 147,Zimnicea,43.655,25.3676
+89,36,TELEORMAN,ORAŞ ZIMNICEA,388,27,45,13,1,18,15,32,386,28,46,13,1,21,15,32,"Grădinița cu Program Prelungit nr. 5, Nivel Școlarizare Pre Pp",Str. Ștefan cel Mare (Str. Pieții) nr. 147,Zimnicea,43.655,25.3676
+90,36,TELEORMAN,ORAŞ ZIMNICEA,434,19,51,13,0,19,9,36,437,19,58,12,0,17,13,29,Școala Gimnazială nr. 2,Str. 1 Mai nr. 11,Zimnicea,43.6572,25.3705
+91,36,TELEORMAN,ORAŞ ZIMNICEA,420,15,74,14,0,29,17,34,424,19,76,11,0,33,16,32,Școala Gimnazială nr. 2,Str. 1 Mai nr. 11,Zimnicea,43.6572,25.3705
+215,36,TELEORMAN,NĂSTURELU,127,11,67,21,1,155,3,10,126,8,68,18,1,159,4,9,Școala Gimnazială Zimnicele,,Zimnicele,43.6593,25.4072
+160,36,TELEORMAN,DRACEA,27,1,46,1,0,1,2,3,25,1,47,1,0,1,3,3,Școala Generală Zlata,Nr. 49,Zlata,43.8758,25.0192
+333,36,TELEORMAN,ZÎMBREASCA,285,2,52,55,1,12,11,22,297,2,49,47,1,14,10,23,Căminul Cultural,,Zâmbreasca,44.3044,24.9963
+334,36,TELEORMAN,ZÎMBREASCA,184,0,16,26,0,3,15,19,183,0,15,24,0,2,19,25,Școala Primară,,Zâmbreasca,44.3093,24.9873
+290,36,TELEORMAN,SMÎRDIOASA,137,1,27,5,0,9,3,7,141,2,24,5,0,8,3,7,Școala Primară Șoimu,Str. Dunării nr. 126,Șoimu,43.8336,25.4428
+297,36,TELEORMAN,ŞTOROBĂNEASA,527,8,56,12,0,20,15,30,525,12,52,19,0,20,18,32,Școala Gimnazială „Vasile Racotta”,Str. Vasile Racottă,Ștorobăneasa,43.8816,25.4522
+315,36,TELEORMAN,ŢIGĂNEŞTI,524,13,73,12,2,27,10,35,539,13,73,11,1,25,8,23,Școala cu Clasele I-IV,,Țigănești,43.9068,25.3758
+316,36,TELEORMAN,ŢIGĂNEŞTI,476,29,94,18,0,42,15,34,474,33,108,18,1,39,12,22,Grădinița cu Program Normal,,Țigănești,43.9052,25.3771
+317,36,TELEORMAN,ŢIGĂNEŞTI,559,20,69,15,2,25,14,37,557,22,71,17,0,27,11,28,Școala Gimnazială „I.Gh.Duca”,,Țigănești,43.8979,25.3849

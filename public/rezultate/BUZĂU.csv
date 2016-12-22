@@ -1,0 +1,428 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+368,10,BUZĂU,SMEENI,247,6,13,18,1,4,3,23,249,4,15,18,1,8,4,15,Școala Gimnazială Albești,,Albești,44.9912,26.9242
+197,10,BUZĂU,CERNĂTEŞTI,233,4,38,9,1,5,4,11,233,6,35,10,1,6,5,11,Căminul Cultural din Satul Aldeni,,Aldeni,45.3079,26.7515
+220,10,BUZĂU,COLŢI,50,0,14,3,0,3,3,4,49,1,14,4,0,2,3,5,Școala Gimnazială Aluniș,,Aluniș,45.4089,26.4141
+139,10,BUZĂU,BALTA ALBĂ,403,2,126,34,0,11,5,15,404,3,125,38,0,12,6,21,Școala Gimnazială Sat Amara,,Amara,45.2457,27.2911
+133,10,BUZĂU,AMARU,228,5,34,6,0,12,12,28,238,6,33,7,0,11,13,23,Școala Generală Amaru,,Amaru,44.9276,26.5889
+361,10,BUZĂU,SCUTELNICI,156,2,8,4,2,3,0,5,162,1,10,6,2,3,0,2,Școala Primară Sat Arcanu,,Arcanu,44.8378,26.9864
+310,10,BUZĂU,PÎRSCOV,104,6,13,2,0,2,1,5,107,6,14,1,0,2,2,5,Școala Generală Bădila,,Badila,45.2567,26.5073
+137,10,BUZĂU,BALTA ALBĂ,185,6,33,11,0,5,1,5,190,3,30,12,1,4,1,5,Grădinița cu Program Normal Sat Balta Albă,,Balta Albă,45.3033,27.2849
+357,10,BUZĂU,SCORŢOASA,60,1,9,14,1,8,0,4,61,1,5,16,1,7,0,5,Școala Gimnazială Sat Balta Tocila,,Balta Tocila,45.4045,26.6957
+344,10,BUZĂU,SĂGEATA,70,2,19,16,0,3,0,9,67,1,20,17,0,4,3,9,Școala Banița,,Banița,45.1012,27.1021
+141,10,BUZĂU,BECENI,237,6,35,15,0,17,7,20,230,7,35,17,0,17,9,25,Școala Primară Beceni,,Beceni,45.3832,26.7672
+358,10,BUZĂU,SCORŢOASA,58,0,3,2,0,1,0,4,59,0,3,3,0,1,0,1,Școala Primară Sat Beciu,,Beciu,45.3762,26.7113
+305,10,BUZĂU,PĂNĂTĂU,98,4,3,2,0,1,0,6,96,4,5,1,0,3,0,9,Camin Cultural Begu,,Begu,45.3357,26.3966
+342,10,BUZĂU,SĂGEATA,135,4,9,5,0,6,0,6,132,3,8,5,1,6,0,5,Școala Beilic,,Beilic,45.085,27.0132
+234,10,BUZĂU,GĂLBINAŞI,192,12,50,18,1,4,7,25,189,13,45,22,2,6,6,21,Căminul Cultural Bentu,,Bentu,45.0678,26.9708
+146,10,BUZĂU,BERCA,334,18,85,25,0,10,11,43,325,23,90,28,0,13,11,36,Casa de Cultură Berca-Parter,Str. 1 Decembrie nr. 71,Berca,45.2845,26.6867
+147,10,BUZĂU,BERCA,245,31,70,31,0,11,6,24,245,28,71,34,0,12,9,25,Casa de Cultură Berca-Etaj 1,Str. 1 Decembrie nr. 71,Berca,45.2845,26.6867
+148,10,BUZĂU,BERCA,183,25,59,22,3,8,4,12,191,23,51,25,4,9,5,10,"Liceul Tehnologic Sf.Mucenic Sava, Berca",Str. Șoimului nr. 412,Berca,45.2876,26.6731
+286,10,BUZĂU,MÎNZĂLEŞTI,146,5,28,3,1,3,4,18,147,4,32,5,2,4,6,12,Școala Gimnazială „Dumitru N. Cristea” Beșlii,,Beșlii,45.4843,26.6723
+156,10,BUZĂU,BISOCA,123,2,10,3,0,8,2,9,127,2,10,2,0,7,3,6,Sala de Festivitati a Primariei Bisoca,,Bisoca,45.5407,26.7068
+160,10,BUZĂU,BLĂJANI,429,8,15,16,1,10,5,9,431,7,13,14,1,11,5,9,Căminul Cultural Blăjani,,Blăjani,45.314,26.8117
+215,10,BUZĂU,COCHIRLEANCA,227,4,115,15,0,9,3,20,220,6,120,19,0,10,5,18,Școala Gimnazială Boboc,,Boboc,45.1944,26.9872
+162,10,BUZĂU,BOLDU,409,6,46,11,1,6,8,17,404,6,50,11,1,6,8,17,Clubul Primăriei Boldu,,Boldu,45.3231,27.238
+163,10,BUZĂU,BOLDU,343,3,39,18,1,11,5,14,330,5,40,21,3,21,5,12,Grădinița de Copii Boldu,,Boldu,45.3209,27.2413
+341,10,BUZĂU,SĂGEATA,186,3,16,5,0,3,1,7,181,3,15,6,1,4,3,7,Școala Bordușani,,Bordușani,45.1092,26.965
+164,10,BUZĂU,BOZIORU,216,2,38,10,0,2,5,15,223,2,41,12,0,3,4,9,Școala Gimnazială Bozioru,,Bozioru,45.3823,26.4928
+172,10,BUZĂU,BREAZA,190,5,24,31,0,14,2,14,190,6,26,31,0,16,2,11,Grădinița cu Program Normal Breaza,,Breaza,45.0934,26.5326
+166,10,BUZĂU,BRĂDEANU,163,6,193,11,2,7,3,17,171,7,192,14,2,8,2,9,Școala Gimnazială Brădeanu,,Brădeanu,44.9256,26.8613
+169,10,BUZĂU,BRĂEŞTI,161,2,18,7,1,1,2,8,158,3,18,8,0,2,1,7,Sala Mare a Cladirii Fostului Sediu C.A.P. - Sat Braesti,,Brăești,45.4281,26.5172
+360,10,BUZĂU,SCUTELNICI,136,2,74,11,0,1,1,5,132,3,69,14,0,1,1,7,Grădinița cu Program Normal Sat Bragareasa,,Brăgăreasa,44.8249,26.9327
+170,10,BUZĂU,BRĂEŞTI,451,3,27,4,1,4,0,17,460,3,30,5,0,2,0,12,Caminul Cultural Brătilești,,Brătilești,45.4642,26.4937
+175,10,BUZĂU,BUDA,265,3,64,12,0,14,9,19,268,4,63,13,0,14,7,15,Școala Buda,,Buda,45.5,26.9038
+211,10,BUZĂU,CISLĂU,179,2,45,9,1,7,1,5,181,2,46,6,0,9,1,7,Centrul de Zi „Doamna Neaga” Pentru Copii cu Vârste Cuprinse Între 3-6 Ani,,Buda Crăciunești,45.1758,26.3831
+225,10,BUZĂU,COSTEŞTI,111,1,29,8,1,3,1,11,116,1,31,8,1,2,1,8,Grădinița cu Program Normal Budișteni,,Budișteni,45.0424,26.7851
+1,10,BUZĂU,MUNICIPIUL BUZĂU,326,87,94,58,2,47,22,69,325,90,92,57,1,50,26,68,Școala Gimnazială „Ep.Dionisie Romano”,Str. Bistriței nr. 31,Buzău,45.1524,26.8233
+2,10,BUZĂU,MUNICIPIUL BUZĂU,288,73,74,40,1,35,22,61,287,71,68,47,4,33,26,60,Școala Gimnazială nr. 11,Str. Chiristigii nr. 7,Buzău,45.1578,26.8224
+3,10,BUZĂU,MUNICIPIUL BUZĂU,406,87,84,57,1,44,26,66,403,86,78,55,2,48,32,73,Școala Gimnazială nr. 11,Str. Chiristigii nr. 7,Buzău,45.1578,26.8224
+4,10,BUZĂU,MUNICIPIUL BUZĂU,369,88,83,56,2,61,30,86,377,91,70,67,2,65,31,71,Școala Gimnazială nr. 11,Str. Chiristigii nr. 7,Buzău,45.1578,26.8224
+5,10,BUZĂU,MUNICIPIUL BUZĂU,377,80,80,37,2,48,21,71,369,80,69,44,4,58,26,67,Școala Gimnazială nr. 11,Str. Chiristigii nr. 7,Buzău,45.1578,26.8224
+6,10,BUZĂU,MUNICIPIUL BUZĂU,202,50,49,30,2,29,21,67,188,54,49,42,2,32,24,63,Direcția de Asistență Socială,Str. Alexandru Marghiloman (Str. Constantin Dobrogeanu Gherea) nr. 29,Buzău,45.1541,26.827
+7,10,BUZĂU,MUNICIPIUL BUZĂU,205,67,62,20,0,33,15,48,207,69,59,20,0,35,16,45,Direcția de Asistență Socială,Str. Alexandru Marghiloman (Str. Constantin Dobrogeanu Gherea) nr. 29,Buzău,45.1541,26.827
+8,10,BUZĂU,MUNICIPIUL BUZĂU,396,51,82,42,0,32,25,78,388,49,84,55,1,31,27,68,Liceul Tehnologic „Grigore Moisil”,Cartierul Broșteni,Buzău,45.157,26.8315
+9,10,BUZĂU,MUNICIPIUL BUZĂU,320,54,67,34,2,17,37,80,311,54,66,40,2,26,41,72,Liceul Tehnologic „Grigore Moisil”,Cartierul Broșteni,Buzău,45.157,26.8315
+10,10,BUZĂU,MUNICIPIUL BUZĂU,285,58,51,27,1,24,24,54,278,56,50,33,2,26,24,53,Liceul Tehnologic „Grigore Moisil”,Cartierul Broșteni,Buzău,45.157,26.8315
+11,10,BUZĂU,MUNICIPIUL BUZĂU,307,64,43,26,1,39,21,64,312,68,43,28,0,31,25,61,Liceul Tehnologic „Grigore Moisil”,Cartierul Broșteni,Buzău,45.157,26.8315
+12,10,BUZĂU,MUNICIPIUL BUZĂU,335,61,79,25,2,39,32,69,330,56,78,39,1,43,29,62,Colegiul Universitar Economic,Cartierul Broșteni,Buzău,45.1531,26.8333
+13,10,BUZĂU,MUNICIPIUL BUZĂU,311,80,58,37,0,19,52,89,311,80,57,43,0,21,54,81,Școala Gimnazială nr. 7,Cartierul Dorobanți 1,Buzău,45.1487,26.839
+14,10,BUZĂU,MUNICIPIUL BUZĂU,385,87,98,34,1,46,20,67,380,87,99,39,3,43,24,66,Școala Gimnazială nr. 7,Cartierul Dorobanți 1,Buzău,45.1487,26.839
+15,10,BUZĂU,MUNICIPIUL BUZĂU,182,45,57,22,0,19,12,49,187,47,59,22,0,19,14,43,Școala Gimnazială „General Grigore Baștan”,Str. Victoriei nr. 73,Buzău,45.1489,26.8356
+16,10,BUZĂU,MUNICIPIUL BUZĂU,183,52,38,29,0,22,18,41,170,54,37,29,0,21,24,47,Școala Gimnazială „General Grigore Baștan”,Str. Victoriei nr. 73,Buzău,45.1489,26.8356
+17,10,BUZĂU,MUNICIPIUL BUZĂU,378,66,88,39,1,44,20,64,383,67,77,40,1,46,20,62,Școala Gimnazială „General Grigore Baștan”,Str. Victoriei nr. 73,Buzău,45.1489,26.8356
+18,10,BUZĂU,MUNICIPIUL BUZĂU,245,48,45,32,0,26,14,53,241,47,46,37,1,32,13,39,Școala Gimnazială „General Grigore Baștan”,Str. Victoriei nr. 73,Buzău,45.1489,26.8356
+19,10,BUZĂU,MUNICIPIUL BUZĂU,291,64,69,45,0,26,15,55,286,58,66,44,0,33,18,60,Liceul Teoretic „Alexandru Marghiloman”,Cartierul Dorobanți 2,Buzău,45.1519,26.8448
+20,10,BUZĂU,MUNICIPIUL BUZĂU,256,41,49,26,0,43,19,54,252,44,47,33,0,47,20,51,Liceul Teoretic „Alexandru Marghiloman”,Cartierul Dorobanți 2,Buzău,45.1519,26.8448
+21,10,BUZĂU,MUNICIPIUL BUZĂU,275,56,61,39,0,30,24,57,276,51,67,45,1,27,30,49,Liceul Teoretic „Alexandru Marghiloman”,Cartierul Dorobanți 2,Buzău,45.1519,26.8448
+22,10,BUZĂU,MUNICIPIUL BUZĂU,259,22,41,28,1,15,25,54,262,23,45,28,2,10,26,48,Liceul Tehnologic „Henr. Coandă”,Str. Horticolei nr. 50,Buzău,45.1462,26.8481
+23,10,BUZĂU,MUNICIPIUL BUZĂU,180,11,27,15,1,14,22,49,191,11,29,17,1,12,25,38,Liceul Tehnologic „Henr. Coandă”,Str. Horticolei nr. 50,Buzău,45.1462,26.8481
+24,10,BUZĂU,MUNICIPIUL BUZĂU,247,36,32,21,1,17,20,57,244,33,38,21,0,21,19,53,Liceul Tehnologic „Henr. Coandă”,Str. Horticolei nr. 50,Buzău,45.1462,26.8481
+25,10,BUZĂU,MUNICIPIUL BUZĂU,258,68,33,17,0,27,12,41,249,63,40,22,1,25,15,42,Liceul Tehnologic „Henr. Coandă”,Str. Horticolei nr. 50,Buzău,45.1462,26.8481
+26,10,BUZĂU,MUNICIPIUL BUZĂU,341,51,65,38,0,32,19,52,343,53,59,39,0,29,22,54,Școala Gimnazială „Ion Creangă”,Cartierul Micro 5,Buzău,45.1478,26.8342
+27,10,BUZĂU,MUNICIPIUL BUZĂU,314,59,68,26,0,48,21,67,325,65,61,25,0,46,22,60,Școala Gimnazială „Ion Creangă”,Cartierul Micro 5,Buzău,45.1478,26.8342
+28,10,BUZĂU,MUNICIPIUL BUZĂU,384,58,60,66,1,50,18,74,395,57,60,76,1,51,18,52,Școala Gimnazială „Ion Creangă”,Cartierul Micro 5,Buzău,45.1478,26.8342
+29,10,BUZĂU,MUNICIPIUL BUZĂU,346,59,47,37,1,28,23,67,345,62,48,38,1,28,25,62,Școala Gimnazială „Ion Creangă”,Cartierul Micro 5,Buzău,45.1478,26.8342
+30,10,BUZĂU,MUNICIPIUL BUZĂU,235,26,44,19,0,16,14,33,235,29,37,19,0,18,18,37,Colegiul Tehnic,Bulevardul Republicii nr. 18,Buzău,45.1439,26.8419
+31,10,BUZĂU,MUNICIPIUL BUZĂU,267,25,51,21,0,24,11,38,259,25,50,27,0,22,15,38,Colegiul Tehnic,Bulevardul Republicii nr. 18,Buzău,45.1439,26.8419
+32,10,BUZĂU,MUNICIPIUL BUZĂU,330,98,79,43,0,56,19,69,334,91,83,50,1,45,24,70,Liceul de Arte „Margareta Sterian”,Str. Bucegi nr. 6,Buzău,45.1512,26.8261
+33,10,BUZĂU,MUNICIPIUL BUZĂU,305,75,66,53,2,43,34,87,303,72,63,58,2,49,34,79,Colegiul Național „B.P. Hașdeu”,Str. Libertății nr. 3,Buzău,45.1487,26.8251
+34,10,BUZĂU,MUNICIPIUL BUZĂU,235,27,34,14,0,15,11,45,238,27,38,19,0,13,14,37,Școala Gimnazială „P.H. Zangopol”,Str. Stupăriei nr. 1,Buzău,45.1377,26.8311
+35,10,BUZĂU,MUNICIPIUL BUZĂU,286,25,51,46,1,21,21,56,284,26,49,53,2,21,20,47,Școala Gimnazială „P.H. Zangopol”,Str. Stupăriei nr. 1,Buzău,45.1377,26.8311
+36,10,BUZĂU,MUNICIPIUL BUZĂU,403,46,50,36,2,22,16,64,397,44,56,43,1,20,25,56,Școala Gimnazială „P.H. Zangopol”,Str. Stupăriei nr. 1,Buzău,45.1377,26.8311
+37,10,BUZĂU,MUNICIPIUL BUZĂU,340,32,60,70,1,32,25,89,353,34,64,73,2,30,27,67,Liceul Tehnologic „Dimitrie Filipescu”,Str. Dimitrie Filipescu nr. 6,Buzău,45.1384,26.8197
+38,10,BUZĂU,MUNICIPIUL BUZĂU,259,27,38,43,0,20,13,43,259,27,39,48,1,20,12,32,Liceul Tehnologic „Dimitrie Filipescu”,Str. Dimitrie Filipescu nr. 6,Buzău,45.1384,26.8197
+39,10,BUZĂU,MUNICIPIUL BUZĂU,268,72,97,50,1,38,35,87,268,72,90,56,1,37,36,81,Colegiul Agricol „Dr. C. Angelescu”,Str. Crizantemelor nr. 17,Buzău,45.1482,26.8209
+40,10,BUZĂU,MUNICIPIUL BUZĂU,197,69,48,23,0,31,21,53,201,72,45,24,0,31,25,49,Școala Gimnazială „N.Constantinescu”,Str. Col. Ion Buzoianu nr. 109,Buzău,45.1447,26.8234
+41,10,BUZĂU,MUNICIPIUL BUZĂU,193,53,47,28,0,26,22,57,197,46,41,36,0,22,30,64,Școala Gimnazială „N.Constantinescu”,Str. Col. Ion Buzoianu nr. 109,Buzău,45.1447,26.8234
+42,10,BUZĂU,MUNICIPIUL BUZĂU,308,62,82,82,1,48,39,78,307,67,75,79,0,57,33,73,Școala Gimnazială „N.Constantinescu”,Str. Col. Ion Buzoianu nr. 109,Buzău,45.1447,26.8234
+43,10,BUZĂU,MUNICIPIUL BUZĂU,216,77,46,30,0,27,14,45,217,67,49,39,0,28,12,42,Grădinița cu Program Prelungit nr. 8,Bulevardul Unirii nr. 10,Buzău,45.1442,26.8092
+44,10,BUZĂU,MUNICIPIUL BUZĂU,201,40,56,25,1,33,17,41,202,40,52,28,2,35,20,40,Grădinița cu Program Prelungit nr. 8,Bulevardul Unirii nr. 10,Buzău,45.1442,26.8092
+45,10,BUZĂU,MUNICIPIUL BUZĂU,362,100,67,41,1,50,40,99,378,96,67,46,2,39,41,88,Grădinița cu Program Prelungit nr. 8,Bulevardul Unirii nr. 10,Buzău,45.1442,26.8092
+46,10,BUZĂU,MUNICIPIUL BUZĂU,317,103,106,44,0,52,46,103,311,102,100,53,0,62,43,97,Colegiul Național „M. Eminescu”,Str. Independenței nr. 22,Buzău,45.1495,26.8192
+47,10,BUZĂU,MUNICIPIUL BUZĂU,293,138,98,57,3,57,28,74,288,135,91,71,2,59,35,76,Colegiul Național „M. Eminescu”,Str. Independenței nr. 22,Buzău,45.1495,26.8192
+48,10,BUZĂU,MUNICIPIUL BUZĂU,197,70,49,20,2,29,13,43,196,59,49,27,3,37,14,40,Liceul Pedagogic „Spiru Haret”,Str. Spiru Haret (Str. Marx Karl) nr. 6,Buzău,45.1488,26.8101
+49,10,BUZĂU,MUNICIPIUL BUZĂU,158,43,34,36,1,24,11,38,152,46,36,38,1,29,10,34,Liceul Pedagogic „Spiru Haret”,Str. Spiru Haret (Str. Marx Karl) nr. 6,Buzău,45.1488,26.8101
+50,10,BUZĂU,MUNICIPIUL BUZĂU,333,68,85,41,0,35,27,57,329,69,79,46,0,38,32,58,Liceul Pedagogic „Spiru Haret”,Str. Spiru Haret (Str. Marx Karl) nr. 6,Buzău,45.1488,26.8101
+51,10,BUZĂU,MUNICIPIUL BUZĂU,336,62,74,40,2,54,20,48,338,56,75,41,2,52,23,51,Liceul Pedagogic „Spiru Haret”,Str. Spiru Haret (Str. Marx Karl) nr. 6,Buzău,45.1488,26.8101
+52,10,BUZĂU,MUNICIPIUL BUZĂU,325,73,78,29,0,42,46,112,328,74,84,29,1,44,50,102,Școala Gimnazială „Dr. George Emil Palade”,Str. Spiru Haret (Str. Marx Karl) nr. 8,Buzău,45.1469,26.8092
+53,10,BUZĂU,MUNICIPIUL BUZĂU,330,87,89,27,5,40,23,56,332,86,86,38,3,43,23,46,Școala Gimnazială „Dr. George Emil Palade”,Str. Spiru Haret (Str. Marx Karl) nr. 8,Buzău,45.1469,26.8092
+54,10,BUZĂU,MUNICIPIUL BUZĂU,317,101,86,44,1,49,32,85,304,105,80,60,2,61,31,72,Școala Gimnazială „Dr. George Emil Palade”,Str. Spiru Haret (Str. Marx Karl) nr. 8,Buzău,45.1469,26.8092
+55,10,BUZĂU,MUNICIPIUL BUZĂU,262,87,62,31,1,51,22,69,262,78,64,38,0,51,33,66,Școala Gimnazială „Dr. George Emil Palade”,Str. Spiru Haret (Str. Marx Karl) nr. 8,Buzău,45.1469,26.8092
+56,10,BUZĂU,MUNICIPIUL BUZĂU,249,55,47,29,2,37,20,44,249,56,44,33,2,38,22,43,Școala Gimnazială „Dr. George Emil Palade”,Str. Spiru Haret (Str. Marx Karl) nr. 8,Buzău,45.1469,26.8092
+57,10,BUZĂU,MUNICIPIUL BUZĂU,262,78,64,27,1,41,31,79,257,78,66,35,1,41,32,75,Colegiul Economic,Str. Tudor Vladimirescu nr. 15,Buzău,45.1508,26.8227
+58,10,BUZĂU,MUNICIPIUL BUZĂU,272,116,109,46,0,53,49,111,279,115,98,56,0,61,44,95,Școala Gimnazială „Cpt. Av. Mircea T. Bădulescu”,Bulevardul Nicolae Bălcescu nr. 28,Buzău,45.1523,26.8151
+59,10,BUZĂU,MUNICIPIUL BUZĂU,326,85,78,56,2,44,24,67,315,84,69,64,4,48,31,70,Școala Gimnazială „Cpt. Av. Mircea T. Bădulescu”,Bulevardul Nicolae Bălcescu nr. 28,Buzău,45.1523,26.8151
+60,10,BUZĂU,MUNICIPIUL BUZĂU,211,63,44,25,1,29,15,42,207,55,47,34,6,30,17,37,Școala Gimnazială „Cpt. Av. Mircea T. Bădulescu”,Bulevardul Nicolae Bălcescu nr. 28,Buzău,45.1523,26.8151
+61,10,BUZĂU,MUNICIPIUL BUZĂU,284,107,75,39,1,48,37,77,281,108,67,47,0,51,40,77,Școala Gimnazială „Cpt. Av. Mircea T. Bădulescu”,Bulevardul Nicolae Bălcescu nr. 28,Buzău,45.1523,26.8151
+62,10,BUZĂU,MUNICIPIUL BUZĂU,345,77,87,42,2,33,18,62,338,77,89,49,1,42,23,56,Grădinița cu Program Prelungit nr. 4,Aleea Parcului nr. 10,Buzău,45.1476,26.8084
+63,10,BUZĂU,MUNICIPIUL BUZĂU,243,110,72,57,1,56,29,68,234,111,70,63,1,58,33,67,Școala Gimnazială „N.Titulescu”,Str. George Coșbuc nr. 5,Buzău,45.1551,26.8059
+64,10,BUZĂU,MUNICIPIUL BUZĂU,311,86,79,48,3,40,23,81,319,84,75,60,4,37,26,66,Școala Gimnazială „N.Titulescu”,Str. George Coșbuc nr. 5,Buzău,45.1551,26.8059
+65,10,BUZĂU,MUNICIPIUL BUZĂU,365,45,43,41,1,28,20,55,365,39,48,45,1,29,22,53,Școala Gimnazială „Sf.Apostol Andrei”,Cartierul Micro 14,Buzău,45.1532,26.7945
+66,10,BUZĂU,MUNICIPIUL BUZĂU,317,33,68,41,2,42,12,48,325,36,66,38,3,40,16,37,Școala Gimnazială „Sf.Apostol Andrei”,Cartierul Micro 14,Buzău,45.1532,26.7945
+67,10,BUZĂU,MUNICIPIUL BUZĂU,356,56,65,40,0,30,18,46,354,51,63,46,1,37,20,41,Școala Gimnazială „Sf.Apostol Andrei”,Cartierul Micro 14,Buzău,45.1532,26.7945
+68,10,BUZĂU,MUNICIPIUL BUZĂU,399,69,63,50,1,45,18,65,397,69,61,54,0,47,23,64,Școala Gimnazială „Sf.Apostol Andrei”,Cartierul Micro 14,Buzău,45.1532,26.7945
+69,10,BUZĂU,MUNICIPIUL BUZĂU,239,28,29,14,0,13,13,30,237,30,28,20,1,13,13,24,Liceul cu Program Sportiv „I.Balaș-Söter”,Cartierul Micro 14,Buzău,45.154,26.7932
+70,10,BUZĂU,MUNICIPIUL BUZĂU,325,49,68,30,0,29,15,50,321,50,64,29,0,37,19,50,Liceul cu Program Sportiv „I.Balaș- Söter”,Cartierul Micro 14 nr. 0,Buzău,45.154,26.7932
+71,10,BUZĂU,MUNICIPIUL BUZĂU,274,28,40,38,0,24,19,42,273,25,36,42,0,26,22,41,Liceul cu Program Sportiv „I.Balaș- Söter”,Cartierul Micro 14,Buzău,45.154,26.7932
+72,10,BUZĂU,MUNICIPIUL BUZĂU,312,65,80,56,0,38,43,63,307,72,78,61,0,35,38,57,Grădinița cu Program Prelungit „Boboceii din Micro Iii”,Cartierul Episcopiei,Buzău,45.1593,26.8198
+73,10,BUZĂU,MUNICIPIUL BUZĂU,349,149,99,57,0,60,33,99,333,148,103,64,0,68,37,98,Seminarul Teologic Ortodox „Chesarie Episcopul”,Aleea Episcopiei nr. 1,Buzău,45.1565,26.8203
+74,10,BUZĂU,MUNICIPIUL BUZĂU,357,106,103,60,1,40,36,84,369,102,90,70,3,38,31,74,Seminarul Teologic Ortodox „Chesarie Episcopul”,Aleea Episcopiei nr. 1,Buzău,45.1565,26.8203
+75,10,BUZĂU,MUNICIPIUL BUZĂU,287,37,64,87,1,21,14,45,287,40,59,92,1,22,19,47,Liceul Tehnologic „Costin Nenițescu”,Str. Transilvaniei nr. 134,Buzău,45.1603,26.8024
+76,10,BUZĂU,MUNICIPIUL BUZĂU,203,26,45,58,0,17,11,45,210,29,40,64,0,15,11,39,Liceul Tehnologic Meserii și Servicii,Str. Bazalt nr. 1,Buzău,45.1591,26.7956
+77,10,BUZĂU,MUNICIPIUL BUZĂU,194,17,28,41,1,19,9,39,195,18,26,44,2,15,11,34,Liceul Tehnologic Meserii și Servicii,Str. Bazalt nr. 1,Buzău,45.1591,26.7956
+78,10,BUZĂU,MUNICIPIUL BUZĂU,291,18,34,17,0,19,14,43,284,12,36,23,1,28,13,44,Școala Gimnazială „M. Kogălniceanu”,Str. Transilvaniei nr. 313,Buzău,45.1642,26.787
+79,10,BUZĂU,MUNICIPIUL BUZĂU,271,13,54,171,6,18,8,43,276,14,53,188,4,14,11,31,Școala Gimnazială „M. Kogălniceanu”,Str. Transilvaniei nr. 313,Buzău,45.1642,26.787
+80,10,BUZĂU,MUNICIPIUL BUZĂU,338,7,33,173,3,2,9,46,312,5,35,197,8,6,11,38,Școala Gimnazială „M. Kogălniceanu”,Str. Transilvaniei nr. 313,Buzău,45.1642,26.787
+180,10,BUZĂU,C.A. ROSETTI,61,0,3,12,0,1,2,8,64,0,3,13,0,1,1,5,Căminul Cultural Bîlhacu,,Bâlhacu,45.0487,27.1329
+202,10,BUZĂU,CHIOJDU,168,16,39,14,1,6,4,10,166,14,38,15,1,10,3,7,Școala Gimnazială Bisca-Chiojdului,,Bâsca Chiojdului,45.3695,26.1898
+111,10,BUZĂU,ORAŞ NEHOIU,185,6,31,23,1,10,4,15,180,6,31,25,1,14,5,11,Cămin Cultural Bîsca Rozilei,,Bâsca Rozilei,45.4498,26.3263
+112,10,BUZĂU,ORAŞ NEHOIU,148,6,18,14,0,11,6,18,141,5,19,18,0,10,7,15,Grădinita Pod Vinetis - Veche,,Bâsca Rozilei,45.4538,26.3365
+185,10,BUZĂU,CALVINI,106,2,52,71,1,3,3,102,142,3,64,80,2,4,5,17,Școala Gimnazială „Dumitru I. Ionescu” Calvini,,Bâscenii de Jos,45.2485,26.2995
+186,10,BUZĂU,CALVINI,151,2,43,13,0,1,0,7,152,2,46,13,0,1,2,4,Școala Primară Bîscenii de Jos,,Bâscenii de Jos,45.2481,26.3266
+187,10,BUZĂU,CALVINI,198,7,39,18,1,2,7,25,203,9,37,24,3,1,7,12,Școala Gimnazială Bîscenii de Sus,,Bâscenii de Sus,45.2631,26.2686
+384,10,BUZĂU,TOPLICENI,217,5,90,12,1,10,5,14,219,6,81,13,1,10,8,14,Școala Gimnazială Băbeni „Ion Aristotel”,,Băbeni,45.4449,26.9789
+138,10,BUZĂU,BALTA ALBĂ,60,2,33,6,0,6,2,7,62,2,33,6,0,8,2,5,Caminul Cultural Baile,,Băile,45.2893,27.3592
+179,10,BUZĂU,C.A. ROSETTI,114,0,12,9,0,1,2,13,116,1,12,7,0,2,2,11,Școala Primară Bălteni,,Bălteni,45.0082,27.1477
+140,10,BUZĂU,BĂLĂCEANU,346,8,25,111,2,67,5,25,364,8,32,118,1,42,3,20,Primăria Comunei Bălăceanu,,Bălăceanu,45.251,27.136
+229,10,BUZĂU,COZIENI,207,6,37,4,1,4,5,13,201,6,43,4,0,4,7,15,Școala Bălănești,,Bălănești,45.351,26.4746
+178,10,BUZĂU,C.A. ROSETTI,227,8,13,22,0,8,4,24,239,7,11,26,0,6,5,17,Școala Gimnazială C.A.Rosetti,C.A. ROSETTI,C.A. Rosetti,45.0467,27.1647
+184,10,BUZĂU,CALVINI,186,6,84,28,2,4,5,12,188,7,82,30,3,2,4,10,Camin Cultural Calvini,,Calvini,45.2515,26.2936
+266,10,BUZĂU,LUCIU,276,1,10,9,1,2,1,7,281,0,8,7,0,3,2,8,Școala Caragele,,Caragele,44.9791,27.0323
+250,10,BUZĂU,GLODEANU-SILIŞTEA,97,5,10,4,0,0,1,4,96,4,10,6,0,0,0,4,Grădinița Cașota,,Casota,44.8513,26.7142
+195,10,BUZĂU,CERNĂTEŞTI,241,8,53,10,1,7,7,18,239,7,55,11,2,11,6,16,Grădinița cu Program Normal Cernatesti,,Cernătești,45.2669,26.7563
+199,10,BUZĂU,CHILIILE,194,1,3,10,0,2,2,5,194,1,2,12,0,1,2,5,Caminul Cultural Chiliile,,Chiliile,45.4476,26.6008
+201,10,BUZĂU,CHIOJDU,179,10,60,12,2,14,8,20,188,11,57,14,1,13,8,20,Grădinița cu Program Normal Chiojdu,,Chiojdu,45.3519,26.2131
+116,10,BUZĂU,ORAŞ NEHOIU,187,16,20,21,1,8,3,14,186,13,26,18,1,5,6,17,Școala cu Clasele I-IV Chirlesti,,Chirlești,45.3713,26.3238
+207,10,BUZĂU,CILIBIA,367,3,13,59,1,16,6,36,364,4,10,62,2,14,5,35,Primăria Comuna Cilibia - La Parter,Nr. 65,Cilibia,45.0601,27.0648
+292,10,BUZĂU,MOVILA BANULUI,98,0,14,10,0,3,2,6,92,0,17,10,0,5,3,7,Școala Generală Cioranca,,Cioranca,44.9883,26.7173
+209,10,BUZĂU,CISLĂU,589,16,92,32,2,15,9,35,576,21,94,40,1,15,12,25,Grădinița cu Program Normal nr. 1 Comuna Cislău,,Cislău,45.2439,26.3765
+268,10,BUZĂU,MĂGURA,319,3,15,16,0,4,3,6,316,4,13,16,0,7,4,7,Școala Gimnazială Ciuta,Șoseaua Ardealului nr. 33,Ciuta,45.2637,26.5257
+390,10,BUZĂU,ULMENI,385,9,55,41,1,14,18,41,388,4,54,44,3,15,20,40,Localul Fostului Sfat Popular Clondiru,,Clondiru,45.0554,26.6167
+412,10,BUZĂU,VINTILĂ VODĂ,68,0,4,2,0,2,0,2,70,1,2,3,0,2,0,1,Școala Primară Sat Coca Antimirești,,Coca-Antimirești,45.4528,26.7039
+213,10,BUZĂU,COCHIRLEANCA,220,2,166,17,2,7,4,15,224,2,174,16,4,6,1,7,Școala Gimnazială Cochirleanca nr. 1,,Cochirleanca,45.2105,27.0342
+214,10,BUZĂU,COCHIRLEANCA,135,2,157,7,0,5,2,12,132,3,156,7,0,5,3,9,Școala Gimnazială Cochirleanca nr. 2,,Cochirleanca,45.2074,27.0523
+331,10,BUZĂU,RÎMNICELU,107,1,16,6,1,24,2,11,109,3,17,5,1,26,2,6,Școala Sat Colibași,Str. Bisericii nr. 98,Colibași,45.3837,27.1253
+219,10,BUZĂU,COLŢI,133,1,20,28,0,19,2,5,127,1,22,29,1,19,1,2,Școala Gimnazială Colți,,Colți,45.3768,26.3911
+222,10,BUZĂU,COLŢI,113,2,19,9,0,5,1,5,114,1,19,10,0,6,1,3,Școala Gimnazială Colții de Jos,,Colții de Jos,45.3936,26.3853
+363,10,BUZĂU,SIRIU,317,10,61,30,1,5,7,26,306,10,62,37,2,5,8,23,"Școala Primară Sat Colțu Pietrii, Comuna Siriu, Judetul Buzău",,Colțu Pietrii,45.4748,26.2694
+191,10,BUZĂU,CĂTINA,142,2,129,8,1,2,18,28,142,3,133,8,0,1,21,28,Școala Gimnazială nr. 2 Corbu,,Corbu,45.3208,26.2477
+223,10,BUZĂU,COSTEŞTI,311,10,55,23,0,10,14,29,313,10,53,28,1,9,13,21,Școala Gimnazială Costești,,Costești,45.0474,26.7591
+425,10,BUZĂU,ZIDURI,280,4,11,3,1,13,4,7,279,6,14,3,1,13,3,7,Școala Primară Costieni,,Costieni,45.2812,27.0354
+247,10,BUZĂU,GLODEANU-SILIŞTEA,244,1,27,24,0,12,1,12,246,2,26,30,1,7,4,9,Școala Primară Cotorca,Nr. 37,Cotorca,44.8224,26.8213
+181,10,BUZĂU,C.A. ROSETTI,111,4,35,9,0,9,4,11,116,3,35,8,0,8,2,6,Școala Primară Cotu Ciorii,,Cotu Ciorii,45.061,27.1399
+228,10,BUZĂU,COZIENI,183,4,26,13,0,1,6,14,183,4,28,14,1,1,7,13,Școala Cozieni,,Cozieni,45.3311,26.489
+316,10,BUZĂU,PODGORIA,311,5,23,8,1,3,4,10,311,7,23,5,1,6,3,12,Școala Gimnazială Coțatcu,,Coțatcu,45.4649,27.0141
+126,10,BUZĂU,ORAŞ PĂTÂRLAGELE,210,2,11,6,0,11,1,5,211,2,12,5,0,9,1,4,Școala Primară,Nr. 94,Crâng,45.3242,26.3431
+427,10,BUZĂU,ZIDURI,117,4,20,3,1,3,3,9,117,4,21,4,1,4,0,7,Școala Primară Cuculeasa,,Cuculeasa,45.2828,27.009
+117,10,BUZĂU,ORAŞ NEHOIU,68,1,6,7,0,3,0,1,68,1,5,6,0,3,0,1,Cămin Cultural Curmătura,,Curmătura,45.38,26.2886
+404,10,BUZĂU,VERNEŞTI,305,7,20,107,0,6,3,29,320,7,21,104,0,6,4,23,Școala Gimnazială Sat Cîndești,,Cândești,45.253,26.7046
+405,10,BUZĂU,VERNEŞTI,295,9,19,84,1,2,7,14,294,6,18,89,0,6,7,14,Școala Gimnazială Sat Cindești,,Cândești,45.253,26.7046
+248,10,BUZĂU,GLODEANU-SILIŞTEA,114,7,13,9,0,2,11,16,118,5,13,11,0,3,10,15,Școala Cîrligu Mare,,Cârligu Mare,44.8461,26.7472
+245,10,BUZĂU,GLODEANU SĂRAT,178,15,34,16,0,2,3,18,182,13,35,17,0,4,6,14,Căminul Cultural Căldărușanca,,Căldărușeanca,44.8815,26.693
+132,10,BUZĂU,ORAŞ POGOANELE,574,3,39,87,2,17,10,43,570,5,37,101,1,23,11,28,Școala Generală Căldărăști,,Căldărăști,44.8964,27.0306
+370,10,BUZĂU,SMEENI,155,2,5,33,0,3,0,7,157,2,5,35,1,5,0,3,Școala Prmară Călțuna,,Călțuna,44.965,26.9485
+188,10,BUZĂU,CĂNEŞTI,253,9,12,15,0,7,2,22,250,7,16,19,1,9,1,18,Școala Gimnazială Canesti,,Cănești,45.3967,26.6057
+271,10,BUZĂU,MĂRĂCINENI,343,13,35,18,1,11,8,27,345,17,37,22,2,13,6,16,Școala Generală Căpățînești,,Căpățânești,45.1857,26.801
+272,10,BUZĂU,MĂRĂCINENI,365,21,42,23,2,12,7,24,362,21,49,21,1,17,7,18,Grădinița cu Program Normal Căpățînești,,Căpățânești,45.1867,26.799
+204,10,BUZĂU,CHIOJDU,105,0,9,1,1,2,4,6,105,1,9,1,1,2,4,6,Școala Primară Catiasu,,Cătiașu,45.3915,26.2219
+190,10,BUZĂU,CĂTINA,122,2,112,9,1,4,4,11,121,3,112,10,0,4,5,12,Școala Gimnazială nr. 1 Cătina,,Cătina,45.2883,26.2514
+279,10,BUZĂU,MEREI,160,8,24,26,0,16,7,16,159,9,30,22,0,15,8,14,Școala Primară Dealul Viei,,Dealul Viei,45.1134,26.6544
+385,10,BUZĂU,TOPLICENI,285,2,19,6,1,14,1,16,293,3,17,7,1,14,1,10,Grădinița cu Program Normal Dedulești,,Dedulești,45.4685,26.9651
+134,10,BUZĂU,AMARU,97,2,4,5,0,1,2,9,99,2,3,5,0,1,2,8,Căminul Cultural,,Dulbanu,44.906,26.5966
+340,10,BUZĂU,SĂGEATA,362,4,63,16,0,7,10,25,362,5,63,18,0,8,13,23,Școala Dîmbroca,,Dâmbroca,45.1237,26.9545
+325,10,BUZĂU,PUIEŞTI,129,25,62,5,3,6,1,8,132,31,58,5,2,6,0,4,Grădinița Dăscălești,,Dăscălești,45.4085,27.2481
+295,10,BUZĂU,NĂENI,80,1,47,63,1,28,2,8,81,1,50,65,1,25,2,9,Școala Primară Fințesti,,Fințești,45.088,26.4635
+165,10,BUZĂU,BOZIORU,127,2,44,14,0,4,2,8,125,1,42,15,1,6,3,5,Școala Primară Fișici,,Fișici,45.3959,26.4684
+145,10,BUZĂU,BECENI,99,0,4,2,0,2,0,8,96,1,4,3,1,2,3,7,Școala Primară Florești,,Florești,45.4053,26.8166
+232,10,BUZĂU,FLORICA,422,9,42,23,1,8,5,21,419,8,41,28,2,11,7,21,Școala Gimnazială Florica,,Florica,44.9101,26.7663
+395,10,BUZĂU,VADU PAŞII,211,9,70,116,0,25,8,27,225,9,75,109,0,24,8,23,Școala Focșănei,Str. Principală nr. 110,Focșănei,45.1791,26.857
+332,10,BUZĂU,RÎMNICELU,53,2,9,6,1,5,0,5,51,1,9,8,1,6,0,3,Școala Sat Fotin,Str. Principală nr. 19,Fotin,45.3876,27.1446
+198,10,BUZĂU,CERNĂTEŞTI,140,4,9,4,0,2,3,13,139,2,10,4,0,3,4,17,Școala Primară din Satul Fulga,,Fulga,45.3335,26.7663
+418,10,BUZĂU,ZĂRNEŞTI,661,16,48,58,3,20,16,43,659,14,51,56,4,19,16,35,Școala Gimnazială „Constantin Popescu” Fundeni,,Fundeni,45.2904,26.8812
+256,10,BUZĂU,GURA TEGHII,168,5,65,18,1,40,8,13,160,7,61,23,0,41,8,12,Căminul Cultural Sat Furtunești,,Furtunești,45.4612,26.4017
+217,10,BUZĂU,COCHIRLEANCA,64,1,39,25,0,6,2,6,60,1,40,27,0,7,2,7,Școala Primară Gara Bobocu,,Gara Bobocu,45.2096,26.9345
+240,10,BUZĂU,GHERGHEASA,183,3,178,32,0,9,5,18,179,0,181,31,0,9,7,17,Școala Gimnazială Ghergheasa,,Ghergheasa,45.2724,27.2062
+237,10,BUZĂU,GHERĂSENI,505,15,56,42,0,3,11,30,508,16,57,41,1,5,13,30,Grădinița cu Program Normal Gheraseni,Str. Ioan Gherassy nr. 446,Gherăseni,45.0249,26.7862
+238,10,BUZĂU,GHERĂSENI,296,11,45,14,0,10,6,17,293,9,44,16,0,8,6,17,Școala cu Clasele I-IV Gheraseni,Str. Cremenea,Gherăseni,45.0288,26.8004
+242,10,BUZĂU,GLODEANU SĂRAT,457,9,76,68,0,14,4,47,464,12,76,75,1,17,7,22,Școala Gimnazială Glodeanu Sarat,,Glodeanu Sărat,44.8718,26.6455
+246,10,BUZĂU,GLODEANU-SILIŞTEA,404,6,46,18,3,5,10,25,404,7,43,27,2,6,10,21,Școala Gimnazială Glodeanu-Siliștea,Nr. 605,Glodeanu-Siliștea,44.8295,26.8024
+356,10,BUZĂU,SCORŢOASA,65,2,10,12,1,3,0,4,66,3,11,10,1,3,1,6,Școala Primară Sat Golu Grabicina,,Golu Grabicina,45.4221,26.6879
+227,10,BUZĂU,COSTEŞTI,95,0,10,15,0,3,2,3,92,1,10,16,0,4,2,3,Școala Primară Gomoești,,Gomoești,45.0673,26.7987
+355,10,BUZĂU,SCORŢOASA,70,1,6,20,0,1,0,13,74,0,4,21,0,1,0,11,Școala Primară Sat Grabicina de Jos,,Grabicina de Jos,45.4033,26.6617
+251,10,BUZĂU,GREBĂNU,345,4,65,197,1,51,4,15,336,4,63,200,2,61,4,15,Școala Gimnazială Grebănu,,Grebănu,45.3792,26.9761
+173,10,BUZĂU,BREAZA,167,1,14,16,0,18,4,9,165,2,16,19,1,13,4,11,Școala Generală Greceanca,,Greceanca,45.0768,26.5472
+374,10,BUZĂU,TISĂU,190,5,112,36,0,9,9,21,187,5,112,42,0,11,8,20,Caminul Cultural Sat Grajdana,,Grăjdana,45.2013,26.6194
+212,10,BUZĂU,CISLĂU,104,2,7,7,0,3,2,3,103,2,6,8,0,3,2,3,"Școala Primară Sat Gura Bâscei, Comuna Cislău",,Gura Bâscei,45.2542,26.3475
+288,10,BUZĂU,MÎNZĂLEŞTI,97,2,11,8,1,6,5,12,97,3,14,10,2,4,4,11,Școala Gimnazială Gura Bădicului,,Gura Bădicului,45.5169,26.6295
+142,10,BUZĂU,BECENI,229,11,40,10,0,18,7,20,228,12,41,8,0,21,6,19,Școala Gimnazială Gura Dimienii,,Gura Dimienii,45.4013,26.7589
+386,10,BUZĂU,TOPLICENI,63,0,11,1,0,7,1,1,60,1,11,1,0,6,2,2,Școala Gura-Fagetului,,Gura Făgetului,45.4828,26.9419
+278,10,BUZĂU,MEREI,52,0,6,5,1,6,4,16,51,2,4,6,1,8,5,14,Școala Gura Sărății,,Gura Sărății,45.1209,26.6426
+257,10,BUZĂU,GURA TEGHII,344,11,81,46,0,16,5,30,331,9,81,62,0,16,5,29,Caminul Cultural Satul Gura Teghii,,Gura Teghii,45.4858,26.4211
+353,10,BUZĂU,SCORŢOASA,49,3,14,8,0,2,1,3,49,3,13,9,0,2,1,2,Școala Primară Sat Gura Văii,,Gura Văii,45.375,26.6655
+347,10,BUZĂU,SĂHĂTENI,81,4,6,4,0,6,1,8,84,3,6,4,1,6,1,8,Școala cu Clasele I-IV Găgeni,,Găgeni,45.0143,26.5854
+233,10,BUZĂU,GĂLBINAŞI,289,10,54,28,0,8,3,22,294,8,50,30,0,6,7,26,Școala Gimnazială Gălbinași,,Gălbinași,45.0795,26.9377
+343,10,BUZĂU,SĂGEATA,310,0,29,15,1,20,3,17,314,2,30,17,2,16,3,13,Școala Găvănești,,Găvănești,45.0871,27.0646
+377,10,BUZĂU,TISĂU,110,7,90,7,0,6,4,16,117,7,89,6,1,6,3,11,"Școala Gimnazială Sat Haleș, Comuna Tisau",,Haleș,45.1855,26.5632
+424,10,BUZĂU,ZIDURI,225,2,18,8,2,6,3,10,226,3,19,9,3,7,3,7,Școala Primară Heliade Rădulescu,,Heliade Rădulescu,45.2922,27.118
+252,10,BUZĂU,GREBĂNU,155,1,25,32,0,128,5,17,150,10,25,37,0,113,7,12,Școala Primară Homești,,Homești,45.3951,26.9604
+243,10,BUZĂU,GLODEANU SĂRAT,87,4,7,13,2,1,1,19,95,4,5,19,1,2,2,8,Grădinița cu Program Normal Ileana,,Ileana,44.8614,26.628
+346,10,BUZĂU,SĂHĂTENI,67,1,9,16,0,12,1,4,61,1,9,18,0,10,3,7,Școala cu Clasele I-IV Istrița de Jos,,Istrița de Jos,45.0516,26.5631
+375,10,BUZĂU,TISĂU,12,0,5,5,2,2,1,32,20,0,8,6,2,2,1,21,"Școala Primară, Sat Izvoranu, Comuna Tisau",,Izvoranu,45.2334,26.5813
+144,10,BUZĂU,BECENI,190,3,29,20,2,4,6,12,184,6,27,20,1,4,9,16,Școala Primară Izvoru Dulce,,Izvoru Dulce,45.3444,26.7766
+280,10,BUZĂU,MEREI,163,4,27,9,1,9,7,15,163,4,27,9,1,10,9,14,Școala Gimnazială Izvoru Dulce,,Izvoru Dulce,45.1103,26.6338
+152,10,BUZĂU,BERCA,227,13,23,16,0,3,4,16,216,15,29,19,0,7,6,12,Cămin Cultural Joseni,Șoseaua Vulcanilor nr. 297,Joseni,45.3116,26.6539
+135,10,BUZĂU,AMARU,86,0,3,3,0,0,3,11,84,1,3,2,0,0,3,10,Căminul Cultural,,Lacu Sinaia,44.9243,26.5564
+423,10,BUZĂU,ZIDURI,180,1,12,4,0,10,1,9,178,1,13,3,0,11,1,6,Căminul Cultural Lanurile,,Lanurile,45.2707,27.0883
+259,10,BUZĂU,LARGU,447,2,28,15,0,12,7,23,450,4,29,17,1,13,7,15,Primăria Largu,Str. Ion Creangă nr. 83,Largu,44.9757,27.1416
+205,10,BUZĂU,CHIOJDU,95,0,17,6,1,5,8,14,100,0,16,6,0,3,8,16,Școala Primară Lera,,Lera,45.3335,26.2286
+291,10,BUZĂU,MOVILA BANULUI,363,9,13,27,1,3,2,15,361,8,15,28,0,1,2,11,Grădinița cu Program Normal Limpeziș,,Limpeziș,44.9545,26.7029
+276,10,BUZĂU,MEREI,591,11,53,30,0,15,15,40,583,11,53,36,0,21,10,34,Școala Gimnazială Lipia,,Lipia,45.1397,26.7329
+253,10,BUZĂU,GREBĂNU,233,5,21,58,2,4,7,13,238,3,23,52,1,3,5,11,Școala Primară Livada,,Livada,45.3808,26.9492
+260,10,BUZĂU,LOPĂTARI,353,17,71,36,0,6,6,14,370,13,67,34,1,5,5,11,Primăria Lopătari,,Lopătari,45.4838,26.586
+265,10,BUZĂU,LUCIU,631,4,25,29,1,8,7,26,643,3,30,26,2,9,7,20,Fosta Școală Gimnazială „Prof. Dr. Ion Anghel”,,Luciu,44.9714,27.0786
+136,10,BUZĂU,AMARU,99,0,15,9,0,1,2,11,103,0,17,8,1,1,2,8,Caminul Cultural Lunca,,Lunca,44.9667,26.6331
+182,10,BUZĂU,C.A. ROSETTI,304,3,26,18,2,4,3,22,300,1,27,16,3,4,3,13,Școala Gimnazială Lunca,,Lunca,45.0058,27.2088
+311,10,BUZĂU,PÎRSCOV,227,9,24,7,1,9,6,22,231,9,25,8,1,6,8,22,Școala Lunca Frumoasa,,Lunca Frumoasă,45.303,26.5345
+362,10,BUZĂU,SIRIU,421,16,42,30,0,14,13,39,415,15,51,27,0,20,10,26,"Școala Gimnazială Comuna Siriu, Judetul Buzau, Din Satul Lunca Jaristei",Nr. 124,Lunca Jariștei,45.4787,26.2593
+110,10,BUZĂU,ORAŞ NEHOIU,134,3,18,17,0,13,1,8,134,4,17,17,0,13,0,5,Școala cu Clasele I-IV Prund,,Lunca Priporului,45.4498,26.2964
+261,10,BUZĂU,LOPĂTARI,184,4,21,10,0,3,9,16,184,4,20,12,1,2,11,15,Școala Primară Sat Luncile,,Luncile,45.4941,26.5579
+388,10,BUZĂU,ŢINTEŞTI,622,6,57,19,0,17,10,27,625,6,50,25,0,16,12,27,Spațiul de Utilitate Publică din Satul Maxenu,,Maxenu,45.0546,26.8553
+275,10,BUZĂU,MEREI,197,16,40,21,2,27,8,19,201,14,38,24,3,23,5,18,Școala Gimnazială Merei,,Merei,45.1318,26.6746
+409,10,BUZĂU,VERNEŞTI,88,6,10,9,2,6,5,20,87,7,10,9,2,7,7,19,Grădinița cu Program Normal Mierea,,Mierea,45.2189,26.661
+283,10,BUZĂU,MIHĂILEŞTI,270,8,55,21,0,3,4,19,277,10,56,21,0,4,5,15,Școala Gimnazială Mihailesti,,Mihăilești,44.9168,26.676
+168,10,BUZĂU,BRĂDEANU,110,1,69,3,0,2,1,6,104,1,68,8,0,2,1,7,Școala Primară Mitropolia,,Mitropolia,44.8791,26.8768
+115,10,BUZĂU,ORAŞ NEHOIU,232,10,32,11,1,15,10,22,228,9,34,19,1,13,13,22,Cămin Cultural Mlăjet,,Mlăjet,45.3736,26.3332
+367,10,BUZĂU,SMEENI,93,1,4,17,0,3,2,5,94,0,4,16,0,3,2,4,Grădinița cu Program Normal Moisica,,Moisica,44.9965,26.8874
+290,10,BUZĂU,MOVILA BANULUI,356,5,51,14,0,10,10,32,372,4,53,20,0,7,6,17,Caminul Cultural Movila Banului,,Movila Banului,44.9869,26.6828
+208,10,BUZĂU,CILIBIA,150,4,9,45,0,6,0,5,148,5,8,44,0,7,0,4,Școala Primară din Satul Movila Oii,Nr. 50,Movila Oii,45.03,27.0678
+334,10,BUZĂU,ROBEASCA,129,0,3,3,0,10,1,7,129,0,4,3,0,6,0,7,Caminul Cultural Moșești,,Moșești,45.1195,27.1478
+176,10,BUZĂU,BUDA,343,1,17,2,0,11,2,12,344,2,19,5,0,12,1,3,Școala Primară Mucești Dănulești,,Mucești-Dănulești,45.5175,26.9305
+293,10,BUZĂU,MURGEŞTI,385,5,34,18,1,5,5,17,397,5,31,17,1,7,5,13,Primăria Murgești,,Murgești,45.3957,26.8862
+416,10,BUZĂU,VIPEREŞTI,32,1,5,2,1,1,1,7,31,0,4,1,1,2,2,7,Școala Primară Muscel,,Muscel,45.2868,26.4368
+221,10,BUZĂU,COLŢI,31,0,6,22,0,1,5,6,31,0,5,23,0,1,4,4,Căminul Cultural Muscelul Cărămănești,,Muscelu Cărămănești,45.3842,26.4307
+122,10,BUZĂU,ORAŞ PĂTÂRLAGELE,220,1,22,5,0,4,0,3,217,2,19,7,0,2,0,4,Școala Generală,Nr. 21,Mușcel,45.3259,26.3129
+285,10,BUZĂU,MÎNZĂLEŞTI,211,5,32,3,0,9,8,16,208,5,31,3,0,7,9,18,Școala Gimnazială Mînzălești,,Mânzălești,45.4906,26.6403
+326,10,BUZĂU,PUIEŞTI,114,5,36,7,1,1,4,12,118,4,34,13,1,3,3,7,Școala Măcrina,,Măcrina,45.386,27.1924
+267,10,BUZĂU,MĂGURA,424,17,46,30,2,16,10,30,421,15,50,39,2,19,8,21,Școala Gimnazială Măgura,Str. Mihai Viteazul nr. 180,Măgura,45.28,26.5799
+125,10,BUZĂU,ORAŞ PĂTÂRLAGELE,36,0,3,2,0,1,0,1,37,0,3,2,0,1,0,1,Școala Primară,Nr. 6,Mănăstirea,45.299,26.3284
+284,10,BUZĂU,MIHĂILEŞTI,197,1,15,55,0,3,0,2,197,1,11,57,0,6,1,2,Școala Primară Mărgineanu,,Mărgineanu,44.9381,26.6641
+274,10,BUZĂU,MĂRGĂRITEŞTI,305,18,19,6,0,3,5,8,306,16,19,6,0,5,2,5,Primăria Mărgăritești,,Mărgăritești,45.433,26.8364
+121,10,BUZĂU,ORAŞ PĂTÂRLAGELE,344,9,35,18,0,14,11,21,332,8,40,19,0,15,12,22,Școala Generală,Nr. 417,Mărunțișu,45.2894,26.3562
+269,10,BUZĂU,MĂRĂCINENI,338,26,41,23,1,20,15,34,339,26,41,25,1,21,16,31,Școala Generală Maracineni,,Mărăcineni,45.1811,26.8109
+270,10,BUZĂU,MĂRĂCINENI,239,25,52,23,0,8,11,28,245,26,53,23,0,15,9,26,Școala Generală Mărăcineni,,Mărăcineni,45.1811,26.8109
+350,10,BUZĂU,SĂPOCA,397,13,78,26,1,24,7,34,403,10,74,29,1,24,7,28,Școala Gimnazială Mătesti,Str. Principală nr. 123,Mătești,45.2154,26.7545
+189,10,BUZĂU,CĂNEŞTI,108,0,5,2,0,4,1,3,107,1,5,2,0,5,1,2,Școala Primară Negosina,,Negoșina,45.3761,26.6088
+102,10,BUZĂU,ORAŞ NEHOIU,289,48,69,44,2,40,16,41,284,42,60,69,2,35,16,37,Casa de Cultură George Băiculescu Nehoiu,Str. 1 Decembrie 1918 nr. 1,Nehoiu,45.4172,26.302
+103,10,BUZĂU,ORAŞ NEHOIU,259,47,58,58,1,41,17,35,241,41,60,79,1,47,14,26,Grup Scolar Tehnic Nehoiu Str. Scolii,Str. Școlii nr. 1,Nehoiu,45.4187,26.301
+104,10,BUZĂU,ORAŞ NEHOIU,227,9,37,42,0,11,10,32,223,8,32,54,3,14,10,27,Sala de Sport a Orasului,Str. Stadionului nr. 16,Nehoiu,45.4241,26.3031
+105,10,BUZĂU,ORAŞ NEHOIU,42,0,6,1,1,7,3,7,42,2,5,5,0,6,3,4,Cămin Cultural Bădârlegi,Str. Mircea Eliade,Nehoiu,45.4124,26.3184
+106,10,BUZĂU,ORAŞ NEHOIU,167,16,17,25,0,18,10,16,156,15,21,30,0,16,12,17,Clădirea fosta Secție Confecționat Încălțăminte Dâmbovița (Lângă Biserica Ortodoxă) Str. Valea Nehoiului,Str. Molidului (Str. Valea Nehoiului) (D),Nehoiu,45.4152,26.2946
+107,10,BUZĂU,ORAŞ NEHOIU,255,11,37,49,1,11,10,27,254,12,36,47,2,12,11,23,Cămin Cultural Valea Nehoiului,Str. Molidului (Str. Valea Nehoiului) (D),Nehoiu,45.4141,26.2715
+108,10,BUZĂU,ORAŞ NEHOIU,150,2,14,7,1,6,4,11,151,3,16,10,0,3,2,7,Școala Primară Nehoiașu,Str. Valea Nehoiașului (Str. Oierilor) nr. 41,Nehoiu,45.4291,26.3018
+109,10,BUZĂU,ORAŞ NEHOIU,180,17,39,23,1,17,10,23,164,16,43,27,2,24,14,26,Școala Gimnazială Lunca Priporului,Str. Bisericii nr. 2,Nehoiu,45.4168,26.3024
+281,10,BUZĂU,MEREI,73,1,5,9,0,5,3,8,76,1,4,9,0,4,3,6,Școala Nenciulești,,Nenciulești,45.11,26.6325
+324,10,BUZĂU,PUIEŞTI,128,5,43,9,3,13,1,11,127,4,50,10,2,8,2,10,Școala Gimnazială Nicolești,,Nicolești,45.4015,27.2352
+411,10,BUZĂU,VINTILĂ VODĂ,336,6,45,6,2,12,14,19,334,7,41,8,3,10,12,17,Școala Primară Sat Niculești,,Niculești,45.436,26.7421
+407,10,BUZĂU,VERNEŞTI,202,6,54,41,3,3,14,31,200,9,51,45,3,5,17,28,Grădinița cu Program Normal Nișcov,,Nișcov,45.2171,26.694
+294,10,BUZĂU,NĂENI,112,4,8,60,0,8,5,19,115,6,6,65,0,9,6,18,Școala Gimnazială Năeni,,Năeni,45.0919,26.4918
+298,10,BUZĂU,ODĂILE,293,3,29,6,1,3,3,9,292,4,28,6,3,4,3,7,Școala Gimnazială Odăile,,Odăile,45.3911,26.5407
+282,10,BUZĂU,MEREI,192,4,10,22,0,5,2,11,193,5,9,22,0,7,3,11,Școala Primară Ogrăzile,,Ogrăzile,45.1213,26.6783
+399,10,BUZĂU,VALEA RÎMNICULUI,471,19,116,22,0,24,9,30,468,23,110,21,0,26,10,30,Grădinița cu Program Normal Oreavu,,Oreavul,45.3701,27.0281
+299,10,BUZĂU,PADINA,173,5,62,262,1,16,3,31,201,5,69,239,2,14,6,29,Grădinița cu Program Normal nr. 2 Comuna Padina,,Padina,44.8403,27.1002
+300,10,BUZĂU,PADINA,173,2,36,70,1,11,5,19,168,3,39,70,1,15,7,16,Grădinița cu Program Normal nr. 1 Padina,Str. Mare nr. 120,Padina,44.8288,27.1133
+301,10,BUZĂU,PADINA,221,11,39,62,3,23,6,16,227,12,41,58,1,24,7,20,Școala Gimnazială nr. 1 Comuna Padina,,Padina,44.8289,27.1133
+302,10,BUZĂU,PARDOŞI,201,2,9,2,0,8,0,4,197,3,9,2,0,7,0,5,Școala Pardoși,,Pardoși,45.4541,26.8822
+231,10,BUZĂU,COZIENI,83,1,4,2,0,1,1,3,83,1,3,2,0,0,1,4,Școala Pietraru,,Pietraru,45.3066,26.4809
+306,10,BUZĂU,PIETROASELE,373,23,47,35,1,11,17,44,358,25,47,38,4,20,17,38,Școala Gimnazială Pietroasele,Nr. 540,Pietroasele,45.0905,26.5732
+224,10,BUZĂU,COSTEŞTI,263,8,25,10,1,3,5,15,261,9,26,10,1,3,5,9,Grădinița cu Program Normal Pietrosu,,Pietrosu,45.057,26.7563
+171,10,BUZĂU,BRĂEŞTI,157,3,14,5,1,0,0,3,158,4,13,6,1,0,0,3,Caminul Cultural Pinu,,Pinu,45.4208,26.4918
+244,10,BUZĂU,GLODEANU SĂRAT,165,6,34,36,0,6,4,13,167,5,37,37,1,4,5,12,Școala Gimnazială Pitulicea,,Pitulicea,44.8914,26.6571
+264,10,BUZĂU,LOPĂTARI,202,7,11,6,1,3,2,7,206,7,12,5,0,2,2,7,Căminul Cultural din Satul Plaiu Nucului,,Plaiu Nucului,45.4781,26.5168
+203,10,BUZĂU,CHIOJDU,45,0,14,3,0,1,0,2,46,0,14,3,0,1,0,3,Școala Primară Plescioara,,Plescioara,45.3739,26.1945
+254,10,BUZĂU,GREBĂNU,388,11,43,52,1,26,6,18,384,10,41,53,1,32,5,15,Școala Gimnazială Plevna,,Plevna,45.3776,27.0106
+153,10,BUZĂU,BERCA,199,21,36,17,0,6,12,28,194,23,42,16,0,4,16,28,Școala Gimnazială Pleșcoi,Str. 1 Decembrie nr. 37,Pleșești,45.2817,26.7077
+154,10,BUZĂU,BERCA,239,17,46,13,0,9,3,19,239,20,47,14,0,10,3,12,Cămin Cultural Pleșcoi,Str. 1 Decembrie nr. 36 A,Pleșești,45.2817,26.7079
+314,10,BUZĂU,PODGORIA,83,0,16,6,0,1,1,11,82,0,18,9,0,2,0,5,Școala Primară Pleșești,,Pleșești,45.5098,26.9641
+158,10,BUZĂU,BISOCA,112,0,20,1,1,3,4,10,113,2,19,2,1,3,4,9,Școala Generală Pleși,,Pleși,45.5807,26.6934
+354,10,BUZĂU,SCORŢOASA,62,1,4,4,0,2,0,2,62,1,4,5,0,2,0,1,Școala Primară Sat Plopeasa de Sus,,Plopeasa,45.3583,26.6109
+263,10,BUZĂU,LOPĂTARI,123,2,7,16,1,1,1,3,121,2,6,16,1,3,1,3,Școala Primară Sat Ploștina,,Ploștina,45.5128,26.5172
+315,10,BUZĂU,PODGORIA,301,8,64,19,0,22,5,19,306,7,68,18,0,18,6,13,Școala Gimnazială Podgoria,,Podgoria,45.4249,27.0245
+206,10,BUZĂU,CHIOJDU,60,0,9,2,0,2,1,5,55,0,10,2,0,2,1,5,Școala Primară Poenitele,,Poenițele,45.3706,26.2443
+129,10,BUZĂU,ORAŞ POGOANELE,391,20,66,79,0,17,6,27,396,18,64,84,1,16,9,16,Liceul Teoretic Pogoanele,Str. Unirii nr. 19,Pogoanele,44.9143,26.9898
+130,10,BUZĂU,ORAŞ POGOANELE,345,2,90,82,2,16,7,25,352,3,88,85,2,15,4,14,Clubul Copiilor Pogoanele,Str. Mihail Eminescu nr. 3,Pogoanele,44.9174,26.9865
+131,10,BUZĂU,ORAŞ POGOANELE,372,8,55,131,0,22,8,28,389,10,57,125,0,17,8,19,Școala Generală nr. 2 Pogoanele,Str. Ion Luca Caragiale nr. 34,Pogoanele,44.9234,26.9939
+120,10,BUZĂU,ORAŞ PĂTÂRLAGELE,68,0,9,5,0,4,3,8,72,0,9,7,0,2,3,5,Școală Primară,Nr. 113,Poienile,45.2639,26.3565
+273,10,BUZĂU,MĂRĂCINENI,441,23,64,31,2,22,18,56,445,30,70,37,2,18,15,41,Școala Generală Potoceni,,Potoceni,45.1966,26.7752
+319,10,BUZĂU,POŞTA CÎLNĂU,86,13,5,25,0,2,10,20,85,11,8,29,1,2,8,17,Școala Generală din Potirnichesti,,Potârnichești,45.2187,26.8631
+381,10,BUZĂU,TOPLICENI,111,7,26,11,0,12,1,4,109,6,27,11,0,12,4,7,Școala Primară Poșta,,Poșta,45.3827,27.0285
+317,10,BUZĂU,POŞTA CÎLNĂU,304,26,39,39,2,8,5,18,304,27,42,38,2,9,7,20,Grădinița de Copii Poșta Cîlnău,,Poșta Câlnău,45.2338,26.8691
+318,10,BUZĂU,POŞTA CÎLNĂU,270,30,39,27,0,6,4,21,262,29,44,30,2,7,5,17,Grădinița de Copii Poșta Cîlnău,,Poșta Câlnău,45.2338,26.8691
+297,10,BUZĂU,NĂENI,42,2,12,13,0,4,2,9,43,3,13,14,0,4,2,7,Grădinița Prosca,,Proșca,45.0943,26.482
+419,10,BUZĂU,ZĂRNEŞTI,106,1,9,9,0,5,1,4,106,1,11,8,1,6,1,3,Școala Generală Pruneni,,Pruneni,45.3323,26.8459
+323,10,BUZĂU,PUIEŞTI,191,6,137,13,0,15,11,36,187,9,137,16,0,19,14,28,Școala Gimnazială Puieștii de Jos,,Puieștii de Jos,45.3992,27.2155
+322,10,BUZĂU,PUIEŞTI,64,5,28,3,0,4,0,3,67,2,28,4,0,3,1,3,Școala Puieștii de Sus,,Puieștii de Sus,45.3981,27.1891
+151,10,BUZĂU,BERCA,46,1,6,4,0,1,1,4,45,1,6,3,0,1,1,4,Cămin Cultural Pîcle,,Pâclele,45.3287,26.7012
+308,10,BUZĂU,PÎRSCOV,290,11,45,9,0,9,11,24,289,15,49,7,0,8,11,20,Căminul Cultural Pîrscov,,Pârscov,45.2886,26.5564
+309,10,BUZĂU,PÎRSCOV,261,10,44,10,0,5,12,23,271,9,44,10,1,5,9,20,Căminul Cultural Pîrscov,,Pârscov,45.2886,26.5564
+378,10,BUZĂU,TISĂU,77,6,62,6,0,5,7,15,84,4,65,7,0,5,7,10,"Grădinița cu Program Normal Sat Padureni, Comuna Tisau",,Pădurenii,45.1845,26.5452
+114,10,BUZĂU,ORAŞ NEHOIU,210,19,14,19,0,17,9,30,214,20,13,24,0,22,8,20,Cămin Cultural Păltineni,,Păltineni,45.3941,26.3212
+255,10,BUZĂU,GURA TEGHII,107,2,45,8,0,45,1,6,109,1,42,12,0,46,1,2,Școala Gimnazială Păltiniș,,Păltiniș,45.4553,26.3749
+303,10,BUZĂU,PĂNĂTĂU,505,3,38,20,0,8,12,28,502,7,30,27,1,10,12,24,Școala Gimnazială Pănătău,,Pănătău,45.3172,26.388
+118,10,BUZĂU,ORAŞ PĂTÂRLAGELE,215,25,37,29,0,15,6,21,217,25,40,29,0,17,4,14,Liceul Tehnologic Pătârlagele,Str. A. I. Cuza nr. 6,Pătârlagele,45.3176,26.3607
+119,10,BUZĂU,ORAŞ PĂTÂRLAGELE,265,28,46,34,1,17,8,27,262,26,52,38,0,19,8,22,Liceul Tehnologic Pătârlagele,Str. A. I. Cuza nr. 6,Pătârlagele,45.3176,26.3607
+327,10,BUZĂU,RACOVIŢENI,213,11,20,71,0,16,18,30,216,12,22,71,1,14,20,32,Primăria Racovițeni,,Racovițeni,45.352,26.8915
+157,10,BUZĂU,BISOCA,246,2,9,3,2,3,5,16,245,2,12,3,1,3,8,14,Campus Pentru Copii Sf.Sava - Recea,,Recea,45.5475,26.6789
+333,10,BUZĂU,ROBEASCA,163,0,13,4,1,68,2,9,163,0,10,7,1,67,5,13,Școala Gimnazială Robeasca,,Robeasca,45.1609,27.1453
+312,10,BUZĂU,PÎRSCOV,135,7,17,6,0,2,5,14,135,8,19,6,1,1,7,15,Școala Generală Robești,,Robești,45.292,26.5822
+216,10,BUZĂU,COCHIRLEANCA,91,2,93,11,0,3,2,15,99,1,93,10,0,4,3,12,Școala Primară Rosioru,,Roșioru,45.2125,27.0788
+401,10,BUZĂU,VALEA RÎMNICULUI,291,0,33,15,1,4,6,26,294,1,29,14,2,4,6,23,Grădinița cu Program Normal Rubla,,Rubla,45.3542,27.0721
+335,10,BUZĂU,RUŞEŢU,321,7,43,29,0,12,12,25,331,6,35,36,0,9,12,24,Liceul Tehnologic Rușețu,Str. 1 Decembrie 1918 nr. 10,Rușețu,44.9632,27.2168
+336,10,BUZĂU,RUŞEŢU,288,4,55,19,0,31,7,26,289,4,56,25,1,29,8,22,Clădirea Grădiniței cu Program Normal,Str. 1 Decembrie 1918 nr. 10,Rușețu,44.9637,27.2164
+337,10,BUZĂU,RUŞEŢU,323,13,41,17,0,14,5,15,309,13,41,24,1,17,9,17,Căminul Cultural „Dimitrie Gusti”,Str. 1 Decembrie 1918 nr. 35,Rușețu,44.9615,27.217
+328,10,BUZĂU,RÎMNICELU,212,5,36,27,0,16,5,21,214,5,32,27,0,20,8,19,Școala Gimnazială nr. 1,Str. Principală nr. 57,Râmnicelu,45.3631,27.1039
+329,10,BUZĂU,RÎMNICELU,178,2,18,89,2,6,2,17,186,3,19,92,2,9,1,5,Școala nr. 2 Sat Ramnicelu,Str. Principală nr. 330 B,Râmnicelu,45.3637,27.1173
+81,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,499,25,66,33,0,38,21,60,505,28,56,35,0,52,21,46,Centrul de Recuperare Pentru Copii cu Dizabilități,Str. Privighetorilor nr. 3,Râmnicu Sărat,45.3908,27.0511
+82,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,393,1,33,22,0,29,3,26,406,3,32,22,3,36,5,13,Școala Gimnazială „Dr. Ilie Pavel”,Str. Perișori (Str. Perișor) nr. 2,Râmnicu Sărat,45.3921,27.0353
+83,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,403,15,55,31,1,57,17,53,406,17,64,32,0,67,15,38,Școala Gimnazială „Vasile Cristoforeanu”,Str. Alexandru Ioan Cuza nr. 7,Râmnicu Sărat,45.3854,27.0411
+84,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,413,35,54,39,0,36,5,19,411,35,52,38,0,43,6,19,Școala Gimnazială „Vasile Cristoforeanu”,Str. Alexandru Ioan Cuza nr. 7,Râmnicu Sărat,45.3854,27.0411
+85,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,426,36,100,44,2,40,12,40,426,40,89,44,2,48,9,41,Școala Gimnazială „Vasile Cristoforeanu”,Str. Principele Ferdinand (Str. Constantin Dobrogeanu Gherea),Râmnicu Sărat,45.3833,27.0428
+86,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,419,23,70,16,0,30,6,34,428,24,66,15,0,32,8,30,Grădinița cu Program Normal „Orizont”,Intrarea Speranței nr. 2,Râmnicu Sărat,45.3834,27.0391
+87,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,319,19,51,28,1,39,13,40,339,20,42,32,1,35,14,36,Liceul Tehnologic „Victor Frunză”,Str. Toamnei nr. 4,Râmnicu Sărat,45.382,27.0389
+88,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,432,27,83,31,2,31,13,41,425,23,79,36,2,37,16,43,Liceul Tehnologic „Victor Frunză”,Str. Nicolae Bălcescu nr. 2,Râmnicu Sărat,45.3785,27.0513
+89,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,311,24,61,29,1,29,19,49,313,24,52,34,2,36,15,42,Colegiul Național „Alexandru Vlahuță”,Str. Tudor Vladimirescu nr. 13,Râmnicu Sărat,45.3776,27.0475
+90,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,374,25,90,33,2,34,18,28,372,27,78,34,1,48,19,27,Colegiul Național „Alexandru Vlahuță”,Str. Tudor Vladimirescu nr. 13,Râmnicu Sărat,45.3776,27.0475
+91,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,390,20,44,37,1,21,9,31,392,19,43,39,2,22,10,32,Grădinița cu Program Prelungit „Mugurașii”,Str. Constantin Brâncoveanu nr. 13,Râmnicu Sărat,45.3785,27.0451
+92,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,396,21,50,37,1,45,21,44,414,27,45,35,0,37,21,36,Grădinița cu Program Prelungit „Lumea Copilăriei”,Bulevardul 1 Decembrie 1918 (Bulevardul Balta Albă) nr. 2,Râmnicu Sărat,45.373,27.0576
+93,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,375,36,84,29,0,45,19,40,376,38,77,34,1,51,18,33,Grădinița cu Program Prelungit „Lumea Copilăriei”,Bulevardul 1 Decembrie 1918 (Bulevardul Balta Albă) nr. 2,Râmnicu Sărat,45.373,27.0576
+94,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,460,24,97,37,3,51,18,55,469,35,87,38,3,56,18,40,Școala Gimnazială nr. 6,Str. Matei Basarab nr. 83,Râmnicu Sărat,45.3852,27.0519
+95,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,320,23,72,26,0,51,15,43,309,24,63,36,0,70,16,37,Liceul Teoretic „Ștefan Cel Mare”,Str. Liliacului nr. 15,Râmnicu Sărat,45.3816,27.0494
+96,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,347,11,69,25,2,36,12,40,345,13,65,30,1,35,13,34,Cantina de Ajutor Social,Str. Plt. Torcaru (Str. Plut. Ioniță Torcaru) nr. 12,Râmnicu Sărat,45.3772,27.0556
+97,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,353,30,71,26,1,35,12,30,365,25,69,31,1,33,10,24,Școala Gimnazială nr. 1,Str. Ștefan cel Mare nr. 17,Râmnicu Sărat,45.3746,27.0478
+98,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,460,20,52,33,0,39,14,51,456,20,51,36,0,47,12,47,Școala Gimnazială nr. 2,Str. Păun Pincio (Str. Ion Păun Pincio) nr. 10,Râmnicu Sărat,45.3721,27.0511
+99,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,461,20,64,15,1,33,15,40,463,17,65,18,1,38,14,35,S.C. Rafinăria Venus Oilreg S.A.,Str. Costieni nr. 106,Râmnicu Sărat,45.3723,27.0583
+100,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,394,20,73,28,0,26,8,36,391,20,73,31,0,30,11,31,Grădinița cu Program Prelungit nr. 2,Str. Lalelelor nr. 1,Râmnicu Sărat,45.3755,27.0498
+101,10,BUZĂU,MUNICIPIUL RÂMNICU SĂRAT,382,30,67,33,0,30,15,38,369,27,73,30,0,38,17,41,Liceul Economic „Elina Matei Basarab”,Str. Lalelelor nr. 1,Râmnicu Sărat,45.375,27.0504
+383,10,BUZĂU,TOPLICENI,120,0,19,6,0,28,0,3,120,1,19,6,0,30,0,1,Grădinița cu Program Normal Răducești,,Răducești,45.4258,27.0045
+150,10,BUZĂU,BERCA,239,12,44,11,0,5,4,18,228,18,46,10,1,7,5,13,Grădinița cu Program Normal Rătești,Str. Șoimului nr. 63,Rătești,45.2966,26.6431
+352,10,BUZĂU,SCORŢOASA,219,3,38,37,1,8,4,9,216,2,38,34,1,9,4,12,Sala de Festivități Scortoasa,,Scorțoasa,45.36,26.6646
+396,10,BUZĂU,VADU PAŞII,147,7,55,47,0,14,8,16,149,5,54,48,0,17,6,11,Școala Ciocârlia,Str. Ciocîrliei nr. 3,Scurtești,45.1452,26.8888
+397,10,BUZĂU,VADU PAŞII,349,16,116,83,1,45,9,22,358,16,123,78,2,45,11,21,Școala Gimnazială Scurtești,Fundătura Scurtă nr. 3,Scurtești,45.1366,26.9017
+359,10,BUZĂU,SCUTELNICI,335,1,44,9,0,8,6,17,336,2,41,13,0,8,8,15,Căminul Cultural din Satul Scutelnici,,Scutelnici,44.8482,26.9161
+210,10,BUZĂU,CISLĂU,290,18,109,24,1,10,6,14,289,19,111,25,1,6,5,9,"Școala Gimnazială Sat Scărișoara, Comuna Cislău",,Scărișoara,45.2272,26.3883
+338,10,BUZĂU,RUŞEŢU,82,0,20,1,0,3,0,3,81,1,23,2,1,2,0,3,Școala Primară,Str. Unirii nr. 16,Sergent Ionel Ștefan,44.9226,27.2193
+127,10,BUZĂU,ORAŞ PĂTÂRLAGELE,227,7,32,20,1,9,2,13,224,5,31,21,1,10,5,15,Școala Primară,Nr. 361,Sibiciu de Sus,45.3369,26.3599
+193,10,BUZĂU,CĂTINA,19,2,29,2,1,1,0,4,20,2,29,2,1,1,0,3,Școala cu Clasele I-IV Slobozia,,Slobozia,45.2719,26.2588
+364,10,BUZĂU,SMEENI,295,6,21,26,1,8,2,13,294,6,27,28,1,8,3,13,Căminul de Nunti Smeeni,,Smeeni,44.9938,26.854
+365,10,BUZĂU,SMEENI,341,6,25,30,0,2,9,13,341,7,24,27,1,3,9,14,Grădinița cu Program Normal Smeeni,,Smeeni,44.9966,26.8578
+366,10,BUZĂU,SMEENI,147,6,12,8,0,4,3,12,153,5,13,9,1,4,1,5,Școala Primară Sălcioara,,Smeeni,44.991,26.8717
+167,10,BUZĂU,BRĂDEANU,209,3,101,7,1,3,8,20,212,1,98,13,1,5,10,14,Școala Gimnazială Smîrdan,,Smârdan,44.8766,26.8396
+161,10,BUZĂU,BLĂJANI,170,4,9,9,1,3,4,9,168,4,9,10,1,3,5,8,Căminul Cultural Sorești,,Sorești,45.2829,26.8199
+226,10,BUZĂU,COSTEŞTI,246,29,25,30,0,20,10,33,246,27,31,32,0,15,12,35,Școala Gimnazială „General Ștefan Gușă” Spătaru,,Spătaru,45.0876,26.7761
+380,10,BUZĂU,TISĂU,65,2,93,14,0,3,3,10,64,2,97,14,0,3,2,8,"Școala Primară Sat Strezeni, Comuna Tisau",,Strezeni,45.1557,26.4904
+372,10,BUZĂU,STÎLPU,481,8,40,21,0,15,3,12,486,8,41,25,0,15,6,12,Școala Gimnazială Stilpu,,Stâlpu,45.0831,26.7081
+373,10,BUZĂU,STÎLPU,400,8,36,19,0,7,7,13,398,9,36,20,0,7,9,15,Primăria Stilpu,Nr. 427,Stâlpu,45.0816,26.7082
+398,10,BUZĂU,VADU PAŞII,269,3,92,74,1,46,9,27,263,4,95,78,0,45,9,24,Școala Gimnazială Stăncești,Str. Principală nr. 26,Stăncești,45.1236,26.9233
+239,10,BUZĂU,GHERĂSENI,146,3,21,9,0,6,5,11,146,3,23,7,0,8,4,8,Școala cu Clasele I-IV Suditi,Str. Alexandru Mareș nr. 178,Sudiți,45.0214,26.8121
+321,10,BUZĂU,POŞTA CÎLNĂU,361,21,41,71,0,15,18,35,346,20,39,89,0,13,18,32,"Școala Generală, Satul Sudiți",,Sudiți,45.2647,26.8716
+339,10,BUZĂU,SĂGEATA,491,13,45,13,2,2,1,23,490,14,53,12,1,3,3,20,Școala Săgeata,,Săgeata,45.0983,26.9857
+345,10,BUZĂU,SĂHĂTENI,272,23,42,66,0,21,12,25,272,25,38,76,0,19,13,21,Caminul Cultural Săhăteni,,Săhăteni,45.0349,26.5227
+241,10,BUZĂU,GHERGHEASA,175,2,165,6,2,6,6,14,183,2,151,7,2,7,8,15,Școala Primară Sălcioara,,Sălcioara,45.3088,27.175
+349,10,BUZĂU,SĂPOCA,533,24,67,31,0,17,11,27,531,20,65,38,4,14,12,26,Școala Gimnazială Săpoca,Str. Principală nr. 152,Săpoca,45.2397,26.748
+277,10,BUZĂU,MEREI,205,10,40,19,1,42,16,23,192,9,38,19,0,56,17,23,Clădire Prestări Servicii,,Sărata-Monteoru,45.1461,26.6415
+159,10,BUZĂU,BISOCA,178,1,7,2,0,2,0,6,185,0,5,0,0,2,1,3,Școala Generală Sările,,Sările,45.5331,26.7485
+351,10,BUZĂU,SĂRULEŞTI,407,4,34,28,2,6,3,18,402,10,38,18,3,8,3,17,Căminul Cultural Sărulești,,Sărulești,45.4801,26.7658
+408,10,BUZĂU,VERNEŞTI,54,6,23,2,0,2,4,9,54,6,20,2,0,4,4,10,Școala Primară Săsenii Noi,,Săsenii Noi,45.2048,26.6973
+149,10,BUZĂU,BERCA,176,10,31,13,0,7,3,15,178,11,33,12,1,7,6,11,Grădinița Sătuc,Str. Brașovului nr. 95,Sătuc,45.2795,26.6684
+304,10,BUZĂU,PĂNĂTĂU,260,2,11,0,1,3,1,4,264,1,13,4,0,2,2,4,Școala Tega,,Tega,45.2747,26.372
+262,10,BUZĂU,LOPĂTARI,104,2,22,12,1,2,2,7,100,1,23,13,1,3,2,7,Căminul Cultural Terca,,Terca,45.5176,26.5348
+379,10,BUZĂU,TISĂU,127,6,114,8,1,4,6,13,117,6,117,12,1,7,4,13,Gradiniță cu Program Normal Comuna Tisau,,Tisău,45.1717,26.5207
+382,10,BUZĂU,TOPLICENI,235,9,37,20,0,41,2,9,228,11,35,23,0,48,3,10,Școala Gimnazială Topliceni,,Topliceni,45.4015,27.0098
+177,10,BUZĂU,BUDA,185,0,12,6,0,7,1,7,187,0,14,3,0,6,2,8,Grădinița PN Pietroiu,,Toropălești,45.4809,26.9255
+230,10,BUZĂU,COZIENI,108,0,17,29,0,2,5,19,109,0,17,30,0,2,5,19,Căminul Cultural Trestia,,Trestia,45.322,26.5217
+313,10,BUZĂU,PÎRSCOV,17,0,2,2,0,2,1,4,16,0,3,2,0,1,1,4,Fostul Magazin Trestieni,,Trestieni,45.3264,26.5718
+200,10,BUZĂU,CHILIILE,111,2,7,4,0,0,1,3,109,2,7,4,0,0,1,2,Școala Trestioara,,Trestioara,45.4345,26.5655
+289,10,BUZĂU,MÎNZĂLEŞTI,99,3,11,2,0,1,1,4,102,2,11,2,0,1,1,3,Școala Primară Trestioara,,Trestioara,45.5036,26.6121
+414,10,BUZĂU,VIPEREŞTI,310,2,20,10,0,4,8,18,308,2,20,11,0,6,8,16,Școala Primară Tronari,,Tronari,45.2179,26.4366
+218,10,BUZĂU,COCHIRLEANCA,15,0,9,1,0,1,1,2,14,0,10,1,0,1,1,2,Școala Primară Tarlele,,Târlele,45.1783,27.0187
+235,10,BUZĂU,GĂLBINAŞI,234,6,20,5,0,3,3,12,235,6,20,5,0,4,2,12,Școala Primară nr. 1 Tăbărăști,Str. Preot Gheorghe Anghel nr. 159,Tăbărăști,45.077,26.9216
+236,10,BUZĂU,GĂLBINAŞI,245,9,32,23,1,4,6,23,243,6,37,24,0,7,6,18,Grădinița cu Program Normal nr. 2 Tăbărăști,Str. Preot Constantin Stoicescu (Str. Patriei) nr. 499,Tăbărăști,45.0805,26.916
+371,10,BUZĂU,SMEENI,72,0,10,26,0,2,0,0,79,0,9,21,0,2,1,1,Școala Prmară Lucieni,,Udați-Lucieni,44.972,26.9673
+369,10,BUZĂU,SMEENI,237,0,15,11,1,4,5,13,231,0,16,12,0,5,7,11,Grădinița cu Program Normal Udați- Mânzu,,Udați-Mânzu,44.9842,26.9491
+389,10,BUZĂU,ULMENI,392,9,29,26,0,20,11,30,397,8,33,22,0,17,11,31,Școala Gimnazială Profesor Constantin Dinca Ulmeni,,Ulmeni,45.0817,26.6397
+391,10,BUZĂU,UNGURIU,259,14,53,6,3,5,16,40,260,13,54,6,3,7,17,37,Școala Gimnazială Ing. Oprisan Iarca Unguriu,Str. Șoseaua Brașovului nr. 112,Unguriu,45.2784,26.6212
+392,10,BUZĂU,UNGURIU,252,7,48,16,1,9,6,19,263,8,43,15,1,7,5,18,Școala Gimnazială Ing. Oprisan Iarca Unguriu,Str. Șoseaua Brașovului nr. 112,Unguriu,45.2784,26.6212
+415,10,BUZĂU,VIPEREŞTI,161,5,35,6,1,11,3,14,158,6,37,6,2,9,3,15,Școala Gimnazială Ursoaia,,Ursoaia,45.2423,26.4454
+393,10,BUZĂU,VADU PAŞII,405,28,290,174,3,57,13,36,400,30,296,176,0,56,14,33,Școala Gimnazială Vadu Pașii,Str. Principală nr. 22,Vadu Pașii,45.1615,26.8801
+394,10,BUZĂU,VADU PAŞII,314,8,171,81,3,38,5,27,317,9,162,88,2,37,7,19,Grădinița cu Program Normal Vadu Pașii,Str. Principală nr. 85,Vadu Pașii,45.1567,26.8861
+420,10,BUZĂU,ZĂRNEŞTI,329,7,41,45,1,8,2,13,338,5,34,47,2,7,4,15,Grădinița de Copii Vadu Sorești,,Vadu Sorești,45.3141,26.8773
+287,10,BUZĂU,MÎNZĂLEŞTI,54,0,6,2,0,0,0,1,56,0,5,2,0,0,0,1,Școala Primară Valea Cotoarei,,Valea Cotoarei,45.5076,26.6729
+192,10,BUZĂU,CĂTINA,73,3,67,3,0,7,3,8,74,3,67,3,0,6,3,8,Școala Primară nr. 1 Valea Cătinei,,Valea Cătinei,45.2938,26.2391
+123,10,BUZĂU,ORAŞ PĂTÂRLAGELE,102,4,19,11,0,6,3,14,104,4,22,14,1,3,3,12,Școala Primară,Nr. 174,Valea Lupului,45.3495,26.3451
+155,10,BUZĂU,BERCA,157,10,44,12,0,4,3,11,156,9,48,12,0,6,5,9,Școala Primară Valea Nucului,Str. 1 Decembrie nr. 128 A,Valea Nucului,45.2617,26.7255
+143,10,BUZĂU,BECENI,338,15,38,14,0,13,6,19,341,12,38,17,0,9,4,18,Școala Gimnazială Valea Părului,,Valea Părului,45.358,26.7742
+400,10,BUZĂU,VALEA RÎMNICULUI,387,16,103,19,0,20,19,34,393,20,97,20,0,19,20,35,Școala Gimnazială Valea Ramnicului,,Valea Râmnicului,45.3593,27.0461
+402,10,BUZĂU,VALEA SALCIEI,319,1,32,3,0,7,2,6,320,0,32,4,0,6,3,5,Căminul Cultural Valea Salciei,,Valea Salciei,45.4982,26.8289
+128,10,BUZĂU,ORAŞ PĂTÂRLAGELE,75,3,17,6,0,1,2,6,74,4,17,7,0,1,2,7,Școala Primară,Nr. 35,Valea Sibiciului,45.3609,26.3757
+376,10,BUZĂU,TISĂU,75,5,48,20,0,6,13,22,78,5,53,20,0,3,13,18,"Gradinița cu Program Normal Sat Valea Sălciilor, Comuna Tisau",,Valea Sălciilor,45.1953,26.6018
+124,10,BUZĂU,ORAŞ PĂTÂRLAGELE,126,8,22,9,0,3,7,11,132,7,22,9,0,4,5,8,Școala Primară,Nr. 24,Valea Viei,45.3099,26.3486
+258,10,BUZĂU,GURA TEGHII,117,1,34,7,0,7,4,10,116,1,32,9,1,7,4,10,Școala Primară Varlaam,,Varlaam,45.5093,26.4424
+403,10,BUZĂU,VERNEŞTI,388,38,55,24,1,23,20,45,393,38,53,24,2,22,18,47,Școala Gimnazială „Nicolae Ioan Jilinschi” Vernești,,Vernești,45.2022,26.731
+113,10,BUZĂU,ORAŞ NEHOIU,67,0,7,4,1,3,1,3,66,0,7,4,1,3,1,3,Cămin Cultural Vinetis,,Vinețișu,45.4673,26.3342
+348,10,BUZĂU,SĂHĂTENI,159,5,18,27,0,5,2,14,154,5,18,28,0,4,3,12,Școala Clasele I-VIII Vintileanca,,Vintileanca,44.9855,26.5776
+410,10,BUZĂU,VINTILĂ VODĂ,466,5,38,9,2,7,7,16,462,6,35,10,1,11,10,16,Școala Gimnazială Tache și Ecaterina Tocilescu,,Vintilă Vodă,45.474,26.7186
+413,10,BUZĂU,VIPEREŞTI,309,4,37,15,0,3,5,12,301,5,37,16,0,4,6,10,Școala Gimnazială Viperești,,Viperești,45.2267,26.4541
+174,10,BUZĂU,BREAZA,183,3,10,17,1,5,2,8,185,3,9,19,2,6,3,7,Școala Primară Vispești,,Vispești,45.0975,26.5198
+183,10,BUZĂU,C.A. ROSETTI,115,3,17,15,0,1,5,13,124,4,16,15,0,0,2,7,Școala Primară Vizireni,,Vizireni,45.0507,27.1964
+417,10,BUZĂU,VÎLCELELE,353,5,37,209,1,8,4,21,346,5,38,221,1,7,3,16,Școala Gimnazială nr. 1 Vilcelele,,Vâlcelele,45.3438,27.3449
+296,10,BUZĂU,NĂENI,71,0,14,14,0,1,2,3,71,2,14,16,0,1,1,2,Școala Vîrf,,Vârf,45.1132,26.5042
+249,10,BUZĂU,GLODEANU-SILIŞTEA,109,1,13,14,1,9,1,7,109,2,15,15,0,8,1,6,Școala Gimnazială Văcăreasca,Nr. 230,Văcăreasca,44.8484,26.727
+194,10,BUZĂU,CĂTINA,6,0,28,1,0,1,6,7,5,0,27,1,0,1,6,7,Școala Primară nr. 2 Zeletin,,Zeletin,45.262,26.2293
+422,10,BUZĂU,ZIDURI,209,6,29,18,0,6,4,9,213,6,27,21,0,7,4,4,Sala de Ședințe Primăria Ziduri,,Ziduri,45.2839,27.0738
+320,10,BUZĂU,POŞTA CÎLNĂU,304,21,34,39,1,8,5,21,304,16,38,44,1,8,5,23,Școala Generală Zilișteanca,,Zilișteanca,45.2504,26.8692
+426,10,BUZĂU,ZIDURI,224,2,18,7,0,6,3,7,229,2,16,5,0,7,1,9,Căminul Cultural Zoița,,Zoița,45.2865,27.0211
+406,10,BUZĂU,VERNEŞTI,193,9,43,28,0,12,7,28,184,10,43,27,0,12,6,24,Școala Gimnazială „Vasile Aldea” Zorești,,Zorești,45.1755,26.702
+421,10,BUZĂU,ZĂRNEŞTI,350,12,44,24,0,17,6,23,358,10,50,20,1,19,7,18,Grădinița de Copii Zărnești,,Zărnești,45.2966,26.8708
+196,10,BUZĂU,CERNĂTEŞTI,316,6,48,16,0,10,10,25,311,6,45,21,0,12,10,20,Căminul Cultural din Satul Zărnești Slănic,,Zărneștii de Slănic,45.2744,26.754
+307,10,BUZĂU,PIETROASELE,264,10,51,27,0,5,7,21,263,10,49,34,0,6,7,14,Grădinița cu Program Normal din Satul Șarînga,Nr. 360,Șarânga,45.0931,26.6101
+330,10,BUZĂU,RÎMNICELU,211,6,22,16,0,4,0,5,207,4,24,18,0,5,0,7,Școala Sat Știubei,Str. Principală nr. 51,Știubei,45.3771,27.1403
+387,10,BUZĂU,ŢINTEŞTI,662,8,34,13,0,8,6,30,660,10,35,13,1,7,7,22,Școala Primară Sat Țintești,,Țintești,45.0789,26.8759

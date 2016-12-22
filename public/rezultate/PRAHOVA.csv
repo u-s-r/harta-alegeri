@@ -1,0 +1,624 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+285,31,PRAHOVA,ADUNAŢI,208,2,35,28,0,7,5,20,207,6,34,27,0,8,7,18,Cămin Cultural,,Adunați,45.1834,25.5981
+286,31,PRAHOVA,ADUNAŢI,156,9,37,18,2,14,13,25,155,8,39,15,0,17,15,29,Grădinița „Castelul Piticilor”,,Adunați,45.1833,25.5971
+289,31,PRAHOVA,ALBEŞTI-PALEOLOGU,96,7,102,10,1,150,9,20,94,9,97,11,1,154,9,18,Școala Gimnazială cu Clasele I-IV Sat Albesti Muru,,Albești-Muru,44.9449,26.208
+287,31,PRAHOVA,ALBEŞTI-PALEOLOGU,172,19,211,15,1,80,11,32,171,21,207,17,1,80,14,35,Școala Gimnazială Clasele I-VIII Albesti Paleologu,,Albești-Paleologu,44.9534,26.2287
+291,31,PRAHOVA,ALUNIŞ,490,17,56,19,0,22,23,43,491,23,58,20,0,23,19,32,Școala Gimnazială Gheorghe Costescu Alunis,Nr. 1025,Aluniș,45.1998,25.8923
+292,31,PRAHOVA,ALUNIŞ,249,6,27,17,1,8,6,12,251,7,26,17,0,9,8,13,Școala cu Clasele I-IV Alunis Vale,Nr. 632,Aluniș,45.2044,25.8559
+294,31,PRAHOVA,APOSTOLACHE,131,8,200,3,0,19,9,16,131,9,203,2,0,13,12,17,Consiliul Local Apostolache,Nr. 6,Apostolache,45.1284,26.2587
+295,31,PRAHOVA,APOSTOLACHE,85,1,125,4,0,21,4,12,83,3,131,3,0,20,6,13,Consiliul Local Apostolache,Nr. 6,Apostolache,45.1284,26.2587
+296,31,PRAHOVA,ARICEŞTII RAHTIVANI,166,27,105,41,1,27,64,86,166,27,113,37,1,27,54,81,Școala Gimnazială Comuna Ariceștii Rahtivani nr. 96a,,Ariceștii Rahtivani,44.9449,25.8387
+297,31,PRAHOVA,ARICEŞTII RAHTIVANI,172,31,78,25,0,23,34,57,175,33,80,26,2,24,30,44,Căminul Cultural Ariceștii Rahtivani nr. 527a,,Ariceștii Rahtivani,44.9528,25.8278
+303,31,PRAHOVA,ARICEŞTII ZELETIN,177,5,163,10,0,15,6,12,172,5,158,11,0,17,8,17,Școala Gimnazială Athanasie Jan Stoicescu,Nr. 135,Ariceștii Zeletin,45.222,26.1805
+598,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,157,17,28,26,0,72,23,38,167,17,33,24,1,66,23,32,Camin Cultural,Nr. 122,Arva,44.9609,26.1647
+181,31,PRAHOVA,ORAŞ AZUGA,256,63,137,33,3,27,25,83,280,60,122,36,3,28,22,75,Liceul Teoretic Azuga,Str. Victoriei nr. 65,Azuga,45.4449,25.5544
+182,31,PRAHOVA,ORAŞ AZUGA,155,45,75,11,1,22,11,67,168,43,84,14,1,26,13,44,Liceul Teoretic Azuga,Str. Independenței nr. 53,Azuga,45.445,25.5625
+183,31,PRAHOVA,ORAŞ AZUGA,239,40,93,26,2,34,25,67,257,40,85,28,3,34,18,54,Grădinița de Copii,Str. Valea Azugii nr. 3,Azuga,45.4421,25.5742
+304,31,PRAHOVA,BABA ANA,174,11,142,16,0,72,41,71,183,14,150,14,0,73,42,57,Școala Gimnazială Baba Ana,Nr. 355,Baba Ana,44.9681,26.462
+308,31,PRAHOVA,BALTA DOAMNEI,272,11,58,14,0,28,10,53,272,16,68,16,1,30,14,35,Școala Gimnazială Sfinții Împărați Balta Doamnei,Nr. 236,Balta Doamnei,44.7584,26.1719
+397,31,PRAHOVA,DRĂGĂNEŞTI,53,2,71,2,0,5,5,8,55,2,70,4,0,3,7,9,Școala cu Clasele I-IV Belciug,Nr. 70A,Belciug,44.8181,26.2467
+325,31,PRAHOVA,BERCENI,151,9,361,10,1,25,12,40,149,9,360,14,1,24,12,35,"Școala Gimnazială Berceni, Sala de Sport Parter",,Berceni,44.9312,26.1224
+326,31,PRAHOVA,BERCENI,103,6,144,7,0,14,5,15,92,9,150,7,0,17,6,14,"Grădinița cu Program Normal-Sala Mica Parter, Com.Berceni, Sat Berceni, Str.Gradinitei nr. 358 A",,Berceni,44.9309,26.1236
+331,31,PRAHOVA,BERTEA,214,19,163,16,1,27,10,35,207,14,176,16,1,30,10,31,Grădinița de Copii nr. 1,,Bertea,45.229,25.8777
+332,31,PRAHOVA,BERTEA,178,10,143,9,0,30,12,28,177,11,150,9,0,32,12,21,Grădinița de Copii nr. 2,,Bertea,45.2333,25.8567
+333,31,PRAHOVA,BLEJOI,264,51,101,44,1,35,41,62,256,50,107,45,1,43,36,58,"Școala Gimnazială „Radu Tudoran” Blejoi, Sat Blejoi nr. 510",,Blejoi,44.995,26.0086
+334,31,PRAHOVA,BLEJOI,316,70,80,38,2,48,31,60,317,74,78,38,1,44,32,61,"Grădinița cu Program Normal Blejoi, Sat Blejoi nr. 511",,Blejoi,44.9952,26.0088
+509,31,PRAHOVA,POIANA CÂMPINA,113,14,209,18,1,18,13,23,114,15,214,17,0,19,13,18,Căminul Cultural Bobolia,Nr. 264,Bobolia,45.0943,25.7438
+515,31,PRAHOVA,POSEŞTI,149,8,20,14,0,27,6,20,148,6,22,14,1,29,9,19,Căminul Cultural din Satul Poseștii-Pământeni,Nr. 9,Bodești,45.2733,26.1453
+338,31,PRAHOVA,BOLDEŞTI-GRADIŞTEA,97,5,103,5,0,33,5,11,101,3,100,6,0,33,4,8,Cămin Cultural Boldești,Nr. 26,Boldești,44.8666,26.5498
+197,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,199,39,64,25,1,39,22,44,207,32,56,29,2,42,22,44,Școala Gimnazială „Mihai Viteazul”,,Boldești-Scăeni,45.029,26.0345
+198,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,254,34,78,33,1,42,17,41,258,38,78,33,0,40,17,35,Școala Gimnazială „Mihai Viteazul”,,Boldești-Scăeni,45.029,26.0345
+199,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,247,39,78,35,0,31,21,49,245,39,77,36,0,39,27,41,Școala Gimnazială „Mihai Viteazul”,,Boldești-Scăeni,45.029,26.0345
+200,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,191,27,66,52,1,18,22,63,206,28,65,60,1,18,20,44,Grădinița cu Program Normal nr. 1,,Boldești-Scăeni,45.0407,26.0351
+201,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,173,18,68,28,0,27,11,35,165,17,68,30,0,30,14,37,Școala Gimnazială nr. 2,,Boldești-Scăeni,45.0165,26.038
+202,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,184,35,72,27,1,37,25,48,179,32,78,26,0,44,23,45,Școala Gimnazială nr. 2,,Boldești-Scăeni,45.008,26.0267
+203,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,166,32,59,27,1,23,17,40,163,33,54,32,0,23,20,42,Casa de Cultură „Mihai Eminescu”,,Boldești-Scăeni,45.0161,26.0258
+204,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,168,32,54,19,1,28,9,37,172,32,52,20,0,33,13,31,Liceul Tehnologic „Teodor Diamant”,,Boldești-Scăeni,45.0115,26.0293
+545,31,PRAHOVA,SCORŢENI,152,21,88,17,1,154,8,74,148,23,99,16,0,151,7,72,Grădinița Bordenii Mari,Nr. 64,Bordenii Mari,45.0912,25.8694
+341,31,PRAHOVA,BRAZI,63,5,69,56,1,10,7,19,60,7,72,46,0,13,11,20,Sala de Festivități a Primăriei Comunei Brazi,Str. Teilor nr. 45,Brazii de Jos,44.8495,26.0234
+342,31,PRAHOVA,BRAZI,140,17,175,51,0,22,7,23,135,17,181,44,0,27,8,20,Școala Gimnazială Brazi,Str. Lalelelor nr. 6,Brazii de Sus,44.8539,26.0196
+345,31,PRAHOVA,BRAZI,69,6,23,12,0,26,9,12,69,8,27,8,0,25,9,11,Fostul Sediu al Gradinței de Copii din Colonia Brazi,"Str. Trandafirilor nr. 51, Bloc A3",Brazii de Sus,44.8807,26.0201
+207,31,PRAHOVA,ORAŞ BREAZA,174,30,56,25,0,50,25,34,177,29,51,29,0,48,24,33,Școala Gimnazială Breaza de Jos,Str. Libertății (Str. V. I. Lenin) nr. 14,Breaza de Jos,45.1709,25.6744
+208,31,PRAHOVA,ORAŞ BREAZA,172,57,55,24,1,45,14,27,166,54,54,26,1,51,14,28,Școala Gimnazială Breaza de Jos,Str. Libertății (Str. V. I. Lenin) nr. 14,Breaza de Jos,45.1709,25.6744
+209,31,PRAHOVA,ORAŞ BREAZA,249,50,70,32,1,75,19,34,253,54,66,34,0,74,19,30,Centrul Cultural „Ion Manolescu”,Nr. 82,Breaza de Jos,45.1806,25.6692
+210,31,PRAHOVA,ORAŞ BREAZA,211,59,98,48,1,46,16,39,210,60,101,45,1,53,12,33,Centrul Cultural „Ion Manolescu”,Nr. 82,Breaza de Jos,45.1806,25.6692
+211,31,PRAHOVA,ORAŞ BREAZA,303,46,100,33,2,45,15,40,313,47,103,27,1,47,9,34,Liceul Teoretic „Aurel Vlaicu” Breaza,Str. Republicii nr. 94A,Breaza de Sus,45.1825,25.6666
+212,31,PRAHOVA,ORAŞ BREAZA,193,35,56,33,0,44,12,26,198,37,55,31,0,45,9,24,Liceul Teoretic „Aurel Vlaicu” Breaza,Str. Republicii nr. 94A,Breaza de Sus,45.1825,25.6666
+213,31,PRAHOVA,ORAŞ BREAZA,197,25,41,28,0,33,17,34,197,23,45,28,0,35,12,30,Grădinița cu Program Prelungit și Program Normal „Castelul Fermecat”,Fundătura Liliacului nr. 21,Breaza de Sus,45.1811,25.6638
+214,31,PRAHOVA,ORAŞ BREAZA,244,79,94,42,0,52,20,46,243,80,93,41,0,50,24,46,Școala Gimnazială „Constantin Brâncoveanu” Breaza,Str. Republicii nr. 214,Breaza de Sus,45.1962,25.6567
+349,31,PRAHOVA,BREBU,252,33,199,26,0,18,19,33,249,33,203,29,0,24,17,26,"Școala Gimnazială Matei Basarab, Școală Primară Structură nr. 2, Sat Brebu Megieșesc nr. 53",,Brebu Megieșesc,45.1677,25.7727
+350,31,PRAHOVA,BREBU,153,18,186,12,0,21,11,31,154,16,186,13,1,23,8,26,"Școala Gimnazială Matei Basarab, Școală Primară Structură, Sat Brebu Megieșesc nr. 278",,Brebu Megieșesc,45.1886,25.761
+347,31,PRAHOVA,BREBU,131,26,155,12,0,22,5,11,129,27,148,14,0,25,10,16,"Școala Gimnazială Matei Basarab Corp B, Sat Brebu Mînăstirei nr. 803",,Brebu Mânăstirei,45.1811,25.767
+348,31,PRAHOVA,BREBU,198,26,215,22,0,22,12,39,193,29,214,22,0,26,15,39,"Școala Gimnazială Matei Basarab Corp A, Sat Brebu Mînăstirei nr. 799",,Brebu Mânăstirei,45.1811,25.7696
+562,31,PRAHOVA,ŞIRNA,55,6,41,13,0,10,4,9,59,6,40,15,0,8,6,10,"Școala Primară, Sat Brătești",Nr. 55,Brătești,44.8003,25.9144
+418,31,PRAHOVA,FILIPEŞTII DE TÎRG,190,20,399,24,0,13,21,38,195,17,401,28,0,10,24,36,Școala Generală Brătășanca,Nr. 81,Brătășanca,44.9342,25.8096
+539,31,PRAHOVA,RÎFOV,37,0,18,1,0,1,3,3,38,0,18,1,0,0,3,3,Școala Dezafectata Buchilasi,Nr. sat Buchilasi de la nr. 1-49,Buchilași,44.8737,26.1427
+353,31,PRAHOVA,BUCOV,167,44,129,22,0,47,10,30,163,45,129,23,1,46,12,26,Camin Cultural Bucov,Nr. 777,Bucov,44.9756,26.0825
+354,31,PRAHOVA,BUCOV,187,19,207,12,0,62,8,53,181,18,235,13,0,61,11,32,Camin Cultural Bucov,Nr. 777,Bucov,44.9756,26.0825
+355,31,PRAHOVA,BUCOV,198,47,119,24,0,50,15,36,204,47,122,24,0,53,16,30,Camin Cultural Bucov,Nr. 777,Bucov,44.9756,26.0825
+302,31,PRAHOVA,ARICEŞTII RAHTIVANI,54,11,98,3,0,5,8,30,55,13,95,4,0,2,9,30,Grădinița cu Program Normal Buda nr. 46 A,,Buda,44.9647,25.9193
+534,31,PRAHOVA,RÎFOV,174,8,74,31,0,22,5,18,178,11,66,35,0,23,5,12,Școala Gimnazila Buda,Nr. sat Buda de la nr.1-368,Buda,44.8212,26.1846
+447,31,PRAHOVA,GURA VITIOAREI,94,4,26,11,0,12,6,15,92,5,26,9,1,19,7,13,Școala Gimnazială Bughea de Jos,Nr. 74,Bughea de Jos,45.1793,26.0184
+551,31,PRAHOVA,SÎNGERU,66,0,64,1,0,7,1,7,66,1,64,1,0,9,1,4,Grădinița cu Program Normal,Nr. 1A,Butuci,45.1524,26.376
+582,31,PRAHOVA,TELEGA,84,2,13,9,0,8,3,7,81,4,14,9,0,8,4,8,Școala Gimnazială Sat Buștenari,,Buștenari,45.1399,25.8378
+218,31,PRAHOVA,ORAŞ BUŞTENI,158,51,63,47,1,30,16,64,198,43,58,40,1,29,16,48,Colegiul Ion Kalinderu,Nr. 1,Bușteni,45.4145,25.5333
+219,31,PRAHOVA,ORAŞ BUŞTENI,200,40,59,56,1,31,18,68,238,37,50,48,0,32,19,50,Școala Gimnazială „Nestor Urechia”,Nr. 125,Bușteni,45.4184,25.538
+220,31,PRAHOVA,ORAŞ BUŞTENI,166,52,78,24,2,28,13,67,185,49,78,21,2,24,12,56,Școala Gimnazială „Nestor Urechia”,Nr. 125,Bușteni,45.4184,25.538
+221,31,PRAHOVA,ORAŞ BUŞTENI,168,25,41,23,0,34,20,52,198,24,27,20,1,28,18,47,Grădinița cu PP și PN „Fram - Ursul Polar”,Str. Victoriei nr. 11,Bușteni,45.4217,25.5433
+222,31,PRAHOVA,ORAŞ BUŞTENI,274,39,86,40,0,34,21,87,309,40,80,32,2,33,21,66,Sediu Firmă Pază,Nr. 46,Bușteni,45.4004,25.5411
+223,31,PRAHOVA,ORAŞ BUŞTENI,254,47,75,42,0,33,25,122,298,48,74,47,0,28,24,84,Școala Gimnazială „Regina Elisabeta”,Str. Crinului nr. 2,Bușteni,45.3924,25.5382
+224,31,PRAHOVA,ORAŞ BUŞTENI,256,40,79,34,1,33,26,81,291,40,69,26,2,32,22,62,Școala Gimnazială „Cezar Petrescu”,Nr. 20,Bușteni,45.4102,25.529
+225,31,PRAHOVA,ORAŞ BUŞTENI,244,41,60,30,0,20,15,66,258,38,53,30,0,18,18,63,Școala Gimnazială „Cezar Petrescu”,Nr. 20,Bușteni,45.4102,25.529
+309,31,PRAHOVA,BALTA DOAMNEI,149,6,52,2,0,19,9,31,148,12,49,1,2,21,12,23,Școala Primară din Bîra,Nr. 236,Bâra,44.7451,26.2386
+184,31,PRAHOVA,ORAŞ BĂICOI,255,76,63,40,0,124,15,54,251,85,62,39,2,131,13,37,Sala de Sport Tineretului,Str. Republicii nr. 10,Băicoi,45.0317,25.8351
+185,31,PRAHOVA,ORAŞ BĂICOI,218,26,70,29,0,78,18,36,219,32,66,32,0,70,21,38,Grădinița cu Program Normal Tufeni,Str. Nicolae Bălcescu nr. 6,Băicoi,45.0566,25.8389
+186,31,PRAHOVA,ORAŞ BĂICOI,263,59,74,39,0,105,26,55,267,58,77,38,0,101,30,53,Clubul Elevilor,Str. Unirii nr. 4,Băicoi,45.0349,25.8494
+187,31,PRAHOVA,ORAŞ BĂICOI,156,47,62,31,0,78,13,39,157,48,61,31,0,81,15,38,Gr. Sc. C-Tin Cantacuzino,Str. Republicii nr. 111,Băicoi,45.0334,25.8506
+188,31,PRAHOVA,ORAŞ BĂICOI,172,56,68,23,0,76,23,56,177,53,74,24,0,82,17,40,Gr. Sc. C-Tin Cantacuzino,Str. Republicii nr. 111,Băicoi,45.0334,25.8506
+189,31,PRAHOVA,ORAŞ BĂICOI,236,34,49,27,0,86,34,59,242,35,49,32,0,83,31,54,Grădinița Liliesti,Str. Progresul nr. 1,Băicoi,45.0348,25.8742
+190,31,PRAHOVA,ORAŞ BĂICOI,196,65,40,26,0,81,20,41,196,64,48,23,1,84,18,33,Grădinița Liliesti,Str. Dorobanți nr. 5,Băicoi,45.0352,25.8836
+191,31,PRAHOVA,ORAŞ BĂICOI,238,37,56,24,2,110,25,68,253,36,58,27,4,102,23,52,Școala Numarul 3 Liliesti,Str. Progresul nr. 2,Băicoi,45.0351,25.8757
+192,31,PRAHOVA,ORAŞ BĂICOI,309,58,67,44,3,116,33,57,303,63,75,46,3,109,36,55,Școala Numarul 3 Liliesti Sala nr. 2,Str. Progresul nr. 2,Băicoi,45.0351,25.8757
+193,31,PRAHOVA,ORAŞ BĂICOI,245,38,89,34,1,113,17,50,235,31,96,43,1,124,14,39,Casa de Cultura Liliesti,Str. Dorobanți nr. 6,Băicoi,45.0353,25.8841
+194,31,PRAHOVA,ORAŞ BĂICOI,188,9,49,15,0,155,19,42,186,11,57,14,2,161,16,31,Școala Generală Dambu,Str. Dumbrava Roșie nr. 7,Băicoi,45.0436,25.8896
+195,31,PRAHOVA,ORAŞ BĂICOI,214,27,44,25,1,135,24,48,220,29,46,23,1,127,25,45,Școala Generală Tintea,Str. Independenței nr. 188,Băicoi,45.0328,25.9031
+196,31,PRAHOVA,ORAŞ BĂICOI,197,36,54,27,0,80,16,61,187,39,55,24,1,96,20,51,Casa de Cultura Tintea,Str. Independenței nr. 177,Băicoi,45.0329,25.9036
+486,31,PRAHOVA,MĂNEŞTI,110,8,108,6,0,8,6,15,110,12,108,5,0,9,7,15,Sală Multifuncțională Băltița,Nr. 251,Băltița,44.8344,25.8548
+310,31,PRAHOVA,BĂLŢEŞTI,189,10,409,28,3,17,25,71,186,10,421,29,1,23,24,58,Școala cu Clasele I-IV,,Bălțești,45.1093,26.1277
+312,31,PRAHOVA,BĂNEŞTI,383,50,106,53,0,38,20,51,372,55,105,53,1,43,21,50,Școala Gimnazială „Ioan Duhovnicul” Bănești,Nr. 301,Bănești,45.1063,25.7579
+313,31,PRAHOVA,BĂNEŞTI,257,61,118,45,1,45,19,52,256,66,120,45,0,57,15,40,Dispensar Uman Bănești,Nr. 586,Bănești,45.1047,25.7616
+316,31,PRAHOVA,BĂRCĂNEŞTI,144,18,48,13,0,28,9,28,148,17,54,12,0,32,9,22,Școala Gimnazială „Gheorghe Lazăr” Comuna Bărcănești,Nr. 68-69,Bărcănești,44.88,26.0504
+317,31,PRAHOVA,BĂRCĂNEŞTI,181,24,70,15,0,26,15,39,171,23,69,20,1,34,20,33,Școala Gimnazială „Gheorghe Lazăr” Comuna Bărcănești,Nr. 68-69,Bărcănești,44.88,26.0504
+396,31,PRAHOVA,DRĂGĂNEŞTI,128,5,122,7,0,8,6,17,125,4,123,6,0,12,7,13,Grădinița Bărăitaru,Nr. 130C,Bărăitaru,44.8608,26.3509
+340,31,PRAHOVA,BRAZI,157,30,114,63,0,24,22,47,162,29,122,53,0,20,27,48,Sala de Sport a Școlii Gimnaziale „Dumitru Hera” Bătești,Str. Titu Maiorescu nr. 1A,Bătești,44.849,26.039
+323,31,PRAHOVA,BĂTRÂNI,180,8,156,47,0,13,21,46,174,11,167,50,0,16,22,39,"Școala Gimnazială, Comuna Batrani",Nr. 170,Bătrâni,45.3145,26.1486
+324,31,PRAHOVA,BĂTRÂNI,93,9,210,19,0,30,13,29,92,8,216,21,0,28,13,26,Grădinița de Copii,Nr. 588,Bătrâni,45.3175,26.1416
+328,31,PRAHOVA,BERCENI,87,9,55,6,0,15,11,21,89,7,54,8,0,15,10,18,"Caminul Cultural -Sala Mare Parter, Com.Berceni, Sat Dimbu, Str.Plopului nr. 73 A",,Cartierul Dâmbu,44.9249,26.0708
+362,31,PRAHOVA,CEPTURA,172,14,68,8,0,32,14,21,174,16,67,7,0,29,17,21,Școala cu Clasele I-VIII „Nichita Stanescu” Ceptura,,Ceptura de Jos,45.017,26.3289
+363,31,PRAHOVA,CEPTURA,160,11,73,8,0,29,3,25,163,11,73,8,0,30,4,20,Școala cu Clasele I-VIII „Nichita Stanescu” Ceptura,,Ceptura de Jos,45.017,26.3289
+364,31,PRAHOVA,CEPTURA,126,7,18,12,0,6,8,17,130,9,20,10,0,6,6,12,Sediul Serviciului Public de Gospodarie Comunala Ceptura,,Ceptura de Sus,45.0263,26.3226
+368,31,PRAHOVA,CERAŞU,382,10,64,20,0,23,11,35,374,8,69,20,0,29,13,31,Liceul Tehnologic Cerașu,Nr. 15-17 J,Cerașu,45.3255,26.0394
+482,31,PRAHOVA,MĂNECIU,52,14,12,4,0,11,26,33,50,9,18,5,0,12,25,32,Școala Primară Cheia nr. 1,Nr. 379,Cheia,45.4615,25.9335
+372,31,PRAHOVA,CHIOJDEANCA,184,9,78,25,1,19,4,19,180,16,82,23,1,23,6,12,Grădinița Chiojdeanca,Nr. 234,Chiojdeanca,45.1569,26.2699
+356,31,PRAHOVA,BUCOV,153,14,170,31,0,31,16,36,163,11,168,34,0,29,16,30,Camin Cultural Chitorani,Nr. 163C,Chițorani,44.9743,26.1179
+290,31,PRAHOVA,ALBEŞTI-PALEOLOGU,170,7,34,7,0,23,6,18,166,8,36,6,0,23,5,16,Școala Gimnazială cu Clasele I-VIII Cioceni,,Cioceni,44.9067,26.281
+374,31,PRAHOVA,CIORANI,300,7,33,19,1,15,31,49,300,7,31,21,1,14,36,44,Liceul Ciorani,,Cioranii de Jos,44.8211,26.4114
+375,31,PRAHOVA,CIORANI,405,0,32,25,0,8,40,71,409,20,30,25,1,13,37,53,Liceul Ciorani,,Cioranii de Jos,44.8211,26.4114
+376,31,PRAHOVA,CIORANI,243,13,36,13,1,17,16,34,251,13,38,11,0,18,19,31,Școala cu Clasele I-IV,,Cioranii de Jos,44.8226,26.4135
+377,31,PRAHOVA,CIORANI,282,17,30,2,1,17,13,25,280,17,34,1,1,15,19,29,Școala Generală Cioranii de Sus,,Cioranii de Sus,44.8355,26.3933
+378,31,PRAHOVA,CIORANI,354,5,45,11,0,10,13,25,351,7,46,11,1,10,16,29,Primăria,Nr. 687,Cioranii de Sus,44.8404,26.3939
+306,31,PRAHOVA,BABA ANA,78,1,59,4,0,12,5,7,79,1,62,3,0,10,5,8,Școala Gimnazială Cireșanu,Nr. 5,Cireșanu,44.9783,26.5098
+403,31,PRAHOVA,DUMBRAVA,182,4,197,9,1,37,13,80,208,2,215,12,0,45,18,37,Cămin Cultural Localitatea Ciupelnița,,Ciupelnița,44.8414,26.239
+485,31,PRAHOVA,MĂNEŞTI,109,12,182,9,1,7,4,9,116,11,178,8,1,10,2,5,Școala Coada Izvorului,Nr. 35,Coada Izvorului,44.8575,25.817
+468,31,PRAHOVA,MĂGURELE,122,10,89,8,1,25,3,14,115,11,89,6,0,29,5,16,Grădinița de Copii Sat Coada Malului,Nr. 147,Coada Malului,45.1234,26.0347
+474,31,PRAHOVA,MĂGURENI,56,13,24,6,0,67,5,71,63,9,23,5,1,52,8,87,"Cămin Cultural Cocorăștii Caplii, Sat Cocorăștii Caplii nr. 130",,Cocorăștii Caplii,45.0686,25.759
+379,31,PRAHOVA,COCORASTII COLT,194,22,280,19,3,50,8,28,213,21,270,17,1,36,15,30,Casa de Cultura Rurala,Nr. 180A,Cocorăștii Colț,44.8354,25.8935
+380,31,PRAHOVA,COCORASTII COLT,133,13,195,8,0,34,1,19,144,13,196,7,0,34,3,16,Școala Primară Cocorastii Grind,Nr. 207,Cocorăștii Grind,44.8466,25.8752
+381,31,PRAHOVA,COCORĂŞTII MISLII,273,21,263,16,0,40,15,56,264,26,268,11,0,39,20,59,Cămin Cultural,Nr. 92 B,Cocorăștii Mislii,45.0832,25.9266
+494,31,PRAHOVA,PĂULEŞTI,176,33,72,29,2,25,34,51,186,39,76,29,1,19,28,40,Sala Multifunctionala Cocosesti,,Cocoșești,45.0041,25.9873
+383,31,PRAHOVA,COLCEAG,182,8,32,11,0,11,12,25,180,10,31,12,0,15,9,19,"Școala Gimnazială, Comuna Colceag Pj",Nr. 1A-604,Colceag,44.9424,26.3615
+226,31,PRAHOVA,ORAŞ COMARNIC,240,52,110,45,0,59,15,36,244,50,116,46,0,57,18,29,Liceul Simion Stolnicu,,Comarnic,45.2386,25.6369
+227,31,PRAHOVA,ORAŞ COMARNIC,175,24,71,22,1,39,7,18,177,25,72,22,1,37,10,21,Școala Gimnazială Comarnic nr. 2,,Comarnic,45.2462,25.6364
+228,31,PRAHOVA,ORAŞ COMARNIC,202,19,63,21,0,27,7,20,211,17,67,21,0,25,6,18,Școala Gimnazială Comarnic nr. 2,,Comarnic,45.2462,25.6364
+233,31,PRAHOVA,ORAŞ COMARNIC,155,15,59,13,1,8,8,19,154,17,58,13,1,6,9,19,Școala Primară Ghioșești,,Comarnic,45.2496,25.6276
+305,31,PRAHOVA,BABA ANA,132,10,136,11,0,9,10,23,137,10,139,10,1,12,5,18,Școala Gimnazială Conduratu,Nr. 220,Conduratu,44.9716,26.4322
+327,31,PRAHOVA,BERCENI,184,10,233,17,0,16,23,46,178,12,237,17,0,20,29,47,"Școala cu Clasele I-VIII-Sala de Sport Parter, Com.Berceni, Sat Corlatesti, Str.Scolii nr. 139 A",,Corlătești,44.917,26.0825
+387,31,PRAHOVA,CORNU,444,52,37,30,1,33,18,55,419,55,44,45,1,41,19,54,Grădinița cu Program Normal,Nr. 337,Cornu de Jos,45.1551,25.7053
+389,31,PRAHOVA,CORNU,561,36,45,23,0,25,44,66,511,36,61,28,0,36,48,75,Școala Gimnazială „Profesor Cristea Stănescu”,Nr. 480,Cornu de Jos,45.1567,25.7035
+398,31,PRAHOVA,DRĂGĂNEŞTI,89,5,84,6,0,1,0,8,91,6,85,6,0,3,0,3,Școala cu Clasele I-IV Cornu de Jos,Nr. 113A,Cornu de Jos,44.844,26.2689
+388,31,PRAHOVA,CORNU,358,12,54,19,0,9,10,22,345,15,66,16,0,13,14,22,Grădinița cu Program Normal,Nr. 217,Cornu de Sus,45.1687,25.697
+603,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,56,6,29,5,0,80,5,14,58,8,33,4,1,76,7,14,Grădinița Coslegi,Nr. 177,Coslegi,44.909,26.1562
+390,31,PRAHOVA,COSMINELE,166,5,60,17,0,26,12,33,167,5,58,13,1,31,15,30,Biblioteca Comunală Cosminele,Nr. 83A,Cosmina de Jos,45.1622,25.8936
+440,31,PRAHOVA,GORNET-CRICOV,59,5,179,5,0,9,2,14,63,5,181,6,0,9,2,10,Grădinița Coșerele,Nr. 160,Coșerele,45.0936,26.2507
+619,31,PRAHOVA,VĂRBILĂU,180,13,26,16,1,33,6,17,178,17,28,17,1,32,8,13,Școala Primară Coțofenești,Nr. 80 A,Coțofenești,45.1314,25.9926
+434,31,PRAHOVA,GORGOTA,102,11,158,15,0,8,6,14,98,11,148,20,0,10,8,18,"Școala Primară Sat Crivina, Comuna Gorgota",Nr. 7,Crivina,44.7828,26.0496
+437,31,PRAHOVA,GORNET,105,3,9,3,0,2,2,9,105,3,10,3,0,3,2,5,Școala Primară Cuib,,Cuib,45.1313,26.0773
+158,31,PRAHOVA,MUNICIPIUL CÂMPINA,232,86,105,49,3,53,27,58,230,83,109,59,3,56,24,45,Casa de Cultură „Geo Bogza” - (Hol),Str. Griviței nr. 95,Câmpina,45.1292,25.7307
+159,31,PRAHOVA,MUNICIPIUL CÂMPINA,202,86,96,46,0,49,31,64,188,79,104,47,0,60,31,63,Colegiul Național „Nicolae Grigorescu” - (Sala de Clasa),Calea Doftanei nr. 4,Câmpina,45.1262,25.7343
+160,31,PRAHOVA,MUNICIPIUL CÂMPINA,234,120,97,72,2,46,25,57,215,122,102,73,0,63,25,54,Colegiul Național „Nicolae Grigorescu” - (Sala de Clasa),Calea Doftanei nr. 4,Câmpina,45.1262,25.7343
+161,31,PRAHOVA,MUNICIPIUL CÂMPINA,147,41,62,20,0,28,16,62,143,44,60,36,0,38,15,40,Casa Tineretului (Hol Mare),Bulevardul Nicolae Bălcescu nr. 50,Câmpina,45.1188,25.7412
+162,31,PRAHOVA,MUNICIPIUL CÂMPINA,226,61,80,22,0,37,18,47,224,65,84,21,1,39,19,41,Școala Gimnazială Centrală - (Sala de Clasa),Calea Doftanei nr. 13,Câmpina,45.1276,25.7355
+163,31,PRAHOVA,MUNICIPIUL CÂMPINA,185,100,94,37,0,49,15,56,178,94,98,40,0,58,14,52,Liceul Tehnologic Energetic - (Corp A-Sala de Clasa nr. 5-Intrarea Secundara),Str. Griviței nr. 2,Câmpina,45.1194,25.7354
+164,31,PRAHOVA,MUNICIPIUL CÂMPINA,160,47,58,23,1,32,14,37,162,50,63,22,1,32,12,30,Liceul Tehnologic Energetic - (Corp a Sala de Clasa nr. 3-Intrarea Principala),Str. Griviței nr. 2,Câmpina,45.1194,25.7354
+165,31,PRAHOVA,MUNICIPIUL CÂMPINA,192,56,85,38,2,42,47,69,195,54,95,37,1,38,41,57,Școala Gimnazială „B.P.Hasdeu” - (Sala de Sport),Str. Mihail Kogălniceanu nr. 31,Câmpina,45.1249,25.7394
+166,31,PRAHOVA,MUNICIPIUL CÂMPINA,254,91,92,69,0,43,29,64,244,85,96,71,0,44,34,71,Casa Tineretului (Hol Mic),Bulevardul Nicolae Bălcescu nr. 50,Câmpina,45.1188,25.7412
+167,31,PRAHOVA,MUNICIPIUL CÂMPINA,269,70,83,27,0,36,17,51,264,66,94,32,1,33,17,46,Școala Steaua Română S.A. - (Cantina),Calea Doftanei nr. 72,Câmpina,45.1298,25.7399
+168,31,PRAHOVA,MUNICIPIUL CÂMPINA,270,66,93,63,2,58,30,63,267,71,103,58,1,66,24,53,Colegiul Tehnic Forestier - (Sala de Sport),Bulevardul Carol I (Bulevardul 23 August) nr. 31,Câmpina,45.1222,25.7364
+169,31,PRAHOVA,MUNICIPIUL CÂMPINA,257,102,91,52,1,56,20,58,239,104,104,48,1,64,25,56,Colegiul Tehnic Forestier - (Sala de Sport),Bulevardul Carol I (Bulevardul 23 August) nr. 31,Câmpina,45.1222,25.7364
+170,31,PRAHOVA,MUNICIPIUL CÂMPINA,261,85,104,49,3,50,21,73,258,80,120,56,2,48,24,60,Colegiul Tehnic Constantin Istrati (Camin),Bulevardul Nicolae Bălcescu nr. 45,Câmpina,45.1171,25.7414
+171,31,PRAHOVA,MUNICIPIUL CÂMPINA,227,114,122,65,0,75,21,83,234,112,134,69,0,75,22,63,Colegiul Tehnic Constantin Istrati - Sala de Clasa),Str. Griviței nr. 91,Câmpina,45.1282,25.7309
+172,31,PRAHOVA,MUNICIPIUL CÂMPINA,227,65,126,54,2,44,19,55,225,61,127,55,2,48,19,54,Școala Generală nr. 5 - (Sala de Clasa),Bulevardul Nicolae Bălcescu nr. 5,Câmpina,45.1095,25.7466
+173,31,PRAHOVA,MUNICIPIUL CÂMPINA,235,74,111,38,1,66,22,56,234,67,120,39,2,73,22,52,Liceul Tehnologic Mecanic - (Sala de Sport),Str. Ecaterina Teodoroiu nr. 34,Câmpina,45.1281,25.7499
+174,31,PRAHOVA,MUNICIPIUL CÂMPINA,196,83,117,37,0,40,17,53,196,79,117,41,2,37,20,56,Liceul Tehnologic Mecanic - (Corp a Sala 2),Str. Ecaterina Teodoroiu nr. 34,Câmpina,45.1281,25.7499
+175,31,PRAHOVA,MUNICIPIUL CÂMPINA,288,52,85,27,0,29,21,58,287,50,87,31,0,29,26,58,Liceul Tehnologic Mecanic - (Corp a Sala 3),Str. Ecaterina Teodoroiu nr. 34,Câmpina,45.1281,25.7499
+176,31,PRAHOVA,MUNICIPIUL CÂMPINA,271,53,77,24,1,21,36,105,268,54,85,43,1,35,44,72,Școala Generală nr. 6 - (Sala de Clasa),Str. Ciceu nr. 2,Câmpina,45.1264,25.7524
+177,31,PRAHOVA,MUNICIPIUL CÂMPINA,288,131,124,69,0,61,29,61,278,125,135,65,0,68,31,61,Școala Gimnazială „Alexandru Ioan Cuza” - (Sala de Clasa-Etaj 1),Bulevardul Carol I (Bulevardul 23 August) nr. 104,Câmpina,45.1342,25.7334
+178,31,PRAHOVA,MUNICIPIUL CÂMPINA,304,139,130,62,1,54,23,59,302,141,144,58,2,61,24,46,Școala Gimnazială „Alexandru Ioan Cuza” - (Sala de Sport),Bulevardul Carol I (Bulevardul 23 August) nr. 104,Câmpina,45.1342,25.7334
+179,31,PRAHOVA,MUNICIPIUL CÂMPINA,267,91,98,56,2,43,37,75,269,97,106,51,3,49,27,59,Școala Electroutilaj Sa - (Cantina - Sala de Protocol),Str. Bobîlna (Str. Bobâlna) nr. 44,Câmpina,45.1344,25.742
+180,31,PRAHOVA,MUNICIPIUL CÂMPINA,260,78,119,66,2,55,31,84,254,77,134,70,2,66,31,67,Școala Generală nr. 3 - (Sala de Sport),Str. Voila nr. 19,Câmpina,45.1418,25.7544
+622,31,PRAHOVA,VÎLCĂNEŞTI,105,4,84,6,0,13,10,21,103,5,85,4,0,16,10,20,"Școala Gimnazială, Comuna Vîlcănești, Sat Cîrjari",Nr. 200B,Cârjari,45.1065,25.9482
+360,31,PRAHOVA,CĂLUGĂRENI,126,3,64,32,0,24,11,30,136,3,64,34,0,26,10,17,"Căminul Cultural Sala Mică, Localitatea Călugăreni",,Călugăreni,45.0846,26.38
+511,31,PRAHOVA,POIENARII BURCHII,63,10,129,8,0,16,4,12,61,9,134,7,0,19,4,12,Grădinița de Copii Sat Carbunari,,Cărbunari,44.7581,25.9822
+361,31,PRAHOVA,CĂRBUNEŞTI,160,10,213,14,0,13,10,21,163,9,217,13,0,16,9,16,Școala Gimnazială Cărbunești,Nr. 168,Cărbunești,45.2245,26.2091
+424,31,PRAHOVA,FLOREŞTI,150,18,47,15,0,31,8,32,153,19,48,15,1,36,8,23,Școala cu Clasele I-VIII Catina,,Cătina,45.0175,25.778
+425,31,PRAHOVA,FLOREŞTI,185,38,97,12,1,73,18,43,188,40,104,11,1,68,14,36,Caminul Cultural Calinesti,,Cătina,45.0176,25.7789
+329,31,PRAHOVA,BERCENI,84,5,127,4,2,11,21,32,86,4,125,5,1,10,24,32,"Grădinița cu Program Normal, Sala Mica Parter, Com.Berceni, Sat Catunu.Str.Democratiei nr. 148 A",,Cătunu,44.9,26.1336
+412,31,PRAHOVA,FILIPEŞTII DE PĂDURE,152,15,229,10,0,14,5,22,156,12,231,11,0,16,6,17,Școala Gimnazială „Ioan Moga”,Nr. 829,Dițești,44.9825,25.7318
+413,31,PRAHOVA,FILIPEŞTII DE PĂDURE,138,9,201,10,1,24,4,27,149,6,208,11,2,28,5,19,Gradinița nr. 1,Nr. 799,Dițești,44.9804,25.7267
+414,31,PRAHOVA,FILIPEŞTII DE PĂDURE,120,17,140,14,1,17,6,29,126,18,145,13,1,20,5,20,Gradinița nr. 2,Nr. 874A,Dițești,44.9772,25.7337
+441,31,PRAHOVA,GORNET-CRICOV,44,5,92,5,0,4,6,12,42,4,88,5,0,6,7,11,Grădinița Dobrota,Nr. 36,Dobrota,45.0999,26.2815
+391,31,PRAHOVA,DRAJNA,354,10,155,16,0,31,30,47,343,13,157,16,0,31,33,50,Școala Gimnazială „Platon Mocanu”,Str. Radu Șerban Voevod nr. 21,Drajna de Jos,45.2246,26.0559
+392,31,PRAHOVA,DRAJNA,151,6,70,6,0,11,3,17,146,5,71,6,0,15,4,15,Grădinița Plăișani,Str. Radu Șerban Voevod nr. 258,Drajna de Jos,45.2368,26.0706
+393,31,PRAHOVA,DRAJNA,204,14,115,14,0,13,8,17,204,12,114,14,0,12,9,19,Școala Gimnazială Drajna de Sus,Str. Neagoe Basarab nr. 101,Drajna de Sus,45.2564,26.0724
+523,31,PRAHOVA,PROVIŢA DE JOS,153,7,137,12,0,7,10,31,156,8,150,13,1,7,13,22,Grădinița cu Program Normal Draganeasa,Nr. 250,Drăgăneasa,45.1043,25.6792
+395,31,PRAHOVA,DRĂGĂNEŞTI,114,9,116,13,1,15,6,18,110,9,123,15,1,13,5,15,Grădinița Drăgănești,Nr. 69A,Drăgănești,44.8268,26.2864
+401,31,PRAHOVA,DUMBRAVA,234,9,131,6,1,78,13,35,225,10,136,7,1,90,12,35,Cămin Cultural Localitatea Dumbrava,,Dumbrava,44.8731,26.19
+404,31,PRAHOVA,DUMBRĂVEŞTI,251,25,51,15,1,18,14,49,254,23,55,15,1,19,16,49,Cămin Cultural,,Dumbrăvești,45.0914,25.9958
+602,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,66,9,21,8,1,45,14,21,57,9,19,8,0,47,21,27,Grădinița Dirvari,Nr. 149,Dârvari,44.9201,26.156
+409,31,PRAHOVA,FILIPEŞTII DE PĂDURE,151,17,117,14,0,47,13,37,149,16,125,18,0,48,10,25,Clubul „Minerul”,Nr. 944,Filipeștii de Pădure,45.0065,25.7502
+410,31,PRAHOVA,FILIPEŞTII DE PĂDURE,293,26,196,22,0,52,24,44,303,30,188,25,0,51,22,38,Școala Veche,Nr. 158,Filipeștii de Pădure,44.9989,25.7415
+411,31,PRAHOVA,FILIPEŞTII DE PĂDURE,260,21,158,29,1,59,14,39,249,21,158,29,1,59,19,47,Liceul Teoretic,Nr. 343C,Filipeștii de Pădure,44.9972,25.7424
+416,31,PRAHOVA,FILIPEŞTII DE TÎRG,135,23,111,10,0,20,14,30,137,22,116,10,0,23,14,23,Cămin Filipeștii de Tîrg (Sală Ședință Videoclub),Nr. 825 C,Filipeștii de Târg,44.9782,25.7906
+417,31,PRAHOVA,FILIPEŞTII DE TÎRG,119,25,137,13,0,9,14,36,119,24,140,16,0,10,12,30,Școala Filipeștii de Tîrg,Nr. 328 A,Filipeștii de Târg,44.9736,25.7932
+421,31,PRAHOVA,FLOREŞTI,175,24,213,28,3,39,7,51,191,20,212,33,4,36,14,28,Grădinița de Copii Floresti,,Florești,45.0307,25.7936
+422,31,PRAHOVA,FLOREŞTI,245,22,231,15,2,34,14,74,245,20,239,27,4,38,16,36,Școala cu Clasele I-VIII Floresti (Localul Nou),,Florești,45.0349,25.7923
+423,31,PRAHOVA,FLOREŞTI,188,46,209,33,1,57,26,87,200,45,213,36,1,66,29,66,Școala cu Clasele I-VIII Floresti (Localul Vechi),,Florești,45.0314,25.7941
+426,31,PRAHOVA,FULGA,293,4,36,11,1,22,6,24,322,6,35,11,0,21,6,10,Caminul Cultural Fulga de Jos,Nr. 130,Fulga de Jos,44.8827,26.444
+427,31,PRAHOVA,FULGA,248,4,102,8,0,28,9,25,247,8,99,10,0,28,15,22,Școala Gimnazială „Laurentiu Fulga”,Nr. 632,Fulga de Sus,44.8945,26.4487
+448,31,PRAHOVA,GURA VITIOAREI,75,5,34,14,0,25,3,7,74,5,35,16,0,23,5,9,Grădinița cu Program Normal Fundeni,Nr. 197,Fundeni,45.1165,26.0227
+489,31,PRAHOVA,OLARI,157,1,14,2,0,7,9,15,156,1,16,4,0,5,9,11,"Școala Primară Fânari, Sat Fânari",Nr. 25,Fânari,44.802,26.1887
+407,31,PRAHOVA,FÂNTÂNELE,181,6,57,14,0,14,5,21,182,5,56,13,0,16,5,20,Caminul Cultural,Nr. 439A,Fântânele,45.0061,26.3771
+408,31,PRAHOVA,FÂNTÂNELE,172,8,67,15,0,18,9,20,170,8,68,15,0,20,10,21,Caminul Cultural,Nr. 439A,Fântânele,45.0072,26.376
+445,31,PRAHOVA,GURA VITIOAREI,200,8,34,14,0,37,6,19,190,9,37,14,0,41,7,20,Școala Primară Fagetu,Nr. 371,Făgetu,45.1361,26.0249
+477,31,PRAHOVA,MĂNECIU,176,13,55,9,0,71,20,38,185,14,55,10,0,63,18,32,Liceul Tehnologic Măneciu nr. 5,Nr. 5,Gheaba,45.3138,25.9914
+478,31,PRAHOVA,MĂNECIU,183,23,47,10,1,54,13,35,187,22,47,13,1,54,13,29,Liceul Tehnologic Măneciu nr. 5,Nr. 5,Gheaba,45.3138,25.9914
+428,31,PRAHOVA,GHERGHIŢA,353,9,45,10,0,18,6,21,353,11,43,11,0,20,4,14,"Școala Gimazială Gherghița, Numărul 125",,Gherghița,44.8005,26.2686
+318,31,PRAHOVA,BĂRCĂNEŞTI,85,9,39,9,0,14,8,16,81,9,42,7,2,12,10,15,Sediul Fostei Școli cu Clasele I-IV Ghighiu,Nr. 16,Ghighiu,44.8973,26.08
+232,31,PRAHOVA,ORAŞ COMARNIC,350,21,96,19,0,40,20,34,358,21,101,15,0,33,23,31,Grădinița cu Program Normal Ghioșești,,Ghioșești,45.2392,25.625
+536,31,PRAHOVA,RÎFOV,91,5,15,8,1,6,7,22,93,6,17,7,0,7,6,20,Școala Primară Goga,Nr. sat Goga de la nr. 1-184,Goga,44.8921,26.1398
+431,31,PRAHOVA,GORGOTA,121,24,216,12,0,9,13,28,122,29,211,20,0,8,12,23,"Grădinița cu Program Normal Sat Gorgota, Comuna Gorgota",Nr. 69,Gorgota,44.7829,26.084
+435,31,PRAHOVA,GORNET,263,14,91,26,0,16,32,47,251,11,119,25,0,13,28,37,Școala Gimnazială Gornet,Nr. 110,Gornet,45.114,26.0808
+436,31,PRAHOVA,GORNET,275,16,123,20,0,19,27,47,258,15,143,19,0,25,24,35,Caminul Cultural Gornet,,Gornet,45.12,26.0796
+439,31,PRAHOVA,GORNET-CRICOV,106,7,296,5,0,10,4,12,105,8,295,5,0,11,4,6,Cămin Cultural Gornet-Cricov,Nr. 155A,Gornet-Cricov,45.0753,26.2529
+382,31,PRAHOVA,COCORĂŞTII MISLII,258,22,197,34,1,23,11,49,261,22,200,31,0,24,14,45,Cămin Cultural,Nr. 144 A,Goruna,45.0854,25.9435
+339,31,PRAHOVA,BOLDEŞTI-GRADIŞTEA,91,4,149,12,0,8,10,25,85,8,150,13,1,8,11,27,"Școala Gimnazială Comuna Boldești-Gradiștea, Corp B",Nr. 95 B,Gradiștea,44.8868,26.5089
+267,31,PRAHOVA,ORAŞ SLĂNIC,266,10,91,35,0,34,17,39,269,13,94,32,0,33,20,38,Școala Grosani,Nr. 24,Groșani,45.2479,25.9451
+215,31,PRAHOVA,ORAŞ BREAZA,190,33,58,17,0,24,14,30,195,35,56,18,0,30,11,22,Grădinița cu Program Normal Gura Beliei „Albinuța”,Str. 30 Decembrie nr. 57,Gura Beliei,45.2132,25.6446
+442,31,PRAHOVA,GURA VADULUI,179,6,64,12,1,23,17,44,178,8,69,15,1,20,18,40,Căminul Cultural nr. 212,,Gura Vadului,45.0449,26.4384
+444,31,PRAHOVA,GURA VITIOAREI,271,19,107,21,0,30,18,46,273,21,103,24,0,29,22,47,Școala Gimnazială Gura Vitioarei,Nr. 197,Gura Vitioarei,45.1488,26.0288
+499,31,PRAHOVA,PLOPU,18,5,110,2,0,9,9,12,20,6,108,0,0,8,9,13,Fosta Școala cu Clasele I-IV Galmeia,,Gâlmeia,45.0355,26.0992
+495,31,PRAHOVA,PĂULEŞTI,140,36,61,20,2,46,23,55,149,33,65,19,0,48,24,48,Școala Generală cu Clasele I-VIII Vlad Musatescu Gageni,,Găgeni,45.0202,25.9473
+496,31,PRAHOVA,PĂULEŞTI,255,65,84,19,0,29,33,69,255,64,82,22,0,30,35,66,Caminul Cultural Gageni,,Găgeni,45.0214,25.9436
+455,31,PRAHOVA,IZVOARELE,251,14,40,11,0,16,20,30,256,20,35,12,1,14,19,30,Școala Gimnazială Homorîciu,Nr. 369,Homorâciu,45.2689,26.0146
+456,31,PRAHOVA,IZVOARELE,174,4,29,10,0,10,4,10,175,5,31,10,0,7,5,12,Școala Gimnazială Homorîciu,Nr. 369,Homorâciu,45.2689,26.0146
+500,31,PRAHOVA,PLOPU,30,2,97,3,0,9,2,6,33,3,94,2,0,9,2,3,Fosta Școala cu Clasele I-IV Harsa,,Hârsa,45.0392,26.1646
+561,31,PRAHOVA,ŞIRNA,94,0,95,5,0,5,3,11,93,0,94,6,1,8,4,10,"Școala Gimnazială, Sat Hăbud",Nr. 243A,Hăbud,44.7767,25.9303
+400,31,PRAHOVA,DRĂGĂNEŞTI,69,1,72,5,1,4,6,12,70,1,74,4,1,3,10,13,Cooperativa de Consum,Nr. 157A,Hătcărău,44.8114,26.3199
+469,31,PRAHOVA,MĂGURELE,45,17,80,10,1,24,14,26,45,17,79,10,1,26,15,24,Grădinița de Copii Sat Iazu,Nr. 119,Iazu,45.0813,26.0188
+430,31,PRAHOVA,GHERGHIŢA,55,0,23,0,1,3,2,12,51,1,25,0,2,7,3,8,"Școala Primară Independența, Numărul 23",,Independența,44.8021,26.2258
+385,31,PRAHOVA,COLCEAG,403,21,54,9,1,51,7,26,404,23,55,8,0,48,8,23,Școala Gimnazială Inotesti-Colceag-Structura,Nr. 1-752,Inotești,44.9614,26.3534
+449,31,PRAHOVA,IORDĂCHEANU,103,12,94,16,1,58,8,17,102,11,94,17,0,57,10,17,Grădinița Iordăcheanu,Nr. 180,Iordăcheanu,45.0439,26.2378
+453,31,PRAHOVA,IZVOARELE,240,37,40,15,0,20,14,30,243,38,40,14,0,22,15,26,Școala Gimnazială Traian Săvulescu Izvoarele,Nr. 459,Izvoarele,45.2807,26.0078
+454,31,PRAHOVA,IZVOARELE,249,14,30,12,0,6,8,22,245,17,28,15,0,6,11,21,Școala Gimnazială Traian Săvulescu Izvoarele,Nr. 459,Izvoarele,45.2807,26.0078
+525,31,PRAHOVA,PROVIŢA DE SUS,112,3,8,3,0,1,2,11,109,2,10,5,0,1,1,12,Grădința cu Program Normal Izvoru,Nr. 44,Izvoru,45.1555,25.628
+459,31,PRAHOVA,JUGURENI,232,7,38,9,0,10,7,13,229,4,41,12,0,13,8,12,Școala Gimnazială cu Clasele I-VIII,,Jugureni,45.0958,26.4368
+460,31,PRAHOVA,LAPOŞ,213,6,249,6,0,15,3,15,215,6,249,4,0,15,5,15,Căminul Cultural,,Lapoș,45.1528,26.4181
+461,31,PRAHOVA,LIPĂNEŞTI,111,16,86,11,0,17,13,32,112,15,90,14,0,16,11,28,Baza Sportiva,Nr. 480,Lipănești,45.0558,26.0194
+465,31,PRAHOVA,LIPĂNEŞTI,129,13,99,11,0,28,11,23,119,16,105,10,0,32,14,19,Baza Sportiva 1,Nr. 480,Lipănești,45.0558,26.0194
+617,31,PRAHOVA,VĂRBILĂU,183,4,38,6,0,6,8,20,187,7,37,6,0,5,7,15,Școala Primară Livadea,Nr. 52 A,Livadea,45.1863,25.9275
+596,31,PRAHOVA,TOMŞANI,342,11,40,11,1,19,9,23,331,13,40,14,1,24,11,23,"Cămin Cultural Loloiasca, Sat Loloiasca nr. 6v",,Loloiasca,44.9675,26.2903
+565,31,PRAHOVA,ŞOIMARI,97,1,81,5,0,9,9,13,98,1,80,6,0,9,9,11,Grădinița cu Program Normal,,Lopatnița,45.1847,26.2176
+568,31,PRAHOVA,ŞOTRILE,71,4,63,11,0,5,1,8,72,3,63,13,0,4,3,9,Școala Sat Lunca-Mare nr. 166,,Lunca Mare,45.1984,25.7438
+473,31,PRAHOVA,MĂGURENI,89,7,24,8,0,162,2,20,97,7,29,6,0,151,1,19,"Școala Primară Lunca Prahovei, Sat Lunca Prahovei nr. 39",,Lunca Prahovei,45.0464,25.7701
+595,31,PRAHOVA,TOMŞANI,310,10,40,18,2,6,8,23,312,10,40,18,2,6,8,19,"Școala Veche Magula, Sat Magula nr. 406a",,Magula,44.9312,26.3003
+429,31,PRAHOVA,GHERGHIŢA,121,2,20,4,0,6,1,7,121,2,23,4,0,7,1,6,"Grădinița cu Program Normal Malamuc, Numărul 149c",,Malamuc,44.7944,26.3067
+367,31,PRAHOVA,CEPTURA,22,1,4,2,0,4,0,1,22,1,6,2,0,4,1,1,Școala cu Clasele I-IV,,Malu Roșu,45.0644,26.3317
+458,31,PRAHOVA,IZVOARELE,172,12,22,22,0,7,8,17,168,13,24,20,0,6,8,17,Școala Primară Malu-Vînăt,Nr. 138,Malu Vânăt,45.2552,26.0229
+491,31,PRAHOVA,PĂCUREŢI,82,4,39,9,1,10,3,17,82,4,43,10,1,12,3,7,Școala Gimnazială,Nr. 380,Matița,45.14,26.1608
+504,31,PRAHOVA,PODENII NOI,158,9,35,11,0,63,12,34,155,10,39,15,0,65,14,26,Școala cu Clasele I-VIII Mehedinta,,Mehedința,45.0949,26.1874
+583,31,PRAHOVA,TELEGA,65,5,17,6,0,9,5,10,60,6,18,6,0,12,6,7,Școala Primară Sat Melicești,,Melicești,45.162,25.8192
+399,31,PRAHOVA,DRĂGĂNEŞTI,119,6,129,1,0,9,12,21,118,5,133,2,0,12,13,21,Școala Primară Meri,Nr. 158A,Meri,44.8332,26.3073
+415,31,PRAHOVA,FILIPEŞTII DE PĂDURE,221,7,103,9,0,19,11,30,215,10,106,13,0,22,11,26,Liceul Tehnologic,,Minieri,44.9816,25.7584
+550,31,PRAHOVA,SÎNGERU,117,5,167,13,0,9,3,15,112,7,169,11,0,9,3,13,Școala Gimnazială,Nr. 455,Mireșu Mare,45.1356,26.3723
+530,31,PRAHOVA,PUCHENII MARI,205,28,186,15,0,14,9,31,217,27,191,15,0,14,7,23,Școala Primară Miroslavesti,Nr. 333,Miroslăvești,44.8047,26.0889
+544,31,PRAHOVA,SCORŢENI,246,17,79,19,1,45,27,64,245,20,85,19,1,40,29,62,Școala Gimnazială Mislea,Nr. 17,Mislea,45.0964,25.8231
+235,31,PRAHOVA,ORAŞ MIZIL,264,14,151,16,1,40,41,84,276,12,158,19,1,42,41,59,Sala de Sport Mizil,Str. Erou Lt. Radu Nicolae nr. 4,Mizil,44.9983,26.4349
+236,31,PRAHOVA,ORAŞ MIZIL,207,13,96,10,1,45,33,62,228,11,102,12,0,44,34,49,Școala Gimnazială „Sfântul Nicolae” Mizil,Str. Tohani nr. 38,Mizil,45.0082,26.4404
+237,31,PRAHOVA,ORAŞ MIZIL,218,19,96,10,0,29,24,31,221,20,95,10,1,35,20,25,Școala Gimnazială nr. 1 Mizil,Str. Mihai Bravu nr. 110,Mizil,45.0046,26.4439
+238,31,PRAHOVA,ORAŞ MIZIL,214,20,86,8,0,32,31,44,221,18,88,12,0,38,20,32,Liceul Tehnologic „Tase Dumitrescu” Mizil,Str. Mihai Bravu nr. 116,Mizil,45.0027,26.4429
+239,31,PRAHOVA,ORAŞ MIZIL,111,3,52,10,1,28,74,112,128,6,55,12,2,31,91,106,Primăria Oraș Mizil,Str. Mihai Bravu nr. 136,Mizil,45.0017,26.4405
+240,31,PRAHOVA,ORAŞ MIZIL,253,17,109,14,0,32,36,46,249,15,112,14,0,40,35,43,Primăria Oraș Mizil,Bulevardul Unirii nr. 14,Mizil,45.002,26.4436
+241,31,PRAHOVA,ORAŞ MIZIL,172,20,119,16,0,42,27,38,169,22,123,16,0,48,24,31,Primăria Oraș Mizil,Bulevardul Unirii nr. 14,Mizil,45.002,26.4436
+242,31,PRAHOVA,ORAŞ MIZIL,236,15,97,18,0,27,44,58,246,20,91,19,0,28,39,48,Centrul Cultural „Adrian Păunescu”,Str. Mihai Bravu nr. 112,Mizil,45.0036,26.4435
+243,31,PRAHOVA,ORAŞ MIZIL,108,14,105,16,0,17,30,47,110,14,116,13,0,14,22,36,Școala Gimnazială „Sfânta Maria” Mizil,Str. Erou Lt. Radu Nicolae nr. 2,Mizil,44.9979,26.4365
+244,31,PRAHOVA,ORAŞ MIZIL,224,14,109,21,0,24,26,46,229,18,107,24,0,22,21,36,Școala Gimnazială „Sfânta Maria” Mizil,Str. Erou Lt. Radu Nicolae nr. 2,Mizil,44.9979,26.4365
+245,31,PRAHOVA,ORAŞ MIZIL,161,23,109,4,3,43,27,50,159,22,108,7,2,51,34,44,Liceul Teoretic „Grigore Tocilescu” Mizil,Str. Nicolae Bălcescu nr. 133,Mizil,45.001,26.4415
+533,31,PRAHOVA,RÎFOV,232,5,33,13,0,25,5,16,243,5,37,12,1,22,1,7,Școala Primară Moara Domneasca,Nr. sat Moara Domnesasca dela nr.1,Moara Domnească,44.8612,26.1435
+330,31,PRAHOVA,BERCENI,112,7,267,6,0,10,6,16,111,7,271,4,1,10,8,15,"Grădinița cu Program Normal-Sala Mare Parter, Com.Berceni, Sat Moara Noua, Str.Scolii nr. 106 C",,Moara Nouă,44.9476,26.1081
+450,31,PRAHOVA,IORDĂCHEANU,102,6,49,3,0,85,8,21,103,8,50,4,0,83,10,19,Școala Mocești,Nr. 209,Mocești,45.0555,26.2416
+563,31,PRAHOVA,ŞOIMARI,76,2,16,3,1,20,7,9,81,1,15,4,1,18,7,8,Cămin Cultural,,Măgura,45.1459,26.185
+466,31,PRAHOVA,MĂGURELE,186,46,136,19,0,36,15,36,180,43,140,23,1,47,14,27,Căminul Cultural Măgurele,Nr. 230,Măgurele,45.0994,26.0368
+467,31,PRAHOVA,MĂGURELE,194,31,146,22,0,27,21,47,192,32,158,21,0,25,21,41,Grădinița de Copii „Micul Prinț” Măgurele,Nr. 688 A,Măgurele,45.0994,26.0368
+470,31,PRAHOVA,MĂGURENI,154,36,61,23,3,180,13,35,160,34,64,23,4,168,13,37,"Școala Primară Măgureni, Corp B, Sat Măgureni nr. 201",,Măgureni,45.0436,25.7519
+471,31,PRAHOVA,MĂGURENI,119,12,59,5,2,69,11,28,134,16,56,5,0,65,8,19,"Școala Primară Satul Banului, Sat Măgureni nr. 541",,Măgureni,45.0602,25.7415
+472,31,PRAHOVA,MĂGURENI,122,22,58,15,0,141,13,40,115,20,60,16,1,140,22,44,"Școala Gimnazială Măgureni, Corp A, Sat Măgureni nr. 982",,Măgureni,45.0435,25.7514
+532,31,PRAHOVA,RÎFOV,212,12,24,11,1,21,7,15,216,13,22,15,1,20,8,10,Școala Primară Malaiesti,Nr. sat Malaiesti de la nr.1-251,Mălăiești,44.8679,26.117
+479,31,PRAHOVA,MĂNECIU,89,20,32,12,1,63,6,23,89,20,33,10,1,60,7,25,Școala Gimnazială Măneciu-Pămînteni nr. 267,Nr. 267,Măneciu-Pământeni,45.297,26.0049
+480,31,PRAHOVA,MĂNECIU,134,8,31,16,0,60,15,30,132,10,34,15,0,57,17,32,Școala Gimnazială Măneciu-Pămînteni nr. 267,Nr. 267,Măneciu-Pământeni,45.297,26.0049
+481,31,PRAHOVA,MĂNECIU,244,40,48,25,0,89,16,27,241,40,54,24,0,88,17,29,Școala Gimnazială Măneciu-Pămînteni nr. 1229,Nr. 1229,Măneciu-Pământeni,45.2919,25.9982
+475,31,PRAHOVA,MĂNECIU,289,39,38,23,0,87,24,51,281,38,39,26,0,100,28,47,Grădinița cu Program Normal nr. 3,Nr. 604,Măneciu-Ungureni,45.3184,25.9894
+476,31,PRAHOVA,MĂNECIU,212,21,51,13,1,124,18,43,215,24,54,12,1,121,19,39,Grădinița cu Program Normal nr. 3,Nr. 604,Măneciu-Ungureni,45.3184,25.9894
+483,31,PRAHOVA,MĂNEŞTI,151,14,145,13,0,14,10,25,157,16,144,13,2,12,6,16,Cămin Cultural,Nr. 131,Mănești,44.865,25.8503
+419,31,PRAHOVA,FILIPEŞTII DE TÎRG,135,8,168,28,0,42,15,36,141,10,176,30,0,39,15,23,Școala Generală Mărginenii de Jos (Școala Nouă),Nr. 86,Mărginenii de Jos,44.9565,25.7587
+420,31,PRAHOVA,FILIPEŞTII DE TÎRG,140,0,46,77,0,47,3,21,143,0,45,81,2,50,3,14,Școala Generală Mărginenii de Jos (Școala Veche),Nr. 812,Mărginenii de Jos,44.956,25.758
+298,31,PRAHOVA,ARICEŞTII RAHTIVANI,114,23,61,16,0,12,28,42,121,22,63,16,0,14,24,34,Grădinița cu Program Normal Nedelea nr. 47a,,Nedelea,44.9735,25.813
+299,31,PRAHOVA,ARICEŞTII RAHTIVANI,144,21,105,21,2,11,27,49,134,21,111,25,2,17,23,41,"Școala Gimnazială Sat Nedelea, Comuna Ariceștii Rahtivani nr. 491",,Nedelea,44.9738,25.8137
+344,31,PRAHOVA,BRAZI,252,32,126,42,2,34,13,52,256,30,122,41,1,41,14,50,Sala de Sport a Școlii Gimnaziale „Profesor Oprea Mihai” Sat Negoiești,Str. Bucegi nr. 52,Negoiești,44.8754,25.9816
+498,31,PRAHOVA,PLOPU,127,3,177,9,0,28,7,17,128,3,176,8,0,28,8,17,Școala cu Clasele I-IV Nisipoasa,,Nisipoasa,45.0201,26.162
+216,31,PRAHOVA,ORAŞ BREAZA,193,28,73,18,0,17,6,20,190,29,76,19,0,21,6,16,Școala Gimnazială Nistorești,Drumul D.N.1 nr. 24B,Nistorești,45.2009,25.6658
+438,31,PRAHOVA,GORNET,47,0,7,1,0,4,2,2,47,0,7,1,0,4,1,1,Școala Primară Nucet,,Nucet,45.1521,26.0975
+516,31,PRAHOVA,POSEŞTI,379,20,32,25,0,20,8,28,379,18,31,25,0,19,11,28,Cladirea Fostei Primarii Rancezi din Satul Nucsoara de Jos,Nr. 93,Nucșoara de Jos,45.2813,26.1124
+531,31,PRAHOVA,PUCHENII MARI,174,21,245,13,0,12,15,38,172,25,238,15,0,16,16,38,Grădinița cu Program Normal Odaile,Nr. 20,Odăile,44.8241,26.0558
+394,31,PRAHOVA,DRAJNA,109,9,119,7,0,12,5,12,108,6,124,10,0,9,6,11,Școala Gimnazială Ogretin,Str. Stroe Buzescu nr. 99,Ogretin,45.2644,26.0898
+488,31,PRAHOVA,OLARI,200,1,15,6,0,20,5,14,209,3,19,6,1,21,5,12,"Școala Gimnazială Olari, Sat Olari",Nr. 28,Olari,44.7916,26.2015
+487,31,PRAHOVA,OLARI,226,4,26,7,0,6,4,15,230,4,23,8,0,6,3,11,"Școala Primară Olarii-Vechi, Sat Olarii-Vechi",Nr. 183 B,Olarii Vechi,44.785,26.2179
+513,31,PRAHOVA,POIENARII BURCHII,161,16,36,31,0,17,8,29,158,23,40,28,0,18,13,29,Anexa Primarie Sat Ologeni,,Ologeni,44.7341,25.9474
+578,31,PRAHOVA,TEIŞANI,197,23,218,11,2,20,16,28,204,22,216,12,0,20,11,24,"Școala Gimnazială „Moise Vasilescu”, Sat Olteni nr. 147",Nr. 147,Olteni,45.2258,26.0124
+293,31,PRAHOVA,ALUNIŞ,269,7,26,8,1,14,7,16,261,7,30,10,0,16,7,17,Școala Gimnazială Sat Ostrovu,Nr. 23,Ostrovu,45.2035,25.9021
+535,31,PRAHOVA,RÎFOV,235,14,47,8,1,25,6,17,238,15,48,11,1,25,6,17,Școala Primară Palanca,Nr. sat Palanca de la nr.1 -379,Palanca,44.8154,26.1985
+605,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,125,7,39,8,0,35,13,32,122,5,44,6,0,36,14,30,Școala Primară Pantazi,Nr. 294,Pantazi,44.935,26.1376
+386,31,PRAHOVA,COLCEAG,125,2,31,9,0,16,13,19,123,2,31,9,0,13,16,20,Școala Gimnazială Parepa-Rusani-Colceag-Structura,Nr. 1-453,Parepa-Rușani,44.9025,26.355
+443,31,PRAHOVA,GURA VADULUI,113,1,37,0,1,24,8,12,115,2,35,0,1,24,9,14,Grădinița de Copiii Perșunari nr. 372,,Perșunari,45.054,26.4448
+351,31,PRAHOVA,BREBU,105,9,164,4,0,0,3,20,109,10,160,5,0,8,4,12,"Școala Gimnazială Matei Basarab, Școală Gimnazială Pietriceaua, Sat Pietriceaua nr. 1",,Pietriceaua,45.221,25.8078
+508,31,PRAHOVA,POIANA CÂMPINA,59,8,92,21,0,11,15,21,60,6,97,21,0,13,13,18,Școala Generală Pietrișu,Nr. 118B,Pietrișu,45.1175,25.7244
+527,31,PRAHOVA,PUCHENII MARI,104,15,110,14,1,18,7,19,104,16,104,20,1,18,10,23,Școala Gimnazială Pietrosani,Nr. 70,Pietroșani,44.8388,26.1021
+528,31,PRAHOVA,PUCHENII MARI,96,18,97,6,0,14,6,15,98,19,97,7,0,11,8,15,Grădinița cu Program Normalpietrosani,Nr. 782,Pietroșani,44.8392,26.1021
+586,31,PRAHOVA,TINOSU,89,6,45,7,0,3,2,8,93,7,45,7,0,2,3,5,"Școala Primară Sat Pisculești, Localitatea Pisculești",Nr. 51,Pisculești,44.8301,26.0165
+566,31,PRAHOVA,ŞOTRILE,126,1,45,10,0,2,2,36,151,1,48,10,1,3,4,10,Școala Sat Plaiu Campinei nr. 35,,Plaiu Câmpinei,45.1828,25.741
+357,31,PRAHOVA,BUCOV,173,38,132,14,2,57,19,41,172,39,137,15,2,52,26,41,Camin Cultural Pleasa,Nr. 432B,Pleașa,45.0053,26.0697
+358,31,PRAHOVA,BUCOV,158,38,140,5,0,56,14,40,155,39,148,7,0,56,16,38,Camin Cultural Pleasa,Nr. 432B,Pleașa,45.0053,26.0697
+359,31,PRAHOVA,BUCOV,221,4,73,19,1,12,9,25,225,5,77,21,1,11,12,23,Club Pleasa,Nr. 937,Pleașa,44.9879,26.0444
+1,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,163,148,100,52,0,82,46,88,162,144,103,55,2,81,44,83,Palatul Culturii,Bulevardul Republicii nr. 4,Ploiești,44.9419,26.022
+2,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,133,70,79,43,0,68,39,78,135,68,91,39,1,66,41,69,Palatul Culturii,Bulevardul Republicii nr. 4,Ploiești,44.9419,26.022
+3,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,140,132,81,51,1,64,33,67,140,126,94,49,1,65,35,61,Palatul Culturii,Bulevardul Republicii nr. 4,Ploiești,44.9419,26.022
+4,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,163,110,92,66,2,68,24,71,155,113,96,65,2,71,32,72,Colegiul Național „Alexandru Ioan Cuza”,Str. Trei Ierarhi nr. 10,Ploiești,44.9408,26.0167
+5,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,206,160,116,50,1,80,49,92,204,162,117,46,1,80,61,99,Școala Gimnazială „Elena Doamna”,Str. Elena Doamna nr. 25,Ploiești,44.9424,26.0154
+6,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,202,139,126,51,1,80,43,90,205,132,142,53,1,77,44,75,Școala Gimnazială „Elena Doamna”,Str. Elena Doamna nr. 25,Ploiești,44.9424,26.0154
+7,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,185,88,133,61,1,96,30,66,192,88,145,58,1,87,25,55,Școala Gimnazială „Candiano Popescu”,Str. Nucilor nr. 39,Ploiești,44.9507,26.0217
+8,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,168,35,88,30,0,61,16,45,166,37,90,29,1,60,23,45,Școala Gimnazială „Candiano Popescu”,Str. Nucilor nr. 39,Ploiești,44.9507,26.0217
+9,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,197,84,128,35,2,68,25,62,203,73,130,38,2,74,30,58,Colegiul Național „Ion Luca Caragiale”,Str. Gheorghe Doja nr. 98,Ploiești,44.9452,26.0256
+10,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,196,89,82,58,0,59,44,93,201,92,89,57,2,65,39,71,Colegiul Național „Ion Luca Caragiale”,Str. Gheorghe Doja nr. 98,Ploiești,44.9452,26.0256
+11,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,190,51,105,26,3,49,25,57,194,52,106,28,3,38,31,57,Direcția Județeană Pentru Sport și Tineret Prahova,Str. Pielari nr. 5,Ploiești,44.9417,26.0362
+12,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,230,89,109,24,2,85,25,69,228,84,110,29,2,90,32,69,Direcția Județeană Pentru Sport și Tineret Prahova,Str. Pielari nr. 5,Ploiești,44.9417,26.0362
+13,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,157,69,100,54,2,70,17,58,157,75,101,55,4,71,15,48,Liceul Tehnologic Ucecom „Spiru Haret” (Fost Grupul Scolar de Arte și Meserii „Spiru Haret”),Str. Doctor Toma Ionescu (Str. Dr. Toma Ionescu) nr. 27,Ploiești,44.943,26.0382
+14,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,171,72,97,34,1,68,32,51,174,72,98,34,1,64,35,51,Anexa Școlii Gimnaziale „Sfânta Vineri”,Str. Stadionului nr. 9,Ploiești,44.9417,26.032
+15,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,122,76,79,28,0,38,20,43,116,73,88,29,0,44,20,34,Muzeul Județean de Istorie și Arheologie Prahova,Str. Toma Caragiu (Str. Teatrului) nr. 10,Ploiești,44.9398,26.027
+16,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,71,83,52,41,1,38,12,37,67,83,58,40,0,35,17,40,Colegiul Național „Mihai Viteazul”,Bulevardul Independenței (Bulevardul Gheorghe Gheorghiu Dej) nr. 8,Ploiești,44.9367,26.0256
+17,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,109,70,108,51,3,65,33,71,104,75,118,53,3,66,29,58,Clubul Sportiv Școlar,Str. Ștefan cel Mare nr. 5,Ploiești,44.9388,26.0279
+18,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,143,66,75,45,1,84,28,61,144,70,81,46,1,78,28,50,S.C. „Electrica” S.A.,Str. Mărășești (Str. Ștefan Gheorghiu) nr. 44,Ploiești,44.9376,26.0188
+19,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,129,76,72,40,1,51,26,54,130,77,66,44,2,55,28,50,Grădinița cu Program Prelungit nr. 28 (Grădinița nr. 28),Str. Mărășești (Str. Ștefan Gheorghiu) nr. 56,Ploiești,44.9368,26.0178
+20,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,206,138,135,62,3,64,28,70,198,139,144,66,3,66,32,59,Ocolul Silvic,Str. Eroilor nr. 58,Ploiești,44.9256,26.0117
+21,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,199,84,98,49,1,94,26,61,208,94,93,48,1,92,27,50,Ocolul Silvic,Str. Eroilor nr. 58,Ploiești,44.9256,26.0117
+22,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,181,119,87,84,1,69,28,60,184,118,101,82,0,63,31,57,Școala Gimnazială „Nicolae Titulescu”,Str. Popa Farcaș nr. 23,Ploiești,44.9367,26.0103
+23,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,214,153,97,61,0,88,34,83,214,155,108,60,0,78,49,80,Școala Gimnazială „Nicolae Titulescu”,Str. Popa Farcaș nr. 23,Ploiești,44.9367,26.0103
+24,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,217,132,119,51,0,75,35,87,220,126,121,61,1,80,29,68,Anexa Liceului Tehnologic de Transporturi (Anexa Grup Scolar Industrial Transporturi (Fost Liceul Auto) ),Str. Traian nr. 28,Ploiești,44.9407,26.0096
+25,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,193,159,97,79,1,113,49,106,197,159,107,79,4,111,47,90,Școala Gimnazială „Sfântul Vasile”,Bulevardul Republicii nr. 145,Ploiești,44.9462,26.0123
+26,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,199,150,133,59,0,78,54,99,201,141,144,59,0,85,55,86,Școala Gimnazială „Sfântul Vasile”,Bulevardul Republicii nr. 145,Ploiești,44.9462,26.0123
+27,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,199,150,102,67,1,72,43,90,200,147,114,67,1,70,39,81,Școala Gimnazială „Sfântul Vasile”,Bulevardul Republicii nr. 145,Ploiești,44.9462,26.0123
+28,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,171,108,86,49,1,98,23,78,174,109,98,53,0,77,33,78,Școala Gimnazială „Sfântul Vasile”,Bulevardul Republicii nr. 145,Ploiești,44.9462,26.0123
+29,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,146,88,98,39,1,92,28,69,150,89,98,45,0,82,32,70,Școala Gimnazială nr. 13 (fosta Școală Gimnazială „Dimitrie Bolintineanu”),Str. Dimitrie Bolintineanu nr. 32,Ploiești,44.95,26.0165
+30,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,146,103,74,50,2,68,39,65,150,96,83,53,2,65,35,54,Școala Gimnazială nr. 13 (fosta Școală Gimnazială „Dimitrie Bolintineanu”),Str. Dimitrie Bolintineanu nr. 32,Ploiești,44.95,26.0165
+31,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,148,36,193,21,1,130,23,62,151,36,205,19,2,128,30,57,S.C. Transport Călători Express S.A.,Str. Găgeni nr. 88,Ploiești,44.9559,26.0149
+32,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,194,57,81,53,1,77,26,55,202,61,87,56,0,67,24,45,S.C. Transport Călători Express S.A.,Str. Găgeni nr. 88,Ploiești,44.9559,26.0149
+33,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,141,62,64,48,0,79,21,46,145,57,70,46,0,74,22,45,S.C. Transport Călători Express S.A.,Str. Găgeni nr. 88,Ploiești,44.9559,26.0149
+34,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,206,83,120,66,0,93,37,81,206,85,131,67,0,91,39,72,S.C. „Comcereal” S.A. Ploiești,Str. Văleni nr. 137,Ploiești,44.9537,26.0219
+35,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,161,29,57,20,0,51,7,50,169,32,48,25,0,52,9,37,Școala Gimnazială „Anton Pann”,Str. Luminișului nr. 8,Ploiești,44.9514,26.0447
+36,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,194,32,56,30,0,50,22,55,205,31,56,32,0,45,23,45,Școala Gimnazială „Anton Pann”,Str. Luminișului nr. 8,Ploiești,44.9514,26.0447
+37,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,83,11,33,13,0,50,19,33,90,13,35,16,0,40,17,25,Școala Gimnazială „Anton Pann”,Str. Luminișului nr. 8,Ploiești,44.9514,26.0447
+38,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,202,42,66,55,0,77,15,54,200,46,77,60,2,73,14,41,Spațiul Municipiului Ploiești,Str. Ștrandului nr. 19,Ploiești,44.9522,26.0437
+39,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,219,63,80,28,1,78,18,59,224,62,85,32,1,72,23,53,Blocul 24b Parter,Str. Mihai Bravu nr. 214,Ploiești,44.9389,26.0504
+40,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,261,46,78,16,1,77,21,61,257,52,77,19,0,70,24,56,Cantina de Ajutor Social,Str. Mihai Bravu nr. 231,Ploiești,44.9397,26.0513
+41,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,230,73,97,45,0,72,28,66,229,69,110,50,0,66,31,59,Cantina de Ajutor Social,Str. Mihai Bravu nr. 231,Ploiești,44.9397,26.0513
+42,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,204,89,76,33,0,72,30,85,208,90,81,27,0,73,32,81,Cantina de Ajutor Social,Str. Mihai Bravu nr. 231,Ploiești,44.9397,26.0513
+43,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,260,72,94,34,2,90,27,71,264,86,92,31,1,83,32,64,Ghișeul nr. 2 - Oficiul Poștal Ploiești 1,Aleea Chimiei nr. 3,Ploiești,44.9396,26.0465
+44,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,120,26,45,27,0,33,19,45,120,26,52,25,0,37,20,33,Liceul Tehnologic „Ludovic Mrazek” (Fost Grup Scolar Teleajen),Str. Mihai Bravu nr. 241,Ploiești,44.9435,26.0925
+45,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,146,66,73,33,3,53,26,64,151,68,82,34,2,45,28,59,Grădinița cu Program Normal nr. 4 (fosta Grădinița de Copii nr. 4),Str. Roșiori nr. 28,Ploiești,44.9382,26.0384
+46,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,159,45,70,25,0,77,29,64,169,46,72,30,0,69,28,58,Școala Gimnazială „Ioan Grigorescu”,Str. Izvoare nr. 81,Ploiești,44.9333,26.0473
+47,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,143,40,73,28,0,50,19,58,148,39,82,28,0,45,26,54,Școala Gimnazială „Ioan Grigorescu”,Str. Izvoare nr. 81,Ploiești,44.9333,26.0473
+48,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,184,46,109,35,0,75,19,60,176,46,120,29,0,74,20,58,Școala Gimnazială „Ioan Grigorescu”,Str. Izvoare nr. 81,Ploiești,44.9333,26.0473
+49,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,149,78,95,52,0,52,27,89,140,75,105,53,0,64,36,74,Școala Gimnazială „Rareș Vodă”,Str. Vornicul Boldur nr. 3,Ploiești,44.9363,26.0336
+50,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,156,107,106,30,1,56,18,69,154,98,117,29,1,59,25,66,Casa Corpului Didactic,Str. Democrației nr. 35,Ploiești,44.9347,26.0299
+51,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,142,77,53,25,1,57,21,56,141,74,62,26,1,50,20,54,Casa Corpului Didactic,Str. Democrației nr. 35,Ploiești,44.9347,26.0299
+52,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,158,132,88,62,2,58,45,80,163,129,94,58,1,62,38,68,Colegiul Național „Jean Monnet”,Str. Nicolae Iorga (Str. Engels Friedrich) nr. 7,Ploiești,44.9324,26.0287
+53,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,162,96,107,47,0,62,19,49,163,91,113,48,1,58,15,46,Liceul Tehnologic Administrativ și de Servicii „Victor Slăvescu” (fosta Școala nr. 32),Str. Teleajen nr. 11,Ploiești,44.9283,26.0315
+54,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,193,80,76,30,1,88,37,58,181,86,80,34,2,85,38,53,Liceul Tehnologic Administrativ și de Servicii „Victor Slăvescu” (fosta Școala nr. 32),Str. Teleajen nr. 11,Ploiești,44.9283,26.0315
+55,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,227,77,100,39,1,72,32,64,229,76,97,40,2,70,29,61,Școala Gimnazială „George Coșbuc”,Str. George Coșbuc nr. 17,Ploiești,44.9315,26.0351
+56,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,188,69,99,36,2,74,24,53,196,70,101,36,1,64,26,50,Școala Gimnazială „George Coșbuc”,Str. George Coșbuc nr. 17,Ploiești,44.9315,26.0351
+57,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,138,20,71,16,3,52,12,29,137,24,76,19,1,48,14,30,Școala Gimnazială Specială nr. 1,Str. Făgăraș nr. 1,Ploiești,44.9285,26.0495
+58,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,116,20,58,11,1,75,19,48,112,25,64,14,0,71,25,41,Școala Gimnazială Specială nr. 1,Str. Făgăraș nr. 1,Ploiești,44.9285,26.0495
+59,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,234,74,87,42,1,80,52,99,239,73,95,46,1,73,52,90,Liceul Tehnologic „1 Mai”,Bulevardul Petrolului nr. 16,Ploiești,44.9175,26.0363
+60,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,225,33,143,28,2,76,23,65,227,33,152,30,4,64,27,52,Liceul Tehnologic „1 Mai”,Bulevardul Petrolului nr. 16,Ploiești,44.9175,26.0363
+61,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,209,111,117,49,1,84,35,89,204,122,124,49,0,76,39,83,Colegiul Tehnic „Lazăr Edeleanu” (Fost Liceul de Chimie),Bulevardul Petrolului nr. 14,Ploiești,44.916,26.0331
+62,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,228,73,105,48,1,88,40,80,236,78,119,48,1,82,38,60,Colegiul Tehnic „Lazăr Edeleanu” (Fost Liceul de Chimie),Bulevardul Petrolului nr. 14,Ploiești,44.916,26.0331
+63,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,244,89,92,48,1,80,33,71,231,91,101,52,1,88,36,61,Școala Gimnazială „Mihai Eminescu”,Bulevardul București nr. 25A,Ploiești,44.9195,26.0353
+64,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,212,104,96,33,2,87,32,81,208,106,108,34,2,89,27,67,Școala Gimnazială „Mihai Eminescu”,Bulevardul București nr. 25A,Ploiești,44.9195,26.0353
+65,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,90,12,98,7,1,28,38,61,89,15,98,11,1,34,36,51,Școala nr. 19,Bulevardul Petrolului nr. 7,Ploiești,44.9132,26.0192
+66,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,177,79,96,27,1,56,30,61,174,75,102,28,0,49,40,68,Școala Gimnazială „Radu Stanian”,Str. Bobâlna (Str. Bobîlna) nr. 76,Ploiești,44.9277,26.0244
+67,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,121,84,98,49,1,57,16,41,130,94,95,46,1,54,13,32,Colegiul de Artă „Carmen Sylva”,Str. Bobâlna (Str. Bobîlna) (D) nr. 44,Ploiești,44.93,26.023
+68,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,111,76,76,38,0,75,12,36,114,77,76,36,0,77,10,29,Colegiul de Artă „Carmen Sylva”,Str. Bobâlna (Str. Bobîlna) (D) nr. 44,Ploiești,44.93,26.023
+69,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,156,94,115,55,0,101,33,65,153,91,123,56,0,106,33,59,S.C.Apa Nova S.R.L.,Str. Bobâlna (Str. Bobîlna) (D) nr. 10,Ploiești,44.9337,26.0255
+70,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,257,50,87,28,2,45,36,70,265,47,89,25,2,53,39,65,Colegiul „Spiru Haret” (Fost Liceul de Constructii Masini),Intrarea Constructorilor (Str. Constructorilor) nr. 8,Ploiești,44.9271,26.0226
+71,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,95,16,53,12,0,37,7,26,88,16,55,16,1,41,9,23,Sediul Tmucb,Str. Rudului nr. 262,Ploiești,44.9223,26.0074
+72,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,203,68,77,42,0,88,30,64,198,75,92,37,3,75,33,64,Școala Gimnazială „Florin Comișel”,Str. Jupiter nr. 6,Ploiești,44.9284,26.0161
+73,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,229,104,132,47,1,65,35,80,240,106,143,42,1,56,31,71,Palatul Copiilor (fosta Școala nr. 20),Str. Mărășești (Str. Ștefan Gheorghiu) nr. 239,Ploiești,44.9309,26
+74,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,198,78,107,33,1,51,35,83,206,81,114,35,2,49,32,68,Palatul Copiilor (fosta Școala nr. 20),Str. Mărășești (Str. Ștefan Gheorghiu) nr. 239,Ploiești,44.9309,26
+75,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,210,112,113,37,0,76,33,73,219,117,118,44,0,66,31,56,Palatul Copiilor (fosta Școala nr. 20),Str. Mărășești (Str. Ștefan Gheorghiu) nr. 239,Ploiești,44.9309,26
+76,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,107,65,53,24,2,55,21,40,112,61,57,24,2,47,23,42,Palatul Copiilor (fosta Școala nr. 20),Str. Mărășești (Str. Ștefan Gheorghiu) nr. 239,Ploiești,44.9309,26
+77,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,122,78,84,26,0,56,33,60,133,81,90,27,0,46,29,51,Palatul Copiilor (fosta Școala nr. 20),Str. Mărășești (Str. Ștefan Gheorghiu) nr. 239,Ploiești,44.9309,26
+78,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,229,104,112,36,0,92,51,112,230,104,124,47,0,87,56,95,Școala Gimnazială „I. A. Bassarabescu” (Școala Gimnazială I. A. Basarabescu),Aleea Strunga nr. 2,Ploiești,44.9273,25.9956
+79,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,138,109,114,37,0,95,20,68,137,103,130,42,0,83,26,68,Școala Gimnazială „I. A. Bassarabescu” (Școala Gimnazială I. A. Basarabescu),Aleea Strunga nr. 2,Ploiești,44.9273,25.9956
+80,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,264,128,126,61,1,121,41,114,275,135,128,60,2,99,47,111,Școala Gimnazială „I. A. Bassarabescu” (Școala Gimnazială I. A. Basarabescu),Aleea Strunga nr. 2,Ploiești,44.9273,25.9956
+81,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,269,82,114,42,1,64,42,94,269,82,116,42,1,79,42,79,Școala Gimnazială „I. A. Bassarabescu” (Școala Gimnazială I. A. Basarabescu),Aleea Strunga nr. 2,Ploiești,44.9273,25.9956
+82,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,235,62,103,27,0,67,25,65,229,64,107,31,0,62,30,60,Direcția Generală de Asistență Socială și Protecția Copilului Prahova,Șoseaua Vestului nr. 14-16,Ploiești,44.9342,25.9899
+83,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,231,51,104,32,0,107,42,68,237,53,106,37,0,98,41,62,Direcția Generală de Asistență Socială și Protecția Copilului Prahova,Șoseaua Vestului nr. 14-16,Ploiești,44.9342,25.9899
+84,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,234,71,99,23,1,99,26,65,233,77,98,27,0,93,30,62,Școala Gimnazială „George Emil Palade”,Aleea Godeanu nr. 4,Ploiești,44.9324,25.9928
+85,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,186,51,88,34,0,69,18,45,185,52,91,34,0,68,23,44,Școala Gimnazială „George Emil Palade”,Aleea Godeanu nr. 4,Ploiești,44.9324,25.9928
+86,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,182,47,129,34,0,71,25,56,167,46,135,39,0,81,26,46,Școala Gimnazială „George Emil Palade”,Aleea Godeanu nr. 4,Ploiești,44.9324,25.9928
+87,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,159,46,104,35,0,80,46,73,160,51,105,39,0,80,45,64,Școala Gimnazială „George Emil Palade”,Aleea Godeanu nr. 4,Ploiești,44.9324,25.9928
+88,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,219,53,95,39,0,83,24,53,223,50,103,37,0,77,26,51,Grădinița cu Program Normal nr. 50 (fosta Grădiniță nr. 50),Aleea Godeanu nr. 4,Ploiești,44.9328,25.993
+89,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,186,77,82,39,0,78,32,63,185,81,92,40,0,71,36,56,Grădinița cu Program Normal nr. 50 (fosta Grădiniță nr. 50),Aleea Godeanu nr. 4,Ploiești,44.9328,25.993
+90,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,180,57,74,29,0,70,24,57,184,63,82,24,2,58,30,54,Grădinița cu Program Prelungit nr. 40 (fosta Grădiniță nr. 40),Str. Anotimpului nr. 1,Ploiești,44.931,25.9871
+91,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,165,48,65,14,0,78,19,43,167,48,69,12,0,77,16,37,Grădinița cu Program Prelungit nr. 40 (fosta Grădiniță nr. 40),Str. Anotimpului nr. 1,Ploiești,44.931,25.9871
+92,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,250,84,113,51,0,94,13,63,256,83,117,57,0,88,22,53,Grădinița cu Program Prelungit nr. 40 (fosta Grădiniță nr. 40),Str. Anotimpului nr. 1,Ploiești,44.931,25.9871
+93,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,202,47,73,32,1,64,38,57,202,48,74,33,0,64,37,55,Școala Gimnazială „Toma Caragiu”,Str. Minerva nr. 4,Ploiești,44.9336,25.9841
+94,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,143,41,38,21,1,73,22,43,145,45,46,19,2,68,22,37,Școala Gimnazială „Toma Caragiu”,Str. Minerva nr. 4,Ploiești,44.9336,25.9841
+95,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,211,57,81,33,0,111,22,67,219,59,85,34,0,95,27,61,Școala Gimnazială „Toma Caragiu”,Str. Minerva nr. 4,Ploiești,44.9336,25.9841
+96,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,194,45,88,33,3,57,21,61,194,51,92,34,1,55,22,49,Școala Gimnazială „Nicolae Iorga”,Str. Minerva nr. 4,Ploiești,44.9348,25.9842
+97,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,204,60,96,41,0,100,24,54,218,68,96,42,0,89,24,45,Școala Gimnazială „Nicolae Iorga”,Str. Minerva nr. 4,Ploiești,44.9348,25.9842
+98,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,178,50,87,28,0,73,21,49,177,47,89,29,0,70,27,52,Școala Gimnazială „Nicolae Iorga”,Str. Minerva nr. 4,Ploiești,44.9348,25.9842
+99,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,113,41,82,11,1,56,20,59,110,47,85,9,1,59,21,53,Grădinița cu Program Normal nr. 39 (fosta Grădiniță nr. 39),"Str. General Eremia Grigorescu (Str. G-ral Eremia Grigorescu, Bulevardul Gheorghe Dimitrov) nr. 4",Ploiești,44.9342,25.9831
+100,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,152,42,79,11,0,38,18,42,153,41,87,12,0,38,15,32,Grădinița cu Program Normal nr. 39 (fosta Grădiniță nr. 39),"Str. General Eremia Grigorescu (Str. G-ral Eremia Grigorescu, Bulevardul Gheorghe Dimitrov) nr. 4",Ploiești,44.9342,25.9831
+101,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,190,38,119,19,1,81,23,46,191,40,122,20,1,79,21,36,Grădinița cu Program Normal nr. 39 (fosta Grădiniță nr. 39),"Str. General Eremia Grigorescu (Str. G-ral Eremia Grigorescu, Bulevardul Gheorghe Dimitrov) nr. 4",Ploiești,44.9342,25.9831
+102,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,218,67,106,32,1,98,19,57,230,65,105,36,0,89,22,52,Grădinița cu Program Prelungit „Sf. Mucenic Mina” (fosta Grădiniță nr. 36 „Sf. Mucenic Mina”),"Str. Slt. Erou Moldoveanu Marian (Str. Slt. Erou Marian Moldoveanu, Str. Diana) nr. 14",Ploiești,44.9359,25.9881
+103,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,212,47,123,44,0,82,23,67,215,47,120,43,0,81,26,61,Grădinița cu Program Prelungit „Sf. Mucenic Mina” (fosta Grădiniță nr. 36 „Sf. Mucenic Mina”),"Str. Slt. Erou Moldoveanu Marian (Str. Slt. Erou Marian Moldoveanu, Str. Diana) nr. 14",Ploiești,44.9359,25.9881
+104,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,212,55,79,35,1,64,22,63,212,55,88,36,2,56,26,56,Grădinița cu Program Prelungit „Sf. Mucenic Mina” (fosta Grădiniță nr. 36 „Sf. Mucenic Mina”),"Str. Slt. Erou Moldoveanu Marian (Str. Slt. Erou Marian Moldoveanu, Str. Diana) nr. 14",Ploiești,44.9359,25.9881
+105,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,139,25,61,16,2,51,14,29,144,24,67,18,0,43,14,28,Grădinița cu Program Prelungit „Sf. Mucenic Mina” (fosta Grădiniță nr. 36 „Sf. Mucenic Mina”),"Str. Slt. Erou Moldoveanu Marian (Str. Slt. Erou Marian Moldoveanu, Str. Diana) nr. 14",Ploiești,44.9359,25.9881
+106,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,151,64,93,30,0,61,18,47,161,61,94,31,0,47,22,51,Grădinița cu Program Prelungit nr. 47 (fosta Grădiniță nr. 47),Aleea Iezerului nr. 5 - 7,Ploiești,44.9324,25.9946
+107,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,163,37,72,20,0,58,23,40,166,37,76,21,0,52,23,38,Grădinița cu Program Prelungit nr. 47 (fosta Grădiniță nr. 47),Aleea Iezerului nr. 5 - 7,Ploiești,44.9324,25.9946
+108,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,132,26,75,26,0,58,16,29,132,27,71,28,1,59,14,25,Grădinița cu Program Prelungit nr. 47 (fosta Grădiniță nr. 47),Aleea Iezerului nr. 5 - 7,Ploiești,44.9324,25.9946
+109,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,169,112,91,36,1,68,34,64,178,105,98,37,0,64,33,61,Sistemul de Gospodărire a Apelor Prahova,Str. Gheorghe Grigore Cantacuzino (Str. 23 August) nr. 304,Ploiești,44.9381,25.9945
+110,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,211,88,154,33,1,74,36,74,212,91,165,34,2,70,40,60,Agenția Pentru Protecția Mediului Prahova,Str. Gheorghe Grigore Cantacuzino (Str. 23 August) nr. 306,Ploiești,44.9381,25.9947
+111,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,157,103,122,26,1,65,16,50,145,96,129,30,3,68,17,53,S.C. Exploatare Sistem Zonal Prahova S.A.,Str. Gheorghe Grigore Cantacuzino (Str. 23 August) nr. 308,Ploiești,44.9381,25.995
+112,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,248,114,120,63,1,69,42,79,253,112,123,61,1,66,43,78,Școala Gimnazială „Ienăchiță Văcărescu”,Str. Spătar Milescu (Str. Spătarul Nicolae Milescu) nr. 22,Ploiești,44.9401,25.9992
+113,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,239,120,114,46,1,83,42,85,250,119,109,53,1,79,41,77,Școala Gimnazială „Ienăchiță Văcărescu”,Str. Spătar Milescu (Str. Spătarul Nicolae Milescu) nr. 22,Ploiești,44.9401,25.9992
+114,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,208,87,106,43,3,66,29,75,214,91,113,44,3,68,31,59,Școala Gimnazială „Ienăchiță Văcărescu”,Str. Spătar Milescu (Str. Spătarul Nicolae Milescu) nr. 22,Ploiești,44.9401,25.9992
+115,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,131,75,63,22,0,65,18,41,133,89,68,22,0,61,14,25,Școala Gimnazială „Ienăchță Văcărescu”,Str. Spătar Milescu (Str. Spătarul Nicolae Milescu) nr. 22,Ploiești,44.9401,25.9992
+116,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,165,71,88,20,2,82,22,53,168,74,94,21,3,77,22,48,Colegiul Tehnic „Toma N. Socolescu”,Str. Gheorghe Grigore Cantacuzino (Str. 23 August) nr. 328,Ploiești,44.9386,25.9916
+117,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,117,66,54,23,3,40,20,36,116,65,57,26,3,34,23,38,Colegiul Tehnic „Toma N. Socolescu”,Str. Gheorghe Grigore Cantacuzino (Str. 23 August) nr. 328,Ploiești,44.9386,25.9916
+118,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,226,66,90,35,0,104,18,52,229,70,83,40,0,99,24,50,Colegiul Tehnic „Elie Radu”,Șoseaua Vestului nr. 22,Ploiești,44.9403,25.9915
+119,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,221,70,110,34,1,65,28,71,220,75,108,37,0,66,34,67,Colegiul Tehnic „Elie Radu”,Șoseaua Vestului nr. 22,Ploiești,44.9403,25.9915
+120,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,142,62,63,12,0,49,23,46,143,62,62,13,1,50,27,41,Colegiul Tehnic „Elie Radu”,Șoseaua Vestului nr. 22,Ploiești,44.9403,25.9915
+121,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,241,69,70,34,0,93,43,86,249,71,75,39,0,93,41,67,Școala Gimnazială Profesor „Nicolae Simache”,Str. Malu Roșu nr. 102,Ploiești,44.942,26
+122,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,260,66,89,29,2,76,28,68,254,69,93,28,2,81,35,62,Școala Gimnazială Profesor „Nicolae Simache”,Str. Malu Roșu nr. 102,Ploiești,44.942,26
+123,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,219,57,78,30,2,69,32,53,224,61,80,30,0,72,28,41,Școala Gimnazială Profesor „Nicolae Simache”,Str. Malu Roșu nr. 102,Ploiești,44.942,26
+124,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,227,54,86,27,2,90,28,62,233,58,87,31,1,87,27,49,Școala Gimnazială „Nicolae Bălcescu”,Aleea Școlii nr. 2,Ploiești,44.9432,25.9984
+125,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,196,57,73,23,2,71,22,69,201,57,92,22,0,66,28,54,Școala Gimnazială „Nicolae Bălcescu”,Aleea Școlii nr. 2,Ploiești,44.9432,25.9984
+126,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,290,52,61,37,1,86,25,65,288,48,72,34,1,82,31,65,Școala Gimnazială „Nicolae Bălcescu”,Aleea Școlii nr. 2,Ploiești,44.9432,25.9984
+127,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,221,46,74,32,0,69,22,47,221,48,75,32,0,69,21,40,Școala Gimnazială „Nicolae Bălcescu”,Aleea Școlii nr. 2,Ploiești,44.9432,25.9984
+128,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,244,61,63,23,0,56,14,53,242,70,68,22,1,55,12,37,Grădinița cu Program Normal nr. 10 (fosta Grădiniță de Copii nr. 10),Aleea Secelenilor nr. 3,Ploiești,44.946,25.9969
+129,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,150,32,58,33,2,40,21,39,151,34,61,35,1,41,20,32,Grădinița cu Program Normal nr. 10 (fosta Grădiniță de Copii nr. 10),Aleea Secelenilor nr. 3,Ploiești,44.946,25.9969
+130,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,165,45,65,19,1,59,22,41,157,46,75,18,1,53,27,42,Grădinița cu Program Normal nr. 10 (fosta Grădiniță de Copii nr. 10),Aleea Secelenilor nr. 3,Ploiești,44.946,25.9969
+131,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,188,55,70,39,0,71,19,47,186,51,72,48,0,66,24,48,Europroiect (fosta S.C. Elco S.A.),Șoseaua Vestului nr. 26,Ploiești,44.949,25.9972
+132,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,218,78,84,37,0,87,32,66,228,82,77,37,0,89,31,61,Școala Gimnazială „Ion Creangă”,Str. 8 Martie nr. 2,Ploiești,44.9491,26.0044
+133,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,215,107,112,53,0,84,25,63,217,102,126,52,0,82,25,57,Școala Gimnazială „Ion Creangă”,Str. 8 Martie nr. 2,Ploiești,44.9491,26.0044
+134,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,215,107,91,58,0,93,33,79,216,111,99,59,0,80,42,80,Școala Gimnazială „Ion Creangă”,Str. 8 Martie nr. 2,Ploiești,44.9491,26.0044
+135,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,227,85,93,37,0,105,34,67,231,82,100,44,0,99,35,57,Școala Gimnazială „Ion Creangă”,Str. 8 Martie nr. 2,Ploiești,44.9491,26.0044
+136,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,199,119,95,46,0,71,41,91,189,118,109,48,0,74,45,83,Școala Gimnazială „Ion Creangă”,Str. 8 Martie nr. 2,Ploiești,44.9491,26.0044
+137,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,223,146,111,60,1,101,44,87,231,147,120,59,1,93,44,72,Școala Gimnazială „Andrei Mureșanu” (Școala Gimnazială „Andrei Mureșeanu”),Str. Trotuș nr. 4,Ploiești,44.9524,26.0082
+138,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,190,79,96,29,0,57,28,79,193,84,103,33,0,53,37,63,Școala Gimnazială „Andrei Mureșanu”,Str. Trotuș nr. 4,Ploiești,44.9524,26.0082
+139,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,154,68,72,29,1,55,24,50,157,66,75,32,0,56,27,45,Școala Gimnazială „Andrei Mureșanu”,Str. Trotuș nr. 4,Ploiești,44.9524,26.0082
+140,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,157,64,73,31,1,52,30,58,147,60,74,35,5,57,34,55,Școala Gimnazială „Henr. Mathias Berthelot”,Aleea Arinului nr. 2,Ploiești,44.9549,25.9993
+141,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,176,92,98,35,0,61,44,90,170,98,105,35,0,64,49,79,Școala Gimnazială „Henr. Mathias Berthelot”,Aleea Arinului nr. 2,Ploiești,44.9549,25.9993
+142,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,162,106,101,42,0,55,33,64,166,95,118,39,0,53,37,56,Școala Gimnazială „Henr. Mathias Berthelot”,Aleea Arinului nr. 2,Ploiești,44.9549,25.9993
+143,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,172,61,65,29,2,61,22,62,164,69,69,29,1,60,27,55,Școala Gimnazială „Grigore Moisil”,Aleea Laurilor nr. 2A,Ploiești,44.9558,26
+144,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,191,78,66,35,0,56,29,57,187,76,71,35,0,57,36,55,Școala Gimnazială „Grigore Moisil”,Aleea Laurilor nr. 2A,Ploiești,44.9558,26
+145,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,153,65,46,17,0,49,28,55,143,62,47,17,0,56,35,59,Colegiul Național „Nichita Stănescu”,Aleea Nalbei nr. 3,Ploiești,44.9582,26.0034
+146,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,151,64,56,21,0,52,29,57,155,61,59,20,0,47,32,56,Colegiul Național „Nichita Stănescu”,Aleea Nalbei nr. 3,Ploiești,44.9582,26.0034
+147,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,159,84,63,35,1,55,13,42,155,85,67,38,1,49,20,40,Colegiul Național „Nichita Stănescu”,Aleea Nalbei nr. 3,Ploiești,44.9582,26.0034
+148,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,220,66,81,36,0,77,21,70,220,67,89,36,0,79,21,60,Colegiul Național „Nichita Stănescu”,Aleea Nalbei nr. 3,Ploiești,44.9582,26.0034
+149,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,205,96,132,60,2,89,21,88,210,108,144,62,1,82,23,59,Policlinica Cina,Str. Andrei Mureșanu (Str. Poet Andrei Mureșanu) nr. 56,Ploiești,44.9522,26.0116
+150,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,223,95,99,47,0,69,19,74,227,97,103,49,0,62,29,67,Policlinica Cina,Str. Andrei Mureșanu (Str. Poet Andrei Mureșanu) nr. 56,Ploiești,44.9522,26.0116
+151,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,212,87,81,41,1,67,23,51,199,85,83,42,1,82,27,45,Liceul Tehnologic de Servicii „Sfântul Apostol Andrei”,Aleea Dedițel (Intrarea Dedițel) nr. 4,Ploiești,44.96,26.0065
+152,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,233,88,114,44,0,76,32,61,224,86,115,42,0,85,34,58,Liceul Tehnologic de Servicii „Sfântul Apostol Andrei”,Aleea Dedițel (Intrarea Dedițel) nr. 4,Ploiești,44.96,26.0065
+153,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,295,87,109,37,1,98,36,72,293,83,113,37,1,97,36,67,Liceul Tehnologic de Servicii „Sfântul Apostol Andrei”,Aleea Dedițel (Intrarea Dedițel) nr. 4,Ploiești,44.96,26.0065
+154,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,236,89,69,38,2,66,25,64,230,93,77,37,1,70,30,56,Liceul Tehnologic de Servicii „Sfântul Apostol Andrei”,Aleea Dedițel (Intrarea Dedițel) nr. 4,Ploiești,44.96,26.0065
+155,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,229,66,72,36,2,93,27,67,231,61,83,37,4,91,29,54,Liceul Tehnologic de Servicii „Sfântul Apostol Andrei”,Aleea Dedițel (Intrarea Dedițel) nr. 4,Ploiești,44.96,26.0065
+156,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,182,45,71,24,0,40,12,29,175,42,73,27,0,45,15,29,Școala Primară nr. 22 (fosta Școală Gimnazială „Mitică Apostol”),Str. Ciocârliei (Str. Ciocîrliei) nr. 7,Ploiești,44.9068,25.9826
+157,31,PRAHOVA,MUNICIPIUL PLOIEŞTI,43,1,16,2,0,9,1,7,44,2,18,1,0,8,1,5,Gara Ploiești Triaj,,Ploiești,44.9029,26.0128
+335,31,PRAHOVA,BLEJOI,246,31,54,20,1,25,23,54,245,33,57,21,0,26,21,46,"Grădinița cu Program Normal Ploieștiori, Sat Ploieștiori nr. 537",,Ploieștiori,44.9746,26.0247
+336,31,PRAHOVA,BLEJOI,232,119,102,46,1,34,28,66,237,120,100,53,1,37,28,60,"Căminul Cultural „Geo Bogza”, Sat Ploieștiori nr. 174 B",,Ploieștiori,44.9708,26.0279
+246,31,PRAHOVA,ORAŞ PLOPENI,286,51,185,33,1,39,25,55,282,52,184,35,2,44,32,53,Casa de Cultură Plopeni,Bulevardul Republicii nr. 2,Plopeni,45.0494,25.9536
+247,31,PRAHOVA,ORAŞ PLOPENI,268,36,156,27,0,45,30,55,267,37,167,25,0,53,30,44,Sala Polivalentă Plopeni,Bulevardul Republicii nr. 2A,Plopeni,45.0485,25.9537
+248,31,PRAHOVA,ORAŞ PLOPENI,258,50,111,26,0,41,31,48,249,53,111,26,0,45,38,51,Sala Polivalentă Plopeni,Bulevardul Republicii nr. 2A,Plopeni,45.0485,25.9537
+249,31,PRAHOVA,ORAŞ PLOPENI,219,40,128,28,1,38,21,46,222,41,127,33,1,37,25,38,Colegiul Tehnic „Gheorghe Lazăr” Plopeni,Bulevardul Republicii nr. 10,Plopeni,45.0443,25.9522
+250,31,PRAHOVA,ORAŞ PLOPENI,231,33,261,24,1,30,25,53,233,38,270,22,0,26,24,48,Colegiul Tehnic „Gheorghe Lazăr” Plopeni,Bulevardul Republicii nr. 10,Plopeni,45.0443,25.9522
+251,31,PRAHOVA,ORAŞ PLOPENI,275,28,276,22,1,38,16,42,275,30,266,24,1,44,20,41,Școala Gimnazială „Carol I” Plopeni,Bulevardul Republicii nr. 25,Plopeni,45.0427,25.9519
+405,31,PRAHOVA,DUMBRĂVEŞTI,269,16,87,21,0,44,34,55,275,15,88,20,0,41,33,55,Sala de Utilitate Publică,,Plopeni,45.0655,25.9784
+497,31,PRAHOVA,PLOPU,151,18,311,14,0,43,8,16,148,20,318,12,0,45,9,13,Grădinița cu Program Normal Plopu,,Plopu,45.0151,26.147
+311,31,PRAHOVA,BĂLŢEŞTI,154,17,318,20,2,60,12,34,161,18,327,19,1,57,13,29,Școala Podenii Vechi,,Podenii Vechi,45.09,26.1142
+575,31,PRAHOVA,TĂTARU,48,6,155,9,0,30,2,18,49,8,152,12,0,33,5,17,Camin Cultural,,Podgoria,45.1081,26.3091
+352,31,PRAHOVA,BREBU,28,1,42,3,0,0,5,8,28,1,43,3,0,1,5,8,"Școala Gimnazială Matei Basarab, Școală Primară Structură, Sat Podu Cheii nr. 12",,Podu Cheii,45.209,25.7486
+231,31,PRAHOVA,ORAŞ COMARNIC,117,6,16,3,0,20,3,9,115,6,16,4,0,22,4,8,Grădinița cu Program Normal Podul Lung,,Podu Lung,45.2231,25.6502
+206,31,PRAHOVA,ORAŞ BREAZA,280,45,90,18,0,40,20,49,285,46,84,16,0,47,20,45,Grădinița cu Program Normal Podu Vadului,Str. 23 August nr. 156,Podu Vadului,45.1463,25.6923
+229,31,PRAHOVA,ORAŞ COMARNIC,213,17,82,23,0,30,5,21,214,17,80,20,0,30,6,22,Școala Gimnazială Comarnic,,Poiana,45.2378,25.6492
+230,31,PRAHOVA,ORAŞ COMARNIC,163,15,67,20,1,41,10,22,165,17,68,17,2,39,9,20,Grădinița cu Program Normal Poiana,,Poiana,45.2352,25.6487
+446,31,PRAHOVA,GURA VITIOAREI,154,9,64,14,1,16,29,39,154,9,63,15,1,15,28,38,Școala Gimnazială Poiana Copaceni,Nr. 321,Poiana Copăceni,45.1638,26.0677
+505,31,PRAHOVA,POIANA CÂMPINA,164,14,210,41,2,31,7,26,165,14,210,43,3,30,10,25,Școala Gimnazială „Învățător Ion Mateescu” Poiana-Cămpina,Nr. 235,Poiana Câmpina,45.1316,25.7073
+506,31,PRAHOVA,POIANA CÂMPINA,218,34,211,30,0,21,12,31,219,38,205,33,0,24,13,30,Primăria Comunei Poiana-Câmpina,Nr. 462,Poiana Câmpina,45.1289,25.7116
+507,31,PRAHOVA,POIANA CÂMPINA,104,17,118,8,1,10,13,21,103,20,117,7,0,11,14,22,Biblioteca „Dimitrie Gusti” Comuna Poiana-Cămpina,Nr. 462,Poiana Câmpina,45.1289,25.7114
+618,31,PRAHOVA,VĂRBILĂU,185,1,33,8,0,10,9,34,192,9,36,9,0,8,9,19,Școala Primară Poiana Vărbilău,Nr. 126 B,Poiana Vărbilău,45.1522,25.9878
+433,31,PRAHOVA,GORGOTA,182,17,138,9,0,10,9,25,171,17,139,11,1,15,10,23,"Școala Gimnazială Sat Poienarii Apostoli, Comuna Gorgota",Nr. 88,Poienarii Apostoli,44.7723,26.053
+510,31,PRAHOVA,POIENARII BURCHII,121,3,198,17,0,17,4,18,124,5,195,15,0,19,6,18,Școala Gimanziala Poienarii Burchii,,Poienarii Burchii,44.7609,26.0009
+512,31,PRAHOVA,POIENARII BURCHII,136,18,133,8,1,28,5,25,137,16,132,10,1,31,8,21,Școala Poienarii Rali,,Poienarii Rali,44.7464,26.0443
+343,31,PRAHOVA,BRAZI,188,31,112,71,0,68,37,67,187,34,114,65,0,64,43,69,Punctul de Lucru al Primăriei Brazi din Satul Popești,Str. Portocalilor nr. 68,Popești,44.8579,25.9923
+503,31,PRAHOVA,PODENII NOI,53,5,41,3,0,23,3,8,57,4,41,2,0,21,5,9,Grădinița de Copii Popesti,,Popești,45.1067,26.2316
+234,31,PRAHOVA,ORAŞ COMARNIC,190,17,61,16,0,17,9,19,185,18,65,14,0,17,12,19,Grădinița cu Program Normal Posada,,Posada,45.2709,25.6229
+432,31,PRAHOVA,GORGOTA,122,113,166,10,0,21,16,32,118,109,173,11,0,22,13,28,"Școala Gimnazială Sat Potigrafu, Comuna Gorgota",Nr. 375,Potigrafu,44.785,26.0981
+519,31,PRAHOVA,PREDEAL-SĂRARI,175,4,22,13,0,18,5,14,169,7,23,12,0,17,6,16,Școala Gimnazială „Mănăstireanu Mihai” Predeal,Nr. 203,Predeal,45.1887,26.1014
+585,31,PRAHOVA,TINOSU,98,11,78,12,0,9,9,21,105,12,74,13,0,8,7,19,"Școala Primară Sat Predești, Localitatea Predești",Nr. 256,Predești,44.8033,25.9919
+522,31,PRAHOVA,PROVIŢA DE JOS,112,13,60,17,0,19,28,37,121,14,59,15,0,15,31,36,Școala Gimnazială Provita de Jos,Nr. 170,Provița de Jos,45.1191,25.6687
+524,31,PRAHOVA,PROVIŢA DE SUS,535,14,59,14,0,12,11,16,534,12,62,13,0,9,12,21,Școala Gimnazială cu Clasele I-VIII „Mitropolit Pimen Georgescu” Provița de Sus,Nr. 369,Provița de Sus,45.1359,25.6355
+264,31,PRAHOVA,ORAŞ SLĂNIC,258,23,111,16,0,12,8,31,256,22,114,16,0,17,10,24,Școala Prăjani,Nr. 244,Prăjani,45.2037,25.949
+526,31,PRAHOVA,PUCHENII MARI,98,21,177,17,1,25,7,20,100,21,173,17,0,23,8,19,"Școala Gimnazială, Comuna Puchenii Mari",Nr. 1,Puchenii Mari,44.8265,26.0801
+529,31,PRAHOVA,PUCHENII MARI,128,14,165,18,0,21,9,17,119,16,171,15,1,21,10,18,Școala Gimnazială Puchenii Mosneni,Nr. 361,Puchenii Moșneni,44.8111,26.0853
+319,31,PRAHOVA,BĂRCĂNEŞTI,48,5,24,7,0,7,3,10,46,5,29,4,0,7,4,10,Sediul Fostei Școli cu Clasele I-IV Pușcași,Nr. 14,Pușcași,44.8499,26.0893
+490,31,PRAHOVA,PĂCUREŢI,241,6,24,8,1,21,6,17,247,7,26,9,1,19,7,20,Grădinița cu Program Normal Păcureți,Nr. 112,Păcureți,45.1447,26.1307
+492,31,PRAHOVA,PĂULEŞTI,248,71,80,40,1,41,47,82,254,67,91,39,2,41,40,67,Școala Generală cu Cl.I-VIII Arh.Toma T.Socolescu Paulesti,,Păulești,45.0006,25.9692
+493,31,PRAHOVA,PĂULEŞTI,213,85,117,42,0,51,53,87,213,98,122,40,0,45,46,78,Centrul Cultural Arh.Toma T.Socolescu Paulesti,,Păulești,45.0042,25.9633
+606,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,252,11,20,9,2,42,5,15,254,9,18,12,1,45,4,12,Școala Gimnazială Rachieri,Nr. 16A,Rachieri,44.9555,26.1239
+604,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,34,1,8,3,0,39,8,15,32,1,8,3,0,42,8,13,Grădinița Radila,Nr. 75,Radila,44.9216,26.1753
+320,31,PRAHOVA,BĂRCĂNEŞTI,141,25,85,25,1,33,9,73,156,23,96,26,1,25,14,65,Școala Gimnazială Românești,Nr. 96-97,Românești,44.8599,26.0688
+366,31,PRAHOVA,CEPTURA,91,2,24,13,0,23,3,11,87,2,26,12,0,27,3,10,Școala cu Clasele I-VIII Rotari,,Rotari,45.055,26.2933
+538,31,PRAHOVA,RÎFOV,62,1,12,4,0,13,3,5,62,2,12,4,0,11,3,6,Fostul Sediu al Primariei,Nr. sat Rifov de la nr.1-133,Râfov,44.8726,26.1295
+540,31,PRAHOVA,SALCIA,183,6,56,7,0,24,2,16,185,6,58,5,0,23,2,15,Școala Gimnazială,Nr. 195,Salcia,45.1832,26.3242
+307,31,PRAHOVA,BABA ANA,21,0,13,0,0,4,2,5,22,1,14,0,0,3,2,2,Școala cu Clasele I-IV Satu Nou,Nr. 9,Satu Nou,44.9571,26.5297
+457,31,PRAHOVA,IZVOARELE,246,6,47,7,0,6,27,48,245,8,48,6,0,3,26,49,Școala Gimnazială Schiulești,Nr. 118,Schiulești,45.2847,25.9521
+543,31,PRAHOVA,SCORŢENI,162,25,77,19,0,34,41,64,153,24,83,24,0,35,43,65,Școala Gimnazială Scorteni,Nr. 7,Scorțeni,45.0924,25.8492
+571,31,PRAHOVA,ŞTEFEŞTI,147,7,41,6,0,11,5,10,148,11,40,6,1,11,6,8,Grădinița de Copii,,Scurtești,45.2459,25.894
+205,31,PRAHOVA,ORAŞ BOLDEŞTI-SCĂENI,173,14,67,19,0,30,10,19,178,15,63,21,0,28,14,21,Școala Primară Seciu,,Seciu,45.0343,26.0683
+567,31,PRAHOVA,ŞOTRILE,48,1,19,15,0,3,7,13,51,1,22,13,0,1,7,11,Școala Sat Seciuri nr. 17,,Seciuri,45.231,25.7278
+547,31,PRAHOVA,SECĂRIA,328,8,65,17,0,23,7,13,328,7,61,17,0,22,9,16,Camin Cultural Secaria,Str. Comarnicului nr. 2,Secăria,45.2724,25.6851
+406,31,PRAHOVA,DUMBRĂVEŞTI,99,7,19,10,1,8,8,20,103,7,18,11,1,7,9,17,Fosta Școală Sat Sfârleanca,,Sfârleanca,45.0966,26.0093
+537,31,PRAHOVA,RÎFOV,75,3,25,26,0,5,10,14,78,2,26,25,0,4,9,12,Școala Primară Sicrita,Nr. sat Sicrita de la nr. 1-185,Sicrita,44.8409,26.1911
+252,31,PRAHOVA,ORAŞ SINAIA,220,63,94,44,0,28,16,50,220,63,98,42,0,38,14,41,Colegiul „Mihail Cantacuzino” Sala Ap.1,Calea București nr. 40,Sinaia,45.3287,25.5623
+253,31,PRAHOVA,ORAŞ SINAIA,169,68,75,41,1,41,25,56,174,62,82,41,1,44,25,46,Colegiul „Mihail Cantacuzino” Sala Ap.2,Calea București nr. 40,Sinaia,45.3287,25.5623
+254,31,PRAHOVA,ORAŞ SINAIA,145,33,83,20,1,35,13,38,149,32,87,21,2,33,13,31,Școala Gimnazială „Principesa Maria” Corp B,Nr. 25,Sinaia,45.3305,25.5591
+255,31,PRAHOVA,ORAŞ SINAIA,123,43,73,28,1,30,17,34,119,39,78,29,1,35,21,37,Școala Gimnazială „Principesa Maria” Corp A,Calea Moroieni nr. 25,Sinaia,45.3305,25.5591
+256,31,PRAHOVA,ORAŞ SINAIA,175,61,104,51,0,38,19,42,188,59,92,48,0,44,18,41,Școala Gimnazială „Principesa Maria” Corp A,Nr. 25,Sinaia,45.3305,25.5591
+257,31,PRAHOVA,ORAŞ SINAIA,212,71,71,37,2,35,9,45,203,67,74,40,2,45,8,44,Imobil Proprietate Oras Sinaia,Nr. 20,Sinaia,45.339,25.5511
+258,31,PRAHOVA,ORAŞ SINAIA,145,48,67,17,0,20,6,21,150,49,68,16,0,17,8,19,Clubul Sportiv Carpați - Sala de Sport,Bulevardul Carol I (Bulevardul Carpați) nr. 40,Sinaia,45.3474,25.5467
+259,31,PRAHOVA,ORAŞ SINAIA,97,29,51,19,0,16,12,30,91,27,61,21,0,20,13,20,Școala Gimnazială „George Enescu” Sala 3 B,Bulevardul Carol I (Bulevardul Carpați) nr. 36,Sinaia,45.3476,25.5473
+260,31,PRAHOVA,ORAŞ SINAIA,132,60,80,36,1,34,15,43,134,57,82,33,0,35,19,42,Școala Gimnazială „George Enescu” Sala I B,Bulevardul Carol I (Bulevardul Carpați) nr. 36,Sinaia,45.3476,25.5473
+261,31,PRAHOVA,ORAŞ SINAIA,102,32,56,9,3,23,11,34,102,32,58,9,2,28,12,25,Centrul Cultural „Carmen Sylva”,Nr. 80,Sinaia,45.3516,25.5473
+262,31,PRAHOVA,ORAŞ SINAIA,82,47,82,19,0,16,9,37,87,47,82,21,0,14,8,31,Centrul de Acțiune și Informare Comunitara,Str. Furnica nr. 32,Sinaia,45.3555,25.5432
+263,31,PRAHOVA,ORAŞ SINAIA,83,22,73,27,1,10,11,42,94,23,80,20,2,10,13,30,Centrul International de Conferințe Casino,Bulevardul Carol I (Bulevardul Carpați) nr. 2,Sinaia,45.3551,25.5532
+370,31,PRAHOVA,CERAŞU,200,11,49,12,0,11,8,21,207,9,48,13,0,8,8,23,Școala Gimnazială Slon,Nr. 22 J,Slon,45.3533,26.0407
+371,31,PRAHOVA,CERAŞU,263,11,18,9,3,13,7,45,271,9,20,9,5,17,9,23,Școala Gimnazială Slon,Nr. 22 J,Slon,45.3533,26.0407
+265,31,PRAHOVA,ORAŞ SLĂNIC,235,21,136,44,1,26,18,34,233,19,143,40,0,34,15,30,Liceul Teoretic „Șerban Vodă”,Str. Slănicului nr. 11,Slănic,45.2336,25.9394
+266,31,PRAHOVA,ORAŞ SLĂNIC,215,18,136,19,0,25,21,49,209,14,147,20,0,31,25,42,Liceul Teoretic „Șerban Vodă”,Str. Slănicului nr. 11,Slănic,45.2336,25.9394
+553,31,PRAHOVA,STARCHIOJD,235,14,65,26,0,32,19,30,232,14,64,28,0,30,19,31,Grădinița de Copii din Satul Starchiojd,,Starchiojd,45.3257,26.185
+554,31,PRAHOVA,STARCHIOJD,220,12,43,12,0,19,17,28,224,11,46,13,0,18,18,26,Grădinița de Copii din Gîrbeasca,,Starchiojd,45.3248,26.1786
+346,31,PRAHOVA,BRAZI,40,0,38,65,0,15,3,12,41,3,36,66,0,13,3,12,Fostul Sediu al Școlii Gimnaziale din Satul Stejaru,Str. Haiducilor nr. 75,Stejaru,44.8368,25.9617
+300,31,PRAHOVA,ARICEŞTII RAHTIVANI,169,20,79,22,0,40,16,29,164,18,80,24,0,47,19,33,Școala Gimnazială Sat Stoenești nr. 14,,Stoenești,44.9273,25.8605
+587,31,PRAHOVA,TÎRGŞORU VECHI,179,50,315,32,1,49,13,28,174,56,310,32,1,55,11,26,Baza Sportiva Conpet,Str. Aeroclubului nr. 1,Strejnicu,44.9202,25.962
+588,31,PRAHOVA,TÎRGŞORU VECHI,181,51,224,19,0,32,10,26,177,52,226,20,1,35,9,26,Grădinița cu Program Normal Strejnicu,Str. Principală nr. 179,Strejnicu,44.9174,25.956
+589,31,PRAHOVA,TÎRGŞORU VECHI,134,39,215,19,0,32,17,37,137,40,211,20,0,35,16,29,Școala Gimnazială Strejnicu,Str. Principală nr. 206,Strejnicu,44.9158,25.9488
+590,31,PRAHOVA,TÎRGŞORU VECHI,72,13,112,11,0,10,5,21,71,13,111,12,0,9,6,16,Căminul Cultural Strejnicu,Str. Școlii nr. 2,Strejnicu,44.9165,25.9494
+593,31,PRAHOVA,TÎRGŞORU VECHI,95,3,83,4,0,16,8,15,97,2,92,5,0,15,8,17,Școala Generală cu Clasele I-IV Stăncești,Str. Școlii nr. 10,Stăncești,44.8556,25.9141
+556,31,PRAHOVA,SURANI,171,18,426,12,0,45,6,27,164,22,435,11,1,39,10,24,Școala Primară,,Surani,45.1966,26.1883
+548,31,PRAHOVA,SÎNGERU,53,6,61,5,0,17,2,18,59,9,58,5,0,18,6,10,Liceul Tehnologic,Nr. 83,Sângeru,45.1306,26.3375
+549,31,PRAHOVA,SÎNGERU,72,11,60,5,0,21,3,6,68,9,61,6,0,28,2,6,Liceul Tehnologic,Nr. 83,Sângeru,45.1306,26.3375
+546,31,PRAHOVA,SCORŢENI,114,14,106,11,0,34,5,49,115,15,103,13,0,33,5,52,Școala Gimnazială Bordeni,Nr. 12,Sârca,45.0847,25.8641
+541,31,PRAHOVA,SĂLCIILE,134,3,161,25,0,7,11,22,138,2,161,23,2,10,11,19,Școala Noua,Nr. 351,Sălciile,44.8164,26.4876
+542,31,PRAHOVA,SĂLCIILE,96,4,152,9,0,5,8,28,98,2,148,12,0,7,10,20,Caminul Cultural,Nr. 350,Sălciile,44.816,26.4877
+501,31,PRAHOVA,PODENII NOI,102,15,69,9,0,28,10,29,101,18,68,15,0,28,10,20,Școala cu Clasele I-VIII Podenii Noi,,Sălcioara,45.1107,26.1684
+573,31,PRAHOVA,TALEA,334,10,64,26,0,7,9,25,340,12,63,25,0,8,11,22,Școala Gimnazială Talea,Nr. 53,Talea,45.2254,25.5642
+576,31,PRAHOVA,TEIŞANI,254,27,129,19,0,27,10,32,249,27,124,27,0,30,11,31,"Școala Gimnazială „Dumitru Brezeanu”, Sat Teișani nr. 160",Nr. 160,Teișani,45.2395,26.0095
+579,31,PRAHOVA,TELEGA,215,28,66,21,0,28,23,47,213,29,66,22,0,31,26,45,Școala Gimnazială nr. 1 Telega,,Telega,45.1397,25.7896
+580,31,PRAHOVA,TELEGA,273,54,80,33,0,14,22,58,275,48,88,34,0,17,22,52,Școala Generală nr. 2 Telega-Vale,,Telega,45.1215,25.7884
+581,31,PRAHOVA,TELEGA,248,29,56,20,0,29,13,38,236,33,61,19,0,33,13,36,Grădinița nr. 1 Telega,,Telega,45.1403,25.7908
+609,31,PRAHOVA,VALEA DOFTANEI,106,14,141,29,0,10,12,26,106,13,146,28,0,9,12,23,Liceul Tehnologic „Carol I” Valea Doftanei,Str. Calea Doftanei nr. 377,Teșila,45.3031,25.7217
+612,31,PRAHOVA,VALEA DOFTANEI,84,20,119,10,1,7,10,17,88,21,117,9,0,6,11,16,Grădinița nr. 1 Teșila,Str. Calea Doftanei nr. 155,Teșila,45.3033,25.722
+613,31,PRAHOVA,VALEA DOFTANEI,94,16,95,16,0,13,8,25,96,18,97,13,0,14,10,24,Grădinița nr. 2 Teșila,Str. Lunca Doftanei nr. 37,Teșila,45.2909,25.7227
+584,31,PRAHOVA,TINOSU,124,16,122,16,0,30,6,19,128,16,121,14,0,29,11,19,"Căminul Cultural Tinosu, Localitatea Tinosu",Nr. 348,Tinosu,44.8185,26.0187
+552,31,PRAHOVA,SÎNGERU,51,3,54,2,1,3,4,9,52,4,55,1,1,5,2,5,Grădinița cu Program Normal,Nr. 82B,Tisa,45.1343,26.3261
+594,31,PRAHOVA,TOMŞANI,325,15,42,16,0,24,10,22,330,16,39,15,1,28,7,20,"Cămin Cultural Tomșani, Sat Magula nr. 6a",,Tomșani,44.9367,26.2952
+373,31,PRAHOVA,CHIOJDEANCA,137,0,18,5,0,6,1,11,141,5,13,6,0,6,1,6,Școala Trenu,Nr. 51,Trenu,45.183,26.2686
+623,31,PRAHOVA,VÎLCĂNEŞTI,51,4,48,2,0,11,6,18,53,4,50,3,0,11,5,14,Biblioteca Sătească Trestioara,Nr. 162B,Trestioara,45.1421,25.9446
+610,31,PRAHOVA,VALEA DOFTANEI,86,18,130,6,0,9,4,12,81,17,138,4,0,10,5,11,Primăria Trăisteni,Str. Nicolae Grigorescu nr. 561,Trăisteni,45.3379,25.726
+611,31,PRAHOVA,VALEA DOFTANEI,137,7,143,17,0,5,14,21,136,8,143,15,0,6,15,20,Școala cu Clasele I-VIII „Erou Inv.I.Drăgănescu” Trăisteni,Str. Nicolae Grigorescu nr. 53,Trăisteni,45.3376,25.7274
+301,31,PRAHOVA,ARICEŞTII RAHTIVANI,217,19,37,19,1,16,9,26,219,19,34,22,1,17,10,19,Grădinița cu Program Normal Tîrgșoru Nou nr. 175,,Târgșoru Nou,44.9155,25.8789
+591,31,PRAHOVA,TÎRGŞORU VECHI,95,11,148,15,2,31,6,18,96,10,145,20,1,29,9,19,Școala Gimnazială Tirgșoru Vechi,Str. Principală nr. 95,Târgșoru Vechi,44.8784,25.9206
+592,31,PRAHOVA,TÎRGŞORU VECHI,114,7,111,6,0,12,7,14,106,9,108,7,1,17,7,14,Grădinița cu Program Normal Tîrgșoru Vechi,Str. Principală nr. 136,Târgșoru Vechi,44.8735,25.9179
+518,31,PRAHOVA,POSEŞTI,115,4,16,2,2,14,8,15,113,4,19,4,2,16,6,12,Fosta Școală Generală cu Clasele I-IV din Satul Târlești,Nr. 294,Târlești,45.2506,26.1863
+557,31,PRAHOVA,ŞIRNA,121,5,79,24,1,13,11,24,127,7,77,23,1,11,13,21,"Școala Gimnazială, Sat Tăriceni",Nr. 160,Tăriceni,44.7964,25.9681
+558,31,PRAHOVA,ŞIRNA,78,9,48,13,0,11,8,12,78,7,51,14,0,9,7,12,"Școala Gimnazială, Sat Tăriceni",Nr. 160,Tăriceni,44.7964,25.9681
+574,31,PRAHOVA,TĂTARU,23,2,59,12,0,56,2,9,23,3,56,8,0,65,2,9,Camin Cultural,,Tătaru,45.1021,26.3396
+321,31,PRAHOVA,BĂRCĂNEŞTI,181,27,70,28,0,28,16,32,178,26,74,29,0,29,13,30,Școala Gimnazială Tătărani,Nr. 26B,Tătărani,44.8981,26.0325
+322,31,PRAHOVA,BĂRCĂNEŞTI,160,58,78,31,0,31,19,51,175,56,80,28,0,31,17,44,Școala Gimnazială Tătărani,Nr. 26B,Tătărani,44.8981,26.0325
+514,31,PRAHOVA,POIENARII BURCHII,92,1,46,4,0,6,0,2,89,1,45,5,0,7,0,4,Camin Cultural Tatarai,,Tătărăi,44.7372,25.9287
+268,31,PRAHOVA,ORAŞ URLAŢI,244,27,190,32,1,65,22,45,243,28,188,31,2,63,24,47,Grădinița de Copii cu Program Prelungit „Clopoțica” Orașul Urlați,Str. Tudor Vladimirescu nr. 2,Urlați,44.9902,26.2327
+269,31,PRAHOVA,ORAŞ URLAŢI,253,47,142,44,0,49,24,45,252,45,145,45,0,43,28,45,Liceul Teoretic „Brâncoveanu Vodă” Orașul Urlati (Cladirea Veche),Str. 1 Mai nr. 73,Urlați,44.9883,26.2341
+270,31,PRAHOVA,ORAŞ URLAŢI,245,23,125,25,0,55,14,38,233,23,130,22,0,60,19,40,Liceul Teoretic „Brâncoveanu Vodă” Orașul Urlați,Str. 1 Mai nr. 30,Urlați,44.9866,26.2341
+271,31,PRAHOVA,ORAŞ URLAŢI,251,23,172,18,1,63,15,30,248,21,177,21,0,62,17,30,Școala Gimnazială „Cănuță Ionescu” Orașul Urlati,Str. Viitor nr. 1,Urlați,44.9904,26.2307
+272,31,PRAHOVA,ORAŞ URLAŢI,262,32,115,43,0,47,16,38,259,33,112,44,0,58,20,36,Casa de Cultură Orașul Urlați,Str. Tudor Vladimirescu nr. 47,Urlați,44.9947,26.2302
+273,31,PRAHOVA,ORAŞ URLAŢI,103,7,52,9,0,12,3,11,98,6,59,10,1,11,5,12,Grădinița cu Program Normal „Jercălăi” Orașul Urlați,Str. Jercălăi nr. 54,Urlați,45.0211,26.2224
+274,31,PRAHOVA,ORAŞ URLAŢI,88,4,114,8,0,14,4,18,92,4,113,10,0,17,4,12,Grădinița cu Program Normal „Valea Urloi” Orașul Urlați,Str. Valea Urloii,Urlați,45.0019,26.2832
+314,31,PRAHOVA,BĂNEŞTI,267,49,97,13,0,22,7,38,262,53,109,14,0,23,7,26,Școala Gimnazială „Ioan Duhovnicul” Bănești,Nr. 117,Urleta,45.0889,25.7899
+315,31,PRAHOVA,BĂNEŞTI,296,21,51,14,0,23,8,24,295,22,51,15,0,22,9,26,Școala Gimnazială „Ioan Duhovnicul” Bănești,Nr. 495,Urleta,45.0859,25.7942
+288,31,PRAHOVA,ALBEŞTI-PALEOLOGU,163,14,131,15,1,151,13,25,164,15,130,18,1,155,16,24,Școala Gimnazială Clasele I-VIII Sat Vadu Părului,,Vadu Părului,44.9327,26.2075
+597,31,PRAHOVA,VADU SĂPAT,354,68,93,11,1,16,29,39,356,70,87,12,2,12,33,41,"Școală Gimnazială Vadu Săpat, Comuna Vadu Săpat, Sat Vadu Săpat",Nr. 255,Vadu Săpat,45.0373,26.3877
+555,31,PRAHOVA,STARCHIOJD,108,2,36,1,0,6,15,19,104,1,38,1,1,7,13,15,Școala din Satul Valea Anei,,Valea Anei,45.3138,26.1935
+369,31,PRAHOVA,CERAŞU,193,7,40,8,0,9,4,17,190,6,38,12,0,11,3,15,Școala Gimnazială Valea Borului,Nr. 11-13 J,Valea Borului,45.3054,26.0364
+451,31,PRAHOVA,IORDĂCHEANU,155,14,46,10,0,53,9,32,151,17,49,11,0,54,9,27,Clădire Nouă - Fost Sediu C.A.P.,Nr. 44 B,Valea Cucului,45.0463,26.225
+599,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,234,31,44,14,0,106,22,53,226,30,48,16,0,110,25,50,Școala Gimnazială Ion Ionescu Valea Calugareasca,Nr. 46,Valea Călugărească,44.9623,26.1485
+600,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,102,16,38,11,0,116,9,18,103,18,35,13,0,117,9,15,Școala Gimnazială Ion Ionescu Valea Calugareasca,Nr. 46,Valea Călugărească,44.9623,26.1485
+502,31,PRAHOVA,PODENII NOI,127,7,53,13,0,39,23,34,132,7,50,14,0,43,22,31,Camin Cultural Valea-Dulce,,Valea Dulce,45.1144,26.2065
+608,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,16,0,1,1,0,2,4,6,18,0,1,1,0,2,4,6,Cabana de Vanatoare,Nr. 90,Valea Mantei,44.9936,26.1671
+601,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,171,19,58,30,0,48,15,34,171,18,59,28,0,51,15,32,Școala Gimnazială Nicovani,Nr. 195,Valea Nicovani,44.9575,26.1812
+517,31,PRAHOVA,POSEŞTI,205,2,11,2,1,18,14,21,204,3,12,3,1,14,15,20,Școala Generală cu Clasele I-VIII din Satul Valea Plopului,Nr. 144,Valea Plopului,45.296,26.1661
+607,31,PRAHOVA,VALEA CĂLUGĂREASCĂ,104,22,29,15,0,53,13,29,107,22,32,14,0,51,14,27,Colegiul Agricol Gheorghe Ionescu Sisesti,Nr. 179,Valea Popii,44.9603,26.1393
+577,31,PRAHOVA,TEIŞANI,65,8,32,5,0,4,4,6,61,10,32,3,0,6,5,6,"Școala Mali Auto Expres S.R.L., Sat Valea Stîlpului nr. 58",Nr. 58,Valea Stâlpului,45.2179,26.0352
+217,31,PRAHOVA,ORAŞ BREAZA,169,20,88,11,0,14,11,26,175,20,88,11,1,10,12,27,Școala Gimnazială Valea Târsei,Str. Ocinei nr. 181,Valea Târsei,45.1817,25.6332
+560,31,PRAHOVA,ŞIRNA,79,2,81,7,0,7,1,6,85,5,74,8,1,5,2,6,"Școala Gimnazială, Sat Varnița",Nr. 329,Varnița,44.8027,25.946
+569,31,PRAHOVA,ŞOTRILE,86,5,40,3,0,4,1,4,83,6,43,4,0,4,1,5,Școala Sat Vistieru nr. 25,,Vistieru,45.2225,25.6999
+521,31,PRAHOVA,PREDEAL-SĂRARI,184,19,56,6,0,6,7,21,186,19,56,5,0,10,10,19,Școala Gimnazială Vitioara de Sus,Nr. 57,Vitioara de Sus,45.1736,26.0904
+384,31,PRAHOVA,COLCEAG,40,1,6,2,0,15,17,42,53,2,10,1,0,28,15,23,Școala Primară Vilcelele - Colceag - Structura,Nr. 1-224,Vâlcelele,44.9398,26.3746
+620,31,PRAHOVA,VÎLCĂNEŞTI,206,14,167,25,1,27,21,44,195,18,174,26,1,26,25,49,Centrul Cultural Vîlcănești,Nr. 670B,Vâlcănești,45.12,25.939
+621,31,PRAHOVA,VÎLCĂNEŞTI,145,9,88,8,0,24,4,20,142,8,89,7,0,26,5,20,Grădinița cu Program Normal nr. 2 Vîlcănești,Nr. 477B,Vâlcănești,45.1206,25.9204
+275,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,250,42,55,37,1,25,19,40,247,45,59,31,1,30,18,39,Primăria Vălenii de Munte (Casa Căsătoriilor),Str. Berevoești nr. 3A,Vălenii de Munte,45.187,26.0392
+276,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,290,32,76,24,0,39,28,58,283,31,84,26,1,45,35,56,Casa de Cultură (Sala Mică),Str. Berevoești nr. 9,Vălenii de Munte,45.1873,26.0385
+277,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,253,29,60,36,1,16,18,34,251,30,61,36,2,24,17,28,Casa de Cultură (Foaier),Str. Berevoești nr. 9,Vălenii de Munte,45.1873,26.0385
+278,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,199,45,51,24,0,30,31,48,195,48,54,24,1,37,23,37,Clubul Copiilor,Str. Berceni nr. 1,Vălenii de Munte,45.1867,26.0411
+279,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,280,44,79,53,3,29,32,51,278,49,78,52,2,32,25,47,Școala Gimnazială „Inginer Gheorghe Pănculescu”,Str. Berceni nr. 18,Vălenii de Munte,45.1826,26.04
+280,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,356,39,75,48,0,41,19,45,353,40,79,43,0,50,17,40,Grădinița cu Program Normal nr. 1,Str. Berceni nr. 20,Vălenii de Munte,45.1813,26.0395
+281,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,293,24,37,19,1,35,16,49,290,27,44,23,1,42,20,33,Grădinița cu Program Normal nr. 4,Bulevardul Nicolae Iorga nr. 96,Vălenii de Munte,45.1887,26.0423
+282,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,242,34,54,26,0,26,22,37,238,37,54,25,0,32,21,32,Liceul Tehnologic Agromontan „Romeo Constantinescu”,Str. Brazilor nr. 1,Vălenii de Munte,45.1916,26.044
+283,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,258,33,85,35,0,34,17,38,255,39,79,36,0,36,22,37,Școala Primară nr. 4 (Miulești),Bulevardul Nicolae Iorga nr. 188,Vălenii de Munte,45.1992,26.0448
+284,31,PRAHOVA,ORAŞ VĂLENII DE MUNTE,253,9,39,21,0,14,12,25,252,8,44,19,0,23,9,17,Școala Primară nr. 2 (Valea Gardului),Str. Dr. Istrate nr. 2,Vălenii de Munte,45.1788,26.0642
+452,31,PRAHOVA,IORDĂCHEANU,149,3,76,5,0,57,2,34,152,4,87,6,0,57,3,23,Școala Vărbila,Nr. 236,Vărbila,45.0452,26.1925
+614,31,PRAHOVA,VĂRBILĂU,226,8,39,13,0,12,9,23,212,10,39,12,0,18,15,27,Școala Primară Vărbilău,Nr. 191 A,Vărbilău,45.18,25.9652
+615,31,PRAHOVA,VĂRBILĂU,202,10,21,1,0,8,11,19,205,9,20,4,0,5,13,21,Școala Primară Vărbilău,Nr. 191 A,Vărbilău,45.18,25.9652
+616,31,PRAHOVA,VĂRBILĂU,246,9,36,14,0,19,15,57,274,12,38,16,0,21,14,21,Școala Gimnazială Vărbilău,Nr. 667 C,Vărbilău,45.1783,25.9578
+484,31,PRAHOVA,MĂNEŞTI,110,16,123,10,0,11,7,19,112,15,119,11,0,11,9,19,Sală Multifuncțională Zalhanaua,Nr. 298,Zalhanaua,44.9021,25.829
+464,31,PRAHOVA,LIPĂNEŞTI,132,16,79,16,0,51,14,30,135,16,80,19,0,52,14,24,Școala Gimnazială „Spirea Sorescu” Zamfira,Nr. 234,Zamfira,45.0676,26.0247
+520,31,PRAHOVA,PREDEAL-SĂRARI,51,2,5,1,0,5,1,6,52,1,6,2,0,6,1,4,Școala Elementară Zîmbroaia,Nr. 111,Zâmbroaia,45.1995,26.1259
+402,31,PRAHOVA,DUMBRAVA,99,6,270,5,0,29,3,14,100,4,274,5,0,25,4,15,Cămin Cultural Localitatea Zănoaga,,Zănoaga,44.8664,26.1622
+462,31,PRAHOVA,LIPĂNEŞTI,145,18,80,20,0,5,8,17,143,17,83,22,0,8,10,18,Școala Gimnazială „Eroilor” Lipanesti,Nr. 177,Șipotu,45.0467,26.0186
+463,31,PRAHOVA,LIPĂNEŞTI,131,15,103,10,0,20,14,35,128,16,104,13,0,23,16,30,Școala Gimnazială „Eroilor” Lipanesti,Nr. 177,Șipotu,45.0467,26.0186
+559,31,PRAHOVA,ŞIRNA,69,6,81,12,0,4,4,12,64,7,87,8,0,5,6,12,"Școala Primară, Sat Șirna",Nr. 33A,Șirna,44.8006,25.9582
+564,31,PRAHOVA,ŞOIMARI,244,4,71,12,1,35,7,21,246,8,70,12,1,32,7,17,Școala Gimnazială „Minerva Alexandrescu”,,Șoimari,45.1758,26.2121
+365,31,PRAHOVA,CEPTURA,126,9,28,6,0,31,6,10,127,7,29,4,0,32,7,10,Grădinița de Copii Soimesti,,Șoimești,45.0403,26.3093
+570,31,PRAHOVA,ŞOTRILE,134,7,42,7,0,9,11,13,133,9,45,5,0,8,12,14,"Școala Gimnazială, Sat Sotrile nr. 364",,Șotrile,45.2122,25.715
+572,31,PRAHOVA,ŞTEFEŞTI,274,26,77,19,0,17,16,27,267,30,82,16,1,20,15,24,Școala Gimnazială Stefesti,,Ștefești,45.2316,25.9047
+337,31,PRAHOVA,BLEJOI,228,58,80,31,0,47,27,61,239,56,83,31,0,51,22,48,"Grădinița cu Program Normal Țînțăreni, Sat Țînțăreni nr. 232 E",,Țânțăreni,44.9674,26.0313

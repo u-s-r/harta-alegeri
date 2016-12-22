@@ -1,273 +1,132 @@
 import d3 from 'd3';
 import Chart from 'chart.js';
-import { getPointsByCity, calculatePointsVotes, toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
+import { mergePointsByCriterion, getPointsByCriterion, generatePie, getPointsByCity, calculatePointsVotes, toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
 import { reduce, maxBy } from 'lodash';
 
-export const clearDetails = () => {
-  d3.select('.info-content').remove();
-  d3.select('.info-container').classed('dn', true);
+const sum = (d) => Object.keys(d).reduce((total, party) => (total + parseInt(d[party])), 0);
+
+export const clearResults = () => {
   d3.select('.results-container').remove();
 }
 
-let sum = (d) => Object.keys(d).reduce((total, party) => (total + parseInt(d[party])), 0);
-export const getResultsBoxSelection = (data, title) => {
-  d3.select('.results-container').remove();
+export const getResultsBoxSelection = (data, title = 0) => {
+  clearResults();
 
   let resultsBoxSelection = d3.select('.results-box')
-    .selectAll('div')
-    .data(data)
-    .enter()
     .append('div')
-      .attr('class', 'results-container');
+    .attr('class', 'results-container pa3');
 
-  resultsBoxSelection
-    .append('div')
-      .attr('class', 'f4 mv2 mt3 lh-solid')
-      .text(title)
+  if (title) {
+    resultsBoxSelection
+      .append('div')
+        .attr('class', 'f4 tc cf mv2 mb2 lh-solid')
+        .html(title);
+  }
 
-  return resultsBoxSelection;
+  return resultsBoxSelection
+    .selectAll('.results')
+      .data(data)
+      .enter()
+        .append('div')
+        .attr('class', 'results');
 }
 
-export const drawResults = (containerSelection) => {
+export const drawResults = (containerSelection, summary = true) => {
   d3.select('.results-box').classed('dn', false);
   d3.select('.results-box').classed('db', true);
 
-  let legenda = containerSelection.append('div')
-    .attr('class', 'f5 cf')
-    .html('<div class="fl">Legendă:</div>')
-    .selectAll('span')
-    .data(Object.keys(partyColors))
-    .enter()
-    .append('span')
-    .attr('class', d => d == 'none' ? 'dn' : `f5 mb2 fl ph1 ${d == 'altele' ? 'black' : 'white'} ml1`)
-    .attr('style', d => `background-color: ${partyColors[d]}`)
-    .text(d => d.toUpperCase())
+  containerSelection
+    .append('div')
+    .attr('class', d => `${!sum(d.votes.cdep) ? 'dn ' : 'dib '}w-100 relative chart-container`)
+    .attr('id', 'chart-cdep');
 
   containerSelection
     .append('div')
-      .attr('class', d => `${!sum(d.votes.cdep) ? 'dn ' : 'dib '}w-40 chart-container`)
-      .text('Camera Deputatilor')
-
-    .append('canvas')
-      .attr('class', d => `${!sum(d.votes.cdep) ? 'dn ' : 'dib '}chart-deputati`);
-
-  containerSelection
-    .append('div')
-      .attr('class', d => `${!sum(d.votes.senat) ? 'dn ' : 'dib '}w-40 chart-container`)
-      .text('Senat')
-    .append('canvas')
-      .attr('class', d => `${!sum(d.votes.senat) ? 'dn ' : ''}chart-senatori`);
-
-  containerSelection
-    .append('div')
-      .attr('class', 'reported-polling-ids')
-      .text(d => {
-        if (!d.reportedStations) {
-          return `Deocamdată nu sunt date pentru ${d.ids.length == 1 ? 'această secție.' : 'aceste secții.'}`
-        }
-        return `Secții de vot raportate: ${d.reportedStations} / ${d.ids.length}`
-      });
+    .attr('class', d => `${!sum(d.votes.senat) ? 'dn ' : 'dib '}w-100 relative chart-container`)
+    .attr('id', 'chart-senat');
 
   containerSelection.each((d, i) => {
-    if (!d.reportedStations)
-      return;
-
     let cdepVotes = d.votes.cdep;
     let senatVotes = d.votes.senat;
 
-    let cdepValues = [], senatValues = [], colors = [];
-    let labels = [...parties].map(l => l.toUpperCase());
+    let cdepContent = [], senatContent = [];
     parties.forEach((partyName) => {
-      cdepValues.push(cdepVotes[partyName]);
-      senatValues.push(senatVotes[partyName]);
-      colors.push(partyColors[partyName]);
-    });
+      const getDataTemplate = (partyName) => ({
+        label: partyName.toLowerCase() == 'altele' ? toTitleCase(partyName) : partyName.toUpperCase(),
+        color: partyColors[partyName]
+      });
+      cdepContent.push({
+        ...getDataTemplate(partyName),
+        value: cdepVotes[partyName]
+      });
 
-    let ctxd = document.getElementsByClassName('chart-deputati');
-    let ctxs = document.getElementsByClassName('chart-senatori');
-    let deputatiChart = new Chart(ctxd[i], {
-      type: 'pie',
-      data: {
-        labels: labels,
-        datasets: [
-          {
-            data: cdepValues,
-            backgroundColor: colors,
-          }
-        ]
-      },
-      options: {
-        legend: {
-          display: false,
-        }
-      }
+      senatContent.push({
+        ...getDataTemplate(partyName),
+        value: senatVotes[partyName]
+      });
     });
-
-    let senatoriChart = new Chart(ctxs[i], {
-      type: 'pie',
-      data: {
-        labels: labels,
-        datasets: [
-          {
-            data: senatValues,
-            backgroundColor: colors,
-          }
-        ]
-      },
-      options: {
-        legend: {
-          display: false
-        }
-      }
-    });
+    generatePie('chart-cdep', 'Camera Deputaților', cdepContent);
+    generatePie('chart-senat', 'Senat', senatContent);
   });
 
-  var winner = [];
-  var dataPointCount, size;
-  var roomType = ['Camera Deputaților', 'Senat'];
-  var voteStatsEnter = containerSelection
-    .append('div')
-      .attr('class', 'vote-count f4 mb2')
+  if (!summary)
+    return;
+
+  let stationsInfoSelection = containerSelection
       .append('div')
-        .selectAll('div')
-        .data(d => {
-          return [d.votes.cdep, d.votes.senat]
-        })
-        .enter()
-        .append('div')
-        .attr('class', d => `${!sum(d) ? 'dn ' : ''}summary-rooms f5 mt2`)
-        .text((d, i) => `${roomType[i]}`)
-        .append('div')
-        .attr('class', 'cf')
-        .selectAll('span')
-        .data((d, i) => {
-          let voteData = [];
+      .attr('class', 'polling-info');
 
-          // [
-          //   /* party, votes, percentage */
-          //   ['usr', 1241, 50],
-          //   ['psd', 1241, 50],
-          //   ...
-          // ]
-          let chartVoteData = [];
-          let total = sum(d);
-          Object.keys(d).map(party => {
-            if (!d[party]) { return; }
-            voteData.push([
-              party,
-              d[party],
-              Math.round(100 * (100 * d[party] / total)) / 100
-            ]);
-          });
-          // Formula to determine max size.
-          winner[i] = maxBy(voteData, o => o[1]);
-          size = 100 / winner[2];
-
-          dataPointCount = voteData.length;
-
-          return voteData;
-        })
-        .enter()
-        .append('span')
-          .attr('class', (d, i) => `br1 ph1 mt2 fl f5 ${d[0] == 'altele' ? 'black' : 'white'}${i ? ' ml1' : ''}`)
-          .style('background-color', d => partyColors[d[0]])
-          .text(d => `${d[2]}%`);
-
+  stationsInfoSelection
+    .selectAll('div')
+      .data(d => mergePointsByCriterion(d.points, ['name']))
+      .enter()
+      .append('div')
+      .attr('class', 'cluster mt1 cf f5')
+      .html(d => {
+        let results = '';
+        d.ids.forEach((id, i) => results += `<span class="bg-light-gray ph1 dib br1 ${i ? 'ml1' : ''}">${id}</span>`)
+        return `${results}: ${d.name}${d.address ? ', ' + d.address : ''}`;
+      });
 }
 
 // pointInfo object contains info about that polling station (name, adress, etc.)
 // ids contains the ids of the pollings stations at that specific location
-export const drawDetails = points => {
-  clearDetails();
-  window.lastActivePoint = points[0];
+export const drawPointResults = points => {
+  const pointsByCoord = getPointsByCriterion(points, ['lat', 'lng']);
 
-  let pointsByAddress = getPointsByAddress(points);
-
-  let detailsBoxSelection = d3.select('.info-container')
-    .classed('dn', false)
-    .append('div')
-      .attr('class', 'info-content')
-    .selectAll('div')
-    .data(pointsByAddress)
-    .enter()
-    .append('div')
-      .attr('class', d => `polling-station mb2 pb2 bb b--black-10 polling-${d.id}`)
-
-  detailsBoxSelection
-    .append('div')
-      .attr('class', 'polling-name f3 mb2 lh-solid')
-      .text(d => d.name);
-
-  detailsBoxSelection
-    .append('div')
-      .attr('class', 'polling-address')
-      .text(d => `Adresă: ${d.address}`);
-
-  detailsBoxSelection
-    .append('div')
-      .attr('class', 'polling-ids')
-      .text(d => {
-        const label = d.ids.length == 1 ? 'Secția de vot:' : 'Secțiile de vot:';
-        return `${label}`;
-      })
-      .selectAll('span')
-        .data(d => d.ids)
-        .enter()
-          .append('span')
-          .attr('class', 'br1 ph1 white bg-dark-gray ml1')
-          .text(d => d);
+  let title = `${pointsByCoord[0].city}, `;
+  title += pointsByCoord[0].points.length == 1 ? 'secția de vot' : 'secțiile de vot';
+  pointsByCoord[0].points.forEach(p => {
+    title += `<span class="f5 br1 dib ph1 white bg-dark-gray ml1">${p.id}</span>`
+  })
 
   drawResults(
-    getResultsBoxSelection(pointsByAddress, d => `Rezultate pentru ${d.name}`),
-    pointsByAddress[0].votes
+    getResultsBoxSelection(pointsByCoord, title)
   );
 }
 
 export const drawCityResults = (points, city) => {
-  points = getPointsByCity(points.filter(p => p.city == city));
-  drawResults(getResultsBoxSelection(points, `Rezultatele pentru ${city}`));
+  points = getPointsByCriterion(points.filter(p => p.city == city), ['city']);
+  drawResults(
+    getResultsBoxSelection(points, `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${city}</span>`),
+    false
+  );
 }
 
 export const drawCountyResults = (points, county) => {
-  const sum = function(a, b) {
-    a = isNaN(a) ? 0 : a;
-    b = isNaN(b) ? 0 : b;
-    return a + b
-  };
-  let isStationReported = point => (reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0);
-
-  let pointsByCounty = points.reduce((total, point) => {
-    if (!total) {
-      return {
-        ...point,
-        reportedStations: isStationReported(point) ? 1 : 0,
-        ids: [point.id]
-      };
-    }
-
-    let votes = calculatePointsVotes([
-      total,
-      point
-    ]);
-
-    let reported = reduce(point.votes.cdep, sum, 0) + reduce(point.votes.senat, sum, 0) > 0 ? total.reportedStations + 1 : total.reportedStations;
-
-    return {
-      ...total,
-      votes,
-      reportedStations: reported,
-      ids: [...total.ids, point.id]
-    };
-  }, 0);
-
-  drawResults(getResultsBoxSelection([pointsByCounty], `Rezultatele pentru ${county}`));
+  points = getPointsByCriterion(points.filter(p => p.county.toUpperCase() == county.toUpperCase()));
+  county = (county != 'București' ? 'județul ' : '') + county;
+  drawResults(
+    getResultsBoxSelection(points, `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${county}</span>`),
+    false
+  );
 }
 
-export const drawCities = (cities, county = 'Cluj') => {
-  d3.select('.city-navigator-box').classed('dn', false);
-  d3.select('.cities').selectAll('optgroup').remove();
+export const drawCities = (cities, county) => {
+  //d3.select('.city-navigator-box').classed('dn', false);
+  //d3.select('.cities').selectAll('optgroup').remove();
   let citiesDropdownSelection = d3.select('.cities')
-    .append('optgroup')
+    .insert('optgroup')
     .attr('label', county)
     .selectAll('option')
     .data(cities)

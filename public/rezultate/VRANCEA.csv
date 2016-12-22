@@ -1,0 +1,359 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+59,41,VRANCEA,MUNICIPIUL ADJUD,191,28,64,20,0,14,16,38,193,34,64,19,0,14,15,35,Casa de Cultură „Tudor Vornicu”,Str. Libertății nr. 7,Adjud,46.095,27.1837
+60,41,VRANCEA,MUNICIPIUL ADJUD,196,28,77,28,0,23,11,38,207,27,70,31,0,26,14,29,Școală Gimnazială „Mihail Armencea”,Str. 1 Mai nr. 35,Adjud,46.0947,27.1819
+61,41,VRANCEA,MUNICIPIUL ADJUD,236,13,49,11,0,14,13,39,237,14,45,13,0,15,14,37,Școală Gimnazială „Mareșal Alexandru Averescu”,Str. Libertății nr. 2A,Adjud,46.0957,27.1814
+62,41,VRANCEA,MUNICIPIUL ADJUD,210,31,65,25,0,16,12,34,202,33,64,27,0,17,15,41,Școală Gimnazială „Principele Radu” A,Str. Tudor Vladimirescu nr. 7A,Adjud,46.0985,27.1864
+63,41,VRANCEA,MUNICIPIUL ADJUD,233,38,77,19,0,21,16,47,229,44,75,21,0,24,23,47,Școală Gimnazială „Principele Radu” B,Str. Tudor Vladimirescu nr. 7A,Adjud,46.0985,27.1864
+64,41,VRANCEA,MUNICIPIUL ADJUD,212,43,85,18,0,21,12,37,210,44,80,20,0,22,14,40,Școală Gimnazială „Principele Radu” C,Str. Tudor Vladimirescu nr. 7A,Adjud,46.0985,27.1864
+65,41,VRANCEA,MUNICIPIUL ADJUD,249,42,87,33,0,22,11,45,248,40,91,31,1,25,15,43,Mixtcom S.R.L. Adjud,"Bulevardul Gării , Bloc 128",Adjud,46.0979,27.1917
+66,41,VRANCEA,MUNICIPIUL ADJUD,275,41,109,28,1,29,11,45,271,54,99,26,2,30,15,43,Sala de Sport,Str. Republicii nr. 4,Adjud,46.0934,27.1885
+67,41,VRANCEA,MUNICIPIUL ADJUD,293,42,131,27,1,32,17,38,301,43,128,27,0,27,22,42,Școală Gimnazială „Angela Gheorghiu”,Str. Republicii nr. 90,Adjud,46.1014,27.1802
+68,41,VRANCEA,MUNICIPIUL ADJUD,278,26,85,29,1,26,12,37,281,32,75,34,1,27,16,39,Colegiul Tehnic „Gheorghe Balș” A,Str. Republicii nr. 107,Adjud,46.1053,27.1756
+69,41,VRANCEA,MUNICIPIUL ADJUD,150,12,46,13,1,9,6,24,153,12,47,12,1,11,5,20,Colegiul Tehnic „Gheorghe Balș” B,Str. Republicii nr. 107,Adjud,46.1053,27.1756
+72,41,VRANCEA,MUNICIPIUL ADJUD,288,22,65,10,3,26,18,61,287,18,66,15,3,26,26,62,Școală Generală Adjudu Vechi,,Adjudu Vechi,46.1371,27.1882
+99,41,VRANCEA,ANDREIAŞU DE JOS,159,3,79,0,0,17,2,16,161,2,79,1,0,15,3,12,Școala Gimnazială Andreiașu de Jos,,Andreiașu de Jos,45.7571,26.8339
+101,41,VRANCEA,ANDREIAŞU DE JOS,121,0,49,2,1,9,1,13,123,0,49,3,0,8,1,6,Școala Gimnazială Andreiașu de Sus,,Andreiașu de Sus,45.7372,26.8352
+265,41,VRANCEA,RUGINEŞTI,146,3,73,25,1,17,1,22,153,2,75,30,1,16,2,14,Școala Generală,,Anghelești,46.0769,27.0673
+241,41,VRANCEA,PLOSCUŢENI,121,1,5,4,2,4,1,3,119,2,7,4,1,5,2,4,Școala Primară Sat Argea,,Argea,46.0443,27.2586
+119,41,VRANCEA,BROŞTENI,104,6,32,7,1,3,5,19,106,6,32,5,1,4,6,18,Grădinița,,Arva,45.7688,26.9982
+329,41,VRANCEA,VINTILEASCA,136,1,4,4,0,13,2,23,147,3,5,8,0,13,3,7,Școala Gimnazială „Pictor Mihail Balasescu” Bahnele,,Bahnele,45.6394,26.7159
+342,41,VRANCEA,VÎNĂTORI,55,2,12,3,0,6,0,8,58,1,13,3,0,6,0,4,Școala Primară Balta Raței,,Balta Raței,45.7614,27.2683
+346,41,VRANCEA,VÎRTEŞCOIU,97,4,11,2,0,8,2,5,95,4,15,2,0,6,3,6,Școala Beciu,,Beciu,45.7379,27.0486
+162,41,VRANCEA,DUMITREŞTI,187,1,20,5,0,1,4,22,195,3,22,6,0,2,4,11,Școala Primară Biceștii de Jos,,Biceștii de Jos,45.543,26.9307
+160,41,VRANCEA,DUMITREŞTI,245,4,39,8,2,4,3,9,244,5,41,9,3,6,4,12,Școala Primară Biceștii de Sus,,Biceștii de Sus,45.5601,26.9202
+105,41,VRANCEA,BILIEŞTI,129,10,163,36,0,18,1,16,129,8,165,39,0,12,3,20,Școala Gimnazială Biliesti,,Biliești,45.7241,27.3462
+106,41,VRANCEA,BILIEŞTI,123,7,218,14,1,13,0,26,134,8,223,13,0,8,2,19,Școala Generală nr. 2 Biliesti,,Biliești,45.7119,27.3361
+169,41,VRANCEA,GAROAFA,126,9,41,8,1,10,2,14,124,8,43,8,2,11,3,15,Școala Primară,,Bizighești,45.8191,27.2154
+137,41,VRANCEA,CÎRLIGELE,144,5,16,13,0,4,0,7,143,4,17,11,0,5,0,7,Școala Blidari,,Blidari,45.6622,27.0548
+107,41,VRANCEA,BOGHEŞTI,158,3,31,6,0,20,6,23,159,5,30,7,0,17,7,22,Primarie,,Boghești,46.1607,27.4084
+270,41,VRANCEA,SIHLEA,143,3,15,9,1,16,2,11,143,4,18,8,1,16,2,11,Gradinița Bogza,,Bogza,45.5089,27.1911
+110,41,VRANCEA,BOLOTEŞTI,206,4,78,13,0,3,3,23,201,6,87,11,0,4,4,21,Caminul Cultural Bolotesti,,Bolotești,45.8407,27.0722
+138,41,VRANCEA,CÎRLIGELE,151,4,14,2,0,9,2,13,148,5,13,2,0,10,3,14,Școala Gimnazială cu Clasele I-IV „Episcop Mitrofan”,,Bonțești,45.6774,27.0467
+298,41,VRANCEA,TĂTĂRANU,64,6,41,9,0,3,1,15,70,7,43,9,0,4,2,10,Fosta Școala Generală Bordeasca Noua,,Bordeasca Nouă,45.5395,27.2896
+297,41,VRANCEA,TĂTĂRANU,164,9,41,13,1,5,1,12,171,9,46,9,0,6,1,12,Școala Gimnazială nr. 2 Bordeasca Veche,,Bordeasca Veche,45.5355,27.3131
+299,41,VRANCEA,TĂTĂRANU,150,7,64,15,0,6,6,26,163,11,61,13,0,3,9,25,Fosta Școala Generală nr. 1 Bordeasca Veche,,Bordeasca Veche,45.5491,27.3124
+116,41,VRANCEA,BORDEŞTI,237,10,67,40,1,27,5,39,261,8,72,38,0,24,8,24,Caminul Cultural,,Bordești,45.5556,27.0418
+117,41,VRANCEA,BORDEŞTI,139,4,32,7,0,7,3,8,139,2,35,7,0,7,2,9,Școala cu Clasele I-IV,,Bordeștii de Jos,45.5387,27.0368
+355,41,VRANCEA,VULTURU,201,16,34,12,1,22,7,50,206,14,37,15,1,23,9,39,Școala Botarlau,,Boțârlău,45.6349,27.38
+118,41,VRANCEA,BROŞTENI,277,14,132,10,0,14,8,43,280,13,151,14,0,11,5,23,Camin Cultural,,Broșteni,45.7607,27.0389
+141,41,VRANCEA,CORBIŢA,150,1,36,0,0,0,0,10,151,0,39,0,0,0,0,7,Școala Primară Buda,,Buda,46.1329,27.3031
+146,41,VRANCEA,COTEŞTI,309,5,88,40,0,15,16,57,304,21,93,48,1,13,14,33,Caminul Cultural Budesti,,Budești,45.625,27.0693
+322,41,VRANCEA,VIDRA,139,1,34,11,0,19,3,18,139,3,32,12,0,17,4,17,Școala Generală,,Burca,45.9118,26.9471
+323,41,VRANCEA,VIDRA,166,5,47,13,1,5,0,21,174,4,51,13,3,7,2,10,Școala Generală,,Burca,45.9054,26.9642
+70,41,VRANCEA,MUNICIPIUL ADJUD,95,2,26,6,0,8,3,14,92,3,26,7,0,7,2,14,Școală Primară Burcioaia,,Burcioaia,46.07,27.2285
+104,41,VRANCEA,BÂRSEŞTI,205,2,296,121,0,9,6,39,208,4,308,125,0,6,11,36,Camin Cultural (Sala Festivitati),,Bârsești,45.9113,26.7366
+102,41,VRANCEA,BĂLEŞTI,122,3,95,114,0,6,3,19,132,5,110,101,0,6,1,13,Școala Gimnazială cu Clasele I-VIII Balesti,,Bălești,45.4404,27.234
+103,41,VRANCEA,BĂLEŞTI,109,5,83,84,0,15,3,17,115,6,79,88,0,8,4,16,Școala Gimnazială cu Clasele I-VIII Balesti,,Bălești,45.4404,27.234
+308,41,VRANCEA,ŢIFEŞTI,167,9,62,35,0,88,7,36,169,4,81,32,0,74,10,33,Școala Gimnazială Bătinești,,Bătinești,45.8286,27.1691
+174,41,VRANCEA,GOLEŞTI,125,10,38,19,0,13,9,23,130,13,32,19,0,10,9,23,Grădinița Golești,,Ceardac,45.6634,27.1649
+120,41,VRANCEA,CHIOJDENI,135,2,192,9,1,2,3,18,139,2,195,4,1,4,3,16,Grădinița cu Program Normal Chiojdeni,,Chiojdeni,45.5627,26.8649
+251,41,VRANCEA,PUFEŞTI,123,4,32,21,0,64,7,31,129,4,38,21,0,53,7,33,Grădinița Ciorani,,Ciorani,45.9887,27.2154
+123,41,VRANCEA,CIORĂŞTI,109,3,147,6,0,21,4,27,112,2,149,5,0,15,8,22,Camin Cultural Ciorasti,,Ciorăști,45.4311,27.3114
+171,41,VRANCEA,GAROAFA,216,15,75,51,0,43,8,31,223,8,89,48,1,39,11,25,Școala Gimnazială „Petrache Blîndu”,,Ciușlea,45.7873,27.3043
+309,41,VRANCEA,ŢIFEŞTI,106,2,26,12,0,15,1,14,112,2,26,11,0,11,4,19,Școala Gimnazială Clipicești,,Clipicești,45.8896,27.0318
+124,41,VRANCEA,CIORĂŞTI,17,0,43,1,0,8,2,7,23,0,39,0,0,3,4,10,Magazin S.C. Sand Vad S.R.L.,,Codrești,45.4214,27.2715
+266,41,VRANCEA,RUGINEŞTI,129,2,20,6,1,13,4,11,125,4,16,6,1,10,4,20,Școala Generală,,Copăcești,46.0867,27.1178
+276,41,VRANCEA,SLOBOZIA BRADULUI,211,0,6,5,0,5,0,7,219,0,6,4,0,5,0,4,Școala Primară Cornetu Sala A,,Cornetu,45.5017,27.05
+277,41,VRANCEA,SLOBOZIA BRADULUI,257,1,13,4,1,4,0,8,251,0,11,4,0,7,0,4,Școala Primară Cornetu Sala B,,Cornetu,45.5017,27.05
+275,41,VRANCEA,SLOBOZIA BRADULUI,121,3,143,10,0,3,3,24,129,4,140,11,0,3,5,17,Școala Gimnazială Coroteni,,Coroteni,45.4827,27.0313
+189,41,VRANCEA,HOMOCEA,31,2,102,4,0,1,5,7,30,2,103,5,0,1,6,9,Școala cu Clasele I-IV,,Costișa,46.1766,27.2098
+144,41,VRANCEA,COTEŞTI,299,17,35,29,0,12,6,30,309,14,28,28,0,9,8,30,Școala Generală Cotesti,,Cotești,45.6434,27.0639
+145,41,VRANCEA,COTEŞTI,121,1,21,13,0,10,3,11,123,2,24,12,0,10,3,8,Școala Primară Cotesti,,Cotești,45.6384,27.0475
+305,41,VRANCEA,TULNICI,180,0,92,2,0,1,3,17,183,0,93,3,0,0,4,17,Școala Coza,,Coza,45.9038,26.6685
+95,41,VRANCEA,ORAŞ PANCIU,137,10,27,11,0,2,2,14,135,10,25,12,0,5,5,15,Clubul de Socializare Crucea de Jos,Nr. 11,Crucea de Jos,45.8949,27.1005
+97,41,VRANCEA,ORAŞ PANCIU,236,16,40,20,0,11,6,21,245,15,42,23,0,4,4,20,Școala Generală Cucea de Sus,Nr. 10,Crucea de Sus,45.9174,27.082
+130,41,VRANCEA,CÎMPINEANCA,414,41,116,33,0,52,12,58,428,36,129,34,0,33,18,55,Școala Primară Cimpineanca,Nr. 210,Câmpineanca,45.7058,27.1354
+131,41,VRANCEA,CÎMPINEANCA,410,29,105,27,1,45,5,38,431,26,111,24,0,38,7,23,Școala Primară Cimpineanca,Nr. 210,Câmpineanca,45.7058,27.1354
+132,41,VRANCEA,CÎMPURI,194,9,27,15,0,28,6,21,205,8,25,16,0,28,9,17,Școala Primară Cîmpuri,,Câmpuri,46.0082,26.8047
+133,41,VRANCEA,CÎMPURI,208,17,26,4,1,14,8,21,213,13,28,8,2,15,8,19,Școala Gimnazială Cîmpuri,,Câmpuri,46.0224,26.7715
+150,41,VRANCEA,DUMBRĂVENI,208,6,50,48,0,18,11,38,219,8,53,45,0,19,12,27,Școala Gimnazială Cindesti,,Cândești,45.5396,27.0719
+136,41,VRANCEA,CÎRLIGELE,364,7,31,10,0,9,4,19,366,7,26,8,1,9,9,24,Cămin Cultural,,Cârligele,45.6746,27.0794
+269,41,VRANCEA,SIHLEA,106,2,27,5,1,15,0,17,113,3,33,6,1,10,1,10,Școala Căiata,,Căiata,45.5269,27.1528
+219,41,VRANCEA,NĂNEŞTI,68,0,23,4,0,6,5,18,66,1,24,6,0,5,5,16,Școala Calienii-Noi,,Călienii Noi,45.5887,27.4897
+218,41,VRANCEA,NĂNEŞTI,167,4,33,9,0,15,7,32,174,2,37,9,0,13,9,27,Camin Cultural Calienii-Vechi,,Călienii Vechi,45.5976,27.5104
+82,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,96,1,24,3,1,19,0,19,103,1,26,4,1,19,1,8,Școala Primară Călimănești,,Călimănești,45.9634,27.2172
+121,41,VRANCEA,CHIOJDENI,54,1,50,2,1,1,2,16,54,1,54,3,1,1,1,14,Școala Primară Cătăuți,,Cătăuți,45.5404,26.8449
+199,41,VRANCEA,JITIA,60,5,10,3,0,3,1,13,65,4,8,5,0,4,3,12,Școala cu Clasele I-IV Dealu Sarii,,Dealu Sării,45.5743,26.755
+211,41,VRANCEA,MOVILIŢA,114,3,39,6,0,16,3,19,117,4,43,7,0,14,3,19,Școala Primară Diocheti-Rediu,,Diochețirediu,45.9315,27.1331
+170,41,VRANCEA,GAROAFA,53,1,29,17,0,29,2,12,50,1,31,17,0,27,6,15,Școala,,Doaga,45.8327,27.2925
+252,41,VRANCEA,PUFEŞTI,240,23,46,21,1,46,10,32,257,24,48,20,1,37,12,29,Școala Gimnazială Domnești,,Domnești-Târg,46.028,27.1957
+280,41,VRANCEA,SOVEJA,303,22,59,25,0,21,7,44,303,19,69,30,0,19,5,34,Școala Generală „Simion Mehedinți”,,Dragosloveni,45.9996,26.6559
+96,41,VRANCEA,ORAŞ PANCIU,105,6,20,9,0,5,6,16,107,7,19,9,0,5,5,12,Școala Generală Dumbrava,Nr. 9,Dumbrava,45.9095,27.1119
+149,41,VRANCEA,DUMBRĂVENI,390,25,98,60,0,27,11,33,383,25,106,59,2,25,11,28,Camin Cultural Dumbraveni,,Dumbrăveni,45.5503,27.107
+151,41,VRANCEA,DUMBRĂVENI,160,5,49,9,1,10,5,22,162,5,52,10,1,10,7,17,Școala Primară Alexandru Vlahuță Dragosloveni,,Dumbrăveni,45.5585,27.0849
+152,41,VRANCEA,DUMITREŞTI,207,10,50,21,0,7,4,14,202,10,53,20,1,8,8,13,Căminul Cultural „Alexandru Dobrescu” Dumitrești,,Dumitrești,45.5551,26.9188
+153,41,VRANCEA,DUMITREŞTI,96,1,12,2,0,5,8,16,101,1,11,3,0,5,8,11,Școala Primară Dumitreștii de Sus,,Dumitreștii de Sus,45.5596,26.8934
+159,41,VRANCEA,DUMITREŞTI,80,3,14,1,0,1,1,6,84,3,14,3,1,1,1,5,Școala Primară Dumitreștii - Față,,Dumitreștii-Față,45.5935,26.9324
+330,41,VRANCEA,VINTILEASCA,30,0,9,1,0,1,1,7,36,0,8,2,0,2,1,2,Școala Ion Creanga Dupa Magura,,După Măgura,45.621,26.7495
+139,41,VRANCEA,CÎRLIGELE,202,6,18,6,1,2,1,10,200,5,14,6,1,2,2,13,Grădiniță,,Dălhăuți,45.6915,27.0447
+345,41,VRANCEA,VÎRTEŞCOIU,368,13,29,7,0,2,2,18,364,8,36,7,0,3,5,23,Școala Gimnazială Faraoanele,,Faraoanele,45.7124,27.0462
+135,41,VRANCEA,CÎMPURI,216,1,14,6,0,3,4,11,213,3,18,6,0,3,5,13,Școala Primară Fetesti,,Fetești,46.0449,26.7494
+163,41,VRANCEA,FITIONEŞTI,176,7,50,10,1,10,6,25,182,7,49,9,0,8,10,27,Cămin Cultural,,Fitionești,45.9811,27.0586
+164,41,VRANCEA,FITIONEŞTI,114,8,55,7,0,8,2,13,113,7,52,6,0,8,1,13,Școala cu Clasele I-IV Pisc,,Fitionești,45.9854,27.056
+1,41,VRANCEA,MUNICIPIUL FOCŞANI,286,85,123,42,0,46,17,61,285,65,147,50,1,47,22,49,Directia Silvică Vrancea,Str. Aurora nr. 5,Focșani,45.7032,27.1839
+2,41,VRANCEA,MUNICIPIUL FOCŞANI,254,137,152,72,2,47,10,86,259,128,178,74,2,51,15,56,Teatrul Municipal Focșani,Str. Republicii nr. 71,Focșani,45.6992,27.1881
+3,41,VRANCEA,MUNICIPIUL FOCŞANI,306,102,120,69,3,69,31,79,303,90,150,80,3,53,29,64,Biblioteca Județeană „Duiliu Zamfirescu”,Str. Mihail Kogălniceanu nr. 12,Focșani,45.6976,27.1865
+4,41,VRANCEA,MUNICIPIUL FOCŞANI,169,72,118,48,0,44,11,63,181,68,134,49,0,37,12,43,Biblioteca Județeană „Duiliu Zamfirescu”,Str. Nicolae Titulescu nr. 12,Focșani,45.7009,27.1804
+5,41,VRANCEA,MUNICIPIUL FOCŞANI,218,71,133,17,0,21,13,52,235,60,144,20,0,11,14,41,Școala Gimnazială „Ștefan Cel Mare” - Intrarea Principală,Str. Ștefan cel Mare nr. 12,Focșani,45.6979,27.1819
+6,41,VRANCEA,MUNICIPIUL FOCŞANI,231,85,112,55,0,40,17,42,241,66,125,54,0,38,20,43,Școala Gimnazială „Ștefan Cel Mare” - Intrarea Elevilor,Str. Ștefan cel Mare nr. 12,Focșani,45.6979,27.1819
+7,41,VRANCEA,MUNICIPIUL FOCŞANI,156,51,86,36,0,34,11,43,159,51,94,42,0,29,14,33,Școala Gimnazială „Ștefan Cel Mare” - Intrarea Secundara,Str. Ștefan cel Mare nr. 12,Focșani,45.6979,27.1819
+8,41,VRANCEA,MUNICIPIUL FOCŞANI,90,51,66,15,0,29,9,42,92,43,80,15,0,29,5,31,Colegiul Tehnic Auto „Traian Vuia”,Str. Cotești nr. 52,Focșani,45.6933,27.1763
+9,41,VRANCEA,MUNICIPIUL FOCŞANI,182,45,101,33,0,43,5,45,194,42,116,36,0,29,5,35,Colegiul Tehnic Auto „Traian Vuia”,Str. Cotești nr. 52,Focșani,45.6933,27.1763
+10,41,VRANCEA,MUNICIPIUL FOCŞANI,249,158,178,40,0,49,11,55,257,147,170,49,1,45,17,59,Colegiul Economic „Mihail Kogălniceanu”,Bulevardul Gării (Bulevardul Marx Karl) nr. 25,Focșani,45.6998,27.1722
+11,41,VRANCEA,MUNICIPIUL FOCŞANI,245,90,147,35,0,61,16,72,262,94,148,34,1,43,23,68,Colegiul Economic „Mihail Kogălniceanu”,Bulevardul Gării (Bulevardul Marx Karl) nr. 25,Focșani,45.6998,27.1722
+12,41,VRANCEA,MUNICIPIUL FOCŞANI,313,80,115,42,2,36,20,65,317,71,132,44,1,31,26,62,Colegiul Economic „Mihail Kogălniceanu”,Bulevardul Gării (Bulevardul Marx Karl) nr. 25,Focșani,45.6998,27.1722
+13,41,VRANCEA,MUNICIPIUL FOCŞANI,303,116,130,39,1,28,13,68,296,105,138,43,0,24,29,80,Colegiul Economic „Mihail Kogălniceanu”,Bulevardul Gării (Bulevardul Marx Karl) nr. 25,Focșani,45.6998,27.1722
+14,41,VRANCEA,MUNICIPIUL FOCŞANI,266,70,92,26,0,48,9,51,271,65,99,25,1,47,11,44,Școala Gimnazială nr. 7,Aleea Școlii nr. 47,Focșani,45.703,27.174
+15,41,VRANCEA,MUNICIPIUL FOCŞANI,187,39,71,29,0,18,15,43,185,41,81,29,0,17,13,32,Grădinița cu Program Prelungit nr. 15,Str. Bîrsei nr. 8,Focșani,45.7053,27.1722
+16,41,VRANCEA,MUNICIPIUL FOCŞANI,302,82,141,49,2,38,20,95,320,76,147,57,4,35,27,70,Grădinița cu Program Prelungit nr. 15,Str. Bîrsei nr. 8,Focșani,45.7053,27.1722
+17,41,VRANCEA,MUNICIPIUL FOCŞANI,346,73,171,46,3,46,14,67,356,77,174,46,4,40,20,58,Liceul Tehnologic „G.G.Longinescu”,Str. Mărășești (Str. Marea Revoluție Soc. din Oct.) nr. 50,Focșani,45.7097,27.1855
+18,41,VRANCEA,MUNICIPIUL FOCŞANI,278,105,164,66,0,51,17,88,290,99,186,61,0,43,21,69,Școala Gimnazială „Ion Basgan”,Str. Mare A Unirii (Str. Tînăra Gardă) nr. 30,Focșani,45.7045,27.1856
+19,41,VRANCEA,MUNICIPIUL FOCŞANI,227,84,122,52,1,47,17,64,247,79,129,51,2,32,18,55,Ocolul Silvic Focșani,Str. Mare A Unirii (Str. Tînăra Gardă) nr. 24A,Focșani,45.7044,27.1862
+20,41,VRANCEA,MUNICIPIUL FOCŞANI,279,98,106,43,2,39,20,76,293,87,127,42,0,35,22,60,Colegiul Tehnic „Valeriu D. Cotea”,Str. Cuza Vodă nr. 46,Focșani,45.7028,27.1911
+21,41,VRANCEA,MUNICIPIUL FOCŞANI,109,67,103,27,0,17,6,24,109,59,117,30,0,19,5,17,Colegiul Național „Al. I. Cuza”,Str. Cuza Vodă nr. 47,Focșani,45.7027,27.1904
+22,41,VRANCEA,MUNICIPIUL FOCŞANI,223,90,68,32,1,34,11,51,226,77,78,32,2,31,12,48,Școala Gimnazială „Anghel Saligny”,Str. Moldova nr. 7,Focșani,45.6988,27.1927
+23,41,VRANCEA,MUNICIPIUL FOCŞANI,283,57,128,37,0,41,12,60,288,50,134,43,0,44,14,49,Școala Gimnazială „Anghel Saligny” Intrarea Secundară,Str. Moldova nr. 7,Focșani,45.6988,27.1927
+25,41,VRANCEA,MUNICIPIUL FOCŞANI,202,49,65,21,0,26,6,40,192,42,75,27,0,27,10,39,Agenția Națională de Îmbunătățiri Funciare,Bulevardul Brăilei (Str. 23 August) nr. 121 bis,Focșani,45.6886,27.1973
+26,41,VRANCEA,MUNICIPIUL FOCŞANI,220,59,103,27,0,27,13,63,219,58,111,33,0,27,19,53,Grădinița cu Program Prelungit nr. 16,Aleea Căminului nr. 13,Focșani,45.6937,27.194
+27,41,VRANCEA,MUNICIPIUL FOCŞANI,312,38,94,22,1,33,14,68,314,37,97,27,0,33,16,56,Grădinița cu Program Prelungit nr. 16,Aleea Căminului nr. 13,Focșani,45.6937,27.194
+28,41,VRANCEA,MUNICIPIUL FOCŞANI,229,64,91,24,0,31,12,37,242,57,98,30,1,29,0,22,Colegiul Național „Unirea”,Str. Cezar Bolliac nr. 13-15,Focșani,45.6981,27.192
+29,41,VRANCEA,MUNICIPIUL FOCŞANI,210,82,90,33,0,49,13,53,208,69,109,32,0,51,20,47,Școala Gimnazială nr. 3,Str. Dornei nr. 1,Focșani,45.6943,27.1911
+30,41,VRANCEA,MUNICIPIUL FOCŞANI,262,85,109,23,0,37,17,58,270,78,125,29,0,33,18,42,Agenția Județeană Pentru Plăți și Inspecție Socială,Bulevardul Brăilei (Str. 23 August) nr. 3 bis,Focșani,45.6939,27.1871
+31,41,VRANCEA,MUNICIPIUL FOCŞANI,199,84,87,20,0,29,7,44,210,80,95,19,1,27,10,36,Colegiul Tehnic „Edmond Nicolau”,Str. 1 Decembrie 1918 nr. 10,Focșani,45.6881,27.1903
+32,41,VRANCEA,MUNICIPIUL FOCŞANI,269,63,68,48,0,26,12,52,271,53,80,44,0,31,12,47,Sala Sporturilor,Bulevardul Unirii nr. 12,Focșani,45.6902,27.1857
+33,41,VRANCEA,MUNICIPIUL FOCŞANI,216,84,126,44,0,45,9,49,219,82,130,49,0,38,16,46,Inspectoratul Teritorial de Muncă Vrancea,Bulevardul Dimitrie Cantemir (Bulevardul V. I. Lenin) nr. 10,Focșani,45.6967,27.1876
+34,41,VRANCEA,MUNICIPIUL FOCŞANI,314,89,96,41,0,34,15,54,315,73,97,45,0,38,22,56,Direcția Județeană a Sporturilor Vrancea,Bulevardul Unirii nr. 12,Focșani,45.6903,27.1862
+35,41,VRANCEA,MUNICIPIUL FOCŞANI,176,78,99,27,0,28,15,52,183,70,112,27,1,23,13,44,Centrul Medical Focșani,Str. Bucegi (Str. Mareșal Ion Antonescu) nr. 28,Focșani,45.6894,27.1874
+36,41,VRANCEA,MUNICIPIUL FOCŞANI,175,35,81,18,1,19,7,30,176,37,83,20,1,20,6,28,Școala Gimnazială „Duiliu Zamfirescu”,Str. Tinereții nr. 2,Focșani,45.691,27.184
+37,41,VRANCEA,MUNICIPIUL FOCŞANI,240,102,116,39,0,45,20,69,251,89,131,44,0,41,20,53,Școala Gimnazială „Duiliu Zamfirescu”,Str. Tinereții nr. 2,Focșani,45.691,27.184
+38,41,VRANCEA,MUNICIPIUL FOCŞANI,273,87,117,59,0,72,17,74,274,84,130,60,0,64,21,68,Școala Gimnazială „Duiliu Zamfirescu”,Str. Tinereții nr. 2,Focșani,45.691,27.184
+39,41,VRANCEA,MUNICIPIUL FOCŞANI,283,109,133,41,1,54,17,75,297,102,153,43,1,37,16,58,Liceul Pedagogic „Spiru Haret”,Str. Timotei Cipariu nr. 5,Focșani,45.6912,27.1796
+40,41,VRANCEA,MUNICIPIUL FOCŞANI,293,125,148,32,0,61,26,74,293,114,158,35,2,55,26,69,Școala Federal Coop Sa,Str. Unirea Principatelor nr. 2,Focșani,45.6941,27.1847
+41,41,VRANCEA,MUNICIPIUL FOCŞANI,191,89,89,38,1,45,22,59,195,82,100,38,1,47,21,50,Grădinița cu Program Prelungit nr. 18,Str. Popa Șapcă nr. 8,Focșani,45.6943,27.1833
+42,41,VRANCEA,MUNICIPIUL FOCŞANI,125,51,72,30,1,20,17,51,140,46,82,26,0,12,15,42,Colegiul Tehnic „Ion Mincu”,Str. 1 Decembrie 1918 nr. 32,Focșani,45.6885,27.1914
+43,41,VRANCEA,MUNICIPIUL FOCŞANI,277,31,96,33,0,22,12,49,281,26,100,34,1,20,11,43,Școala Gimnazială „Nicolae Iorga”,Aleea 1 Iunie nr. 6,Focșani,45.6789,27.1818
+44,41,VRANCEA,MUNICIPIUL FOCŞANI,294,45,96,37,1,32,10,43,304,50,99,36,0,27,14,32,Școala Gimnazială „Nicolae Iorga”,Aleea 1 Iunie nr. 6,Focșani,45.6789,27.1818
+45,41,VRANCEA,MUNICIPIUL FOCŞANI,271,41,90,37,0,38,9,56,271,43,99,35,0,33,10,47,Școala Gimnazială „Nicolae Iorga”,Aleea 1 Iunie nr. 6,Focșani,45.6789,27.1818
+46,41,VRANCEA,MUNICIPIUL FOCŞANI,168,27,60,14,0,23,4,34,177,26,60,15,0,21,5,29,Școala Gimnazială „Alexandru Vlahuță”,Aleea 1 Iunie nr. 6,Focșani,45.6787,27.1825
+47,41,VRANCEA,MUNICIPIUL FOCŞANI,307,48,105,27,3,31,9,46,313,46,111,27,1,23,11,44,Școala Gimnazială „Alexandru Vlahuță”,Aleea 1 Iunie nr. 6,Focșani,45.6787,27.1825
+48,41,VRANCEA,MUNICIPIUL FOCŞANI,188,19,78,16,1,18,12,28,191,19,82,18,0,16,10,23,Școala Gimnazială „Alexandru Vlahuță”,Aleea 1 Iunie nr. 6,Focșani,45.6787,27.1825
+49,41,VRANCEA,MUNICIPIUL FOCŞANI,281,64,124,45,2,44,13,73,297,59,138,48,2,33,14,56,Grădinița cu Program Prelungit nr. 13,Aleea Echității nr. 33,Focșani,45.6778,27.1833
+50,41,VRANCEA,MUNICIPIUL FOCŞANI,356,85,131,42,1,56,15,83,377,73,152,42,1,43,23,66,Grădinița cu Program Prelungit nr. 13,Aleea Echității nr. 33,Focșani,45.6778,27.1833
+51,41,VRANCEA,MUNICIPIUL FOCŞANI,178,51,57,25,1,25,9,38,188,44,63,27,1,23,11,32,Grădinița cu Program Prelungit nr. 1,Aleea 1 Iunie nr. 1,Focșani,45.6794,27.1813
+52,41,VRANCEA,MUNICIPIUL FOCŞANI,234,81,119,26,0,22,5,60,255,69,143,23,0,14,6,40,Școala Gimnazială „Nicolae Iorga”,Aleea 1 Iunie nr. 6,Focșani,45.6789,27.1818
+53,41,VRANCEA,MUNICIPIUL FOCŞANI,272,111,145,40,0,51,12,57,282,100,156,40,0,54,13,45,Direcția Sanitar-Veterinară,Bulevardul Brăilei (Str. 23 August) nr. 121B,Focșani,45.688,27.198
+54,41,VRANCEA,MUNICIPIUL FOCŞANI,154,72,72,36,0,22,8,36,162,67,77,38,0,19,12,32,Grădinița cu Program Prelungit nr. 8,Str. Aurora nr. 7,Focșani,45.7036,27.184
+55,41,VRANCEA,MUNICIPIUL FOCŞANI,323,107,128,41,1,51,18,65,322,93,151,45,2,49,26,51,Grădinița cu Program Prelungit nr. 4,Str. Ana Ipătescu nr. 1,Focșani,45.704,27.1867
+56,41,VRANCEA,MUNICIPIUL FOCŞANI,338,43,121,21,0,37,12,45,334,37,133,21,0,38,14,40,Școala Gimnazială „Nicolae Iorga”,Aleea 1 Iunie nr. 6,Focșani,45.6789,27.1818
+57,41,VRANCEA,MUNICIPIUL FOCŞANI,229,42,87,21,0,34,11,41,229,36,92,20,0,35,14,37,Grădinița cu Program Prelungit nr. 17,Bulevardul Unirii nr. 2A,Focșani,45.6882,27.1858
+58,41,VRANCEA,MUNICIPIUL FOCŞANI,150,39,47,20,0,12,2,19,158,40,53,16,0,8,4,12,Școala Gimnazială nr. 3,Str. Dornei nr. 1,Focșani,45.6943,27.1911
+216,41,VRANCEA,MOVILIŢA,50,0,27,1,0,4,4,20,55,1,28,2,0,2,3,13,Școala Primară Frecatei,,Frecăței,45.9632,27.0894
+168,41,VRANCEA,GAROAFA,266,25,151,34,0,38,13,44,276,21,158,40,0,36,15,38,Caminul Cultural,,Garoafa,45.7793,27.2087
+165,41,VRANCEA,FITIONEŞTI,90,9,34,8,0,2,2,8,90,7,34,7,0,4,2,9,Grădinița Ghimicesti,,Ghimicești,45.9653,27.0759
+254,41,VRANCEA,RĂCOASA,34,5,15,7,0,7,1,8,34,5,19,7,0,8,1,7,Școala Primară Gogoiu,,Gogoiu,45.9992,26.8373
+172,41,VRANCEA,GOLEŞTI,313,36,93,18,0,42,10,41,310,31,99,17,1,46,8,37,Școala Gimnazială Golești,,Golești,45.6637,27.1651
+173,41,VRANCEA,GOLEŞTI,379,60,98,64,1,47,12,42,378,55,108,66,1,36,19,45,Cămin Cultural Golești,,Golești,45.6631,27.166
+148,41,VRANCEA,COTEŞTI,122,16,23,12,0,6,1,8,117,17,25,11,1,6,5,13,Grădinița Golestii de Sus,,Goleștii de Sus,45.6406,27.1021
+175,41,VRANCEA,GOLOGANU,281,11,47,29,0,23,6,32,295,11,48,29,0,24,8,21,Grădinița cu Program Normal Gologanu,,Gologanu,45.6085,27.2678
+176,41,VRANCEA,GOLOGANU,413,14,63,51,1,25,6,34,422,16,60,56,1,21,7,34,Școala Gimnazială „Prof. General Gheorghe Gheorghiu” Gologanu,,Gologanu,45.6087,27.2678
+177,41,VRANCEA,GUGEŞTI,395,16,58,22,0,17,7,53,398,19,58,25,0,17,10,43,Căminul Cultural „Nicolae Ciorăscu” Gugești,,Gugești,45.5663,27.1288
+178,41,VRANCEA,GUGEŞTI,393,21,95,17,0,27,9,32,400,26,93,22,0,18,14,31,Școala Gimnazială nr. 2 Gugești,,Gugești,45.579,27.1418
+179,41,VRANCEA,GUGEŞTI,240,7,51,7,0,10,4,20,252,10,46,7,0,7,3,18,Grădinița cu Program Normal nr. 3 Gugești,,Gugești,45.5764,27.1285
+180,41,VRANCEA,GUGEŞTI,226,17,58,26,1,9,6,39,237,16,64,24,1,9,11,25,Școala Gimnazială „Alexandru Vlahuță” Gugești,,Gugești,45.5652,27.1286
+182,41,VRANCEA,GURA CALIŢEI,72,4,155,7,0,6,4,56,85,4,172,8,0,17,4,20,Școala Generală Gura Calitei,,Gura Caliței,45.5815,27.0235
+183,41,VRANCEA,GURA CALIŢEI,35,0,51,19,0,2,2,13,37,0,51,18,0,1,3,8,Școala Generală Lacu Lui Baban,,Gura Caliței,45.6041,26.9843
+184,41,VRANCEA,GURA CALIŢEI,79,0,23,9,0,3,5,28,86,0,24,9,0,3,11,20,Școala Generală Poienile,,Gura Caliței,45.6222,26.9847
+185,41,VRANCEA,GURA CALIŢEI,55,0,58,4,1,4,1,3,55,0,58,2,1,4,1,5,Școala Generală Plopu,,Gura Caliței,45.6261,26.9599
+186,41,VRANCEA,GURA CALIŢEI,71,1,49,1,0,8,2,10,74,1,47,2,0,6,4,9,Școala Generală Dealul Lung,,Gura Caliței,45.6209,26.9457
+113,41,VRANCEA,BOLOTEŞTI,256,14,318,7,0,22,3,22,248,17,325,9,1,16,8,19,Școala Gimnazială Gagesti,,Găgești,45.865,27.0401
+114,41,VRANCEA,BOLOTEŞTI,85,0,156,1,1,5,1,13,86,0,157,3,1,4,2,9,Școala Gimnazială Gagesti,,Găgești,45.865,27.0401
+161,41,VRANCEA,DUMITREŞTI,187,5,18,6,0,2,3,6,181,5,19,7,0,1,3,10,Școala Primară Găloiești,,Găloiești,45.5556,26.9324
+80,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,125,1,36,4,0,33,2,17,124,2,35,5,0,30,2,17,Școala Primară Haret,,Haret,45.9195,27.2095
+187,41,VRANCEA,HOMOCEA,92,1,248,17,0,4,1,14,88,1,251,17,0,4,1,13,Caminul Cultural,,Homocea,46.1343,27.2384
+190,41,VRANCEA,HOMOCEA,107,5,253,18,0,10,2,19,112,3,246,19,0,9,4,25,Grădinița nr. 1 Centru Homocea,,Homocea,46.136,27.2378
+191,41,VRANCEA,HOMOCEA,113,6,214,13,0,9,10,28,113,6,207,15,0,11,9,27,Școala cu Clasele I-VIII,,Homocea,46.1358,27.2384
+356,41,VRANCEA,VULTURU,233,6,28,17,0,31,7,15,230,4,31,20,0,28,9,20,Școala Hangulesti,,Hângulești,45.5904,27.4066
+233,41,VRANCEA,PĂULEŞTI,251,3,12,14,0,1,1,6,237,3,17,14,0,3,3,12,Căminul Cultural Hăulișca,,Hăulișca,45.8806,26.6842
+320,41,VRANCEA,VIDRA,143,6,38,18,0,6,4,27,146,6,37,17,0,4,6,25,Școala Generală,,Irești,45.9278,26.945
+109,41,VRANCEA,BOGHEŞTI,57,0,3,1,0,1,2,6,59,0,1,1,0,1,3,4,Școala Iugani,,Iugani,46.1509,27.432
+112,41,VRANCEA,BOLOTEŞTI,42,0,94,2,0,5,0,7,42,0,97,3,1,4,2,6,Școala cu Cl. I-IV Ivancesti,,Ivăncești,45.8078,27.1384
+192,41,VRANCEA,JARIŞTEA,236,24,402,25,1,20,9,62,203,15,471,18,1,16,10,50,Școala Gimnazială Jaristea,,Jariștea,45.7967,27.0721
+193,41,VRANCEA,JARIŞTEA,108,4,176,10,0,8,7,27,101,3,197,8,0,7,4,22,Școala Generală nr. 2 Marginea,,Jariștea,45.7936,27.06
+279,41,VRANCEA,SLOBOZIA CIORĂŞTI,154,0,19,2,0,9,2,13,155,1,22,2,0,4,3,14,Grădinița cu Program Normal Jiliște,,Jiliște,45.6007,27.2408
+197,41,VRANCEA,JITIA,159,8,59,24,1,28,4,18,162,8,66,26,1,27,5,12,Școala cu Clasele I-IV Jitia,,Jitia,45.5869,26.7482
+198,41,VRANCEA,JITIA,141,0,8,3,0,8,1,9,148,0,6,3,0,8,1,5,Școala cu Clasele I-IV Jitia de Jos nr. 1,,Jitia de Jos,45.5688,26.7789
+338,41,VRANCEA,VÎNĂTORI,244,17,69,21,1,19,3,30,240,21,70,22,1,18,2,29,Grădinița cu Program Normal Jorăști,,Jorăști,45.7131,27.261
+306,41,VRANCEA,TULNICI,84,5,34,10,0,2,4,17,83,4,39,11,1,2,2,15,Școala Lepșa,,Lepșa,45.9506,26.5735
+188,41,VRANCEA,HOMOCEA,177,7,137,12,0,7,3,21,179,6,139,10,0,6,5,17,Caminul Cultural,,Lespezi,46.1607,27.2386
+336,41,VRANCEA,VIZANTEA-LIVEZI,97,2,108,5,1,16,3,14,93,3,112,6,2,15,6,15,Școala din Livezile,,Livezile,45.9547,26.8352
+122,41,VRANCEA,CHIOJDENI,230,3,134,4,0,4,0,17,234,2,137,4,0,4,3,16,Școala Primară Luncile,,Luncile,45.5616,26.8095
+210,41,VRANCEA,MILCOVUL,181,17,97,15,1,59,9,27,181,13,93,18,1,60,12,34,Școala Lamotesti,,Lămotești,45.6571,27.251
+157,41,VRANCEA,DUMITREŞTI,101,1,13,3,0,7,2,15,102,2,15,2,0,6,3,14,Școala Gimnazială Lăstuni,,Lăstuni,45.5993,26.894
+244,41,VRANCEA,POIANA CRISTEI,92,1,14,9,0,7,2,4,90,1,12,11,0,8,4,10,"Școala cu Clasele I-IV Sat Mahriu, Școala Coordonatorare Poiana Cristei",,Mahriu,45.6573,26.9619
+357,41,VRANCEA,VULTURU,126,4,23,8,0,15,1,11,125,4,22,6,2,18,1,11,Școala Maluri,,Maluri,45.561,27.439
+206,41,VRANCEA,MERA,350,9,73,13,0,14,12,32,361,9,65,13,0,11,18,32,Căminul Cultural „Dimitrie Cantemir”,,Mera,45.762,26.9367
+335,41,VRANCEA,VIZANTEA-LIVEZI,48,0,58,6,1,4,2,10,45,0,57,6,1,5,5,11,Școala din Mesteacanu,,Mesteacănu,45.9383,26.8297
+125,41,VRANCEA,CIORĂŞTI,98,9,88,5,0,11,3,22,105,6,92,6,0,9,8,20,Școala Primară Mihalceni,,Mihălceni,45.443,27.3039
+208,41,VRANCEA,MILCOVUL,281,20,117,8,1,14,3,23,295,19,97,15,0,11,7,24,Grădinița de Copii Milcovul,,Milcovul,45.6462,27.267
+209,41,VRANCEA,MILCOVUL,244,7,130,15,0,11,5,30,259,7,120,16,0,10,5,24,Școala Milcovul,,Milcovul,45.646,27.2662
+340,41,VRANCEA,VÎNĂTORI,173,22,37,14,0,7,3,25,181,23,41,13,2,8,1,19,Școala Gimnazială Mirceștii Noi,,Mirceștii Noi,45.7504,27.2685
+341,41,VRANCEA,VÎNĂTORI,81,10,10,5,0,7,1,9,80,11,12,7,0,5,2,8,Dispensarul Uman Mirceștii Vechi,,Mirceștii Vechi,45.7449,27.2881
+154,41,VRANCEA,DUMITREŞTI,125,2,18,4,0,2,2,11,113,2,20,5,0,3,3,10,Școala Primară Motnău,,Motnău,45.58,26.8822
+212,41,VRANCEA,MOVILIŢA,84,5,30,13,0,4,2,13,77,4,30,15,0,5,3,14,Grădinița Sperieti,,Movilița,45.9487,27.1105
+213,41,VRANCEA,MOVILIŢA,96,10,66,14,0,7,5,17,98,11,69,12,0,6,5,13,Școala nr. 2,,Movilița,45.9561,27.1053
+214,41,VRANCEA,MOVILIŢA,77,6,59,9,0,9,5,32,87,6,56,10,0,9,5,21,Școala nr. 1,,Movilița,45.9603,27.1051
+351,41,VRANCEA,VRÎNCIOAIA,178,0,22,6,0,4,3,12,180,1,20,7,1,4,2,9,Școala Primară Muncei,,Muncei,45.8551,26.6819
+286,41,VRANCEA,STRĂOANE,239,10,39,10,1,7,3,11,239,9,41,9,1,7,2,12,Camin Cultural,,Muncelu,45.9512,27.0303
+24,41,VRANCEA,MUNICIPIUL FOCŞANI,502,38,103,35,2,17,14,56,503,35,110,33,1,16,18,56,Consiliul Local al Municipiului Focșani (Fost Sediu al Școlii cu Clasele I-IV Mîndrești),,Mândrești-Munteni,45.6839,27.2447
+200,41,VRANCEA,MĂICĂNEŞTI,330,5,45,14,0,9,8,45,340,7,44,14,0,5,13,39,Școala Gimnazială Maicanesti,,Măicănești,45.502,27.4843
+201,41,VRANCEA,MĂICĂNEŞTI,192,21,42,11,0,9,2,22,198,20,48,10,0,7,5,20,Școala Generală Tataru,,Măicănești,45.5028,27.4725
+203,41,VRANCEA,MĂICĂNEŞTI,84,1,20,1,0,5,2,18,85,2,23,2,0,3,5,17,Școala Generală Slobozia-Botesti,,Măicănești,45.5177,27.4191
+204,41,VRANCEA,MĂICĂNEŞTI,80,3,16,2,0,4,0,7,87,2,17,1,0,6,0,4,Școala Generală Satu-Nou,,Măicănești,45.5152,27.3901
+205,41,VRANCEA,MĂICĂNEŞTI,96,2,26,5,0,3,1,10,97,1,28,5,0,3,2,13,Grădinița cu Program Normal Stupina,,Măicănești,45.4598,27.4387
+166,41,VRANCEA,FITIONEŞTI,115,3,30,10,0,5,1,11,117,3,33,11,0,6,0,6,Școala I-IV Manastioara,,Mănăstioara,45.963,27.072
+167,41,VRANCEA,FITIONEŞTI,20,1,17,2,0,1,1,4,21,0,17,2,0,1,2,2,Centrul de Zi Socio-Educational Multifunctional Comuna Fitionesti,,Mănăstioara,45.9553,27.083
+295,41,VRANCEA,TĂTĂRANU,131,4,37,10,1,9,1,20,135,3,38,11,0,11,1,15,Fosta Școala Generală Martinesti,,Mărtinești,45.504,27.3069
+73,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,319,18,66,23,0,32,5,27,321,19,62,30,0,30,7,27,Școala Gimnazială „Ecaterina Teodoroiu”,Str. Siret (Str. Mareșal Ion Antonescu) nr. 1,Mărășești,45.8771,27.2298
+74,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,437,0,24,10,0,30,2,53,472,1,30,9,3,27,5,22,Școala Primară „Siretu”,Str. Mareșal Alexandru Averescu (Str. 13 Decembrie) nr. 67,Mărășești,45.883,27.235
+75,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,145,11,49,6,0,14,7,28,146,12,47,12,0,12,10,26,Clubul Elevilor,Str. Mareșal Alexandru Averescu (Str. 13 Decembrie) nr. 7,Mărășești,45.878,27.2289
+76,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,351,28,83,26,1,27,13,43,351,27,75,30,0,20,17,53,Liceul Tehnologic „Eremia Grigorescu”,Str. Republicii nr. 74,Mărășești,45.8749,27.219
+77,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,298,25,76,27,1,31,4,34,293,24,78,36,2,25,9,33,Liceul Tehnologic „Eremia Grigorescu”,Str. Republicii nr. 74,Mărășești,45.8749,27.219
+78,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,216,19,54,12,0,15,8,22,218,19,51,14,0,11,10,22,Școala Generală nr. 2,Str. Garoafei,Mărășești,45.873,27.2188
+79,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,78,2,16,3,0,8,3,9,79,2,14,3,0,8,3,10,Statie C.F.R. Marasesti,Str. Doinei nr. 2,Mărășești,45.8757,27.2148
+255,41,VRANCEA,RĂCOASA,67,11,39,5,0,18,5,11,73,6,40,6,0,15,4,11,Școala Primară Marasti,,Mărăști,46.0101,26.8461
+328,41,VRANCEA,VINTILEASCA,113,0,13,3,0,11,3,28,122,1,11,5,0,19,8,12,Grădinița „Voinicelul” Neculele,,Neculele,45.6327,26.7105
+222,41,VRANCEA,NEGRILEŞTI,445,11,115,15,0,6,2,24,462,9,106,19,0,4,8,30,Școala Gimnazială „Dumitru Pricop”,,Negrilești,45.9367,26.7042
+98,41,VRANCEA,ORAŞ PANCIU,138,6,14,20,0,1,5,16,131,5,14,22,0,2,5,21,Caminul Cultural Neicu,Nr. 50,Neicu,45.9174,27.0747
+223,41,VRANCEA,NEREJU,333,7,126,15,1,18,3,31,340,5,135,14,2,18,3,21,Școala „Dimitrie Gusti” Nereju,,Nereju,45.7161,26.7231
+224,41,VRANCEA,NEREJU,316,2,163,13,1,19,2,41,314,4,168,20,0,20,9,25,Școala Gimnazială Nereju-Mic,,Nereju Mic,45.7116,26.7124
+225,41,VRANCEA,NEREJU,85,0,77,2,0,1,0,5,82,0,77,3,0,1,0,4,Internat Scolar,,Nereju Mic,45.7092,26.7014
+226,41,VRANCEA,NISTOREŞTI,230,5,48,17,2,7,7,52,239,5,54,15,0,6,9,37,Căminul Cultural,,Nistorești,45.8293,26.7245
+217,41,VRANCEA,NĂNEŞTI,147,11,60,16,1,12,7,43,152,14,62,17,1,14,12,32,Camin Cultural Nanesti,,Nănești,45.5499,27.4997
+220,41,VRANCEA,NĂRUJA,342,11,64,27,0,5,2,31,356,9,68,24,1,5,2,15,Căminul Cultural,,Năruja,45.823,26.7778
+228,41,VRANCEA,OBREJIŢA,354,3,62,25,1,34,1,21,353,4,61,24,3,37,3,19,Școala Gimnazială Obrejița,Nr. 366,Obrejița,45.5017,27.089
+143,41,VRANCEA,CORBIŢA,115,2,22,2,0,1,2,8,108,2,27,3,0,1,2,9,Școala Ocheșești,,Ocheșești,46.1494,27.3203
+84,41,VRANCEA,ORAŞ ODOBEŞTI,438,45,136,10,0,23,19,52,414,34,167,16,1,24,22,54,Biblioteca Oraseneasca „Ana Georgescu”,Nr. 122,Odobești,45.7591,27.0666
+85,41,VRANCEA,ORAŞ ODOBEŞTI,496,39,138,13,3,32,16,43,479,30,173,20,2,25,14,34,Liceul Teoretic „Duiliu Zamfirescu” Odobesti,Nr. 40,Odobești,45.7611,27.068
+86,41,VRANCEA,ORAŞ ODOBEŞTI,411,33,144,18,0,19,14,48,405,25,161,16,0,15,20,53,Grupul Scolar Agricol Odobesti,Nr. 42,Odobești,45.7631,27.0697
+87,41,VRANCEA,ORAŞ ODOBEŞTI,193,12,105,23,0,11,9,25,182,11,124,23,1,9,9,17,Grădinița nr. 2 Caragea,Nr. 161,Odobești,45.7538,27.0775
+310,41,VRANCEA,ŢIFEŞTI,99,5,52,22,0,35,3,18,105,8,55,22,0,27,2,16,Școala cu Clasele I-IV Oleșești,,Oleșești,45.8477,27.0994
+181,41,VRANCEA,GUGEŞTI,86,3,64,5,1,11,5,14,96,4,66,8,1,7,4,7,Școala Gimnazială nr. 4 Oreavu,,Oreavu,45.5895,27.1517
+229,41,VRANCEA,PALTIN,210,12,66,20,0,9,4,39,203,8,74,27,0,7,7,32,Camin Cultural Paltin,,Paltin,45.7843,26.7229
+230,41,VRANCEA,PALTIN,112,2,96,7,0,4,6,14,112,3,97,9,0,3,7,16,Camin Cultural Prahuda,,Paltin,45.7851,26.7578
+90,41,VRANCEA,ORAŞ PANCIU,302,43,89,42,1,34,16,44,298,45,93,43,1,32,17,42,Casa de Cultura a Orasului Panciu,Nr. 10,Panciu,45.9072,27.0932
+91,41,VRANCEA,ORAŞ PANCIU,353,28,50,24,0,20,16,49,349,32,60,25,1,16,14,42,Școala Generală nr. 1,Nr. 72,Panciu,45.9061,27.0896
+92,41,VRANCEA,ORAŞ PANCIU,198,25,78,33,2,14,7,38,189,28,76,41,2,16,12,37,Fostul Sediu Bancpost,Str. Nicolae Titulescu (Str. Mareșal Ion Antonescu) nr. 86,Panciu,45.9087,27.0872
+93,41,VRANCEA,ORAŞ PANCIU,236,31,76,32,0,24,6,25,231,32,84,32,0,20,11,28,Spitalul Orasenesc,Str. Nicolae Titulescu (Str. Mareșal Ion Antonescu) nr. 99,Panciu,45.9093,27.0864
+245,41,VRANCEA,POIANA CRISTEI,47,0,5,1,1,2,0,8,50,0,4,1,1,3,1,4,Școala cu Clasele I-IV Sat Petreanu. Școala Coordonatoare Poiana Cristei,,Petreanu,45.6778,26.9412
+339,41,VRANCEA,VÎNĂTORI,202,46,89,41,0,38,6,30,204,43,96,40,0,34,9,30,Grădinița cu Program Prelungit Petrești,,Petrești,45.728,27.2251
+334,41,VRANCEA,VIZANTEA-LIVEZI,52,1,64,3,1,3,2,8,58,2,62,4,1,3,1,8,Soala din Piiscu-Radului,,Piscu Radului,45.9621,26.8055
+239,41,VRANCEA,PLOSCUŢENI,220,8,35,9,1,7,0,16,223,10,39,10,0,8,3,10,"Școala Generală nr. 1, Corp A",,Ploscuțeni,46.0774,27.2692
+240,41,VRANCEA,PLOSCUŢENI,313,6,48,6,0,24,4,16,303,6,48,7,0,24,6,19,"Școala Generală nr. 1, Corp B",,Ploscuțeni,46.0774,27.2692
+243,41,VRANCEA,POIANA CRISTEI,118,3,23,11,0,14,4,15,113,2,25,11,2,16,3,16,"Școala cu Clasele I-IV Sat Podu Lacului, Școala Coordonatoare Poiana Cristei",,Podu Lacului,45.6472,26.9894
+221,41,VRANCEA,NĂRUJA,150,1,15,27,0,20,5,16,160,1,24,25,0,16,6,13,Școala cu Clasele I-IV,,Podu Nărujei,45.8216,26.7483
+349,41,VRANCEA,VRÎNCIOAIA,161,0,42,14,0,16,1,27,158,2,44,14,2,17,3,24,Școala Primară Poiana - Sala Gradiniței,,Poiana,45.8755,26.7576
+242,41,VRANCEA,POIANA CRISTEI,296,8,32,15,0,15,4,29,295,4,36,14,0,21,4,26,"Camin Cultural Poiana Cristei, Primăria Comunei Poiana Cristei",,Poiana Cristei,45.6544,26.9983
+331,41,VRANCEA,VINTILEASCA,28,0,10,3,0,0,1,6,31,0,8,2,0,2,1,2,Stație de Așteptare Microbuz,,Poiana Stoichii,45.6605,26.7493
+158,41,VRANCEA,DUMITREŞTI,84,0,28,1,0,1,2,5,80,1,27,3,1,1,2,4,Școala Primară Poienița,,Poienița,45.5915,26.9021
+247,41,VRANCEA,POPEŞTI,255,27,71,24,0,44,14,42,256,30,68,23,1,36,16,41,Școala Gimnazială Profesor Doctor General Gheorghe V. Zaharia,,Popești,45.594,27.0768
+248,41,VRANCEA,POPEŞTI,50,3,19,8,0,3,3,8,50,3,17,10,0,4,3,8,Fosta Gradiniță Popesti,,Popești,45.5923,27.063
+108,41,VRANCEA,BOGHEŞTI,153,2,5,8,0,8,1,11,155,1,6,14,0,8,1,8,Școala,,Prisecani,46.1777,27.4252
+250,41,VRANCEA,PUFEŞTI,201,21,67,44,0,43,12,38,204,21,71,50,1,33,11,35,Școala Gimnazială Pufești,,Pufești,45.999,27.2044
+111,41,VRANCEA,BOLOTEŞTI,96,10,135,5,0,9,0,13,97,8,146,6,0,6,1,8,Școala Gimnazială Putna,,Putna,45.8253,27.0984
+81,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,98,4,14,6,0,20,3,5,95,3,13,6,0,19,4,10,Școala Primară Pădureni,,Pădureni,45.9347,27.2225
+195,41,VRANCEA,JARIŞTEA,42,2,97,2,0,4,5,40,37,1,135,1,0,6,4,7,Școala Generală Padureni,,Pădureni,45.7947,27.0332
+231,41,VRANCEA,PĂULEŞTI,202,10,44,9,1,9,1,19,201,8,46,9,1,8,3,14,Camin Cultural Păulești,,Păulești,45.8933,26.6838
+232,41,VRANCEA,PĂULEŞTI,126,1,47,17,0,1,1,10,128,2,51,13,0,2,2,4,Școala cu Clasele I-IV Fundatura,,Păulești,45.889,26.6631
+234,41,VRANCEA,PĂUNEŞTI,134,9,125,9,0,29,4,26,137,11,133,6,0,24,10,28,Școala Primară Surlea,,Păunești,46.0352,27.1067
+235,41,VRANCEA,PĂUNEŞTI,173,16,213,16,1,18,8,28,162,17,217,14,1,16,7,30,Școala Primară Novacesti,,Păunești,46.0253,27.1091
+236,41,VRANCEA,PĂUNEŞTI,114,4,125,14,0,11,4,20,113,7,121,15,0,13,5,26,Școala Primară Bostanesti,,Păunești,46.0335,27.1128
+238,41,VRANCEA,PĂUNEŞTI,117,24,140,22,0,16,7,20,113,22,145,33,0,12,9,19,Camin Cultural Paunesti,,Păunești,46.0322,27.1111
+261,41,VRANCEA,REGHIU,151,2,59,6,0,4,0,26,150,2,65,6,1,4,1,19,Școala Primară Reghiu,,Reghiu,45.7929,26.8423
+285,41,VRANCEA,STRĂOANE,74,3,11,2,0,2,4,6,71,4,9,3,0,1,4,10,Școala Generală Repedea,,Repedea,45.9211,27.0331
+134,41,VRANCEA,CÎMPURI,169,2,18,7,0,11,5,15,172,1,21,7,0,8,7,15,Școala Gimnazială Rotilestii Mici,,Rotileștii Mici,46.0369,26.745
+281,41,VRANCEA,SOVEJA,247,4,44,11,1,39,5,29,250,4,50,16,1,33,8,25,Fosta Școala Generală,,Rucăreni,45.9957,26.6685
+263,41,VRANCEA,RUGINEŞTI,145,1,70,10,0,21,5,16,145,1,67,10,0,19,5,16,Camin Cultural,,Ruginești,46.0732,27.1334
+264,41,VRANCEA,RUGINEŞTI,133,4,61,12,1,24,5,15,139,6,54,13,0,25,7,17,Școala Generală,,Ruginești,46.0721,27.1341
+347,41,VRANCEA,VÎRTEŞCOIU,78,0,15,5,0,1,1,10,79,0,18,4,0,1,0,3,Școala Primară Rimniceanca,,Râmniceanca,45.7248,27.0562
+202,41,VRANCEA,MĂICĂNEŞTI,345,41,73,12,0,20,6,37,363,29,71,19,0,18,8,32,Școala Gimnazială Rimniceni,,Râmniceni,45.5154,27.4439
+100,41,VRANCEA,ANDREIAŞU DE JOS,188,1,75,0,0,10,1,11,182,2,76,0,0,8,0,8,Școala Primară nr. 1 Răchitașu,,Răchitașu,45.732,26.8085
+253,41,VRANCEA,RĂCOASA,172,11,63,19,0,19,5,23,171,10,68,21,0,15,6,19,Școala Generală Racoasa,,Răcoasa,45.9892,26.8769
+343,41,VRANCEA,VÎNĂTORI,128,11,43,7,0,6,4,20,127,10,44,7,0,5,6,24,Grădinița cu Program Normal Rădulești,,Rădulești,45.7419,27.3133
+142,41,VRANCEA,CORBIŢA,142,1,16,1,0,2,2,7,139,1,17,1,0,1,4,10,Școala Radacinesti,,Rădăcinești,46.1861,27.299
+262,41,VRANCEA,REGHIU,91,2,56,5,0,5,7,17,100,2,52,4,0,6,7,12,Școala Primară Raiuti,,Răiuți,45.813,26.8296
+258,41,VRANCEA,RĂSTOACA,180,6,215,15,2,25,2,40,180,6,218,18,2,26,4,33,Școala Gimnazială cu Clasele I-VIII Răstoaca,Nr. FN,Răstoaca,45.6584,27.2877
+259,41,VRANCEA,RĂSTOACA,129,18,141,6,0,13,7,18,137,14,141,5,0,12,7,18,Școala Gimnazială cu Clasele I-VIII Răstoaca,,Răstoaca,45.6584,27.2877
+126,41,VRANCEA,CIORĂŞTI,54,0,99,5,0,4,3,15,59,0,101,2,0,3,4,12,Camin Cultural Sat Salcia Noua,,Salcia Nouă,45.456,27.3385
+127,41,VRANCEA,CIORĂŞTI,49,0,58,1,0,8,3,8,51,0,64,1,0,5,3,8,Școala Salcia Veche,,Salcia Veche,45.4582,27.3066
+94,41,VRANCEA,ORAŞ PANCIU,209,12,35,24,0,9,4,36,208,14,40,23,0,9,5,33,Școala Generală Satu-Nou,Nr. 34,Satu Nou,45.8894,27.097
+128,41,VRANCEA,CIORĂŞTI,36,0,50,2,1,4,1,6,39,0,48,2,0,3,1,4,Școala Satu Nou,,Satu Nou,45.4295,27.3272
+324,41,VRANCEA,VIDRA,85,1,30,8,1,4,0,10,84,2,29,9,0,6,1,9,Școala Generală,,Scafari,45.9038,26.8858
+196,41,VRANCEA,JARIŞTEA,31,1,66,1,0,1,0,5,28,1,74,0,0,0,0,2,Școala Generală Scinteia,,Scânteia,45.8206,27.0282
+268,41,VRANCEA,SIHLEA,312,13,66,34,1,11,13,117,349,12,80,52,0,11,12,36,Primăria Comunei Sihlea,,Sihlea,45.4983,27.1264
+301,41,VRANCEA,TÂMBOEŞTI,205,16,172,5,0,14,5,44,205,15,188,10,0,10,8,30,Școala Slimnic,,Slimnic,45.5119,27.0539
+272,41,VRANCEA,SLOBOZIA BRADULUI,231,1,23,6,1,0,2,6,236,0,23,6,1,1,0,3,Școala Gimnazială Slobozia Bradului Sala A,,Slobozia Bradului,45.4886,27.0564
+273,41,VRANCEA,SLOBOZIA BRADULUI,280,0,22,2,0,3,1,10,278,0,27,2,0,4,4,7,Școala Gimnazială Slobozia Bradului Sala B,,Slobozia Bradului,45.4886,27.0564
+274,41,VRANCEA,SLOBOZIA BRADULUI,370,1,14,6,1,6,0,11,371,1,12,5,1,6,0,3,Școala Gimnazială Slobozia Bradului Sala C,,Slobozia Bradului,45.4886,27.0564
+278,41,VRANCEA,SLOBOZIA CIORĂŞTI,373,7,33,14,1,15,10,30,373,6,33,21,0,10,10,31,Grădinița cu Program Normal Slobozia Ciorăști,,Slobozia Ciorăști,45.6148,27.2047
+350,41,VRANCEA,VRÎNCIOAIA,206,2,10,11,0,3,2,20,198,5,14,9,0,6,2,17,Cămin Cultural Sat Spinești,,Spinești,45.8919,26.7052
+282,41,VRANCEA,SPULBER,392,3,66,15,0,7,8,28,384,4,66,20,0,5,7,33,Caminul Cultural,,Spulber,45.7491,26.7434
+129,41,VRANCEA,CIORĂŞTI,37,8,24,2,0,14,3,8,40,10,27,2,0,8,5,7,Școala Ovion Com Serv S.R.L.,,Spătăreasa,45.4279,27.3014
+283,41,VRANCEA,STRĂOANE,293,11,52,22,1,7,10,38,296,7,53,25,1,9,14,34,Caminul Cultural Straoane de Jos,,Străoane,45.9278,27.054
+284,41,VRANCEA,STRĂOANE,174,6,31,12,0,8,3,21,170,5,32,13,0,8,5,21,Caminul Cultural Straoane de Sus,,Străoane,45.9374,27.0462
+287,41,VRANCEA,SURAIA,197,15,132,21,2,55,3,31,208,21,146,23,0,37,5,24,Școala Gimnazială Suraia,,Suraia,45.6812,27.3848
+288,41,VRANCEA,SURAIA,158,20,105,21,0,78,2,23,173,20,122,21,1,51,4,16,Grădinița nr. 2 Suraia,,Suraia,45.6881,27.3745
+289,41,VRANCEA,SURAIA,163,21,81,14,0,37,1,25,169,17,94,13,0,28,4,23,Școala Veche Suraia,,Suraia,45.6736,27.3888
+311,41,VRANCEA,ŢIFEŞTI,88,10,48,21,0,31,4,11,88,6,49,22,0,24,9,20,Grădinița cu Program Nornal Sîrbi,,Sârbi,45.8664,27.0656
+249,41,VRANCEA,POPEŞTI,80,0,13,5,0,7,3,12,82,3,13,5,0,6,3,8,Școala Primară Terchesti,,Terchești,45.5797,27.0519
+325,41,VRANCEA,VIDRA,184,7,38,13,0,25,3,24,183,7,50,10,1,23,5,21,Școala Generală,,Tichiriș,45.8999,26.8762
+156,41,VRANCEA,DUMITREŞTI,68,0,15,1,0,6,2,5,72,0,17,3,0,1,2,5,Școala Primară Tinoasa,,Tinoasa,45.6145,26.8893
+83,41,VRANCEA,ORAŞ MĂRĂŞEŞTI,27,3,19,3,0,5,1,1,27,3,19,3,0,6,1,1,Școala Primară Doaga,,Tișița,45.8486,27.2748
+155,41,VRANCEA,DUMITREŞTI,42,2,10,1,0,1,3,5,37,2,11,1,0,1,3,6,Școala Primară Trestia,,Trestia,45.6034,26.8623
+302,41,VRANCEA,TÂMBOEŞTI,23,2,42,2,0,3,0,13,23,2,49,3,0,4,0,4,Școala Trestieni,,Trestieni,45.5154,27.0207
+215,41,VRANCEA,MOVILIŢA,61,1,39,4,0,3,3,20,62,4,38,4,0,2,8,19,Școala Primară Trotusanu,,Trotușanu,45.9817,27.0945
+303,41,VRANCEA,TULNICI,207,5,257,12,0,3,6,24,208,6,266,11,0,4,7,27,Casa Obștii Tulnici,,Tulnici,45.9168,26.6705
+304,41,VRANCEA,TULNICI,183,6,233,20,1,8,2,18,183,7,250,16,0,4,3,16,Casa Obștii Tulnici,,Tulnici,45.9168,26.6705
+300,41,VRANCEA,TÂMBOEŞTI,88,7,248,4,1,5,5,61,92,7,271,9,4,9,4,35,Primarie,,Tâmboești,45.5197,27.0485
+246,41,VRANCEA,POIANA CRISTEI,56,2,9,2,0,3,2,15,59,2,12,2,0,3,2,6,"Școala cu Clasele I-VIII Sat Tiritu, Școala Coordonatoare Poiana Cristei",,Târâtu,45.7045,26.8906
+290,41,VRANCEA,TĂNĂSOAIA,207,7,92,19,0,12,2,13,208,4,93,19,1,12,2,9,Camin Cultural,,Tănăsoaia,46.1045,27.3887
+291,41,VRANCEA,TĂNĂSOAIA,176,1,29,6,0,5,2,16,181,2,29,6,0,5,2,10,Școala Generală,,Tănăsoaia,46.1002,27.3498
+292,41,VRANCEA,TĂNĂSOAIA,77,0,29,2,0,3,1,4,79,1,26,3,0,3,1,5,Școala Generală,,Tănăsoaia,46.0976,27.4127
+293,41,VRANCEA,TĂNĂSOAIA,84,0,12,3,0,0,3,3,81,0,12,3,0,0,4,5,Școala Generală,,Tănăsoaia,46.1127,27.3584
+294,41,VRANCEA,TĂTĂRANU,175,3,87,14,2,23,3,34,173,8,87,17,5,24,6,31,Școala Gimnazială Tataranu,,Tătăranu,45.5137,27.3258
+88,41,VRANCEA,ORAŞ ODOBEŞTI,156,17,57,10,0,8,3,19,149,20,59,9,0,8,7,21,Grădinița nr. 5,,Unirea,45.7381,27.1088
+89,41,VRANCEA,ORAŞ ODOBEŞTI,342,20,81,23,1,13,7,21,330,23,89,20,0,10,9,23,Școala Generală Unirea,Nr. 386,Unirea,45.7377,27.1085
+312,41,VRANCEA,URECHEŞTI,235,8,208,23,1,30,6,64,243,10,221,24,2,23,8,43,Consiliul Local Urechești,Str. Crinului nr. 228,Urechești,45.6008,27.069
+313,41,VRANCEA,URECHEŞTI,78,6,52,14,1,10,2,28,87,4,64,13,2,8,2,14,Școala Primară Urechești,Str. Crinului nr. 4,Urechești,45.5959,27.1003
+358,41,VRANCEA,VULTURU,78,1,18,19,0,10,2,15,79,0,20,15,0,12,3,12,Școala Vadu Rosca,,Vadu Roșca,45.6364,27.4601
+147,41,VRANCEA,COTEŞTI,131,5,38,19,0,5,4,12,126,6,38,25,0,5,4,9,Școala Valea Cotesti,,Valea Cotești,45.6344,27.074
+314,41,VRANCEA,VALEA SĂRII,146,0,50,12,0,13,2,13,148,0,51,11,0,13,3,15,Școala Gimnazială „Vasile Iftimescu” Valea Sarii,,Valea Sării,45.8771,26.7981
+315,41,VRANCEA,VALEA SĂRII,153,5,49,11,0,56,3,7,149,5,51,12,0,46,6,11,Caminul Cultural Colacu,,Valea Sării,45.8899,26.8284
+316,41,VRANCEA,VALEA SĂRII,66,1,20,5,1,23,1,7,63,0,22,6,1,20,2,6,Școala Generală Poduri,,Valea Sării,45.8814,26.8201
+317,41,VRANCEA,VALEA SĂRII,63,0,4,3,0,5,1,8,64,0,6,3,0,4,5,9,Școala Prisaca,,Valea Sării,45.8629,26.7804
+256,41,VRANCEA,RĂCOASA,112,2,25,9,0,8,4,18,116,2,29,11,1,7,3,10,Școala Primară Varnita,,Varnița,45.9711,26.9624
+257,41,VRANCEA,RĂCOASA,143,1,48,13,0,19,12,22,140,1,47,13,0,23,13,23,Școala Primară Verdea,,Verdea,46.0134,26.8942
+227,41,VRANCEA,NISTOREŞTI,253,4,23,27,0,24,16,39,256,4,28,27,0,24,17,27,Căminul Cultural,,Vetrești-Herăstrău,45.8123,26.6583
+318,41,VRANCEA,VIDRA,357,21,122,26,1,36,8,39,345,20,133,31,0,29,9,42,Sala de Sport Vidra,,Vidra,45.911,26.9035
+237,41,VRANCEA,PĂUNEŞTI,146,9,86,6,0,33,2,14,138,10,90,7,0,30,4,20,Grădinița cu Program Normal Viisoara,,Viișoara,46.0517,27.0927
+326,41,VRANCEA,VIDRA,155,0,30,3,0,5,1,6,158,1,30,5,0,1,1,8,Școala Generală,,Viișoara,45.9208,26.8217
+327,41,VRANCEA,VINTILEASCA,226,5,23,10,0,12,7,21,231,7,25,7,0,9,11,20,Școala Gimnazială „Regina Maria” Vintileasca,,Vintileasca,45.6168,26.7097
+115,41,VRANCEA,BOLOTEŞTI,100,2,141,13,0,3,4,11,98,1,144,14,1,7,3,8,Școala cu Clasele I-IV Vitanestii de Sub Magura,,Vităneștii de sub Măgură,45.8722,27.0348
+333,41,VRANCEA,VIZANTEA-LIVEZI,140,7,290,5,0,5,1,13,134,9,283,4,0,6,2,19,Școala din Vizantea Manastireasca,,Vizantea Mănăstirească,45.9861,26.776
+332,41,VRANCEA,VIZANTEA-LIVEZI,64,2,90,11,0,34,3,21,68,2,88,9,0,35,5,19,Școala din Vizantea Razaseasca,,Vizantea Răzășească,45.9689,26.8121
+271,41,VRANCEA,SIHLEA,172,1,22,7,0,6,3,15,177,3,23,5,0,8,6,14,Școala Voetin,,Voetin,45.4436,27.1454
+319,41,VRANCEA,VIDRA,81,2,25,6,0,3,1,10,81,1,26,7,1,3,0,10,Școala Generală,,Voloșcani,45.9239,26.9164
+348,41,VRANCEA,VRÎNCIOAIA,95,4,33,18,0,27,6,37,99,4,36,21,0,28,7,18,Camin Cultural Vrincioaia,,Vrâncioaia,45.8643,26.7274
+207,41,VRANCEA,MERA,293,4,63,22,1,18,7,35,295,7,67,21,1,16,8,31,Școala Vulcaneasa,,Vulcăneasa,45.7749,26.9135
+352,41,VRANCEA,VULTURU,177,8,30,47,0,28,5,22,184,6,35,44,0,28,9,24,Școala Generală Vulturu,,Vulturu,45.6208,27.4231
+353,41,VRANCEA,VULTURU,197,10,22,63,0,21,5,18,212,11,30,50,0,19,5,18,Școala Generală Vulturu,,Vulturu,45.6208,27.4231
+354,41,VRANCEA,VULTURU,173,10,32,52,0,22,3,12,179,9,34,50,0,19,5,10,Grădinița nr. 1,,Vulturu,45.6187,27.4234
+296,41,VRANCEA,TĂTĂRANU,77,1,29,3,0,21,0,8,87,1,29,5,0,15,0,5,Fosta Școala Primară Vijiitoarea,,Vâjâitoarea,45.4798,27.3062
+337,41,VRANCEA,VÎNĂTORI,190,38,107,22,0,17,1,25,190,45,108,23,0,12,4,21,Școala Gimnazială Vînători,,Vânători,45.7242,27.2526
+344,41,VRANCEA,VÎRTEŞCOIU,313,11,48,14,0,16,7,29,309,13,52,18,1,15,11,26,Camin Cultural Virtescoiu,,Vârteșcoiu,45.7323,27.0842
+267,41,VRANCEA,RUGINEŞTI,40,0,24,3,0,4,3,11,41,0,22,3,0,5,3,11,Școala Generală,,Văleni,46.0711,27.1538
+194,41,VRANCEA,JARIŞTEA,49,3,113,5,0,5,3,23,47,3,130,5,0,2,4,13,Școala Generală Varsatura,,Vărsătura,45.7882,27.0424
+321,41,VRANCEA,VIDRA,93,6,32,13,0,10,5,20,97,5,32,13,0,10,4,17,Școala Generală,,Șerbești,45.922,26.9697
+140,41,VRANCEA,CORBIŢA,115,0,19,6,2,2,3,8,117,0,19,6,2,3,5,10,Primarie,,Șerbănești,46.162,27.3017
+260,41,VRANCEA,REGHIU,313,4,63,10,0,7,4,29,310,2,63,12,1,5,2,29,Școala Gimnazială Sindrilari nr. 1,,Șindrilari,45.7907,26.8789
+71,41,VRANCEA,MUNICIPIUL ADJUD,163,2,25,1,0,7,6,26,162,4,24,1,0,9,7,25,Școală Primară Siscani,,Șișcani,46.1513,27.1694
+307,41,VRANCEA,ŢIFEŞTI,108,15,80,17,0,37,11,25,102,15,91,18,0,26,11,28,Școala Gimnazială Țifești,,Țifești,45.856,27.0814

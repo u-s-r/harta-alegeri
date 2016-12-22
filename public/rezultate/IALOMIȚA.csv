@@ -1,0 +1,221 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+89,23,IALOMIȚA,ADÂNCATA,312,11,153,23,0,24,12,17,313,9,151,23,0,29,15,21,Sala de Sport de Lângă Primăria Comunei Adâncata,Str. Primăriei,Adâncata,44.7678,26.4366
+91,23,IALOMIȚA,ALBEŞTI,219,5,23,17,0,10,4,12,207,6,27,20,0,22,4,10,Școala Gimnazială „Constantin Stefan”,Str. Școlii nr. 1,Albești,44.5407,27.1327
+93,23,IALOMIȚA,ALEXENI,158,7,51,10,0,2,2,5,152,7,58,7,0,4,3,5,Școala Veche,Str. Primăriei nr. 6,Alexeni,44.6774,26.7111
+94,23,IALOMIȚA,ALEXENI,225,4,35,12,1,8,6,12,231,3,36,13,1,8,7,7,Școala Veche,Str. Primăriei nr. 6,Alexeni,44.6774,26.7111
+70,23,IALOMIȚA,ORAŞ AMARA,202,18,67,36,0,45,13,35,195,17,70,36,0,43,26,39,Grădinița cu Program Normal Amara,Str. Viilor (D),Amara,44.6206,27.3126
+71,23,IALOMIȚA,ORAŞ AMARA,177,22,60,22,0,30,15,28,175,25,57,23,0,34,12,23,Grădinița cu Program Normal Amara,Str. Viilor,Amara,44.6206,27.3126
+72,23,IALOMIȚA,ORAŞ AMARA,247,20,64,32,1,40,14,29,244,23,63,39,0,35,13,21,Școala Gimnazială George Valsan,Str. Tudor Vladimirescu (D) nr. 110,Amara,44.6221,27.3142
+73,23,IALOMIȚA,ORAŞ AMARA,279,16,70,31,1,20,8,18,275,19,68,29,3,24,9,18,Școala Gimnazială George Valsan,Str. Tudor Vladimirescu (D) nr. 110,Amara,44.6221,27.3142
+74,23,IALOMIȚA,ORAŞ AMARA,276,16,66,28,0,42,8,18,269,12,65,29,1,50,9,20,Casa de Cultura Jan Caciula,Str. Alexandru Ioan Cuza (D),Amara,44.621,27.3154
+95,23,IALOMIȚA,ANDRĂŞEŞTI,270,13,198,17,1,13,8,41,263,14,201,17,3,23,9,23,Școala Generală Andrășești,Str. Gheorghe Gr. Cantacuzino nr. 28,Andrășești,44.5752,27.1422
+97,23,IALOMIȚA,ARMĂŞEŞTI,143,0,19,6,1,8,8,16,141,0,19,6,0,9,10,16,Școala Generală Armășești,Str. Principală nr. 22,Armășești,44.7501,26.5827
+99,23,IALOMIȚA,AXINTELE,175,6,12,7,0,4,3,6,180,4,13,8,0,2,3,7,Primarie,Str. Principală nr. 22,Axintele,44.6096,26.7805
+100,23,IALOMIȚA,AXINTELE,130,0,46,6,1,7,3,14,131,4,42,6,1,12,4,10,Școala Frumușica,Str. Principală nr. 208,Axintele,44.6153,26.7394
+102,23,IALOMIȚA,BALACIU,120,7,18,0,0,9,4,13,124,8,18,1,0,9,2,10,Camin Cultural,Str. Calea București nr. 3,Balaciu,44.6346,26.8911
+103,23,IALOMIȚA,BALACIU,64,4,57,3,0,6,4,11,70,3,55,3,0,5,3,10,Școala Gimnazială „Arhimandrit Teofil” Balaciu,Str. Piteșteanu nr. 7,Balaciu,44.6349,26.9013
+30,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,118,11,25,10,1,13,7,19,119,9,25,11,1,14,10,15,Școala Generală Bora,,Bora,44.5578,27.395
+31,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,232,7,37,6,3,14,4,18,222,11,38,12,2,11,8,26,Școala Generală Bora,,Bora,44.5578,27.395
+115,23,IALOMIȚA,BORDUŞANI,155,0,110,13,0,56,12,27,149,6,112,13,0,60,9,17,Localul Școlii Vechi din Centrul Satului,Nr. 68,Bordușani,44.482,27.9123
+116,23,IALOMIȚA,BORDUŞANI,131,4,133,11,1,59,12,25,127,4,133,3,2,70,16,22,Localul Grupului Școlar Bordușani (Zona „Moară”),Nr. 47,Bordușani,44.4768,27.9066
+123,23,IALOMIȚA,CIOCHINA,65,0,207,16,0,4,3,7,64,2,204,16,0,4,2,7,Căminul Cultural din Satul Bordușelu,Str. Principală nr. 20,Bordușelu,44.5563,27.0401
+112,23,IALOMIȚA,BORĂNEŞTI,216,1,61,2,0,31,5,24,218,1,64,2,1,34,7,18,Școala Gimnazială,Str. 1 Decembrie 1918 nr. 135,Borănești,44.6616,26.6054
+113,23,IALOMIȚA,BORĂNEŞTI,148,2,41,6,0,6,2,8,149,4,39,6,0,8,2,2,Școala Gimnazială,Str. 1 Decembrie 1918 nr. 135,Borănești,44.6616,26.6054
+191,23,IALOMIȚA,RADULEŞTI,295,1,31,6,1,1,3,11,300,2,33,6,0,1,5,10,Școala Gimnazială Radulesti,Str. Primăriei nr. 14,Brazii,44.7658,26.3654
+163,23,IALOMIȚA,ION ROATĂ,184,5,72,15,0,8,7,10,184,4,67,16,0,8,6,12,Școala Gimnazială Ion Roata (Structura Brosteni),Str. Evanghelie Zappa nr. 8,Broșteni,44.6697,26.7463
+118,23,IALOMIȚA,BUCU,151,26,44,41,0,20,9,20,149,26,47,37,0,31,9,13,Căminul Cultural,Nr. 86,Bucu,44.6043,27.4925
+119,23,IALOMIȚA,BUCU,174,14,48,29,0,17,11,22,175,11,53,22,0,20,11,20,Căminul Cultural,Nr. 86,Bucu,44.6043,27.4925
+120,23,IALOMIȚA,BUEŞTI,468,6,27,4,0,3,3,6,472,6,24,4,0,5,2,4,Școala cu Clasele I-IV Buești,Str. Tineretului nr. 4,Buești,44.5423,27.1817
+106,23,IALOMIȚA,BĂRBULEŞTI,45,4,51,9,0,3,2,8,49,5,52,8,1,3,3,4,Școala Gimnazială Bărbulești,,Bărbulești,44.7257,26.5965
+107,23,IALOMIȚA,BĂRBULEŞTI,40,0,50,3,1,4,0,3,43,0,49,4,2,5,2,4,Școala Gimnazială Bărbulești,,Bărbulești,44.7257,26.5965
+108,23,IALOMIȚA,BĂRBULEŞTI,46,0,55,13,0,4,1,4,47,0,54,18,0,3,1,4,Școala Gimnazială Bărbulești,,Bărbulești,44.7257,26.5965
+109,23,IALOMIȚA,BĂRBULEŞTI,48,2,78,9,0,6,0,3,48,2,77,10,3,7,0,1,Școala Gimnazială Bărbulești,,Bărbulești,44.7257,26.5965
+110,23,IALOMIȚA,BĂRCĂNEŞTI,279,11,45,16,1,14,7,30,283,10,45,16,2,13,6,27,Școala Gimnazială Bărcănești,Șoseaua Mihai Viteazul nr. 166,Bărcănești,44.6368,26.6497
+117,23,IALOMIȚA,BORDUŞANI,102,5,128,7,0,27,3,12,108,4,132,4,0,28,1,6,Localul Școlii cu Clasele I- VIII Cegani,Nr. 82,Cegani,44.4617,27.9034
+122,23,IALOMIȚA,CIOCHINA,224,3,202,16,0,18,6,12,219,4,199,15,0,22,8,13,Căminul Cultural din Satul Ciochina,Str. Bisericii nr. 2,Ciochina,44.5934,27.058
+121,23,IALOMIȚA,CIOCÂRLIA,148,5,29,24,0,8,3,6,164,7,28,10,0,7,2,3,Școala Generală Ciocârlia,Str. Principală nr. 52,Ciocârlia,44.7986,26.6779
+125,23,IALOMIȚA,CIULNIŢA,135,15,18,10,1,83,4,16,148,17,17,8,1,79,5,13,Cămin Cultural Ciulnița,Str. Matei Basarab nr. 70,Ciulnița,44.5357,27.3449
+129,23,IALOMIȚA,COCORA,304,7,51,5,0,3,4,15,303,7,48,7,1,2,4,10,Școala Veche,Str. Școlii nr. 2,Cocora,44.738,27.0444
+130,23,IALOMIȚA,COCORA,304,5,49,14,1,9,4,12,305,8,49,15,1,9,6,11,Primăria Cocora,Str. Principală nr. 116,Cocora,44.7387,27.041
+131,23,IALOMIȚA,COLELIA,497,4,50,19,0,2,3,13,499,4,47,19,0,3,7,16,Școala cu Clasele I-VIII Colelia,Str. Primăriei nr. 26,Colelia,44.7595,27.01
+111,23,IALOMIȚA,BĂRCĂNEŞTI,162,6,49,11,1,19,6,62,177,9,65,15,1,18,11,19,Școala Gimnazială Condeești,Str. Mihai Viteazul nr. 133,Condeești,44.6254,26.6959
+105,23,IALOMIȚA,BALACIU,25,0,40,2,0,6,3,11,23,0,44,2,0,6,4,10,Grădinița Copuzu,Str. Școlii nr. 1,Copuzu,44.6021,26.8979
+132,23,IALOMIȚA,COSÂMBEŞTI,230,9,30,22,1,12,14,25,225,10,33,22,0,9,17,27,Caminul Cultural din Satul Cosâmbești,Șoseaua Slobozia-Țăndărei nr. 129,Cosâmbești,44.5593,27.4324
+134,23,IALOMIȚA,COŞERENI,216,12,195,40,0,13,30,37,218,13,194,39,0,14,28,36,Caminul Cultural Cosereni,Str. Unirii nr. 27,Coșereni,44.6823,26.5598
+135,23,IALOMIȚA,COŞERENI,193,13,94,17,1,11,18,33,196,14,94,17,0,11,15,27,Școala Generală Cosereni,Str. Linia Mare nr. 4,Coșereni,44.6889,26.567
+136,23,IALOMIȚA,COŞERENI,144,7,108,10,0,6,19,27,148,7,99,13,1,10,19,26,Gradinița Pătrime,Str. Unirii nr. 80,Coșereni,44.6868,26.5474
+195,23,IALOMIȚA,REVIGA,87,0,14,6,0,2,0,4,87,0,11,5,0,1,3,8,Școala Crunți,Str. Școlii nr. 2,Crunți,44.6607,27.1047
+104,23,IALOMIȚA,BALACIU,52,2,21,0,0,5,3,7,52,2,22,0,0,5,4,7,Sală Festivități,Str. Dacii Liberi nr. 36,Crăsanii de Jos,44.5993,26.8751
+75,23,IALOMIȚA,ORAŞ CĂZĂNEŞTI,268,14,58,31,4,83,16,24,279,11,65,28,2,80,17,25,Liceul Tehnologic - Corp B,Nr. 4,Căzănești,44.619,27.009
+76,23,IALOMIȚA,ORAŞ CĂZĂNEŞTI,213,9,36,44,3,73,11,35,212,8,36,46,4,74,11,21,Liceul Tehnologic,Nr. 15,Căzănești,44.6252,27.0024
+138,23,IALOMIȚA,DRIDU,162,8,117,11,0,11,7,12,167,10,110,11,0,10,7,12,Școala Gimnazială Dridu,Str. Principală nr. 181,Dridu,44.6952,26.4515
+139,23,IALOMIȚA,DRIDU,156,16,95,5,1,2,8,13,164,16,93,6,0,2,8,14,Grădinița Dridu - Moară,Str. Principală nr. 70,Dridu,44.6857,26.4383
+140,23,IALOMIȚA,DRIDU,113,6,53,5,1,4,3,6,117,3,49,3,1,5,4,12,Grădinița Dridu - Movila,Str. Principală nr. 243,Dridu,44.699,26.4584
+141,23,IALOMIȚA,DRIDU,52,2,44,1,0,1,4,4,47,2,46,1,0,1,4,4,Grădinița Dridu -Snagov,Str. Salcâmului nr. 30,Dridu-Snagov,44.7127,26.4514
+137,23,IALOMIȚA,DRĂGOEŞTI,232,11,116,15,1,4,3,19,228,11,114,15,1,4,3,19,Căminul Cultural Drăgoești,Str. Primăriei nr. 13,Drăgoești,44.5676,26.5354
+34,23,IALOMIȚA,MUNICIPIUL FETEŞTI,293,11,49,18,1,11,11,18,294,10,51,18,0,9,14,20,Școala Gimnazială „Mihai Viteazul” - Localul Buliga,Str. Călărași nr. 61,Fetești,44.3577,27.7941
+35,23,IALOMIȚA,MUNICIPIUL FETEŞTI,258,8,52,15,0,10,12,26,257,11,56,16,3,9,14,22,Școala Gimnazială „Mihai Viteazul” - Localul A,Str. Călărași nr. 82,Fetești,44.3679,27.8324
+36,23,IALOMIȚA,MUNICIPIUL FETEŞTI,213,12,40,7,0,10,6,10,209,12,43,8,0,9,7,11,Școala Cocolino S.R.L.,Str. Călărași nr. 201,Fetești,44.3671,27.8302
+37,23,IALOMIȚA,MUNICIPIUL FETEŞTI,236,4,59,17,1,5,12,19,245,4,55,13,1,5,14,19,Școala Gimnazială „Mihai Viteazul” - Localul B,Str. Călărași nr. 229,Fetești,44.3678,27.8322
+38,23,IALOMIȚA,MUNICIPIUL FETEŞTI,188,8,41,21,3,14,11,16,190,9,43,24,3,8,10,16,Școala Gimnazială „Mihai Viteazul” - Localul C,Str. Călărași nr. 263,Fetești,44.3715,27.8374
+39,23,IALOMIȚA,MUNICIPIUL FETEŞTI,284,16,54,10,1,15,12,25,279,17,57,10,1,19,10,23,Protopopiatul Fetesti,Str. Călărași nr. 395,Fetești,44.3781,27.8427
+40,23,IALOMIȚA,MUNICIPIUL FETEŞTI,182,6,50,11,0,5,9,16,180,8,55,12,1,6,10,12,Școala Gimnazială „Radu Voda”,Str. Luminii nr. 1,Fetești,44.3813,27.842
+41,23,IALOMIȚA,MUNICIPIUL FETEŞTI,181,2,43,9,0,1,2,5,180,6,41,6,0,5,4,5,Gradinița Școlii Gimnaziale nr. 4,Str. Mihail Sadoveanu nr. 25,Fetești,44.3944,27.8486
+42,23,IALOMIȚA,MUNICIPIUL FETEŞTI,230,7,56,19,2,4,5,35,256,8,62,23,1,5,4,13,Gradinița Școlii Gimnaziale nr. 4,Str. Mihail Sadoveanu nr. 25,Fetești,44.3944,27.8486
+43,23,IALOMIȚA,MUNICIPIUL FETEŞTI,310,22,55,20,1,14,21,35,299,26,58,21,1,15,24,35,Liceulu Tehnologic „Anghel Saligny”,Str. Călărași nr. 526,Fetești,44.4088,27.8283
+44,23,IALOMIȚA,MUNICIPIUL FETEŞTI,278,32,82,30,1,14,15,18,285,26,79,33,1,14,11,18,Liceul Teoretic „Carol I”,Str. Călărași nr. 530,Fetești,44.4099,27.8276
+45,23,IALOMIȚA,MUNICIPIUL FETEŞTI,348,40,79,21,0,33,16,28,356,41,76,20,0,24,18,28,Școala Gimnazială „Aurel Vlaicu”,Str. Călărași nr. 532,Fetești,44.4106,27.827
+46,23,IALOMIȚA,MUNICIPIUL FETEŞTI,354,25,86,28,0,20,15,33,352,25,88,28,1,21,14,32,Liceul Tehnologic de Industrie Alimentara,Str. Bănățenilor nr. 14,Fetești,44.409,27.8208
+47,23,IALOMIȚA,MUNICIPIUL FETEŞTI,306,21,56,20,2,27,15,28,309,22,53,22,2,27,12,24,Grădinița cu Program Prelungit „Alba Ca Zapada”,Str. Căminului nr. 1,Fetești,44.409,27.8249
+48,23,IALOMIȚA,MUNICIPIUL FETEŞTI,257,34,50,20,0,11,17,31,258,35,50,19,0,13,18,27,Sala de Sport,Str. Bănățenilor nr. 2,Fetești,44.4088,27.8216
+49,23,IALOMIȚA,MUNICIPIUL FETEŞTI,251,4,45,20,0,17,11,20,246,9,45,21,0,16,14,19,Liceul Tehnologic de Industrie Alimentara (fosta Școala nr. 8),Str. Sirenei nr. 28,Fetești,44.4121,27.8192
+50,23,IALOMIȚA,MUNICIPIUL FETEŞTI,257,16,51,27,0,7,21,27,260,20,49,24,0,6,19,25,Liceul Tehnologic de Industrie Alimentara (fosta Școala nr. 8),Str. Sirenei nr. 28,Fetești,44.4121,27.8192
+51,23,IALOMIȚA,MUNICIPIUL FETEŞTI,341,39,85,40,0,41,22,39,350,45,83,39,0,33,23,38,Grădinița nr. 1,Str. Depoului nr. 2,Fetești,44.4163,27.8205
+52,23,IALOMIȚA,MUNICIPIUL FETEŞTI,340,33,88,33,0,26,18,30,348,29,80,36,0,24,21,29,Școala Gimnazială „Dimitrie Cantemir”,Str. Vasile Lupu nr. 15,Fetești,44.4154,27.8273
+53,23,IALOMIȚA,MUNICIPIUL FETEŞTI,219,45,69,21,0,32,20,27,213,47,73,24,1,33,19,20,Școala Gimnazială „Dimitrie Cantemir”,Str. Vasile Lupu nr. 15,Fetești,44.4154,27.8273
+54,23,IALOMIȚA,MUNICIPIUL FETEŞTI,213,20,59,19,1,17,15,30,220,26,56,19,0,12,18,27,Școala Gimnazială „Dimitrie Cantemir”,Str. Vasile Lupu nr. 15,Fetești,44.4154,27.8273
+55,23,IALOMIȚA,MUNICIPIUL FETEŞTI,254,9,80,12,0,12,25,35,255,10,80,12,0,14,26,32,Centrul Social al Parohiei Fetesti Gara Ii,Str. Țăndărei nr. 6A,Fetești,44.4185,27.8297
+56,23,IALOMIȚA,MUNICIPIUL FETEŞTI,266,10,77,12,0,5,12,23,263,11,77,12,1,8,14,22,Agrosem,Str. Independenței nr. 40,Fetești,44.4197,27.8196
+57,23,IALOMIȚA,MUNICIPIUL FETEŞTI,206,13,65,12,0,6,17,31,209,15,63,12,1,6,18,23,Liceul Tehnologic „Anghel Saligny” (fosta Școala nr. 5),Str. Școlii nr. 21,Fetești,44.4262,27.8285
+58,23,IALOMIȚA,MUNICIPIUL FETEŞTI,172,3,72,14,0,7,10,15,172,4,71,12,0,8,8,14,Liceul Tehnologic „Anghel Saligny” (fosta Școala nr. 5),Str. Școlii nr. 21,Fetești,44.4262,27.8285
+77,23,IALOMIȚA,ORAŞ FIERBINŢI-TÂRG,302,15,184,18,0,6,16,28,322,18,165,16,1,8,17,28,Căminul Cultural,Nr. 15,Fierbinți-Târg,44.6817,26.3814
+79,23,IALOMIȚA,ORAŞ FIERBINŢI-TÂRG,218,9,188,4,1,5,12,17,219,9,175,6,1,6,13,17,Școala Generală cu Clasele I-IV Firbinți de Jos,Șoseaua Maia nr. 32,Fierbinții de Jos,44.6949,26.395
+78,23,IALOMIȚA,ORAŞ FIERBINŢI-TÂRG,376,14,236,9,0,7,13,19,375,16,230,6,1,10,11,19,Școala Generală cu Clasele I-IV Firbinți de Sus,Nr. 82,Fierbinții de Sus,44.6822,26.4006
+203,23,IALOMIȚA,SĂVENI,104,1,4,1,0,6,2,3,104,1,4,2,0,6,2,4,Școala Frățilești,Str. Radu cel Frumos nr. 59,Frățilești,44.6164,27.6032
+187,23,IALOMIȚA,PERIEŢI,71,6,18,11,0,16,3,5,71,6,17,12,0,18,3,3,Grădinița cu Program Normal Fundata,Str. Principală nr. 42,Fundata,44.589,27.2557
+142,23,IALOMIȚA,FĂCĂENI,181,17,146,13,1,16,11,26,178,18,149,12,1,19,10,19,Sam Facaeni,Str. Școlii nr. 2,Făcăeni,44.5584,27.8918
+143,23,IALOMIȚA,FĂCĂENI,215,13,130,22,0,18,12,23,223,11,136,19,0,17,12,18,Școala Generală Facaeni - Corp B,Str. Bisericii nr. 30 BIS,Făcăeni,44.5512,27.8911
+144,23,IALOMIȚA,FĂCĂENI,120,5,95,13,0,19,6,14,120,7,93,14,0,18,7,12,Școala Generală Facaeni - Corp C,Str. Dunării nr. 6,Făcăeni,44.5676,27.8909
+149,23,IALOMIȚA,GHEORGHE DOJA,209,9,130,12,1,12,12,17,206,10,130,12,0,15,16,19,Școala Gimnazială Gheorghe Doja Situată În Gheorghe Doja,Str. Bisericii nr. 29,Gheorghe Doja,44.6149,27.184
+150,23,IALOMIȚA,GHEORGHE DOJA,202,10,171,16,0,11,11,23,192,11,176,17,0,14,17,30,Școala Gimnazială Gheorghe Doja Situată În Gheorghe Doja,Str. Bisericii nr. 29,Gheorghe Doja,44.6149,27.184
+151,23,IALOMIȚA,GHEORGHE LAZĂR,315,10,33,82,1,7,3,10,343,9,32,65,1,7,5,11,Școala Generală Gheorghe Lazăr,Str. Matei Basarab nr. 48,Gheorghe Lazăr,44.6335,27.4543
+152,23,IALOMIȚA,GHEORGHE LAZĂR,250,9,36,46,0,11,7,18,261,9,31,42,0,11,6,16,Școala Generală Gheorghe Lazăr,Str. Matei Basarab nr. 48,Gheorghe Lazăr,44.6335,27.4543
+133,23,IALOMIȚA,COSÂMBEŞTI,233,4,61,7,2,11,13,22,235,5,57,9,1,14,16,22,Școala Gimbășani,Șoseaua Slobozia-Țăndărei nr. 129,Gimbășani,44.5623,27.4821
+153,23,IALOMIȚA,GIURGENI,323,11,122,8,2,9,4,12,321,11,122,10,1,12,4,9,Școala Gimnazială Giurgeni,Str. Mihai Viteazu nr. 15,Giurgeni,44.7412,27.8573
+218,23,IALOMIȚA,VALEA MĂCRIŞULUI,77,0,18,6,0,3,4,13,78,1,17,5,0,3,5,11,Cămin Cultural,Str. Centrală nr. 46,Grindași,44.7258,26.838
+154,23,IALOMIȚA,GRINDU,173,4,44,4,0,4,3,6,174,3,41,5,0,6,3,7,Căminul Cultural,,Grindu,44.7702,26.9084
+155,23,IALOMIȚA,GRINDU,138,3,59,2,0,9,4,8,138,5,60,3,0,8,3,4,Căminul Cultural,,Grindu,44.7702,26.9084
+156,23,IALOMIȚA,GRIVIŢA,144,11,97,18,0,9,2,13,147,12,96,19,0,9,2,11,Liceul Tehnologic Areta Teodorescu,Str. 6 nr. 29,Grivița,44.7373,27.2907
+157,23,IALOMIȚA,GRIVIŢA,140,5,95,8,0,8,5,12,136,4,101,7,0,8,5,9,Liceul Tehnologic Areta Teodorescu,Str. 6 nr. 29,Grivița,44.7373,27.2907
+159,23,IALOMIȚA,GURA IALOMIŢEI,207,10,60,18,1,8,8,12,203,7,61,16,1,5,9,17,Școala Gimnazială Constantin Gurgu nr. 1,Nr. 1,Gura Ialomiței,44.7118,27.7525
+146,23,IALOMIȚA,GÂRBOVI,127,14,25,10,0,8,5,12,127,12,25,11,0,8,6,10,Școala cu Clasele I-VIII Gârbovi,Str. Primăriei nr. 100,Gârbovi,44.5632,27.3557
+147,23,IALOMIȚA,GÂRBOVI,147,6,28,14,1,12,5,12,145,9,28,14,1,10,6,13,Școala cu Clasele I-VIII Gârbovi,Str. Primăriei nr. 100,Gârbovi,44.5632,27.3557
+148,23,IALOMIȚA,GÂRBOVI,141,7,31,11,0,9,10,16,141,10,30,9,1,10,11,15,Școala cu Clasele I-VIII Garbovi,Str. Primăriei,Gârbovi,44.5632,27.3557
+101,23,IALOMIȚA,AXINTELE,101,3,14,2,0,15,1,6,96,5,13,2,1,17,1,6,Școala Horia,Str. Sîrbeni nr. 1,Horia,44.5395,26.798
+206,23,IALOMIȚA,SCÂNTEIA,234,0,19,12,0,26,5,12,228,0,20,13,1,23,8,10,Școala cu Clasele I-IV Iazu,,Iazu,44.7303,27.4187
+126,23,IALOMIȚA,CIULNIŢA,67,4,21,3,0,22,7,13,63,7,20,4,0,26,8,11,Cămin Cultural Ion Ghica,Str. Octavian Goga nr. 18,Ion Ghica,44.5306,27.309
+161,23,IALOMIȚA,ION ROATĂ,136,4,131,7,0,4,6,15,140,4,132,6,0,3,8,10,Școala Gimnazială Ion Roata,Șoseaua București-Constanța nr. 41,Ion Roată,44.665,26.7716
+162,23,IALOMIȚA,ION ROATĂ,100,3,53,9,0,15,12,15,102,4,57,9,0,10,13,17,Grădinița Ion Roata (Localul Vechi Colinele),Șoseaua București-Constanța nr. 107,Ion Roată,44.6627,26.7862
+164,23,IALOMIȚA,JILAVELE,226,6,46,10,2,19,13,24,214,6,49,12,1,21,11,23,Școala nr. 1 Jilavele,Calea Urziceni nr. 75,Jilavele,44.7618,26.5295
+165,23,IALOMIȚA,JILAVELE,192,2,78,13,1,12,5,15,200,2,78,14,0,11,6,12,Școala nr. 2 Jilavele,Calea Urziceni nr. 75,Jilavele,44.7623,26.5289
+210,23,IALOMIȚA,SINEŞTI,145,30,28,8,0,6,5,6,146,29,27,9,0,6,4,4,"Școala cu Cl. I-IV Situată În Satul Lilieci, Sinești",Str. Sfântul Dimitrie,Lilieci,44.5478,26.3776
+160,23,IALOMIȚA,GURA IALOMIŢEI,232,13,42,4,0,8,1,16,233,12,42,3,0,9,3,17,Școala Generală Luciu,Șoseaua Brăilei nr. 189,Luciu,44.7452,27.7272
+190,23,IALOMIȚA,PLATONEŞTI,289,2,64,3,0,10,4,10,286,3,63,4,0,19,3,8,Grădinița cu Program Normal,Str. Grădiniței nr. 6,Lăcusteni,44.6073,27.6733
+167,23,IALOMIȚA,MAIA,314,5,87,79,1,16,7,21,297,5,82,83,1,22,7,15,"Școala cu Clasele I-VIII, „Barbu Catargiu”, Maia",Str. Școlii nr. 39,Maia,44.7379,26.3981
+208,23,IALOMIȚA,SFÂNTU GHEORGHE,158,3,92,12,0,10,6,14,160,3,91,11,0,11,6,14,"Căminul Cultural Malu, Salonul de Nunți Situată În Malu",Str. Principală nr. 4,Malu,44.6475,26.8317
+98,23,IALOMIȚA,ARMĂŞEŞTI,288,1,20,9,0,4,5,10,293,1,21,9,0,3,6,9,Școala Generală Malu Roșu,Str. Principală nr. 29,Malu Roșu,44.7763,26.5752
+168,23,IALOMIȚA,MANASIA,234,14,81,11,1,16,11,20,246,16,80,8,1,12,11,18,Școala Nouă,,Manasia,44.7064,26.6694
+169,23,IALOMIȚA,MANASIA,246,19,75,9,1,7,8,22,255,17,74,8,1,10,11,22,Școala Nouă,,Manasia,44.7064,26.6694
+170,23,IALOMIȚA,MANASIA,242,14,59,13,0,12,9,22,246,14,57,12,0,10,6,19,Școala Nouă,,Manasia,44.7064,26.6694
+92,23,IALOMIȚA,ALBEŞTI,157,4,47,8,0,6,5,14,152,4,43,10,0,9,5,13,Școala Primară Marsilieni,Str. Școlii nr. 8,Marsilieni,44.54,27.0908
+172,23,IALOMIȚA,MIHAIL KOGĂLNICEANU,275,9,189,8,0,17,9,19,276,11,185,9,0,15,10,21,Cămin Cultural Mihail Kogălniceanu,Str. Stadionului nr. 40,Mihail Kogălniceanu,44.6788,27.7121
+173,23,IALOMIȚA,MIHAIL KOGĂLNICEANU,196,3,169,4,0,7,8,18,189,4,169,3,0,11,11,23,Liceul Tehnologic Mihail Kogălniceanu,Str. Școlii nr. 22,Mihail Kogălniceanu,44.6787,27.7153
+174,23,IALOMIȚA,MILOŞEŞTI,245,10,115,39,0,17,9,20,246,7,116,39,0,20,8,16,Școala Gimnazială Miloșești,Str. Principală nr. 57,Miloșești,44.7359,27.2258
+188,23,IALOMIȚA,PERIEŢI,126,5,62,12,0,18,3,8,122,6,59,18,0,18,2,5,Școala Primară Misleanu,Str. Calea București nr. 48,Misleanu,44.574,27.2163
+177,23,IALOMIȚA,MOLDOVENI,446,5,54,12,0,5,8,14,449,7,50,13,0,5,5,10,Școala cu Clasele I-VIII Moldoveni,,Moldoveni,44.7146,26.5152
+178,23,IALOMIȚA,MOVILA,518,11,92,25,1,41,12,23,495,12,98,34,2,43,17,28,"Școala cu Clasele I-VIII, Movila",Nr. 2,Movila,44.5373,27.7134
+179,23,IALOMIȚA,MOVILIŢA,126,6,97,9,0,8,4,10,130,6,93,12,0,6,4,6,Școala Gimnazială Movilita,,Movilița,44.6384,26.4845
+180,23,IALOMIȚA,MOVILIŢA,104,5,66,7,0,7,1,5,104,7,61,10,0,6,1,6,Școala Gimnazială Movilita,,Movilița,44.6384,26.4845
+181,23,IALOMIȚA,MUNTENI-BUZĂU,364,14,117,28,0,12,8,19,365,17,115,25,1,16,8,14,Școala Generală nr. 1,Str. Primăriei nr. 137,Munteni-Buzău,44.6392,26.9716
+182,23,IALOMIȚA,MUNTENI-BUZĂU,264,18,69,38,1,10,3,17,278,16,64,37,1,11,1,16,Școala Generală nr. 2,Str. Școlii nr. 26A,Munteni-Buzău,44.6357,26.9839
+171,23,IALOMIȚA,MĂRCULEŞTI,343,7,35,7,1,44,4,10,327,6,30,9,0,53,5,16,Localul Școlii Gimnaziale din Comuna Mărculești,Nr. 56A,Mărculești,44.5644,27.515
+175,23,IALOMIȚA,MILOŞEŞTI,53,5,29,6,0,5,3,15,54,6,28,5,0,6,3,12,Școala Generală Nicolești,Str. Centrală nr. 4,Nicolești,44.7616,27.2103
+183,23,IALOMIȚA,OGRADA,265,3,66,12,0,11,8,14,257,3,69,13,0,13,8,15,Imobilul Școlii cu Clasele I-VIII „Ionel Perlea”,Str. Ionel Perlea nr. 142,Ograda,44.6139,27.5698
+184,23,IALOMIȚA,OGRADA,215,10,46,10,1,11,7,20,212,8,49,12,2,10,9,19,Imobilul Scolii cu Clasele I-VIII „Ionel Perlea”,Str. Ionel Perlea nr. 142,Ograda,44.6139,27.5698
+96,23,IALOMIȚA,ANDRĂŞEŞTI,52,2,41,9,0,2,1,3,54,2,43,6,0,2,1,4,Școala Orboești,Str. Școlii nr. 1,Orboești,44.5771,27.1029
+124,23,IALOMIȚA,CIOCHINA,81,0,122,14,1,3,5,7,77,1,128,12,1,4,3,5,Căminul Cultural din Satul Orezu,Str. Șoseaua Piersica nr. 4,Orezu,44.5832,26.9948
+90,23,IALOMIȚA,ADÂNCATA,97,2,35,10,0,30,4,16,102,2,34,10,0,33,6,11,Școala Generală Adâncata,Str. Principală,Patru Frați,44.7385,26.467
+185,23,IALOMIȚA,PERIEŢI,127,13,17,28,0,76,3,11,131,13,14,27,0,79,5,9,Școala Gimnazială Perieti,Str. Ialomiței nr. 21,Perieți,44.564,27.2464
+189,23,IALOMIȚA,PLATONEŞTI,304,3,32,2,1,3,9,17,294,3,29,3,1,5,13,25,Grădinița cu Program Normal Platonești,Nr. 9,Platonești,44.6066,27.6975
+127,23,IALOMIȚA,CIULNIŢA,48,6,7,10,0,23,4,5,46,5,8,10,0,23,4,5,Școala Poiana,Str. Primăverii nr. 3,Poiana,44.5487,27.2572
+128,23,IALOMIȚA,CIULNIŢA,33,2,7,4,0,39,3,5,35,2,6,4,0,40,4,5,Cămin Cultural Ghimpați,Str. Mihai Eminescu nr. 13,Poiana,44.5472,27.2284
+145,23,IALOMIȚA,FĂCĂENI,116,2,82,3,0,3,6,11,115,1,77,3,0,6,6,10,Sediul Administrativ Primăria Facaeni,Str. Apusului nr. 5,Progresu,44.5799,27.8665
+186,23,IALOMIȚA,PERIEŢI,99,6,51,17,0,130,7,10,101,9,43,18,1,131,7,10,Școala Primară Paltinisu,Str. Calea București nr. 28,Păltinișu,44.5682,27.2984
+199,23,IALOMIȚA,SĂLCIOARA,329,1,46,6,0,1,4,12,331,0,47,6,0,9,5,9,Școala Primară,,Rași,44.5355,26.9243
+193,23,IALOMIȚA,REVIGA,279,4,20,15,0,41,4,22,280,6,21,13,0,38,6,20,Școala Reviga,Șoseaua A. I. Cuza nr. 60,Reviga,44.7102,27.1008
+194,23,IALOMIȚA,REVIGA,114,3,54,2,0,13,4,12,118,2,55,1,1,13,3,8,Școala Rovine,Str. Școlii nr. 13,Rovine,44.6984,27.0915
+196,23,IALOMIȚA,ROŞIORI,144,0,151,36,0,4,8,19,143,1,149,40,0,1,10,19,Școala cu Clasele I-VIII Roșiori,Str. Independenței nr. 36,Roșiori,44.612,26.5336
+197,23,IALOMIȚA,ROŞIORI,102,1,88,24,0,7,0,6,93,2,87,26,0,8,2,8,Școala cu Clasele I-VIII Roșiori,Str. Independenței nr. 36,Roșiori,44.612,26.5336
+192,23,IALOMIȚA,RADULEŞTI,87,2,5,3,0,1,4,6,89,1,5,3,0,2,5,6,Școala Generală cu Clasele I-IV Răsimnicea,Șoseaua Ploiești nr. 67,Răsimnicea,44.7768,26.3374
+204,23,IALOMIȚA,SCÂNTEIA,353,10,39,9,1,16,4,20,354,13,40,10,0,12,8,17,Gradinița Scânteia,,Scânteia,44.7332,27.4639
+205,23,IALOMIȚA,SCÂNTEIA,361,5,31,13,1,13,3,15,350,7,31,12,1,16,4,16,Școala Generală Scânteia,,Scânteia,44.7347,27.4646
+207,23,IALOMIȚA,SFÂNTU GHEORGHE,126,4,76,4,0,10,8,13,127,5,71,3,0,11,10,15,Centrul Social de Zi Pentru Copii Viitorul Situată În Sfântu Gheorghe,Str. Principală nr. 43,Sfântu Gheorghe,44.6414,26.8647
+209,23,IALOMIȚA,SINEŞTI,226,24,83,8,1,5,2,6,228,24,83,6,1,5,4,9,"Căminul Cultural Situată În Satul Sinești, Sinești",Str. Libertății,Sinești,44.5644,26.3841
+114,23,IALOMIȚA,BORĂNEŞTI,109,2,17,1,0,6,3,4,109,3,16,1,0,6,3,6,Fosta Școală Sintești,Str. Sintescu Valter nr. 22,Sintești,44.6666,26.5831
+1,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,315,35,56,37,1,30,18,33,305,39,56,42,2,28,26,34,Grupul Școlar „Alexandru Ioan Cuza” (Liceul de Construcții),Str. Lacului nr. 10,Slobozia,44.5701,27.359
+2,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,235,48,70,33,0,38,21,38,224,46,71,39,0,45,30,42,Grupul Școlar „Alexandru Ioan Cuza” (Liceul de Construcții),Str. Lacului nr. 10,Slobozia,44.5701,27.359
+3,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,229,39,81,43,0,59,19,29,231,32,88,38,0,70,17,26,Școala Generală nr. 3,Bulevardul Unirii nr. 14,Slobozia,44.5649,27.3554
+4,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,217,30,46,22,1,44,17,32,208,36,51,21,0,48,19,31,Școala Generală nr. 3,Bulevardul Unirii nr. 14,Slobozia,44.5649,27.3554
+5,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,272,55,71,33,0,71,14,29,265,57,79,37,1,65,17,29,Colegiul Național „Mihai Viteazu” (Liceul de Matematică - Fizică),Bulevardul Unirii nr. 15,Slobozia,44.5639,27.3538
+6,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,375,67,101,46,0,55,23,43,358,67,109,52,0,61,22,39,Liceul Pedagogic „Matei Basarab” (Școala Normală),Bulevardul Matei Basarab nr. 3,Slobozia,44.5628,27.3545
+7,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,329,68,82,41,2,52,24,48,330,65,73,49,1,53,26,51,Muzeul Agriculturii,Bulevardul Matei Basarab nr. 2,Slobozia,44.5617,27.3519
+8,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,293,63,74,52,0,36,23,51,296,61,79,49,1,35,28,50,Școala Generală nr. 6,Aleea Parcului nr. 8,Slobozia,44.5588,27.3561
+9,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,278,26,72,23,1,25,24,44,274,23,71,28,1,29,24,44,Școala Generală nr. 6,Aleea Parcului nr. 8,Slobozia,44.5588,27.3561
+10,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,376,43,50,35,0,32,14,44,369,50,51,33,0,42,20,45,Liceulu Tehnologic,Str. Constantin Dobrogeanu Gherea nr. 4,Slobozia,44.5608,27.3575
+11,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,205,20,35,26,0,25,10,29,194,18,40,32,0,26,15,29,Clubul Tineretului,Bulevardul Chimiei nr. 10,Slobozia,44.5603,27.3602
+12,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,246,47,61,36,0,45,16,48,236,44,58,38,0,55,24,51,Seminarul Teologic,Str. Alexandru Odobescu nr. 2,Slobozia,44.5635,27.3589
+13,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,262,54,74,31,1,54,20,42,263,50,77,37,0,51,26,38,Casa de Cultură Municipală (Fostul Cinema „Galax”),Bulevardul Unirii nr. 6,Slobozia,44.5649,27.3582
+14,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,261,21,70,26,0,32,18,42,260,21,69,31,0,33,17,33,Liceul „Mihai Eminescu” (Liceul de Chimie),Nr. 9,Slobozia,44.569,27.3618
+15,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,354,32,71,39,0,35,25,60,345,38,76,41,0,37,28,57,Școala Generală nr. 4,Aleea Școlii nr. 2,Slobozia,44.5677,27.3654
+16,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,247,28,73,32,1,44,20,44,252,26,65,35,1,43,27,47,Școala Generală nr. 4,Aleea Școlii nr. 2,Slobozia,44.5677,27.3654
+17,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,317,98,95,45,0,69,31,55,310,93,102,43,0,76,33,51,Grădinița cu Program Prelungit,,Slobozia,44.565,27.3649
+18,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,310,60,73,39,0,62,25,42,290,62,80,37,1,77,26,37,Școlif,Str. Cuza Vodă nr. 2,Slobozia,44.5639,27.3656
+19,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,373,71,87,43,3,77,30,54,362,79,81,52,2,84,30,46,Școala Generală nr. 2,Bulevardul Matei Basarab nr. 35,Slobozia,44.5625,27.3659
+20,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,311,88,98,42,0,75,32,58,306,93,99,40,0,75,32,52,Școala Generală nr. 2,Bulevardul Matei Basarab nr. 35,Slobozia,44.5625,27.3659
+21,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,378,77,128,45,1,81,30,61,358,81,142,46,1,98,25,46,S.C. Drumuri și Poduri Ialomița,Str. Răzoare nr. 1,Slobozia,44.5601,27.3623
+22,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,348,96,93,47,0,68,28,54,344,93,91,54,0,75,22,45,Palatul Copiilor și Elevilor Slobozia,Bulevardul Matei Basarab nr. 54,Slobozia,44.5616,27.3701
+23,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,295,72,79,43,1,65,15,35,283,63,89,43,0,84,12,28,Palatul Copiilor și Elevilor Slobozia,Bulevardul Matei Basarab nr. 54,Slobozia,44.5616,27.3701
+24,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,215,46,63,23,3,48,13,27,204,39,71,22,0,60,14,29,Școala Generală nr. 1,Bulevardul Matei Basarab nr. 67,Slobozia,44.5625,27.3755
+25,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,184,60,65,24,0,30,18,48,183,58,65,27,0,36,19,42,Școala Generală nr. 1,Bulevardul Matei Basarab nr. 69,Slobozia,44.5625,27.3755
+26,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,229,35,60,31,0,30,14,35,224,37,62,28,0,37,15,29,Liceul de Artă,Nr. 3,Slobozia,44.5638,27.3761
+27,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,279,78,98,53,3,62,17,36,260,80,113,44,2,77,15,35,Liceul de Artă,Nr. 3,Slobozia,44.5638,27.3761
+28,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,290,60,79,33,0,49,15,42,277,64,82,32,0,63,17,35,Grădinița cu Program Prelungit nr. 3,Nr. 6,Slobozia,44.5639,27.3779
+29,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,319,49,95,39,2,80,25,49,307,52,100,44,2,88,27,47,Atelierele de Creație Ale Liceului de Artă,Str. Independenței,Slobozia,44.5659,27.376
+32,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,227,20,64,26,0,26,22,41,230,21,66,26,1,29,22,32,Școala Generală nr. 5 Slobozia Nouă,,Slobozia Nouă,44.6022,27.386
+33,23,IALOMIȚA,MUNICIPIUL SLOBOZIA,179,23,50,17,0,17,9,17,177,23,45,16,0,20,13,24,Școala Generală nr. 5 Slobozia Nouă,,Slobozia Nouă,44.6022,27.386
+166,23,IALOMIȚA,JILAVELE,71,3,15,0,0,1,10,13,72,6,11,0,0,2,10,11,Școala din Satul Slătioarele,Str. Școlii nr. 18,Slătioarele,44.7877,26.5121
+158,23,IALOMIȚA,GRIVIŢA,140,4,73,13,0,6,5,27,135,7,69,15,0,7,6,34,Școala cu Clasele I-IV,Str. Principală nr. 52,Smirna,44.7237,27.3541
+211,23,IALOMIȚA,STELNICA,415,7,87,12,0,26,6,18,419,6,81,13,0,27,8,22,Primăria Stelnica,Str. Eroilor Aviatori nr. 58,Stelnica,44.4129,27.8855
+212,23,IALOMIȚA,SUDIŢI,213,2,19,8,1,40,4,22,216,1,23,8,1,32,7,21,Școala Gimnazială „Apostol D Culea”,Str. Eroilor nr. 1,Sudiți,44.5716,27.5961
+213,23,IALOMIȚA,SUDIŢI,215,3,25,5,0,35,3,10,221,5,22,4,0,28,4,9,Școala Gimnazială „Apostol D Culea”,Str. Eroilor nr. 1,Sudiți,44.5716,27.5961
+198,23,IALOMIȚA,SĂLCIOARA,184,12,85,20,0,7,1,5,179,11,89,19,1,11,1,5,Școala Gimnazială,,Sălcioara,44.54,26.8808
+200,23,IALOMIȚA,SĂRĂŢENI,180,8,241,4,0,12,7,25,193,9,244,5,0,11,7,17,Școala Primară Sarateni,Str. Primăverii nr. 25,Sărățeni,44.6339,26.9249
+201,23,IALOMIȚA,SĂVENI,478,5,18,6,1,6,1,9,470,7,19,7,0,7,4,12,Școala Șăveni,Str. Nicolae Iorga nr. 30,Săveni,44.6036,27.6348
+202,23,IALOMIȚA,SĂVENI,483,3,21,8,0,7,6,15,481,4,20,7,1,8,4,10,Gradinița Săveni,Str. Nicolae Iorga nr. 32,Săveni,44.6043,27.6343
+176,23,IALOMIȚA,MILOŞEŞTI,49,0,34,28,0,6,5,10,51,0,33,28,0,6,5,7,Școala Generală Tovărășia,Str. Stadionului nr. 28,Tovărășia,44.7809,27.1635
+214,23,IALOMIȚA,TRAIAN,395,10,50,9,0,15,14,21,380,10,58,12,0,14,11,17,Grădinița cu Program Normal Traian,Str. Grădiniței nr. 445 A,Traian,44.7654,27.3409
+215,23,IALOMIȚA,TRAIAN,335,3,55,5,1,15,15,38,357,4,53,6,0,16,19,28,Școala Profesională Traian,Str. Nalbei nr. 999,Traian,44.7566,27.3374
+59,23,IALOMIȚA,MUNICIPIUL URZICENI,159,39,41,18,0,29,13,23,158,41,45,23,0,27,8,13,Grădinița cu Program Prelungit,Str. Revoluției nr. 12,Urziceni,44.7161,26.642
+60,23,IALOMIȚA,MUNICIPIUL URZICENI,216,21,52,15,0,21,20,33,211,23,50,14,0,26,15,32,Școala cu Clasele I-VIII nr. 3 din Urziceni,Str. Cpt. Urzică (Str. 16 Februarie) nr. 27,Urziceni,44.7187,26.6301
+61,23,IALOMIȚA,MUNICIPIUL URZICENI,177,47,90,38,0,28,16,26,180,49,82,35,0,31,16,29,Grădinița de Copii,Str. Panduri nr. 17A,Urziceni,44.7141,26.6364
+62,23,IALOMIȚA,MUNICIPIUL URZICENI,237,27,50,43,0,26,27,42,242,27,57,37,1,29,24,34,Casa de Cultură,Str. Regele Ferdinand (Str. Buzăului) nr. 61B,Urziceni,44.7171,26.6379
+63,23,IALOMIȚA,MUNICIPIUL URZICENI,289,52,65,40,0,38,29,57,300,52,68,35,1,36,24,47,Grupul Școlar „Sf. Ecaterina”,Str. Panduri nr. 51,Urziceni,44.7153,26.641
+64,23,IALOMIȚA,MUNICIPIUL URZICENI,199,60,112,31,1,25,27,46,203,62,113,27,0,27,25,43,Școala Generală Alexandru Odobescu,Str. Aurora nr. 6,Urziceni,44.7128,26.6416
+65,23,IALOMIȚA,MUNICIPIUL URZICENI,334,56,112,44,1,37,43,61,334,59,109,43,1,45,37,51,Clubul Sindicatelor,Calea București (Str. Scînteia) nr. 66,Urziceni,44.7145,26.6452
+66,23,IALOMIȚA,MUNICIPIUL URZICENI,290,44,84,25,0,32,42,66,308,46,82,27,0,33,32,50,Școala Generală Ion Heliade Radulescu,Calea București (Str. Scînteia) nr. 74,Urziceni,44.7147,26.6485
+67,23,IALOMIȚA,MUNICIPIUL URZICENI,252,31,53,28,1,27,23,39,259,34,56,28,1,26,18,27,Școala Generală Ion Heliade Radulescu,Calea București (Str. Scînteia) nr. 74,Urziceni,44.7147,26.6485
+68,23,IALOMIȚA,MUNICIPIUL URZICENI,205,38,65,35,0,23,26,47,206,40,67,34,0,25,32,45,Internatul Colegiului National Grigore Moisil,Str. Alexandru Ioan Cuza (Str. Școlii) nr. 9A,Urziceni,44.7127,26.6497
+69,23,IALOMIȚA,MUNICIPIUL URZICENI,188,21,53,31,0,16,17,26,196,22,51,31,1,14,17,23,Liceul Tehnologic Urziceni,Str. Petroliștilor nr. 16,Urziceni,44.7153,26.641
+216,23,IALOMIȚA,VALEA CIORII,565,4,62,17,1,6,16,31,565,5,63,16,1,11,17,30,Primăria Valea Ciorii,Str. Mihai Eminescu nr. 65,Valea Ciorii,44.717,27.5512
+217,23,IALOMIȚA,VALEA MĂCRIŞULUI,241,16,31,14,0,7,3,14,235,16,36,15,0,6,5,13,Cămin Cultural,Str. Principală nr. 55,Valea Măcrișului,44.7435,26.8321
+219,23,IALOMIȚA,VLĂDENI,176,1,264,5,2,6,2,6,170,3,262,8,2,7,6,14,Căminul Cultural,Str. Mihai Viteazul nr. 80,Vlădeni,44.6047,27.8468
+220,23,IALOMIȚA,VLĂDENI,144,2,250,10,0,6,2,4,145,1,242,10,0,6,5,7,Căminul Cultural,Str. Mihai Viteazul nr. 80,Vlădeni,44.6047,27.8468
+80,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,213,16,87,17,0,11,14,30,213,15,83,16,1,15,14,30,Grupul Scolar Agricol,Str. Fetești nr. 3,Țăndărei,44.6386,27.6617
+81,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,151,8,63,4,0,12,12,24,162,7,65,6,0,13,10,15,Liceul Teoretic „Paul Georgescu”,Bulevardul Ionel Perlea (Str. 23 August) nr. 8,Țăndărei,44.638,27.6639
+82,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,134,28,70,18,0,13,9,14,124,26,69,21,0,23,8,15,Liceul Teoretic „Paul Georgescu”,Bulevardul Ionel Perlea (Str. 23 August) nr. 8,Țăndărei,44.638,27.6639
+83,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,305,29,94,21,1,17,16,27,305,32,96,20,1,15,16,25,Școala nr. 2,Str. Barierei nr. 10,Țăndărei,44.6418,27.665
+84,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,206,8,61,13,0,18,5,16,215,7,62,14,0,18,6,18,Școala nr. 2,Str. Barierei nr. 10,Țăndărei,44.6418,27.665
+85,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,233,15,68,14,2,18,10,26,219,12,70,15,2,21,12,31,Școala nr. 1 Țăndărei,Str. Narciselor nr. 32,Țăndărei,44.6482,27.6525
+86,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,243,12,49,21,0,16,14,32,230,14,50,25,0,18,16,32,Fost Sediu Primărie,Șoseaua București nr. 159,Țăndărei,44.6426,27.6541
+87,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,73,3,16,3,1,11,2,11,77,2,18,3,1,10,4,10,Școala nr. 1,Șoseaua București nr. 20,Țăndărei,44.6418,27.6373
+88,23,IALOMIȚA,ORAŞ ŢĂNDĂREI,44,0,6,3,0,2,2,7,44,0,7,2,0,2,0,7,Consumcoop,Șoseaua București nr. 34,Țăndărei,44.6423,27.6374

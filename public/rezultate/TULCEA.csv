@@ -1,0 +1,205 @@
+id,nr_circumscriptie,circumscriptie,localitate,psd_cdep,usr_cdep,pnl_cdep,pmp_cdep,udmr_cdep,alde_cdep,pru_cdep,altele_cdep,psd_senat,usr_senat,pnl_senat,pmp_senat,udmr_senat,alde_senat,pru_senat,altele_senat,name,address,city,lat,lng
+201,38,TULCEA,VALEA NUCARILOR,295,9,66,16,2,14,8,37,300,11,65,17,4,16,9,29,Căminul Cultural,Str. Parcului nr. 2,Agighiol,45.0341,28.8773
+133,38,TULCEA,IZVOARELE,34,2,55,2,0,2,4,14,39,1,55,2,0,2,4,7,Școala Primară,Str. Școlii nr. 6,Alba,45.0637,28.5184
+108,38,TULCEA,CIUCUROVA,8,0,21,0,1,12,2,3,7,0,23,0,0,11,2,4,Școala Primară,Str. Bisericii nr. 2,Atmagea,44.9626,28.4357
+54,38,TULCEA,ORAŞ BABADAG,294,19,140,27,4,12,8,22,306,20,131,27,3,14,9,19,Grup Scolar Dimitrie Cantemir,Str. Aurel Vlaicu nr. 3,Babadag,44.8943,28.7231
+55,38,TULCEA,ORAŞ BABADAG,394,24,160,45,3,8,16,49,402,25,156,47,2,11,17,43,Școala Generală nr. 1 Mircea Cel Batran,Str. Cabanei nr. 6,Babadag,44.8901,28.7262
+56,38,TULCEA,ORAŞ BABADAG,303,14,143,19,2,8,4,31,309,16,140,25,2,12,8,23,Școala Generală nr. 2,Str. Republicii nr. 142,Babadag,44.8889,28.7077
+57,38,TULCEA,ORAŞ BABADAG,176,5,80,7,1,2,8,23,179,7,79,12,3,0,8,17,Școala Generală nr. 3 „Constantin Brâncoveanu”,Str. Heracleea (Str. 30 Decembrie) nr. 15,Babadag,44.8919,28.727
+58,38,TULCEA,ORAŞ BABADAG,111,4,59,9,2,5,1,10,117,5,58,9,1,1,1,8,Grădinița de Copii nr. 2-Veterani,Str. Republicii nr. 198,Babadag,44.888,28.7055
+59,38,TULCEA,ORAŞ BABADAG,314,19,174,21,3,8,4,29,336,19,168,21,4,9,4,17,Salonul de Nunți,Str. Pavel Gheorghe (Str. 6 Martie) nr. 4,Babadag,44.8946,28.7213
+75,38,TULCEA,BAIA,325,15,112,28,1,21,13,56,332,22,115,28,2,22,16,33,Școala Gimnazială Baia,Str. Republicii (Str. Incinta I.A.S.) (D) nr. 23,Baia,44.7258,28.6798
+76,38,TULCEA,BAIA,184,5,34,6,0,14,6,22,190,4,32,7,0,17,6,15,Școala cu Clasele I-IV Baia,Str. Oborului nr. 17,Baia,44.7227,28.6723
+126,38,TULCEA,HAMCEARCA,61,0,107,11,1,6,3,9,61,0,106,9,1,7,3,8,Școala,Nr. 90,Balabancea,45.1139,28.3929
+81,38,TULCEA,BEIDAUD,55,1,37,4,0,13,2,11,56,2,43,3,1,15,4,6,Publica,Str. Primăriei,Beidaud,44.7167,28.5747
+84,38,TULCEA,BEŞTEPE,228,10,55,41,4,59,26,57,228,13,60,43,3,61,28,51,Școala Gimnazială Beștepe,"Str. Tulcei (Str. Nouă, Str. Dorinței, Str. Orizont) nr. 74",Beștepe,45.0907,29.015
+85,38,TULCEA,BEŞTEPE,17,0,5,4,0,3,1,5,16,0,6,5,0,3,1,4,Școala,Str. Zaton nr. 67,Băltenii de Jos,45.1202,29.0545
+88,38,TULCEA,C.A. ROSETTI,26,6,25,3,2,1,2,15,31,5,25,4,2,2,3,10,Școala Gimnazială,C.A. ROSETTI Str. Păcii nr. 15,C.A. Rosetti,45.2929,29.5686
+192,38,TULCEA,TOPOLOG,29,0,16,1,1,8,1,7,33,1,16,1,1,9,1,2,Școala Generală,Str. Trandafirilor nr. 3,Calfa,44.8262,28.3487
+77,38,TULCEA,BAIA,59,0,48,3,0,4,1,16,58,0,48,4,0,4,2,18,Școala Primară Camena,Str. Republicii nr. 20,Camena,44.8086,28.6064
+111,38,TULCEA,CRIŞAN,25,4,27,6,1,21,4,15,27,4,30,4,0,20,3,12,Școala Primară Caraorman,Str. A I-a nr. 95,Caraorman,45.0782,29.3912
+89,38,TULCEA,CARCALIU,130,8,32,6,3,115,4,95,188,14,41,7,4,125,6,25,Școala Gimnazială Carcaliu,Str. Școlii nr. 1230,Carcaliu,45.1852,28.1427
+90,38,TULCEA,CARCALIU,84,3,29,14,1,87,8,79,122,5,46,15,3,93,9,20,Școala Gimnazială Carcaliu,Str. Școlii nr. 1230,Carcaliu,45.1852,28.1427
+92,38,TULCEA,CASIMCEA,133,10,138,20,2,2,4,20,139,12,134,28,1,5,2,11,Școala Gimnazială,Str. Principală nr. 30,Casimcea,44.7195,28.3772
+118,38,TULCEA,FRECĂŢEI,228,15,54,17,2,8,9,35,229,13,58,21,2,7,13,28,Centru Multifunctional Cataloi,Str. Principală nr. 48,Cataloi,45.0977,28.7236
+78,38,TULCEA,BAIA,31,1,31,4,3,4,2,10,38,1,31,3,3,4,2,6,Școala cu Clasele I-IV Caugagia,Str. Republicii nr. 12,Caugagia,44.7916,28.665
+96,38,TULCEA,CEAMURLIA DE JOS,172,7,67,9,2,73,2,12,182,6,75,6,2,54,3,14,Școala Gimnzială Cemurlia de Jos,Str. Principală nr. 31,Ceamurlia de Jos,44.7432,28.724
+80,38,TULCEA,BAIA,40,0,39,10,0,18,1,9,46,0,40,8,0,15,0,8,Școala Gimnazială Ceamurlia de Sus,Str. Școlii nr. 2,Ceamurlia de Sus,44.7606,28.6069
+99,38,TULCEA,CEATALCHIOI,79,1,18,7,1,23,2,6,79,1,17,6,1,27,3,6,Căminul Cultural,Str. Primăverii nr. 42,Ceatalchioi,45.2866,28.789
+193,38,TULCEA,TOPOLOG,53,0,14,4,0,3,3,7,50,1,14,5,0,3,3,9,Școala Generală,Str. Magnoliei nr. 25,Cerbu,44.8282,28.4249
+102,38,TULCEA,CERNA,403,10,52,28,3,28,13,41,399,16,54,30,6,29,8,31,Școala Gimnazială „Panait Cerna”,Str. Școlii nr. 1,Cerna,45.0768,28.2982
+105,38,TULCEA,CHILIA VECHE,170,12,22,21,2,6,7,21,162,14,25,23,2,5,14,24,Camin Cultural,Nr. 68,Chilia Veche,45.4236,29.2865
+106,38,TULCEA,CHILIA VECHE,144,5,21,8,0,4,5,26,152,5,23,8,0,6,4,15,Camin Cultural,Nr. 68,Chilia Veche,45.4236,29.2865
+107,38,TULCEA,CIUCUROVA,122,6,190,11,2,37,2,44,128,6,222,13,2,41,3,17,Școala Gimnazială,Str. Principală nr. 168,Ciucurova,44.9145,28.4822
+91,38,TULCEA,CASIMCEA,21,0,7,2,0,2,1,3,22,0,6,2,0,2,1,3,Școala,Str. Școlii nr. 3,Cișmeaua Nouă,44.801,28.3333
+128,38,TULCEA,HORIA,47,0,3,1,0,1,2,4,47,0,4,1,0,1,2,3,Școala cu Clasele I-IV,Nr. 1,Cloșca,45.0099,28.4757
+157,38,TULCEA,MURIGHIOL,20,2,12,1,1,10,2,7,21,2,16,1,0,9,1,4,Școala cu Clasele I-IV Colina,Str. Câmpiei nr. 2,Colina,45.0241,29.0334
+93,38,TULCEA,CASIMCEA,32,25,6,32,0,14,4,10,39,12,7,40,0,15,5,10,Școala Primară,Str. Principală nr. 6,Corugea,44.7357,28.3405
+110,38,TULCEA,CRIŞAN,46,4,65,28,0,26,10,20,52,4,66,27,0,27,11,16,Școala Gimnazială Crisan,Str. Principală nr. 141,Crișan,45.1741,29.3844
+115,38,TULCEA,DOROBANŢU,44,1,10,8,0,25,1,7,45,2,11,9,0,25,1,4,Școala Cîrjelari,Str. Teilor nr. 72,Cârjelari,44.9622,28.3392
+114,38,TULCEA,DOROBANŢU,157,1,27,17,2,30,3,21,161,0,32,15,2,31,3,14,Școala Gimnazială Dorobantu,Nr. 2,Dorobanțu,44.9601,28.2878
+158,38,TULCEA,MURIGHIOL,64,6,41,21,2,5,5,16,75,8,37,25,2,3,5,8,Școala cu Clasele I-IV Dunavățu de Jos,Str. Dunăreni nr. 44,Dunavățu de Jos,44.9915,29.2174
+159,38,TULCEA,MURIGHIOL,17,3,11,3,1,7,3,7,17,3,10,5,1,9,3,4,Școala cu Clasele I-IV Dunavățu de Sus,Str. Monumentului nr. 33,Dunavățu de Sus,45.013,29.2234
+113,38,TULCEA,DĂENI,225,5,153,19,2,28,9,34,233,4,158,14,3,28,9,28,Școala Gimnazială Dăeni,Str. Principală nr. 21,Dăeni,44.8498,28.1201
+176,38,TULCEA,SARICHIOI,170,8,49,24,1,10,4,20,168,8,50,21,2,10,4,21,Școala Primară Enisala,Nr. 186A,Enisala,44.8799,28.8185
+129,38,TULCEA,HORIA,60,0,21,6,0,4,6,11,64,0,19,2,0,5,5,8,Grădinița Floresti,Nr. 5,Florești,45.0717,28.4498
+117,38,TULCEA,FRECĂŢEI,172,5,44,23,2,20,15,32,165,9,36,28,3,26,11,23,Camin Cultural Frecatei,Str. Principală nr. 66,Frecăței,45.1078,28.6587
+109,38,TULCEA,CIUCUROVA,54,2,105,4,0,4,5,10,52,3,108,4,1,3,7,14,Școala Primară,Str. Ciucurovei nr. 113,Fântâna Mare,44.8615,28.4943
+194,38,TULCEA,TOPOLOG,107,2,23,6,0,4,1,8,101,5,24,4,1,4,1,9,Școala Generală,Str. Liliacului nr. 45,Făgărașu Nou,44.8575,28.2793
+137,38,TULCEA,JIJILA,125,16,51,15,0,21,13,30,124,18,55,15,0,18,11,27,Căminul Cultural,Str. Jijilei nr. 42,Garvăn,45.3409,28.17
+104,38,TULCEA,CERNA,40,1,6,1,1,3,1,3,35,1,6,1,1,4,1,3,Școala General Praporgescu,Str. Florilor nr. 8,General Praporgescu,45.0141,28.3716
+147,38,TULCEA,MALIUC,27,2,8,13,0,3,2,9,28,2,10,9,1,4,4,7,Școala Primară Gorgova,Str. Dunării nr. 67,Gorgova,45.1792,29.168
+121,38,TULCEA,GRECI,115,13,64,26,1,42,8,22,117,14,62,29,1,47,7,21,"Școala Gimnazială Greci, Corp A",Str. 1 Decembrie nr. 29,Greci,45.1865,28.234
+122,38,TULCEA,GRECI,139,26,63,20,0,40,13,45,133,18,68,22,1,61,15,33,"Școala Gimnazială Greci, Corp B",Str. 1 Decembrie nr. 18,Greci,45.1863,28.2333
+123,38,TULCEA,GRECI,107,15,48,15,1,28,5,16,114,11,43,15,1,37,5,13,"Școala Gimnazială Greci, Corp B",Str. 1 Decembrie nr. 18,Greci,45.1863,28.2333
+124,38,TULCEA,GRINDU,118,4,128,52,0,86,7,22,117,4,134,54,0,86,7,24,Centrul Social de Zi Pentru Persoane Defavorizate,Str. Principală nr. 50,Grindu,45.4061,28.2048
+125,38,TULCEA,HAMCEARCA,57,2,53,7,1,5,2,7,59,3,55,7,1,4,2,3,Școala,Nr. 24,Hamcearca,45.1135,28.3927
+130,38,TULCEA,HORIA,220,13,61,19,0,26,5,20,228,11,56,18,0,28,4,17,Grădinița Horia,Nr. 2,Horia,45.0278,28.4533
+131,38,TULCEA,I.C.BRĂTIANU,90,12,210,32,2,17,3,17,99,11,216,27,3,15,1,12,Căminul Cultural,I.C.BRĂTIANU,I.C.Brătianu,45.4086,28.05
+202,38,TULCEA,VALEA NUCARILOR,215,10,18,10,3,15,7,25,221,13,19,11,4,12,8,15,Căminul Cultural,Str. Culturii nr. 9,Iazurile,45.0228,28.9426
+60,38,TULCEA,ORAŞ ISACCEA,220,28,59,111,0,12,14,52,236,27,71,93,0,16,17,37,Sediul Administrativ al Primăriei Orașului Isaccea,Str. 1 Decembrie (Str. 30 Decembrie) nr. 25,Isaccea,45.2744,28.4586
+61,38,TULCEA,ORAŞ ISACCEA,152,22,67,100,2,11,4,28,169,22,70,87,0,14,5,22,Liceul Teoretic „Constantin Brătescu”,Str. 1 Decembrie (Str. 30 Decembrie) nr. 91,Isaccea,45.269,28.4642
+62,38,TULCEA,ORAŞ ISACCEA,208,15,67,116,1,14,6,26,224,17,73,108,1,15,7,17,Grădinița „Constantin Brătescu”,Str. Mihai Eminescu (Str. Mihail Eminescu) nr. 13A,Isaccea,45.2709,28.4602
+134,38,TULCEA,IZVOARELE,32,2,38,3,0,2,2,10,32,2,36,4,0,4,3,8,Școala Primară,Str. Victoriei nr. 14,Iulia,45.0149,28.5444
+132,38,TULCEA,IZVOARELE,123,4,251,11,1,36,7,58,131,8,274,15,0,46,7,26,Școala Gimnazială,Str. Școlii nr. 11,Izvoarele,45.0397,28.5346
+135,38,TULCEA,JIJILA,208,14,211,20,1,18,14,53,229,14,215,21,0,19,14,29,Căminul Cultural,Str. Principală nr. 75,Jijila,45.3038,28.1462
+136,38,TULCEA,JIJILA,255,20,148,15,2,18,9,40,266,22,140,19,4,18,11,28,Căminul Cultural,Str. Principală nr. 75,Jijila,45.3038,28.1462
+140,38,TULCEA,JURILOVCA,263,16,34,17,3,8,3,44,276,16,48,24,3,10,4,11,Școala Generală,Str. 6 Martie nr. 27,Jurilovca,44.7586,28.8743
+141,38,TULCEA,JURILOVCA,263,16,28,18,4,16,3,62,292,17,40,22,4,17,2,18,Grădinița de Copii,Str. 1 Mai nr. 5,Jurilovca,44.7583,28.8741
+86,38,TULCEA,C.A. ROSETTI,14,1,40,12,2,3,2,9,15,1,44,10,1,3,2,6,Școala Primară,Str. Școlii nr. 20,Letea,45.2852,29.5212
+195,38,TULCEA,TOPOLOG,88,0,18,1,1,2,1,4,90,0,15,3,1,2,1,5,Școala Generală,Str. Bujorului nr. 35,Luminița,44.8936,28.3277
+97,38,TULCEA,CEAMURLIA DE JOS,159,9,95,28,0,14,5,29,163,6,105,28,0,15,7,22,Școala Primară Lunca,Str. Principală nr. 35,Lunca,44.7336,28.7711
+142,38,TULCEA,LUNCAVIŢA,199,10,84,18,0,12,14,28,193,7,90,16,0,20,19,33,Liceul Tehnologic „Simion Leonescu”,Str. Drumul Teilor nr. 17B,Luncavița,45.2875,28.2816
+143,38,TULCEA,LUNCAVIŢA,136,12,78,14,0,5,11,31,136,12,78,11,0,5,13,29,Liceul Tehnologic „Simion Leonescu”,Str. Drumul Teilor nr. 17B,Luncavița,45.2875,28.2816
+153,38,TULCEA,MIHAIL KOGĂLNICEANU,81,4,18,8,0,4,3,10,78,6,18,8,0,4,3,11,Școala Primară Lăstuni,Str. Hagilar nr. 17,Lăstuni,45.0257,28.6947
+145,38,TULCEA,MAHMUDIA,221,16,40,20,1,54,11,75,258,21,46,13,2,50,14,38,Liceul Tehnologic „Vasile Bacalu”,Str. Geolog Vasile Bacalu nr. 21B,Mahmudia,45.0869,29.091
+146,38,TULCEA,MAHMUDIA,217,15,43,25,0,54,12,87,251,20,51,29,0,56,13,42,Liceul Tehnologic „Vasile Bacalu”,Str. Geolog Vasile Bacalu nr. 21B,Mahmudia,45.0869,29.091
+170,38,TULCEA,NUFĂRU,185,20,72,15,1,16,7,29,187,21,82,15,1,15,2,17,Centrul Cultural Administrativ Social,Nr. 152,Malcoci,45.1391,28.8878
+148,38,TULCEA,MALIUC,59,0,29,4,1,4,3,15,66,3,25,6,1,4,3,7,Școala Gimnazială Maliuc,Str. Fortuna nr. 2,Maliuc,45.1764,29.1105
+116,38,TULCEA,DOROBANŢU,45,1,7,4,0,5,3,7,50,0,6,3,0,5,3,5,Școala Meșteru,Str. Luminiței nr. 19,Meșteru,44.9277,28.2991
+151,38,TULCEA,MIHAI BRAVU,58,0,21,5,0,3,7,13,58,0,19,4,0,4,7,10,Școala cu Clasele I-VIII,Str. Principală nr. 73,Mihai Bravu,44.9528,28.6551
+155,38,TULCEA,MIHAIL KOGĂLNICEANU,366,14,117,25,1,13,17,47,382,15,109,23,3,16,19,37,Școala Gimnazială Mihail Kogălniceanu,Str. Mihai Eminescu nr. 77,Mihail Kogălniceanu,45.0358,28.733
+112,38,TULCEA,CRIŞAN,68,1,27,20,0,11,3,66,83,5,40,26,0,16,7,17,Școala Gimnazială Mila23,Str. Nufărului nr. 59 B,Mila 23,45.2288,29.2464
+188,38,TULCEA,STEJARU,96,2,15,4,1,1,9,15,98,2,16,5,1,1,9,11,Grădinița Mina Altîn Tepe,Aleea 5 nr. 1,Mina Altân Tepe,44.7885,28.5621
+184,38,TULCEA,SOMOVA,172,29,67,42,0,33,13,51,180,26,74,40,0,34,17,43,Școala cu Clasele I-IV,Str. Egretei nr. 2,Mineri,45.1671,28.7171
+101,38,TULCEA,CERNA,88,1,11,3,3,9,11,16,90,2,15,1,3,9,10,13,Școala Mircea Vodă,Str. Tulcei nr. 17,Mircea Vodă,45.0363,28.3527
+156,38,TULCEA,MURIGHIOL,141,16,114,30,0,20,17,57,148,18,122,37,0,22,20,32,Școala Gimnazială Murighiol,Str. Portului nr. 7,Murighiol,45.0364,29.1681
+64,38,TULCEA,ORAŞ MĂCIN,141,19,122,37,3,9,7,21,139,17,117,43,3,13,8,21,Școala Gimnazială „Gheorghe Banea”,Str. Florilor nr. 35,Măcin,45.2471,28.1343
+65,38,TULCEA,ORAŞ MĂCIN,150,16,123,52,1,18,5,25,145,18,128,50,1,22,6,22,Școala Gimnazială „Gheorghe Banea”,Str. Florilor nr. 35,Măcin,45.2471,28.1343
+66,38,TULCEA,ORAŞ MĂCIN,152,16,114,38,0,23,16,38,152,20,115,44,0,21,18,32,Grădinița nr. 3,Str. Vînători nr. 3,Măcin,45.2445,28.1371
+67,38,TULCEA,ORAŞ MĂCIN,167,32,141,34,2,13,7,58,183,39,140,41,5,15,7,27,Școala Gimnazială nr. 1,Str. Griviței nr. 11,Măcin,45.2438,28.1309
+68,38,TULCEA,ORAŞ MĂCIN,162,30,109,25,1,23,15,58,176,33,114,24,3,24,17,32,Școala Gimnazială nr. 1,Str. Griviței nr. 11,Măcin,45.2438,28.1309
+69,38,TULCEA,ORAŞ MĂCIN,128,6,94,33,1,16,14,36,129,6,92,42,2,20,13,27,Liceul Teoretic „Gheorghe Munteanu Murgoci”,Str. Cetății nr. 19,Măcin,45.2423,28.1346
+70,38,TULCEA,ORAŞ MĂCIN,81,13,44,42,0,12,7,18,80,14,45,45,1,9,8,11,Liceul Teoretic „Gheorghe Munteanu Murgoci”,Str. Cetății nr. 19,Măcin,45.2423,28.1346
+196,38,TULCEA,TOPOLOG,87,1,17,3,0,3,1,5,86,1,15,3,0,3,1,7,Școala Generală,Str. Colinelor nr. 15,Măgurele,44.9028,28.2328
+163,38,TULCEA,NALBANT,94,5,49,14,0,36,0,15,92,5,55,13,0,34,3,11,Școala cu Clasele I-VIII,Nr. 7,Nalbant,45.0489,28.617
+82,38,TULCEA,BEIDAUD,70,0,29,4,0,2,2,10,71,1,35,4,1,2,4,6,Caminul Cultural,Nr. 82,Neatârnarea,44.7458,28.505
+164,38,TULCEA,NALBANT,73,1,89,11,3,3,4,15,67,0,92,9,1,8,5,18,Școala cu Clasele I-VIII,Nr. 79,Nicolae Bălcescu,44.9945,28.5836
+165,38,TULCEA,NICULIŢEL,258,13,59,24,0,16,9,27,260,17,55,26,1,16,10,22,Școala Gimnazială „Nichifor Ludovig”,Str. Cocoșului nr. 22,Niculițel,45.1856,28.4759
+166,38,TULCEA,NICULIŢEL,224,10,33,16,1,12,9,21,222,10,37,18,1,17,11,20,Școala Gimnazială „Nichifor Ludovig”,Str. Isaccei nr. 99,Niculițel,45.183,28.4786
+167,38,TULCEA,NICULIŢEL,218,9,40,17,1,20,10,25,231,7,44,9,0,17,10,19,Grădinița de Copii,Str. Isaccei nr. 90,Niculițel,45.1816,28.4786
+127,38,TULCEA,HAMCEARCA,135,2,76,6,2,6,3,19,151,2,84,3,1,4,1,8,Școala,Nr. 186,Nifon,45.1544,28.3689
+169,38,TULCEA,NUFĂRU,174,5,71,7,4,11,6,35,181,7,72,13,3,8,4,21,Școala cu Clasele I-VIII,Nr. 245A,Nufăru,45.1506,28.9231
+171,38,TULCEA,OSTROV,512,6,50,15,1,34,6,23,514,7,55,15,1,33,4,18,Grădinița de Copii Ostrov,Str. Școlii nr. 8,Ostrov,44.9207,28.148
+79,38,TULCEA,BAIA,55,0,55,3,0,1,5,8,55,0,52,2,1,1,3,6,Școala Primară Panduru,Str. Republicii nr. 26,Panduru,44.6952,28.6397
+185,38,TULCEA,SOMOVA,90,5,38,10,1,17,3,17,95,6,42,9,1,18,3,7,Școala cu Clasele I-IV,Str. Dumbravei nr. 4,Parcheș,45.2134,28.5925
+172,38,TULCEA,PARDINA,108,5,30,5,0,25,5,12,111,6,31,5,0,24,6,8,Caminul Cultural,Str. Ghețăriei nr. 1,Pardina,45.305,28.9537
+149,38,TULCEA,MALIUC,87,3,18,14,1,5,3,10,90,3,20,12,2,5,2,9,Școala Gimnazială „Ioan Nenițescu” Partizani,Str. Dunării nr. 15,Partizani,45.1916,28.9396
+173,38,TULCEA,PECENEAGA,368,9,74,18,1,167,10,42,374,10,77,18,3,171,12,26,Căminul Cultural,Str. Principală nr. 46,Peceneaga,45.0071,28.1444
+87,38,TULCEA,C.A. ROSETTI,17,3,12,3,1,2,3,27,20,6,21,4,1,3,2,10,Școala Primară,Str. Dunării nr. 16,Periprava,45.4016,29.5443
+100,38,TULCEA,CEATALCHIOI,23,0,5,1,0,6,3,7,23,0,4,0,0,6,3,8,Școala Veche,Str. Plopilor nr. 9,Plauru,45.3309,28.8225
+160,38,TULCEA,MURIGHIOL,61,7,45,19,2,8,8,17,65,5,46,22,0,9,5,12,Școala cu Clasele I-IV Plopul,Str. Soarelui nr. 50,Plopul,45.0206,29.1228
+119,38,TULCEA,FRECĂŢEI,93,7,26,18,1,7,2,17,95,10,25,18,0,7,4,18,Camin Cultural Posta,Str. Principală nr. 83,Poșta,45.1158,28.6209
+98,38,TULCEA,CEATALCHIOI,64,1,7,9,0,7,0,8,71,2,8,8,0,5,0,4,Școala Veche,Str. Lebedei nr. 1,Pătlăgeanca,45.2284,28.7444
+144,38,TULCEA,LUNCAVIŢA,93,2,39,7,1,8,6,11,85,4,43,8,1,7,5,9,Școala Generală,Str. Tineretului nr. 16,Rachelu,45.2875,28.3185
+94,38,TULCEA,CASIMCEA,88,6,16,1,1,2,1,8,86,7,17,4,1,2,1,5,Școala Primară,Str. Principală nr. 28,Rahman,44.7991,28.2741
+63,38,TULCEA,ORAŞ ISACCEA,65,2,13,41,1,4,2,16,65,2,16,37,1,4,2,12,Grădinița cu Program Normal Revărsarea,Str. Victoriei nr. 81,Revărsarea,45.2765,28.3899
+154,38,TULCEA,MIHAIL KOGĂLNICEANU,79,4,9,10,1,6,6,19,84,3,9,8,1,5,6,16,Școala Primară Rîndunica,Str. Congaz nr. 34,Rândunica,45.0019,28.7507
+95,38,TULCEA,CASIMCEA,158,5,37,4,0,12,9,16,158,5,35,5,0,10,10,22,Școala Primară,Str. Principală nr. 25,Războieni,44.7637,28.4211
+174,38,TULCEA,SARICHIOI,83,2,22,7,1,7,3,18,88,2,27,6,3,7,5,11,Școala Primară Sabangia,Nr. 128,Sabangia,44.9742,28.882
+178,38,TULCEA,SARICHIOI,113,17,51,26,2,14,9,155,155,26,99,32,5,17,11,37,Școala Gimnazială Sarichioi,Nr. 681A,Sarichioi,44.9446,28.8547
+179,38,TULCEA,SARICHIOI,100,11,61,25,0,5,8,125,129,20,104,32,0,14,9,28,Școala Gimnazială Sarichioi,Nr. 681A,Sarichioi,44.9446,28.8547
+83,38,TULCEA,BEIDAUD,82,1,22,1,1,16,7,17,85,2,21,1,1,20,6,13,Caminul Cultural,,Sarighiol de Deal,44.7001,28.5115
+161,38,TULCEA,MURIGHIOL,78,0,31,5,2,10,7,24,74,6,34,5,1,9,6,14,Cămin Cultural Sarinasuf,Str. Nucilor nr. 14,Sarinasuf,45.0091,29.0621
+150,38,TULCEA,MIHAI BRAVU,145,10,48,7,2,7,1,8,148,11,47,7,3,6,1,7,Școala cu Clasele I-IV,Str. Unirii nr. 15,Satu Nou,44.9562,28.6803
+180,38,TULCEA,SFÎNTU GHEORGHE,140,7,71,13,0,12,6,16,137,5,69,14,1,13,11,17,Camin Cultural,Str. I nr. 35,Sfântu Gheorghe,44.8966,29.5914
+181,38,TULCEA,SLAVA CERCHEZĂ,94,1,20,5,0,10,6,114,157,4,43,7,0,19,10,18,Consiliul Local,Str. Principală nr. 224,Slava Cercheză,44.9013,28.5531
+182,38,TULCEA,SLAVA CERCHEZĂ,68,2,19,15,2,2,11,124,118,6,38,26,5,6,14,23,Școala Generală cu Clasele I-IV,Str. Școlii nr. 228,Slava Rusă,44.8507,28.6049
+183,38,TULCEA,SMÎRDAN,168,8,62,19,0,33,6,18,182,9,67,17,0,17,8,20,Școala Gimnazială „Maior Ioan Murgescu”,Str. Preot Ștefan Cârlan nr. 104,Smârdan,45.2848,28.0007
+186,38,TULCEA,SOMOVA,239,37,114,43,4,48,15,46,237,43,125,41,7,54,12,32,Școala „Traian Coșovei” cu Clasele I-VIII,Str. Galațiului nr. 70,Somova,45.1878,28.6635
+187,38,TULCEA,STEJARU,118,7,70,12,1,3,8,23,129,6,69,12,0,3,7,18,Căminul Cultural,Str. Principală nr. 7,Stejaru,44.7731,28.5464
+71,38,TULCEA,ORAŞ SULINA,188,15,46,27,1,17,10,47,198,15,47,32,1,15,19,34,Școala I- Iv - Incapere Expozitionala,Str. Costache Negri nr. 10,Sulina,45.1564,29.6509
+72,38,TULCEA,ORAŞ SULINA,35,3,13,17,0,5,2,14,38,3,17,18,0,3,2,8,"Liceul „Jean Bart”, Localitatea Sulina",Str. Independenței (Str. 30 Decembrie) nr. 127,Sulina,45.1558,29.6606
+73,38,TULCEA,ORAŞ SULINA,154,22,56,44,0,16,16,66,171,25,69,55,0,13,18,39,"Liceul „Jean Bart”, Localitatea Sulina",Str. a II-a (Str. Str. A 2-A) nr. 338,Sulina,45.1553,29.6609
+74,38,TULCEA,ORAŞ SULINA,185,15,47,23,1,33,14,85,214,21,55,26,1,30,17,42,Primăria Orașului Sulina,"Str. I (Str. Str. A 1-A C-dor Eugeniu Botez, Str. Str. 1) nr. 180",Sulina,45.1562,29.6544
+197,38,TULCEA,TOPOLOG,158,2,40,2,1,4,8,15,156,3,38,2,1,4,7,13,Școala Generală,Str. Izvorului nr. 15,Sâmbăta Nouă,44.8401,28.3997
+138,38,TULCEA,JURILOVCA,341,6,54,45,1,6,3,29,339,7,55,45,2,9,5,20,Căminul Cultural,Str. Principală nr. 48,Sălcioara,44.7995,28.8951
+120,38,TULCEA,FRECĂŢEI,88,8,17,6,4,13,7,18,95,9,20,2,4,11,7,12,Școala Primară Telita,Nr. 22,Telița,45.1548,28.5689
+190,38,TULCEA,TOPOLOG,205,4,74,20,0,17,7,16,208,4,63,19,1,20,6,14,Liceul Tehnologic Topolog Topolog,Str. 1 Decembrie nr. 19,Topolog,44.8752,28.377
+191,38,TULCEA,TOPOLOG,195,10,82,14,6,17,9,28,204,12,81,15,5,16,13,20,Liceul Tehnologic Topolog,Str. 1 Decembrie nr. 19,Topolog,44.8752,28.377
+103,38,TULCEA,CERNA,123,6,36,7,1,12,14,27,126,9,36,7,1,13,13,21,Școala Traian,Str. Școlii nr. 16,Traian,45.0292,28.2302
+162,38,TULCEA,NALBANT,30,0,45,3,1,30,3,7,34,0,46,2,1,32,2,5,Școala cu Clasele I-IV,Nr. 2,Trestenic,45.0775,28.5864
+1,38,TULCEA,MUNICIPIUL TULCEA,181,19,47,30,1,16,14,50,183,25,54,32,3,17,17,31,Grădinița cu Program Prelungit nr. 18,Aleea Mugurel nr. 4,Tulcea,45.1667,28.8052
+2,38,TULCEA,MUNICIPIUL TULCEA,171,31,54,14,2,30,18,83,185,33,68,17,2,32,18,51,Grădinița cu Program Prelungit nr. 18,Aleea Mugurel nr. 4,Tulcea,45.1667,28.8052
+3,38,TULCEA,MUNICIPIUL TULCEA,277,35,91,36,4,30,18,56,297,47,95,33,2,25,16,33,Școala Gimnazială „Ion Luca Caragiale”,Str. Ion Luca Caragiale nr. 20,Tulcea,45.1667,28.8012
+4,38,TULCEA,MUNICIPIUL TULCEA,327,45,80,51,1,29,28,105,334,53,94,48,1,38,30,67,Școala Gimnazială „Ion Luca Caragiale”,Str. Ion Luca Caragiale nr. 20,Tulcea,45.1667,28.8012
+5,38,TULCEA,MUNICIPIUL TULCEA,268,39,83,42,1,34,16,98,281,47,93,52,2,33,23,61,Școala Gimnazială „Ion Luca Caragiale”,Str. Ion Luca Caragiale nr. 20,Tulcea,45.1667,28.8012
+6,38,TULCEA,MUNICIPIUL TULCEA,270,40,77,47,4,30,20,90,288,48,79,51,2,27,25,58,Grădinița cu Program Prelungit nr. 13,Aleea Trifoiului nr. 5,Tulcea,45.1673,28.801
+7,38,TULCEA,MUNICIPIUL TULCEA,272,51,70,54,1,46,27,89,286,49,91,47,2,43,30,60,Liceul de Arte „George Georgescu”,Str. Slt. Gavrilov Corneliu (Str. Slt. Corneliu Gavrilov) nr. 166,Tulcea,45.1734,28.8047
+8,38,TULCEA,MUNICIPIUL TULCEA,195,47,68,33,0,33,12,62,215,47,81,34,0,29,14,31,Liceul de Arte „George Georgescu”,Str. Babadag nr. 138,Tulcea,45.1701,28.7967
+9,38,TULCEA,MUNICIPIUL TULCEA,207,69,65,37,0,25,17,61,202,72,82,36,1,29,17,39,Liceul de Arte „George Georgescu”,Str. Babadag nr. 138,Tulcea,45.1701,28.7967
+10,38,TULCEA,MUNICIPIUL TULCEA,171,42,59,38,0,29,19,84,197,47,77,37,0,25,18,39,Liceul de Arte „George Georgescu”,Str. Slt. Gavrilov Corneliu (Str. Slt. Corneliu Gavrilov) nr. 166,Tulcea,45.1734,28.8047
+11,38,TULCEA,MUNICIPIUL TULCEA,170,36,61,30,2,24,17,66,186,39,70,33,2,26,17,35,Liceul de Arte „George Georgescu”,Str. Slt. Gavrilov Corneliu (Str. Slt. Corneliu Gavrilov) nr. 166,Tulcea,45.1734,28.8047
+12,38,TULCEA,MUNICIPIUL TULCEA,331,79,111,76,1,29,29,109,353,92,122,69,1,33,27,69,Grădinița cu Program Prelungit nr. 12,Str. 24 Ianuarie nr. 2,Tulcea,45.1739,28.8062
+13,38,TULCEA,MUNICIPIUL TULCEA,273,51,72,30,2,29,24,80,283,62,77,33,2,19,26,57,Liceul Teoretic „Ion Creangă”,Str. Comerțului nr. 11C,Tulcea,45.1667,28.7953
+14,38,TULCEA,MUNICIPIUL TULCEA,203,35,67,24,1,32,15,62,213,44,63,19,6,32,20,43,Liceul Teoretic „Ion Creangă”,Str. Comerțului nr. 11C,Tulcea,45.1667,28.7953
+15,38,TULCEA,MUNICIPIUL TULCEA,208,64,106,41,0,35,24,91,235,72,123,43,2,32,22,34,Școala Gimnazială „Elena Doamna”,Str. Babadag nr. 136,Tulcea,45.1706,28.7973
+16,38,TULCEA,MUNICIPIUL TULCEA,151,52,62,35,1,27,15,44,166,60,68,35,1,25,13,24,Școala Gimnazială „Elena Doamna”,Str. Babadag nr. 136,Tulcea,45.1706,28.7973
+17,38,TULCEA,MUNICIPIUL TULCEA,212,38,73,49,1,22,14,69,229,41,89,44,0,23,13,31,Seminarul Teologic Ortodox „Sf. Ioan Casian”,Str. Toamnei nr. 10,Tulcea,45.1726,28.7968
+18,38,TULCEA,MUNICIPIUL TULCEA,143,25,58,26,0,26,18,76,167,32,64,33,0,23,22,34,Seminarul Teologic Ortodox „Sf. Ioan Casian”,Str. Toamnei nr. 10,Tulcea,45.1726,28.7968
+19,38,TULCEA,MUNICIPIUL TULCEA,339,95,113,83,2,31,28,154,381,111,138,81,1,30,38,74,Teatrul „Jean Bart”,Str. Progresului nr. 34,Tulcea,45.1766,28.8011
+20,38,TULCEA,MUNICIPIUL TULCEA,227,33,83,36,1,22,17,80,240,35,99,34,1,18,24,50,Școala Gimnazială „Grigore Antipa”,Str. Victoriei nr. 64,Tulcea,45.1778,28.795
+21,38,TULCEA,MUNICIPIUL TULCEA,182,40,89,54,1,36,18,68,201,45,97,54,3,36,16,37,Școala Gimnazială „Grigore Antipa”,Str. Victoriei nr. 64,Tulcea,45.1778,28.795
+22,38,TULCEA,MUNICIPIUL TULCEA,294,84,106,54,0,39,15,112,317,95,127,49,2,41,24,51,Grădinița cu Program Prelungit „Drumbava Minunată”,Str. Libertății nr. 76,Tulcea,45.1728,28.7906
+23,38,TULCEA,MUNICIPIUL TULCEA,256,39,77,45,0,26,19,85,272,46,82,38,1,28,26,55,Școala Gimnazială „Alexandru Ciucurencu”,Str. Victoriei nr. 101,Tulcea,45.1788,28.788
+24,38,TULCEA,MUNICIPIUL TULCEA,282,53,90,50,1,38,29,118,311,68,95,52,1,44,31,57,Școala Gimnazială „Alexandru Ciucurencu”,Str. Victoriei nr. 101,Tulcea,45.1788,28.788
+25,38,TULCEA,MUNICIPIUL TULCEA,284,63,90,52,3,47,28,98,287,65,109,49,3,44,40,75,Școala Gimnazială „Constantin Găvenea”,Str. 1848 (Str. 11 Iunie 1848) nr. 29,Tulcea,45.1677,28.7871
+26,38,TULCEA,MUNICIPIUL TULCEA,197,53,66,38,0,35,14,74,213,58,70,41,3,28,16,48,Școala Gimnazială „Constantin Găvenea”,Str. 1848 (Str. 11 Iunie 1848) nr. 29,Tulcea,45.1677,28.7871
+27,38,TULCEA,MUNICIPIUL TULCEA,271,57,92,50,1,40,21,104,282,78,104,48,3,44,25,59,Școala Gimnazială „Constantin Găvenea”,Str. 1848 (Str. 11 Iunie 1848) nr. 29,Tulcea,45.1677,28.7871
+28,38,TULCEA,MUNICIPIUL TULCEA,295,72,110,40,0,51,16,86,313,83,130,41,0,37,20,46,Punct de Încasare Taxe și Impozite Locale,Aleea Socului (Str. Socului) nr. 2,Tulcea,45.1703,28.787
+29,38,TULCEA,MUNICIPIUL TULCEA,297,67,123,55,1,22,24,99,311,66,135,60,1,27,28,59,Liceul Teoretic „Grigore Moisil”,Str. 1848 (Str. 11 Iunie 1848) nr. 7,Tulcea,45.1765,28.7863
+30,38,TULCEA,MUNICIPIUL TULCEA,252,49,71,32,3,48,11,82,261,54,85,30,3,46,10,54,Liceul Teoretic „Grigore Moisil”,Str. 1848 (Str. 11 Iunie 1848) nr. 7,Tulcea,45.1765,28.7863
+31,38,TULCEA,MUNICIPIUL TULCEA,231,42,75,41,1,23,15,59,238,50,88,38,1,25,15,33,Școala Gimnazială nr. 12,Str. 1848 (Str. 11 Iunie 1848) nr. 5A,Tulcea,45.1776,28.7871
+32,38,TULCEA,MUNICIPIUL TULCEA,217,28,61,34,0,27,16,59,214,35,67,37,0,29,17,46,Școala Gimnazială nr. 12,Str. 1848 (Str. 11 Iunie 1848) nr. 5A,Tulcea,45.1776,28.7871
+33,38,TULCEA,MUNICIPIUL TULCEA,273,53,71,60,0,33,13,63,293,51,83,58,0,26,16,40,Sala de Sport Multifuncțională,Str. Isaccei (Str. Isaccea) nr. 20A,Tulcea,45.1799,28.7837
+34,38,TULCEA,MUNICIPIUL TULCEA,302,42,87,65,0,38,23,74,319,52,89,65,0,37,22,43,Grădinița cu Program Prelungit nr. 17,Aleea Stejarului nr. 12,Tulcea,45.1788,28.7794
+35,38,TULCEA,MUNICIPIUL TULCEA,192,28,83,23,1,28,20,76,199,34,87,33,0,27,26,52,Grădinița cu Program Prelungit nr. 17,Aleea Stejarului nr. 12,Tulcea,45.1788,28.7794
+36,38,TULCEA,MUNICIPIUL TULCEA,258,38,96,34,2,28,27,75,279,45,98,34,2,29,25,47,Colegiul Tehnic „Henr. Coandă”,Str. Tineretului nr. 2,Tulcea,45.181,28.7788
+37,38,TULCEA,MUNICIPIUL TULCEA,268,61,89,48,1,27,17,99,292,70,103,44,4,32,20,48,Biblioteca Județeană,Str. Isaccei (Str. Isaccea) nr. 20,Tulcea,45.1798,28.7944
+38,38,TULCEA,MUNICIPIUL TULCEA,139,30,54,33,1,23,10,60,154,36,55,34,2,21,12,37,Colegiul Economic „Delta Dunării”,Str. Viitorului nr. 32,Tulcea,45.1862,28.7775
+39,38,TULCEA,MUNICIPIUL TULCEA,119,22,66,20,1,14,18,53,121,25,67,22,2,18,19,39,Colegiul Economic „Delta Dunării”,Str. Viitorului nr. 32,Tulcea,45.1862,28.7775
+40,38,TULCEA,MUNICIPIUL TULCEA,169,57,59,42,1,15,7,60,178,62,63,48,1,19,7,36,S.C. Transport Public S.A.,Str. Prelungirea Taberei (Aleea Prelungirea Taberei) nr. 7,Tulcea,45.1759,28.7739
+41,38,TULCEA,MUNICIPIUL TULCEA,140,16,52,23,1,26,9,45,140,16,62,23,1,22,10,37,Colegiul „Anghel Saligny”,Str. Viitorului nr. 22,Tulcea,45.189,28.7785
+42,38,TULCEA,MUNICIPIUL TULCEA,267,61,103,65,2,38,21,94,279,71,115,65,0,35,33,67,Casa de Cultură,Piața Independenței nr. 1,Tulcea,45.1799,28.7957
+43,38,TULCEA,MUNICIPIUL TULCEA,79,21,47,25,1,8,6,38,91,20,53,24,0,7,9,26,Casa de Cultură,Piața Independenței nr. 1,Tulcea,45.1799,28.7957
+44,38,TULCEA,MUNICIPIUL TULCEA,240,45,102,56,5,26,18,145,288,53,115,62,4,28,20,70,Colegiul Dobrogean „Spiru Haret”,Str. 14 Noiembrie nr. 24,Tulcea,45.1807,28.8064
+45,38,TULCEA,MUNICIPIUL TULCEA,172,34,46,26,2,19,13,94,195,40,57,29,2,21,17,45,Școala Gimnazială „Nifon Bălășescu”,Str. Nicolae Bălcescu nr. 43,Tulcea,45.1777,28.8094
+46,38,TULCEA,MUNICIPIUL TULCEA,250,38,92,38,4,29,19,126,266,53,127,39,6,29,22,57,Școala Gimnazială „Nifon Bălășescu”,Str. Nicolae Bălcescu nr. 43,Tulcea,45.1777,28.8094
+47,38,TULCEA,MUNICIPIUL TULCEA,271,45,76,33,0,31,13,78,286,51,85,37,1,31,18,42,Școala Gimnazială „Nifon Bălășescu”,Str. Nicolae Bălcescu nr. 43,Tulcea,45.1777,28.8094
+48,38,TULCEA,MUNICIPIUL TULCEA,199,21,52,22,2,19,15,52,213,25,61,23,1,13,15,29,Școala Profesională „Danubius”,Str. Avram Iancu (Str. Horei) nr. 61A,Tulcea,45.1743,28.8108
+49,38,TULCEA,MUNICIPIUL TULCEA,158,23,45,25,3,22,9,54,161,30,57,24,3,23,11,41,Școala Profesională „Danubius”,Str. Avram Iancu (Str. Horei) nr. 61A,Tulcea,45.1743,28.8108
+50,38,TULCEA,MUNICIPIUL TULCEA,187,41,61,30,1,15,19,79,199,45,70,26,3,14,19,53,Școala Primară nr. 9,Str. Mahmudiei nr. 123,Tulcea,45.1687,28.8143
+51,38,TULCEA,MUNICIPIUL TULCEA,210,19,68,23,2,32,6,53,216,22,70,31,3,29,10,31,Școala Primară nr. 9,Str. Mahmudiei nr. 123,Tulcea,45.1687,28.8143
+52,38,TULCEA,MUNICIPIUL TULCEA,217,35,67,35,4,26,21,73,216,34,73,37,6,28,23,53,Școala Gimnazială „Ioan Nenițescu”,Str. Miron Costin (Pasajul Miron Costin) nr. 57,Tulcea,45.1671,28.8071
+53,38,TULCEA,MUNICIPIUL TULCEA,225,55,54,32,4,18,20,77,253,62,65,23,3,18,27,41,Școala Gimnazială „Ioan Nenițescu”,Str. Miron Costin (Pasajul Miron Costin) (D) nr. 57,Tulcea,45.1671,28.8071
+198,38,TULCEA,TURCOAIA,342,7,77,18,2,16,22,38,336,5,77,20,2,17,24,42,Camin Cultural,Str. Troesmis nr. 121,Turcoaia,45.1114,28.1879
+199,38,TULCEA,TURCOAIA,272,9,49,11,0,16,24,49,274,9,47,15,0,15,23,42,Școala Gimnazială Turcoaia,Str. 1 Decembrie nr. 50,Turcoaia,45.1106,28.1903
+152,38,TULCEA,MIHAI BRAVU,229,9,25,22,0,13,13,32,232,13,23,22,0,17,14,23,Căminul Cultural,Str. Morii nr. 101,Turda,44.9732,28.6249
+200,38,TULCEA,VALEA NUCARILOR,248,9,28,19,1,28,8,25,254,13,27,19,2,34,7,19,Căminul Cultural,Str. I.G. Duca nr. 22,Valea Nucarilor,45.041,28.9359
+203,38,TULCEA,VALEA TEILOR,145,6,38,111,2,15,8,70,171,9,49,145,2,18,6,16,Școala Gimnazială „Mihai Eminescu” Valea Teilor,Str. Mihai Viteazu nr. 17,Valea Teilor,45.1147,28.4851
+189,38,TULCEA,STEJARU,151,0,19,14,2,4,3,12,151,0,21,16,2,2,3,9,Sediul Fostei Școli,Str. Principală nr. 52,Vasile Alecsandri,44.7952,28.5049
+168,38,TULCEA,NUFĂRU,33,3,27,4,1,7,1,9,35,3,30,4,1,7,2,5,Școala cu Clasele I-IV,Nr. 79,Victoria,45.1291,28.9681
+175,38,TULCEA,SARICHIOI,73,1,22,8,1,5,3,12,77,2,23,8,1,5,2,7,Școala Primară Visterna,Nr. 39,Visterna,44.8612,28.7704
+139,38,TULCEA,JURILOVCA,184,5,23,13,1,3,3,23,191,5,26,12,4,6,3,13,Căminul Cultural,Str. Victoriei nr. 32,Vișina,44.7564,28.8418
+204,38,TULCEA,VĂCĂRENI,299,23,180,26,2,19,10,38,294,25,177,24,2,24,12,33,Căminul Cultural,Str. Principală nr. 134,Văcăreni,45.3297,28.1929
+177,38,TULCEA,SARICHIOI,215,4,56,16,3,12,9,33,216,7,59,13,3,11,15,28,Școala Gimnazială Zebil,Nr. 125,Zebil,44.944,28.77
