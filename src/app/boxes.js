@@ -125,7 +125,7 @@ export const drawCityResults = (points, city) => {
     getResultsBoxSelection(
       points,
       `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${city}</span>`,
-      `${helpers.getCurrentUrl()}?judet=${county.toLowerCase()}&loc=${city.toLowerCase()}`
+      `${helpers.getCurrentUrl()}?judet=${counties[county.toUpperCase()].shortname.toLowerCase()}&loc=${city.toLowerCase()}`
     ),
     false
   );
@@ -138,7 +138,7 @@ export const drawCountyResults = (points, county) => {
     getResultsBoxSelection(
       points,
       `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${titleCounty}</span>`,
-      `${helpers.getCurrentUrl()}?judet=${county.toLowerCase()}`
+      `${helpers.getCurrentUrl()}?judet=${counties[county.toUpperCase()].shortname.toLowerCase()}`
     ),
     false
   );
