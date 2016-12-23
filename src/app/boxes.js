@@ -1,6 +1,7 @@
 import d3 from 'd3';
 import Chart from 'chart.js';
 import { mergePointsByCriterion, getPointsByCriterion, generatePie, getPointsByCity, calculatePointsVotes, toTitleCase, counties, partyColors, parties, votesToD3Hierarchy, getPointsByAddress, getCoord } from './helpers';
+import * as helpers from './helpers';
 import { reduce, maxBy } from 'lodash';
 
 const sum = (d) => Object.keys(d).reduce((total, party) => (total + parseInt(d[party])), 0);
@@ -9,12 +10,24 @@ export const clearResults = () => {
   d3.select('.results-container').remove();
 }
 
-export const getResultsBoxSelection = (data, title = 0) => {
+export const getResultsBoxSelection = (data, title = 0, copyLink = false) => {
   clearResults();
 
   let resultsBoxSelection = d3.select('.results-box')
     .append('div')
-    .attr('class', 'results-container pa3');
+    .attr('class', 'relative results-container pa3');
+
+  if (copyLink) {
+    resultsBoxSelection
+      .append('div')
+        .attr('class', 'absolute right-0 top-0')
+        .append('button')
+          .attr('class', 'ba pa2 pointer pb1 bg-white hover-bg-light-gray dark-gray b--light-gray copy-link')
+          .attr('data-clipboard-text', copyLink)
+          .append('span')
+            .attr('class', 'icon-clippy v-mid');
+
+  }
 
   if (title) {
     resultsBoxSelection
@@ -107,8 +120,13 @@ export const drawPointResults = points => {
 
 export const drawCityResults = (points, city) => {
   points = getPointsByCriterion(points.filter(p => p.city == city), ['city']);
+  const county = points[0].points[0].county;
   drawResults(
-    getResultsBoxSelection(points, `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${city}</span>`),
+    getResultsBoxSelection(
+      points,
+      `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${city}</span>`,
+      `${helpers.getCurrentUrl()}?judet=${county.toLowerCase()}&loc=${city.toLowerCase()}`
+    ),
     false
   );
 }
@@ -117,7 +135,11 @@ export const drawCountyResults = (points, county) => {
   points = getPointsByCriterion(points.filter(p => p.county.toUpperCase() == county.toUpperCase()));
   county = (county != 'București' ? 'județul ' : '') + county;
   drawResults(
-    getResultsBoxSelection(points, `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${county}</span>`),
+    getResultsBoxSelection(
+      points,
+      `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${county}</span>`,
+      `${helpers.getCurrentUrl()}?judet=${county.toLowerCase()}`
+    ),
     false
   );
 }

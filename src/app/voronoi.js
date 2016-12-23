@@ -23,6 +23,7 @@ const getCountyPoints = (county) => {
           id: point.id,
           name: point.name,
           address: point.address,
+          county: point.circumscriptie,
           city: point.city,
           lat: point.lat,
           lng: point.lng,
@@ -68,6 +69,12 @@ const getCountyPoints = (county) => {
   }); // Promise
 };
 
+const setViewToCity = (city, points, map) => {
+  const coord = find(points, { city: city });
+  map.setView([coord.lat, coord.lng], 14)
+  Boxes.drawCityResults(points, city);
+}
+
 const appendToCitiesSelect = (cities, county, points, map) => {
   Boxes.drawCities(cities, county);
 
@@ -80,12 +87,6 @@ const appendToCitiesSelect = (cities, county, points, map) => {
   }).data('select2').$container.addClass('mt2');
 
   map.on('click moveend', () => { $citiesSelect.select2('close') });
-
-  const setViewToCity = (city, points, map) => {
-    const coord = find(points, {city: city});
-    map.setView([coord.lat, coord.lng], 14)
-    Boxes.drawCityResults(points, city);
-  }
 
   $citiesSelect.on('select2:select', (e) => {
     setViewToCity(e.params.data.id, points, map);
@@ -141,15 +142,19 @@ const drawCountiesSelect = (map, selectedCallback) => {
   $countiesSelect.val('').trigger('change');
 
   // When a new county is selected
-  $countiesSelect.on('select2:select', (e) => {
+  $countiesSelect.on('select2:select', (e, county) => {
+    if (typeof e.params != 'undefined') {
+      county = e.params.data.id;
+    }
+
     // TODO, maybe move after load
-    $countiesSelect.find(`option[value=${e.params.data.id}]`).prop('disabled', true);
-    $countiesSelect.find(`option[value=${e.params.data.id}]`).text((i, t) => `${t} (Încărcat)`);
+    $countiesSelect.find(`option[value=${county}]`).prop('disabled', true);
+    $countiesSelect.find(`option[value=${county}]`).text((i, t) => `${t} (Încărcat)`);
     $countiesSelect.select2(selectOptions);
     $countiesSelect.val('').trigger('change');
 
     selectedCallback({
-      selectedCounty: e.params.data.id,
+      selectedCounty: county,
       container: $(e.target).closest('.box'),
       element: $countiesSelect
     });
@@ -157,16 +162,10 @@ const drawCountiesSelect = (map, selectedCallback) => {
 }
 
 const focusOnCounty = (county, points, map, move = true) => {
-  helpers.doFetch(
-    `https://api.mapbox.com/geocoding/v5/mapbox.places/${county.toLowerCase()}.json?country=ro&access_token=${process.env['MAPBOX_ACCESS_TOKEN']}`
-  )
-  .then(response => response.json())
-  .then(json => {
-    if (move) {
-      map.setView(json.features[0].center.reverse(), 10);
-    }
-    Boxes.drawCountyResults(points, county);
-  }).catch(e => console.log('Getting the county coords did not work', e));
+  if (move) {
+    map.setView(helpers.counties[county.toUpperCase()].center.reverse(), 10);
+  }
+  Boxes.drawCountyResults(points, county);
 }
 
 // Draws a Voronoi map
@@ -292,6 +291,30 @@ const drawWithLoader = (map, points, visibleCities) => {
   }, 0);
 }
 
+const selectDefault = () => {
+  // Show results for county
+  let urlCounty = find(
+    Object.keys(helpers.counties),
+    c => helpers.counties[c].shortname == helpers.findGetParameter('judet').toUpperCase()
+  );
+  if (!urlCounty)
+    return;
+  urlCounty = helpers.toTitleCase(urlCounty);
+  let $countiesSelect = $('select.counties');
+  $countiesSelect.one('select2:select', () => {
+    let $citiesSelect = $('.cities'),
+      city = helpers.findGetParameter('loc');
+      $citiesSelect.one('select2:cities:appended', (e, cities, setViewToCity) => {
+        const urlCity = find(cities, c => c.city.toUpperCase() == city.toUpperCase());
+        if (typeof urlCity == 'undefined')
+          return;
+
+        setViewToCity(urlCity.city);
+        $citiesSelect.val(urlCity.city).trigger('change');
+      });
+  });
+  $countiesSelect.val(urlCounty).trigger('select2:select', [urlCounty]);
+}
 
 // In prima faza dupa numarul de sectii, apoi dupa numarul de voturi
 // Marimea la bile zoom out si in sa fie ok
@@ -301,48 +324,56 @@ export default function (map, url) {
 
   map.on('ready', () => {
     let points = [];
-    drawCountiesSelect(map, ({ selectedCounty, container: $container, element: $counties }) => {
+      drawCountiesSelect(map, ({ selectedCounty, container: $container, element: $counties }) => {
         /*
-         * When a certain county is selected, get the list of points
-         * from this county.
-         */
+        * When a certain county is selected, get the list of points
+        * from this county.
+        */
         getCountyPoints(selectedCounty)
-          // When the list of points is complete...
-          .then(pointData => {
-            // 1. Draw the cities select
-            let { points: newPoints, cities } = pointData;
-            points = [...newPoints, ...points];
-            let $cities = appendToCitiesSelect(
-              cities,
-              selectedCounty,
-              points,
-              map
-            );
+        // When the list of points is complete...
+        .then(pointData => {
+          // 1. Draw the cities select
+          let { points: newPoints, cities } = pointData;
+          points = [...newPoints, ...points];
+          let $cities = appendToCitiesSelect(
+            cities,
+            selectedCounty,
+            points,
+            map
+          );
 
-            // 3. Append a new navigation link
-            let $link = $(`<a href="#" class="black pv1 bl bb b--white ph2 bg-light-gray hover-bg-gray hover-light-gray dib">${selectedCounty}</a>`)
-              .click(e => {
-                e.preventDefault();
-                //Boxes.drawCountyResults(points, $(e.target).text());
-                focusOnCounty($(e.target).text(), points, map, false);
-              });
-              $('.results-navigator-box')
-                .find('.results-nav')
-                .removeClass('dn')
-                .find('.counties-nav .nav')
-                .append($link);
-
-              $('.results-navigator-box')
-                .find('.cities-select-container')
-                .addClass('bounceIn animated');
-
-            // 4. Zoom to the county on the map, and draw the county results
-            focusOnCounty(selectedCounty, newPoints, map);
-
-            map.on('viewreset moveend', () => {
-              drawWithLoader(map, points, $cities.val());
-            }).fire('viewreset');
+          // 3. Append a new navigation link
+          let $link = $(`<a href="#" class="black pv1 bl bb b--white ph2 bg-light-gray hover-bg-gray hover-light-gray dib">${selectedCounty}</a>`)
+          .click(e => {
+            e.preventDefault();
+            //Boxes.drawCountyResults(points, $(e.target).text());
+            focusOnCounty($(e.target).text(), points, map, false);
           });
+          $('.results-navigator-box')
+            .find('.results-nav')
+            .removeClass('dn')
+              .find('.counties-nav .nav')
+              .append($link);
+
+          $('.results-navigator-box')
+            .find('.cities-select-container')
+            .addClass('bounceIn animated');
+
+          // 4. Zoom to the county on the map, and draw the county results
+          focusOnCounty(selectedCounty, newPoints, map);
+
+          //map.off('viewreset move');
+          map.on('viewreset moveend', (e) => {
+            drawWithLoader(map, points, $cities.val());
+          });//.fire('viewreset');
+          drawWithLoader(map, points, $cities.val());
+
+          $cities.trigger(
+            'select2:cities:appended',
+            [cities, (city) => setViewToCity(city, points, map)]
+          );
+        });
+      });
+      selectDefault();
     });
-  });
 }

@@ -2,6 +2,13 @@ body {
   font-family: Source Sans Pro, sans-serif;
 }
 
+.copy-link:focus {
+  outline: 0 !important;
+}
+.copy-link:active {
+  background-color: #dadada;
+}
+
 .info-content .polling-station:last-child {
   border-bottom: 0;
   margin-bottom: 0;
