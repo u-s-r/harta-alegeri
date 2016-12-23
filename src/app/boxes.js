@@ -82,6 +82,8 @@ export const drawResults = (containerSelection, summary = true) => {
     generatePie('chart-senat', 'Senat', senatContent);
   });
 
+  $('.results-container').find('.copy-link').addClass('wobble animated');
+
   if (!summary)
     return;
 
