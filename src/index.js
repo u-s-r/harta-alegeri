@@ -3,12 +3,13 @@ import { Promise } from 'es6-promise';
 import voronoi from './app/voronoi';
 import Clipboard from 'clipboard';
 
-L.mapbox.accessToken = process.env['MAPBOX_ACCESS_TOKEN'];
+L.mapbox.accessToken = 'pk.eyJ1IjoiYzEwYjEwIiwiYSI6ImNpdzk3bWpiZTAwMjQydG54Y245OGxwc2UifQ.g9R9xXjkYZ3abVp6vnbnpg';
+
 
 var map = L.mapbox.map('map', 'zetter.i73ka9hn')
 .setView([45.9432, 24.9668], 8);
 
-voronoi(map, process.env['CSV_PATH']);
+voronoi(map);
 
 
 const copyButton = new Clipboard('.copy-link');

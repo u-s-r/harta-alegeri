@@ -141,6 +141,8 @@ const drawCountiesSelect = (map, selectedCallback) => {
 
   $countiesSelect.val('').trigger('change');
 
+  $('.counties-select-container').addClass('bounceIn animated');
+
   // When a new county is selected
   $countiesSelect.on('select2:select', (e, county) => {
     if (typeof e.params != 'undefined') {
@@ -326,56 +328,58 @@ export default function (map, url) {
 
   map.on('ready', () => {
     let points = [];
-      drawCountiesSelect(map, ({ selectedCounty, container: $container, element: $counties }) => {
-        /*
-        * When a certain county is selected, get the list of points
-        * from this county.
-        */
-        getCountyPoints(selectedCounty)
-        // When the list of points is complete...
-        .then(pointData => {
-          // 1. Draw the cities select
-          let { points: newPoints, cities } = pointData;
-          points = [...newPoints, ...points];
-          let $cities = appendToCitiesSelect(
-            cities,
-            selectedCounty,
-            points,
-            map
-          );
 
-          // 3. Append a new navigation link
-          let $link = $(`<a href="#" class="black pv1 bl bb b--white ph2 bg-light-gray hover-bg-gray hover-light-gray dib">${selectedCounty}</a>`)
-          .click(e => {
-            e.preventDefault();
-            //Boxes.drawCountyResults(points, $(e.target).text());
-            focusOnCounty($(e.target).text(), points, map, false);
-          });
-          $('.results-navigator-box')
-            .find('.results-nav')
-            .removeClass('dn')
-              .find('.counties-nav .nav')
-              .append($link);
+    drawCountiesSelect(map, ({ selectedCounty, container: $container, element: $counties }) => {
+      /*
+      * When a certain county is selected, get the list of points
+      * from this county.
+      */
+      getCountyPoints(selectedCounty)
+      // When the list of points is complete...
+      .then(pointData => {
+        // 1. Draw the cities select
+        let { points: newPoints, cities } = pointData;
+        points = [...newPoints, ...points];
+        let $cities = appendToCitiesSelect(
+          cities,
+          selectedCounty,
+          points,
+          map
+        );
 
-          $('.results-navigator-box')
-            .find('.cities-select-container')
-            .addClass('bounceIn animated');
-
-          // 4. Zoom to the county on the map, and draw the county results
-          focusOnCounty(selectedCounty, newPoints, map);
-
-          //map.off('viewreset move');
-          map.on('viewreset moveend', (e) => {
-            drawWithLoader(map, points, $cities.val());
-          });//.fire('viewreset');
-          drawWithLoader(map, points, $cities.val());
-
-          $cities.trigger(
-            'select2:cities:appended',
-            [cities, (city) => setViewToCity(city, points, map)]
-          );
+        // 3. Append a new navigation link
+        let $link = $(`<a href="#" class="black pv1 bl bb b--white ph2 bg-light-gray hover-bg-gray hover-light-gray dib">${selectedCounty}</a>`)
+        .click(e => {
+          e.preventDefault();
+          //Boxes.drawCountyResults(points, $(e.target).text());
+          focusOnCounty($(e.target).text(), points, map, false);
         });
+        $('.results-navigator-box')
+          .find('.results-nav')
+          .removeClass('dn')
+            .find('.counties-nav .nav')
+            .append($link);
+
+        $('.results-navigator-box')
+          .find('.cities-select-container')
+          .addClass('bounceIn animated');
+
+        // 4. Zoom to the county on the map, and draw the county results
+        focusOnCounty(selectedCounty, newPoints, map);
+
+        //map.off('viewreset move');
+        map.on('viewreset moveend', (e) => {
+          drawWithLoader(map, points, $cities.val());
+          console.log('happened');
+        });//.fire('viewreset');
+
+        $cities.trigger(
+          'select2:cities:appended',
+          [cities, (city) => setViewToCity(city, points, map)]
+        );
+        drawWithLoader(map, points, $cities.val());
       });
-      selectDefault();
     });
+    selectDefault();
+  });
 }
