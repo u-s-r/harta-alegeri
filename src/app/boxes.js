@@ -133,11 +133,11 @@ export const drawCityResults = (points, city) => {
 
 export const drawCountyResults = (points, county) => {
   points = getPointsByCriterion(points.filter(p => p.county.toUpperCase() == county.toUpperCase()));
-  county = (county != 'București' ? 'județul ' : '') + county;
+  const titleCounty = (county != 'București' ? 'județul ' : '') + county;
   drawResults(
     getResultsBoxSelection(
       points,
-      `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${county}</span>`,
+      `Rezultatele pentru <span class="f4 br1 ph1 white bg-dark-gray">${titleCounty}</span>`,
       `${helpers.getCurrentUrl()}?judet=${county.toLowerCase()}`
     ),
     false
