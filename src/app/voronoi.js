@@ -141,7 +141,9 @@ const drawCountiesSelect = (map, selectedCallback) => {
 
   $countiesSelect.val('').trigger('change');
 
-  $('.counties-select-container').addClass('bounceIn animated');
+  if (!helpers.findGetParameter('judet')) {
+    $('.counties-select-container').addClass('bounceIn animated');
+  }
 
   // When a new county is selected
   $countiesSelect.on('select2:select', (e, county) => {
