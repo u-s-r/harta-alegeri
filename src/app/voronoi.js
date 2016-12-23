@@ -293,9 +293,11 @@ const drawWithLoader = (map, points, visibleCities) => {
 
 const selectDefault = () => {
   // Show results for county
-  let urlCounty = find(
+  let urlCounty = helpers.findGetParameter('judet');
+  if (!urlCounty) { return; }
+  urlCounty = find(
     Object.keys(helpers.counties),
-    c => helpers.counties[c].shortname == helpers.findGetParameter('judet').toUpperCase()
+    c => helpers.counties[c].shortname == urlCounty.toUpperCase()
   );
   if (!urlCounty)
     return;
